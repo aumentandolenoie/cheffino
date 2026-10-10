@@ -54,6 +54,9 @@ def text_field(el, name):
 def discover_urls(fetcher=fetch_xml, max_sitemaps=12):
     queue = list(SITEMAPS)
     visited = set()
+    xml_success = 0
+    url_entries = 0
+    rejected = 0
     found = {}  # url -> lastmod (if available)
     while queue and len(visited) < max_sitemaps and len(found) < MAX_DISCOVERED_URLS:
         url = queue.pop(0)
@@ -64,18 +67,27 @@ def discover_urls(fetcher=fetch_xml, max_sitemaps=12):
         except Exception as exc:
             print(f'Sitemap non disponibile {url}: {exc}')
             continue
-        if root.tag.rsplit('}', 1)[-1] == 'sitemapindex':
+        xml_success += 1
+        root_type = root.tag.rsplit('}', 1)[-1]
+        print(f'Sitemap letta: {url} (tipo: {root_type})', flush=True)
+        if root_type == 'sitemapindex':
             for e in xml_items(root, 'sitemap'):
                 loc = text_field(e, 'loc')
                 if loc.startswith(BASE + '/sitemap/') and loc not in visited:
                     queue.append(loc)
         else:
             for e in xml_items(root, 'url'):
+                url_entries += 1
                 loc = text_field(e, 'loc').split('#')[0]
                 if (loc.startswith(BASE + '/') and
                         urlparse(loc).path.endswith('.html') and '?' not in loc):
                     found[loc] = max(found.get(loc, ''), text_field(e, 'lastmod'))
                     if len(found) >= MAX_DISCOVERED_URLS: break
+                else:
+                    rejected += 1
+    print(f'Diagnostica sitemap: lette={xml_success}, voci_url={url_entries}, ricette_valide={len(found)}, scartate_per_formato={rejected}', flush=True)
+    if not found:
+        raise RuntimeError('Nessun URL di ricetta trovato nelle sitemap. Verificare righe Sitemap non disponibile, XML e filtri URL. Nessuna modifica al catalogo.')
     # Prefer latest published or modified recipes.
     return [x[0] for x in sorted(found.items(), key=lambda x: (x[1], x[0]), reverse=True)]
 
@@ -119,11 +131,19 @@ def run(limit=20, delay=2.5, discoverer=discover_urls, fetcher=fetch_recipe,
     if not isinstance(catalog, list): raise ValueError('Catalogo JSON non valido')
     known = {r['url'] for r in catalog if r.get('url')}
     candidates = discoverer()
+    print(f'URL candidati: {len(candidates)}; gia presenti nel catalogo: {len(known)}', flush=True)
     imported = 0
     failed = 0
+    already = 0
+    robots_blocked = 0
     for url in candidates:
         if imported >= limit or failed >= 12: break
-        if url in known or not robots.can_fetch(UA, url): continue
+        if url in known:
+            already += 1
+            continue
+        if not robots.can_fetch(UA, url):
+            robots_blocked += 1
+            continue
         try:
             raw = fetcher(url)
             if len(raw.get('ingredients', [])) < 2 or not raw.get('steps') or not raw.get('name'):
@@ -140,7 +160,10 @@ def run(limit=20, delay=2.5, discoverer=discover_urls, fetcher=fetch_recipe,
             failed += 1
             print(f'Importazione non riuscita {url}: {exc}')
         if delay and imported < limit: time.sleep(delay)
-    print(f'Nuove ricette: {imported}; fallite/incomplete: {failed}; totale catalogo: {len(catalog)}')
+    print(f'Riepilogo filtri: gia_presenti={already}, robots_bloccati={robots_blocked}, fallite_incomplete={failed}', flush=True)
+    print(f'Nuove ricette: {imported}; fallite/incomplete: {failed}; totale catalogo: {len(catalog)}', flush=True)
+    if imported == 0 and failed > 0:
+        raise RuntimeError('Nessuna ricetta importata: tutte le estrazioni tentate sono fallite o incomplete. Consultare i log sopra.')
     return imported
 
 

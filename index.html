@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Cheffino — Il tuo piano alimentare</title>
+<style>
+:root{color-scheme:light dark;--bg:light-dark(#f7f7f1,#151813);--surface:light-dark(#fff,#20251e);--surface2:light-dark(#f0f2e9,#2b3128);--text:light-dark(#20251c,#f3f4eb);--muted:light-dark(#71786a,#aab2a0);--line:light-dark(#e2e6d9,#3a4236);--green:light-dark(#356b43,#a9d58c);--green2:light-dark(#e6f1df,#30472f);--orange:#e98b55;--shadow:0 12px 35px #1b2b1710}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.45 ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}button,input{font:inherit}button{cursor:pointer}button:focus-visible,input:focus-visible{outline:3px solid var(--orange);outline-offset:2px}.app{min-height:100vh;background:var(--bg)}.topbar{height:72px;display:flex;align-items:center;justify-content:space-between;padding:0 max(22px,calc((100vw - 1120px)/2));border-bottom:1px solid var(--line);background:var(--surface)}.brand{display:flex;align-items:center;gap:10px;font-size:21px;font-weight:850;letter-spacing:-.7px}.logo{width:37px;height:37px;display:grid;place-items:center;background:#d9edc9;border-radius:13px;font-size:22px}.topright{display:flex;align-items:center;gap:9px}.pill{border:1px solid var(--line);padding:7px 11px;border-radius:99px;font-size:12px;color:var(--muted)}.wrap{max-width:1120px;margin:auto;padding:34px 22px 60px}.eyebrow{font-size:11px;letter-spacing:1.7px;text-transform:uppercase;font-weight:800;color:var(--green);margin-bottom:8px}.h1{font-size:clamp(28px,4vw,42px);letter-spacing:-1.6px;line-height:1.1;margin:0 0 12px;font-weight:850}.sub{color:var(--muted);max-width:650px;margin:0 0 26px}.panel{background:var(--surface);border:1px solid var(--line);border-radius:22px;padding:24px;box-shadow:var(--shadow)}.stephead{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:22px}.stepcount{color:var(--muted);font-size:13px;font-weight:700}.progress{height:5px;border-radius:8px;background:var(--surface2);overflow:hidden;margin-bottom:27px}.progress span{display:block;height:100%;background:var(--green);transition:width .2s}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px}.choice{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:15px;padding:15px;text-align:left;min-height:70px;transition:.15s}.choice:hover{border-color:var(--green)}.choice.selected{border-color:var(--green);background:var(--green2);box-shadow:inset 0 0 0 1px var(--green)}.choice .small{font-size:12px;color:var(--muted);display:block;margin-top:4px}.choice .emoji{font-size:21px;display:block;margin-bottom:8px}.choice .tick{float:right;color:var(--green);font-weight:900}.footer{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:25px}.btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:13px;padding:12px 18px;font-weight:750}.btn.primary{background:var(--green);border-color:var(--green);color:#142313}.btn:disabled{opacity:.4;cursor:not-allowed}.hint{font-size:12px;color:var(--muted)}.numwrap{display:flex;flex-direction:column;align-items:center;gap:15px;padding:5px 0 12px}.amount{font-size:48px;letter-spacing:-2px;font-weight:850;min-width:180px;text-align:center;border-bottom:2px solid var(--green);padding:8px 10px}.numpad{display:grid;grid-template-columns:repeat(3,72px);gap:9px}.numkey{height:54px;border:1px solid var(--line);background:var(--surface2);border-radius:14px;font-size:20px;font-weight:700;color:var(--text)}.numkey:active{transform:scale(.97)}.togglelist{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.toggleitem{display:flex;align-items:center;justify-content:space-between;padding:15px;border:1px solid var(--line);border-radius:15px;background:var(--surface)}.switch{width:46px;height:27px;background:var(--line);border-radius:99px;padding:3px;transition:.2s;flex-shrink:0}.switch:after{content:'';display:block;width:21px;height:21px;border-radius:50%;background:white;transition:.2s}.switch.on{background:var(--green)}.switch.on:after{transform:translateX(19px)}.days{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:8px}.daycheck{border:1px solid var(--line);border-radius:13px;padding:12px 4px;text-align:center;background:var(--surface);font-size:12px;font-weight:700}.daycheck.selected{background:var(--green2);border-color:var(--green)}.daycheck b{display:block;font-size:15px;margin-bottom:4px}.sectionlabel{font-size:14px;font-weight:800;margin:24px 0 10px}.foodchips{display:flex;flex-wrap:wrap;gap:8px}.chip{padding:8px 12px;border-radius:99px;border:1px solid var(--line);background:var(--surface);color:var(--text);font-size:13px}.chip.selected{background:var(--green2);border-color:var(--green)}details{margin-top:18px;border:1px solid var(--line);border-radius:15px;padding:14px}summary{font-weight:800;cursor:pointer}.search{width:100%;margin:14px 0;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--bg);color:var(--text)}.ingredient-list{display:flex;flex-wrap:wrap;gap:7px;max-height:240px;overflow:auto}.swipearea{max-width:450px;margin:0 auto}.recipehero{height:310px;border-radius:20px;display:grid;place-items:center;font-size:100px;position:relative;overflow:hidden;background:linear-gradient(135deg,#f7e8d4,#c8d8ad)}.recipehero:before,.recipehero:after{content:'';position:absolute;border-radius:50%;background:#ffffff40}.recipehero:before{width:220px;height:220px;left:-50px;top:-70px}.recipehero:after{width:190px;height:190px;right:-35px;bottom:-65px}.recipeemoji{z-index:1;filter:drop-shadow(0 12px 9px #3a3a2a30)}.recipemeta{display:flex;gap:15px;color:var(--muted);font-size:13px;margin-top:12px}.swipebuttons{display:flex;justify-content:center;gap:22px;margin:20px 0}.roundbtn{width:61px;height:61px;border-radius:50%;border:1px solid var(--line);background:var(--surface);font-size:26px;box-shadow:var(--shadow)}.roundbtn.like{color:#d45b76;border-color:#e9bac4}.counter{text-align:center;font-size:12px;color:var(--muted)}.homehead{display:flex;justify-content:space-between;align-items:flex-end;gap:18px;margin-bottom:24px}.summarybar{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:0;background:var(--surface);border:1px solid var(--line);border-radius:19px;padding:17px;margin-bottom:16px}.summaryitem{padding:6px 14px;border-right:1px solid var(--line)}.summaryitem:last-child{border:0}.summaryicon{font-size:20px}.summaryvalue{font-weight:800;font-size:14px;margin-top:5px}.summarylabel{font-size:11px;color:var(--muted)}.actiongrid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:34px}.actioncard{display:flex;align-items:center;gap:16px;text-align:left;padding:21px;background:var(--surface);border:1px solid var(--line);border-radius:18px;color:var(--text)}.actionicon{width:54px;height:54px;display:grid;place-items:center;border-radius:16px;background:var(--green2);font-size:27px}.actioncard strong{font-size:16px;display:block}.actioncard span{font-size:12px;color:var(--muted)}.tabrow{display:flex;gap:8px;margin:14px 0 18px}.tab{padding:9px 16px;border-radius:99px;border:1px solid var(--line);background:var(--surface);color:var(--text);font-weight:750}.tab.active{background:var(--green);color:#142313;border-color:var(--green)}.recipegrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}.recipecard{display:grid;grid-template-columns:112px 1fr;gap:15px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:12px;min-width:0}.thumb{height:112px;border-radius:13px;display:grid;place-items:center;font-size:43px;background:linear-gradient(145deg,#f5e1c8,#c9d9b1)}.cardtop{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}.recipecard h3{font-size:15px;line-height:1.25;margin:2px 0 8px}.daytag{display:inline-block;background:var(--green2);color:var(--green);font-size:10px;font-weight:800;padding:4px 7px;border-radius:7px}.cardmeta{font-size:12px;color:var(--muted);margin:5px 0 9px}.iconbtn{border:0;background:transparent;color:var(--muted);font-size:20px;padding:2px}.cardactions{display:flex;gap:9px;align-items:center}.smallbtn{border:1px solid var(--line);background:var(--surface2);border-radius:9px;padding:6px 9px;color:var(--text);font-size:12px;font-weight:700}.overlay{position:fixed;inset:0;background:#0008;display:flex;align-items:center;justify-content:center;padding:18px;z-index:10}.modal{width:min(650px,100%);max-height:85vh;overflow:auto;background:var(--surface);border:1px solid var(--line);border-radius:22px;padding:24px}.modalhead{display:flex;justify-content:space-between;align-items:center;gap:12px}.close{border:0;background:var(--surface2);border-radius:10px;padding:7px 11px;color:var(--text)}.cartday{border:1px solid var(--line);border-radius:13px;margin:8px 0;background:var(--surface);color:var(--text);padding:13px;width:100%;display:flex;justify-content:space-between}.ingredientrow{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line)}.ingredientrow input{accent-color:var(--green)}.notice{background:var(--surface2);padding:12px 14px;border-radius:12px;color:var(--muted);font-size:12px;margin-top:15px}.empty{text-align:center;padding:45px 15px;color:var(--muted)}.hidden{display:none!important}
+@media(max-width:760px){.wrap{padding:25px 15px 45px}.topbar{padding:0 16px;height:63px}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.summarybar{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;padding:12px}.summaryitem{border-right:0;border-bottom:1px solid var(--line);padding:10px}.summaryitem:last-child{border:0}.recipegrid{grid-template-columns:1fr}.actioncard{padding:15px;gap:10px}.actionicon{width:44px;height:44px;font-size:23px}.homehead{align-items:flex-start;flex-direction:column}.days{gap:4px}.daycheck{font-size:10px;padding:10px 1px}.daycheck b{font-size:12px}.panel{padding:17px}.togglelist{grid-template-columns:1fr}.recipecard{grid-template-columns:92px 1fr}.thumb{height:100px;font-size:36px}.h1{font-size:32px}}
+@media(max-width:400px){.grid{grid-template-columns:1fr}.numpad{grid-template-columns:repeat(3,64px)}.recipecard{grid-template-columns:80px 1fr}.thumb{height:90px}.pill{display:none}}
+
+/* Dettaglio ricetta: aggiunta isolata, senza modificare lo stile originale */
+.detailhero{min-height:245px;border-radius:19px;background:linear-gradient(135deg,#f7e8d4,#c8d8ad);display:flex;align-items:center;justify-content:center;flex-direction:column;gap:8px;margin-top:17px}.detailhero .foodart{font-size:100px}.detailhero small{font-size:12px;color:#53604c}.detailmetrics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;margin:15px 0}.detailmetric{background:var(--surface2);border:1px solid var(--line);border-radius:13px;text-align:center;padding:14px 4px;min-width:0}.detailmetric b{display:block;font-size:17px;margin-top:6px;overflow-wrap:anywhere}.detailmetric span{font-size:11px;color:var(--muted)}.detailmacros{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px;margin-bottom:20px}.detailmacro{text-align:center;border-radius:13px;padding:12px 4px;color:#252a1e}.detailmacro b{display:block;font-size:17px}.detailmacro span{font-size:11px}.detailmacro.protein{background:#bce6b8}.detailmacro.carbs{background:#f8dda0}.detailmacro.fats{background:#f3b79a}.detailsteps{padding-left:23px}.detailsteps li{padding:0 0 13px 5px;line-height:1.6}.sourcebtn{display:inline-block;color:var(--green);font-weight:750;margin-top:12px}.detailrow{justify-content:space-between}.detailrow strong{white-space:nowrap;text-align:right}.recipecard .thumb,.recipecard h3{cursor:pointer}@media(max-width:450px){.detailmetrics{gap:5px}.detailmetric{padding:10px 2px}.detailmetric b{font-size:13px}.detailmetric span{font-size:10px}.detailhero{min-height:185px}}
+
+.saved-section{margin-top:36px}.saved-heading{display:flex;justify-content:space-between;align-items:flex-end;gap:14px;margin-bottom:17px}.saved-all{border:0;background:transparent;color:var(--green);font-weight:800;padding:8px;white-space:nowrap}.saved-all:hover{text-decoration:underline}.saved-modal-grid{grid-template-columns:1fr}.saved-section .hint{padding:15px 0}
+/* Centra l'ultima scheda nei layout a due colonne quando il totale e dispari. */
+.weekly-recipes-grid > .recipecard:last-child:nth-child(odd){grid-column:1 / -1;width:calc((100% - 13px)/2);justify-self:center}
+@media(max-width:760px){.weekly-recipes-grid > .recipecard:last-child:nth-child(odd){grid-column:auto;width:100%}}
+.source-switch{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:13px 15px;margin-top:17px;border:1px solid var(--line);background:var(--surface);border-radius:14px}.source-switch small{display:block;color:var(--muted);font-size:11px;margin-top:3px}@media(max-width:550px){.source-switch{flex-direction:column;align-items:stretch}.source-switch button{width:100%}}.detailhero img,.recipephoto{width:100%;height:100%;object-fit:cover;border-radius:inherit;position:absolute;inset:0;z-index:2}.detailhero{position:relative;overflow:hidden}.thumb{overflow:hidden;position:relative}.thumbphoto{width:100%;height:100%;object-fit:cover}
+/* Cheffino mobile polish: conserva card e gerarchia visiva del desktop. */
+@media (max-width:760px){
+  html,body,.app{max-width:100%;overflow-x:clip}
+  .wrap{padding:22px 14px 48px}
+  .topbar{padding:0 14px;gap:8px}
+  .brand{font-size:20px;white-space:nowrap}
+  .topright{min-width:0}
+  .topright .btn{padding:9px 11px;font-size:12px;white-space:nowrap}
+  .panel{padding:18px 15px}
+  .stephead{align-items:flex-start;gap:8px}
+  .stepcount{white-space:nowrap;font-size:11px}
+  .h1{font-size:clamp(25px,7vw,32px);line-height:1.12;letter-spacing:-1px}
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .choice{padding:13px;min-width:0;overflow-wrap:anywhere}
+  .footer{flex-wrap:wrap;gap:10px}
+  .footer>.hint{order:3;flex-basis:100%;text-align:center}
+  .days{grid-template-columns:repeat(7,minmax(0,1fr));gap:5px}
+  .daycheck{min-width:0;padding:10px 0}
+  .summarybar{grid-template-columns:repeat(2,minmax(0,1fr));gap:0;padding:7px 10px}
+  .summaryitem{min-width:0;padding:12px 9px;border-right:0;border-bottom:1px solid var(--line)}
+  .summaryitem:nth-child(odd){border-right:1px solid var(--line)}
+  .summaryitem:nth-last-child(1){border-bottom:0}
+  .summaryvalue{overflow-wrap:anywhere;font-size:13px}
+  .summarylabel{font-size:11px}
+  .actiongrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-bottom:27px}
+  .actioncard{min-width:0;display:flex;flex-direction:column;align-items:flex-start;gap:8px;padding:13px}
+  .actioncard strong{font-size:14px;line-height:1.25}
+  .actioncard span{font-size:11px}
+  .actioncard>span:last-child{display:none}
+  .recipegrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .recipecard{display:flex;flex-direction:column;align-items:stretch;gap:9px;min-width:0;padding:9px;border-radius:16px}
+  .recipecard>.thumb{width:100%;height:auto;aspect-ratio:1.55;flex-shrink:0;font-size:38px}
+  .recipecard>div:nth-child(2){min-width:0;display:flex;flex-direction:column;flex:1}
+  .recipecard h3{font-size:13px;line-height:1.28;overflow-wrap:anywhere;margin:7px 0}
+  .recipecard .cardmeta{font-size:11px;line-height:1.35;overflow-wrap:anywhere;margin:0 0 8px}
+  .recipecard .cardtop{align-items:center}
+  .recipecard .iconbtn{min-width:27px;min-height:30px}
+  .recipecard .cardactions{margin-top:auto;justify-content:space-between;gap:5px}
+  .recipecard .smallbtn{font-size:11px;padding:7px 8px;white-space:normal;text-align:center}
+  .weekly-recipes-grid>.recipecard:last-child:nth-child(odd){grid-column:1/-1;width:calc((100% - 10px)/2);justify-self:center}
+  .saved-heading{align-items:center}
+  .saved-heading h2{font-size:21px!important}
+  .saved-all{font-size:12px;padding:6px 0}
+  .modal{padding:18px 15px;max-height:calc(100dvh - 32px);border-radius:18px}
+  .modalhead{align-items:flex-start}
+  .modalhead h2{font-size:20px;overflow-wrap:anywhere}
+  .detailmetrics{grid-template-columns:repeat(4,minmax(0,1fr));gap:5px}
+  .detailmetric{padding:12px 3px}
+  .detailmetric b{font-size:12px;line-height:1.2}
+  .detailmetric span{font-size:10px}
+  .detailmacros{gap:6px}
+  .detailmacro{padding:12px 3px}
+  .detailmacro b{font-size:14px}
+  .source-switch{gap:10px}
+}
+@media(max-width:400px){
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .recipegrid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .recipecard{grid-template-columns:unset}
+  .recipecard>.thumb{height:auto}
+  .weekly-recipes-grid>.recipecard:last-child:nth-child(odd){grid-column:1/-1;width:calc((100% - 10px)/2)}
+  .pill{display:none}
+  .actioncard{padding:11px}
+  .detailmetrics{gap:4px}
+}
+@media(max-width:350px){
+  .recipegrid{gap:7px}
+  .recipecard{padding:7px}
+  .recipecard h3{font-size:12px}
+  .recipecard .smallbtn{padding:6px 5px}
+  .summarybar{padding:5px}
+}
+
+/* Cheffino — griglie dispari: ultima scheda a larghezza intera */
+.weekly-recipes-grid > .recipecard:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+  width: 100%;
+  justify-self: stretch;
+}
+@media (max-width: 760px) {
+  /* Quinto riquadro centrato, largo quanto gli altri; nessuna cella vuota. */
+  .summarybar > .summaryitem:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+    width: calc((100% - 0px) / 2);
+    justify-self: center;
+    border-right: 0;
+    border-bottom: 0;
+    text-align: center;
+  }
+  .weekly-recipes-grid > .recipecard:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+    width: 100%;
+    justify-self: stretch;
+  }
+}
+</style></head>
+<body><div class="app" id="app"><header class="topbar"><div class="brand"><div class="logo">👨‍🍳</div>Cheffino</div><div class="topright"><button class="btn" onclick="openSettings()">⚙ Preferenze</button></div></header><main class="wrap" id="main"></main></div><div id="modalRoot"></div><input id="cheffinoBackupInput" type="file" accept="application/json,.json" style="display:none" onchange="importCheffinoBackup(this)">
+<script>
+const supermarkets=['Aldi','Alì','Bennet','Carrefour','Conad','Coop','Dec','Despar','Dodecà','Esselunga','Eurospin','Famila','Il Gigante','Lidl','MD','PAM','Penny','Sole365','Tigros'];
+const ingredients=['Aglio','Albicocche','Anacardi','Arance','Asparagi','Avena','Avocado','Basilico','Bietole','Broccoli','Burro','Cacao','Carciofi','Carne bovina','Carne di maiale','Carote','Cavolfiore','Ceci','Ciliegie','Cipolla','Cipollotto','Cocco','Cozze','Cous cous','Crescenza','Curry','Farina','Farina di mais','Fagioli','Fagiolini','Farro','Feta','Finocchi','Formaggio','Funghi','Gamberi','Gnocchi','Grana','Insalata','Kefir','Lattuga','Latte','Lenticchie','Limone','Mais','Mandorle','Manzo','Melanzane','Mele','Merluzzo','Miele','Mirtilli','Mozzarella','Noci','Olio d’oliva','Olive','Orzo','Pancetta','Pane','Panna','Parmigiano','Patate','Peperoncino','Peperoni','Pere','Pesce spada','Piselli','Pistacchi','Pollo','Pomodori','Porri','Prosciutto cotto','Prosciutto crudo','Quinoa','Radicchio','Riso','Ricotta','Rucola','Salmone','Salsiccia','Sedano','Seitan','Semi di chia','Spinaci','Stracchino','Tacchino','Tofu','Tonno','Uova','Uva','Yogurt','Zafferano','Zenzero','Zucchine','Zucca','Zuppa pronta','Pasta','Pasta integrale','Piadine','Pesto','Pane grattugiato','Pangrattato','Passata di pomodoro','Pecorino','Panna vegetale','Latte di soia','Latte di avena','Tempeh','Edamame','Quorn','Sgombro','Orata','Branzino','Calamari','Seppie','Vongole','Ricotta senza lattosio','Yogurt senza lattosio','Pane senza glutine','Pasta senza glutine','Cioccolato fondente','Datteri','Fichi','Fragole','Lamponi','Melone','Ananas','Banane','Pompelmo','Cachi','Cavolo cappuccio','Cavolo nero','Cavolini di Bruxelles','Rape','Ravanelli','Barbabietole','Patate dolci','Cime di rapa','Fave','Lupini','Soia','Farina di ceci','Polenta','Bulgur','Noodles','Salsa di soia','Aceto balsamico','Senape','Maionese','Ketchup','Olive nere','Capperi','Acciughe','Ricotta salata','Scamorza','Provola','Fontina','Gorgonzola','Taleggio','Pecorino romano','Bresaola','Speck','Mortadella','Wurstel','Fesa di tacchino','Cosce di pollo','Petto di pollo','Lombo di maiale','Vitello','Agnello','Seitan','Burger vegetali'];
+const recipeData=[
+['Pasta cremosa zucchine e ricotta','🍝',25,480,['Pasta','Zucchine','Ricotta','Aglio','Olio d’oliva'],'Classici italiani','Primo'],['Pollo al limone con patate','🍗',40,560,['Pollo','Patate','Limone','Rosmarino','Olio d’oliva'],'Per tutta la famiglia','Secondo'],['Bowl di riso, ceci e verdure','🥗',25,430,['Riso','Ceci','Carote','Zucchine','Olio d’oliva'],'Piatti salutari','Piatto unico'],['Piadina pollo e yogurt','🌯',15,510,['Piadine','Pollo','Yogurt','Insalata','Pomodori'],'Veloci e facili','Piatto unico'],['Frittata di spinaci','🍳',20,360,['Uova','Spinaci','Parmigiano','Olio d’oliva'],'Economiche','Secondo'],['Pasta al pomodoro e basilico','🍅',20,390,['Pasta','Polpa di pomodoro','Basilico','Aglio','Olio d’oliva'],'Classici italiani','Primo'],['Salmone e zucchine al forno','🐟',30,470,['Salmone','Zucchine','Limone','Olio d’oliva'],'Proteici','Secondo'],['Burger casalingo con patate','🍔',35,620,['Carne bovina','Pane','Insalata','Pomodori','Patate'],'Takeaway fatto in casa','Piatto unico'],['Lenticchie in umido con pane','🥘',30,440,['Lenticchie','Passata di pomodoro','Carote','Cipolla','Pane'],'Economiche','Piatto unico'],['Gnocchi al pesto e fagiolini','🥔',20,520,['Gnocchi','Pesto','Fagiolini','Grana'],'Veloci e facili','Primo'],['Cous cous con ceci e feta','🥙',20,460,['Cous cous','Ceci','Feta','Pomodori','Cetrioli'],'Piatti salutari','Piatto unico'],['Tacos di fagioli e avocado','🌮',25,490,['Fagioli','Avocado','Pomodori','Piadine','Limone'],'Takeaway fatto in casa','Piatto unico'],['Pasta tonno e pomodorini','🍝',18,455,['Pasta','Tonno','Pomodori','Aglio','Olio d’oliva'],'Veloci e facili','Primo'],['Polpette di tacchino al forno','🧆',35,410,['Tacchino','Uova','Pane grattugiato','Passata di pomodoro'],'Proteici','Secondo'],['Vellutata di zucca e ceci','🍲',30,350,['Zucca','Ceci','Cipolla','Olio d’oliva'],'Poche calorie','Piatto unico'],['Toast filante con verdure','🥪',12,390,['Pane','Mozzarella','Pomodori','Spinaci'],'Veloci e facili','Piatto unico'],['Risotto ai funghi','🍄',35,490,['Riso','Funghi','Grana','Cipolla','Burro'],'Classici italiani','Primo'],['Insalata greca con pane','🥗',15,330,['Feta','Pomodori','Cetrioli','Olive','Pane'],'Poche calorie','Piatto unico'],['Uova strapazzate e avocado toast','🥑',12,410,['Uova','Avocado','Pane','Limone'],'Proteici','Piatto unico'],['Pasta e ceci rosmarino','🍲',30,520,['Pasta','Ceci','Rosmarino','Aglio','Olio d’oliva'],'Economiche','Piatto unico'],['Quesadilla formaggio e fagioli','🫓',15,500,['Piadine','Formaggio','Fagioli','Pomodori'],'Takeaway fatto in casa','Piatto unico'],['Merluzzo con pomodorini','🐟',25,320,['Merluzzo','Pomodori','Aglio','Olio d’oliva'],'Poche calorie','Secondo'],['Pasta al ragù veloce','🍝',30,570,['Pasta','Carne bovina','Passata di pomodoro','Carote','Cipolla'],'Per tutta la famiglia','Primo'],['Curry di tofu e riso','🍛',30,480,['Tofu','Riso','Latte di cocco','Curry','Spinaci'],'Vegano','Piatto unico']
+].map((r,i)=>({id:i,name:r[0],emoji:r[1],time:r[2],kcal:r[3],ings:r[4],style:r[5],type:r[6]}));
+// Nuove ricette corrispondenti ai titoli delle fonti; gli ID preesistenti restano stabili.
+recipeData.push(
+ {id:24,name:'Pasta e ceci cremosa',emoji:'🍲',time:40,kcal:null,ings:['Pasta','Ceci','Scalogno','Concentrato di pomodoro','Salvia','Grana','Olio d’oliva'],style:'Classici italiani',type:'Primo'},
+ {id:25,name:'Vellutata di zucca',emoji:'🎃',time:50,kcal:null,ings:['Zucca','Porri','Brodo vegetale','Panna','Nocciole','Rosmarino','Olio d’oliva'],style:'Piatti salutari',type:'Primo'},
+ {id:26,name:'Pollo al limone',emoji:'🍋',time:null,kcal:null,ings:['Pollo','Farina','Limone','Amido di mais','Zucchero','Salsa di soia','Olio d’oliva'],style:'Per tutta la famiglia',type:'Secondo'}
+);
+// Solo i dati di seguito sono stati trascritti e confrontati con una ricetta pubblica.
+// Nessun valore di costo/macronutrienti viene dedotto o fabbricato.
+// Ricette aggiuntive da schede pubblicate su GialloZafferano.
+recipeData.push(
+ {id:27,name:'Pasta e zucchine',emoji:'🥒',time:20,kcal:356.6,ings:['Pasta','Zucchine','Aglio','Basilico','Olio d’oliva'],style:'Veloci e facili',type:'Primo'},
+ {id:28,name:'Pasta e patate',emoji:'🥔',time:45,kcal:444.6,ings:['Pasta','Patate','Scalogno','Rosmarino','Olio d’oliva'],style:'Economiche',type:'Primo'},
+ {id:29,name:'Pasta alla sorrentina',emoji:'🍅',time:60,kcal:568.9,ings:['Pasta','Passata di pomodoro','Mozzarella','Parmigiano','Basilico'],style:'Classici italiani',type:'Primo'},
+ {id:30,name:'Pasta zucchine e zafferano',emoji:'🍝',time:30,kcal:376,ings:['Pasta','Zucchine','Zafferano','Grana','Olio d’oliva'],style:'Veloci e facili',type:'Primo'},
+ {id:31,name:'Pasta e ricotta',emoji:'🧀',time:25,kcal:551.3,ings:['Pasta','Ricotta','Parmigiano','Panna','Timo'],style:'Veloci e facili',type:'Primo'}
+);
+const sourcedDetails={
+
+  0:{source:'GialloZafferano',url:'https://ricette.giallozafferano.it/Pasta-zucchine-e-ricotta.html',servings:4,minutes:25,kcal:509.4,cost:'Molto basso',protein:21.5,carbs:72.9,fats:14.9,image:'https://ricette.giallozafferano.it/images/ricette/282/28200/pasta-zucchine-e-ricotta_16.jpg',ingredients:[['Fusilli',320,'g'],['Ricotta vaccina',240,'g'],['Zucchine',500,'g'],['Scalogno',1,'pz'],['Basilico',6,'foglie'],['Grana Padano',50,'g'],['Scorza di limone',null,'q.b.'],['Olio extravergine di oliva',null,'q.b.'],['Sale',null,'q.b.'],['Pepe nero',null,'q.b.']],steps:['Taglia le zucchine a dadini e trita lo scalogno.','Fai appassire lo scalogno con olio e poca acqua, poi cuoci le zucchine per pochi minuti.','Cuoci i fusilli; a parte mescola ricotta, scorza di limone, basilico e poca acqua della pasta.','Unisci pasta, zucchine e crema di ricotta, aggiungi Grana e amalgama.']},
+  27:{source:'GialloZafferano',url:'https://ricette.giallozafferano.it/Pasta-e-zucchine.html',servings:4,minutes:20,kcal:356.6,cost:'Molto basso',protein:12.5,carbs:65.5,fats:5.1,image:'https://www.giallozafferano.com/images/226-22692/pasta-and-zucchini_1200x800.jpg',ingredients:[['Fusilli',320,'g'],['Zucchine',650,'g'],['Aglio',1,'spicchio'],['Basilico',null,'q.b.'],['Olio extravergine di oliva',null,'q.b.'],['Sale fino',null,'q.b.'],['Pepe nero',null,'q.b.']],steps:['Grattugia le zucchine e insaporisci olio e aglio in padella.','Unisci le zucchine, sala e pepa; cuoci mescolando per circa cinque minuti.','Aggiungi un poco di acqua calda e il basilico, togliendo l’aglio.','Cuoci la pasta al dente, completa la cottura in padella con le zucchine e poca acqua di cottura.']},
+  28:{source:'GialloZafferano',url:'https://ricette.giallozafferano.it/Pasta-e-patate.html',servings:4,minutes:45,kcal:444.6,protein:12.2,carbs:80.1,fats:8.7,ingredients:[['Pipe rigate',250,'g'],['Patate gialle',700,'g'],['Scalogno',40,'g'],['Olio extravergine di oliva',30,'g'],['Timo',null,'q.b.'],['Rosmarino',null,'q.b.'],['Sale',null,'q.b.'],['Pepe',null,'q.b.']],steps:['Sbuccia le patate e tagliale a piccoli cubi.','Fai rosolare lo scalogno tritato con olio e rosmarino.','Aggiungi le patate e cuocile, versando gradualmente acqua calda.','Lessa la pasta e termina la cottura con le patate; aggiungi timo e olio a crudo.']},
+  29:{source:'GialloZafferano',url:'https://ricette.giallozafferano.it/Pasta-alla-sorrentina.html',servings:4,minutes:60,kcal:568.9,cost:'Basso',protein:25.3,carbs:72.5,fats:19.9,ingredients:[['Fusilli',320,'g'],['Passata di pomodoro',500,'g'],['Mozzarella',125,'g'],['Olio extravergine di oliva',30,'g'],['Aglio',1,'spicchio'],['Basilico',null,'q.b.'],['Sale',null,'q.b.'],['Parmigiano Reggiano',65,'g']],steps:['Cuoci la passata con olio, aglio e basilico a fuoco dolce per circa mezz’ora.','Cuoci i fusilli al dente e taglia a cubetti la mozzarella.','Amalgama pasta e salsa, poi disponi pasta, mozzarella e Parmigiano a strati in pirofila.','Gratina brevemente in forno caldo fino a sciogliere la mozzarella.']},
+  30:{source:'GialloZafferano',url:'https://ricette.giallozafferano.it/Pasta-zucchine-e-zafferano.html',servings:4,minutes:30,kcal:376,protein:14.8,carbs:64.5,fats:6.4,ingredients:[['Pipe rigate',320,'g'],['Zucchine',500,'g'],['Zafferano',0.3,'g'],['Grana Padano',30,'g'],['Menta',null,'q.b.'],['Olio extravergine di oliva',null,'q.b.'],['Sale',null,'q.b.']],steps:['Taglia le zucchine a cubetti e saltale in padella con olio finché sono morbide.','Cuoci la pasta; sciogli lo zafferano in poca acqua tiepida.','Versa la pasta scolata nelle zucchine, unisci lo zafferano e poca acqua della pasta.','Manteca con Grana e termina con menta fresca.']},
+  31:{source:'GialloZafferano',url:'https://ricette.giallozafferano.it/Pasta-e-ricotta.html',servings:4,minutes:25,kcal:551.3,cost:'Molto basso',protein:23.8,carbs:68.1,fats:20,ingredients:[['Fusilli',320,'g'],['Ricotta vaccina',350,'g'],['Parmigiano Reggiano',70,'g'],['Panna fresca liquida',70,'g'],['Sale',null,'q.b.'],['Pepe',null,'q.b.'],['Timo',null,'q.b.']],steps:['Fai cuocere i fusilli in abbondante acqua salata.','Lavora la ricotta con Parmigiano, panna, timo e pepe per ottenere una crema.','Allunga il condimento con poca acqua della pasta se necessario.','Scola i fusilli al dente e amalgamali con la crema di ricotta.']},
+
+  4:{source:'GialloZafferano',url:'https://ricette.giallozafferano.it/Frittata-di-spinaci.html',servings:4,minutes:35,kcal:311.9,cost:'Molto basso',protein:15.2,carbs:4.4,fats:26.5,ingredients:[['Uova',6,'pz'],['Spinaci',350,'g'],['Parmigiano Reggiano',50,'g'],['Olio extravergine di oliva',5,'cucchiai'],['Sale',null,'q.b.'],['Pepe nero',null,'q.b.']],steps:['Lava e pulisci gli spinaci, eliminando i gambi più duri. Falli saltare in padella con olio, poi lasciali intiepidire, strizzali e tritali.','Rompi le uova in una ciotola, aggiungi il Parmigiano grattugiato, sale e pepe, quindi sbatti fino a ottenere un composto omogeneo.','Incorpora gli spinaci alle uova e mescola.','Versa il composto in una padella con olio e cuoci a fuoco dolce con coperchio per circa 10 minuti.','Gira la frittata e prosegui la cottura per circa 5 minuti, fino a doratura.']},
+  5:{source:'GialloZafferano Blog — Allacciate il grembiule',url:'https://blog.giallozafferano.it/allacciateilgrembiule/pasta-pomodoro-basilico/',servings:4,minutes:35,cost:'Economico',ingredients:[['Pasta',360,'g'],['Pomodorini ciliegino',200,'g'],['Polpa di pomodoro',200,'ml'],['Olio extravergine di oliva',null,'q.b.'],['Basilico',5,'foglie'],['Aglio',1,'spicchio']],steps:['Dividi i pomodorini e mettili in padella con aglio e un filo d’olio.','Cuoci i pomodorini per 5–10 minuti; aggiungi polpa di pomodoro e basilico e prosegui per circa 10 minuti.','Lessa la pasta in acqua salata e scolala al dente.','Salta la pasta nel sugo con poca acqua di cottura e completa con basilico fresco.']},
+  24:{source:'GialloZafferano',url:'https://ricette.giallozafferano.it/Pasta-e-ceci-cremosa.html',servings:4,minutes:40,kcal:863.5,cost:'Basso',protein:41.3,carbs:133.7,fats:19.9,ingredients:[['Ditalini',250,'g'],['Ceci precotti sgocciolati',500,'g'],['Scalogno',1,'pz'],['Concentrato di pomodoro',1,'cucchiaio'],['Salvia',null,'q.b.'],['Acqua',null,'q.b.'],['Olio extravergine di oliva',null,'q.b.'],['Sale',null,'q.b.'],['Pepe',null,'q.b.'],['Grana Padano',70,'g']],steps:['Trita lo scalogno e fallo ammorbidire in pentola con olio e salvia; unisci il concentrato di pomodoro.','Aggiungi i ceci sgocciolati, copri appena con acqua, regola di sale e pepe e cuoci dolcemente per circa 20 minuti.','Preleva una parte dei ceci e un po’ del loro liquido; versa i ditalini nella pentola e cuocili aggiungendo acqua calda se necessario.','Frulla i ceci messi da parte e rimetti la crema nella pentola quando la pasta è cotta.','Spegni il fuoco e manteca con Grana Padano e olio, poi servi.']},
+  25:{source:'GialloZafferano',url:'https://ricette.giallozafferano.it/Vellutata-di-zucca.html',servings:4,minutes:50,kcal:488,cost:'Basso',protein:8.2,carbs:35.9,fats:38.6,ingredients:[['Zucca delica da pulire',1500,'g'],['Porri',150,'g'],['Brodo vegetale',800,'g'],['Panna fresca liquida',100,'g'],['Olio extravergine di oliva',null,'q.b.'],['Sale',null,'q.b.'],['Pepe',null,'q.b.'],['Noce moscata',1,'pizzico'],['Nocciole spellate',80,'g'],['Rosmarino',2,'rametti']],steps:['Pulisci la zucca e tagliala a pezzi; affetta i porri.','Fai insaporire i porri in olio, aggiungi la zucca e versa il brodo vegetale.','Cuoci fino a rendere morbida la zucca, poi frulla il composto e unisci la panna.','Regola sale, pepe e noce moscata e servi con nocciole e rosmarino come indicato nella ricetta originale.']},
+  26:{source:'GialloZafferano',url:'https://ricette.giallozafferano.it/Pollo-al-limone.html',servings:4,kcal:254.2,ingredients:[['Petto di pollo',600,'g'],['Farina 00',null,'q.b.'],['Olio extravergine di oliva',null,'q.b.'],['Origano',null,'q.b.'],['Timo',null,'q.b.'],['Scorza di limone',1,'pz'],['Succo di limone',100,'g'],['Acqua',200,'g'],['Amido di mais',20,'g'],['Zucchero',10,'g'],['Sale',null,'q.b.'],['Salsa di soia',10,'g']],steps:['Grattugia la scorza del limone e spremi il succo, filtrandolo.','Prepara il pollo con farina e aromi e fallo cuocere in padella, secondo le indicazioni della fonte.','Prepara il condimento a base di limone, acqua, amido, zucchero e salsa di soia.','Completa la cottura del pollo nella salsa; consulta i passaggi illustrati nella fonte per i tempi esatti.']}
+
+};
+function peopleCount(){return Math.max(1,parseInt(state.people,10)||1)}
+function recipeDetailData(r){return sourcedDetails[r.id]||null}
+function ingredientRows(r,checkboxes=false){const d=recipeDetailData(r);if(!d)return '<p class="hint">Grammature non verificate: non è corretto inventarle per questa ricetta.</p>'+r.ings.map(x=>`<div class="ingredientrow">${checkboxes?'<input type="checkbox">':'•'} <span>${safe(x)}</span><strong style="margin-left:auto">Da verificare</strong></div>`).join('');const factor=peopleCount()/d.servings;return d.ingredients.map(([name,q,u])=>{const qty=q===null?'q.b.':(q*factor).toLocaleString('it-IT',{maximumFractionDigits:2})+' '+u;return `<label class="ingredientrow detailrow">${checkboxes?'<input type="checkbox">':'<span>•</span>'}<span style="flex:1">${safe(name)}</span><strong>${safe(qty)}</strong></label>`}).join('')}
+const days=['Lunedì','Martedì','Mercoledì','Giovedì','Venerdì','Sabato','Domenica'];const dayShort=['Lun','Mar','Mer','Gio','Ven','Sab','Dom'];
+const defaults={verifiedOnly:true,step:0,stores:[],budget:'60',people:'2',meals:'both',diet:['Nessuna'],kitchen:['Fornelli','Forno'],styles:['Veloci e facili','Classici italiani'],avoid:[],lunch:[],dinner:[],types:[],likes:[],dislikes:[],swipeIndex:0,plan:{},favorites:[],planGeneration:0,view:'onboard',tab:'Pranzo'};
+let ingredientPanelOpen=false;
+let state={...defaults};try{const saved=JSON.parse(localStorage.getItem('cheffinoState')||'null');if(saved){state={...defaults,...saved};if(typeof state.diet==='string')state.diet=[state.diet];if(saved.schemaVersion!==2){state.lunch=[];state.dinner=[];state.types=[];state.schemaVersion=2;}}else state.schemaVersion=2;}catch(e){}
+const persist=()=>{try{localStorage.setItem('cheffinoState',JSON.stringify(state))}catch(e){}};
+function safe(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function countMeals(){return (state.meals==='lunch'?state.lunch.length:state.meals==='dinner'?state.dinner.length:state.lunch.length+state.dinner.length)}
+function chosenDays(){let a=[];if(state.meals!=='dinner')state.lunch.forEach(i=>{if(!a.includes(i))a.push(i)});if(state.meals!=='lunch')state.dinner.forEach(i=>{if(!a.includes(i))a.push(i)});return a.sort((a,b)=>a-b)}
+function filteredRecipes(options={}){
+ const meat=['Pollo','Carne bovina','Tacchino','Salmone','Tonno','Merluzzo','Pesce spada','Carne di maiale','Salsiccia','Gamberi','Pancetta','Prosciutto cotto','Prosciutto crudo','Orata','Branzino','Calamari','Seppie','Vongole','Cozze','Sgombro','Acciughe','Bresaola','Speck','Mortadella','Wurstel','Vitello','Agnello','Cosce di pollo','Petto di pollo','Lombo di maiale'];
+ const animal=['Uova','Formaggio','Grana','Ricotta','Feta','Mozzarella','Yogurt','Burro','Latte','Panna','Parmigiano','Pecorino','Crescenza','Stracchino','Scamorza','Provola','Fontina','Gorgonzola','Taleggio','Miele'];
+ const gluten=['Pasta','Pasta integrale','Pane','Piadine','Cous cous','Gnocchi','Pane grattugiato','Pangrattato','Farro','Orzo','Bulgur','Bulgur','Noodles','Bulgur'];
+ const dairy=['Ricotta','Formaggio','Grana','Feta','Mozzarella','Yogurt','Burro','Latte','Panna','Parmigiano','Pecorino','Crescenza','Stracchino','Scamorza','Provola','Fontina','Gorgonzola','Taleggio'];
+ const diets=Array.isArray(state.diet)?state.diet:[state.diet];
+ return recipeData.filter(r=>{
+  // Le schede approvate automaticamente non certificano allergeni o diete.
+  // In presenza di esigenze alimentari specifiche non mostrarle come sicure.
+  if(r.autoValidated){
+   if(diets.some(d=>d!=='Nessuna'))return false;
+   if(!r.requiredTools.length || r.requiredTools.some(t=>!state.kitchen.includes(t)))return false;
+  }
+
+  if(r.ings.some(i=>state.avoid.includes(i)))return false;
+   const sourceIngs=recipeDetailData(r)?.ingredients.map(i=>i[0].toLowerCase())||[];
+   const fold=(x)=>String(x).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
+   if(state.avoid.some(a=>sourceIngs.some(i=>{
+     const ing=fold(i), excluded=fold(a);
+     return ing===excluded || ing.startsWith(excluded+' ') || ing.endsWith(' '+excluded) || ing.includes(' '+excluded+' ');
+   })))return false;
+
+  if(diets.includes('Vegano')&&(r.ings.some(i=>[...meat,...animal].includes(i))||sourceIngs.some(i=>/(pollo|uova|grana|parmigiano|panna|burro|latte|formaggio|miele|pesce|carne)/i.test(i))))return false;
+  if(diets.includes('Vegetariano')&&(r.ings.some(i=>meat.includes(i))||sourceIngs.some(i=>/(pollo|petto di pollo|pancetta|carne|salmone|tonno|merluzzo)/i.test(i))))return false;
+  if(diets.includes('Senza Glutine')&&(r.ings.some(i=>gluten.includes(i))||sourceIngs.some(i=>/(pasta|ditalini|farina 00|grano|pane)/i.test(i))))return false;
+  if(diets.includes('Senza Lattosio')&&(r.ings.some(i=>dairy.includes(i)&&!['Ricotta senza lattosio','Yogurt senza lattosio'].includes(i))||sourceIngs.some(i=>/(grana|parmigiano|panna|burro|latte|formaggio)/i.test(i))))return false;
+  if(!options.relaxStyles&&state.styles.length&&!state.styles.includes(r.style))return false;
+  if(state.types.length){const allowed=[];if(state.types.includes('Primo'))allowed.push('Primo');if(state.types.includes('Secondo'))allowed.push('Secondo');if(state.types.includes('Piatto Unico'))allowed.push('Piatto unico');if(state.types.includes('Primo e Secondo'))allowed.push('Primo','Secondo');if(!allowed.includes(r.type))return false;}
+  if((r.name.toLowerCase().includes('forno')||r.name.toLowerCase().includes('al forno'))&&!state.kitchen.includes('Forno'))return false;
+  if(!state.kitchen.length)return false;
+  return true;
+ });
+}
+// Gli stili sono preferenze per il piano, non un catalogo chiuso.
+function planRecipes(){return filteredRecipes({relaxStyles:true}).filter(r=>!state.verifiedOnly||!!recipeDetailData(r))}
+function tinderRecipes(){return filteredRecipes()}
+function getRecipe(id){return recipeData.find(r=>r.id===id)||recipeData[0]}
+function planHasDuplicates(){const ids=Object.values(state.plan||{});return new Set(ids).size!==ids.length}
+function render(){if(state.view==='home'&&(planHasDuplicates()||requestedSlots().some(k=>state.plan[k]===undefined&&state.planMissing===undefined))){generateWeeklyPlan()}persist();const main=document.getElementById('main');if(state.view==='home'){renderHome(main);return}if(state.view==='swipe'){renderSwipe(main);return}renderOnboard(main)}
+const stepTitles=['Dove fai la spesa?','Quanto vuoi spendere?','Per quante persone cucini?','Quali pasti vuoi organizzare?','Le tue esigenze alimentari','La tua cucina','Che tipo di ricette preferisci?','Quando mangi a casa?','Come vuoi comporre i pasti?'];
+function renderOnboard(main){const s=state.step;let body='';if(s===0)body=`<p class="sub">Scegli i supermercati che frequenti. In seguito useremo queste preferenze per collegare fonti e volantini ufficiali quando disponibili.</p><div class="grid">${supermarkets.map(n=>choice(n,'🏪',state.stores.includes(n),`toggleArray('stores','${n}')`)).join('')}</div><p class="hint" style="margin-top:15px">Selezionane uno o più. Puoi modificarli anche in seguito.</p>`;
+if(s===1)body=`<p class="sub">Imposta un budget indicativo per la spesa della settimana, per tutte le persone selezionate.</p><div class="numwrap"><div class="amount">€ ${safe(state.budget||'0')}</div><div class="numpad">${['1','2','3','4','5','6','7','8','9','⌫','0','C'].map(n=>`<button class="numkey" onclick="numKey('${n}')">${n}</button>`).join('')}</div><span class="hint">Budget settimanale in euro</span></div>`;
+if(s===2)body=`<p class="sub">Le quantità degli ingredienti verranno adattate al numero di persone.</p><div class="grid">${['1','2','3','4','5','6+'].map((n,i)=>choice(n+' '+(n==='1'?'persona':'persone'),['🧍','👥','👥','👨‍👩‍👧','👨‍👩‍👧‍👦','👪'][i],state.people===n,`setVal('people','${n}')`)).join('')}</div>`;
+if(s===3)body=`<p class="sub">Scegli i momenti della giornata per cui vuoi organizzare le ricette.</p><div class="grid">${[['lunch','☀️','Solo pranzo','Un pasto al giorno'],['dinner','🌙','Solo cena','Un pasto al giorno'],['both','🍽️','Pranzo e cena','Fino a due pasti al giorno']].map(([v,e,t,d])=>choice(t,e,state.meals===v,`setVal('meals','${v}')`,d)).join('')}</div>`;
+if(s===4)body=`<p class="sub">Puoi selezionare più esigenze contemporaneamente. Per allergie o condizioni mediche, controlla sempre etichette e contaminazioni.</p><div class="grid">${[['Nessuna','🍽️'],['Vegetariano','🥦'],['Vegano','🌱'],['Senza Glutine','🌾'],['Senza Lattosio','🥛']].map(([v,e])=>choice(v,e,state.diet.includes(v),`toggleDiet('${v}')`)).join('')}</div>`;
+if(s===5)body=`<p class="sub">Attiva gli strumenti che hai in cucina: eviteremo di proporti ricette che ne richiedono uno non disponibile.</p><div class="togglelist">${[['Fornelli','🔥'],['Forno','♨️'],['Microonde','📡'],['Friggitrice ad aria','🍟']].map(([n,e])=>`<button class="toggleitem" onclick="toggleArray('kitchen','${n}')"><span>${e} &nbsp; ${n}</span><span class="switch ${state.kitchen.includes(n)?'on':''}"></span></button>`).join('')}</div>`;
+if(s===6)body=`<p class="sub">Seleziona fino a quattro stili. Puoi anche indicare gli ingredienti che non vuoi trovare nei piatti.</p><div class="grid">${[['Veloci e facili','⚡','Pochi passaggi, poco tempo'],['Proteici','💪','Ricchi di proteine'],['Piatti salutari','🥗','Leggeri e bilanciati'],['Per tutta la famiglia','👨‍👩‍👧','Semplici e versatili'],['Classici italiani','🍝','Ricette di casa'],['Poche calorie','🌿','Leggeri ma sazianti'],['Economiche','🪙','Attenzione alla spesa'],['Takeaway fatto in casa','🍔','Stile fast food']].map(([n,e,d])=>choice(n,e,state.styles.includes(n),`toggleStyle('${n}')`,d)).join('')}</div><div class="hint" style="margin-top:10px">${state.styles.length}/4 stili selezionati</div><details id="avoidDetails" ${ingredientPanelOpen?'open':''} ontoggle="ingredientPanelOpen=this.open"><summary>＋ Ingredienti che non vuoi mangiare (${state.avoid.length})</summary><input class="search" id="ingredientSearch" placeholder="Cerca un ingrediente…" oninput="filterIngredients(this.value)"><div class="ingredient-list" id="ingredientList">${ingredientChips(ingredients)}</div><p class="hint">Se un ingrediente è escluso, le ricette che lo contengono verranno filtrate. Le sostituzioni sono previste solo quando sensate.</p></details>`;
+if(s===7)body=`<p class="sub">Tocca i giorni in cui sei a casa. Nessun giorno è selezionato in partenza.</p><div class="sectionlabel">☀️ Pranzo <button class="smallbtn" onclick="toggleAllDays('lunch')">${state.lunch.length===7?'Deseleziona tutti':'Tutti i giorni'}</button></div><div class="days">${days.map((d,i)=>dayButton(i,'lunch')).join('')}</div><div class="sectionlabel">🌙 Cena <button class="smallbtn" onclick="toggleAllDays('dinner')">${state.dinner.length===7?'Deseleziona tutti':'Tutti i giorni'}</button></div><div class="days">${days.map((d,i)=>dayButton(i,'dinner')).join('')}</div><div class="notice">Il piano verrà creato soltanto per i giorni e i pasti selezionati.</div>`;
+if(s===8)body=`<p class="sub">Scegli al massimo due tipologie per organizzare la composizione dei pasti.</p><div class="grid">${[['Primo','🍝'],['Secondo','🍗'],['Primo e Secondo','🍝🍗'],['Piatto Unico','🥘']].map(([n,e])=>choice(n,e,state.types.includes(n),`toggleType('${n}')`)).join('')}</div><div class="hint" style="margin-top:10px">${state.types.length}/2 scelte</div>`;
+main.innerHTML=`<div class="eyebrow">Il tuo percorso · ${s+1} di 9</div><div class="stephead"><h1 class="h1">${stepTitles[s]}</h1><span class="stepcount">PASSO 0${s+1}</span></div><div class="progress"><span style="width:${(s+1)/9*100}%"></span></div><section class="panel">${body}<div class="footer"><button class="btn" onclick="prevStep()" ${s===0?'disabled':''}>← Indietro</button><div class="hint">Le tue scelte vengono salvate su questo dispositivo</div><button class="btn primary" onclick="nextStep()">${s===8?'Scopri le ricette →':'Continua →'}</button></div></section>`}
+function choice(name,emoji,sel,fn,desc=''){return `<button class="choice ${sel?'selected':''}" onclick="${fn}"><span class="tick">${sel?'✓':''}</span><span class="emoji">${emoji}</span><strong>${name}</strong>${desc?`<span class="small">${desc}</span>`:''}</button>`}
+function ingredientChips(arr){return arr.map(n=>`<button class="chip ${state.avoid.includes(n)?'selected':''}" data-ingredient="${safe(n)}" onclick="toggleAvoidIngredient('${n.replace(/'/g,"\\'")}')">${state.avoid.includes(n)?'✓ ':''}${safe(n)}</button>`).join('')}
+function dayButton(i,key){const sel=state[key].includes(i);return `<button class="daycheck ${sel?'selected':''}" onclick="toggleDay('${key}',${i})"><b>${dayShort[i]}</b>${sel?'✓':'+'}</button>`}
+function numKey(n){if(n==='C')state.budget='';else if(n==='⌫')state.budget=state.budget.slice(0,-1);else if(state.budget.length<4)state.budget=(state.budget==='0'?'':state.budget)+n;render()}
+function setVal(k,v){state[k]=v;render()}function toggleArray(k,v){state[k]=state[k].includes(v)?state[k].filter(x=>x!==v):[...state[k],v];render()}
+function toggleDiet(v){if(v==='Nessuna'){state.diet=['Nessuna']}else{state.diet=state.diet.filter(x=>x!=='Nessuna');state.diet=state.diet.includes(v)?state.diet.filter(x=>x!==v):[...state.diet,v];if(!state.diet.length)state.diet=['Nessuna']}render()}
+function toggleAllDays(k){state[k]=state[k].length===7?[]:[0,1,2,3,4,5,6];render()}
+function toggleStyle(v){if(state.styles.includes(v))state.styles=state.styles.filter(x=>x!==v);else if(state.styles.length<4)state.styles.push(v);render()}
+function toggleType(v){if(state.types.includes(v))state.types=state.types.filter(x=>x!==v);else if(state.types.length<2)state.types.push(v);render()}
+function toggleDay(k,i){state[k]=state[k].includes(i)?state[k].filter(x=>x!==i):[...state[k],i].sort((a,b)=>a-b);render()}
+function toggleAvoidIngredient(name){
+ state.avoid=state.avoid.includes(name)?state.avoid.filter(x=>x!==name):[...state.avoid,name];
+ persist();
+ const summary=document.querySelector('#avoidDetails summary');
+ if(summary)summary.textContent=`＋ Ingredienti che non vuoi mangiare (${state.avoid.length})`;
+ const query=document.getElementById('ingredientSearch')?.value||'';
+ const list=document.getElementById('ingredientList');
+ if(list)list.innerHTML=ingredientChips(ingredients.filter(x=>x.toLowerCase().includes(query.toLowerCase())));
+}
+function filterIngredients(q){const list=ingredients.filter(x=>x.toLowerCase().includes(q.toLowerCase()));document.getElementById('ingredientList').innerHTML=ingredientChips(list)}
+function prevStep(){if(state.step>0)state.step--;render()}function nextStep(){if(state.step<8){state.step++;render()}else{state.view='swipe';state.swipeIndex=0;state.likes=[];state.dislikes=[];render()}}
+function renderSwipe(main){let pool=tinderRecipes();if(!pool.length){main.innerHTML=`<div class="panel empty"><h2>Nessuna ricetta compatibile</h2><p>Con le preferenze attuali non troviamo ricette che rispettino tutti i criteri. Torna indietro e modifica stili, esigenze alimentari, ingredienti esclusi o attrezzatura.</p><button class="btn primary" onclick="state.view='onboard';state.step=6;render()">Modifica preferenze</button></div>`;return}const r=pool[state.swipeIndex%pool.length];main.innerHTML=`<div class="eyebrow">Il tuo gusto, il tuo menu</div><h1 class="h1">Quali ricette ti ispirano?</h1><p class="sub">Valuta queste proposte: useremo i tuoi sì e i tuoi no per affinare il piano settimanale.</p><div class="panel swipearea"><div class="recipehero">${recipeDetailData(r)?.image?`<img class="recipephoto" src="${safe(recipeDetailData(r).image)}" alt="${safe(r.name)}" loading="lazy" onerror="this.style.display='none'">`:`<span class="recipeemoji">${r.emoji}</span>`}</div><div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-top:17px"><div><h2 style="margin:0;font-size:23px;letter-spacing:-.6px">${r.name}</h2><div class="recipemeta"><span>◷ ${r.time} min</span><span>♨ ${recipeDetailData(r)?.kcal??'n.d.'} kcal</span></div></div><span class="daytag">${r.style}</span></div><div class="hint" style="margin-top:12px">${r.ings.join(' · ')}</div><div class="swipebuttons"><button class="roundbtn" aria-label="Non mi piace" onclick="rateRecipe(${r.id},false)">✕</button><button class="roundbtn like" aria-label="Mi piace" onclick="rateRecipe(${r.id},true)">♥</button></div><div class="counter">${Math.min(state.swipeIndex+1,pool.length)} di ${Math.min(10,pool.length)} · ${state.likes.length} preferite</div><div class="footer"><button class="btn" onclick="state.view='onboard';state.step=8;render()">← Indietro</button><button class="btn primary" onclick="finishSwipe()">${state.swipeIndex>=Math.min(10,pool.length)-1?'Crea il mio piano →':'Salta e continua →'}</button></div></div>`}
+function rateRecipe(id,yes){(yes?state.likes:state.dislikes).push(id);state.swipeIndex++;let pool=tinderRecipes();if(state.swipeIndex>=Math.min(10,pool.length)){finishSwipe()}else render()}
+function finishSwipe(){
+ // Il Tinder conclude l'onboarding e registra i gusti: la generazione del piano è separata.
+ state.planGeneration=0;
+ generateWeeklyPlan();
+ state.view='home';state.tab=state.meals==='dinner'?'Cena':'Pranzo';render();
+}
+function recipePreferenceScore(r){
+ const saved=(state.favorites||[]).map(id=>recipeData.find(x=>x.id===id)).filter(Boolean);
+ const liked=(state.likes||[]).map(id=>recipeData.find(x=>x.id===id)).filter(Boolean);
+ const positive=[...new Map([...saved,...liked].map(x=>[x.id,x])).values()];
+ const matchingIngredients=new Set();
+ positive.forEach(x=>x.ings.forEach(i=>matchingIngredients.add(i)));
+ const related=positive.filter(x=>x.id!==r.id);
+ const styleMatches=related.filter(x=>x.style===r.style).length;
+ const ingredientMatches=r.ings.filter(i=>matchingIngredients.has(i)).length;
+ return (state.likes.includes(r.id)?3:0)+
+        (state.favorites.includes(r.id)?4:0)+
+        (state.styles.includes(r.style)?1:0)+
+        Math.min(3,styleMatches)*0.6+Math.min(3,ingredientMatches)*0.35;
+}
+// Priorità: GialloZafferano; fonti alternative soltanto per schede aggiuntive
+// o campi non presenti, senza trasferire macro di una variante a un'altra.
+const secondarySources=['Il Cucchiaio d’Argento','Tavolartegusto','Cucina Botanica','Cookist'];
+function sourceRank(r){const source=(recipeDetailData(r)?.source||'').toLowerCase();return source.includes('giallozafferano')?0:secondarySources.some(x=>source.includes(x.toLowerCase()))?1:2}
+function requestedSlots(){const result=[];for(let d=0;d<7;d++)for(const meal of ['Pranzo','Cena'])if((meal==='Pranzo'&&state.meals!=='dinner'&&state.lunch.includes(d))||(meal==='Cena'&&state.meals!=='lunch'&&state.dinner.includes(d)))result.push(`${d}-${meal}`);return result}
+function rankedPool(excludeId=null){
+ return planRecipes().filter(r=>!state.dislikes.includes(r.id)&&r.id!==excludeId)
+  .sort((a,b)=>sourceRank(a)-sourceRank(b)||recipePreferenceScore(b)-recipePreferenceScore(a)||a.id-b.id);
+}
+function generateWeeklyPlan(){
+ const candidates=rankedPool();const slots=requestedSlots();const plan={};
+ // Gli ID sono unici nell'intera settimana, incluso pranzo/cena dello stesso giorno.
+ const offset=candidates.length?(state.planGeneration||0)%candidates.length:0;
+ const rotated=candidates.slice(offset).concat(candidates.slice(0,offset));
+ const used=new Set();
+ for(const slot of slots){const next=rotated.find(r=>!used.has(r.id));if(next){plan[slot]=next.id;used.add(next.id)}}
+ state.plan=plan;state.planMissing=slots.length-used.size;state.replacementHistory={};
+}
+function planKeyUsed(plan,id){return Object.values(plan).includes(id)}
+function renderHome(main){const n=countMeals();main.innerHTML=`<div class="homehead"><div><div class="eyebrow">La tua settimana, più semplice</div><h1 class="h1">Ciao, cosa cuciniamo?</h1><p class="sub" style="margin-bottom:0">Un piano fatto intorno ai tuoi gusti, alla tua cucina e al tuo tempo.</p></div></div><div class="summarybar"><div class="summaryitem"><div class="summaryicon">🛒</div><div class="summaryvalue">${state.stores.length?state.stores.slice(0,2).join(', ')+(state.stores.length>2?' +'+(state.stores.length-2):''):'Da scegliere'}</div><div class="summarylabel">Supermercati</div></div><div class="summaryitem"><div class="summaryicon">💶</div><div class="summaryvalue">€ ${safe(state.budget||'0')}</div><div class="summarylabel">Budget / settimana</div></div><div class="summaryitem"><div class="summaryicon">👥</div><div class="summaryvalue">${state.people} ${state.people==='1'?'persona':'persone'}</div><div class="summarylabel">Porzioni</div></div><div class="summaryitem"><div class="summaryicon">🗓️</div><div class="summaryvalue">${n} ${n===1?'pasto':'pasti'}</div><div class="summarylabel">Nel tuo piano</div></div><div class="summaryitem"><div class="summaryicon">🍴</div><div class="summaryvalue">${state.meals==='both'?'Pranzo e cena':state.meals==='lunch'?'Solo pranzo':'Solo cena'}</div><div class="summarylabel">Momenti</div></div></div><div class="actiongrid"><button class="actioncard" onclick="openFlyer()"><div class="actionicon">📰</div><div><strong>Volantino</strong><span>Apri il sito del supermercato</span></div><span style="margin-left:auto">↗</span></button><button class="actioncard" onclick="openCartDays()"><div class="actionicon">🛍️</div><div><strong>Carrello della spesa</strong><span>Ingredienti divisi per giorno</span></div><span style="margin-left:auto">→</span></button></div><div style="display:flex;justify-content:space-between;align-items:end;gap:12px"><div><div class="eyebrow">Il menu su misura</div><h2 style="font-size:25px;letter-spacing:-.7px;margin:0">Le tue ricette settimanali</h2></div><button class="btn" onclick="regenerateAll()">↻ Rigenera piano</button></div><div class="source-switch"><span>📚 <strong>Solo ricette con fonte</strong><small>${Object.keys(sourcedDetails).length} schede con ingredienti documentati · ${state.verifiedOnly?'Attivo':'Disattivo (include esempi non verificati)'}</small></span><button class="smallbtn" onclick="toggleVerifiedOnly()">${state.verifiedOnly?'Mostra anche le demo':'Usa solo fonti'}</button></div><div class="tabrow">${(state.meals!=='dinner'?`<button class="tab ${state.tab==='Pranzo'?'active':''}" onclick="setTab('Pranzo')">☀️ Pranzo</button>`:'')}${(state.meals!=='lunch'?`<button class="tab ${state.tab==='Cena'?'active':''}" onclick="setTab('Cena')">🌙 Cena</button>`:'')}</div><div class="recipegrid weekly-recipes-grid">${renderRecipeCards()}</div>${renderSavedSection()}<div class="notice">Catalogo iniziale con fonti consultabili. Le ricette non documentate sono accessibili solo disattivando il filtro delle fonti. Kcal e macronutrienti sono stime della fonte; budget e prezzi locali non sono ancora calcolabili. Le immagini sono segnaposto per rispettare i diritti degli autori.</div>`}
+function renderRecipeCards(){const list=[];days.forEach((d,i)=>{const key=`${i}-${state.tab}`;if(state.plan[key]!==undefined){const r=getRecipe(state.plan[key]);list.push(`<article class="recipecard" onclick="if(!event.target.closest('button'))showRecipe(${r.id})"><div class="thumb" role="button" tabindex="0" onclick="showRecipe(${r.id})" onkeydown="if(event.key==='Enter')showRecipe(${r.id})">${recipeDetailData(r)?.image?`<img class="thumbphoto" src="${safe(recipeDetailData(r).image)}" alt="${safe(r.name)}" loading="lazy" onerror="this.style.display='none'">`:r.emoji}</div><div><div class="cardtop"><span class="daytag">${d}</span><button class="iconbtn" title="Salva nei preferiti" onclick="toggleFavorite(${r.id})">${state.favorites.includes(r.id)?'♥':'♡'}</button></div><h3 onclick="showRecipe(${r.id})">${r.name}</h3><div class="cardmeta">◷ ${r.time??'n.d.'} min &nbsp;·&nbsp; ${recipeDetailData(r)?.kcal??'n.d.'} kcal</div><div class="cardactions"><button class="smallbtn" onclick="showRecipe(${r.id})">Vedi ricetta</button><button class="iconbtn" title="Cambia ricetta" onclick="replaceRecipe(${i},'${state.tab}')">↻</button></div></div></article>`)}});days.forEach((day,i)=>{const key=`${i}-${state.tab}`;if(requestedSlots().includes(key)&&state.plan[key]===undefined)list.push(`<article class="recipecard"><div class="thumb">📖</div><div><span class="daytag">${day}</span><h3>Ricetta da trovare</h3><div class="cardmeta">Nessuna ricetta diversa e compatibile disponibile</div></div></article>`)});return list.length?list.join(''):'<div class="empty" style="grid-column:1/-1">Nessun pasto selezionato per questa sezione.<br>Puoi modificare i giorni nelle preferenze.</div>'}
+function savedRecipeCard(r){
+ return `<article class="recipecard" onclick="if(!event.target.closest('button'))showRecipe(${r.id})">
+   <div class="thumb" role="button" tabindex="0" onclick="showRecipe(${r.id})" onkeydown="if(event.key==='Enter')showRecipe(${r.id})">${r.emoji}</div>
+   <div><div class="cardtop"><span class="daytag">Salvata</span><button class="iconbtn" aria-label="Rimuovi ${safe(r.name)} dai preferiti" title="Rimuovi dai preferiti" onclick="toggleFavorite(${r.id})">♥</button></div>
+   <h3>${safe(r.name)}</h3><div class="cardmeta">◷ ${r.time??'n.d.'} min &nbsp;·&nbsp; ${recipeDetailData(r)?.kcal??'n.d.'} kcal</div>
+   <button class="smallbtn" onclick="showRecipe(${r.id})">Vedi ricetta</button></div>
+ </article>`;
+}
+function savedRecipes(){return [...new Set(state.favorites||[])].map(id=>recipeData.find(r=>r.id===id)).filter(Boolean)}
+function renderSavedSection(){
+ const saved=savedRecipes();
+ return `<section class="saved-section" aria-label="Ricette Salvate">
+  <div class="saved-heading"><div><div class="eyebrow">Da cucinare ancora</div><h2 style="font-size:25px;letter-spacing:-.7px;margin:0">Ricette Salvate</h2></div>
+  ${saved.length>4?'<button class="saved-all" onclick="showAllSaved()">Visualizza Tutto →</button>':''}</div>
+  ${saved.length?`<div class="recipegrid">${saved.slice(0,4).map(savedRecipeCard).join('')}</div>`:'<p class="hint">Le ricette che salvi con il cuoricino compariranno qui.</p>'}
+ </section>`;
+}
+function showAllSaved(){
+ const saved=savedRecipes();
+ modal(`<div class="modalhead"><h2 style="margin:0">Ricette Salvate (${saved.length})</h2><button class="close" onclick="closeModal()">✕</button></div>
+ <div class="recipegrid saved-modal-grid" style="margin-top:18px">${saved.length?saved.map(savedRecipeCard).join(''):'<p class="hint">Non hai ancora salvato ricette.</p>'}</div>`);
+}
+function setTab(t){state.tab=t;render()}function toggleFavorite(id){const expanded=!!document.querySelector('.saved-modal-grid');state.favorites=state.favorites.includes(id)?state.favorites.filter(x=>x!==id):[...state.favorites,id];render();if(expanded)showAllSaved()}
+function replaceRecipe(day,meal){
+ const key=`${day}-${meal}`, current=state.plan[key];
+ // Mai riciclare una ricetta già assegnata a un altro pasto.
+ const alreadyUsed=new Set(Object.entries(state.plan).filter(([k])=>k!==key).map(([,id])=>id));
+ const pool=rankedPool(current).filter(r=>!alreadyUsed.has(r.id));
+ if(!pool.length){modal('<div class="modalhead"><h2>Nessuna alternativa diversa disponibile</h2><button class="close" onclick="closeModal()">✕</button></div><p>Le altre ricette compatibili sono già utilizzate nella settimana oppure non rispettano le tue esigenze. Non sostituisco il piatto con un duplicato: prova ad ampliare il catalogo o le preferenze.</p>');return}
+ state.replacementHistory??={};
+ const seen=state.replacementHistory[key]||(state.replacementHistory[key]=[]);
+ let available=pool.filter(r=>!seen.includes(r.id));
+ if(!available.length){state.replacementHistory[key]=[];available=pool}
+ const next=available[0];state.replacementHistory[key].push(next.id);
+ state.plan[key]=next.id;render();
+}
+function toggleVerifiedOnly(){state.verifiedOnly=!state.verifiedOnly;state.planGeneration=0;generateWeeklyPlan();render()}
+function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;generateWeeklyPlan();render()}
+function showRecipe(id){const r=getRecipe(id),d=recipeDetailData(r),people=peopleCount();
+ const metric=(title,val)=>`<div class="detailmetric"><span>${title}</span><b>${val}</b></div>`;
+ const mac=(klass,title,key)=>`<div class="detailmacro ${klass}"><span>${title}</span><b>${typeof d?.[key]==='number'?d[key].toLocaleString('it-IT')+' g':'n.d.'}</b></div>`;
+ const steps=d?`<ol class="detailsteps">${d.steps.map(x=>`<li>${safe(x)}</li>`).join('')}</ol>`:'<p class="hint">Procedimento non ancora verificato per questa ricetta. Nessun passaggio viene inventato.</p>';
+ modal(`<div class="modalhead"><h2 style="margin:0">${safe(r.name)}</h2><button class="close" onclick="closeModal()">✕</button></div>
+ <div class="detailhero">${d?.image?`<img src="${safe(d.image)}" alt="${safe(r.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.nextElementSibling.style.display='block'">`:''}<span class="foodart" style="${d?.image?'display:none':''}">${r.emoji}</span>${!d?.image?'<small>Foto non ancora verificata</small>':''}</div>
+ <div class="detailmetrics">${metric('Persone',people)}${metric('Tempo',d?.minutes?d.minutes+' min':'n.d.')}${metric('Calorie',d?.kcal?d.kcal+' kcal/porz.':'n.d.')}${metric('Costo',d?.cost||'n.d.')}</div>
+ <div class="detailmacros">${mac('protein','Proteine','protein')}${mac('carbs','Carboidrati','carbs')}${mac('fats','Grassi','fats')}</div>
+ <h3>Ingredienti per ${people} ${people===1?'persona':'persone'}</h3>${ingredientRows(r)}
+ <h3>Preparazione passo per passo</h3>${steps}
+ ${d?`<a class="sourcebtn" href="${d.url}" target="_blank" rel="noopener noreferrer">Fonte: ${safe(d.source)} ↗</a>`:'<div class="notice">Scheda non verificata: le informazioni dettagliate verranno mostrate solo dopo l’acquisizione da una fonte affidabile.</div>'}
+ <div class="notice">Kcal, tempi, costo e macronutrienti sono riportati solo se presenti nella fonte (il costo qualitativo non è un prezzo di vendita). Le quantità numeriche sono proporzionate dalle dosi originali, mentre “q.b.” resta invariato.</div>`)
+}
+function openCartDays(){let ds=chosenDays();modal(`<div class="modalhead"><div><div class="eyebrow">Lista della spesa</div><h2 style="margin:0">Scegli un giorno</h2></div><button class="close" onclick="closeModal()">✕</button></div><p class="sub" style="margin:8px 0 16px">Apri un giorno per vedere gli ingredienti raggruppati per pranzo e cena.</p>${ds.length?ds.map(i=>`<button class="cartday" onclick="showCartDay(${i})"><span>🗓️ &nbsp;${days[i]}</span><span>→</span></button>`).join(''):'<div class="empty">Non hai selezionato giorni per i pasti. Modifica le preferenze per creare la lista.'}<button class="btn primary" style="margin-top:14px" onclick="exportShoppingList()">↓ Esporta lista completa (.csv)</button><div class="notice">La lista utilizza le grammature dichiarate dalle fonti e proporziona le dosi alle persone selezionate. Prezzi di supermercato non disponibili.</div>`)}
+function showCartDay(i){let html=`<div class="modalhead"><div><div class="eyebrow">Carrello della spesa</div><h2 style="margin:0">${days[i]}</h2></div><button class="close" onclick="openCartDays()">← Giorni</button></div>`;['Pranzo','Cena'].forEach(m=>{const id=state.plan[`${i}-${m}`];if(id===undefined)return;const r=getRecipe(id);html+=`<h3>${m==='Pranzo'?'☀️':'🌙'} ${m} · ${safe(r.name)}</h3>`+ingredientRows(r,true)});html+='<div class="notice">Quantità proporzionate dalle ricette con fonte verificata. Dove mancano fonti, le grammature non vengono inventate.</div>';modal(html)}
+function exportShoppingList(){
+ const entries=new Map();let missing=[];
+ Object.entries(state.plan).forEach(([slot,id])=>{
+  const r=getRecipe(id),d=recipeDetailData(r);
+  if(!d){missing.push(r.name);return}
+  const portion=peopleCount()/d.servings;
+  d.ingredients.forEach(([name,qty,unit])=>{
+   const key=name.toLowerCase().trim()+'|'+unit;
+   const old=entries.get(key)||{name,qty:0,unit,unknown:false,meals:[]};
+   if(qty===null)old.unknown=true;else old.qty+=qty*portion;
+   old.meals.push(slot);entries.set(key,old);
+  });
+ });
+ const csv=[['Ingrediente','Quantità totale','Unità','Pasti'].join(';'),...Array.from(entries.values()).sort((a,b)=>a.name.localeCompare(b.name,'it')).map(x=>[x.name,x.unknown?'q.b.':String(Number(x.qty.toFixed(2))).replace('.',','),x.unit,x.meals.join(' / ')].map(v=>'"'+String(v).replaceAll('"','""')+'"').join(';'))];
+ if(missing.length)csv.push('"Ricette senza quantità verificate";"'+missing.join(', ').replaceAll('"','""')+'";;');
+ const blob=new Blob(['\ufeff'+csv.join('\r\n')],{type:'text/csv;charset=utf-8'});
+ const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='cheffino-lista-spesa.csv';document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
+}
+function modal(html){document.getElementById('modalRoot').innerHTML=`<div class="overlay" onclick="if(event.target===this)closeModal()"><div class="modal">${html}</div></div>`}function closeModal(){document.getElementById('modalRoot').innerHTML=''}
+const flyerLinks={'Aldi':'https://www.aldi.it/','Alì':'https://www.alisupermercati.it/','Bennet':'https://www.bennet.com/','Carrefour':'https://www.carrefour.it/','Conad':'https://www.conad.it/','Coop':'https://www.coop.it/','Dec':'https://www.dec.it/','Despar':'https://www.despar.it/','Dodecà':'https://www.dodeca.it/','Esselunga':'https://www.esselunga.it/','Eurospin':'https://www.eurospin.it/','Famila':'https://www.famila.it/','Il Gigante':'https://www.ilgigante.net/','Lidl':'https://www.lidl.it/','MD':'https://www.mdspa.it/','PAM':'https://www.pampanorama.it/','Penny':'https://www.penny.it/','Sole365':'https://www.sole365.it/','Tigros':'https://www.tigros.it/'};
+function openFlyer(){if(state.stores.length>1){modal(`<div class="modalhead"><div><div class="eyebrow">Volantini</div><h2 style="margin:0">Scegli il supermercato</h2></div><button class="close" onclick="closeModal()">✕</button></div><p class="sub">Quale volantino vuoi consultare?</p>${state.stores.map(s=>`<button class="cartday" onclick="openFlyerFor('${s.replace(/'/g,"\\'")}')"><span>🏪 &nbsp;${safe(s)}</span><span>↗</span></button>`).join('')}`);return}const s=state.stores[0];if(!s){modal(`<div class="modalhead"><h2>Scegli un supermercato</h2><button class="close" onclick="closeModal()">✕</button></div><p>Non hai selezionato un supermercato durante l'onboarding.</p><button class="btn primary" onclick="closeModal();openSettings()">Apri preferenze</button>`);return}const url=flyerLinks[s];modal(`<div class="modalhead"><h2>📰 Volantino ${safe(s)}</h2><button class="close" onclick="closeModal()">✕</button></div><p>Apri il sito ufficiale del supermercato selezionato. La disponibilità del volantino può dipendere dalla zona e dal punto vendita.</p><button class="btn primary" onclick="window.open('${url}','_blank','noopener')">Apri sito ufficiale ↗</button><div class="notice">Questo prototipo apre il sito ufficiale del marchio, ma non verifica ancora il volantino locale o i prezzi.</div>`)}
+function openFlyerFor(s){const url=flyerLinks[s];modal(`<div class="modalhead"><h2>📰 Volantino ${safe(s)}</h2><button class="close" onclick="closeModal()">✕</button></div><p>Apri il sito ufficiale del supermercato selezionato. La disponibilità del volantino può dipendere dalla zona e dal punto vendita.</p><button class="btn primary" onclick="window.open('${url}','_blank','noopener')">Apri sito ufficiale ↗</button><div class="notice">Questo prototipo apre il sito ufficiale del marchio, ma non verifica ancora il volantino locale o i prezzi.</div>`)}
+function openSettings(){modal(`<div class="modalhead"><h2>⚙ Le tue preferenze</h2><button class="close" onclick="closeModal()">✕</button></div><p>Per modificare le impostazioni puoi riaprire l'onboarding con il pulsante qui sotto. Le preferenze correnti sono conservate su questo dispositivo.</p><div class="ingredientrow"><span>Supermercati</span><strong style="margin-left:auto">${state.stores.join(', ')||'Nessuno'}</strong></div><div class="ingredientrow"><span>Budget</span><strong style="margin-left:auto">€ ${state.budget}</strong></div><div class="ingredientrow"><span>Persone</span><strong style="margin-left:auto">${state.people}</strong></div><div class="ingredientrow"><span>Dieta</span><strong style="margin-left:auto">${state.diet}</strong></div><div class="ingredientrow"><span>Ingredienti esclusi</span><strong style="margin-left:auto">${state.avoid.length}</strong></div><div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:18px"><button class="btn" onclick="exportCheffinoBackup()">↓ Esporta backup</button><button class="btn" onclick="document.getElementById('cheffinoBackupInput').click()">↑ Importa backup</button></div><div class="notice">Il backup contiene piano, preferenze e preferiti. Conservalo nell’app File dell’iPhone.</div><button class="btn primary" style="margin-top:18px" onclick="closeModal();state.view='onboard';state.step=0;render()">Modifica onboarding</button>`)}
+function exportCheffinoBackup(){
+  persist();
+  const payload={application:'cheffino',backupVersion:1,exportedAt:new Date().toISOString(),state};
+  const blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});
+  const url=URL.createObjectURL(blob);const a=document.createElement('a');
+  a.href=url;a.download='cheffino-backup-'+new Date().toISOString().slice(0,10)+'.json';
+  document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),10000);
+}
+async function importCheffinoBackup(input){
+  const file=input.files&&input.files[0];if(!file)return;
+  try{const payload=JSON.parse(await file.text());
+    if(payload.application!=='cheffino'||payload.backupVersion!==1||!payload.state||typeof payload.state!=='object'||Array.isArray(payload.state))throw Error('File non riconosciuto');
+    if(!confirm('Vuoi sostituire il piano e le preferenze correnti con questo backup?'))return;
+    const restored={...defaults,...payload.state};
+    if(!Array.isArray(restored.favorites)||!Array.isArray(restored.likes)||!Array.isArray(restored.dislikes)||!Array.isArray(restored.stores))throw Error('Backup non valido');
+    state=restored;persist();closeModal();render();alert('Backup importato correttamente.');
+  }catch(e){alert('Impossibile importare il backup: '+e.message)}finally{input.value=''}
+}
+
+// Il catalogo pubblicato su Render è la fonte dati primaria. Le schede locali
+// rimangono come fallback se l'API non risponde (es. sviluppo offline).
+async function caricaCatalogoServer(){
+ try{
+  const response=await fetch('/api/recipes',{cache:'no-store'});
+  if(!response.ok)throw new Error('HTTP '+response.status);
+  const payload=await response.json();
+  if(!Array.isArray(payload.recipes))throw new Error('Formato catalogo non valido');
+  for(const entry of payload.recipes){
+   if(entry.needs_review)continue; // Non pubblicare schede ancora in revisione.
+   if(typeof entry.id!=='number'||!entry.name||!entry.url||!Array.isArray(entry.ingredients))continue;
+   const existing=recipeData.find(r=>r.id===entry.id);
+   const item={id:entry.id,name:entry.name,emoji:entry.emoji||'🍽️',
+     time:entry.time??null,kcal:entry.kcal??null,
+     ings:entry.ingredients.map(x=>Array.isArray(x)?x[0]:''),
+     style:entry.style||'Da classificare',type:entry.type||'Piatto unico',
+     autoValidated:!!entry.validazione_automatica?.approved,
+     requiredTools:entry.validazione_automatica?.tools||[]};
+   if(existing)Object.assign(existing,item);else recipeData.push(item);
+   sourcedDetails[entry.id]={source:entry.source||'Fonte online',url:entry.url,
+     servings:entry.servings||null,minutes:entry.time??null,kcal:entry.kcal??null,
+     cost:entry.cost??null,protein:entry.protein??null,carbs:entry.carbs??null,fats:entry.fats??null,
+     image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps||[]};
+  }
+  console.info('Cheffino: catalogo caricato dal server',payload.recipes.length);
+  if(state.view==='home' && Object.keys(state.plan||{}).length===0){generateWeeklyPlan();}
+ }catch(e){console.warn('Cheffino: catalogo locale di riserva',e.message)}
+ render();
+}
+
+render();
+caricaCatalogoServer();
+
+</script></body></html>

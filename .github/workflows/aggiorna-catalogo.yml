@@ -27,6 +27,7 @@ jobs:
           python classifica_catalogo.py
           python verifica_catalogo.py
           python valida_catalogo.py
+          python pulisci_procedimenti.py
           python -m json.tool data/catalogo.json > /dev/null
       - name: Salva catalogo
         run: |

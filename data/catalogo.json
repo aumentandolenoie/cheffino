@@ -1580,7 +1580,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T13:42:42.270658+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:15.736562+00:00",
+    "images_import_version": 2
   },
   {
     "id": 171021698363776,
@@ -2344,7 +2345,8 @@
         "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T13:42:45.928458+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:45.731925+00:00",
+    "images_import_version": 2
   },
   {
     "id": 1681453928818,
@@ -4119,7 +4121,8 @@
         "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T13:42:39.644030+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:43.120909+00:00",
+    "images_import_version": 2
   },
   {
     "id": 120172866436140,
@@ -5373,7 +5376,8 @@
         "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_18.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T13:42:48.779186+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:40.521596+00:00",
+    "images_import_version": 2
   },
   {
     "id": 195906486229640,
@@ -5777,7 +5781,8 @@
         "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T13:42:51.444499+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:37.931024+00:00",
+    "images_import_version": 2
   },
   {
     "id": 90872653943460,
@@ -7206,7 +7211,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23490/cioccolatte-bianco_15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare il cioccolatte bianco scaldate l’acqua in un pentolino sino a raggiungere la temperatura di 85° 1 . Raggiunta la temperatura versate il cappuccino solubile nell’acqua 2 e mescolate bene. Aspettate circa 20 secondi e mescolare nuovamente e lasciate intiepidire 3 .",
+      "Versate nel bicchiere del frullatore il ghiaccio a cubetti 4 , il cappuccino tiepido 5 ed il cioccolato fuso 6 , sciolto a bagnomaria. Azionate il frullatore e frullate il composto per circa 60 secondi.",
+      "Tenete da parte 7 e nel frattempo montare la panna con le fruste elettriche 8 finchè non sarà spumosa 9 .",
+      "Trasferite la panna montata in un sac-à-poche con bocchetta a stella. Componente il vostro cioccolatte: in un bicchiere versate 5 cubetti di ghiaccio, il composto frullato 11 e guarnire con la panna 12 .",
+      "Spolverate con la polvere di caffè 13 e decorate con le scaglie di cioccolato bianco 14 . Il cioccolate è pronto per essere gustato 15 ."
+    ],
+    "steps_clean": [
+      "Per realizzare il cioccolatte bianco scaldate l’acqua in un pentolino sino a raggiungere la temperatura di 85°. Raggiunta la temperatura versate il cappuccino solubile nell’acqua e mescolate bene. Aspettate circa 20 secondi e mescolare nuovamente e lasciate intiepidire.",
+      "Versate nel bicchiere del frullatore il ghiaccio a cubetti, il cappuccino tiepido ed il cioccolato fuso, sciolto a bagnomaria. Azionate il frullatore e frullate il composto per circa 60 secondi.",
+      "Tenete da parte e nel frattempo montare la panna con le fruste elettriche finchè non sarà spumosa.",
+      "Trasferite la panna montata in un sac-à-poche con bocchetta a stella. Componente il vostro cioccolatte: in un bicchiere versate 5 cubetti di ghiaccio, il composto frullato 11 e guarnire con la panna 12 .",
+      "Spolverate con la polvere di caffè 13 e decorate con le scaglie di cioccolato bianco 14 . Il cioccolate è pronto per essere gustato 15 ."
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:21:09.553613+00:00"
   },
   {
     "id": 205047828110600,
@@ -7314,7 +7362,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25731/cicciopancake_15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare i cicciopancake, separate i tuorli dagli albumi e versate questi ultimi in una ciotola 1 . Montate gli albumi con una frusta a mano 2 , dovranno risultare spumosi. Aggiungete lo yogurt 3 e sbattete ancora con la frusta.",
+      "Incorporate anche la farina d'avena 4 , lo sciroppo d’agave  5 e il lievito 6 .",
+      "Mescolate il tempo di rendere il composto omogeneo 7 . Ungete con olio di semi (o di cocco) un tegamino di circa 12 cm di diametro, dai bordi alti 8 e fate scaldare sul fuoco. Versate il composto 9 .",
+      "Coprite con un coperchio 10 e fate cuocere per circa 10 minuti a fiamma bassa, poi girate delicatamente con una spatola o forchetta e fare terminare la cottura dall'altro lato 11 per altri 10 minuti. Rovesciate il cicciopancake su un piatto di portata 12 .",
+      "Guarnite con i frutti di bosco 13 , lo sciroppo d'agave e la granella di pistacchi 15 . Servite subito 15 ."
+    ],
+    "steps_clean": [
+      "Per preparare i cicciopancake, separate i tuorli dagli albumi e versate questi ultimi in una ciotola. Montate gli albumi con una frusta a mano, dovranno risultare spumosi. Aggiungete lo yogurt e sbattete ancora con la frusta.",
+      "Incorporate anche la farina d'avena, lo sciroppo d’agave e il lievito.",
+      "Mescolate il tempo di rendere il composto omogeneo. Ungete con olio di semi (o di cocco) un tegamino di circa 12 cm di diametro, dai bordi alti e fate scaldare sul fuoco. Versate il composto.",
+      "Coprite con un coperchio e fate cuocere per circa 10 minuti a fiamma bassa, poi girate delicatamente con una spatola o forchetta e fare terminare la cottura dall'altro lato per altri 10 minuti. Rovesciate il cicciopancake su un piatto di portata.",
+      "Guarnite con i frutti di bosco, lo sciroppo d'agave e la granella di pistacchi 15. Servite subito 15."
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:21:06.934820+00:00"
   },
   {
     "id": 251574711530283,
@@ -7421,7 +7512,85 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23687/biscotti-bicolore-cacao-e-zucca_30.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare i biscotti bicolore cacao e zucca per prima cosa preparate la zucca. Pelatela e tagliatela a cubetti 1 . Cuocete a vapore 2 fino a quando non diventerà morbida 3 .",
+      "Una volta cotta frullatela 4 per ottenere una crema 5 , otterrete circa 200 g di purea. Lasciate raffreddare. Una volta fredda la zucca preparate la frolla. Versate la farina e il burro in una ciotola 6 .",
+      "Lavorate con le mani per creare la sabbiatura 7 poi versate il tuorlo 8 e lo zucchero 9 .",
+      "Unite anche la polpa di zucca 10 , la fecola di patate 11 , lo zucchero e impastate 12 .",
+      "Dovrete ottenere un panetto omogeneo 13 .Dividete l’impasto in due parti uguali. Uno lo tenete cosi e nell’altro aggiungete il cacao 14 . Lavorate per amalgamare 15 .",
+      "Otterrete così un panetto scuro 16 . Coprite con pellicola entrambi i panetti 17 e lasciate riposare in frigo per 30 minuti. Trascorso il tempo stendete la frolla scura a uno spessore di circa 4-5 mm 18 .",
+      "Ricavate 20 biscotti con gli stampi a forma di zucca di circa 7 cm 19 . Con un coltellino praticate dei tagli 20 . Stendete ora allo stesso modo il panetto chiaro 21 .",
+      "Ricavate anche qui 20 biscotti con lo stesso stampo 22 . Con un coltellino intagliate gli occhi e la bocca 23 . Adagiate i biscotti chiari 24",
+      "e i biscotti scuri su due teglie e cuocete in forno statico preriscaldato a 180° per 25 minuti circa. Una volta cotti, sfornate i biscotti 26 27 e lasciate raffreddare.",
+      "Farcite i biscotti scuri con la confettura 28 e richiudeteli con il biscotto chiaro 29 . I biscotti bicolore cacao e zucca sono pronti per essere gustati 30 ."
+    ],
+    "steps_clean": [
+      "Per realizzare i biscotti bicolore cacao e zucca per prima cosa preparate la zucca. Pelatela e tagliatela a cubetti. Cuocete a vapore fino a quando non diventerà morbida.",
+      "Una volta cotta frullatela per ottenere una crema, otterrete circa 200 g di purea. Lasciate raffreddare. Una volta fredda la zucca preparate la frolla. Versate la farina e il burro in una ciotola.",
+      "Lavorate con le mani per creare la sabbiatura poi versate il tuorlo e lo zucchero.",
+      "Unite anche la polpa di zucca, la fecola di patate, lo zucchero e impastate.",
+      "Dovrete ottenere un panetto omogeneo.Dividete l’impasto in due parti uguali. Uno lo tenete cosi e nell’altro aggiungete il cacao. Lavorate per amalgamare.",
+      "Otterrete così un panetto scuro. Coprite con pellicola entrambi i panetti e lasciate riposare in frigo per 30 minuti. Trascorso il tempo stendete la frolla scura a uno spessore di circa 4-5 mm.",
+      "Ricavate 20 biscotti con gli stampi a forma di zucca di circa 7 cm. Con un coltellino praticate dei tagli. Stendete ora allo stesso modo il panetto chiaro.",
+      "Ricavate anche qui 20 biscotti con lo stesso stampo. Con un coltellino intagliate gli occhi e la bocca. Adagiate i biscotti chiari",
+      "e i biscotti scuri su due teglie e cuocete in forno statico preriscaldato a 180° per 25 minuti circa. Una volta cotti, sfornate i biscotti 26 27 e lasciate raffreddare.",
+      "Farcite i biscotti scuri con la confettura 28 e richiudeteli con il biscotto chiaro 29 . I biscotti bicolore cacao e zucca sono pronti per essere gustati 30 ."
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:21:01.668184+00:00"
   },
   {
     "id": 44298545603766,
@@ -7509,7 +7678,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:20:58.949171+00:00"
   },
   {
     "id": 157512128901781,
@@ -7594,7 +7765,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la besciamella per prima cosa versate il latte in un pentolino 1 , aggiungete la noce moscata 2 e il sale 3 , poi fatelo scaldare.",
+      "Mettete il burro in un'altra pentola 4 e fatelo sciogliere a fuoco dolce, poi aggiungete la farina in una volta sola 5 . Mescolate vigorosamente con una frusta a mano per evitare la formazione di grumi 6 . Continuate a mescolare fino ad ottenere un composto dorato, il roux.",
+      "A questo punto stemperate il roux versando prima poco latte caldo 7 , mescolate con una frusta 8 e poi versate tutto il resto del latte 9 .",
+      "Continuate a mescolare 10 a fuoco dolce fino a raggiungere la consistenza desiderata 11 ; cuocendo la besciamella per 5-6 minuti otterrete una densità media. La besciamella è pronta potete utilizzarla subito oppure conservarla. In questo caso versatela in una ciotola 12 .",
+      "Coprite con pellicola a contatto 13 e lasciatela raffreddare. Al momento di utilizzarla lavoratela con una frusta per farla tornare liscia 14 . Se dovesse essere troppo fredda potete scaldarla in microonde aggiungendo poco latte. La besciamella è pronta 15 !"
+    ],
+    "steps_clean": [
+      "Per preparare la besciamella per prima cosa versate il latte in un pentolino, aggiungete la noce moscata e il sale, poi fatelo scaldare.",
+      "Mettete il burro in un'altra pentola e fatelo sciogliere a fuoco dolce, poi aggiungete la farina in una volta sola. Mescolate vigorosamente con una frusta a mano per evitare la formazione di grumi. Continuate a mescolare fino ad ottenere un composto dorato, il roux.",
+      "A questo punto stemperate il roux versando prima poco latte caldo, mescolate con una frusta e poi versate tutto il resto del latte.",
+      "Continuate a mescolare a fuoco dolce fino a raggiungere la consistenza desiderata; cuocendo la besciamella per 5-6 minuti otterrete una densità media. La besciamella è pronta potete utilizzarla subito oppure conservarla. In questo caso versatela in una ciotola.",
+      "Coprite con pellicola a contatto e lasciatela raffreddare. Al momento di utilizzarla lavoratela con una frusta per farla tornare liscia. Se dovesse essere troppo fredda potete scaldarla in microonde aggiungendo poco latte. La besciamella è pronta!"
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:20:56.299207+00:00"
   },
   {
     "id": 240182235946326,
@@ -7715,7 +7929,8 @@
         "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T13:42:54.058795+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:31.852075+00:00",
+    "images_import_version": 2
   },
   {
     "id": 275941352617638,
@@ -7860,7 +8075,8 @@
         "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_18.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T13:42:56.693951+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:29.247100+00:00",
+    "images_import_version": 2
   },
   {
     "id": 149339473991213,
@@ -7994,7 +8210,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:20:53.675320+00:00"
   },
   {
     "id": 177798028193126,
@@ -8890,7 +9108,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T14:00:16.523150+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:26.654541+00:00",
+    "images_import_version": 2
   },
   {
     "id": 103362004279734,
@@ -8972,7 +9191,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T14:00:19.116162+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:24.033504+00:00",
+    "images_import_version": 2
   },
   {
     "id": 59285397777100,
@@ -9209,7 +9429,8 @@
         "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:00:21.710209+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:50.917874+00:00",
+    "images_import_version": 2
   },
   {
     "id": 116426078695065,
@@ -9745,7 +9966,8 @@
         "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_24.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:00:24.300603+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:48.320291+00:00",
+    "images_import_version": 2
   },
   {
     "id": 48518277466931,
@@ -9946,7 +10168,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T14:00:26.892865+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:20.993282+00:00",
+    "images_import_version": 2
   },
   {
     "id": 224153607055441,
@@ -10209,7 +10432,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T14:00:29.480084+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:18.364314+00:00",
+    "images_import_version": 2
   },
   {
     "id": 21569966455552,
@@ -10633,7 +10857,8 @@
         "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_12.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:08:54.607547+00:00"
+    "step_images_checked_at": "2026-10-10T14:20:34.577197+00:00",
+    "images_import_version": 2
   },
   {
     "id": 274823696561498,
@@ -12582,7 +12807,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:21:20.170382+00:00"
   },
   {
     "id": 121947647805280,
@@ -12959,6 +13186,2549 @@
       "tools": [
         "Forno",
         "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 131361794134108,
+    "name": "Insalata di patate con cicoria e feta",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 60,
+    "ingredients_display": [
+      "Patate novelle 1 kg",
+      "Cicoria 350 g",
+      "Feta 200 g",
+      "Pinoli 25 g",
+      "Olio extravergine d'oliva 30 g",
+      "Aceto di mele 10 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-patate-con-cicoria-e-feta.html",
+    "image_url": "https://www.giallozafferano.it/images/272-27280/Insalata-di-patate-con-cicoria-e-feta_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 457.1,
+    "protein": null,
+    "carbs": 51.4,
+    "fats": 23.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Patate novelle",
+        1.0,
+        "kg"
+      ],
+      [
+        "Cicoria",
+        350.0,
+        "g"
+      ],
+      [
+        "Feta",
+        200.0,
+        "g"
+      ],
+      [
+        "Pinoli",
+        25.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ],
+      [
+        "Aceto di mele",
+        10.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare l’insalata di patate con cicoria e feta per prima cosa lessate le patate a partire da acqua fredda per circa 30-40 minuti, fino a quando saranno abbastanza morbide da infilzarle con una forchetta. Nel frattempo versate i pinoli in una padella e tostateli per un paio di minuti, poi teneteli da parte.",
+      "Una volta cotte, scolate le patate e lasciatele raffreddare. Intanto pulite la cicoria dai gambi più duri e tagliate le foglie grossolanamente, poi sciacquatela sotto l’acqua corrente. Riducete la feta a cubetti.",
+      "Versate l’olio in una ciotolina, poi aggiungete il sale, il pepe e l’aceto di mele. Emulsionate bene e tenete da parte.",
+      "Quando le patate si saranno raffreddate, eliminate la buccia e tagliatele a cubetti di circa 3-4 cm. Trasferite i cubetti di patate in una ciotola capiente, poi aggiungete la cicoria che avrete scolato e asciugato.",
+      "Unite anche la feta e i pinoli tostati. Infine condite con il dressing. Mescolate delicatamente e servite la vostra insalata di patate con cicoria e feta!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:18:40.087473+00:00",
+    "repaired_at": "2026-10-10T14:19:44.350048+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 74956051630853,
+    "name": "Purè di patate allo zafferano",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 45,
+    "ingredients_display": [
+      "Patate per gnocchi e purè 1 kg",
+      "Latte intero 250 g",
+      "Burro 50 g",
+      "Zafferano (2 bustine) 0,3 g",
+      "Sale fino q.b.",
+      "Burro q.b.",
+      "Salvia q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pure-di-patate-allo-zafferano.html",
+    "image_url": "https://www.giallozafferano.it/images/279-27952/Pure-di-patate-allo-zafferano_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 351.2,
+    "protein": null,
+    "carbs": 52.7,
+    "fats": 13.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Patate per gnocchi e purè",
+        1.0,
+        "kg"
+      ],
+      [
+        "Latte intero",
+        250.0,
+        "g"
+      ],
+      [
+        "Burro",
+        50.0,
+        "g"
+      ],
+      [
+        "Zafferano (2 bustine)",
+        0.3,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Burro",
+        null,
+        "q.b."
+      ],
+      [
+        "Salvia",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il purè di patate allo zafferano lavate le patate e lessatele partendo da acqua fredda, ci vorranno circa 30 minuti dal bollore, a seconda della dimensione; testate sempre la cottura infilzandole con la forchetta. Scolate le patate e lasciatele intiepidire leggermente, poi pelatele con un coltellino.",
+      "Una volta che avrete pelato tutte le patate, passatele nello schiacciapatate e raccogliete la purea in una ciotola.",
+      "In un pentolino versate il latte e lo zafferano, poi scaldate il tutto. Quando latte e zafferano saranno caldi, versate la pure di patate in una pentola, salate e accendete il fuoco.",
+      "Versate il latte allo zafferano sulla purea, poi mescolate con la frusta. Quando il liquido si sarà completamente assorbito, spegnete il fuoco. Aggiungete il burro a pezzetti.",
+      "Mescolate, sempre con la frusta, fino a quando il burro non si sarà ben incorporato. Servite subito il purè di patate allo zafferano guarnito con un ricciolo di burro e foglioline di salvia a piacere."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:18:42.790380+00:00",
+    "repaired_at": "2026-10-10T14:19:46.935319+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 135167665711416,
+    "name": "Pasta con pesto ai fiori di zucca e mazzancolle",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Linguine 320 g",
+      "Mazzancolle (da pulire) 250 g",
+      "Fiori di zucca 20 g",
+      "Aglio 1 spicchio",
+      "Timo 1 rametto",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino 1 pizzico",
+      "Pepe nero 1 pizzico",
+      "Fiori di zucca 180 g",
+      "Mandorle 50 g",
+      "Parmigiano Reggiano DOP (da grattugiare) 50 g",
+      "Aglio 1 spicchio",
+      "Olio extravergine d'oliva 80 ml",
+      "Succo di limone q.b.",
+      "Sale fino 1 pizzico",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pesto-ai-fiori-di-zucca-e-mazzancolle.html",
+    "image_url": "https://www.giallozafferano.it/images/302-30224/Pasta-con-pesto-ai-fiori-di-zucca-e-mazzancolle_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 666.6,
+    "protein": null,
+    "carbs": 66.7,
+    "fats": 32.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Linguine 320 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mazzancolle (da pulire) 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fiori di zucca 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aglio 1 spicchio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Timo 1 rametto",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fiori di zucca 180 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mandorle 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Parmigiano Reggiano DOP (da grattugiare) 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aglio 1 spicchio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 80 ml",
+        null,
+        "da fonte"
+      ],
+      [
+        "Succo di limone q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con pesto ai fiori di zucca e mazzancolle iniziate dal pesto: pulite i fiori con un pennello o un panno leggermente inumidito, quindi apriteli ed eliminate il pistillo interno. In un mortaio mettete lo spicchio d'aglio sbucciato e le mandorle.",
+      "Aggiungete un pizzico di sale e pestate con il pestello fino a ottenere una consistenza fine.",
+      "Unite i fiori di zucca nel mortaio e pestate delicatamente fino a ottenere un composto omogeneo. Aggiungete 50 g di Parmigiano grattugiato e continuate a lavorare il pesto, mescolando bene con il pestello.",
+      "Infine versate 80 g di olio extravergine d'oliva e mescolate ancora fino a ottenere una crema liscia e omogenea 12. Completate con qualche goccia di succo di limone a piacere 12.",
+      "Nel frattempo, pulite le mazzancolle eliminando il carapace 13 . Preparate il soffritto: in una padella, scaldate un filo d'olio extravergine d'oliva e uno spicchio d'aglio con qualche fogliolina di timo 14 . Fate soffriggere leggermente finché l'aglio non diventa dorato. A questo punto unite le mazzancolle 15 .",
+      "Versate anche i 20 g di fiori di zucca 16 , salate, pepate e saltate per 3 minuti a fiamma alta 17 .Portate a ebollizione una pentola d'acqua salata e cuocete le linguine al dente 18 .",
+      "Allungate il pesto con un mestolo di acqua di cottura della pasta 19 e scolate qui le linguine al dente 20 . Mescolate bene per condire la pasta in modo uniforme 21 .",
+      "Impiattate le linguine aggiungendo il pesto 22 , le mazzancolle con i fiori di zucca saltati in padella 23 e qualche fogliolina di timo fresco. La pasta con pesto ai fiori di zucca e mazzancolle è pronta per essere servita 24 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:18:45.386403+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Condimento",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Condimento",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 157189925585176,
+    "name": "Insalata di pastina senza glutine",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 20,
+    "ingredients_display": [
+      "Ditalini Senza Glutine 200 g",
+      "Speck 80 g",
+      "Pomodori piccadilly 160 g",
+      "Olive nere 80 g",
+      "Feta 100 g",
+      "Basilico 4 foglie",
+      "Olio extravergine d'oliva 50 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Brodo di carne 1 l"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-pastina-senza-glutine.html",
+    "image_url": "https://www.giallozafferano.it/images/164-16495/Insalata-di-pastina-senza-glutine_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 435.6,
+    "protein": null,
+    "carbs": 44.5,
+    "fats": 23.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Ditalini Senza Glutine",
+        200.0,
+        "g"
+      ],
+      [
+        "Speck",
+        80.0,
+        "g"
+      ],
+      [
+        "Pomodori piccadilly",
+        160.0,
+        "g"
+      ],
+      [
+        "Olive nere",
+        80.0,
+        "g"
+      ],
+      [
+        "Feta",
+        100.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        4.0,
+        "foglie"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        50.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Brodo di carne",
+        1.0,
+        "l"
+      ]
+    ],
+    "steps": [
+      "Per preparare l’insalata di pastina senza glutine cominciate iniziate realizzando un buon brodo di carne. Pulite le verdure, tagliatele e trasferitele in pentola assieme alla carne e coprite con 3 litri di acqua. Lasciate cuocere per due ore a fuoco medio-alto, aggiungete ancora 1 litro d'acqua e ultimate la cottura per un'ora a fuoco basso. A fine cottura filtrate il brodo",
+      "E trasferitelo di nuovo in pentola. Quando riprende il bollore, prendete la pasta e lessatela nel brodo di carne. Mentre i ditalini cuociono dedicatevi al condimento. Pulite i pomodori e tagliateli prima a spicchietti e poi ancora a dadini.",
+      "Riducete a listarelle lo speck e a dadini la feta. Infine denocciolate le olive.",
+      "Scolate la pastina ormai cotta e trasferitela in una ciotola capiente. Conditela immediatamente con un cucchiaio di olio, mescolate per non farla attaccare e lasciatela raffreddare. Unite quindi i pomodorini, la feta",
+      "Lo speck, le olive e il basilico spezzettato a mano.",
+      "Regolate infine di sale e di pepe e mescolate bene per amalgamare i sapori. Adesso la vostra insalata di pastina senza glutine è pronta da gustare!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:18:48.438147+00:00",
+    "repaired_at": "2026-10-10T14:19:49.506944+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 227463897219980,
+    "name": "Purè di fagioli con speck croccante",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 150,
+    "ingredients_display": [
+      "Fagioli cannellini secchi 300 g",
+      "Speck a fette 100 g",
+      "Aglio 1 spicchio",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva 3 cucchiai",
+      "Aneto q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pure-di-fagioli-con-speck-croccante.html",
+    "image_url": "https://www.giallozafferano.it/images/198-19879/Pure-di-fagioli-con-speck-croccante_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 403.8,
+    "protein": null,
+    "carbs": 45.8,
+    "fats": 14.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fagioli cannellini secchi",
+        300.0,
+        "g"
+      ],
+      [
+        "Speck a fette",
+        100.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        3.0,
+        "cucchiai"
+      ],
+      [
+        "Aneto",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il purè di fagioli per prima cosa mettete in ammollo i fagioli cannellini secchi in acqua fredda per circa 12 ore, coprendo la ciotola con pellicola per alimenti. Trascorso il tempo, scolate i cannellini e sciacquateli sotto l'acqua corrente. In una pentola aggiungete i fagioli, ricopriteli con acqua fredda e fate cuocere a fuoco medio per circa 2 ore.",
+      "Durante la cottura raccomandiamo di schiumare, se necessario. Con un mestolo trasferite i fagioli cotti in uno scolapasta, eliminate l’acqua di cottura mettendone un po’ da parte.",
+      "In un tegame aggiungete i 3 cucchiai di olio evo, l’aglio sbucciato e fate rosolare leggermente. Unite i fagioli, mescolate con un cucchiaio di legno;",
+      "regolate di sale e pepe e fate cuocere circa 7 minuti per far insaporire. Eliminate lo spicchio di aglio. E trasferite i fagioli cotti nel frullatore.",
+      "Aggiungete un mestolo di acqua di cottura messa da parte e frullate sino a ottenere un purè soffice e senza grumi. Trasferite il purè di fagioli cannellini in piatto.",
+      "Su di un tagliere tagliate a listarelle le fette di speck. In un tegame aggiungete lo speck e fate rosolare a fuoco vivo senza nessun condimento sino a quando risulterà croccante.",
+      "Condite il purè di fagioli con un giro di olio d’oliva, distribuite lo speck croccante, decorate con foglie di aneto e servite subito."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:18:51.493695+00:00",
+    "repaired_at": "2026-10-10T14:19:52.082219+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 37674408832820,
+    "name": "Pasta con pesci poveri",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 110,
+    "ingredients_display": [
+      "Spaghetti 320 g",
+      "Canocchie 500 g",
+      "Sarde (già pulite, aperte a libro) 150 g",
+      "Acciughe (alici) (già pulite, aperte a libro) 150 g",
+      "Triglie (squamate ed eviscerate) 2",
+      "Pomodorini datterini 250 g",
+      "Olive taggiasche 2 cucchiai",
+      "Aglio 1 spicchio",
+      "Peperoncino fresco 1",
+      "Prezzemolo q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Pomodorini datterini 6",
+      "Cipollotto fresco 1",
+      "Concentrato di pomodoro 1 cucchiaio",
+      "Vino bianco secco &frac12; bicchiere",
+      "Ghiaccio q.b.",
+      "Acqua fredda q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pesci-poveri.html",
+    "image_url": "https://www.giallozafferano.it/images/265-26529/Pasta-con-pesci-poveri_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fats": null,
+    "cost": null,
+    "ingredients": [
+      [
+        "Spaghetti",
+        320.0,
+        "g"
+      ],
+      [
+        "Canocchie",
+        500.0,
+        "g"
+      ],
+      [
+        "Sarde (già pulite, aperte a libro)",
+        150.0,
+        "g"
+      ],
+      [
+        "Acciughe (alici) (già pulite, aperte a libro)",
+        150.0,
+        "g"
+      ],
+      [
+        "Triglie (squamate ed eviscerate) 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pomodorini datterini",
+        250.0,
+        "g"
+      ],
+      [
+        "Olive taggiasche",
+        2.0,
+        "cucchiai"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Peperoncino fresco 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Prezzemolo",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Pomodorini datterini 6",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cipollotto fresco 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Concentrato di pomodoro 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Vino bianco secco &frac12; bicchiere",
+        null,
+        "da verificare"
+      ],
+      [
+        "Ghiaccio",
+        null,
+        "q.b."
+      ],
+      [
+        "Acqua fredda",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare la pasta con pesci poveri iniziate dalla pulizia delle triglie: incidete con il coltello sotto la testa e sopra la coda, poi fate passare la lama sopra la lisca lungo il ventre sia da un lato che dall’altro e infine rimuovete i filetti ottenuti. Fate la stessa cosa dall’altro lato. Assicuratevi che la testa e la coda rimangano attaccate alla lisca centrale e tenete da parte gli scarti che vi serviranno successivamente per il fondo.",
+      "Rifinite i filetti ed eliminate le lische con delle pinzette da cucina, aiutandovi con le dita per individuarle. Per ultimo tagliate i filetti puliti a tocchetti.",
+      "Passate alla pulizia delle canocchie: con un paio di forbici tagliate le estremità della coda per formare un triangolo, poi praticate dei tagli lungo i lati e rimuovete la corazza.",
+      "Estraete la polpa avendo cura di lasciarla intera e tenete da parte gli scarti. Ora potete dedicarvi al fondo: mondate il cipollotto e tagliatelo a tocchetti, poi dividete a metà i pomodorini.",
+      "In una pentola versate un filo d’olio, il cipollotto e i pomodorini, poi aggiungete il concentrato di pomodoro e fate tostare a fiamma vivace per qualche minuto. A questo punto unite gli scarti delle triglie e delle canocchie che avete tenuto da parte. Tostate ancora per 3-5 minuti a fiamma vivace, schiacciando bene gli scarti con un mestolo per far uscire tutti i succhi.",
+      "Quando inizierà ad attaccarsi alla base della pentola deglassate con il vino bianco e raschiate bene il fondo con il mestolo. Aspettate che la parte alcolica evapori del tutto, poi aggiungete ghiaccio e acqua fredda e abbassate la fiamma: l’abbassamento di temperatura permetterà di estrarre i sapori al meglio. Lasciate sobbollire a fuoco dolce per circa 30 minuti, avendo cura di rimuovere la schiuma che potrebbe affiorare in superficie a causa delle impurità. Nel frattempo occupatevi degli altri pesci eliminate le estremità delle sarde e delle alici, già pulite e aperte a libro.",
+      "Tagliate le alici e le sarde a tocchetti della stessa dimensione delle triglie e tenete da parte.",
+      "Trascorso il tempo di cottura del fondo, filtratelo attraverso un colino foderato con un panno carta bagnato (o garza alimentare) così da eliminare tutti i residui. Tenete il fondo da parte e mettete a bollire una pentola di acqua per cuocere la pasta.",
+      "Per preparare il sugo tagliate i pomodorini più piccoli a metà e quelli più grandi in quarti. In una casseruola soffriggete uno spicchio di aglio schiacciato e un peperoncino con un filo d’olio, poi aggiungete i pomodorini.",
+      "Rosolate a fiamma vivace, poi unite le olive. Quando i pomodorini cominceranno ad appassire, versate il fondo e continuate a cuocere per farlo ridurre ulteriormente.",
+      "Intanto l’acqua sarà arrivata a bollore, quindi salate e aggiungete gli spaghetti. Scolate gli spaghetti 4 minuti prima della fine del tempo di cottura e trasferiteli nella padella con il condimento. Risottate la pasta nella padella fino a terminare la cottura, aiutandovi con un mestolo della sua acqua.",
+      "Dopo un paio di minuti unite le sarde, le alici e le triglie. A fine cottura aggiungete le canocchie, che cuoceranno in pochissimo tempo.",
+      "Togliete la padella dal fuoco e profumate con il prezzemolo tritato, poi mantecate la pasta versando l’olio a filo mentre mescolate; in questo modo risulterà lucida e cremosa. Impiattate e servite subito la vostra pasta ai pesci poveri!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:18:54.218619+00:00",
+    "repaired_at": "2026-10-10T14:19:31.304316+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 67207767271331,
+    "name": "Club sandwich di pollo",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 45,
+    "ingredients_display": [
+      "Pane bianco in cassetta 3 fette",
+      "Petto di pollo a fette 100 g",
+      "Bacon 3 fette",
+      "Sottilette® 1",
+      "Lattuga 1 foglia",
+      "Pomodori &frac12;",
+      "Uova 2",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Ketchup 30 g",
+      "Cetriolini sottaceto 3",
+      "Aglio in polvere 1 pizzico",
+      "Paprika 1 pizzico"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Club-sandwich-di-pollo.html",
+    "image_url": "https://www.giallozafferano.it/images/357-35779/Club-sandwich-di-pollo_650x433_wm.jpg",
+    "servings": 1,
+    "kcal": 620.1,
+    "protein": null,
+    "carbs": 41.1,
+    "fats": 27.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pane bianco in cassetta",
+        3.0,
+        "fette"
+      ],
+      [
+        "Petto di pollo a fette",
+        100.0,
+        "g"
+      ],
+      [
+        "Bacon",
+        3.0,
+        "fette"
+      ],
+      [
+        "Sottilette® 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Lattuga 1 foglia",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pomodori &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Uova 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Ketchup",
+        30.0,
+        "g"
+      ],
+      [
+        "Cetriolini sottaceto 3",
+        null,
+        "da verificare"
+      ],
+      [
+        "Aglio in polvere 1 pizzico",
+        null,
+        "da verificare"
+      ],
+      [
+        "Paprika 1 pizzico",
+        null,
+        "da verificare"
+      ]
+    ],
+    "steps": [
+      "Per preparare il club sandwich di pollo, come prima cosa occupatevi della salsa: tritate finemente i cetriolini e raccoglieteli in una ciotolina. In un'altra ciotola unite il ketchup, l’aglio in polvere e la paprika.",
+      "Aggiungete i cetriolini tritati, quindi mescolate con cura fino a ottenere una salsa liscia e omogenea. Lavate e tagliate il pomodoro a fette. Conservate sia i pomodori che la salsa in frigorifero.",
+      "Passate al bacon: adagiatelo in una padella fredda senza aggiungere grassi e fatelo rosolare a fuoco medio per 4-5 minuti, girandolo di tanto in tanto, finché risulterà dorato e croccante. Trasferitelo su carta assorbente e tenete da parte. In una ciotola sbattete le uova con sale e pepe.",
+      "Nella stessa padella dove avete cotto il bacon, senza eliminare il grasso rimasto, posizionate un coppapasta quadrato di 8 cm e versate il composto di uova all’interno. Coprite con un coperchio e cuocete a fuoco dolce per circa 10 minuti, in modo da ottenere una frittata morbida e ben umida. Una volta pronta, rimuovete delicatamente il coppapasta e tenetela in caldo.",
+      "A questo punto tostate le fette di pane: potete farlo in forno statico a 200°C per circa 5 minuti, oppure posizionandole in una padella calda e girandole un paio di volte finché saranno dorate e croccanti. Dedicatevi ora al petto di pollo: salate le fette su entrambi i lati e adagiatelo in una padella ben calda.",
+      "Rosolate il pollo per circa 8-10 minuti finché risulterà ben dorato. Verso fine cottura adagiate sopra una fetta di Sottilette® Classiche e coprite con un coperchio. Per un effetto extra potere metterne 2. Lasciate fondere il formaggio.",
+      "Siete pronti per assemblare il club sandwich: spalmate un po’ di salsa su una fetta di pane tostato, aggiungete la lattuga (lavata e asciugata) e le fette di pomodoro.",
+      "Posizionate sul pomodoro la frittata. Coprite con una seconda fetta di pane, spalmate ancora un velo di salsa e aggiungete il bacon croccante.",
+      "Posizionate sopra anche il petto di pollo con il formaggio fuso e richiudete il panino con un'altra fetta di pane. Dividete il sandwich a metà, in modo da ricavare 2 triangoli, e servite subito il vostro club sandwich di pollo!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:18:56.814994+00:00",
+    "repaired_at": "2026-10-10T14:19:54.652328+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/357/35779/club-sandwich-di-pollo_27.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare il club sandwich di pollo, come prima cosa occupatevi della salsa: tritate finemente i cetriolini 1 e raccoglieteli in una ciotolina. In un'altra ciotola unite il ketchup, l’aglio in polvere 2 e la paprika 3 .",
+      "Aggiungete i cetriolini tritati 4 , quindi mescolate con cura 5 fino a ottenere una salsa liscia e omogenea. Lavate e tagliate il pomodoro a fette 6 . Conservate sia i pomodori che la salsa in frigorifero.",
+      "Passate al bacon: adagiatelo in una padella fredda senza aggiungere grassi 7 e fatelo rosolare a fuoco medio per 4-5 minuti, girandolo di tanto in tanto, finché risulterà dorato e croccante 8 . Trasferitelo su carta assorbente e tenete da parte. In una ciotola sbattete le uova con sale e pepe 9 .",
+      "Nella stessa padella dove avete cotto il bacon, senza eliminare il grasso rimasto, posizionate un coppapasta quadrato di 8 cm e versate il composto di uova all’interno 10 . Coprite con un coperchio 11 e cuocete a fuoco dolce per circa 10 minuti, in modo da ottenere una frittata morbida e ben umida 12 . Una volta pronta, rimuovete delicatamente il coppapasta e tenetela in caldo.",
+      "A questo punto tostate le fette di pane: potete farlo in forno statico a 200°C per circa 5 minuti, oppure posizionandole in una padella calda 13 e girandole un paio di volte 14 finché saranno dorate e croccanti. Dedicatevi ora al petto di pollo: salate le fette su entrambi i lati e adagiatelo in una padella ben calda 15 .",
+      "Rosolate il pollo per circa 8-10 minuti finché risulterà ben dorato 16 . Verso fine cottura adagiate sopra una fetta di Sottilette® Classiche 17 e coprite con un coperchio 18 . Per un effetto extra potere metterne 2. Lasciate fondere il formaggio.",
+      "Siete pronti per assemblare il club sandwich: spalmate un po’ di salsa su una fetta di pane tostato 19 , aggiungete la lattuga (lavata e asciugata) 20 e le fette di pomodoro 21 .",
+      "Posizionate sul pomodoro la frittata 22 . Coprite con una seconda fetta di pane, spalmate ancora un velo di salsa 23 e aggiungete il bacon croccante 24 .",
+      "Posizionate sopra anche il petto di pollo con il formaggio fuso 25 e richiudete il panino con un'altra fetta di pane 26 . Dividete il sandwich a metà, in modo da ricavare 2 triangoli, e servite subito il vostro club sandwich di pollo 27 !"
+    ],
+    "steps_clean": [
+      "Per preparare il club sandwich di pollo, come prima cosa occupatevi della salsa: tritate finemente i cetriolini e raccoglieteli in una ciotolina. In un'altra ciotola unite il ketchup, l’aglio in polvere e la paprika.",
+      "Aggiungete i cetriolini tritati, quindi mescolate con cura fino a ottenere una salsa liscia e omogenea. Lavate e tagliate il pomodoro a fette. Conservate sia i pomodori che la salsa in frigorifero.",
+      "Passate al bacon: adagiatelo in una padella fredda senza aggiungere grassi e fatelo rosolare a fuoco medio per 4-5 minuti, girandolo di tanto in tanto, finché risulterà dorato e croccante. Trasferitelo su carta assorbente e tenete da parte. In una ciotola sbattete le uova con sale e pepe.",
+      "Nella stessa padella dove avete cotto il bacon, senza eliminare il grasso rimasto, posizionate un coppapasta quadrato di 8 cm e versate il composto di uova all’interno. Coprite con un coperchio e cuocete a fuoco dolce per circa 10 minuti, in modo da ottenere una frittata morbida e ben umida. Una volta pronta, rimuovete delicatamente il coppapasta e tenetela in caldo.",
+      "A questo punto tostate le fette di pane: potete farlo in forno statico a 200°C per circa 5 minuti, oppure posizionandole in una padella calda e girandole un paio di volte finché saranno dorate e croccanti. Dedicatevi ora al petto di pollo: salate le fette su entrambi i lati e adagiatelo in una padella ben calda.",
+      "Rosolate il pollo per circa 8-10 minuti finché risulterà ben dorato. Verso fine cottura adagiate sopra una fetta di Sottilette® Classiche e coprite con un coperchio. Per un effetto extra potere metterne 2. Lasciate fondere il formaggio.",
+      "Siete pronti per assemblare il club sandwich: spalmate un po’ di salsa su una fetta di pane tostato, aggiungete la lattuga (lavata e asciugata) e le fette di pomodoro.",
+      "Posizionate sul pomodoro la frittata. Coprite con una seconda fetta di pane, spalmate ancora un velo di salsa e aggiungete il bacon croccante.",
+      "Posizionate sopra anche il petto di pollo con il formaggio fuso e richiudete il panino con un'altra fetta di pane. Dividete il sandwich a metà, in modo da ricavare 2 triangoli, e servite subito il vostro club sandwich di pollo!"
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:21:17.430105+00:00"
+  },
+  {
+    "id": 228354644367368,
+    "name": "Insalata di orzo e cavolo riccio",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 35,
+    "ingredients_display": [
+      "Cavolo riccio (Kale) 230 g",
+      "Orzo perlato 220 g",
+      "Zucca mantovana 120 g",
+      "Fagioli bianchi precotti 250 g",
+      "Arachidi non salate 40 g",
+      "Uvetta 35 g",
+      "Parmigiano Reggiano DOP da grattugiare 40 g",
+      "Olio extravergine d'oliva 50 g",
+      "Sale fino q.b.",
+      "Aceto di mele 10 g",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-orzo-e-cavolo-riccio.html",
+    "image_url": "https://www.giallozafferano.it/images/203-20355/Insalata-di-orzo-e-cavolo-riccio_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 693.7,
+    "protein": null,
+    "carbs": 91.5,
+    "fats": 26.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Cavolo riccio (Kale)",
+        230.0,
+        "g"
+      ],
+      [
+        "Orzo perlato",
+        220.0,
+        "g"
+      ],
+      [
+        "Zucca mantovana",
+        120.0,
+        "g"
+      ],
+      [
+        "Fagioli bianchi precotti",
+        250.0,
+        "g"
+      ],
+      [
+        "Arachidi non salate",
+        40.0,
+        "g"
+      ],
+      [
+        "Uvetta",
+        35.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP da grattugiare",
+        40.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        50.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Aceto di mele",
+        10.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare l’insalata di orzo e cavolo riccio per prima cosa cuocete l’orzo in acqua bollente salata per circa 15 minuti o per il tempo riportato sulla confezione. Intanto mettete in ammollo l’uva passa in una ciotolina con acqua tiepida per reidratarla. Sfogliate il cavolo eliminando la parte centrale delle foglie che è più coriacea.",
+      "Lavate e asciugate le foglie e poi trasferitene metà nel bicchiere di un mixer: aggiungete l’olio di oliva, il Parmigiano grattugiato e frullate con il mixer a immersione,",
+      "aggiungendo quanto basta di acqua di cottura dell’orzo per ottenere un pesto cremoso  che terrete momentaneamente da parte. Nel frattempo scolate l’orzo che sarà giunto a cottura.",
+      "Versate l'orzo in una ciotola e condite con il pesto di cavolo, mescolate e tenete da parte. Ora pulite la zucca: tagliatela a metà, eliminate i semini centrali e la buccia.",
+      "Tagliate la zucca prima a spicchi e poi a piccoli cubetti. In una padella versate un filo di olio di oliva, scaldatelo e poi aggiungete la zucca, saltandola per qualche minuto finché non sarà dorata e ben cotta.",
+      "Ora ponete in una ciotola l’altra metà del cavolo che avete pulito in precedenza: condite con sale, olio e aceto,",
+      "poi aggiungete i fagioli, l’uvetta reidratata e ben scolata e la zucca.",
+      "Infine unite l’insalata di cavolo all’orzo e incorporate per ultime le arachidi. Mescolate e servite la vostra saporita insalata di orzo e cavolo!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:18:59.480361+00:00",
+    "repaired_at": "2026-10-10T14:19:57.244686+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 167956449104866,
+    "name": "Purceddhruzzi (Purcidduzzi)",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 55,
+    "ingredients_display": [
+      "Farina 00 500 g",
+      "Limoncello 250 g",
+      "Olio extravergine d'oliva 50 g",
+      "Sale fino 1 pizzico",
+      "Pepe nero q.b.",
+      "Scorza d'arancia 1",
+      "Miele millefiori 300 g",
+      "Codette colorate 30 g",
+      "Olio di semi di girasole q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Purceddhruzzi.html",
+    "image_url": "https://www.giallozafferano.it/images/226-22644/Purceddhruzzi_650x433_wm.jpg",
+    "servings": 6,
+    "kcal": 918.4,
+    "protein": null,
+    "carbs": 123.6,
+    "fats": 36.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00",
+        500.0,
+        "g"
+      ],
+      [
+        "Limoncello",
+        250.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        50.0,
+        "g"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Scorza d'arancia 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Miele millefiori",
+        300.0,
+        "g"
+      ],
+      [
+        "Codette colorate",
+        30.0,
+        "g"
+      ],
+      [
+        "Olio di semi di girasole",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare i purceddhruzzi iniziate a realizzare l'impasto. In una ciotola versate la farina, aggiungete un pizzico di sale e un pizzico di pepe. Unite anche la scorza d'arancia",
+      "e il limoncello. Iniziate ad amalgamare gli ingredienti, poi unite anche l’olio 6.",
+      "Lavorate il composto in ciotola e quando avrete ottenuto una consistenza omogenea 7 , trasferite su un piano e continuate a lavorare fino a che non risulterà liscio 8 . Potrebbe volerci molto tempo, abbiate pazienza nel lavorarlo. Avvolgete quindi nella pellicola 9 e lasciate riposare per un'ora a temperatura ambiente.",
+      "Trascorso il tempo di riposo prelevate una porzione di impasto  10 e facendo ruotare l'impasto tra le dita e il piano 11 formate un filoncino spesso 1 cm 12 .",
+      "Tagliate quindi a tocchetti grandi 1 cm  13 e formate i purceddhruzzi passandoli su un rigagnocchi, infarinandolo leggermente 14 . Proseguite in questo modo e man mano sistemateli su un vassoio rivestito con un canovaccio 15 .",
+      "Nel frattempo scaldate abbondante olio in un tegame, dovrà raggiungere i 170°. Quando avrà raggiunto questa temperatura immergete pochi pezzi per volta 16 e cuocete per pochi minuti fino a che non saranno ben dorati. Quindi scolateli 17 e trasferiteli su un altro vassoio, con carta da cucina, per togliere l'olio in eccesso 18 .",
+      "Quando avrete terminato di friggere versate il miele in un tegame capiente 19 . Scaldatelo senza farlo bollire, quindi spegnete il fuoco e aggiungete i purceddhruzzi 20 , mescolate delicatamente fino a che non saranno ben ricoperti 21 .",
+      "Trasferite in un piatto da portata 22 e guarnite con le codette colorate 23 e serviteli 24 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:02.136832+00:00",
+    "repaired_at": "2026-10-10T14:19:59.815399+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 197180292634881,
+    "name": "Pasta con pesce spada e zucchine",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 31,
+    "ingredients_display": [
+      "Fusilli 320 g",
+      "Pesce spada 350 g",
+      "Zucchine 400 g",
+      "Vino bianco 40 g",
+      "Aglio 1 spicchio",
+      "Olio extravergine d'oliva 30 g",
+      "Pepe verde o nero q.b.",
+      "Scorza di limone 1",
+      "Timo 1 rametto",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pesce-spada-e-zucchine.html",
+    "image_url": "https://www.giallozafferano.it/images/166-16640/Pasta-con-pesce-spada-e-zucchine_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 522.4,
+    "protein": null,
+    "carbs": 65.0,
+    "fats": 14.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fusilli",
+        320.0,
+        "g"
+      ],
+      [
+        "Pesce spada",
+        350.0,
+        "g"
+      ],
+      [
+        "Zucchine",
+        400.0,
+        "g"
+      ],
+      [
+        "Vino bianco",
+        40.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ],
+      [
+        "Pepe verde o nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Scorza di limone 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Timo 1 rametto",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare la pasta con pesce spada e zucchine mettete a bollire abbondante acqua i un tegame e quando bollirà salatela; nel frattempo lavate e spuntate le zucchine, poi riducetele a julienne con una grattugia con i fori larghi, poi pulite le fette di pesce spada: eliminate la striscia di pelle laterale quindi tagliate la polpa prima a listarelle",
+      "poi a piccoli cubetti di circa 1 cm. In una padella scaldate l’olio di oliva extravergine con lo spicchio di aglio intero, poi unite i bocconcini di pesce spada",
+      "fate rosolare per 1 minuto mescolando, poi sfumate con il vino bianco, lasciate evaporare per qualche istante e poi incorporate le zucchine tagliate a julienne salate, pepate e cuocete per 4-5 minuti mescolando di tanto in tanto. Quindi spegnete il fuoco e profumate con le foglioline di timo fresco,",
+      "eliminate con una pinza da cucina lo spicchio di aglio e profumate con la scorza grattugiata del limone. Lessate i fusilli nel tegame con acqua salata portata a bollore per circa 11 minuti o quanto riportato sulla confezione 12; dovranno essere al dente.",
+      "Scolateli poi con una schiumarola direttamente nella padella con il pesce 13 . Aggiungete un po’ di pepe a piacere 14 e servite subito la pasta con pesce spada e zucchine ben calda 15 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:05.024634+00:00",
+    "repaired_at": "2026-10-10T14:19:33.874287+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 10702932925065,
+    "name": "Club sandwich con uova strapazzate",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 45,
+    "ingredients_display": [
+      "Pancarrè ai cereali 12 fette",
+      "Uova grandi biologiche 4",
+      "Caciocavallo 60 g",
+      "Avocado grossi e maturi 2",
+      "Funghi champignon 250 g",
+      "Carote 1",
+      "Lattuga qualche foglia",
+      "Radicchio qualche foglia",
+      "Burro noci 2",
+      "Timo q.b.",
+      "Succo di limone goccia qualche",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Club-sandwich-con-uova-strapazzate.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/193/19385/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 995.5,
+    "protein": null,
+    "carbs": 56.6,
+    "fats": 78.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pancarrè ai cereali",
+        12.0,
+        "fette"
+      ],
+      [
+        "Uova grandi biologiche 4",
+        null,
+        "da verificare"
+      ],
+      [
+        "Caciocavallo",
+        60.0,
+        "g"
+      ],
+      [
+        "Avocado grossi e maturi 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Funghi champignon",
+        250.0,
+        "g"
+      ],
+      [
+        "Carote 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Lattuga qualche foglia",
+        null,
+        "da verificare"
+      ],
+      [
+        "Radicchio qualche foglia",
+        null,
+        "da verificare"
+      ],
+      [
+        "Burro noci 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Succo di limone goccia qualche",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il club sandwich con uova strapazzate cominciate dalla pulizia dei funghi. Dopo aver eliminato la radice, puliteli con un panno inumidito per togliere i residui di terreno, poi affettateli a 7-8 mm di spessore e spostatevi ai fornelli. In una padella lasciate scaldare un filo d’olio e aggiungete i funghi,",
+      "poi regolate subito di sale e saltateli di tanto in tanto fin quando non saranno dorati; teneteli da parte. Passate all’avocado, dividetelo in due e scartate il seme centrale aiutandovi con un cucchiaio. Poi ricavate la polpa versandola in una ciotola, insieme al succo di limone,",
+      "il sale e un filo d’olio e schiacciate il tutto con la forchetta fino ad ottenere una purea. Passate all’insalata: spuntate e sbucciate le carote, poi grattugiatele,",
+      "sminuzzate anche le foglie di radicchio e di lattuga e raccogliete il tutto in una ciotola. Guarnite con olio e sale, mescolate e mettete da parte. Poi grattugiate il caciocavallo (precedentemente sbucciato) attraverso i fori larghi di una grattugia.",
+      "Infine affettate il pane ottenendo 12 fette spesse circa 1 cm. A questo punto avete tutto quello che vi occorre, spostatevi ai fornelli. Mettete sul fuoco una pentola dove lasciar sciogliere una noce di burro. Non appena il fondo è ben caldo versate le fette di pane lasciandole tostare per qualche minuto su entrambe i lati; quando saranno dorate mettete da parte le fette di pane.",
+      "Rompete le uova direttamente nella stessa padella e non appena l’albume inizia a coagulare rompete con l’aiuto di una spatola o un cucchiaio di legno. Quindi aggiustate di sale, pepe e profumate con del timo sfogliato dai rametti. Mescolate ancora per un paio di minuti mescolando di continuo. Spegnete la fiamma e aggiungete il formaggio grattugiato, mescolate continuamente affinché il caciocavallo possa fondere.",
+      "Passate adesso alla composizione. Spalmate un po’ di crema di avocado sulla prima fetta di pane, poi una cucchiaiata di insalata e richiudete con la seconda fetta. Su questa adagiate un po’ di uova strapazzate",
+      "e poi qualche fungo. Dividete in due il panino pronto per essere servito: i vostri club sandwich con uova strapazzate sono pronti, buon appetito!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:07.605312+00:00",
+    "repaired_at": "2026-10-10T14:20:02.384578+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:21:14.803758+00:00"
+  },
+  {
+    "id": 126044537873849,
+    "name": "Insalata di orzo con pesto di rucola, fagiolini e zucchine",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Orzo perlato 350 g",
+      "Zucchine 500 g",
+      "Fagiolini 300 g",
+      "Pomodorini ciliegino 250 g",
+      "Rucola 100 g",
+      "Pinoli 40 g",
+      "Parmigiano Reggiano DOP da grattugiare 40 g",
+      "Ghiaccio cu q.b.",
+      "Olio extravergine d'oliva circa 5 cucchiai",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine.html",
+    "image_url": "https://www.giallozafferano.it/images/235-23563/Insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 630.5,
+    "protein": null,
+    "carbs": 79.2,
+    "fats": 29.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Orzo perlato 350 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchine 500 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fagiolini 300 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pomodorini ciliegino 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Rucola 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pinoli 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Parmigiano Reggiano DOP da grattugiare 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Ghiaccio cu q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva circa 5 cucchiai",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare l’insalata di orzo con pesto di rucola, fagiolini e zucchine per prima cosa portate a bollore una pentola di acqua salata e cuocete l’orzo per il tempo indicato sulla confezione. Nel frattempo mettete sul fuoco un’altra pentola da salare a bollore per cuocere le verdure e dedicatevi alla preparazione degli altri ingredienti: lavate e spuntate le zucchine, poi tagliatelle a rondelle.",
+      "Spuntate anche i fagiolini e dividetele in 2-3 parti, poi tagliate a metà i pomodorini.",
+      "Versate i fagiolini nell’acqua bollente e, dopo 5 minuti, aggiungete anche le zucchine. Cuocete le verdure per circa 10 minuti, dovranno risultare ancora croccanti. Trascorso il tempo di cottura dell’orzo, scolatelo in una ciotola capiente.",
+      "Non vi resta che preparare il pesto di rucola: lavate e asciugate la rucola, poi mettetela in un contenitore alto e stretto insieme ai pinoli, al Parmigiano grattugiato e un paio di cubetti di ghiaccio.",
+      "Salate, pepate e aggiungete circa 5 cucchiai di olio. Frullate con un mixer a immersione per ottenere una salsa cremosa e omogenea; se necessario aggiungete altro olio per raggiungere la consistenza desiderata. Versate il pesto di rucola nella ciotola con l’orzo e mescolate bene.",
+      "Unite anche i fagiolini con le zucchine e i pomodorini. Mescolate il tutto e servite la vostra insalata di orzo con pesto di rucola, fagiolini e zucchine!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:10.178945+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Condimento",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Condimento",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 273671598540752,
+    "name": "Pasta con pesce spada e fave",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 25,
+    "ingredients_display": [
+      "Penne Rigate Senza Glutine 320 g",
+      "Pesce spada 620 g",
+      "Fave (da pulire) 450 g",
+      "Aglio 1 spicchio",
+      "Scorza di limone (da grattugiare) 1",
+      "Menta q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pesce-spada-e-fave.html",
+    "image_url": "https://www.giallozafferano.it/images/185-18533/Pasta-con-pesce-spada-e-fave_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 649.1,
+    "protein": null,
+    "carbs": 78.2,
+    "fats": 18.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Penne Rigate Senza Glutine",
+        320.0,
+        "g"
+      ],
+      [
+        "Pesce spada",
+        620.0,
+        "g"
+      ],
+      [
+        "Fave (da pulire)",
+        450.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Scorza di limone (da grattugiare) 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Menta",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare la pasta con pesce spada e fave per prima cosa sgranate le fave e raccoglietele in una ciotolina. Sbollentate le fave in acqua bollente per un paio di minuti, poi scolatele poi direttamente in una ciotola riempita con acqua fredda.",
+      "Ora eliminate la scorza più esterna da ogni fava e tenetele da parte. Ponete sul fuoco una pentola colma di acqua salata e portate al bollore, servirà per la cottura della pasta. Nel frattempo occupatevi del pesce spada: eliminate la pelle e tagliate la polpa a cubetti regolari così da ottenere una cottura omogenea.",
+      "In un tegame scaldate l’olio di oliva con lo spicchio di aglio, poi aggiungete il pesce spada a cubetti e lasciate rosolare a fuoco vivace mescolando spesso; ci vorranno circa 8 minuti. Intanto cuocete la pasta lasciandola indietro di cottura di un paio di minuti rispetto al tempo indicato sulla confezione. Intanto insaporite il pesce con la scorza grattugiata del limone.",
+      "Salate, pepate e aromatizzate con le foglioline di menta fresca. Quando il pesce spada sarà giunto a cottura e risulterà dorato, spegnete il fuoco e unite la fave.",
+      "Eliminate lo spicchio di aglio e scolate la pasta direttamente nella padella. Versate un mestolo di acqua di cottura e saltate il tutto per un paio di minuti.",
+      "Mescolate per bene, infine guarnite con altre foglioline di menta e un filo di olio di oliva. Servite subito la vostra pasta con pesce spada e fave!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:12.876512+00:00",
+    "repaired_at": "2026-10-10T14:19:36.594990+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 144370730723180,
+    "name": "Club sandwich al salmone",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 40,
+    "ingredients_display": [
+      "Pancarrè 6 fette",
+      "Salmone affumicato 200 g",
+      "Avocado 1",
+      "Pomodorini ciliegino 130 g",
+      "Uova 2",
+      "Maionese 60 g",
+      "Rucola 40 g",
+      "Burro 30 g",
+      "Succo di limone q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Club-sandwich-al-salmone.html",
+    "image_url": "https://www.giallozafferano.it/images/247-24704/Club-sandwich-al-salmone_650x433_wm.jpg",
+    "servings": 2,
+    "kcal": 917.5,
+    "protein": null,
+    "carbs": 55.3,
+    "fats": 62.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pancarrè",
+        6.0,
+        "fette"
+      ],
+      [
+        "Salmone affumicato",
+        200.0,
+        "g"
+      ],
+      [
+        "Avocado 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pomodorini ciliegino",
+        130.0,
+        "g"
+      ],
+      [
+        "Uova 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Maionese",
+        60.0,
+        "g"
+      ],
+      [
+        "Rucola",
+        40.0,
+        "g"
+      ],
+      [
+        "Burro",
+        30.0,
+        "g"
+      ],
+      [
+        "Succo di limone",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare il club sandwich al salmone iniziate col preparare le uova sode: mettete le uova intere in un pentolino, coprite con acqua e cuocete per 8 minuti dal momento in cui inizia il bollore. Nel frattempo preparate gli altri ingredienti: dividete l’avocado a metà, estraete il nocciolo e staccate la polpa dalla buccia con l’aiuto di un cucchiaio, poi tagliatela a fettine non troppo sottili.",
+      "Lavate e affettate anche i pomodorini. Sgusciate le uova che nel frattempo si saranno intiepidite e tagliatele a fettine. Ora fate sciogliere il burro in un altro pentolino e rimuovete la crosta dalle fette di pancarré 3.",
+      "Spennellate le fette di pane con il burro fuso 7 , poi tostatele brevemente su una griglia da entrambi i lati 8 . Siete pronti per assemblare il primo club sandwich: per prima cosa spalmate una fetta di pane con la maionese 9 .",
+      "Aggiungete qualche foglia di rucola 10 , adagiate le fette di pomodorini 11 e condite con un pizzico di sale. Continuate con il salmone affumicato 12 .",
+      "Versate qualche goccia di succo di limone 13 , poi posizionate le fettine di avocado 14 e condite con una macinata di pepe 15 .",
+      "In ultimo aggiungete le uova sode a fettine 16 . Spalmate un’altra fetta di pane con la maionese e adagiatela con il lato della maionese rivolto verso le uova 17 . Spalmate con la maionese anche il lato rivolto verso l’alto 18 e proseguite ripetendo la stessa sequenza di ingredienti.",
+      "Rucola 19 , pomodori 20 e sale, poi salmone affumicato 21 e succo di limone.",
+      "Infine avocado 22 , pepe e uova sode 23 . Spalmate un’altra fetta di pane con la maionese 24 .",
+      "Ricoprite il sandwich rivolgendo sempre la parte del pane con la maionese verso il basso 25 . Infilzate due angoli opposti con due stuzzicadenti per stabilizzare gli strati e dividete il club sandwich a metà 26 . Procedete nello stesso modo per realizzare anche il secondo. Il vostro club sandwich al salmone è pronto per essere gustato 27 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:15.540730+00:00",
+    "repaired_at": "2026-10-10T14:19:39.205132+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Secondo",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:21:12.181650+00:00"
+  },
+  {
+    "id": 139550664659020,
+    "name": "Insalata di melone",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 15,
+    "ingredients_display": [
+      "Melone cantalupo 900 g",
+      "Songino 100 g",
+      "Ravanelli 330 g",
+      "Feta 200 g",
+      "Olive nere denocciolate 80 g",
+      "Aceto balsamico q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Menta per guarnire q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-melone.html",
+    "image_url": "https://www.giallozafferano.it/images/213-21349/Insalata-di-melone_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 313.0,
+    "protein": null,
+    "carbs": 27.9,
+    "fats": 19.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Melone cantalupo",
+        900.0,
+        "g"
+      ],
+      [
+        "Songino",
+        100.0,
+        "g"
+      ],
+      [
+        "Ravanelli",
+        330.0,
+        "g"
+      ],
+      [
+        "Feta",
+        200.0,
+        "g"
+      ],
+      [
+        "Olive nere denocciolate",
+        80.0,
+        "g"
+      ],
+      [
+        "Aceto balsamico",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Menta per guarnire",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l’insalata di melone cominciate pulendo proprio quest’ultimo. Eliminate le due estremità, dividetelo in due e scavate la parte coi semi e i filamenti utilizzando un cucchiaio. Poi affettate ed eliminate la buccia infine tagliate a pezzetti di circa un paio di cm.",
+      "Mettete da parte e occupatevi dei ravanelli. La prima cosa da fare è staccare le foglie e la parte con il codino. Sciacquate accuratamente e poi affettate sottilmente ottenendo delle rondelle.",
+      "Infine tagliate a tocchettini la feta greca e componete la vostra insalata. In una ciotola versate il songino sciacquato, le rondelle di ravanello, poi le olive nere denocciolate e la feta.",
+      "Unite anche i cubetti di melone, poi condite con sale, aceto e un goccio d’olio. Mescolate bene e impiattate la vostra insalata di melone guarnendo, a piacere, con un ciuffetto di menta fresca."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:18.112413+00:00",
+    "repaired_at": "2026-10-10T14:20:04.955842+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 72215562396919,
+    "name": "Pumpkin pie",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 135,
+    "ingredients_display": [
+      "Farina 00 310 g",
+      "Burro (freddo) 160 g",
+      "Uova (circa 1 medio) 52 g",
+      "Acqua (freddissima) 90 g",
+      "Zucchero 15 g",
+      "Sale fino 4 g",
+      "Zucca (già pulita) 500 g",
+      "Latte condensato 200 g",
+      "Uova (circa 2 medie) 110 g",
+      "Zucchero di canna 75 g",
+      "Zucchero 75 g",
+      "Noce moscata q.b.",
+      "Cannella in polvere q.b.",
+      "Panna fresca liquida 100 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pumpkin-pie.html",
+    "image_url": "https://www.giallozafferano.it/images/226-22603/Pumpkin-pie_650x433_wm.jpg",
+    "servings": 12,
+    "kcal": 351.4,
+    "protein": null,
+    "carbs": 45.8,
+    "fats": 16.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00",
+        310.0,
+        "g"
+      ],
+      [
+        "Burro (freddo)",
+        160.0,
+        "g"
+      ],
+      [
+        "Uova (circa 1 medio)",
+        52.0,
+        "g"
+      ],
+      [
+        "Acqua (freddissima)",
+        90.0,
+        "g"
+      ],
+      [
+        "Zucchero",
+        15.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        4.0,
+        "g"
+      ],
+      [
+        "Zucca (già pulita)",
+        500.0,
+        "g"
+      ],
+      [
+        "Latte condensato",
+        200.0,
+        "g"
+      ],
+      [
+        "Uova (circa 2 medie)",
+        110.0,
+        "g"
+      ],
+      [
+        "Zucchero di canna",
+        75.0,
+        "g"
+      ],
+      [
+        "Zucchero",
+        75.0,
+        "g"
+      ],
+      [
+        "Noce moscata",
+        null,
+        "q.b."
+      ],
+      [
+        "Cannella in polvere",
+        null,
+        "q.b."
+      ],
+      [
+        "Panna fresca liquida",
+        100.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pumpkin pie iniziate dalla pulizia della zucca e tagliatela a tocchi grossolani. Cuocetela al vapore finché non risulterà morbida. Versatela in una ciotola e lasciatela raffreddare completamente.",
+      "Successivamente trasferitela nel frullatore e ottenete una purea liscia. Intanto, in una ciotola, iniziate a sbattere le uova con lo zucchero semolato aiutandovi con una frusta manuale",
+      "aggiungete poi lo zucchero di canna, la cannella e la noce moscata.",
+      "Versate il latte condensato e per finire la crema di zucca. Coprite con pellicola e fate riposare il ripieno in frigo per almeno 1 ora. Questa operazione serve per far assorbire la schiuma che si forma sbattendo le uova.",
+      "Nel frattempo preparate il crust. Versate la farina in una ciotola e aggiungete lo zucchero e il sale. Unite poi il burro freddo a pezzi e lavorate con la punta delle dita per non scaldare troppo il burro. Quando l'impasto sarà bricioloso versate gradualmente l’acqua fredda",
+      "e dopo l’uovo. Quando l'impasto avrà preso consistenza trasferitelo sul piano e lavoratelo con ancora un po' di farina, cercate di non esagerare, l'importate è ottenere un panetto liscio e omogeneo. Quindi avvolgete nella pellicola e fate riposare in frigo per un'oretta.",
+      "Trascorso il tempo riprendere il crust e tiratelo sulla spianatoia infarinata aiutandovi con il matterello. Ottenete un disco un po' più grande dello stampo da 25 cm, con fondo removibile, in cui potreste srotolare la pasta che avrete avvolto sul matterello. Eliminate gli eccessi di impasto",
+      "La crema è molto liquida, potete sistemare lo stampo su una leccarda, prima di versate il ripieno nella tortiera e cuocere in forno statico preriscaldato a 175° per circa 55 minuti. Sfornate, fate raffreddare, e poi sformate la pumpkin pie e servitela. Potete accompagnare ogni fetta una cucchiaiata di panna montata!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:20.686270+00:00",
+    "repaired_at": "2026-10-10T14:20:07.544907+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 39021580144508,
+    "name": "Pasta con pesce persico",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 45,
+    "ingredients_display": [
+      "Casarecce 320 g",
+      "Pesce Persico filetto 200 g",
+      "Acciughe sott'olio filetti 2",
+      "Aglio 1 spicchio",
+      "Olio extravergine d'oliva 20 g",
+      "Peperoncino fresco 1",
+      "Capperi sotto sale 10",
+      "Pomodorini ciliegino 200 g",
+      "Cipolle rosse 1",
+      "Olive taggiasche denocciolate 20 g",
+      "Scorza di limone 1",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Basilico q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pesce-persico.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/166/16692/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 421.7,
+    "protein": null,
+    "carbs": 65.8,
+    "fats": 7.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Casarecce",
+        320.0,
+        "g"
+      ],
+      [
+        "Pesce Persico filetto",
+        200.0,
+        "g"
+      ],
+      [
+        "Acciughe sott'olio filetti 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Peperoncino fresco 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Capperi sotto sale 10",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pomodorini ciliegino",
+        200.0,
+        "g"
+      ],
+      [
+        "Cipolle rosse 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olive taggiasche denocciolate",
+        20.0,
+        "g"
+      ],
+      [
+        "Scorza di limone 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con pesce persico, mettete a bollire abbondante acqua in un tegame e quando sarà arrivata a bollore, salatela: vi servirà in seguito per cuocere la pasta. Intanto mondate e affettate la cipolla rossa, poi spuntate il peperoncino fresco e togliete i semini all'interno, quindi tritatelo. Sbucciate e affettate molto sottile l'aglio, se preferite potete solo mondarlo e lasciarlo intero per poi toglierlo dal sughetto prima di aggiungere la pasta.",
+      "Prendete i capperi, se sono sotto sale andranno dissalati sotto acqua corrente fresca sciacquando più volte, altrimenti tritateli direttamente; poi passate ai pomodorini: lavateli, eliminate il picciolo verde se presente e tagliateli a quarti; prendete il filetto di pesce persico, togliete le eventuali lische aiutandovi con una pinzetta da cucina. Per eliminarle toccate la superficie del filetto così da sentire se e dove sono presenti. Poi riducete il filetto in listarelle",
+      "infine a dadini. Mettete il pesce da parte e in un tegame versate l'olio d'oliva, le cipolle, l'aglio e il peperoncino.",
+      "Unite anche i capperi tritati e lasciate soffriggere il tutto a fuoco medio, mescolando spesso. Quando la cipolla si sarà appassita, unite i filetti di alici scolati dall'olio di conservazione 11 ; poi irrorate con un mestolo di acqua di cottura della pasta per favorire la cottura 12 .",
+      "Dopo qualche minuto, quando le alici si saranno sciolte, versate i pomodorini 13 , lasciate cuocere altri 5 minuti, quindi abbassate il fuoco e unite il pesce persico; mescolate molto delicatamente e versate anche le olive taggiasche 15 .",
+      "Salate e pepate 16 a piacere e lasciate cuocere altri 5 minuti, mescolando di tanto in tanto. Dopodichè spegnete il fuoco e a fuoco spento aromatizzate con le foglioline di basilico 17 . Intanto, lessate la pasta nel tegame con acqua bollente salata 18",
+      "quando sarà al dente scolatela direttamente nel tegame con il sughetto di pesce persico, accendendo il fuoco al minimo 19 , mantecate e aromatizzate con della scorza di limone 20 ; servite la pasta con pesce persico ben calda 21 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:23.269100+00:00",
+    "repaired_at": "2026-10-10T14:19:41.781374+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 60845835399971,
+    "name": "Ciambellone con uova di Pasqua",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 00 330 g",
+      "Zucchero 200 g",
+      "Cioccolato al latte dell'uovo di Pasqua 200 g",
+      "Uova 4",
+      "Olio di semi di girasole 80 g",
+      "Latte intero 25 g",
+      "Estratto di vaniglia 1 cucchiaino",
+      "Lievito in polvere per dolci 16 g",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Ciambellone-con-uova-di-Pasqua.html",
+    "image_url": "https://www.giallozafferano.it/images/297-29785/Ciambellone-con-uova-di-Pasqua_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 504.9,
+    "protein": null,
+    "carbs": 72.2,
+    "fats": 20.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00 330 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cioccolato al latte dell'uovo di Pasqua 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova 4",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi di girasole 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte intero 25 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Estratto di vaniglia 1 cucchiaino",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 16 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il ciambellone con uova di Pasqua come prima cosa sgusciate le uova in una ciotola e sbattetele velocemente. Aggiungete l’estratto di vaniglia, lo zucchero e lavorate con le fruste elettriche per circa 5 minuti, fino ad ottenere un composto arioso.",
+      "Continuando a montare, versate a filo l’olio di semi e il latte. Ora unite la farina setacciata.",
+      "Aggiungete anche il lievito setacciato, un pizzico di sale e incorporate le polveri con una marisa, mescolando delicatamente dal basso verso l'alto. In ultimo, spezzettate grossolanamente il cioccolato dell’uovo di Pasqua e mescolate nello stesso modo per amalgamarlo in modo uniforme.",
+      "Imburrate e infarinate uno stampo stampo svasato da 24 cm di diametro sulla superficie e 20 cm alla base, versate al suo interno il composto e livellate la superficie. Cuocete in forno statico a 180° per circa 45 minuti. Prima di sfornare verificate la cottura con uno stecchino, poi lasciatelo intiepidire nello stampo. Dopo averlo sformato, il vostro ciambellone con uova di Pasqua è pronto per essere servito, magari con una spolverata di zucchero a velo!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:25.847627+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29785/ciambellone-con-uova-di-pasqua_12.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare il ciambellone con uova di Pasqua come prima cosa sgusciate le uova in una ciotola e sbattetele velocemente. Aggiungete l’estratto di vaniglia 1 , lo zucchero 2 e lavorate con le fruste elettriche per circa 5 minuti, fino ad ottenere un composto arioso 3 .",
+      "Continuando a montare, versate a filo l’olio di semi 4 e il latte 5 . Ora unite la farina setacciata 6 .",
+      "Aggiungete anche il lievito setacciato 7 , un pizzico di sale e incorporate le polveri con una marisa, mescolando delicatamente dal basso verso l'alto. In ultimo, spezzettate grossolanamente il cioccolato dell’uovo di Pasqua 8 e mescolate nello stesso modo per amalgamarlo in modo uniforme 9 .",
+      "Imburrate e infarinate uno stampo stampo svasato da 24 cm di diametro sulla superficie e 20 cm alla base, versate al suo interno il composto 10 e livellate la superficie 11 . Cuocete in forno statico a 180° per circa 45 minuti. Prima di sfornare verificate la cottura con uno stecchino, poi lasciatelo intiepidire nello stampo. Dopo averlo sformato, il vostro ciambellone con uova di Pasqua è pronto per essere servito 12 , magari con una spolverata di zucchero a velo!"
+    ],
+    "steps_clean": [
+      "Per preparare il ciambellone con uova di Pasqua come prima cosa sgusciate le uova in una ciotola e sbattetele velocemente. Aggiungete l’estratto di vaniglia, lo zucchero e lavorate con le fruste elettriche per circa 5 minuti, fino ad ottenere un composto arioso.",
+      "Continuando a montare, versate a filo l’olio di semi e il latte. Ora unite la farina setacciata.",
+      "Aggiungete anche il lievito setacciato, un pizzico di sale e incorporate le polveri con una marisa, mescolando delicatamente dal basso verso l'alto. In ultimo, spezzettate grossolanamente il cioccolato dell’uovo di Pasqua e mescolate nello stesso modo per amalgamarlo in modo uniforme.",
+      "Imburrate e infarinate uno stampo stampo svasato da 24 cm di diametro sulla superficie e 20 cm alla base, versate al suo interno il composto e livellate la superficie. Cuocete in forno statico a 180° per circa 45 minuti. Prima di sfornare verificate la cottura con uno stecchino, poi lasciatelo intiepidire nello stampo. Dopo averlo sformato, il vostro ciambellone con uova di Pasqua è pronto per essere servito, magari con una spolverata di zucchero a velo!"
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:21:04.311347+00:00"
+  },
+  {
+    "id": 14817150392762,
+    "name": "Insalata di mele e spinacini",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 10,
+    "ingredients_display": [
+      "Mele Red Delicious 250 g",
+      "Spinacini 100 g",
+      "Mandorle pelate 60 g",
+      "Primosale 150 g",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Miele millefiori q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-mele-e-spinacini.html",
+    "image_url": "https://www.giallozafferano.it/images/221-22112/Insalata-di-mele-e-spinacini_650x433_wm.jpg",
+    "servings": 2,
+    "kcal": 605.0,
+    "protein": null,
+    "carbs": 34.4,
+    "fats": 39.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Mele Red Delicious",
+        250.0,
+        "g"
+      ],
+      [
+        "Spinacini",
+        100.0,
+        "g"
+      ],
+      [
+        "Mandorle pelate",
+        60.0,
+        "g"
+      ],
+      [
+        "Primosale",
+        150.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Miele millefiori",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare l’insalata di mele e spinacini per prima cosa sciacquate sotto l’acqua corrente le foglie di spinaci e lasciatele scolare in un colino. Tagliate a tocchetti il primo sale, poi lavate con cura la mela e tagliatela a metà.",
+      "Eliminate il torsolo e poi affettatela in modo da ottenere degli spicchi sottili. Versate in una ciotola lo spinacino, conditelo con il sale",
+      "e un filo di olio d’oliva. Mescolate e poi aggiungete il primo sale e le fettine di mela.",
+      "Aggiungete per ultime le mandorle, insaporite con il miele millefiori e servite subito l’insalata di mele e spinacini."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:28.421045+00:00",
+    "repaired_at": "2026-10-10T14:20:10.125124+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 146427637689994,
+    "name": "Pumpkin pie Jack Skellington",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 115,
+    "ingredients_display": [
+      "Farina 00 350 g",
+      "Burro freddo 150 g",
+      "Acqua fredda 90 g",
+      "Uova (circa 1) 60 g",
+      "Zucchero 15 g",
+      "Sale fino 4 g",
+      "Zucca delica (già pulita) 500 g",
+      "Latte condensato 200 g",
+      "Uova (circa 2) a temperatura ambiente 110 g",
+      "Zucchero di canna 75 g",
+      "Amido di mais (maizena) 20 g",
+      "Estratto di vaniglia (in pasta) 1 cucchiaino 10 g",
+      "Cannella in polvere &frac12; cucchiaino"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pumpkin-pie-Jack-Skellington.html",
+    "image_url": "https://www.giallozafferano.it/images/258-25836/Pumpkin-pie-Jack-Skellington_650x433_wm.jpg",
+    "servings": 8,
+    "kcal": 477.0,
+    "protein": null,
+    "carbs": 64.9,
+    "fats": 19.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00",
+        350.0,
+        "g"
+      ],
+      [
+        "Burro freddo",
+        150.0,
+        "g"
+      ],
+      [
+        "Acqua fredda",
+        90.0,
+        "g"
+      ],
+      [
+        "Uova (circa 1)",
+        60.0,
+        "g"
+      ],
+      [
+        "Zucchero",
+        15.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        4.0,
+        "g"
+      ],
+      [
+        "Zucca delica (già pulita)",
+        500.0,
+        "g"
+      ],
+      [
+        "Latte condensato",
+        200.0,
+        "g"
+      ],
+      [
+        "Uova (circa 2) a temperatura ambiente",
+        110.0,
+        "g"
+      ],
+      [
+        "Zucchero di canna",
+        75.0,
+        "g"
+      ],
+      [
+        "Amido di mais (maizena)",
+        20.0,
+        "g"
+      ],
+      [
+        "Estratto di vaniglia (in pasta) 1 cucchiaino",
+        10.0,
+        "g"
+      ],
+      [
+        "Cannella in polvere &frac12; cucchiaino",
+        null,
+        "da verificare"
+      ]
+    ],
+    "steps": [
+      "Per preparare la Pumpkin pie Jack Skellington come prima cosa pulite la zucca: eliminate la buccia e ricavate 500 g di polpa. Tagliatela prima a fette e poi a cubetti irregolari. Trasferite la zucca in un mixer e unite le uova.",
+      "Aggiungete lo zucchero di canna, il latte condensato, la cannella e un cucchiaino di estratto di vaniglia.",
+      "Frullate il tutto per ottenere una crema. Aggiungete poi l'amido di mais e frullate ancora sino a che non sarà ben assorbito.",
+      "Trasferite la crema in una ciotola, coprite con pellicola e riponete in frigo sino all'utilizzo. Preparate intanto l'impasto per realizzare la base: dopo aver pulito e asciugato il mixer versate all'interno la farina e il burro freddo a cubetti. Frullate il tutto sino ad ottenere un composto sabbioso, poi aggiungete l'acqua fredda.",
+      "Unite anche l'uovo, lo zucchero e un pizzico di sale.",
+      "Azionate nuovamente le lame sino a quando il composto si staccherà dalle pareti del mixer: dovrete ottenere un impasto morbido ed elastico, non appiccicoso. Trasferitelo su un piano, formate un panetto e dividetelo a metà.",
+      "Avvolgete le due metà nella pellicola e lasciate riposare in frigorifero per almeno 30 minuti. Trascorso questo tempo prendete una delle due parti di impasto e stendetela su un piano leggermente spolverizzato di farina, sino ad ottenere uno spessore di circa 3 mm. Aiutandovi con il mattarello trasferite l'impasto steso su un foglio di carta forno e riponetelo in frigo per almeno 15 minuti.",
+      "Stendete quindi anche l'altra metà di impasto, ssempre fino allo spessore di 3 mm. Utilizzando un mattarello trasferite la pasta all'interno di una tortiera in ceramica da 26 cm 23 e fatela aderire bene 24 .",
+      "Versate all'interno la crema di zucca 25 ed eliminate l'eccesso di pasta con un coltellino 26 . Riprendete la pasta tenuta da parte in frigo e con un coltellino affilato incidete occhi, naso e bocca di Jack Skellington 27 , poi eliminate le parti interne di occhi e naso; per aiutarvi potete utilizzare uno stencil. Riponete in frigorifero per altri 15 minuti.",
+      "Adagiate con molta delicatezza la sfoglia sulla torta 28 e premete delicatamente i bordi. Eliminate l'eccesso di pasta quindi schiacciate i due lembi per farli aderire tra di loro 30 .",
+      "Rifilate nuovamente i bordi 31 32 . Trasferite in forno ventilato preriscaldato a 180° per 25 minuti, poi terminate la cottura a 170°, questa volta in modalità statica, per altri 30 minuti. Sfornate la vostra pumpkin pie Jack Skellington e lasciatela raffreddare completamente prima di servirla 33 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:19:31.004248+00:00",
+    "repaired_at": "2026-10-10T14:20:12.693785+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno"
       ],
       "dietary_verified": [],
       "allergen_verified": false,

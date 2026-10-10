@@ -21,8 +21,8 @@ FIRST = ('pasta ', 'spaghetti', 'fusilli', 'penne ', 'rigatoni', 'risotto', 'ris
          'tagliatelle', 'orecchiette', 'carbonara', 'amatriciana')
 SECOND = ('frittata', 'pollo ', 'petto di pollo', 'tacchino ', 'merluzzo', 'salmone',
           'orata ', 'branzino', 'hamburger', 'polpette', 'scaloppine', 'arrosto',
-          'bistecca', 'spezzatino', 'omelette', 'sgombro', 'pesce spada', 'tonno in padella')
-ONE_DISH = ('zuppa', 'minestrone', 'vellutata', 'insalatona', 'bowl', 'cous cous',
+          'bistecca', 'spezzatino', 'omelette', 'sgombro', 'baccalà', 'pesce spada', 'tonno in padella')
+ONE_DISH = ('zuppa', 'minestra', 'minestrone', 'vellutata', 'insalatona', 'bowl', 'cous cous',
             'couscous', 'poke', 'piatto unico', 'fagioli in umido', 'lenticchie in umido')
 SIDE = ('contorno', 'patate al forno', 'verdure grigliate', 'insalata verde')
 
@@ -62,10 +62,12 @@ def process(path, dry_run=False):
     if not isinstance(recipes, list): raise ValueError('Il catalogo deve essere una lista JSON')
     stats = Counter()
     changed = 0
+    inspected = 0
     for rec in recipes:
         if rec.get('needs_review') is not True:
             stats['preesistenti'] += 1
             continue
+        inspected += 1
         typ, status, reason = classify(rec.get('name', ''))
         qa = assess(rec)
         classification = {'tipo_proposto':typ, 'esito':status, 'criterio':reason, **qa}
@@ -78,7 +80,7 @@ def process(path, dry_run=False):
         if not qa['dati_completi']: stats['dati_incompleti'] += 1
     if not dry_run and changed:
         path.write_text(json.dumps(recipes, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    print(f'Schede esistenti: {stats["preesistenti"]}; classificate: {changed}; '
+    print(f'Schede esistenti: {stats["preesistenti"]}; esaminate: {inspected}; modificate: {changed}; '
           f'candidate={stats["candidato"]}; escluse={stats["escluso"]}; incerte={stats["incerto"]}; '
           f'con dati incompleti={stats["dati_incompleti"]}')
     print('Nessuna scheda in revisione viene abilitata automaticamente nel piano.')

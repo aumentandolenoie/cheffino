@@ -14,6 +14,7 @@ from urllib.robotparser import RobotFileParser
 from urllib.request import Request, urlopen
 
 from app.catalog import fetch_recipe
+from classifica_catalogo import classify, assess
 
 CATALOG = Path('data/catalogo.json')
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
@@ -112,9 +113,23 @@ def main():
     catalog = json.loads(CATALOG.read_text(encoding='utf-8'))
     robots = robots_policy()
     refreshed = incomplete = failed = blocked = 0
+    # Prima i piatti riconosciuti per il piano; poi quelli incerti.
+    # Le ricette escluse (es. dolci) restano nel catalogo ma non consumano
+    # richieste di arricchimento destinate a pranzo e cena.
+    candidates = []
+    skipped_excluded = 0
     for idx, rec in enumerate(catalog):
-        if refreshed+failed>=opts.limit: break
-        if not rec.get('needs_review') or rec.get('source')!='GialloZafferano' or rec.get('repaired_at'): continue
+        if not rec.get('needs_review') or rec.get('source') != 'GialloZafferano' or rec.get('repaired_at'):
+            continue
+        typ, status, _ = classify(rec.get('name', ''))
+        if status == 'escluso':
+            skipped_excluded += 1
+            continue
+        candidates.append((0 if status == 'candidato' else 1, idx, rec))
+    candidates.sort(key=lambda x: (x[0], x[1]))
+    print(f'In attesa di arricchimento: {len(candidates)} (candidate={sum(p == 0 for p, _, _ in candidates)}, incerte={sum(p == 1 for p, _, _ in candidates)}); escluse saltate={skipped_excluded}', flush=True)
+    for _, idx, rec in candidates:
+        if refreshed + failed >= opts.limit: break
         url=rec.get('url','')
         if not url.startswith('https://ricette.giallozafferano.it/') or not robots.can_fetch(UA,url):
             blocked+=1; continue
@@ -130,6 +145,6 @@ def main():
             failed+=1
             print(f'Errore su {url}: {e}',flush=True)
         time.sleep(opts.delay)
-    print(f'Riparate={refreshed}; ancora incomplete={incomplete}; errori={failed}; bloccate={blocked}; totale={len(catalog)}',flush=True)
+    print(f'Riparate={refreshed}; ancora incomplete tra le riparate={incomplete}; errori={failed}; bloccate={blocked}; totale={len(catalog)}',flush=True)
 
 if __name__=='__main__': main()

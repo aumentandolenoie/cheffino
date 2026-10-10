@@ -1,0 +1,26 @@
+CHEFFINO - CATALOGO AUTOMATICO SETTIMANALE
+
+Aggiornamento incrementale: carica questi elementi nella RADICE del repository GitHub:
+  aggiorna_catalogo.py
+  .github/workflows/aggiorna-catalogo.yml
+  tests/test_aggiorna_catalogo.py (facoltativo, test)
+
+Non sostituire app/, frontend/, render.yaml o data/catalogo.json.
+
+GitHub: Settings > Actions > General > Workflow permissions:
+Read and write permissions.
+
+GitHub: Actions > Aggiorna catalogo settimanalmente > Run workflow.
+Poi si avvia automaticamente ogni lunedi alle 07:15 UTC.
+
+Per ogni esecuzione sono importate al massimo 20 nuove ricette. Sono scoperte
+tramite sitemap pubblicate dal sito e non sono estratte se il sito ne blocca
+l'accesso. Nessun aggiramento di controlli anti-bot.
+
+Le nuove schede sono SEMPRE marked needs_review=true: salvate in GitHub,
+ma non entrano automaticamente nel piano prima della validazione.
+Questo e' intenzionale: il sistema non inventa le quantita' e le allergie.
+
+Un import automatico non e' una licenza per riutilizzare qualunque contenuto;
+rispetta le condizioni d'uso del sito e sospendi se il gestore ne limita
+l'accesso. Controlla i log di Actions se non compaiono nuove schede.

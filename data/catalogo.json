@@ -819,7 +819,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 60,
     "ingredients_display": [
       "Zucca delica (da pulire) 350 g",
       "Lenticchie rosse decorticate 80 g",
@@ -835,7 +835,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Zuppa-di-zucca-e-lenticchie.html",
     "image_url": "https://www.giallozafferano.it/images/307-30725/Zuppa-di-zucca-e-lenticchie_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 191.2,
     "protein": null,
     "carbs": 28.7,
@@ -843,54 +843,54 @@
     "cost": null,
     "ingredients": [
       [
-        "Zucca delica (da pulire) 350 g",
-        null,
-        "da fonte"
+        "Zucca delica (da pulire)",
+        350.0,
+        "g"
       ],
       [
-        "Lenticchie rosse decorticate 80 g",
-        null,
-        "da fonte"
+        "Lenticchie rosse decorticate",
+        80.0,
+        "g"
       ],
       [
-        "Cavolo nero (da pulire) 100 g",
-        null,
-        "da fonte"
+        "Cavolo nero (da pulire)",
+        100.0,
+        "g"
       ],
       [
-        "Farina di ceci 50 g",
-        null,
-        "da fonte"
+        "Farina di ceci",
+        50.0,
+        "g"
       ],
       [
         "Scalogno 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Aglio 1 spicchio",
-        null,
-        "da fonte"
+        "Aglio",
+        1.0,
+        "spicchio"
       ],
       [
-        "Brodo vegetale 1 l",
-        null,
-        "da fonte"
+        "Brodo vegetale",
+        1.0,
+        "l"
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -903,11 +903,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:45:30.376338+00:00",
+    "repaired_at": "2026-10-10T12:26:15.897286+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Piatto unico",
       "esito": "candidato",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -919,7 +920,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 65,
     "ingredients_display": [
       "Lenticchie secche 250 g",
       "Porri 100 g",
@@ -941,7 +942,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Zuppa-di-lenticchie.html",
     "image_url": "https://www.giallozafferano.it/images/ricette/11/1152/foto_hd/hd650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 430.0,
     "protein": null,
     "carbs": 61.7,
@@ -949,84 +950,84 @@
     "cost": null,
     "ingredients": [
       [
-        "Lenticchie secche 250 g",
-        null,
-        "da fonte"
+        "Lenticchie secche",
+        250.0,
+        "g"
       ],
       [
-        "Porri 100 g",
-        null,
-        "da fonte"
+        "Porri",
+        100.0,
+        "g"
       ],
       [
-        "Patate 250 g",
-        null,
-        "da fonte"
+        "Patate",
+        250.0,
+        "g"
       ],
       [
-        "Pomodorini ciliegino 180 g",
-        null,
-        "da fonte"
+        "Pomodorini ciliegino",
+        180.0,
+        "g"
       ],
       [
-        "Alloro 2 foglie",
-        null,
-        "da fonte"
+        "Alloro",
+        2.0,
+        "foglie"
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
         "Curcuma in polvere 1 cucchiaino",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Acqua 1 l",
-        null,
-        "da fonte"
+        "Acqua",
+        1.0,
+        "l"
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Origano q.b.",
+        "Origano",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
         "Pane nero ai cereali 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Origano q.b.",
+        "Origano",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -1038,11 +1039,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:45:33.101948+00:00",
+    "repaired_at": "2026-10-10T12:26:18.603233+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Piatto unico",
       "esito": "candidato",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -1054,7 +1056,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 35,
     "ingredients_display": [
       "Lenticchie precotte (peso sgocciolato) 500 g",
       "Cipolle 100 g",
@@ -1070,7 +1072,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Zuppa-di-lenticchie-con-curcuma-e-zenzero.html",
     "image_url": "https://www.giallozafferano.it/images/366-36684/Zuppa-di-lenticchie-con-curcuma-e-zenzero_1200x800_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 508.2,
     "protein": null,
     "carbs": 84.4,
@@ -1078,54 +1080,54 @@
     "cost": null,
     "ingredients": [
       [
-        "Lenticchie precotte (peso sgocciolato) 500 g",
-        null,
-        "da fonte"
+        "Lenticchie precotte (peso sgocciolato)",
+        500.0,
+        "g"
       ],
       [
-        "Cipolle 100 g",
-        null,
-        "da fonte"
+        "Cipolle",
+        100.0,
+        "g"
       ],
       [
-        "Sedano 100 g",
-        null,
-        "da fonte"
+        "Sedano",
+        100.0,
+        "g"
       ],
       [
-        "Brodo vegetale 800 g",
-        null,
-        "da fonte"
+        "Brodo vegetale",
+        800.0,
+        "g"
       ],
       [
         "Curcuma in polvere 1 cucchiaino",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Zenzero in polvere 1 cucchiaino",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Basilico q.b.",
+        "Basilico",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -1137,11 +1139,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:45:35.753141+00:00",
+    "repaired_at": "2026-10-10T12:26:21.163147+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Piatto unico",
       "esito": "candidato",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -1153,7 +1156,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 80,
     "ingredients_display": [
       "Lenticchie secche 250 g",
       "Farro 250 g",
@@ -1169,7 +1172,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Zuppa-di-farro-e-lenticchie.html",
     "image_url": "https://www.giallozafferano.it/images/294-29489/Zuppa-di-farro-e-lenticchie_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 500.7,
     "protein": null,
     "carbs": 89.3,
@@ -1177,54 +1180,54 @@
     "cost": null,
     "ingredients": [
       [
-        "Lenticchie secche 250 g",
-        null,
-        "da fonte"
+        "Lenticchie secche",
+        250.0,
+        "g"
       ],
       [
-        "Farro 250 g",
-        null,
-        "da fonte"
+        "Farro",
+        250.0,
+        "g"
       ],
       [
         "Cipolle bianche piccola 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Carote 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Sedano gambo 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Concentrato di pomodoro 1 cucchiaio",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale q.b.",
+        "Sale",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -1237,11 +1240,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:45:38.391986+00:00",
+    "repaired_at": "2026-10-10T12:26:23.883689+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Piatto unico",
       "esito": "candidato",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -1253,7 +1257,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 160,
     "ingredients_display": [
       "Zucca (già pulita) 840 g",
       "Fagioli borlotti freschi 500 g",
@@ -1274,7 +1278,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Zuppa-autunnale.html",
     "image_url": "https://www.giallozafferano.it/images/171-17173/Zuppa-autunnale_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 643.1,
     "protein": null,
     "carbs": 71.2,
@@ -1282,79 +1286,79 @@
     "cost": null,
     "ingredients": [
       [
-        "Zucca (già pulita) 840 g",
-        null,
-        "da fonte"
+        "Zucca (già pulita)",
+        840.0,
+        "g"
       ],
       [
-        "Fagioli borlotti freschi 500 g",
-        null,
-        "da fonte"
+        "Fagioli borlotti freschi",
+        500.0,
+        "g"
       ],
       [
-        "Cavolo nero 100 g",
-        null,
-        "da fonte"
+        "Cavolo nero",
+        100.0,
+        "g"
       ],
       [
-        "Porri 80 g",
-        null,
-        "da fonte"
+        "Porri",
+        80.0,
+        "g"
       ],
       [
-        "Brodo vegetale 2 l",
-        null,
-        "da fonte"
+        "Brodo vegetale",
+        2.0,
+        "l"
       ],
       [
-        "Rosmarino 2 rametti",
-        null,
-        "da fonte"
+        "Rosmarino",
+        2.0,
+        "rametti"
       ],
       [
-        "Alloro q.b.",
+        "Alloro",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva 40 g",
-        null,
-        "da fonte"
+        "Olio extravergine d'oliva",
+        40.0,
+        "g"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pane 8 fette",
-        null,
-        "da fonte"
+        "Pane",
+        8.0,
+        "fette"
       ],
       [
-        "Gherigli di noci 50 g",
-        null,
-        "da fonte"
+        "Gherigli di noci",
+        50.0,
+        "g"
       ],
       [
-        "Rosmarino q.b.",
+        "Rosmarino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -1369,14 +1373,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:45:41.556560+00:00",
+    "repaired_at": "2026-10-10T12:26:26.623077+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Piatto unico",
       "esito": "candidato",
       "criterio": "nome",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -1385,7 +1390,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 60,
     "ingredients_display": [
       "Zucca delica già pulita 210 g",
       "Farina di riso 150 g",
@@ -1404,7 +1409,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Zucchette-ripiene-di-Nutella.html",
     "image_url": "https://www.giallozafferano.it/images/238-23864/Zucchette-ripiene-di-Nutella_650x433_wm.jpg",
-    "servings": null,
+    "servings": 8,
     "kcal": 373.5,
     "protein": null,
     "carbs": 58.6,
@@ -1412,69 +1417,69 @@
     "cost": null,
     "ingredients": [
       [
-        "Zucca delica già pulita 210 g",
-        null,
-        "da fonte"
+        "Zucca delica già pulita",
+        210.0,
+        "g"
       ],
       [
-        "Farina di riso 150 g",
-        null,
-        "da fonte"
+        "Farina di riso",
+        150.0,
+        "g"
       ],
       [
-        "Farina di mandorle 50 g",
-        null,
-        "da fonte"
+        "Farina di mandorle",
+        50.0,
+        "g"
       ],
       [
-        "Latte di mandorle 50 g",
-        null,
-        "da fonte"
+        "Latte di mandorle",
+        50.0,
+        "g"
       ],
       [
-        "Olio di semi 50 ml",
-        null,
-        "da fonte"
+        "Olio di semi",
+        50.0,
+        "ml"
       ],
       [
-        "Zucchero di canna 100 g",
-        null,
-        "da fonte"
+        "Zucchero di canna",
+        100.0,
+        "g"
       ],
       [
         "Uova 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Lievito in polvere per dolci 8 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci",
+        8.0,
+        "g"
       ],
       [
-        "Zucchero a velo 150 g",
-        null,
-        "da fonte"
+        "Zucchero a velo",
+        150.0,
+        "g"
       ],
       [
-        "Acqua q.b.",
+        "Acqua",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Coloranti alimentari verde q.b.",
+        "Coloranti alimentari verde",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Nutella® 120 g",
-        null,
-        "da fonte"
+        "Nutella®",
+        120.0,
+        "g"
       ],
       [
-        "Decorazione alimentare occhietti in zucchero q.b.",
+        "Decorazione alimentare occhietti in zucchero",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -1490,11 +1495,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:45:44.698682+00:00",
+    "repaired_at": "2026-10-10T12:26:29.496199+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -1506,7 +1512,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 40,
     "ingredients_display": [
       "Pasta Sfoglia rettangolare 230 g",
       "Marmellata di arance 350 g",
@@ -1516,7 +1522,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Zucchette-di-pasta-sfoglia.html",
     "image_url": "https://www.giallozafferano.it/images/ricette/181/18125/foto_hd/hd650x433_wm.jpg",
-    "servings": null,
+    "servings": 6,
     "kcal": 406.3,
     "protein": null,
     "carbs": 67.5,
@@ -1524,24 +1530,24 @@
     "cost": null,
     "ingredients": [
       [
-        "Pasta Sfoglia rettangolare 230 g",
-        null,
-        "da fonte"
+        "Pasta Sfoglia rettangolare",
+        230.0,
+        "g"
       ],
       [
-        "Marmellata di arance 350 g",
-        null,
-        "da fonte"
+        "Marmellata di arance",
+        350.0,
+        "g"
       ],
       [
-        "Zucchero di canna 70 g",
-        null,
-        "da fonte"
+        "Zucchero di canna",
+        70.0,
+        "g"
       ],
       [
         "Tuorli 1",
         null,
-        "da fonte"
+        "da verificare"
       ]
     ],
     "steps": [
@@ -1552,11 +1558,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:45:47.349140+00:00",
+    "repaired_at": "2026-10-10T12:26:32.244047+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -1568,7 +1575,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 60,
     "ingredients_display": [
       "Zucca delica da pulire 210 g",
       "Farina di riso 150 g",
@@ -1586,7 +1593,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Tortine-di-zucca-e-cioccolato.html",
     "image_url": "https://www.giallozafferano.it/images/ricette/183/18349/foto_hd/hd650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 775.0,
     "protein": null,
     "carbs": 82.0,
@@ -1594,64 +1601,64 @@
     "cost": null,
     "ingredients": [
       [
-        "Zucca delica da pulire 210 g",
-        null,
-        "da fonte"
+        "Zucca delica da pulire",
+        210.0,
+        "g"
       ],
       [
-        "Farina di riso 150 g",
-        null,
-        "da fonte"
+        "Farina di riso",
+        150.0,
+        "g"
       ],
       [
-        "Farina di mandorle 50 g",
-        null,
-        "da fonte"
+        "Farina di mandorle",
+        50.0,
+        "g"
       ],
       [
-        "Zucchero di canna 100 g",
-        null,
-        "da fonte"
+        "Zucchero di canna",
+        100.0,
+        "g"
       ],
       [
-        "Latte di mandorle 50 g",
-        null,
-        "da fonte"
+        "Latte di mandorle",
+        50.0,
+        "g"
       ],
       [
-        "Olio di semi 50 g",
-        null,
-        "da fonte"
+        "Olio di semi",
+        50.0,
+        "g"
       ],
       [
-        "Uova (circa 1 medio) 55 g",
-        null,
-        "da fonte"
+        "Uova (circa 1 medio)",
+        55.0,
+        "g"
       ],
       [
-        "Lievito in polvere per dolci 8 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci",
+        8.0,
+        "g"
       ],
       [
         "Sale fino 1 pizzico",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Cioccolato fondente 150 g",
-        null,
-        "da fonte"
+        "Cioccolato fondente",
+        150.0,
+        "g"
       ],
       [
-        "Panna fresca liquida 120 g",
-        null,
-        "da fonte"
+        "Panna fresca liquida",
+        120.0,
+        "g"
       ],
       [
-        "Zucchero a velo q.b.",
+        "Zucchero a velo",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -1667,11 +1674,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:45:49.981907+00:00",
+    "repaired_at": "2026-10-10T12:26:35.000197+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -1683,7 +1691,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 110,
     "ingredients_display": [
       "Farina 00 450 g",
       "Semola di grano duro rimacinata 50 g",
@@ -1706,7 +1714,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Tortelli-di-zucca-alla-mantovana.html",
     "image_url": "https://www.giallozafferano.it/images/366-36661/Tortelli-di-zucca-alla-mantovana_1200x800_wm.jpg",
-    "servings": null,
+    "servings": 10,
     "kcal": 487.5,
     "protein": null,
     "carbs": 53.1,
@@ -1714,89 +1722,89 @@
     "cost": null,
     "ingredients": [
       [
-        "Farina 00 450 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        450.0,
+        "g"
       ],
       [
-        "Semola di grano duro rimacinata 50 g",
-        null,
-        "da fonte"
+        "Semola di grano duro rimacinata",
+        50.0,
+        "g"
       ],
       [
         "Tuorli 10",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Uova 2",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva 20 g",
-        null,
-        "da fonte"
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
       ],
       [
-        "Zucca mantovana pulita 750 g",
-        null,
-        "da fonte"
+        "Zucca mantovana pulita",
+        750.0,
+        "g"
       ],
       [
-        "Mostarda mantovana 100 g",
-        null,
-        "da fonte"
+        "Mostarda mantovana",
+        100.0,
+        "g"
       ],
       [
-        "Amaretti 100 g",
-        null,
-        "da fonte"
+        "Amaretti",
+        100.0,
+        "g"
       ],
       [
-        "Grana Padano DOP 50 g",
-        null,
-        "da fonte"
+        "Grana Padano DOP",
+        50.0,
+        "g"
       ],
       [
-        "Noce moscata q.b.",
+        "Noce moscata",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Mandorle in scaglie q.b.",
+        "Mandorle in scaglie",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Timo q.b.",
+        "Timo",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Burro 100 g",
-        null,
-        "da fonte"
+        "Burro",
+        100.0,
+        "g"
       ],
       [
-        "Grana Padano DOP 60 g",
-        null,
-        "da fonte"
+        "Grana Padano DOP",
+        60.0,
+        "g"
       ],
       [
         "Scorza di limone 1",
         null,
-        "da fonte"
+        "da verificare"
       ]
     ],
     "steps": [
@@ -1817,11 +1825,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:45:52.668135+00:00",
+    "repaired_at": "2026-10-10T12:26:37.591509+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Primo",
       "esito": "candidato",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -1833,7 +1842,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 50,
     "ingredients_display": [
       "Pasta Sfoglia rotonda 230 g",
       "Pere Decana 300 g",
@@ -1848,7 +1857,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Torta-salata-pere-e-gorgonzola.html",
     "image_url": "https://www.giallozafferano.it/images/295-29579/Torta-salata-pere-e-gorgonzola_650x433_wm.jpg",
-    "servings": null,
+    "servings": 6,
     "kcal": 525.0,
     "protein": null,
     "carbs": 35.6,
@@ -1856,49 +1865,49 @@
     "cost": null,
     "ingredients": [
       [
-        "Pasta Sfoglia rotonda 230 g",
-        null,
-        "da fonte"
+        "Pasta Sfoglia rotonda",
+        230.0,
+        "g"
       ],
       [
-        "Pere Decana 300 g",
-        null,
-        "da fonte"
+        "Pere Decana",
+        300.0,
+        "g"
       ],
       [
-        "Fontina 170 g",
-        null,
-        "da fonte"
+        "Fontina",
+        170.0,
+        "g"
       ],
       [
-        "Gorgonzola piccante 150 g",
-        null,
-        "da fonte"
+        "Gorgonzola piccante",
+        150.0,
+        "g"
       ],
       [
-        "Nocciole pelate 30 g",
-        null,
-        "da fonte"
+        "Nocciole pelate",
+        30.0,
+        "g"
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Salvia q.b.",
+        "Salvia",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Miele di castagno 2 cucchiai",
-        null,
-        "da fonte"
+        "Miele di castagno",
+        2.0,
+        "cucchiai"
       ]
     ],
     "steps": [
@@ -1910,14 +1919,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:45:55.407189+00:00",
+    "repaired_at": "2026-10-10T12:26:40.165986+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -1926,7 +1936,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 75,
     "ingredients_display": [
       "Uova circa 2 medie a temperatura ambiente 110 g",
       "Farina 00 50 g",
@@ -1948,7 +1958,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Torta-ricotta-e-fragole.html",
     "image_url": "https://www.giallozafferano.it/images/221-22161/Torta-ricotta-e-fragole_650x433_wm.jpg",
-    "servings": null,
+    "servings": 6,
     "kcal": 523.7,
     "protein": null,
     "carbs": 92.0,
@@ -1956,84 +1966,84 @@
     "cost": null,
     "ingredients": [
       [
-        "Uova circa 2 medie a temperatura ambiente 110 g",
-        null,
-        "da fonte"
+        "Uova circa 2 medie a temperatura ambiente",
+        110.0,
+        "g"
       ],
       [
-        "Farina 00 50 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        50.0,
+        "g"
       ],
       [
-        "Zucchero 70 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        70.0,
+        "g"
       ],
       [
-        "Miele millefiori 5 g",
-        null,
-        "da fonte"
-      ],
-      [
-        "Scorza di limone &frac12;",
-        null,
-        "da fonte"
-      ],
-      [
-        "Acqua 150 g",
-        null,
-        "da fonte"
+        "Miele millefiori",
+        5.0,
+        "g"
       ],
       [
         "Scorza di limone &frac12;",
         null,
-        "da fonte"
+        "da verificare"
+      ],
+      [
+        "Acqua",
+        150.0,
+        "g"
+      ],
+      [
+        "Scorza di limone &frac12;",
+        null,
+        "da verificare"
       ],
       [
         "Zucchero 75",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Baccello di vaniglia &frac12;",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Fragole 300 g",
-        null,
-        "da fonte"
+        "Fragole",
+        300.0,
+        "g"
       ],
       [
-        "Sambuca 20 g",
-        null,
-        "da fonte"
+        "Sambuca",
+        20.0,
+        "g"
       ],
       [
-        "Zucchero 15 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        15.0,
+        "g"
       ],
       [
-        "Ricotta vaccina 350 g",
-        null,
-        "da fonte"
+        "Ricotta vaccina",
+        350.0,
+        "g"
       ],
       [
-        "Panna fresca liquida 110 g",
-        null,
-        "da fonte"
+        "Panna fresca liquida",
+        110.0,
+        "g"
       ],
       [
-        "Zucchero a velo 50 g",
-        null,
-        "da fonte"
+        "Zucchero a velo",
+        50.0,
+        "g"
       ],
       [
-        "Gelatina in fogli 10 g",
-        null,
-        "da fonte"
+        "Gelatina in fogli",
+        10.0,
+        "g"
       ]
     ],
     "steps": [
@@ -2053,11 +2063,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:45:58.108343+00:00",
+    "repaired_at": "2026-10-10T12:26:42.873058+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -2069,7 +2080,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 85,
     "ingredients_display": [
       "Farina di castagne 240 g",
       "Cacao amaro in polvere 20 g",
@@ -2082,7 +2093,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Torta-di-castagne-e-cioccolato.html",
     "image_url": "https://www.giallozafferano.it/images/ricette/168/16887/foto_hd/hd650x433_wm.jpg",
-    "servings": null,
+    "servings": 8,
     "kcal": 213.0,
     "protein": null,
     "carbs": 37.4,
@@ -2090,39 +2101,39 @@
     "cost": null,
     "ingredients": [
       [
-        "Farina di castagne 240 g",
-        null,
-        "da fonte"
+        "Farina di castagne",
+        240.0,
+        "g"
       ],
       [
-        "Cacao amaro in polvere 20 g",
-        null,
-        "da fonte"
+        "Cacao amaro in polvere",
+        20.0,
+        "g"
       ],
       [
-        "Zucchero 160 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        160.0,
+        "g"
       ],
       [
-        "Uova (circa 5 medie) 250 g",
-        null,
-        "da fonte"
+        "Uova (circa 5 medie)",
+        250.0,
+        "g"
       ],
       [
-        "Lievito in polvere per dolci 16 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci",
+        16.0,
+        "g"
       ],
       [
-        "Latte intero 310 g",
-        null,
-        "da fonte"
+        "Latte intero",
+        310.0,
+        "g"
       ],
       [
         "Baccello di vaniglia 1",
         null,
-        "da fonte"
+        "da verificare"
       ]
     ],
     "steps": [
@@ -2134,11 +2145,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:46:00.747760+00:00",
+    "repaired_at": "2026-10-10T12:26:45.491359+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -2150,7 +2162,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 50,
     "ingredients_display": [
       "Farina 00 180 g",
       "Zucchero 140 g",
@@ -2169,7 +2181,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Torta-con-marmellata.html",
     "image_url": "https://www.giallozafferano.it/images/271-27173/Torta-con-marmellata_650x433_wm.jpg",
-    "servings": null,
+    "servings": 6,
     "kcal": 481.3,
     "protein": null,
     "carbs": 75.5,
@@ -2177,69 +2189,69 @@
     "cost": null,
     "ingredients": [
       [
-        "Farina 00 180 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        180.0,
+        "g"
       ],
       [
-        "Zucchero 140 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        140.0,
+        "g"
       ],
       [
-        "Olio di semi di girasole 80 g",
-        null,
-        "da fonte"
+        "Olio di semi di girasole",
+        80.0,
+        "g"
       ],
       [
-        "Fecola di patate 20 g",
-        null,
-        "da fonte"
+        "Fecola di patate",
+        20.0,
+        "g"
       ],
       [
-        "Latte intero freddo 40 g",
-        null,
-        "da fonte"
+        "Latte intero freddo",
+        40.0,
+        "g"
       ],
       [
         "Uova 2",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Tuorli 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Lievito in polvere per dolci 6 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci",
+        6.0,
+        "g"
       ],
       [
         "Scorza di limone 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Confettura di ciliegie 200 g",
-        null,
-        "da fonte"
+        "Confettura di ciliegie",
+        200.0,
+        "g"
       ],
       [
-        "Olio di semi di girasole q.b.",
+        "Olio di semi di girasole",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Farina 00 q.b.",
+        "Farina 00",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Zucchero a velo q.b.",
+        "Zucchero a velo",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -2251,11 +2263,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:46:03.391693+00:00",
+    "repaired_at": "2026-10-10T12:26:48.105725+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -2267,7 +2280,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 60,
     "ingredients_display": [
       "Yogurt bianco naturale 1 vasetto",
       "Zucchero 2 vasetti",
@@ -2284,7 +2297,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Torta-7-vasetti-al-cacao.html",
     "image_url": "https://www.giallozafferano.it/images/328-32875/Torta-7-vasetti-al-cacao_650x433_wm.jpg",
-    "servings": null,
+    "servings": 8,
     "kcal": 387.1,
     "protein": null,
     "carbs": 52.1,
@@ -2294,57 +2307,57 @@
       [
         "Yogurt bianco naturale 1 vasetto",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Zucchero 2 vasetti",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Farina 00 3 vasetti",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Olio di semi di girasole scarso 1 vasetto",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Cacao amaro in polvere 1/3 di vasetto 40 g",
-        null,
-        "da fonte"
+        "Cacao amaro in polvere 1/3 di vasetto",
+        40.0,
+        "g"
       ],
       [
-        "Uova (3 medie) 165 g",
-        null,
-        "da fonte"
+        "Uova (3 medie)",
+        165.0,
+        "g"
       ],
       [
-        "Lievito in polvere per dolci (1 bustina) 16 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci (1 bustina)",
+        16.0,
+        "g"
       ],
       [
         "Sale fino 1 pizzico",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Burro q.b.",
+        "Burro",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Farina 00 q.b.",
+        "Farina 00",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Zucchero a velo q.b.",
+        "Zucchero a velo",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -2355,11 +2368,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:46:06.020675+00:00",
+    "repaired_at": "2026-10-10T12:26:50.834240+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -2371,7 +2385,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 55,
     "ingredients_display": [
       "Mandorle pelate 200 g",
       "Farina 00 200 g",
@@ -2387,7 +2401,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Torta-5-minuti.html",
     "image_url": "https://www.giallozafferano.it/images/167-16759/Torta-5-minuti_650x433_wm.jpg",
-    "servings": null,
+    "servings": 8,
     "kcal": 565.2,
     "protein": null,
     "carbs": 51.5,
@@ -2395,54 +2409,54 @@
     "cost": null,
     "ingredients": [
       [
-        "Mandorle pelate 200 g",
-        null,
-        "da fonte"
+        "Mandorle pelate",
+        200.0,
+        "g"
       ],
       [
-        "Farina 00 200 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        200.0,
+        "g"
       ],
       [
-        "Burro 200 g",
-        null,
-        "da fonte"
+        "Burro",
+        200.0,
+        "g"
       ],
       [
-        "Zucchero 200 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        200.0,
+        "g"
       ],
       [
         "Uova medie 3",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Grand Marnier 80 g",
-        null,
-        "da fonte"
+        "Grand Marnier",
+        80.0,
+        "g"
       ],
       [
         "Scorza di limone 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Lievito in polvere per dolci 10 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci",
+        10.0,
+        "g"
       ],
       [
         "Sale fino 1 pizzico",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Zucchero a velo q.b.",
+        "Zucchero a velo",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -2453,11 +2467,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:46:08.731843+00:00",
+    "repaired_at": "2026-10-10T12:26:53.552955+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -2469,7 +2484,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 45,
     "ingredients_display": [
       "Farina 00 210 g",
       "Zucchero di canna 130 g",
@@ -2485,7 +2500,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Torta-5-minuti-cocco-e-mirtilli.html",
     "image_url": "https://www.giallozafferano.it/images/364-36400/Torta-5-minuti-cocco-e-mirtilli_650x433_wm.jpg",
-    "servings": null,
+    "servings": 6,
     "kcal": 511.4,
     "protein": null,
     "carbs": 56.5,
@@ -2493,54 +2508,54 @@
     "cost": null,
     "ingredients": [
       [
-        "Farina 00 210 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        210.0,
+        "g"
       ],
       [
-        "Zucchero di canna 130 g",
-        null,
-        "da fonte"
+        "Zucchero di canna",
+        130.0,
+        "g"
       ],
       [
-        "Mirtilli 130 g",
-        null,
-        "da fonte"
+        "Mirtilli",
+        130.0,
+        "g"
       ],
       [
-        "Olio di cocco 120 g",
-        null,
-        "da fonte"
+        "Olio di cocco",
+        120.0,
+        "g"
       ],
       [
-        "Latte intero 110 g",
-        null,
-        "da fonte"
+        "Latte intero",
+        110.0,
+        "g"
       ],
       [
-        "Cocco rapè 90 g",
-        null,
-        "da fonte"
+        "Cocco rapè",
+        90.0,
+        "g"
       ],
       [
         "Uova 3",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Lievito in polvere per dolci 10 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci",
+        10.0,
+        "g"
       ],
       [
         "Sale fino 1 pizzico",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Zucchero a velo q.b.",
+        "Zucchero a velo",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -2552,11 +2567,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:46:11.457560+00:00",
+    "repaired_at": "2026-10-10T12:26:56.270716+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -2568,7 +2584,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 65,
     "ingredients_display": [
       "Yogurt greco 5% di grassi 500 g",
       "Estratto di vaniglia q.b.",
@@ -2583,7 +2599,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Torta-5-minuti-allo-yogurt-greco.html",
     "image_url": "https://www.giallozafferano.it/images/364-36463/Torta-5-minuti-allo-yogurt-greco_650x433_wm.jpg",
-    "servings": null,
+    "servings": 8,
     "kcal": 324.5,
     "protein": null,
     "carbs": 44.6,
@@ -2591,49 +2607,49 @@
     "cost": null,
     "ingredients": [
       [
-        "Yogurt greco 5% di grassi 500 g",
-        null,
-        "da fonte"
+        "Yogurt greco 5% di grassi",
+        500.0,
+        "g"
       ],
       [
-        "Estratto di vaniglia q.b.",
+        "Estratto di vaniglia",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Zucchero 150 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        150.0,
+        "g"
       ],
       [
-        "Uova (2 medie) 110 g",
-        null,
-        "da fonte"
+        "Uova (2 medie)",
+        110.0,
+        "g"
       ],
       [
-        "Olio di semi di girasole 60 g",
-        null,
-        "da fonte"
+        "Olio di semi di girasole",
+        60.0,
+        "g"
       ],
       [
-        "Farina 00 230 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        230.0,
+        "g"
       ],
       [
-        "Lievito in polvere per dolci 16 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci",
+        16.0,
+        "g"
       ],
       [
         "Sale fino 1 pizzico",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Zucchero a velo 10 g",
-        null,
-        "da fonte"
+        "Zucchero a velo",
+        10.0,
+        "g"
       ]
     ],
     "steps": [
@@ -2645,11 +2661,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:46:14.069953+00:00",
+    "repaired_at": "2026-10-10T12:26:58.999209+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -2661,7 +2678,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 40,
     "ingredients_display": [
       "Farina 00 180 g",
       "Cacao amaro in polvere 35 g",
@@ -2676,7 +2693,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Torta-5-minuti-allo-yogurt-e-cacao.html",
     "image_url": "https://www.giallozafferano.it/images/366-36606/Torta-5-minuti-allo-yogurt-e-cacao_650x433_wm.jpg",
-    "servings": null,
+    "servings": 8,
     "kcal": 288.2,
     "protein": null,
     "carbs": 41.0,
@@ -2684,49 +2701,49 @@
     "cost": null,
     "ingredients": [
       [
-        "Farina 00 180 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        180.0,
+        "g"
       ],
       [
-        "Cacao amaro in polvere 35 g",
-        null,
-        "da fonte"
+        "Cacao amaro in polvere",
+        35.0,
+        "g"
       ],
       [
-        "Zucchero 160 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        160.0,
+        "g"
       ],
       [
-        "Yogurt bianco naturale 125 g",
-        null,
-        "da fonte"
+        "Yogurt bianco naturale",
+        125.0,
+        "g"
       ],
       [
-        "Olio extravergine d'oliva 80 g",
-        null,
-        "da fonte"
+        "Olio extravergine d'oliva",
+        80.0,
+        "g"
       ],
       [
         "Uova medie, a temperatura ambiente 2",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Lievito in polvere per dolci 16 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci",
+        16.0,
+        "g"
       ],
       [
-        "Estratto di vaniglia q.b.",
+        "Estratto di vaniglia",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino 2 g",
-        null,
-        "da fonte"
+        "Sale fino",
+        2.0,
+        "g"
       ]
     ],
     "steps": [
@@ -2738,11 +2755,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:46:16.769819+00:00",
+    "repaired_at": "2026-10-10T12:27:01.741968+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -2754,7 +2772,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 50,
     "ingredients_display": [
       "Fragole 350 g",
       "Farina 00 250 g",
@@ -2770,7 +2788,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Torta-5-minuti-alle-fragole.html",
     "image_url": "https://www.giallozafferano.it/images/362-36217/Torta-5-minuti-alle-fragole_650x433_wm.jpg",
-    "servings": null,
+    "servings": 6,
     "kcal": 459.2,
     "protein": null,
     "carbs": 60.1,
@@ -2778,54 +2796,54 @@
     "cost": null,
     "ingredients": [
       [
-        "Fragole 350 g",
-        null,
-        "da fonte"
+        "Fragole",
+        350.0,
+        "g"
       ],
       [
-        "Farina 00 250 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        250.0,
+        "g"
       ],
       [
-        "Latte intero a temperatura ambiente 125 g",
-        null,
-        "da fonte"
+        "Latte intero a temperatura ambiente",
+        125.0,
+        "g"
       ],
       [
         "Uova a temperatura ambiente 3",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Zucchero 125 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        125.0,
+        "g"
       ],
       [
-        "Burro fuso 125 g",
-        null,
-        "da fonte"
+        "Burro fuso",
+        125.0,
+        "g"
       ],
       [
         "Baccello di vaniglia 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Lievito in polvere per dolci 10 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci",
+        10.0,
+        "g"
       ],
       [
-        "Zucchero q.b.",
+        "Zucchero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Zucchero a velo q.b.",
+        "Zucchero a velo",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -2838,11 +2856,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:46:19.512207+00:00",
+    "repaired_at": "2026-10-10T12:27:04.443227+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -2854,7 +2873,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 60,
     "ingredients_display": [
       "Ricotta vaccina 200 g",
       "Farina 00 200 g",
@@ -2875,7 +2894,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Torta-5-minuti-alla-ricotta.html",
     "image_url": "https://www.giallozafferano.it/images/207-20713/Torta-5-minuti-alla-ricotta_650x433_wm.jpg",
-    "servings": null,
+    "servings": 8,
     "kcal": 777.7,
     "protein": null,
     "carbs": 61.4,
@@ -2883,79 +2902,79 @@
     "cost": null,
     "ingredients": [
       [
-        "Ricotta vaccina 200 g",
-        null,
-        "da fonte"
+        "Ricotta vaccina",
+        200.0,
+        "g"
       ],
       [
-        "Farina 00 200 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        200.0,
+        "g"
       ],
       [
-        "Zucchero 200 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        200.0,
+        "g"
       ],
       [
-        "Burro 200 g",
-        null,
-        "da fonte"
+        "Burro",
+        200.0,
+        "g"
       ],
       [
         "Uova 3",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Lievito in polvere per dolci 10 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci",
+        10.0,
+        "g"
       ],
       [
         "Sale fino 1 pizzico",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Scorza d'arancia 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Rum 30 g",
-        null,
-        "da fonte"
+        "Rum",
+        30.0,
+        "g"
       ],
       [
-        "Pistacchi sgusciati 100 g",
-        null,
-        "da fonte"
+        "Pistacchi sgusciati",
+        100.0,
+        "g"
       ],
       [
-        "Mandorle pelate 100 g",
-        null,
-        "da fonte"
+        "Mandorle pelate",
+        100.0,
+        "g"
       ],
       [
-        "Panna fresca liquida 200 g",
-        null,
-        "da fonte"
+        "Panna fresca liquida",
+        200.0,
+        "g"
       ],
       [
-        "Cioccolato fondente 140 g",
-        null,
-        "da fonte"
+        "Cioccolato fondente",
+        140.0,
+        "g"
       ],
       [
-        "Burro 20 g",
-        null,
-        "da fonte"
+        "Burro",
+        20.0,
+        "g"
       ],
       [
-        "Granella di pistacchi q.b.",
+        "Granella di pistacchi",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -2969,11 +2988,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:46:22.162732+00:00",
+    "repaired_at": "2026-10-10T12:27:07.049342+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Dolce",
       "esito": "escluso",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -3419,9 +3439,9 @@
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:29.679864+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -3555,9 +3575,9 @@
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:32.495897+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -3656,9 +3676,9 @@
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:35.140486+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -5067,6 +5087,1639 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:57:12.413870+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 162536820830831,
+    "name": "Malfatti al cavolo nero",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Cavolo nero (da pulire) 600 g",
+      "Ricotta vaccina 250 g",
+      "Farina 00 200 g",
+      "Parmigiano Reggiano DOP 120 g",
+      "Pangrattato 80 g",
+      "Cipolle &frac12;",
+      "Uova 2",
+      "Burro 20 g",
+      "Noce moscata q.b.",
+      "Sale fino q.b.",
+      "Burro 50 g",
+      "Salvia 1 rametto",
+      "Parmigiano Reggiano DOP q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Malfatti-al-cavolo-nero.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36675/Malfatti-al-cavolo-nero_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 346.1,
+    "protein": null,
+    "carbs": 32.6,
+    "fats": 17.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Cavolo nero (da pulire) 600 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Ricotta vaccina 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Parmigiano Reggiano DOP 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pangrattato 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cipolle &frac12;",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova 2",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Noce moscata q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Salvia 1 rametto",
+        null,
+        "da fonte"
+      ],
+      [
+        "Parmigiano Reggiano DOP q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare i malfatti al cavolo nero, per prima cosa pulite il cavolo nero separando le foglie dallo stelo 1 . Sbollentate le foglie di cavolo nero per circa 5-7 minuti 2 , poi scolatele e strizzatele bene con le mani 3 .",
+      "Tritate grossolanamente il cavolo nero al coltello 4 e tenete da parte. Mondate e tritate finemente la cipolla 5 , poi versatela in una padella in cui avete fatto sciogliere il burro 6 e lasciate soffriggere per qualche minuto.",
+      "Unite il cavolo nero tritato, salate e saltate a fiamma medio-alta per circa 5 minuti, fino a quando il liquido si sarà asciugato 7 . Spegnete il fuoco e lasciate intiepidire. Intanto in una ciotola versate la farina, il Parmigiano Reggiano grattugiato 8 e il pangrattato 9 .",
+      "Aggiungete anche la ricotta 10 , le uova 11 , un pizzico di sale 12 e di noce moscata.",
+      "Unite il cavolo nero intiepidito 13 e amalgamate il tutto con un mestolo 14 Trasferite il composto sul piano di lavoro e continuate a impastare con le mani 15 fino ad ottenere una consistenza omogenea, ma non troppo.",
+      "Ora prelevate 20 g di impasto per volta 16 e modellatelo fra le mani per dare una forma cilindrica 17 . Adagiate man mano i malfatti su un vassoio foderato con carta forno; con queste dosi ne otterrete circa 60 18 .",
+      "Portate a bollore una pentola di acqua salata. Nel frattempo mettete il burro in una padella 19 , aggiungete le foglie di salvia 20 e fatelo sciogliere a fuoco dolce fino a diventare color nocciola. Tuffate nell’acqua bollente pochi malfatti per volta, calcolando 4-5 minuti dal momento in cui vengono a galla 21 .",
+      "Scolate i malfatti e trasferiteli nella padella con il burro 22 . Fateli insaporire brevemente 23 , poi impiattate e irrorate con il fondo di cottura. Servite subito i vostri malfatti al cavolo nero, completando con formaggio grattugiato a piacere 24 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:25:28.924807+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 34575136027975,
+    "name": "Granola senza zucchero",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Fiocchi di avena 120 g",
+      "Cocco rapè 50 g",
+      "Semi di zucca 15 g",
+      "Semi di lino 15 g",
+      "Semi di girasole 15 g",
+      "Sale fino q.b.",
+      "Mandorle in scaglie 25 g",
+      "Gherigli di noci 55 g",
+      "Acqua 30 g",
+      "Sciroppo di acero 30 g",
+      "Olio di cocco 50 g",
+      "Datteri 10",
+      "Burro di arachidi 80 g",
+      "Estratto di vaniglia 1 cucchiaino",
+      "Cioccolato fondente q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Granola-senza-zucchero.html",
+    "image_url": "https://www.giallozafferano.it/images/268-26816/Granola-senza-zucchero_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 769.8,
+    "protein": null,
+    "carbs": 81.9,
+    "fats": 46.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fiocchi di avena 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cocco rapè 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Semi di zucca 15 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Semi di lino 15 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Semi di girasole 15 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mandorle in scaglie 25 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Gherigli di noci 55 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sciroppo di acero 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di cocco 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Datteri 10",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro di arachidi 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Estratto di vaniglia 1 cucchiaino",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cioccolato fondente q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la granola senza zucchero come prima cosa in una ciotola versate i fiocchi d'avena e il cocco rapè 1 . Aggiungete i semi misti 2 e le mandorle a lamelle 3 .",
+      "Aggiungete le noci 4 , un pizzico di sale e mescolate bene 5 . Prendete i datteri, apriteli a metà ed estraete il nocciolo 6 .",
+      "Trasferite i datteri in un mixer 7 , unite l'olio di cocco 8 e l'acqua 9 .",
+      "Aggiungete il burro di arachidi 10 e lo sciroppo d'acero 11 . Versate poi anche l'estratto di vaniglia 12 .",
+      "Frullate il tutto sino ad ottenere una crema grossolana 13 ; unitela nella ciotola con il composto di fiocchi di avena e cocco  14 e impastate a mano 15 .",
+      "Dovrete ottenere un composto omogeneo 16 e sbriciolarlo in una teglia rivestita con carta forno 17 . Non preoccupatevi se alcuni pezzi sono più grossi di altri 18 .",
+      "Cuocete in forno statico preriscaldato a 170° per 20-25 minuti girando a metà cottura. Poi sfornate e lasciate raffreddare. Intanto tritate grossolanamente il cioccolato fondente 20 , quindi unitelo alla granola 21 .",
+      "La granola senza zucchero è pronta 22 ; potete gustarla nel latte, da sola 23 o per arricchire lo yogurt 24 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:25:32.004645+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 14027845692352,
+    "name": "Golden milk",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Acqua 130 g",
+      "Curcuma in polvere 40 g",
+      "Pepe nero 1 pizzico",
+      "Latte vegetale (di mandorla o soia) 150 g",
+      "Miele millefiori 1 cucchiaio"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Golden-milk.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/174/17403/foto_hd/hd650x433_wm.jpg",
+    "servings": null,
+    "kcal": 280.5,
+    "protein": null,
+    "carbs": 51.4,
+    "fats": 6.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Acqua 130 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Curcuma in polvere 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte vegetale (di mandorla o soia) 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Miele millefiori 1 cucchiaio",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il golden milk potrete cominciare dalla pasta di curcuma. Versate l’acqua in un pentolino 1 insieme ad un pizzico di pepe nero 2 e portate a bollore. Non appena l’acqua sarà a temperatura spegnete la fiamma e unite la curcuma in polvere 3 .",
+      "Mescolate continuamente 4 fino ad ottenere una pasta densa e granulosa 5 . Infine trasferite la pasta di curcuma in un barattolo nel quale poterla conservare 6 .",
+      "Passate ora alla preparazione della vostra tazza di golden milk. In un pentolino portate quasi a bollore il latte vegetale a vostro piacimento 7 , trasferitelo in un barattolo 8 e aggiungete un cucchiaino di pasta di curcuma 9 ,",
+      "poi dolcificate con il miele 10 e chiudete il barattolo con il tappo. Poiché il latte sarà ancora molto caldo, stringete intorno al vasetto un canovaccio così non vi scotterete e agitate energicamente 11 . Ecco pronto il vostro golden milk 12 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:25:34.622350+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 153059926286141,
+    "name": "Gingerbread latte",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Latte intero 400 g",
+      "Caffè (della moka) 160 g",
+      "Zucchero di canna 160 g",
+      "Acqua 100 g",
+      "Cannella in polvere q.b.",
+      "Zenzero in polvere q.b.",
+      "Cacao amaro in polvere q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Gingerbread-latte.html",
+    "image_url": "https://www.giallozafferano.it/images/323-32376/Gingerbread-latte_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 216.6,
+    "protein": null,
+    "carbs": 44.9,
+    "fats": 3.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Latte intero 400 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Caffè (della moka) 160 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero di canna 160 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cannella in polvere q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zenzero in polvere q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cacao amaro in polvere q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il gingerbread latte per prima cosa occupatevi dello sciroppo: versate lo zucchero di canna in un pentolino 1 , poi unite la cannella 2 e lo zenzero 3 .",
+      "Aggiungete anche l’acqua 4 e mescolate gli ingredienti con una frusta 5 . Portate il pentolino sul fuoco e scaldate a fuoco medio-basso fino al bollore, poi cuocete per altri 3 minuti fino a quando il composto raggiungerà la consistenza di uno sciroppo 6 . Spegnete il fuoco e tenete da parte.",
+      "Nel frattempo montate il latte con l’aiuto di un montalatte fino ad ottenere una schiuma soffice e omogenea 7 . In ultimo preparate il caffè. Per comporre la bevanda, versate prima lo sciroppo nei bicchieri 8 , poi aggiungete il caffè 9 .",
+      "Infine guarnite con il latte montato 10 e con una spolverata di cacao amaro 11 . Il vostro gingerbread latte è pronto per essere gustato 12 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:25:38.443539+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 71900842786149,
+    "name": "Dolce con fette biscottate e yogurt",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Fette biscottate integrali 6",
+      "Yogurt greco 150 g",
+      "Miele 30 g",
+      "Nocciole 10 g",
+      "Latte di riso 100 g",
+      "Lamponi 20 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Dolce-con-fette-biscottate-e-yogurt.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36683/Dolce-con-fette-biscottate-e-yogurt_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 268.5,
+    "protein": null,
+    "carbs": 40.6,
+    "fats": 8.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fette biscottate integrali 6",
+        null,
+        "da fonte"
+      ],
+      [
+        "Yogurt greco 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Miele 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Nocciole 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte di riso 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lamponi 20 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il dolce con fette biscottate e yogurt, versate in una ciotola lo yogurt greco e il miele 1 ; poi mescolate con un cucchiaio 2 fino a ottenere una crema omogenea. Tritate grossolanamente le nocciole 3 e tenetele da parte.",
+      "Versate il latte di riso in una pirofila. Immergete velocemente le fette biscottate nel latte, una alla volta, bagnandole da entrambi i lati senza lasciarle in ammollo troppo a lungo 4 . Componete ciascun dolce utilizzando 3 fette biscottate: sistemate la prima fetta sul piatto 5 e distribuite sopra una parte dello yogurt al miele 6 . Con queste dosi otterrete 2 dolci.",
+      "Aggiungete un po’ di nocciole tritate 7 . Proseguite nello stesso modo con le altre fette, alternando gli strati. Completate con lo yogurt rimasto, le nocciole tritate 8 e i lamponi freschi 9 . Il vostro dolce con fette biscottate e yogurt è pronto per essere servito."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:25:41.018460+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 186772930162175,
+    "name": "Crostata con crema al tè matcha",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Burro 100 g",
+      "Farina 00 180 g",
+      "Farina di mandorle 40 g",
+      "Zucchero di canna integrale (fine) 80 g",
+      "Uova (1 medio) 55 g",
+      "Tè verde Matcha 10 g",
+      "Latte intero 500 g",
+      "Tuorli (di circa 4-5 uova medie) 70 g",
+      "Zucchero 50 g",
+      "Amido di mais (maizena) 50 g",
+      "Miele millefiori 10 g",
+      "Mirtilli q.b.",
+      "More q.b.",
+      "Menta q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Crostata-con-crema-al-te-matcha.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/180/18049/foto_hd/hd650x433_wm.jpg",
+    "servings": null,
+    "kcal": 491.7,
+    "protein": null,
+    "carbs": 59.6,
+    "fats": 23.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Burro 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 180 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina di mandorle 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero di canna integrale (fine) 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova (1 medio) 55 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tè verde Matcha 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte intero 500 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tuorli (di circa 4-5 uova medie) 70 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Amido di mais (maizena) 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Miele millefiori 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mirtilli q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "More q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Menta q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la crostata con crema al tè matcha come prima cosa iniziate a preparare la pasta frolla. Versate il burro freddo a cubetti nel contenitore di un mixer dotato di lame, aggiungete la farina 00 1 e frullate il tutto fino ad ottenere un composto sbricioloso. Aggiungete poi la farina di mandorle 2 , lo zucchero di canna integrale 3 e frullate nuovamente il tutto fino ad ottenere un composto omogeneo.",
+      "A questo punto aggiungete l'uovo intero 4 e frullate nuovamente il tutto 5 . Trasferite poi la pasta frolla su un piano leggermente infarinato e lavoratela per pochi secondi 6 .",
+      "Realizzate un panetto e avvolgetelo nella pellicola per alimenti 7 e riponete in frigorifero a rassodare per almeno 40 minuti. Nel frattempo occupatevi di preparare la crema al tè matcha. Versate il latte in un pentolino 8 e scaldatelo fino a sfiorare il bollore. Nel frattempo versate in una ciotola i tuorli, lo zucchero e l'amido di mais 9 ; sbattete rapidamente con una frusta.",
+      "Aggiungete poi il tè matcha 10 e mescolate nuovamente. Non appena il latte sarà caldo versatelo all'interno del composto appena preparato 11 e sbattete con la frusta. Aggiungete anche il miele 12 , mescolate",
+      "e trasferite il composto nuovamente nel pentolino 13 . Cuocete per pochi minuti a fiamma bassa, mescolando sempre fino a che la crema non si sarà addensata 14 . A questo punto versatela all'interno di una pirofila, coprite con pellicola a contatto 15 e lasciare raffreddare in frigorifero.",
+      "Ora, imburrate uno stampo rettangolare da 35,5x10,5 16 . Riprendete la pasta frolla e stendela su un piano leggermente infarinato 17 , in modo da ricavare un rettangolo dello spessore di mezzo cm. Aiutandovi con il mattarello trasferite la pasta sullo stampo 18",
+      "e utilizzando i polpastrelli fate aderire la pasta frolla allo stampo 19 . Eliminate l'eccesso di pasta utilizzando un coltellino 20 e bucherellate il fondo della crostata con una forchetta 21 .",
+      "Cuocete in forno statico preriscaldato a 170° per circa 15 minuti nel ripiano centrale fino a che non sarà ben dorata 22 . Poi lasciatela raffreddare completamente prima di sformarla 23 . A questo punto lavorate la crema per qualche secondo con una spatola, trasferitela in una sacca da pasticcere e utilizzatela per farcire la crostata 24 .",
+      "Livellate poi la superficie 25 e decorate con i mirtilli freschi 26 , le more e qualche fogliolina di menta. La vostra crostata al tè matcha è pronta per essere servita 27 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:25:43.616308+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 4910680209640,
+    "name": "Crostata cioccolato e lamponi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 00 110 g",
+      "Burro 80 g",
+      "Zucchero a velo 50 g",
+      "Cacao amaro in polvere 20 g",
+      "Tuorli (circa 1) 20 g",
+      "Sale fino 1 pizzico",
+      "Estratto di vaniglia q.b.",
+      "Cioccolato fondente 200 g",
+      "Panna fresca liquida 150 g",
+      "Burro 20 g",
+      "Lamponi 250 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Crostata-cioccolato-e-lamponi.html",
+    "image_url": "https://www.giallozafferano.it/images/363-36326/Crostata-cioccolato-e-lamponi_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 531.9,
+    "protein": null,
+    "carbs": 45.4,
+    "fats": 37.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00 110 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cacao amaro in polvere 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tuorli (circa 1) 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Estratto di vaniglia q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cioccolato fondente 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Panna fresca liquida 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lamponi 250 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la crostata cioccolato e lamponi iniziate dalla pasta frolla al cacao. Versate la farina 00 in una ciotola insieme allo zucchero a velo 1 . Aggiungete il cacao amaro in polvere 2 e il tuorlo 3 .",
+      "Unite un pizzico di sale 4 , un cucchiaino di estratto di vaniglia 5 e il burro freddo tagliato a pezzetti 6 .",
+      "Impastate velocemente con le mani 7 , fino a ottenere un composto compatto, liscio e omogeneo 8 . Formate un panetto, avvolgetelo nella pellicola trasparente 9 e lasciatelo riposare in frigorifero per almeno 30 minuti.",
+      "Trascorso il tempo di riposo, infarinate leggermente il piano di lavoro e stendete la frolla con il mattarello 10 fino a raggiungere uno spessore di circa 7 mm 11 . Imburrate e infarinate uno stampo da 18 cm, poi adagiate all’interno la frolla stesa 12 .",
+      "Fatela aderire bene al fondo e ai bordi 13 , eliminate l’eventuale eccesso e bucherellate la base con i rebbi di una forchetta 14 . Coprite con un foglio di carta forno, riempite con fagioli secchi 15 o pesetti per la cottura alla cieca e cuocete in forno statico a 180° per 20-25 minuti.",
+      "Una volta cotta, sfornate la base 16 , eliminate carta e pesetti e lasciatela raffreddare completamente 17 . Nel frattempo preparate la ganache. Tritate finemente il cioccolato fondente 18 e raccoglietelo in una ciotola.",
+      "Versate la panna fresca in un pentolino 19 , scaldatela a fuoco medio e portatela a sfiorare il bollore. Versate la panna calda sul cioccolato tritato 20 . Mescolate con una frusta a mano 21 , fino a ottenere una crema liscia, lucida e omogenea.",
+      "Aggiungete il burro 22 e mescolate ancora per incorporarlo, poi lasciate intiepidire la ganache a temperatura ambiente 23 . Quando la base di frolla sarà fredda, versate all’interno la ganache tiepida 24 .",
+      "Livellate la superficie con una spatola 25 . Distribuite i lamponi interi sulla superficie 26 , sistemandoli in modo ordinato fino a ricoprirla completamente 27 . Trasferite la crostata in frigorifero e lasciatela rassodare per circa 2 ore prima di servirla."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:25:46.347785+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 18127233988502,
+    "name": "Crema di patate e lenticchie al curry",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Patate farinose 500 g",
+      "Lenticchie secche 150 g",
+      "Carote 1",
+      "Sedano 1 costa",
+      "Cipolle bianche 50 g",
+      "Curry raso 1 cucchiaino",
+      "Brodo vegetale 500 g",
+      "Olio extravergine d'oliva 30 g",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Crema-di-patate-e-lenticchie-al-curry.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/221/22114/foto_hd/hd650x433_wm.jpg",
+    "servings": null,
+    "kcal": 310.0,
+    "protein": null,
+    "carbs": 49.0,
+    "fats": 8.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Patate farinose 500 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lenticchie secche 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Carote 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sedano 1 costa",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cipolle bianche 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Curry raso 1 cucchiaino",
+        null,
+        "da fonte"
+      ],
+      [
+        "Brodo vegetale 500 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare la crema di patate e lenticchie al curry, per prima cosa preparate il brodo vegetale , poi pelate e affettate le patate 1 . Mondate il sedano, la carota e la cipolla 2 e tagliateli grossolanamente a pezzi, poi trasferiteli in un mixer e tritateli finemente 3 .",
+      "Versate il trito ottenuto in una casseruola insieme all’olio e soffriggete per 2 minuti 4 , poi unite le patate e fate insaporire per circa 3 minuti, mescolando di tanto in tanto 5 . A questo punto aggiungete le lenticchie, che avrete precedentemente sciacquato sotto acqua corrente 6 .",
+      "Insaporite con il curry 7 , salate e coprite poco più che a filo con il brodo vegetale 8 . Cuocete a fuoco medio-basso per circa 30-35 minuti, coprendo con un coperchio e mescolando occasionalmente 9 .",
+      "Trascorso questo tempo 10 , frullate il tutto con un mixer a immersione 11 . La vostra crema di patate e lenticchie al curry è pronta per essere servita ben calda 12 , condita con un filo di olio a crudo!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:25:49.042650+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 24853061215378,
+    "name": "Crema di lenticchie",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Lenticchie secche di Castelluccio di Norcia 250",
+      "Carote 1",
+      "Sedano 1 costa",
+      "Scalogno 1",
+      "Curcuma in polvere 1 cucchiaino",
+      "Olio extravergine d'oliva q.b.",
+      "Acqua 1,5 l",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Pane 8 fette",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Origano q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Crema-di-lenticchie.html",
+    "image_url": "https://www.giallozafferano.it/images/173-17336/Crema-di-lenticchie_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 297.3,
+    "protein": null,
+    "carbs": 33.2,
+    "fats": 15.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Lenticchie secche di Castelluccio di Norcia 250",
+        null,
+        "da fonte"
+      ],
+      [
+        "Carote 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sedano 1 costa",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scalogno 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Curcuma in polvere 1 cucchiaino",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 1,5 l",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pane 8 fette",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Origano q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la crema di lenticchie, per prima cosa sciaquate bene le lenticchie sotto l'acqua corrente. Poi mondate gli odori, quindi sedano, carota e scalogno, e tritateli al coltello grossolanamente 1 . Fate un giro d’olio in un tegame e unite il trito lasciando insaporire a fuoco medio per 4-5 minuti, mescolando di tanto in tanto 2 . Poi aggiungete la curcuma in polvere 3 ,",
+      "le lenticchie 4 e mescolate per 1 minuto così da insaporire il tutto 5 ; infine coprite con l’acqua fredda 6 .",
+      "Chiudete col coperchio e lasciate cuocere il tutto per circa un’ora 7 . Trascorso il tempo regolate di sale e pepe, frullate con un mixer ad immersione 8 e lasciate cuocere ancora a fuoco medio per altri 40 minuti, così da far addensare il tutto 9 .",
+      "Intanto occupatevi del pane, tagliatelo a fette 10 e disponetele su una leccarda foderata con carta forno. Aggiustate di sale e pepe, versate un filo d’olio 11 e poi cospargete con dell’origano 12 .",
+      "Lasciate cuocere in forno preriscaldato, in modalità grill, a 240° per 3-4 minuti facendo attenzione che non brucino (se non avete il grill potete provare a far dorare il pane sul ripiano più alto del forno facendo opportunamente attenzione a non bruciarlo!) 13 . Non appena il tutto sarà pronto non vi resterà che impiattare e guarnire la vostra crema di lenticchie coi crostini di pane e ancora un goccio di olio!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:25:51.797909+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 155960509512323,
+    "name": "Cioccolatte bianco fondente facile da preparare",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Cappuccino solubile 8 cucchiaini",
+      "Acqua 200 g",
+      "Ghiaccio 200 g",
+      "Cioccolato bianco fuso 80 g",
+      "Cioccolato bianco in scaglie q.b.",
+      "Ghiaccio cubetti 24",
+      "Caffè in polvere q.b.",
+      "Panna fresca liquida 100 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Cioccolatte-bianco.html",
+    "image_url": "https://www.giallozafferano.it/images/234-23490/Cioccolatte-bianco_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 647.8,
+    "protein": null,
+    "carbs": 64.8,
+    "fats": 41.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Cappuccino solubile 8 cucchiaini",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Ghiaccio 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cioccolato bianco fuso 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cioccolato bianco in scaglie q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Ghiaccio cubetti 24",
+        null,
+        "da fonte"
+      ],
+      [
+        "Caffè in polvere q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Panna fresca liquida 100 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare il cioccolatte bianco scaldate l’acqua in un pentolino sino a raggiungere la temperatura di 85° 1 . Raggiunta la temperatura versate il cappuccino solubile nell’acqua 2 e mescolate bene. Aspettate circa 20 secondi e mescolare nuovamente e lasciate intiepidire 3 .",
+      "Versate nel bicchiere del frullatore il ghiaccio a cubetti 4 , il cappuccino tiepido 5 ed il cioccolato fuso 6 , sciolto a bagnomaria. Azionate il frullatore e frullate il composto per circa 60 secondi.",
+      "Tenete da parte 7 e nel frattempo montare la panna con le fruste elettriche 8 finchè non sarà spumosa 9 .",
+      "Trasferite la panna montata in un sac-à-poche con bocchetta a stella. Componente il vostro cioccolatte: in un bicchiere versate 5 cubetti di ghiaccio, il composto frullato 11 e guarnire con la panna 12 .",
+      "Spolverate con la polvere di caffè 13 e decorate con le scaglie di cioccolato bianco 14 . Il cioccolate è pronto per essere gustato 15 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:25:54.835728+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 205047828110600,
+    "name": "Cicciopancake",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina d'avena 25 g",
+      "Albumi (a temperatura ambiente) 70 g",
+      "Yogurt greco 30 g",
+      "Lievito in polvere per dolci 4 g",
+      "Sciroppo di agave 15 g",
+      "Olio di semi di girasole q.b.",
+      "Sciroppo di agave q.b.",
+      "Frutti di bosco q.b.",
+      "Granella di pistacchi q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Cicciopancake.html",
+    "image_url": "https://www.giallozafferano.it/images/257-25731/Cicciopancake_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 241.2,
+    "protein": null,
+    "carbs": 31.9,
+    "fats": 6.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina d'avena 25 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Albumi (a temperatura ambiente) 70 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Yogurt greco 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 4 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sciroppo di agave 15 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi di girasole q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sciroppo di agave q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Frutti di bosco q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Granella di pistacchi q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare i cicciopancake, separate i tuorli dagli albumi e versate questi ultimi in una ciotola 1 . Montate gli albumi con una frusta a mano 2 , dovranno risultare spumosi. Aggiungete lo yogurt 3 e sbattete ancora con la frusta.",
+      "Incorporate anche la farina d'avena 4 , lo sciroppo d’agave  5 e il lievito 6 .",
+      "Mescolate il tempo di rendere il composto omogeneo 7 . Ungete con olio di semi (o di cocco) un tegamino di circa 12 cm di diametro, dai bordi alti 8 e fate scaldare sul fuoco. Versate il composto 9 .",
+      "Coprite con un coperchio 10 e fate cuocere per circa 10 minuti a fiamma bassa, poi girate delicatamente con una spatola o forchetta e fare terminare la cottura dall'altro lato 11 per altri 10 minuti. Rovesciate il cicciopancake su un piatto di portata 12 .",
+      "Guarnite con i frutti di bosco 13 , lo sciroppo d'agave e la granella di pistacchi 15 . Servite subito 15 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:25:57.564098+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 251574711530283,
+    "name": "Biscotti bicolore cacao e zucca",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Zucca napoletana 400 g",
+      "Farina 00 405 g",
+      "Fecola di patate 100 g",
+      "Burro 100 g",
+      "Tuorli 15 g",
+      "Zucchero 150 g",
+      "Cacao amaro in polvere 30 g",
+      "Confettura di fragole 250 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Biscotti-bicolore-cacao-e-zucca.html",
+    "image_url": "https://www.giallozafferano.it/images/236-23687/Biscotti-bicolore-cacao-e-zucca_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 203.4,
+    "protein": null,
+    "carbs": 38.3,
+    "fats": 4.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Zucca napoletana 400 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 405 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fecola di patate 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tuorli 15 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cacao amaro in polvere 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Confettura di fragole 250 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare i biscotti bicolore cacao e zucca per prima cosa preparate la zucca. Pelatela e tagliatela a cubetti 1 . Cuocete a vapore 2 fino a quando non diventerà morbida 3 .",
+      "Una volta cotta frullatela 4 per ottenere una crema 5 , otterrete circa 200 g di purea. Lasciate raffreddare. Una volta fredda la zucca preparate la frolla. Versate la farina e il burro in una ciotola 6 .",
+      "Lavorate con le mani per creare la sabbiatura 7 poi versate il tuorlo 8 e lo zucchero 9 .",
+      "Unite anche la polpa di zucca 10 , la fecola di patate 11 , lo zucchero e impastate 12 .",
+      "Dovrete ottenere un panetto omogeneo 13 .Dividete l’impasto in due parti uguali. Uno lo tenete cosi e nell’altro aggiungete il cacao 14 . Lavorate per amalgamare 15 .",
+      "Otterrete così un panetto scuro 16 . Coprite con pellicola entrambi i panetti 17 e lasciate riposare in frigo per 30 minuti. Trascorso il tempo stendete la frolla scura a uno spessore di circa 4-5 mm 18 .",
+      "Ricavate 20 biscotti con gli stampi a forma di zucca di circa 7 cm 19 . Con un coltellino praticate dei tagli 20 . Stendete ora allo stesso modo il panetto chiaro 21 .",
+      "Ricavate anche qui 20 biscotti con lo stesso stampo 22 . Con un coltellino intagliate gli occhi e la bocca 23 . Adagiate i biscotti chiari 24",
+      "e i biscotti scuri su due teglie e cuocete in forno statico preriscaldato a 180° per 25 minuti circa. Una volta cotti, sfornate i biscotti 26 27 e lasciate raffreddare.",
+      "Farcite i biscotti scuri con la confettura 28 e richiudeteli con il biscotto chiaro 29 . I biscotti bicolore cacao e zucca sono pronti per essere gustati 30 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:26:00.133868+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 44298545603766,
+    "name": "Biscotti al tè Matcha",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Tè verde Matcha 4 cucchiaini",
+      "Mandorle in polvere 200 g",
+      "Zucchero a velo 200 g",
+      "Albumi 2",
+      "Baccello di vaniglia 1",
+      "Pinoli per ricoprire i biscotti q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Biscotti-al-the-matcha.html",
+    "image_url": "https://www.giallozafferano.it/images/9-915/Biscotti-al-the-matcha_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 44.7,
+    "protein": null,
+    "carbs": 5.4,
+    "fats": 2.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Tè verde Matcha 4 cucchiaini",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mandorle in polvere 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Albumi 2",
+        null,
+        "da fonte"
+      ],
+      [
+        "Baccello di vaniglia 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pinoli per ricoprire i biscotti q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "La prima cosa da fare per preparare i biscotti dei due orologi è montare a neve ferma gli albumi con metà dello zucchero. Poi tritate finemente le mandorle tostate in un mixer 1 mettetele in una ciotola e unitele al restante zucchero. Aggiungete poi i semi di una bacca di vaniglia e il tè Matcha 2 , mischiate 3 e aggiungete gli albumi montati a neve 4 .",
+      "Mescolate con una spatola fino ad amalgamare tutti gli ingredienti 5 .  Prendete dell' impasto con un cucchiaio (circa 10 gr) e con i palmi delle mani inumidite realizzate delle palline 6 .",
+      "Fate rotolare le palline così ottenute in un contenitore dove avrete messo i pinoli (7-8).  Disponete i biscotti su una teglia rivestita con della carta da forno 9 e lasciate cuocere i biscotti al tè Matcha in forno caldo per 15 minuti circa a 170 gradi."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:26:02.747267+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 157512128901781,
+    "name": "Besciamella",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Latte intero 1 l",
+      "Burro 100 g",
+      "Farina 00 100 g",
+      "Sale fino 1 pizzico",
+      "Noce moscata da grattugiare q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Besciamella.html",
+    "image_url": "https://www.giallozafferano.it/images/0-28/Besciamella_650x433_wm.jpg",
+    "servings": null,
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fats": null,
+    "cost": null,
+    "ingredients": [
+      [
+        "Latte intero 1 l",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Noce moscata da grattugiare q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la besciamella per prima cosa versate il latte in un pentolino 1 , aggiungete la noce moscata 2 e il sale 3 , poi fatelo scaldare.",
+      "Mettete il burro in un'altra pentola 4 e fatelo sciogliere a fuoco dolce, poi aggiungete la farina in una volta sola 5 . Mescolate vigorosamente con una frusta a mano per evitare la formazione di grumi 6 . Continuate a mescolare fino ad ottenere un composto dorato, il roux.",
+      "A questo punto stemperate il roux versando prima poco latte caldo 7 , mescolate con una frusta 8 e poi versate tutto il resto del latte 9 .",
+      "Continuate a mescolare 10 a fuoco dolce fino a raggiungere la consistenza desiderata 11 ; cuocendo la besciamella per 5-6 minuti otterrete una densità media. La besciamella è pronta potete utilizzarla subito oppure conservarla. In questo caso versatela in una ciotola 12 .",
+      "Coprite con pellicola a contatto 13 e lasciatela raffreddare. Al momento di utilizzarla lavoratela con una frusta per farla tornare liscia 14 . Se dovesse essere troppo fredda potete scaldarla in microonde aggiungendo poco latte. La besciamella è pronta 15 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:26:05.306810+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 240182235946326,
+    "name": "Baccalà mantecato alla veneziana",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Stoccafisso (già ammollato) 800 g",
+      "Olio di semi di girasole 500 g",
+      "Alloro 2 foglie",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Prezzemolo q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Baccala-mantecato-alla-veneziana.html",
+    "image_url": "https://www.giallozafferano.it/images/229-22910/Baccala-mantecato-alla-veneziana_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 1854.0,
+    "protein": null,
+    "carbs": 1.7,
+    "fats": 151.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Stoccafisso (già ammollato) 800 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi di girasole 500 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Alloro 2 foglie",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Prezzemolo q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per prearare il baccalà mantecato alla veneziata vi servirà lo stoccafisso (noi lo abbiamo preso già ammollato) 1 , sciacquatelo comunque più volte sotto acqua corrente fredda ed eliminate le lische estraendole con una pinzetta 2 . Questo passaggio risulta più semplice con lo stoccafisso crudo. Tagliate lo stoccafisso a pezzi grandi, ponetelo in un tegame alto, preferibilmente in acciaio 3 .",
+      "Aggiungete l'alloro 4 e versate acqua fredda fino a coprirlo 5 . Dal momento in cui bolle, calcolate altri 30 minuti di cottura. Durante la cottura, togliete la schiuma 6 .",
+      "Quando il baccalà inizierà a sfaldarsi sarà ora di scolarlo 7 . Trasferitelo nella ciotola della planetaria 8 , montate la frusta e azionate a velocità medio-bassa 9 .",
+      "Versate a filo l’olio di semi mentre la planetaria è in azione, poi aggiungete sale e pepe macinato a piacere 10 . Dopodiché aumentate la velocità e continuate a lavorare il composto fino ad ottenere una crema 11 . Ci vorranno circa 10 minuti in tutto in planetaria. Formate le quenelle aiutandovi con 2 cucchiai 12 .",
+      "Adagiate le quenelle su crostini di pane tostato 13 oppure su crostini di polenta. Insaporite con prezzemolo fresco tritato 14 e ancora pepe macinato a piacere. Il baccalà mantecato alla veneziana è pronto per essere gustato 15 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:26:07.898219+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 275941352617638,
+    "name": "Baccalà in umido",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Baccalà dissalato 600 g",
+      "Polpa di pomodoro fine 400 g",
+      "Cipolle dorate 200 g",
+      "Farina 00 50 g",
+      "Olio extravergine d'oliva q.b.",
+      "Capperi sotto sale (da dissalare) 30 g",
+      "Olive taggiasche 40 g",
+      "Origano secco q.b.",
+      "Pepe nero q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Baccala-in-umido.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/198/19841/foto_hd/hd650x433_wm.jpg",
+    "servings": null,
+    "kcal": 264.5,
+    "protein": null,
+    "carbs": 19.2,
+    "fats": 7.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Baccalà dissalato 600 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Polpa di pomodoro fine 400 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cipolle dorate 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Capperi sotto sale (da dissalare) 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olive taggiasche 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Origano secco q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il baccalà in umido tagliate la cipolla bionda a julienne 1 . Versate un filo di olio extravergine d’oliva in un tegame 2 , unite la cipolla, salate 3 e lasciate stufare a fuoco dolce per circa 10 minuti.",
+      "Versate quindi la polpa fine di pomodoro 4 e proseguite la cottura per circa 20-30 minuti, fino a quando il sugo si sarà ben ristretto. Nel frattempo tagliate il baccalà a pezzi di circa 2 cm 5 , asciugateli con cura e passateli nella farina 00 6 .",
+      "Dovrete ricoprirli uniformemente 7 . Versate un filo di olio extravergine d’oliva in una padella e adagiatevi i pezzi di baccalà infarinati 8 . Salate 9 e cuocete a fuoco medio per circa 5 minuti.",
+      "Il baccalà deve risultare leggermente dorato 10 . Nel frattempo il sugo si sarà ristretto 11 . Trasferite il baccalà nel tegame con il sugo e unite i capperi precedentemente dissalati 12 .",
+      "Insaporite con le olive taggiasche 13 , coprite con il coperchio 14 e proseguite la cottura per altri 5-10 minuti, in modo che il baccalà si insaporisca nel sugo 15 .",
+      "A fine cottura aggiungete l’origano secco 16 . Impiattate il baccalà insieme al suo sugo 17 , quindi ultimate con altro origano secco 18 e una macinata di pepe nero."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:26:10.636421+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 149339473991213,
+    "name": "Baccalà alla livornese",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Baccalà dissalato 600 g",
+      "Patate 250 g",
+      "Farina 00 100 g",
+      "Vino bianco 40 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Pomodori pelati 800 g",
+      "Cipolle dorate 1",
+      "Aglio 1 spicchio",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Baccala-alla-livornese.html",
+    "image_url": "https://www.giallozafferano.it/images/172-17296/Baccala-alla-livornese_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 442.5,
+    "protein": null,
+    "carbs": 43.1,
+    "fats": 14.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Baccalà dissalato 600 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Patate 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Vino bianco 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pomodori pelati 800 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cipolle dorate 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aglio 1 spicchio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare il baccalà alla livornese iniziate dalla preparazione del sugo: mondate e affettate le cipolle 1 scaldate un filo di olio di oliva in una padella, aggiungete lo spicchio di aglio intero sbucciato 2 e le fettine di cipolle 3 .",
+      "Lasciate appassire per 3-4 minuti a fuoco dolce bagnando con poca acqua 4 , quanto basta per non far asciugare troppo il soffritto. In una ciotola schiacciate i pelati 5 , quindi versateli nel tegame con le cipolle 6",
+      "Coprite con il coperchio 7 e cuocete a fuoco medio per circa 15 minuti. Nel frattempo cominciate a tagliare in tranci il baccalà dissalato 8 cercando di ottenere pezzi della stessa grandezza 9 (se avete acquistato il baccalà sotto sale potete dissalarlo seguendo le nostre indicazioni nella scheda: Come dissalare il baccalà ).",
+      "Infarinate accuratamente i tranci di baccalà 10 , quindi scaldate un filo di olio in un tegame e adagiate il baccalà 11 facendolo rosolare su entrambi i lati per alcuni istanti girandolo con delicatezza, salate 12 pepate.",
+      "Sfumate con il vino bianco 13 e lasciate evaporare 14 . Intanto il sugo sarà giunto a cottura, ora potete eliminare l'aglio 15 ,",
+      "quindi versate il sugo nel tegame con il baccalà 16 , coprite con il coperchio 17 e lasciate cuocere a fuoco dolce per circa 20 minuti, se mescolate fatelo con molta delicatezza per non sfaldare il baccalà. Intanto pelate le patate 18",
+      "e tagliatele a cubetti 19 . Trascorsi i 20 minuti di cottura del baccalà, aggiungete anche le patate 20 , coprite con il coperchio 21 e proseguite la cottura per altri 20 minuti, sempre facendo attenzione a rimestare per non sfaldare troppo il baccalà.",
+      "Lavate e tritate il ciuffo di prezzemolo 22 , una volta che il baccalà sarà cotto, spegnete il fuoco e aromatizzate con il prezzemolo tritato 23 . Servite il vostro baccalà alla livornese ben caldo 24 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T12:26:13.201304+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",

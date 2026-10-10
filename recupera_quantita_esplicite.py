@@ -28,6 +28,9 @@ def normalize_one(display, existing):
     if not match:
         return None
     name, raw_count = match.groups()
+    # Non interpretare un derivato (succo, scorza, polpa, crema, ecc.) come un frutto intero.
+    if re.search(r'\b(?:succo|scorza|polpa|crema|estratto|concentrato|passata|purea|purè|salsa|spremuta|fette|spicchi)\s+(?:di|d[’\']|del|della)\b', name, re.I):
+        return None
     if not COUNTABLE.search(name) or re.search(r'\d', name):
         return None
     # Non dedurre unità da altre parti del nome: è una quantità in pezzi non in grammi.

@@ -17,8 +17,8 @@ DESSERT = ('torta ', 'tortine', 'tortino dolce', 'biscott', 'crostat', 'muffin',
            'cupcake', 'brownie', 'cheesecake', 'pancake', 'ciambell', 'plumcake',
            'budino', 'tiramis', 'gelato', 'semifredd', 'panna cotta', 'strudel dolce',
            'crema pasticcera', 'dolce ', 'dolcett', 'frollin', 'nutella',
-           'marmellata', 'granola', 'porridge', 'cicciopancake',
-           'rotolo al tè matcha', 'zucchette di halloween',
+           'marmellata', 'granola', 'porridge', 'cicciopancake', 'cookies', 'waffle', 'crepes dolci',
+           'rotolo al tè matcha', 'polvorones', 'zuppa inglese', 'zucchette di halloween',
            'zucchette di pasta sfoglia', 'tortine di zucca')
 DRINKS = ('latte ', 'matcha latte', 'golden milk', 'gingerbread latte',
           'pumpkin spice latte', 'cioccolatte', 'frullato', 'smoothie', 'bevanda ')
@@ -27,15 +27,15 @@ SIDE = ('contorno', 'patate al forno', 'verdure grigliate', 'insalata verde')
 FIRST = ('pasta ', 'spaghetti', 'fusilli', 'penne ', 'rigatoni', 'risotto',
          'riso alla', 'gnocchi', 'lasagne', 'lasagna', 'ravioli', 'tortelli',
          'tortellini', 'tagliatelle', 'orecchiette', 'carbonara', 'amatriciana',
-         'malfatti ')
+         'malfatti ', 'casarecce', 'conchiglioni', 'paccheri', 'mezze maniche', 'linguine', 'bucatini', 'trofie', 'cavatelli')
 SECOND = ('frittata', 'pollo ', 'petto di pollo', 'tacchino ', 'merluzzo',
           'salmone', 'orata ', 'branzino', 'hamburger', 'polpette',
           'scaloppine', 'arrosto', 'bistecca', 'spezzatino', 'omelette',
-          'sgombro', 'baccalà', 'pesce spada', 'tonno in padella')
-ONE_DISH = ('zuppa', 'minestra', 'minestrone', 'vellutata', 'insalatona',
+          'sgombro', 'baccalà', 'pesce spada', 'tonno in padella', 'filetti di ', 'cosce di pollo', 'carrè di maiale', 'arrosto di ', 'polpo ', 'orata al ', 'seppie ', 'calamari ')
+ONE_DISH = ('zuppa', 'minestra', 'minestrone', 'vellutata', 'insalatona', 'insalata di riso', 'insalata di pasta', 'insalata d’orzo', "insalata d'orzo", 'insalata di farro',
             'bowl', 'cous cous', 'couscous', 'poke', 'piatto unico',
             'fagioli in umido', 'lenticchie in umido', 'pizza ', 'panino ',
-            'quiche', 'torta salata', 'pie salate')
+            'quiche', 'torta salata', 'pie salate', 'club sandwich', 'wrap ', 'focaccia farcita')
 
 
 def classify(name):

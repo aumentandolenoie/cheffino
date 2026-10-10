@@ -3209,7 +3209,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 60,
     "ingredients_display": [
       "Farina 00 150 g",
       "Uova (1 medio) 55 g",
@@ -3229,7 +3229,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Strudel-di-mele-cipolle-e-speck.html",
     "image_url": "https://www.giallozafferano.it/images/219-21924/Strudel-di-mele-cipolle-e-speck_650x433_wm.jpg",
-    "servings": null,
+    "servings": 6,
     "kcal": 328.9,
     "protein": null,
     "carbs": 37.9,
@@ -3237,74 +3237,74 @@
     "cost": null,
     "ingredients": [
       [
-        "Farina 00 150 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        150.0,
+        "g"
       ],
       [
-        "Uova (1 medio) 55 g",
-        null,
-        "da fonte"
+        "Uova (1 medio)",
+        55.0,
+        "g"
       ],
       [
-        "Acqua 30 g",
-        null,
-        "da fonte"
+        "Acqua",
+        30.0,
+        "g"
       ],
       [
-        "Olio extravergine d'oliva 20 g",
-        null,
-        "da fonte"
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
       ],
       [
-        "Farina di mais fioretto 10 g",
-        null,
-        "da fonte"
+        "Farina di mais fioretto",
+        10.0,
+        "g"
       ],
       [
-        "Cipolle bianche 400 g",
-        null,
-        "da fonte"
+        "Cipolle bianche",
+        400.0,
+        "g"
       ],
       [
-        "Mele Red Delicious 280 g",
-        null,
-        "da fonte"
+        "Mele Red Delicious",
+        280.0,
+        "g"
       ],
       [
-        "Speck 120 g",
-        null,
-        "da fonte"
+        "Speck",
+        120.0,
+        "g"
       ],
       [
-        "Pangrattato 50 g",
-        null,
-        "da fonte"
+        "Pangrattato",
+        50.0,
+        "g"
       ],
       [
-        "Timo 3 g",
-        null,
-        "da fonte"
+        "Timo",
+        3.0,
+        "g"
       ],
       [
-        "Rosmarino 3 g",
-        null,
-        "da fonte"
+        "Rosmarino",
+        3.0,
+        "g"
       ],
       [
-        "Salvia 3 g",
-        null,
-        "da fonte"
+        "Salvia",
+        3.0,
+        "g"
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Burro fuso 40 g",
-        null,
-        "da fonte"
+        "Burro fuso",
+        40.0,
+        "g"
       ]
     ],
     "steps": [
@@ -3321,14 +3321,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:26.984305+00:00",
+    "repaired_at": "2026-10-10T12:33:13.278569+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -3337,7 +3338,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 30,
     "ingredients_display": [
       "Filetti di sgombro (già puliti) 600 g",
       "Pomodorini ciliegino 300 g",
@@ -3356,7 +3357,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Sgombro-in-padella.html",
     "image_url": "https://www.giallozafferano.it/images/249-24970/Sgombro-in-padella_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 458.8,
     "protein": null,
     "carbs": 13.0,
@@ -3364,69 +3365,69 @@
     "cost": null,
     "ingredients": [
       [
-        "Filetti di sgombro (già puliti) 600 g",
-        null,
-        "da fonte"
+        "Filetti di sgombro (già puliti)",
+        600.0,
+        "g"
       ],
       [
-        "Pomodorini ciliegino 300 g",
-        null,
-        "da fonte"
+        "Pomodorini ciliegino",
+        300.0,
+        "g"
       ],
       [
-        "Passata di pomodoro 100 g",
-        null,
-        "da fonte"
+        "Passata di pomodoro",
+        100.0,
+        "g"
       ],
       [
-        "Olive nere 40 g",
-        null,
-        "da fonte"
+        "Olive nere",
+        40.0,
+        "g"
       ],
       [
-        "Uvetta 30 g",
-        null,
-        "da fonte"
+        "Uvetta",
+        30.0,
+        "g"
       ],
       [
-        "Pinoli 25 g",
-        null,
-        "da fonte"
+        "Pinoli",
+        25.0,
+        "g"
       ],
       [
-        "Capperi sotto sale 20 g",
-        null,
-        "da fonte"
+        "Capperi sotto sale",
+        20.0,
+        "g"
       ],
       [
-        "Aglio 1 spicchio",
-        null,
-        "da fonte"
+        "Aglio",
+        1.0,
+        "spicchio"
       ],
       [
-        "Vino bianco secco 30 g",
-        null,
-        "da fonte"
+        "Vino bianco secco",
+        30.0,
+        "g"
       ],
       [
-        "Prezzemolo q.b.",
+        "Prezzemolo",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -3438,14 +3439,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:29.679864+00:00",
+    "repaired_at": "2026-10-10T12:32:46.745619+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Secondo",
       "esito": "candidato",
       "criterio": "nome",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -3454,7 +3456,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 80,
     "ingredients_display": [
       "Sgombro 2",
       "Zucchero 500 g",
@@ -3475,7 +3477,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Sgombro-con-cime-di-rapa-e-nocciole.html",
     "image_url": "https://www.giallozafferano.it/images/246-24682/Sgombro-con-cime-di-rapa-e-nocciole_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 1389.9,
     "protein": null,
     "carbs": 135.8,
@@ -3485,77 +3487,77 @@
       [
         "Sgombro 2",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Zucchero 500 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        500.0,
+        "g"
       ],
       [
-        "Acqua fredda 1 l",
-        null,
-        "da fonte"
+        "Acqua fredda",
+        1.0,
+        "l"
       ],
       [
-        "Sale fino 30 g",
-        null,
-        "da fonte"
+        "Sale fino",
+        30.0,
+        "g"
       ],
       [
         "Aceto di mele 1 cucchiaio",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale di maldon q.b.",
+        "Sale di maldon",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Nocciole intere spellate 200 g",
-        null,
-        "da fonte"
+        "Nocciole intere spellate",
+        200.0,
+        "g"
       ],
       [
-        "Acqua 150 g",
-        null,
-        "da fonte"
+        "Acqua",
+        150.0,
+        "g"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Cime di rapa 135 g",
-        null,
-        "da fonte"
+        "Cime di rapa",
+        135.0,
+        "g"
       ],
       [
         "Bicarbonato 1 pizzico",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Succo di limone 1 cucchiaio",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -3574,11 +3576,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:32.495897+00:00",
+    "repaired_at": "2026-10-10T12:32:49.351855+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Secondo",
       "esito": "candidato",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -3590,7 +3593,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 40,
     "ingredients_display": [
       "Sgombro (4 interi) 580 g",
       "Sedano 170 g",
@@ -3606,7 +3609,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Sgombro-al-cartoccio.html",
     "image_url": "https://www.giallozafferano.it/images/185-18587/Sgombro-al-cartoccio_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 367.6,
     "protein": null,
     "carbs": 8.5,
@@ -3614,54 +3617,54 @@
     "cost": null,
     "ingredients": [
       [
-        "Sgombro (4 interi) 580 g",
-        null,
-        "da fonte"
+        "Sgombro (4 interi)",
+        580.0,
+        "g"
       ],
       [
-        "Sedano 170 g",
-        null,
-        "da fonte"
+        "Sedano",
+        170.0,
+        "g"
       ],
       [
-        "Peperoni gialli 140 g",
-        null,
-        "da fonte"
+        "Peperoni gialli",
+        140.0,
+        "g"
       ],
       [
-        "Pomodori ramati 120 g",
-        null,
-        "da fonte"
+        "Pomodori ramati",
+        120.0,
+        "g"
       ],
       [
-        "Melanzane 90 g",
-        null,
-        "da fonte"
+        "Melanzane",
+        90.0,
+        "g"
       ],
       [
         "Limoni 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Basilico q.b.",
+        "Basilico",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -3675,11 +3678,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:35.140486+00:00",
+    "repaired_at": "2026-10-10T12:32:51.968716+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Secondo",
       "esito": "candidato",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -3691,7 +3695,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 33,
     "ingredients_display": [
       "Uova medie 3",
       "Farina 00 60 g",
@@ -3704,7 +3708,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Rotolo-al-te-matcha.html",
     "image_url": "https://www.giallozafferano.it/images/197-19769/Rotolo-al-te-matcha_650x433_wm.jpg",
-    "servings": null,
+    "servings": 8,
     "kcal": 223.0,
     "protein": null,
     "carbs": 26.9,
@@ -3714,37 +3718,37 @@
       [
         "Uova medie 3",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Farina 00 60 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        60.0,
+        "g"
       ],
       [
-        "Zucchero ( + q.b. per spolverizzare) 80 g",
-        null,
-        "da fonte"
+        "Zucchero ( + q.b. per spolverizzare)",
+        80.0,
+        "g"
       ],
       [
-        "Tè verde Matcha solubile 30 g",
-        null,
-        "da fonte"
+        "Tè verde Matcha solubile",
+        30.0,
+        "g"
       ],
       [
         "Lievito in polvere per dolci &frac12; bustina",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Panna fresca liquida non zuccherata 200 g",
-        null,
-        "da fonte"
+        "Panna fresca liquida non zuccherata",
+        200.0,
+        "g"
       ],
       [
-        "Latte condensato 150 g",
-        null,
-        "da fonte"
+        "Latte condensato",
+        150.0,
+        "g"
       ]
     ],
     "steps": [
@@ -3758,11 +3762,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:37.828051+00:00",
+    "repaired_at": "2026-10-10T12:33:15.907129+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -3774,7 +3779,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 220,
     "ingredients_display": [
       "Riso Carnaroli 320 g",
       "Brodo vegetale 700 g",
@@ -3794,7 +3799,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Risotto-alla-puttanesca-con-pomodori-arrosto.html",
     "image_url": "https://www.giallozafferano.it/images/366-36679/Risotto-alla-puttanesca-con-pomodori-arrosto_1200x800_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 1001.1,
     "protein": null,
     "carbs": 68.4,
@@ -3802,74 +3807,74 @@
     "cost": null,
     "ingredients": [
       [
-        "Riso Carnaroli 320 g",
-        null,
-        "da fonte"
+        "Riso Carnaroli",
+        320.0,
+        "g"
       ],
       [
-        "Brodo vegetale 700 g",
-        null,
-        "da fonte"
+        "Brodo vegetale",
+        700.0,
+        "g"
       ],
       [
-        "Burro 90 g",
-        null,
-        "da fonte"
+        "Burro",
+        90.0,
+        "g"
       ],
       [
-        "Formaggio grattugiato Lodigiano 60 g",
-        null,
-        "da fonte"
+        "Formaggio grattugiato Lodigiano",
+        60.0,
+        "g"
       ],
       [
         "Capperi sotto sale 30",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Olive nere in polvere 2 cucchiai",
-        null,
-        "da fonte"
+        "Olive nere in polvere",
+        2.0,
+        "cucchiai"
       ],
       [
-        "Prezzemolo q.b.",
+        "Prezzemolo",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Salsa alle acciughe q.b.",
+        "Salsa alle acciughe",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pomodorini perini 350 g",
-        null,
-        "da fonte"
+        "Pomodorini perini",
+        350.0,
+        "g"
       ],
       [
         "Olio extravergine d'oliva 1 cucchiaio",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Aglio 1 spicchio",
-        null,
-        "da fonte"
+        "Aglio",
+        1.0,
+        "spicchio"
       ],
       [
         "Timo 1 rametto",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio di semi di arachide q.b.",
+        "Olio di semi di arachide",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -3883,11 +3888,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:40.473342+00:00",
+    "repaired_at": "2026-10-10T12:32:54.717811+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Primo",
       "esito": "candidato",
       "criterio": "nome",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -3899,7 +3905,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 80,
     "ingredients_display": [
       "Farina 00 200 g",
       "Burro freddo 100 g",
@@ -3920,7 +3926,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Quiche-con-pere-salvia-e-fontina.html",
     "image_url": "https://www.giallozafferano.it/images/366-36678/Quiche-con-pere-salvia-e-fontina_1200x800_wm.jpg",
-    "servings": null,
+    "servings": 6,
     "kcal": 576.0,
     "protein": null,
     "carbs": 40.6,
@@ -3928,79 +3934,79 @@
     "cost": null,
     "ingredients": [
       [
-        "Farina 00 200 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        200.0,
+        "g"
       ],
       [
-        "Burro freddo 100 g",
-        null,
-        "da fonte"
+        "Burro freddo",
+        100.0,
+        "g"
       ],
       [
-        "Acqua fredda 30 g",
-        null,
-        "da fonte"
+        "Acqua fredda",
+        30.0,
+        "g"
       ],
       [
         "Tuorli 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Salvia 8 foglie",
-        null,
-        "da fonte"
+        "Salvia",
+        8.0,
+        "foglie"
       ],
       [
         "Sale fino 1 pizzico",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Pere kaiser (da pulire) 500 g",
-        null,
-        "da fonte"
+        "Pere kaiser (da pulire)",
+        500.0,
+        "g"
       ],
       [
-        "Fontina 250 g",
-        null,
-        "da fonte"
+        "Fontina",
+        250.0,
+        "g"
       ],
       [
-        "Latte intero 100 g",
-        null,
-        "da fonte"
+        "Latte intero",
+        100.0,
+        "g"
       ],
       [
-        "Panna fresca liquida 100 g",
-        null,
-        "da fonte"
+        "Panna fresca liquida",
+        100.0,
+        "g"
       ],
       [
         "Uova 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Tuorli 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Burro 30 g",
-        null,
-        "da fonte"
+        "Burro",
+        30.0,
+        "g"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -4015,11 +4021,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:43.116764+00:00",
+    "repaired_at": "2026-10-10T12:33:18.523761+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -4031,7 +4038,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 26,
     "ingredients_display": [
       "Zucca (già pulita) 160 g",
       "Zucchero 30 g",
@@ -4049,7 +4056,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pumpkin-spice-latte.html",
     "image_url": "https://www.giallozafferano.it/images/305-30550/Pumpkin-spice-latte_650x433_wm.jpg",
-    "servings": null,
+    "servings": 2,
     "kcal": 310.3,
     "protein": null,
     "carbs": 32.5,
@@ -4057,64 +4064,64 @@
     "cost": null,
     "ingredients": [
       [
-        "Zucca (già pulita) 160 g",
-        null,
-        "da fonte"
+        "Zucca (già pulita)",
+        160.0,
+        "g"
       ],
       [
-        "Zucchero 30 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        30.0,
+        "g"
       ],
       [
-        "Acqua 200 g",
-        null,
-        "da fonte"
+        "Acqua",
+        200.0,
+        "g"
       ],
       [
-        "Cannella in polvere q.b.",
+        "Cannella in polvere",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Zenzero in polvere q.b.",
+        "Zenzero in polvere",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Chiodi di garofano q.b.",
+        "Chiodi di garofano",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Noce moscata q.b.",
+        "Noce moscata",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Caffè 60 g",
-        null,
-        "da fonte"
+        "Caffè",
+        60.0,
+        "g"
       ],
       [
-        "Latte freddo 200 g",
-        null,
-        "da fonte"
+        "Latte freddo",
+        200.0,
+        "g"
       ],
       [
-        "Panna fresca liquida 100 g",
-        null,
-        "da fonte"
+        "Panna fresca liquida",
+        100.0,
+        "g"
       ],
       [
-        "Zucchero a velo 10 g",
-        null,
-        "da fonte"
+        "Zucchero a velo",
+        10.0,
+        "g"
       ],
       [
-        "Cannella in polvere q.b.",
+        "Cannella in polvere",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -4130,14 +4137,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:45.772415+00:00",
+    "repaired_at": "2026-10-10T12:33:21.232548+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -4146,7 +4154,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 15,
     "ingredients_display": [
       "Fiocchi di avena 160 g",
       "Latte di soia 320 g",
@@ -4161,7 +4169,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Porridge-proteico.html",
     "image_url": "https://www.giallozafferano.it/images/274-27415/Porridge-proteico_650x433_wm.jpg",
-    "servings": null,
+    "servings": 2,
     "kcal": 643.5,
     "protein": null,
     "carbs": 95.6,
@@ -4169,49 +4177,49 @@
     "cost": null,
     "ingredients": [
       [
-        "Fiocchi di avena 160 g",
-        null,
-        "da fonte"
+        "Fiocchi di avena",
+        160.0,
+        "g"
       ],
       [
-        "Latte di soia 320 g",
-        null,
-        "da fonte"
+        "Latte di soia",
+        320.0,
+        "g"
       ],
       [
-        "Acqua 320 g",
-        null,
-        "da fonte"
+        "Acqua",
+        320.0,
+        "g"
       ],
       [
         "Banane 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Lamponi 10",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Burro di arachidi 2 cucchiai",
-        null,
-        "da fonte"
+        "Burro di arachidi",
+        2.0,
+        "cucchiai"
       ],
       [
         "Miele di castagno 1 cucchiaio",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Semi di papavero q.b.",
+        "Semi di papavero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
         "Sale fino 1 cucchiaino",
         null,
-        "da fonte"
+        "da verificare"
       ]
     ],
     "steps": [
@@ -4222,11 +4230,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:48.503503+00:00",
+    "repaired_at": "2026-10-10T12:33:23.855250+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -4238,7 +4247,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 50,
     "ingredients_display": [
       "Burro a temperatura ambiente 120 g",
       "Zucchero 120 g",
@@ -4252,7 +4261,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Plumcake-al-te-matcha.html",
     "image_url": "https://www.giallozafferano.it/images/168-16890/Plumcake-al-te-matcha_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 498.7,
     "protein": null,
     "carbs": 53.6,
@@ -4260,44 +4269,44 @@
     "cost": null,
     "ingredients": [
       [
-        "Burro a temperatura ambiente 120 g",
-        null,
-        "da fonte"
+        "Burro a temperatura ambiente",
+        120.0,
+        "g"
       ],
       [
-        "Zucchero 120 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        120.0,
+        "g"
       ],
       [
-        "Farina 00 100 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        100.0,
+        "g"
       ],
       [
-        "Tè verde Matcha 20 g",
-        null,
-        "da fonte"
+        "Tè verde Matcha",
+        20.0,
+        "g"
       ],
       [
-        "Uova (2 medie) 110 g",
-        null,
-        "da fonte"
+        "Uova (2 medie)",
+        110.0,
+        "g"
       ],
       [
-        "Lievito in polvere per dolci 8 g",
-        null,
-        "da fonte"
+        "Lievito in polvere per dolci",
+        8.0,
+        "g"
       ],
       [
-        "Burro 10 g",
-        null,
-        "da fonte"
+        "Burro",
+        10.0,
+        "g"
       ],
       [
-        "Farina 00 20 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        20.0,
+        "g"
       ]
     ],
     "steps": [
@@ -4310,14 +4319,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:51.223224+00:00",
+    "repaired_at": "2026-10-10T12:33:26.475398+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -4326,7 +4336,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 80,
     "ingredients_display": [
       "Farina 0 550 g",
       "Acqua 440 g",
@@ -4345,7 +4355,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pizza-in-teglia-con-il-cucchiaio.html",
     "image_url": "https://www.giallozafferano.it/images/366-36682/Pizza-in-teglia-con-il-cucchiaio_1200x800_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 867.9,
     "protein": null,
     "carbs": 114.2,
@@ -4353,69 +4363,69 @@
     "cost": null,
     "ingredients": [
       [
-        "Farina 0 550 g",
-        null,
-        "da fonte"
+        "Farina 0",
+        550.0,
+        "g"
       ],
       [
-        "Acqua 440 g",
-        null,
-        "da fonte"
+        "Acqua",
+        440.0,
+        "g"
       ],
       [
-        "Olio extravergine d'oliva 30 g",
-        null,
-        "da fonte"
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
       ],
       [
-        "Lievito di birra fresco 10 g",
-        null,
-        "da fonte"
+        "Lievito di birra fresco",
+        10.0,
+        "g"
       ],
       [
-        "Sale fino 10 g",
-        null,
-        "da fonte"
+        "Sale fino",
+        10.0,
+        "g"
       ],
       [
-        "Passata di pomodoro 300 g",
-        null,
-        "da fonte"
+        "Passata di pomodoro",
+        300.0,
+        "g"
       ],
       [
-        "Olio extravergine d'oliva 25 g",
-        null,
-        "da fonte"
+        "Olio extravergine d'oliva",
+        25.0,
+        "g"
       ],
       [
-        "Origano q.b.",
+        "Origano",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Fiordilatte 250 g",
-        null,
-        "da fonte"
+        "Fiordilatte",
+        250.0,
+        "g"
       ],
       [
-        "Basilico q.b.",
+        "Basilico",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -4430,14 +4440,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:53.835197+00:00",
+    "repaired_at": "2026-10-10T12:33:29.066075+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -4446,7 +4457,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 30,
     "ingredients_display": [
       "Pane (4 rosette) 250 g",
       "Salame di Milano 140 g",
@@ -4460,7 +4471,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Panino-al-salame-con-crema-di-provolone-e-melanzane.html",
     "image_url": "https://www.giallozafferano.it/images/366-36681/Panino-al-salame-con-crema-di-provolone-e-melanzane_1200x800_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 953.5,
     "protein": null,
     "carbs": 36.9,
@@ -4468,44 +4479,44 @@
     "cost": null,
     "ingredients": [
       [
-        "Pane (4 rosette) 250 g",
-        null,
-        "da fonte"
+        "Pane (4 rosette)",
+        250.0,
+        "g"
       ],
       [
-        "Salame di Milano 140 g",
-        null,
-        "da fonte"
+        "Salame di Milano",
+        140.0,
+        "g"
       ],
       [
-        "Melanzane 300 g",
-        null,
-        "da fonte"
+        "Melanzane",
+        300.0,
+        "g"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva 200 g",
-        null,
-        "da fonte"
+        "Olio extravergine d'oliva",
+        200.0,
+        "g"
       ],
       [
-        "Rosmarino 20 g",
-        null,
-        "da fonte"
+        "Rosmarino",
+        20.0,
+        "g"
       ],
       [
-        "Provolone piccante di Amatrice 100 g",
-        null,
-        "da fonte"
+        "Provolone piccante di Amatrice",
+        100.0,
+        "g"
       ],
       [
-        "Panna fresca liquida 130 g",
-        null,
-        "da fonte"
+        "Panna fresca liquida",
+        130.0,
+        "g"
       ]
     ],
     "steps": [
@@ -4518,14 +4529,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:56.446151+00:00",
+    "repaired_at": "2026-10-10T12:33:31.657178+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -4534,7 +4546,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 45,
     "ingredients_display": [
       "Pasta Sfoglia (2 rotoli rettangolari) 460 g",
       "Mele Fuji 1",
@@ -4552,7 +4564,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Mini-pie-salate-di-formaggio-e-mele.html",
     "image_url": "https://www.giallozafferano.it/images/181-18149/Mini-pie-salate-di-formaggio-e-mele_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 858.0,
     "protein": null,
     "carbs": 60.5,
@@ -4560,64 +4572,64 @@
     "cost": null,
     "ingredients": [
       [
-        "Pasta Sfoglia (2 rotoli rettangolari) 460 g",
-        null,
-        "da fonte"
+        "Pasta Sfoglia (2 rotoli rettangolari)",
+        460.0,
+        "g"
       ],
       [
         "Mele Fuji 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Provola 150 g",
-        null,
-        "da fonte"
+        "Provola",
+        150.0,
+        "g"
       ],
       [
         "Uova 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Tuorli 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Panna fresca liquida 25 g",
-        null,
-        "da fonte"
+        "Panna fresca liquida",
+        25.0,
+        "g"
       ],
       [
-        "Noce moscata q.b.",
+        "Noce moscata",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Burro q.b.",
+        "Burro",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
         "Tuorli 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Latte intero q.b.",
+        "Latte intero",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -4632,11 +4644,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:59.178647+00:00",
+    "repaired_at": "2026-10-10T12:33:34.242231+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -4648,7 +4661,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 55,
     "ingredients_display": [
       "Riso Carnaroli 320 g",
       "Patate 650 g",
@@ -4666,7 +4679,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Minestra-di-riso-e-patate.html",
     "image_url": "https://www.giallozafferano.it/images/268-26825/Minestra-di-riso-e-patate_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 520.9,
     "protein": null,
     "carbs": 98.5,
@@ -4674,64 +4687,64 @@
     "cost": null,
     "ingredients": [
       [
-        "Riso Carnaroli 320 g",
-        null,
-        "da fonte"
+        "Riso Carnaroli",
+        320.0,
+        "g"
       ],
       [
-        "Patate 650 g",
-        null,
-        "da fonte"
+        "Patate",
+        650.0,
+        "g"
       ],
       [
-        "Passata di pomodoro 100 g",
-        null,
-        "da fonte"
+        "Passata di pomodoro",
+        100.0,
+        "g"
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
         "Carote 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Cipolle &frac12;",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Sedano &frac12;",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Sale q.b.",
+        "Sale",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Brodo vegetale 1,5 l",
-        null,
-        "da fonte"
+        "Brodo vegetale",
+        1.5,
+        "l"
       ],
       [
-        "Grana Padano DOP q.b.",
+        "Grana Padano DOP",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Basilico q.b.",
+        "Basilico",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -4743,11 +4756,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:57:01.786279+00:00",
+    "repaired_at": "2026-10-10T12:32:57.458196+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -4759,7 +4773,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 65,
     "ingredients_display": [
       "Riso per risotti 240 g",
       "Legumi misti precotti 260 g",
@@ -4777,7 +4791,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Minestra-di-riso-con-legumi.html",
     "image_url": "https://www.giallozafferano.it/images/292-29297/Minestra-di-riso-con-legumi_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 647.8,
     "protein": null,
     "carbs": 120.8,
@@ -4785,64 +4799,64 @@
     "cost": null,
     "ingredients": [
       [
-        "Riso per risotti 240 g",
-        null,
-        "da fonte"
+        "Riso per risotti",
+        240.0,
+        "g"
       ],
       [
-        "Legumi misti precotti 260 g",
-        null,
-        "da fonte"
+        "Legumi misti precotti",
+        260.0,
+        "g"
       ],
       [
-        "Patate 430 g",
-        null,
-        "da fonte"
+        "Patate",
+        430.0,
+        "g"
       ],
       [
-        "Carote 120 g",
-        null,
-        "da fonte"
+        "Carote",
+        120.0,
+        "g"
       ],
       [
-        "Sedano 80 g",
-        null,
-        "da fonte"
+        "Sedano",
+        80.0,
+        "g"
       ],
       [
-        "Scalogno 80 g",
-        null,
-        "da fonte"
+        "Scalogno",
+        80.0,
+        "g"
       ],
       [
-        "Passata di pomodoro 250 g",
-        null,
-        "da fonte"
+        "Passata di pomodoro",
+        250.0,
+        "g"
       ],
       [
-        "Acqua 800 g",
-        null,
-        "da fonte"
+        "Acqua",
+        800.0,
+        "g"
       ],
       [
-        "Timo q.b.",
+        "Timo",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -4854,14 +4868,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:57:04.413471+00:00",
+    "repaired_at": "2026-10-10T12:33:00.039374+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -4870,7 +4885,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 70,
     "ingredients_display": [
       "Farro 250 g",
       "Verza 400 g",
@@ -4887,7 +4902,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Minestra-autunnale.html",
     "image_url": "https://www.giallozafferano.it/images/366-36689/Minestra-autunnale_1200x800_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 658.1,
     "protein": null,
     "carbs": 124.3,
@@ -4895,59 +4910,59 @@
     "cost": null,
     "ingredients": [
       [
-        "Farro 250 g",
-        null,
-        "da fonte"
+        "Farro",
+        250.0,
+        "g"
       ],
       [
-        "Verza 400 g",
-        null,
-        "da fonte"
+        "Verza",
+        400.0,
+        "g"
       ],
       [
-        "Zucca 500 g",
-        null,
-        "da fonte"
+        "Zucca",
+        500.0,
+        "g"
       ],
       [
-        "Lenticchie secche 300 g",
-        null,
-        "da fonte"
+        "Lenticchie secche",
+        300.0,
+        "g"
       ],
       [
-        "Funghi secchi porcini 30 g",
-        null,
-        "da fonte"
+        "Funghi secchi porcini",
+        30.0,
+        "g"
       ],
       [
         "Scalogno 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Salvia q.b.",
+        "Salvia",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Rosmarino q.b.",
+        "Rosmarino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Timo q.b.",
+        "Timo",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva 20 g",
-        null,
-        "da fonte"
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
       ],
       [
-        "Castagne 100 g",
-        null,
-        "da fonte"
+        "Castagne",
+        100.0,
+        "g"
       ]
     ],
     "steps": [
@@ -4963,11 +4978,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:57:07.077234+00:00",
+    "repaired_at": "2026-10-10T12:33:02.647575+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -4979,7 +4995,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 5,
     "ingredients_display": [
       "Latte intero 240 g",
       "Tè verde Matcha 4 g",
@@ -4988,7 +5004,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Matcha-latte.html",
     "image_url": "https://www.giallozafferano.it/images/366-36695/Matcha-latte_1200x800_wm.jpg",
-    "servings": null,
+    "servings": 2,
     "kcal": 73.2,
     "protein": null,
     "carbs": 5.8,
@@ -4996,19 +5012,19 @@
     "cost": null,
     "ingredients": [
       [
-        "Latte intero 240 g",
-        null,
-        "da fonte"
+        "Latte intero",
+        240.0,
+        "g"
       ],
       [
-        "Tè verde Matcha 4 g",
-        null,
-        "da fonte"
+        "Tè verde Matcha",
+        4.0,
+        "g"
       ],
       [
-        "Tè verde Matcha q.b.",
+        "Tè verde Matcha",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -5017,14 +5033,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:57:09.708179+00:00",
+    "repaired_at": "2026-10-10T12:33:36.828876+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -6435,7 +6452,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 60,
     "ingredients_display": [
       "Stoccafisso (già ammollato) 800 g",
       "Olio di semi di girasole 500 g",
@@ -6448,7 +6465,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Baccala-mantecato-alla-veneziana.html",
     "image_url": "https://www.giallozafferano.it/images/229-22910/Baccala-mantecato-alla-veneziana_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 1854.0,
     "protein": null,
     "carbs": 1.7,
@@ -6456,39 +6473,39 @@
     "cost": null,
     "ingredients": [
       [
-        "Stoccafisso (già ammollato) 800 g",
-        null,
-        "da fonte"
+        "Stoccafisso (già ammollato)",
+        800.0,
+        "g"
       ],
       [
-        "Olio di semi di girasole 500 g",
-        null,
-        "da fonte"
+        "Olio di semi di girasole",
+        500.0,
+        "g"
       ],
       [
-        "Alloro 2 foglie",
-        null,
-        "da fonte"
+        "Alloro",
+        2.0,
+        "foglie"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Prezzemolo q.b.",
+        "Prezzemolo",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -6500,14 +6517,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T12:26:07.898219+00:00",
+    "repaired_at": "2026-10-10T12:33:05.256163+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -6516,7 +6534,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 60,
     "ingredients_display": [
       "Baccalà dissalato 600 g",
       "Polpa di pomodoro fine 400 g",
@@ -6532,7 +6550,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Baccala-in-umido.html",
     "image_url": "https://www.giallozafferano.it/images/ricette/198/19841/foto_hd/hd650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 264.5,
     "protein": null,
     "carbs": 19.2,
@@ -6540,54 +6558,54 @@
     "cost": null,
     "ingredients": [
       [
-        "Baccalà dissalato 600 g",
-        null,
-        "da fonte"
+        "Baccalà dissalato",
+        600.0,
+        "g"
       ],
       [
-        "Polpa di pomodoro fine 400 g",
-        null,
-        "da fonte"
+        "Polpa di pomodoro fine",
+        400.0,
+        "g"
       ],
       [
-        "Cipolle dorate 200 g",
-        null,
-        "da fonte"
+        "Cipolle dorate",
+        200.0,
+        "g"
       ],
       [
-        "Farina 00 50 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        50.0,
+        "g"
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Capperi sotto sale (da dissalare) 30 g",
-        null,
-        "da fonte"
+        "Capperi sotto sale (da dissalare)",
+        30.0,
+        "g"
       ],
       [
-        "Olive taggiasche 40 g",
-        null,
-        "da fonte"
+        "Olive taggiasche",
+        40.0,
+        "g"
       ],
       [
-        "Origano secco q.b.",
+        "Origano secco",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -6600,14 +6618,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T12:26:10.636421+00:00",
+    "repaired_at": "2026-10-10T12:33:07.952499+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -6616,7 +6635,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 75,
     "ingredients_display": [
       "Baccalà dissalato 600 g",
       "Patate 250 g",
@@ -6635,7 +6654,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Baccala-alla-livornese.html",
     "image_url": "https://www.giallozafferano.it/images/172-17296/Baccala-alla-livornese_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 442.5,
     "protein": null,
     "carbs": 43.1,
@@ -6643,69 +6662,69 @@
     "cost": null,
     "ingredients": [
       [
-        "Baccalà dissalato 600 g",
-        null,
-        "da fonte"
+        "Baccalà dissalato",
+        600.0,
+        "g"
       ],
       [
-        "Patate 250 g",
-        null,
-        "da fonte"
+        "Patate",
+        250.0,
+        "g"
       ],
       [
-        "Farina 00 100 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        100.0,
+        "g"
       ],
       [
-        "Vino bianco 40 g",
-        null,
-        "da fonte"
+        "Vino bianco",
+        40.0,
+        "g"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pomodori pelati 800 g",
-        null,
-        "da fonte"
+        "Pomodori pelati",
+        800.0,
+        "g"
       ],
       [
         "Cipolle dorate 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Aglio 1 spicchio",
-        null,
-        "da fonte"
+        "Aglio",
+        1.0,
+        "spicchio"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -6720,11 +6739,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T12:26:13.201304+00:00",
+    "repaired_at": "2026-10-10T12:33:10.588568+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false

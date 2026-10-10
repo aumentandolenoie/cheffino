@@ -25,6 +25,7 @@ jobs:
           python classifica_catalogo.py
           python ripara_catalogo.py --limit 20 --delay 2.5
           python recupera_quantita_esplicite.py
+          python recupera_ingredienti_fonte.py
           python classifica_catalogo.py
           python verifica_catalogo.py
           python valida_catalogo.py

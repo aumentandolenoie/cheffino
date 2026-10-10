@@ -812,5 +812,1991 @@
       "Allunga il condimento con poca acqua della pasta se necessario.",
       "Scola i fusilli al dente e amalgamali con la crema di ricotta."
     ]
+  },
+  {
+    "id": 42270105876548,
+    "name": "Zuppa di zucca e lenticchie",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Zucca delica (da pulire) 350 g",
+      "Lenticchie rosse decorticate 80 g",
+      "Cavolo nero (da pulire) 100 g",
+      "Farina di ceci 50 g",
+      "Scalogno 1",
+      "Aglio 1 spicchio",
+      "Brodo vegetale 1 l",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-zucca-e-lenticchie.html",
+    "image_url": "https://www.giallozafferano.it/images/307-30725/Zuppa-di-zucca-e-lenticchie_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 191.2,
+    "protein": null,
+    "carbs": 28.7,
+    "fats": 5.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Zucca delica (da pulire) 350 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lenticchie rosse decorticate 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cavolo nero (da pulire) 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina di ceci 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scalogno 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aglio 1 spicchio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Brodo vegetale 1 l",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di zucca e lenticchie, per prima cosa realizzate il brodo vegetale e tenetelo in caldo. Intanto pulite la zucca: dividetela a metà 1 ed eliminate i semi e i filamenti interni 2 . Rimuovete la buccia con un coltello affilato, poi tagliate la polpa a fette spesse 3 .",
+      "Infine, riducetela a piccoli cubetti regolari 4 . Dedicatevi al cavolo nero: staccate le foglie dal gambo centrale 5 e tritatele grossolanamente con un coltello 6 .",
+      "In una casseruola capiente scaldate un filo d’olio extravergine d’oliva con uno spicchio d’aglio a pezzetti 7 e lo scalogno tritato grossolanamente 8 . Lasciate soffriggere dolcemente per 4-5 minuti. Unite lo scalogno a pezzi 8 , poi aggiungete la zucca 9 .",
+      "Salate 10 e versate un mestolo di brodo vegetale caldo 11 , coprite con il coperchio 12 e portate a bollore; ci vorranno circa 10 minuti.",
+      "A questo punto unite il cavolo nero 13 , mescolate e versate ancora un po’ di brodo per permettere alle foglie di stufarsi lentamente 14 . Aggiungete subito dopo anche le lenticchie rosse precedentemente sciacquate 15 . Allungate con un altro mestolo di brodo, mescolate e cuocete per circa 15-20 minuti, o finché tutte le verdure non saranno morbide.",
+      "Per dare corpo e una consistenza più cremosa, incorporate un cucchiaio di farina di ceci 16 . Continuate la cottura ancora per qualche minuto, mescolando bene: vedrete che la zuppa diventerà densa e vellutata 17 . Quando è pronta, servite la zuppa di zucca e lenticchie calda in una ciotola, completando con un filo d’olio a crudo e, se gradite, una macinata di pepe nero 18 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:45:30.376338+00:00"
+  },
+  {
+    "id": 271954833842137,
+    "name": "Zuppa di lenticchie",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Lenticchie secche 250 g",
+      "Porri 100 g",
+      "Patate 250 g",
+      "Pomodorini ciliegino 180 g",
+      "Alloro 2 foglie",
+      "Olio extravergine d'oliva q.b.",
+      "Curcuma in polvere 1 cucchiaino",
+      "Acqua 1 l",
+      "Pepe nero q.b.",
+      "Sale fino q.b.",
+      "Origano q.b.",
+      "Pane nero ai cereali 1",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Origano q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-lenticchie.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/11/1152/foto_hd/hd650x433_wm.jpg",
+    "servings": null,
+    "kcal": 430.0,
+    "protein": null,
+    "carbs": 61.7,
+    "fats": 13.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Lenticchie secche 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Porri 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Patate 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pomodorini ciliegino 180 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Alloro 2 foglie",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Curcuma in polvere 1 cucchiaino",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 1 l",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Origano q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pane nero ai cereali 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Origano q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di lenticchie tagliate finemente la parte bianca del porro 1 . Sbucciate le patate e riducetele a dadini di 1 cm 2 . Scaldate nel tegame un giro d'olio, versate il porro e rosolatelo 3 .",
+      "Aggiungete le patate in casseruola 4 . Unite anche le lenticchie risciacquate 5 e l’acqua 6 .",
+      "Insaporite con la curcuma 7 e le foglie di alloro 8 , mescolate e dalla presa del bollore fate cuocere a fuoco medio-basso per 25-30 minuti, durante i quali mescolerete di tanto in tanto. Non aggiungete ora il sale, altrimenti le lenticchie resteranno dure. Nel frattempo preparate i crostini: tagliate a dadini il pane 9 .",
+      "Versate i crostini su una teglia, condite con sale, pepe, olio 10 e origano fresco 11 .Tostate il pane in forno preriscaldato a 200° in modalità ventilata per 8 minuti. Lavate e tagliate a metà i pomdorini 12 .",
+      "Aggiungete quindi i pomodorini 13 e proseguite la cottura per una decina di minuti. Controllate di aver raggiunto il grado di cottura adatto ai vostri gusti, regolate di sale 14 e pepe e togliete dal fuoco, lasciate riposare qualche minuto. Servite la zuppa di lenticchie ben calda aggiungendo un filo d'olio a crudo, una grattata di pepe e i crostini di pane 15 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:45:33.101948+00:00"
+  },
+  {
+    "id": 62417905672710,
+    "name": "Zuppa di lenticchie con curcuma e zenzero",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Lenticchie precotte (peso sgocciolato) 500 g",
+      "Cipolle 100 g",
+      "Sedano 100 g",
+      "Brodo vegetale 800 g",
+      "Curcuma in polvere 1 cucchiaino",
+      "Zenzero in polvere 1 cucchiaino",
+      "Basilico q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-lenticchie-con-curcuma-e-zenzero.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36684/Zuppa-di-lenticchie-con-curcuma-e-zenzero_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 508.2,
+    "protein": null,
+    "carbs": 84.4,
+    "fats": 6.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Lenticchie precotte (peso sgocciolato) 500 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cipolle 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sedano 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Brodo vegetale 800 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Curcuma in polvere 1 cucchiaino",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zenzero in polvere 1 cucchiaino",
+        null,
+        "da fonte"
+      ],
+      [
+        "Basilico q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di lenticchie con curcuma e zenzero, per prima cosa affettate sia il sedano che la cipolla 1 . Versate le verdure in una casseruola con un giro d’olio 2 , salate 3 e pepate.",
+      "Aggiungete lo zenzero 4 e la curcuma in polvere 5 , poi soffriggete dolcemente per 5 minuti 6 .",
+      "A questo punto unite le lenticchie precotte 7 e mescolate per un paio di minuti per farle insaporire, dopodiché versate quasi tutto il brodo vegetale 8 . Portate a leggero bollore e cuocete per 10-15 minuti 9 .",
+      "A fine cottura, frullate una parte della zuppa con un mixer a immersione 10 . potete regolare la consistenza aggiungendo eventualmente il brodo rimasto. Impiattate 11 e guarnite con un paio di foglioline di basilico 12 .",
+      "Infine completate con un filo d’olio 13 , un pizzico di curcuma 14 e una macinata di pepe. La vostra zuppa di lenticchie con curcuma e zenzero è pronta per essere servita 15 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:45:35.753141+00:00"
+  },
+  {
+    "id": 126218907648864,
+    "name": "Zuppa di farro e lenticchie",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Lenticchie secche 250 g",
+      "Farro 250 g",
+      "Cipolle bianche piccola 1",
+      "Carote 1",
+      "Sedano gambo 1",
+      "Concentrato di pomodoro 1 cucchiaio",
+      "Olio extravergine d'oliva q.b.",
+      "Sale q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-farro-e-lenticchie.html",
+    "image_url": "https://www.giallozafferano.it/images/294-29489/Zuppa-di-farro-e-lenticchie_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 500.7,
+    "protein": null,
+    "carbs": 89.3,
+    "fats": 7.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Lenticchie secche 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farro 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cipolle bianche piccola 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Carote 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sedano gambo 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Concentrato di pomodoro 1 cucchiaio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di farro e lenticchie, come prima cosa mettete in ammollo le lenticchie in acqua fredda 1 per 2 ore. Scolatele, mettete in una pentola con acqua fredda salata 2 e cuocete per 30 minuti. Scolatele nuovamente e tenete da parte sia le lenticchie che l’acqua di cottura. Tagliate finemente la cipolla 3 .",
+      "Fate la stessa cosa per il sedano 4 e la carota 5 . Nella stessa pentola in cui avete cucinato le lenticchie versate l’olio 6 .",
+      "Aggiungete cipolla 7 , carota 8 e sedano 9 . Soffriggete per qualche minuto.",
+      "Unite il concentrato di pomodoro 10 e le lenticchie 11 . Coprite con acqua di cottura delle lenticchie 12 .",
+      "Aggiustate di sale 13 . Unite anche il farro 14 e fate cuocere per 30 minuti 15 . Se necessario versate altra acqua di cottura delle lenticchie.",
+      "Impiattate e completate con un giro d’olio 16 e una spolverata di pepe 17 . La zuppa di farro e lenticchie è pronta per essere gustata 18"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:45:38.391986+00:00"
+  },
+  {
+    "id": 131014755584784,
+    "name": "Zuppa autunnale",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Zucca (già pulita) 840 g",
+      "Fagioli borlotti freschi 500 g",
+      "Cavolo nero 100 g",
+      "Porri 80 g",
+      "Brodo vegetale 2 l",
+      "Rosmarino 2 rametti",
+      "Alloro q.b.",
+      "Olio extravergine d'oliva 40 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Pane 8 fette",
+      "Gherigli di noci 50 g",
+      "Rosmarino q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-autunnale.html",
+    "image_url": "https://www.giallozafferano.it/images/171-17173/Zuppa-autunnale_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 643.1,
+    "protein": null,
+    "carbs": 71.2,
+    "fats": 34.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Zucca (già pulita) 840 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fagioli borlotti freschi 500 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cavolo nero 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Porri 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Brodo vegetale 2 l",
+        null,
+        "da fonte"
+      ],
+      [
+        "Rosmarino 2 rametti",
+        null,
+        "da fonte"
+      ],
+      [
+        "Alloro q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pane 8 fette",
+        null,
+        "da fonte"
+      ],
+      [
+        "Gherigli di noci 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Rosmarino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare la zuppa autunnale iniziate tagliando la zucca prima a fettine 1 , eliminate la buccia quindi riducete la polpa a cubetti di circa 2 cm 2 . Legate con lo spago le foglie di alloro e i rametti di rosmarino 3 , in questo modo sarà più facili eliminarli a fine cottura.",
+      "Sgranate i fagioli 4 e raccoglieteli in una ciotola. Spuntate la base del porro, eliminate la parte verde più coriacea e togliete le prime due foglie, quindi affettatelo a rondelle 5 . Lavate le foglie del cavolo 6",
+      "E tagliatele a pezzi grossolani 7 . Gli ingredienti sono pronti per la cottura: scaldate l’olio di oliva in un tegame ampio, aggiungete il porro affettato 8 , lasciatelo rosolare per 1 minuto, quindi coprite con un mestolo di brodo 9 e lasciate stufare per 5-6 minuti.",
+      "Quando il porro sarà stufato, aggiungete la zucca a dadini 10 i fagioli sgranati 11 , il cavolo nero 12",
+      "e per finire il mazzetto di erbe aromatiche 13 , coprite le verdure con il brodo 14 in modo che risultino completamente immerse nel liquido, quindi coprite con il coperchio 15 e lasciate cuocere per circa 2 ore; mescolate di tanto in tanto.",
+      "Trascorso il tempo di cottura, le verdure risulteranno tenere; eliminate il rametto di erbe aromatiche, salate 16 e pepate a piacere, quindi tenete in caldo. Affettale il filone di pane 17 , adagiate le fettine su una leccarda rivestita con carta da forno 18 ,",
+      "insaporite con olio di oliva 19 , un pizzico di sale e aghetti di rosmarino 20 , quindi fate tostare il pane fino a dorarlo 21 in forno statico preriscaldato a 240° in modalità grill per 3-4 minuti.",
+      "Ora ponete i gherigli di noci in una padella ben calda 22 (potete lasciarle intere oppure sbriciolarle grossolanamente), tostatele per 3 minuti per dorarle agitando la padella per non farle bruciare 23 , quindi unitele alla zuppa. Servite la zuppa autunnale calda 24 accompagnandola con i crostini di pane tostato."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:45:41.556560+00:00"
+  },
+  {
+    "id": 171021698363776,
+    "name": "Zucchette di Halloween con Nutella®",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Zucca delica già pulita 210 g",
+      "Farina di riso 150 g",
+      "Farina di mandorle 50 g",
+      "Latte di mandorle 50 g",
+      "Olio di semi 50 ml",
+      "Zucchero di canna 100 g",
+      "Uova 1",
+      "Lievito in polvere per dolci 8 g",
+      "Zucchero a velo 150 g",
+      "Acqua q.b.",
+      "Coloranti alimentari verde q.b.",
+      "Nutella® 120 g",
+      "Decorazione alimentare occhietti in zucchero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zucchette-ripiene-di-Nutella.html",
+    "image_url": "https://www.giallozafferano.it/images/238-23864/Zucchette-ripiene-di-Nutella_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 373.5,
+    "protein": null,
+    "carbs": 58.6,
+    "fats": 14.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Zucca delica già pulita 210 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina di riso 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina di mandorle 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte di mandorle 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi 50 ml",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero di canna 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 8 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Coloranti alimentari verde q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Nutella® 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Decorazione alimentare occhietti in zucchero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare le zucchette ripiene di Nutella® come prima cosa sbucciate la zucca e tagliatela a cubetti. Dovrete ricavarne 210 g. Trasferitela nel contenitore di un mixer, aggiungete il latte di mandorle 1 e l'olio di semi 2 . Frullate il tutto sino a ricavare una purea liscia 3 .",
+      "In un'altra ciotola setacciate prima la farina di riso 4 e poi il lievito 5 . Tenete da parte e in un'altra ciotola capiente versate lo zucchero e l’uovo 6 .",
+      "Lavorate con le fruste sino ad ottenere una crema gonfia e chiara 7 . Unite la crema di zucca 8 e lavorate ancora pochi istanti. Aggiungete anche la farina di riso setacciata con il lievito 9 .",
+      "Unite anche la farina di mandorle e lavorate con le fruste 10 sino ad ottenere un composto uniforme 11 . Imburrate 16 stampi a semisfera da 6 cm. Utilizzando un cucchiaio trasferite l'impasto all'interno 12 .",
+      "Cuocete in forno statico preriscaldato a 180° per circa 20 min. Sfornate e lasciar raffreddare 13 . Estraete delicatamente le semisfere dallo stampo 14 e preparate la glassa. Versate lo zucchero a velo in una ciotola ed unite pochissima acqua per volta 15 .",
+      "Mescolate sino ad ottenere una glassa liscia ma ben soda per la decorazione 16 . Aggiungete il colorante verde e mescolate bene fino ad ottenere un colore omogeneo. Trasferite una buona parte della classa in una sacca da pasticcere con bocchetta ondulata da 1,2 cm 18 .",
+      "Trasferite quindi la glassa rimanente in un conetto di carta forno 19 . Riprendete ora le tortine e rifilatele per renderle dritte. Rifilate la parte superiore (quella più larga) a tutte e 16 le tortine 20 . Decorate metà delle tortine ottenute (8 pezzi) realizzando delle foglie con la sacca da pasticcere 21 .",
+      "Utilizzando il conetto di carta forno, realizzate invece il picciolo 22 . Con pochissima glassa incollate gli occhietti alle tortine appena decorate 23 . Riprendete le 8 tortine rimaste e livellate anche l'altro lato 24 , essendo la parte inferiore delle zucche in questo modo saranno più stabili.",
+      "Trasferite Nutella® in una sach-à-poche con bocchetta da 6 mm e farcire le basi delle tortine, spremendone 15g su ciascuna 25 . Adagiate sopra la parte decorata  26 e servite le vostre zucchette ripiene di Nutella® 27 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:45:44.698682+00:00"
+  },
+  {
+    "id": 190381413323087,
+    "name": "Zucchette di pasta sfoglia",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Pasta Sfoglia rettangolare 230 g",
+      "Marmellata di arance 350 g",
+      "Zucchero di canna 70 g",
+      "Tuorli 1"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zucchette-di-pasta-sfoglia.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/181/18125/foto_hd/hd650x433_wm.jpg",
+    "servings": null,
+    "kcal": 406.3,
+    "protein": null,
+    "carbs": 67.5,
+    "fats": 15.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pasta Sfoglia rettangolare 230 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Marmellata di arance 350 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero di canna 70 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tuorli 1",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare le zucchette di pasta sfoglia stendete la sfoglia su un piano da lavoro leggermente infarinato 1 . Con un coppapasta della misura di 8 cm ritagliate 12 quadrati 2 . Eliminate la pasta in eccesso 3",
+      "e ritagliate su metà dei quadrati la sagoma degli occhietti e della bocca ispirandovi agli intagli classici della zucca di Halloween. Per eseguire questo passaggio consigliamo di ritagliare prima la sagoma su un cartoncino per facilitarvi (4-5). Spennellate i bordi dei quadrati integri con un po' d'acqua 6 .",
+      "Ponete al centro un cucchiaio di marmellata di arance 7 , quindi sovrapponete la sfoglietta intagliata con la sagoma 8 e fate aderire bene i bordi per evitare la fuoriuscita del ripieno in cottura. Adagiate le zucchette di sfoglia su una teglia rivestita con carta da forno 9 ,",
+      "spennellate la superficie con il tuorlo stemperato con poca acqua 10 , spolverizzate con lo zucchero di canna 11 e cuocete in forno preriscaldato a 180° per 25 minuti. Trascorso il tempo di cottura le vostre zucchette di sfoglia saranno ben dorate in superficie 12 : gustatele tiepide o anche a temperatura ambiente!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:45:47.349140+00:00"
+  },
+  {
+    "id": 183262695746594,
+    "name": "Tortine di zucca e cioccolato",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Zucca delica da pulire 210 g",
+      "Farina di riso 150 g",
+      "Farina di mandorle 50 g",
+      "Zucchero di canna 100 g",
+      "Latte di mandorle 50 g",
+      "Olio di semi 50 g",
+      "Uova (circa 1 medio) 55 g",
+      "Lievito in polvere per dolci 8 g",
+      "Sale fino 1 pizzico",
+      "Cioccolato fondente 150 g",
+      "Panna fresca liquida 120 g",
+      "Zucchero a velo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Tortine-di-zucca-e-cioccolato.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/183/18349/foto_hd/hd650x433_wm.jpg",
+    "servings": null,
+    "kcal": 775.0,
+    "protein": null,
+    "carbs": 82.0,
+    "fats": 46.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Zucca delica da pulire 210 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina di riso 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina di mandorle 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero di canna 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte di mandorle 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova (circa 1 medio) 55 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 8 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cioccolato fondente 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Panna fresca liquida 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare le tortine di zucca e cioccolato, per prima cosa pulite la zucca e tagliatela a tocchetti 1 : vi occorreranno 160 g di zucca pulita. Trasferite la zucca in un contenitore alto e stretto, aggiungete l’olio di semi 2 e il latte di mandorla 3",
+      "e frullate con un frullatore a immersione fino a ottenere una crema liscia 4 . Ora versate lo zucchero di canna nella ciotola di una planetaria munita di gancio a foglia 5 , aggiungete l’uovo 6 e lavorate a velocità bassa fino a che il composto non sarà chiaro e spumoso.",
+      "Unite la crema di zucca 7 e lavorate ancora per amalgamarla. A questo punto setacciate all'interno della ciotola la farina di riso 8  e il lievito 9 ,",
+      "unite anche la farina di mandorle 10 e lavorate il tutto per incorporare le polveri nel composto. In ultimo unite il sale 11 e lavorate ancora fino a che il composto non risulterà liscio e uniforme 12 .",
+      "Imburrate 13 e infarinate 4 stampini rotondi del diametro di 10 cm e alti 3 cm, riempiteli con il composto fino a tre quarti 14 e posizionateli sulla gratella del forno che avrete preriscaldato a 170° in modalità statica 15 . Cuocete le tortine per circa 20 minuti.",
+      "Nel frattempo occupatevi della ganache: tritate finemente al coltello il cioccolato fondente 16 , poi versate la panna in un pentolino e portatela a sfiorare il bollore 17 . Trasferite il cioccolato tritato in una ciotola, versate la panna calda sul cioccolato 18",
+      "e mescolate energicamente con una spatola fino a ottenere una crema 19 . Frullate la crema ottenuta con un frullatore a immersione per renderla più liscia e lucida 20 , poi copritela con pellicola a contatto 21 e mettetela a raffreddare in frigorifero per almeno 30 minuti.",
+      "Quando le tortine saranno cotte, sfornatele 22 e lasciatele raffreddare, dopodiché rimuovetele dagli stampini e tagliatele a metà trasversalmente. Trasferite la ganache al cioccolato in un sac-à-poche e farcite la metà inferiore delle tortine 23 , poi ricopritele con l’altra metà 24 .",
+      "Per realizzare una decorazione originale, coprite parte della superficie delle tortine con un foglio di carta e spolverizzate con lo zucchero a velo (25-26). Le vostre tortine di zucca e cioccolato sono pronte per essere gustate 27 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:45:49.981907+00:00"
+  },
+  {
+    "id": 45798059982633,
+    "name": "Tortelli di zucca alla mantovana",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 00 450 g",
+      "Semola di grano duro rimacinata 50 g",
+      "Tuorli 10",
+      "Uova 2",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva 20 g",
+      "Zucca mantovana pulita 750 g",
+      "Mostarda mantovana 100 g",
+      "Amaretti 100 g",
+      "Grana Padano DOP 50 g",
+      "Noce moscata q.b.",
+      "Sale fino q.b.",
+      "Mandorle in scaglie q.b.",
+      "Timo q.b.",
+      "Burro 100 g",
+      "Grana Padano DOP 60 g",
+      "Scorza di limone 1"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Tortelli-di-zucca-alla-mantovana.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36661/Tortelli-di-zucca-alla-mantovana_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 487.5,
+    "protein": null,
+    "carbs": 53.1,
+    "fats": 23.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00 450 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Semola di grano duro rimacinata 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tuorli 10",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova 2",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucca mantovana pulita 750 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mostarda mantovana 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Amaretti 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Grana Padano DOP 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Noce moscata q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mandorle in scaglie q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Timo q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Grana Padano DOP 60 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scorza di limone 1",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare i tortelli di zucca alla mantovana tagliate a pezzi la zucca ed eliminate i semi interni 1 . Dividetela in pezzi 2 e trasferitela su una teglia 3 .",
+      "Coprite con carta di alluminio 4 e cuocete per 40 minuti a 160° in forno statico preriscaldato. Intanto occupatevi della pasta fresca: versate le farine sulla spianatoia 5 , formate la classica fontana al centro e inserite qui le uova intere e i tuorli 6 .",
+      "Versate l'olio 7 , un pizzico di sale 8 e impastate con il tarocco per raccogliere gli ingredienti 9 .",
+      "Una volta che le uova saranno assorbite, impastate energicamente a mano 10 fino a formare un panetto liscio e omogeneo e fatelo riposare per 30 minuti in frigo 11 . Recuperate la zucca cotta 12 e fatela intiepidire.",
+      "Frullate gli amaretti nel mixer per ridurli in polvere 13 . Eliminate la buccia dalla zucca 14 e ponetela nel mixer 15 .",
+      "Frullate per ottenere una purea omogenea 16 , poi strizzatela in un canovaccio affinché perda i liquidi in eccesso 17 18 .",
+      "Tritate la mostarda 19 , poi trasferite la purea di zucca in una ciotola, aggiungete il formaggio 20 e gli amaretti 21 .",
+      "Aggiungete anche la mostarda 22 , salate 23 e mescolate 24 .",
+      "Alla fine aromatizzate con la noce moscata grattugiata 25 . Mescolate un' ultima volta 26 , trasferite l'impasto in un sac-à-poche e conservate in frigo. Riprendete il panetto di pasta, staccate una porzione 27 e passatela nel rullo della macchina sfogliatrice allo spessore più largo.",
+      "Ripiegate su se stessa la sfoglia 28 e passatela ancora nei rulli 29 fino ad arrivare ad uno spessore di 1-2 mm. Rifinite i bordi con una rotella dentellata e create dei quadrati di pasta da 5x5 cm 30 .",
+      "Farcite al centro con un mucchietto di ripieno 31 . Ripiegate a metà unendo gli angoli opposti per creare un triangolo 32 . Poi unite le due estremità per creare la tipica forma del tortello 33 .",
+      "Con queste dosi otterrete circa 70 tortelli 34 , man mano che li formate, adagiateli su un vassoio infarinato 34 . Ora tostate le mandorle in scaglie in padella e tenetele  da parte, serviranno per guarnire i piatti 35 . Tuffate i tortelli in abbondante acqua salata e cuoceteli fino a quando non saliranno a galla, ci vorranno pochi minuti 36 .",
+      "Intanto sciogliete il burro nella stessa padella in cui avete tostato le mandorle 37 . Scolate i tortelli nella padella con il burro 38 e profumate con il timo 39 . Unite anche dell'acqua di cottura della pasta per creare una salsina.",
+      "Insaporite con il formaggio grattugiato 40 e la scorza del limone 41 . Servite i tortelli di zucca alla mantovana con le mandorle tostate 42 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:45:52.668135+00:00"
+  },
+  {
+    "id": 212440586978112,
+    "name": "Torta salata pere e gorgonzola",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Pasta Sfoglia rotonda 230 g",
+      "Pere Decana 300 g",
+      "Fontina 170 g",
+      "Gorgonzola piccante 150 g",
+      "Nocciole pelate 30 g",
+      "Olio extravergine d'oliva q.b.",
+      "Pepe nero q.b.",
+      "Salvia q.b.",
+      "Miele di castagno 2 cucchiai"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-salata-pere-e-gorgonzola.html",
+    "image_url": "https://www.giallozafferano.it/images/295-29579/Torta-salata-pere-e-gorgonzola_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 525.0,
+    "protein": null,
+    "carbs": 35.6,
+    "fats": 36.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pasta Sfoglia rotonda 230 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pere Decana 300 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fontina 170 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Gorgonzola piccante 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Nocciole pelate 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Salvia q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Miele di castagno 2 cucchiai",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la torta salata pere e gorgonzola, come prima cosa tagliate le pere in quarti 1 , eliminate il torsolo e ricavate delle fette sottili 2 di circa 2-3 mm di spessore. Grattugiate la fontina 3 , tritate grossolanamente le nocciole e tenete da parte.",
+      "Ungete una teglia rotonda da 26 cm di diametro 4 . Foderatela con la pasta sfoglia e bucherellate il fondo con i rebbi di una forchetta 5 . Coprite il fondo con la fontina 6 .",
+      "Aggiungete 5-6 cucchiaiate di gorgonzola 7 , quindi disponete le fette di pera a raggiera e chiudete anche il centro 8 . Arrotolate il bordo a cordoncino. Sulla superficie distribuite le nocciole tritate 9 .",
+      "Irrorate con olio 10 , aggiungete una spolverata di pepe 11 e qualche foglia di salvia 12 .",
+      "Completate con miele di castagno 13 e ancora un po' di gorgonzola 14 . Cuocete in forno statico, nel ripiano centrale, a 200°C per 30 minuti, fino a doratura. Lasciate intiepidire e la vostra torta salata pere e gorgonzola è pronta per essere gustata 15 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:45:55.407189+00:00"
+  },
+  {
+    "id": 1681453928818,
+    "name": "Torta ricotta e fragole",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Uova circa 2 medie a temperatura ambiente 110 g",
+      "Farina 00 50 g",
+      "Zucchero 70 g",
+      "Miele millefiori 5 g",
+      "Scorza di limone &frac12;",
+      "Acqua 150 g",
+      "Scorza di limone &frac12;",
+      "Zucchero 75",
+      "Baccello di vaniglia &frac12;",
+      "Fragole 300 g",
+      "Sambuca 20 g",
+      "Zucchero 15 g",
+      "Ricotta vaccina 350 g",
+      "Panna fresca liquida 110 g",
+      "Zucchero a velo 50 g",
+      "Gelatina in fogli 10 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-ricotta-e-fragole.html",
+    "image_url": "https://www.giallozafferano.it/images/221-22161/Torta-ricotta-e-fragole_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 523.7,
+    "protein": null,
+    "carbs": 92.0,
+    "fats": 13.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Uova circa 2 medie a temperatura ambiente 110 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 70 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Miele millefiori 5 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scorza di limone &frac12;",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scorza di limone &frac12;",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 75",
+        null,
+        "da fonte"
+      ],
+      [
+        "Baccello di vaniglia &frac12;",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fragole 300 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sambuca 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 15 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Ricotta vaccina 350 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Panna fresca liquida 110 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Gelatina in fogli 10 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la torta ricotta e fragole cominciate dalla pasta biscotto. Versate in una ciotola le uova a temperatura ambiente, aggiungete il miele, la scorza grattugiata di limone 1 poi lo zucchero un po’ per volta. Azionate le fruste e montate per una decina di minuti finché il composto non sarà gonfio e chiaro e scriverà sollevando le fruste 3 .",
+      "Spegnete le fruste, posizionate un colino e setacciate la farina 4 . Incorporatela delicatamente con movimenti dal basso verso l’alto utilizzando una frusta o una spatola 5 . Trasferite il composto in due anelli da pasticceria, o anche due stampi, da 20 cm imburrati e infarinati 6 .",
+      "Livellate delicatamente la superficie 7 e passate alla cottura 8 : i dischi cuociono in forno statico, già caldo a 180°, per circa 10 minuti 9 .",
+      "Una volta cotti ribaltateli su una gratella e staccate delicatamente la carta forno mentre sono ancora caldi. Quindi lasciate raffreddare completamente 10 . Preparate la bagna al limone lasciando in infusione la scorza di limone e la bacca di vaniglia per un’oretta. Trascorso il tempo versate il tutto in un pentolino, aggiungete lo zucchero 12",
+      "e quando sarà sciolto filtrate e fate raffreddare 13 . Nel frattempo passate alle fragole. Dopo averle immerse per pochi istanti in acqua fresca, scolatele e pulitele. Togliete la parte superficiale e affettate un numero sufficiente a rivestire la circonferenza dello stampo 14 . Il resto invece tagliatelo a pezzetti e radunate in una ciotola 15 .",
+      "Sui pezzetti di fragola versate lo zucchero 16 , mescolate e lasciate macerare una decina di minuti 17 . Dopodiché versate in padella 18 ,",
+      "insieme al sambuca e spadellate a fiamma viva: fate attenzione all’eventuale fiammata se avete il classico fornello. Non appena saranno leggermente ammorbidite spegnete il fornello e tenete da parte 19 . Ora passiamo alla crema. Mettete in ammollo la gelatina in acqua fredda per una decina di minuti 20 . Intanto setacciate la ricotta 21",
+      "Scaldate 25 grammi di panna e sciogliete la gelatina scolata 22 , dopodiché versate sulla ricotta e mescolate 23 . Poi aggiungete le fragole intiepidite 24 .",
+      "Versate i restanti 85 g di panna fredda in una ciotola insieme allo zucchero a velo 25 e montate a neve con le fruste 26 . Versate la panna montata nella ciotola 27 ,",
+      "incorporate delicatamente 28 . Tenete da parte un paio di cucchiaiate, meglio se senza fragole 29 . A questo punto c’è tutto, passate alla composizione. In un anello da pasticceria rivestito di acetato (probabilmente la circonferenza sarà un po’ più piccola rispetto ai 20 cm iniziali) e posto su un piatto girevole, o classico, disponete il primo disco di pasta biscotto 30 .",
+      "Bagnate con un po’ di bagna 31 , versate la crema con i pezzetti di fragole 32 , e poi sistemate l’altro disco 33 .",
+      "Bagnate la superficie e riponete in frigo per un paio d'ore 34 . Trascorso il tempo togliete l'acetato 35 e andate a glassare la torta. Prendete la crema tenuta da parte e stemperatela con un po' di panna finché non avrete ottenuto una crema morbida, non troppo liquida 36 .",
+      "Quindi rivestite interamente il dolce con una spatola 37 , guarnite con le fragole a fette disponendole in maniera alterna una volta con la punta rivolta verso l'alto e una volta verso il basso 38 . Decorate la superficie a piacere e la vostra torta ricotta e fragole è pronta 39 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:45:58.108343+00:00"
+  },
+  {
+    "id": 191443079218214,
+    "name": "Torta di castagne e cioccolato",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina di castagne 240 g",
+      "Cacao amaro in polvere 20 g",
+      "Zucchero 160 g",
+      "Uova (circa 5 medie) 250 g",
+      "Lievito in polvere per dolci 16 g",
+      "Latte intero 310 g",
+      "Baccello di vaniglia 1"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-di-castagne-e-cioccolato.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/168/16887/foto_hd/hd650x433_wm.jpg",
+    "servings": null,
+    "kcal": 213.0,
+    "protein": null,
+    "carbs": 37.4,
+    "fats": 4.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina di castagne 240 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cacao amaro in polvere 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 160 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova (circa 5 medie) 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 16 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte intero 310 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Baccello di vaniglia 1",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la torta di castagne e cioccolato assicuratevi che tutti gli ingredienti siano a temperatura ambiente: rompete le uova in una planetaria, unite lo zucchero 1 ed i semi di una bacca di vaniglia 2 e montate utilizzando le fruste per una decina di minuti o fin quando il composto non sarà chiaro e spumoso (se non avete la planetaria potete utilizzare delle fruste elettriche) 3 .",
+      "Nel frattempo in una ciotola andate a setacciate la farina di castagne 4 , il lievito 5 ed il cacao 6 .",
+      "Ora potrete versare il latte, a temperatura ambiente, e stemperare il tutto utilizzando una frusta 7 : fate attenzione a non formare grumi 8 . A questo composto andate ad aggiungere un po’ di impasto di uova e zucchero 9 ,",
+      "vi servirà per ammorbidire e stemperare il composto 10 . Dopodiché aggiungete la restante parte 11 e amalgamate con molta delicatezza per non smontare le uova, quindi inglobate con la spatola con movimenti dal basso verso l’alto. Imburrate e rivestite con carta da forno uno stampo da 22 cm di diametro. Versate il composto nello stampo 12",
+      "e cuocete a in forno statico preriscaldato 170° per 70 minuti, nel ripiano più basso del forno 13 . Fate la prova stecchino a fine cottura per verificare che la torta sia cotta. Sfornate e lasciate raffreddare prima di sformare la torta per servirla 14 . Se preferite, spolverizzate un pizzico di zucchero a velo sulla vostra torta di castagne e cioccolato 15 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:46:00.747760+00:00"
+  },
+  {
+    "id": 176455757232419,
+    "name": "Torta con marmellata",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 00 180 g",
+      "Zucchero 140 g",
+      "Olio di semi di girasole 80 g",
+      "Fecola di patate 20 g",
+      "Latte intero freddo 40 g",
+      "Uova 2",
+      "Tuorli 1",
+      "Lievito in polvere per dolci 6 g",
+      "Scorza di limone 1",
+      "Confettura di ciliegie 200 g",
+      "Olio di semi di girasole q.b.",
+      "Farina 00 q.b.",
+      "Zucchero a velo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-con-marmellata.html",
+    "image_url": "https://www.giallozafferano.it/images/271-27173/Torta-con-marmellata_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 481.3,
+    "protein": null,
+    "carbs": 75.5,
+    "fats": 17.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00 180 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 140 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi di girasole 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fecola di patate 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte intero freddo 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova 2",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tuorli 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 6 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scorza di limone 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Confettura di ciliegie 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi di girasole q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la torta con marmellata versate in una ciotola le uova, il tuorlo e lo zucchero 1 . Montate con le fruste elettriche per circa 5 minuti sino ad ottenere un composto gonfio, chiaro e spumoso 2 . Aggiungete la farina 3 .",
+      "Unite anche la fecola 4 e incorporatela con le fruste 5 , poi versate l'olio di semi 6 .",
+      "Aggiungete anche il latte freddo 7 , la scorza grattugiata di limone 8 e il lievito in polvere per dolci 9 .",
+      "Lavorate bene con le fruste sino ad ottenere un composto omogeneo e liscio 10 . Prendete una tortiera da 24 cm, imburratela e infarinatela 11 , poi versate l'impasto all'interno 12 . Trasferite in frigorifero per 15 minuti.",
+      "Togliete lo stampo dal frigorifero e aggiungete la confettur a cucchiaiatea 13 , poi cuocete in forno statico preriscaldato a 180° per 35 minuti. Fate sempre la prova dello stecchino per verificare la cottura all'interno. Non appena cotta spegnete il forno e lasciate la torta nel forno con lo sportello aperto per 5 minuti. Poi sfornate, lasciate raffreddare e cospargete la torta con marmellata di zucchero a velo prima di servirla 15 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:46:03.391693+00:00"
+  },
+  {
+    "id": 20159596085883,
+    "name": "Torta 7 vasetti al cacao",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Yogurt bianco naturale 1 vasetto",
+      "Zucchero 2 vasetti",
+      "Farina 00 3 vasetti",
+      "Olio di semi di girasole scarso 1 vasetto",
+      "Cacao amaro in polvere 1/3 di vasetto 40 g",
+      "Uova (3 medie) 165 g",
+      "Lievito in polvere per dolci (1 bustina) 16 g",
+      "Sale fino 1 pizzico",
+      "Burro q.b.",
+      "Farina 00 q.b.",
+      "Zucchero a velo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-7-vasetti-al-cacao.html",
+    "image_url": "https://www.giallozafferano.it/images/328-32875/Torta-7-vasetti-al-cacao_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 387.1,
+    "protein": null,
+    "carbs": 52.1,
+    "fats": 18.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Yogurt bianco naturale 1 vasetto",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 2 vasetti",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 3 vasetti",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi di girasole scarso 1 vasetto",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cacao amaro in polvere 1/3 di vasetto 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova (3 medie) 165 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci (1 bustina) 16 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la torta 7 vasetti al cacao iniziate versando lo zucchero in una ciotola 1 , unite l'olio 2 e poi le uova 3 .",
+      "Versate anche lo yogurt 4 e azionate le fruste 5 finché il composto non sarà chiaro e spumoso (ci vorranno circa 10 minuti) 6 .",
+      "Trascorso il tempo indicato,  setacciate direttamente nella ciotola la farina 7 , il cacao 8 e il lievito per dolci, quindi aggiungete anche il sale 9 .",
+      "Mescolate per pochi istanti con le fruste, così da ottenere un impasto senza grumi e omogeneo 10 , trasferitelo in uno stampo da 22 cm imburrato e infarinato 11 . Cuocete in forno statico preriscaldato a 180°, per circa 40 minuti, e quando la torta 7 vasetti al cacao sarà fredda potrete sformarla. Spolverate, a piacere, con zucchero a velo 12 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:46:06.020675+00:00"
+  },
+  {
+    "id": 28394982502732,
+    "name": "Torta 5 minuti",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Mandorle pelate 200 g",
+      "Farina 00 200 g",
+      "Burro 200 g",
+      "Zucchero 200 g",
+      "Uova medie 3",
+      "Grand Marnier 80 g",
+      "Scorza di limone 1",
+      "Lievito in polvere per dolci 10 g",
+      "Sale fino 1 pizzico",
+      "Zucchero a velo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-5-minuti.html",
+    "image_url": "https://www.giallozafferano.it/images/167-16759/Torta-5-minuti_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 565.2,
+    "protein": null,
+    "carbs": 51.5,
+    "fats": 34.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Mandorle pelate 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova medie 3",
+        null,
+        "da fonte"
+      ],
+      [
+        "Grand Marnier 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scorza di limone 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare la torta 5 minuti preriscaldate il forno statico a 180°, poi prendete un robot da cucina e versate all’interno tutti gli ingredienti: la farina setacciata 1 , lo zucchero semolato 2 , le mandorle intere pelate 3",
+      "il burro tagliato a pezzetti 4 , le 3 uova intere 5 , il levito chimico per dolci 6",
+      "Un pizzico di sale 7 , grattugiate la scorza di limone 8 per profumare l’impasto e aromatizzate con il Grand Marnier. Frullate tutto fino a quando non otterrete un composto omogeneo, l’impasto deve risultare abbastanza compatto. Imburrate e foderate con carta da forno una tortiera del diametro di 24 cm, versate all’interno l’impasto con un cucchiaio 9",
+      "Distribuite il composto nella teglia in modo uniforme e livellate la superficie con una spatola 10 . Cuocete la torta nel forno già caldo a 180° per 50 minuti (potete provare a cuocere in forno ventilato a 160° per circa 40 minuti, coprendo se necessario la superficie gli ultimi 10 minuti con un foglio di carta alluminio e facendo sempre la prova dello stecchino). Trascorso il tempo di cottura sfornate la teglia 11 , lasciatela intiepidire e poi sformatela e servite la torta 5 minuti spolverizzandola con lo zucchero a velo 12 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:46:08.731843+00:00"
+  },
+  {
+    "id": 94342537379137,
+    "name": "Torta 5 minuti cocco e mirtilli",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 00 210 g",
+      "Zucchero di canna 130 g",
+      "Mirtilli 130 g",
+      "Olio di cocco 120 g",
+      "Latte intero 110 g",
+      "Cocco rapè 90 g",
+      "Uova 3",
+      "Lievito in polvere per dolci 10 g",
+      "Sale fino 1 pizzico",
+      "Zucchero a velo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-5-minuti-cocco-e-mirtilli.html",
+    "image_url": "https://www.giallozafferano.it/images/364-36400/Torta-5-minuti-cocco-e-mirtilli_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 511.4,
+    "protein": null,
+    "carbs": 56.5,
+    "fats": 28.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00 210 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero di canna 130 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mirtilli 130 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di cocco 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte intero 110 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cocco rapè 90 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova 3",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la torta cocco e mirtilli, per prima cosa scaldate l’olio di cocco e lasciatelo intiepidire. Intanto versate in una ciotola le uova, lo zucchero di canna 1 e il sale 2 , poi lavorate con una frusta a mano fino a sciogliere completamente lo zucchero 3 .",
+      "Unite l’olio di cocco intiepidito 4 e mescolate ancora. Setacciate il lievito 5 e la farina direttamente nella ciotola, aggiungendoli poco per volta 6 .",
+      "Amalgamate le polveri con la frusta 7 , alternandole con il latte 8 . Incorporate anche il cocco rapé 9 .",
+      "In ultimo unite i mirtilli 10 e mescolate delicatamente con una marisa 11 per ottenere un impasto omogeneo 12 .",
+      "Versate l’impasto in uno stampo del diametro di 20 cm, imburrato e infarinato 13 . Cuocete in forno statico preriscaldato a 180ç per circa 40 minuti. Fate la prova stecchino prima di sfornare, poi lasciate raffreddare completamente la torta nello stampo. Una volta raffreddata, spolverizzate con zucchero a velo a piacere 14 . La vostra torta 5 minuti cocco e mirtilli è pronta per essere gustata 15 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:46:11.457560+00:00"
+  },
+  {
+    "id": 147298971437633,
+    "name": "Torta 5 minuti allo yogurt greco",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Yogurt greco 5% di grassi 500 g",
+      "Estratto di vaniglia q.b.",
+      "Zucchero 150 g",
+      "Uova (2 medie) 110 g",
+      "Olio di semi di girasole 60 g",
+      "Farina 00 230 g",
+      "Lievito in polvere per dolci 16 g",
+      "Sale fino 1 pizzico",
+      "Zucchero a velo 10 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-5-minuti-allo-yogurt-greco.html",
+    "image_url": "https://www.giallozafferano.it/images/364-36463/Torta-5-minuti-allo-yogurt-greco_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 324.5,
+    "protein": null,
+    "carbs": 44.6,
+    "fats": 12.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Yogurt greco 5% di grassi 500 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Estratto di vaniglia q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova (2 medie) 110 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi di girasole 60 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 230 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 16 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo 10 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la torta 5 minuti allo yogurt greco versate in una ciotola le uova, lo zucchero 1 e l'estratto di vaniglia 2 . Lavorate il composto con una frusta a mano 3 .",
+      "Unite l'olio di semi versandolo a filo 4 , continuando a mescolare per incorporarlo perfettamente. Aggiungete quindi lo yogurt greco 5 e mescolate ancora con la frusta amalgamando bene tutti gli ingredienti 6 .",
+      "Aggiungete un pizzico di sale 7 e la farina 8 , meglio se setacciata. Mescolate sino ad ottenere un composto privo di grumi 9 .",
+      "Aggiungete in ultimo il lievito per dolci 19 , mescolando con cura fino a ottenere un impasto liscio e senza grumi 12 . Foderate una tortiera da 20 cm con carta forno e versatevi l'impasto all'interno 12 .",
+      "Livellate delicatamente la superficie con una spatola 13 . Cuocete in forno statico preriscaldato a 170°C, posizionando lo stampo sul ripiano centrale, per 60 minuti. Prima di sfornare eseguite la prova dello stecchino: se esce asciutto, la torta è pronta. Lasciate raffreddare completamente la torta nello stampo o su una gratella, quindi trasferitela su un piatto da portata e completate con una leggera spolverata di zucchero a velo 14 prima di servirla 15 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:46:14.069953+00:00"
+  },
+  {
+    "id": 32919346764472,
+    "name": "Torta 5 minuti allo yogurt e cacao",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 00 180 g",
+      "Cacao amaro in polvere 35 g",
+      "Zucchero 160 g",
+      "Yogurt bianco naturale 125 g",
+      "Olio extravergine d'oliva 80 g",
+      "Uova medie, a temperatura ambiente 2",
+      "Lievito in polvere per dolci 16 g",
+      "Estratto di vaniglia q.b.",
+      "Sale fino 2 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-5-minuti-allo-yogurt-e-cacao.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36606/Torta-5-minuti-allo-yogurt-e-cacao_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 288.2,
+    "protein": null,
+    "carbs": 41.0,
+    "fats": 12.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00 180 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cacao amaro in polvere 35 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 160 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Yogurt bianco naturale 125 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova medie, a temperatura ambiente 2",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 16 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Estratto di vaniglia q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 2 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la torta 5 minuti allo yogurt e cacao versate le uova a temperatura ambiente e lo zucchero semolato in una ciotola capiente 1 . Unite anche l'estratto di vaniglia 2 e lavorate il tutto con le fruste elettriche 3 fino a ottenere un composto chiaro, gonfio e arioso.",
+      "Aggiungete l’olio extravergine di oliva 4 , il sale 5 e lo yogurt intero naturale 6 . Continuate a lavorare il composto con le fruste elettriche per circa 1 minuto, in modo da amalgamare tutti gli ingredienti.",
+      "Spegnete le fruste e unite quindi gli ingredienti secchi: la farina 00 7 , il cacao amaro 8 e il lievito 9 .",
+      "Lavorate nuovamente con le fruste elettriche fino al completo assorbimento delle polveri 10 . Dovrete ottenere un impasto liscio, omogeneo e senza residui di farina 11 . Ungete e infarinate uno stampo rotondo da 22 cm di diametro e versate al suo interno l’impasto 12 . Distribuitelo uniformemente nello stampo.",
+      "Cuocete la torta in forno statico preriscaldato a 180°C per circa 35 minuti, posizionandola sul ripiano medio-basso del forno. Al termine della cottura, sfornate la torta 13 e lasciatela intiepidire prima di sformarla 14 . La torta 5 minuti allo yogurt e cacao è pronta da servire 15 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:46:16.769819+00:00"
+  },
+  {
+    "id": 66219501729955,
+    "name": "Torta 5 minuti alle fragole",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Fragole 350 g",
+      "Farina 00 250 g",
+      "Latte intero a temperatura ambiente 125 g",
+      "Uova a temperatura ambiente 3",
+      "Zucchero 125 g",
+      "Burro fuso 125 g",
+      "Baccello di vaniglia 1",
+      "Lievito in polvere per dolci 10 g",
+      "Zucchero q.b.",
+      "Zucchero a velo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-5-minuti-alle-fragole.html",
+    "image_url": "https://www.giallozafferano.it/images/362-36217/Torta-5-minuti-alle-fragole_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 459.2,
+    "protein": null,
+    "carbs": 60.1,
+    "fats": 20.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fragole 350 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte intero a temperatura ambiente 125 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova a temperatura ambiente 3",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 125 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro fuso 125 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Baccello di vaniglia 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la torta 5 minuti alle fragole, iniziate staccando le foglioline dalle fragole 1 poi riducetene 300 g a piccoli cubetti 2 e il resto a fettine per decorare la superficie. A questo punto dedicatevi all'impasto: in una ciotola capiente versate le uova intere con lo zucchero 3 .",
+      "Mescolate con la frusta 4 senza montare, quindi unite il burro fuso intiepidito 5 e i semi del baccello di vaniglia 6 .",
+      "Incorporate farina e lievito insieme attraverso un colino 7 per eliminare grumi e mescolate 8 alternando alle polveri anche il latte a filo 9 .",
+      "Quando la base sarà liscia 10 , aggiungete delicatamente i cubetti di fragola 11 e mescolate per distribuirli uniformemente 12 .",
+      "Versate il tutto in uno stampo da 20 cm 13 che avrete precedentemente imburrato e infarinato 14 . Completate il dolce disponendo sulla superficie le fragole a fettine e rifinite con una spolverata di zucchero 15 . Infine, cuocete in forno statico preriscaldato a 180 gradi per circa 45 o 50 minuti.",
+      "Una volta cotta 16 , lasciatela intiepidire prima di servirla, quindi spolverizzatela a piacere con zucchero e Velo 17 . La torta 5 minuti alle fragole è pronta per essere gustata 18 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:46:19.512207+00:00"
+  },
+  {
+    "id": 7941019845980,
+    "name": "Torta 5 minuti alla ricotta",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Ricotta vaccina 200 g",
+      "Farina 00 200 g",
+      "Zucchero 200 g",
+      "Burro 200 g",
+      "Uova 3",
+      "Lievito in polvere per dolci 10 g",
+      "Sale fino 1 pizzico",
+      "Scorza d'arancia 1",
+      "Rum 30 g",
+      "Pistacchi sgusciati 100 g",
+      "Mandorle pelate 100 g",
+      "Panna fresca liquida 200 g",
+      "Cioccolato fondente 140 g",
+      "Burro 20 g",
+      "Granella di pistacchi q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-5-minuti-alla-ricotta.html",
+    "image_url": "https://www.giallozafferano.it/images/207-20713/Torta-5-minuti-alla-ricotta_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 777.7,
+    "protein": null,
+    "carbs": 61.4,
+    "fats": 53.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Ricotta vaccina 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova 3",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scorza d'arancia 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Rum 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pistacchi sgusciati 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mandorle pelate 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Panna fresca liquida 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cioccolato fondente 140 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Granella di pistacchi q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare la torta 5 minuti di ricotta versate tutti gli ingredienti dell’impasto in un mixer: iniziate con la farina e lo zucchero 1 , poi proseguite con il lievito 2 e il sale 3 .",
+      "Aggiungete quindi le mandorle pelate 4 e i pistacchi sgusciati 5 . Incorporate il burro a pezzetti 6",
+      "e le uova intere 7 , poi aromatizzate con il rum 8 e la scorza d’arancia grattugiata 9 . Frullate gli ingredienti fino ad amalgamarli completamente.",
+      "Ora per finire unite la ricotta ben scolata 10 , date ancora un giro di lame per ottenere un impasto omogeno 11 . Imburrate e infarinate uno stampo da 24 cm, versate qui l’impasto 12",
+      "E livellate la superficie con una spatola 13 . Cuocete in forno statico preriscaldato a 180° per 50 minuti. A cottura terminata sfornate la torta 14 e lasciatela intiepidire. Intanto occupatevi della ricopertura: versate la panna in un pentolino 15 e scaldatela fino a sfiorare il bollore.",
+      "A questo punto versate la panna calda sul cioccolato fondente: noi abbiamo usato cioccolato in pepite, se avete una tavoletta di cioccolato fondente potete prima tritarlo 16 . Mescolate con una frusta così da fonderlo e ottenere una crema. Incorporate il burro a pezzetti 17 e mescolate ancora finché non otterrete una salsa fluida 18 .",
+      "Rovesciate il dolce su una gratella e ricopritelo interamente con la salsa al cioccolato 19 . Per finire distribuite sulla superficie la granella di pistacchi 20 . La torta 5 minuti alla ricotta è pronta per essere gustata 21 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:46:22.162732+00:00"
   }
 ]

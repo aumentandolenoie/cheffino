@@ -1581,32 +1581,32 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T15:26:49.030506+00:00",
-    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:47:02.219191+00:00",
+    "images_import_version": 6,
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_1-3.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_4-6.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_4-6.jpg"
-      ],
-      [
         "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_4-6.jpg"
       ],
       [
         "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_7-9.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_7-9.jpg"
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_22-24.jpg"
       ]
     ],
     "steps_raw": [
@@ -2392,8 +2392,8 @@
         "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T15:27:28.307219+00:00",
-    "images_import_version": 5
+    "step_images_checked_at": "2026-10-10T15:46:58.966635+00:00",
+    "images_import_version": 6
   },
   {
     "id": 1681453928818,
@@ -4168,8 +4168,8 @@
         "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T15:27:25.724748+00:00",
-    "images_import_version": 5
+    "step_images_checked_at": "2026-10-10T15:46:56.320933+00:00",
+    "images_import_version": 6
   },
   {
     "id": 120172866436140,
@@ -5423,8 +5423,8 @@
         "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_18.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T15:27:12.616633+00:00",
-    "images_import_version": 5
+    "step_images_checked_at": "2026-10-10T15:46:25.248590+00:00",
+    "images_import_version": 6
   },
   {
     "id": 195906486229640,
@@ -5828,8 +5828,8 @@
         "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T15:27:10.036052+00:00",
-    "images_import_version": 5
+    "step_images_checked_at": "2026-10-10T15:46:22.613092+00:00",
+    "images_import_version": 6
   },
   {
     "id": 90872653943460,
@@ -8184,8 +8184,8 @@
         "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T15:27:04.860988+00:00",
-    "images_import_version": 5
+    "step_images_checked_at": "2026-10-10T15:46:08.739592+00:00",
+    "images_import_version": 6
   },
   {
     "id": 275941352617638,
@@ -8330,8 +8330,8 @@
         "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_18.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T15:27:02.272500+00:00",
-    "images_import_version": 5
+    "step_images_checked_at": "2026-10-10T15:46:06.032733+00:00",
+    "images_import_version": 6
   },
   {
     "id": 149339473991213,
@@ -10497,23 +10497,23 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T15:26:54.354821+00:00",
-    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:47:07.850765+00:00",
+    "images_import_version": 6,
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_1-3.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_1-3.jpg"
-      ],
-      [
         "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_4-6.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_4-6.jpg"
+        "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_13-15.jpg"
       ]
     ],
     "steps_raw": [
@@ -10792,29 +10792,29 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T15:26:51.635234+00:00",
-    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:47:04.961616+00:00",
+    "images_import_version": 6,
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_4-6.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_4-6.jpg"
       ],
       [
         "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_4-6.jpg"
       ],
       [
         "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_19-21.jpg"
       ]
     ],
     "steps_raw": [
@@ -11258,8 +11258,8 @@
         "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_12.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T15:27:07.449606+00:00",
-    "images_import_version": 5
+    "step_images_checked_at": "2026-10-10T15:46:19.935502+00:00",
+    "images_import_version": 6
   },
   {
     "id": 274823696561498,
@@ -16344,29 +16344,29 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:26:46.417494+00:00",
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:53.569878+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_4-6.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_4-6.jpg"
       ],
       [
         "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_4-6.jpg"
       ],
       [
         "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_19-21.jpg"
       ]
     ],
     "steps_raw": [
@@ -18078,8 +18078,8 @@
       "Condite con olio e pepe, quindi frullate tutto con il mixer a immersione.",
       "Impiattate con la stracciatella frullata e gustate subito la pasta con nduja, mazzancolle e stracciatella."
     ],
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:27:23.138528+00:00"
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:50.886153+00:00"
   },
   {
     "id": 199672550739260,
@@ -19065,26 +19065,26 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:26:43.770426+00:00",
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:48.246912+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_1-3.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_1-3.jpg"
-      ],
-      [
         "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_4-6.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_4-6.jpg"
+        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_7-9.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_4-6.jpg"
+        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_16-18.jpg"
       ]
     ],
     "steps_raw": [
@@ -19620,8 +19620,8 @@
       "Versate la pasta in una pirofila, coprite con la mozzarella rimasta e il Grana Padano DOP grattugiato.",
       "Unite anche le melanzane, spargendole su tutta la superficie. Cuocete in forno preriscaldato a 240 gradi, con la modalità grill, per 10 minuti nel ripiano alto del forno 17. Sfornatela quando sarà ben gratinata e servitela calda o tiepida."
     ],
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:27:15.225746+00:00"
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:27.941917+00:00"
   },
   {
     "id": 261127131530602,
@@ -19735,29 +19735,29 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:26:30.658407+00:00",
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:17.288932+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_4-6.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_4-6.jpg"
       ],
       [
         "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_4-6.jpg"
       ],
       [
         "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_casarecce_al_sugo_di_merluzzo_e_zucchine_nopack_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_19-21.jpg"
       ]
     ],
     "steps_raw": [
@@ -20167,8 +20167,8 @@
       "Aromatizzate con il prezzemolo tritato e mescolate per bene. In ultimo unite le mazzancolle sgusciate e proseguite la cottura per un altro paio di minuti. Impiattate gli spaghetti con le mazzancolle.",
       "Aggiungete ancora sughetto e prezzemolo tritato a piacere. La vostra pasta con mazzancolle è pronta per essere servita!"
     ],
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:27:20.527889+00:00"
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:44.548066+00:00"
   },
   {
     "id": 161880508581250,
@@ -22669,27 +22669,25 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:26:41.161641+00:00",
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:41.828494+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_1-3.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_1-3.jpg"
-      ],
-      [
         "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_4-6.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_4-6.jpg"
+        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_7-9.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_4-6.jpg"
-      ]
+        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_13-15.jpg"
+      ],
+      []
     ],
     "steps_raw": [
       "Per realizzare la pasta con la trota, iniziate ponendo sul fuoco un tegame con abbondante acqua e salate quando bollirà. Nel frattempo preparate tutti gli ingredienti che vi serviranno: pulite e tritate finemente lo scalogno 1 , poi lavate e asciugate la verza, eliminate le foglie più esterne e la costa centrale 2 e tagliate la parte rimanente a listarelle 3 .",
@@ -23677,8 +23675,8 @@
       "Nel frattempo portate a bollore una pentola di acqua salata e cuocete le pappardelle. Scolate la pasta al dente e trasferitela nella padella con i funghi, poi saltate il tutto per un paio di minuti; se necessario, potete aggiungere poca acqua di cottura.",
       "Impiattate e completate con un filo d’olio a crudo e altro prezzemolo a piacere. La vostra pasta con i funghi è pronta per essere servita!"
     ],
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:27:17.933791+00:00"
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:39.120018+00:00"
   },
   {
     "id": 218027136323427,
@@ -25157,13 +25155,13 @@
         "https://ricette.giallozafferano.it/images/ricette/180/18084/18084_pasta_con_funghi_e_fagioli_strip_1-3.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/180/18084/18084_pasta_con_funghi_e_fagioli_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/180/18084/18084_pasta_con_funghi_e_fagioli_strip_1-3.jpg"
-      ],
-      [
         "https://ricette.giallozafferano.it/images/ricette/180/18084/18084_pasta_con_funghi_e_fagioli_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/180/18084/18084_fusilli_no_pack_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/180/18084/18084_pasta_con_funghi_e_fagioli_strip_10-12.jpg"
       ]
     ],
     "steps_raw": [
@@ -25178,8 +25176,8 @@
       "poi versate anche i fagioli precotti e aggiungete 20 g di acqua. Proseguite la cottura per altri 5 minuti e nel frattempo cuocete la pasta al dente e poi scolatela direttamente nel condimento.",
       "Allungate con un mestolo di acqua di cottura e saltate la pasta qualche istante per amalgamare i sapori. Servite subito la vostra pasta con funghi e fagioli."
     ],
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:26:38.468078+00:00"
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:36.274631+00:00"
   },
   {
     "id": 158486475660857,
@@ -25306,8 +25304,8 @@
       "Disponete le carote cercando di non sovrapporle e conditele con un altro filo d’olio. Aggiungete qualche noce di burro a pezzettini e profumate con foglie di salvia spezzettate, poi salate. Cuocete in forno ventilato preriscaldato a 200°C per 15 minuti. A questo punto, sfornate e aggiungete le mandorle tritate. Proseguite la cottura per altri 10 minuti.",
       "Una volta cotte, sfornate e cospargete con il Parmigiano Reggiano DOP grattugiato 11. Le vostre carote arrosto sono pronte per essere servite 12!"
     ],
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:26:25.327013+00:00"
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:11.748343+00:00"
   },
   {
     "id": 91606204057379,
@@ -25756,8 +25754,8 @@
       "Insaporite con qualche goccia di tabasco verde. Scolate la pasta direttamente nella ciotola con il pesto e aggiungete un mestolino di acqua di cottura per amalgamare bene il tutto.",
       "Impiattate la pasta e completate ogni piatto aggiungendo il pane aromatico croccante, una grattugiata di scorza di limone e i tocchetti di gamberi, servite subito in tavola la pasta con pesto di friggitelli e crudo di gamberi."
     ],
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:26:35.862094+00:00"
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:33.583472+00:00"
   },
   {
     "id": 174929307255030,
@@ -25848,10 +25846,10 @@
         "https://ricette.giallozafferano.it/images/ricette/219/21907/21907_carote_arrosto_con_pistacchi_strip_1-3.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/219/21907/21907_carote_arrosto_con_pistacchi_strip_1-3.jpg"
+        "https://ricette.giallozafferano.it/images/ricette/219/21907/21907_carote_arrosto_con_pistacchi_strip_4-6.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/219/21907/21907_carote_arrosto_con_pistacchi_strip_1-3.jpg"
+        "https://ricette.giallozafferano.it/images/ricette/219/21907/21907_carote_arrosto_con_pistacchi_strip_7-9.jpg"
       ]
     ],
     "steps_raw": [
@@ -25864,8 +25862,8 @@
       "Irroratele con olio di oliva e insaporite con il sale. Ora tritate grossolanamente i pistacchi con un coltello.",
       "Aggiungete i pistacchi in ciotola e mescolate per amalgamare tutti gli ingredienti. Foderate con carta forno una teglia e versate qui le carote cercando di distribuirle in modo omogeneo così da facilitare la cottura. Cuocete in forno statico preriscaldato a 220° per 30 minuti. A cottura ultimata sfornate le vostre carote arrostite e lasciatele intiepidire prima di servirle."
     ],
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:26:27.929085+00:00"
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:14.593513+00:00"
   },
   {
     "id": 127641610388941,
@@ -26199,22 +26197,22 @@
         "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_1-3.jpg"
       ],
       [
-        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_1-3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_pasta_con_fiori_di_zucca_e_feta_nopack_strip_4-6.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_pasta_con_fiori_di_zucca_e_feta_nopack_strip_4-6.jpg"
-      ],
-      [
         "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_pasta_con_fiori_di_zucca_e_feta_nopack_strip_4-6.jpg"
       ],
       [
         "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_19-21.jpg"
       ]
     ],
     "steps_raw": [
@@ -26235,8 +26233,8 @@
       "e scolate qui la pasta 16 , versate un mestolo di acqua di cottura 17 , mescolate e saltate la pasta pochissimi istanti a fuoco medio. A cottura ultimata, condite con un filo di olio 18 .",
       "Servite le linguine ben calde guarnendo il piatto con i fiori di zucca saltati insieme ai pomodori secchi 19 e briciole di feta 20 , infine pepate a piacere. Le bavette con fiori di zucca e feta sono pronte per essere gustate 21 ."
     ],
-    "images_import_version": 5,
-    "step_images_checked_at": "2026-10-10T15:26:33.264165+00:00"
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:30.782779+00:00"
   },
   {
     "id": 80566357096493,
@@ -26690,6 +26688,2457 @@
     "needs_review": true,
     "imported_at": "2026-10-10T15:25:46.027798+00:00",
     "repaired_at": "2026-10-10T15:26:04.348060+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 269703861796576,
+    "name": "Carbonara di salmone",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 25,
+    "ingredients_display": [
+      "Spaghetti 320 g",
+      "Filetto di salmone 300 g",
+      "Uova (medio) 1",
+      "Tuorli (di uova medie) 3",
+      "Pecorino Romano DOP da grattugiare 60 g",
+      "Aglio 1 spicchio",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Carbonara-di-salmone.html",
+    "image_url": "https://www.giallozafferano.it/images/222-22293/Carbonara-di-salmone_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 584.7,
+    "protein": null,
+    "carbs": 61.4,
+    "fats": 21.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Spaghetti",
+        320.0,
+        "g"
+      ],
+      [
+        "Filetto di salmone",
+        300.0,
+        "g"
+      ],
+      [
+        "Uova (medio) 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Tuorli (di uova medie) 3",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pecorino Romano DOP da grattugiare",
+        60.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la carbonara di salmone, per prima cosa mettete a bollire una pentola d’acqua per cuocere la pasta. Eliminate la pelle dal filetto di salmone e tagliatelo a cubetti di circa 2 cm per lato. Scaldate l’olio in una padella con lo spicchio d’aglio, poi aggiungete i cubetti di salmone e fateli saltare a fiamma vivace per 2-3 minuti.",
+      "Regolate di sale, rimuovete l’aglio dalla padella e tenete da parte. Nel frattempo l’acqua sarà arrivata a bollore, quindi salate e versate gli spaghetti. Mentre la pasta cuoce, mettete l’uovo e i tuorli in una ciotola e sbatteteli con una forchetta.",
+      "Aggiungete il formaggio grattugiato e il pepe macinato a piacere, poi mescolate ancora per amalgamare il tutto.",
+      "Scolate la pasta al dente e versatela nella padella con il salmone, accendete il fuoco moderato e mescolate brevemente aggiungendo un mestolo dell’acqua di cottura. A questo punto togliete la padella dal fuoco e versate il composto di uova e Pecorino, mescolando velocemente e bene, aggiungendo al bisogno altra acqua di cottura. Insaporite con un’altra macinata di pepe e servite subito la vostra carbonara di salmone!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:13.237408+00:00",
+    "repaired_at": "2026-10-10T15:45:07.360311+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 193659859317810,
+    "name": "Insalata di castagne",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 20,
+    "ingredients_display": [
+      "Castagne precotte 150 g",
+      "Insalata red chard 80 g",
+      "Roquefort 80 g",
+      "Pane 25 g",
+      "Olio extravergine d'oliva 2 cucchiai",
+      "Peperoncino secco 1",
+      "Senape di Digione 2 cucchiai",
+      "Miele 1 cucchiaio",
+      "Succo di limone &frac12;"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-castagne.html",
+    "image_url": "https://www.giallozafferano.it/images/197-19731/Insalata-di-castagne_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 249.5,
+    "protein": null,
+    "carbs": 25.8,
+    "fats": 13.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Castagne precotte",
+        150.0,
+        "g"
+      ],
+      [
+        "Insalata red chard",
+        80.0,
+        "g"
+      ],
+      [
+        "Roquefort",
+        80.0,
+        "g"
+      ],
+      [
+        "Pane",
+        25.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        2.0,
+        "cucchiai"
+      ],
+      [
+        "Peperoncino secco 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Senape di Digione",
+        2.0,
+        "cucchiai"
+      ],
+      [
+        "Miele 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Succo di limone &frac12;",
+        null,
+        "da verificare"
+      ]
+    ],
+    "steps": [
+      "Per preparare l’insalata di castagne partite dai crostini: affettate il pane e poi ottenete dei piccoli cubetti. Spostatevi ai fornelli e scaldate una padella con 1 cucchiaio d’olio.",
+      "Mentre questi dorano in padella aggiungete il peperoncino sbriciolato e lasciate tostare ancora qualche minuto mescolando di tanto in tanto. Una volta pronti, teneteli da parte. Nella stessa padella, aggiungete il secondo cucchiaio di olio, e poi tuffate le castagne precotte.",
+      "Lasciatele saltare per 4-5 minuti affinché dorino e poi mettete anche queste da parte. Passate al dressing per la vostra insalata. Nel boccale di un mixer versate il succo di limone, poi la senape in grani,",
+      "il miele ed emulsionate il tutto con il mixer per ottenere la vostra salsina (11-12).",
+      "Per ultimo tagliate a tocchetti il roquefort, lavate e asciugate bene le foglie di red chard. Passate alla composizione dei piatti 13 : versate l'insalata, guarnite con dei crostini di pane 14 , il formaggio 15 ,",
+      "le castagne 16 e il dressing 17 . Mescolate bene il tutto e la vostra insalata di castagne è pronta: buon appetito 18 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:16.009399+00:00",
+    "repaired_at": "2026-10-10T15:45:28.569965+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 1461431209518,
+    "name": "Porri grigliati",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 40,
+    "ingredients_display": [
+      "Porri da pulire 1 kg",
+      "Olio extravergine d'oliva 6 cucchiai",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Menta 10 foglie",
+      "Prezzemolo 1 ciuffo",
+      "Aneto 2 rametti",
+      "Rosmarino q.b.",
+      "Aceto balsamico q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Porri-grigliati.html",
+    "image_url": "https://www.giallozafferano.it/images/198-19867/Porri-grigliati_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 346.8,
+    "protein": null,
+    "carbs": 38.5,
+    "fats": 21.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Porri da pulire",
+        1.0,
+        "kg"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        6.0,
+        "cucchiai"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Menta",
+        10.0,
+        "foglie"
+      ],
+      [
+        "Prezzemolo 1 ciuffo",
+        null,
+        "da verificare"
+      ],
+      [
+        "Aneto",
+        2.0,
+        "rametti"
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Aceto balsamico",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare i porri grigliati per prima cosa mondate i porri: tagliate via la radice e le foglie più verdi. Praticate una leggera incisione longitudinale per eliminare altri due strati di foglie",
+      "Così da ottenere circa 650 g di cuori di porro teneri. Lavate i porri puliti sotto l’acqua corrente e teneteli da parte. Riempite una casseruola capiente d’acqua e portatela sul fornello. Appena inizia a bollire regolate di sale",
+      "e immergete i porri. Fate cuocere a fuoco medio per circa 15 minuti. Scolate i porri e trasferiteli in uno scolapasta per eliminare l’eccesso di acqua. Scaldate una piastra antiaderente e grigliate i porri, girandoli di tanto in tanto, per circa 10 minuti.",
+      "Quando i porri saranno ben grigliati, sistemate i porri in un piatto da portata. Lavate accuratamente le erbe aromatiche e tritatele finemente su di un tagliere.",
+      "In una ciotola versate l’olio di oliva, regolate di pepe e di sale e unite il trito di erbe aromatiche. Mescolate con una forchetta per emulsionate il condimento.",
+      "Irrorate i porri grigliati prima con l’olio aromatico preparato e poi con l’aceto balsamico. Lasciateli insaporire per almeno 30 minuti in frigo prima di servirli."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:18.810741+00:00",
+    "repaired_at": "2026-10-10T15:45:31.200006+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 168994172408261,
+    "name": "Pasta con fiori di zucca e alici",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 15,
+    "ingredients_display": [
+      "Linguine 320 g",
+      "Fiori di zucca (da pulire) 130 g",
+      "Acciughe sott'olio 30 g",
+      "Aglio 1 spicchio",
+      "Vino bianco 40 g",
+      "Scorza di limone 1",
+      "Olio extravergine d'oliva 20 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-fiori-di-zucca-e-alici.html",
+    "image_url": "https://www.giallozafferano.it/images/361-36171/Pasta-con-fiori-di-zucca-e-alici_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 371.7,
+    "protein": null,
+    "carbs": 61.5,
+    "fats": 7.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Linguine",
+        320.0,
+        "g"
+      ],
+      [
+        "Fiori di zucca (da pulire)",
+        130.0,
+        "g"
+      ],
+      [
+        "Acciughe sott'olio",
+        30.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Vino bianco",
+        40.0,
+        "g"
+      ],
+      [
+        "Scorza di limone 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con fiori di zucca e alici, pulite delicatamente i fiori di zucca rimuovendo il pistillo interno, poi divideteli in petali più piccoli. Ponete sul fuoco una pentola colma di acqua salata e portatela a bollore. Cuocete le linguine per un paio di minuti in meno rispetto al tempo indicato sulla confezione.",
+      "Nel frattempo occupatevi del condimento: in una padella versate un filo d’olio extravergine d’oliva, l'aglio, la scorza di limone e metà delle alici previste nella ricetta.",
+      "Lasciate soffriggere a fuoco dolce per pochi minuti, giusto il tempo di sciogliere le alici, quindi sfumate con il vino bianco. Lasciate evaporare l'alcol e poi unite i fiori di zucca (tenete da parte una piccola manciata da aggiungere alla fine). Regolate di sale e pepe e cuocete per circa 2 minuti. Rimuovete l'aglio dalla padella.",
+      "Scolate la pasta al dente tenendo da parte un po’ di acqua di cottura, trasferitela nella padella con il condimento e portatela a cottura mescolando continuamente. Se necessario, aggiungete un po’ di acqua di cottura per mantenere il fondo cremoso. A questo punto unite altri 3 filetti di alici.",
+      "Incorporate anche i restanti fiori di zucca e mescolate delicatamente per circa un minuto per lasciare insaporire il tutto. Infine, mantecate la pasta con un filo d’olio a crudo e distribuite le linguine nei piatti.",
+      "Guarnite con i filetti di alici rimasti, irrorate con il sughetto e servite subito la vostra pasta con fiori di zucca e alici."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:21.430869+00:00",
+    "repaired_at": "2026-10-10T15:45:10.151574+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 204422253309482,
+    "name": "Carbonara di mare con gamberi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 55,
+    "ingredients_display": [
+      "Spaghetti 320 g",
+      "Tonno 100 g",
+      "Pesce spada 100 g",
+      "Gamberi 12",
+      "Scorza di lime q.b.",
+      "Sale q.b.",
+      "Pepe bianco q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Pecorino 60 g",
+      "Tuorli 4",
+      "Pepe bianco q.b.",
+      "Bottarga di tonno q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Carbonara-di-mare-con-gamberi.html",
+    "image_url": "https://www.giallozafferano.it/images/281-28180/Carbonara-di-mare-con-gamberi_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 564.6,
+    "protein": null,
+    "carbs": 65.4,
+    "fats": 14.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Spaghetti",
+        320.0,
+        "g"
+      ],
+      [
+        "Tonno",
+        100.0,
+        "g"
+      ],
+      [
+        "Pesce spada",
+        100.0,
+        "g"
+      ],
+      [
+        "Gamberi 12",
+        null,
+        "da verificare"
+      ],
+      [
+        "Scorza di lime",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe bianco",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Pecorino",
+        60.0,
+        "g"
+      ],
+      [
+        "Tuorli 4",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pepe bianco",
+        null,
+        "q.b."
+      ],
+      [
+        "Bottarga di tonno",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la carbonara di mare con gamberi, come prima cosa pulite i gamberi. Staccate le teste e tenetele da parte. Eliminate l’intestino e il carapace. Tagliate la polpa a piccoli cubetti.",
+      "Trasferiteli in una ciotola e aggiungete la scorza di lime, un pizzico di sale, pepe bianco e olio. Lasciate marinare.",
+      "Intanto in una ciotola mettete il pecorino, aggiungete del pepe bianco e i tuorli. Amalgamate il tutto e cuocete a bagnomaria.",
+      "In un mixer mettete le teste dei gamberi, aggiungete 20 g di olio, 30 g di acqua e frullate.",
+      "Filtrate il composto con un colino a maglie strette così da ottenere la bisque di gamberi. Tagliate il tonno a cubetti di circa 2 cm.",
+      "Fate lo stesso per il pesce spada. In una padella versate un filo d’olio, aggiungete i cubetti di tonno e pesce spada, aggiustate di sale e pepe. Fate saltare, a fiamma alta, per 2 minuti e tenete da parte.",
+      "Intanto cuocete la pasta in abbondante acqua bollente salata. Nella stessa padella in cui avete cotto il pesce versate la bisque di gamberi, unite la pasta, scolata al dente.",
+      "Versate in padella anche la crema di pecorino e tuorli e saltate per qualche minuto. Aggiungete quindi il tonno e il pesce spada e fate saltare per qualche altro minuto. Se serve potete aggiungere dell’acqua di cottura della pasta per rendere la pasta un po’ più cremosa.",
+      "Impiattate e completate con la tartare di gamberi e una spolverata di bottarga. La vostra carbonara di mare con gamberi è pronta per essere gustata."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:24.246015+00:00",
+    "repaired_at": "2026-10-10T15:45:12.782918+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 134091544552252,
+    "name": "Insalata di carciofi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 30,
+    "ingredients_display": [
+      "Carciofi ( circa 6) 1 kg",
+      "Grana Padano DOP 40 g",
+      "Limoni per l'acqua acidulata 1",
+      "Succo di limone 30 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva 60 g",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-carciofi.html",
+    "image_url": "https://www.giallozafferano.it/images/167-16752/Insalata-di-carciofi_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 335.8,
+    "protein": null,
+    "carbs": 29.6,
+    "fats": 22.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Carciofi ( circa 6)",
+        1.0,
+        "kg"
+      ],
+      [
+        "Grana Padano DOP",
+        40.0,
+        "g"
+      ],
+      [
+        "Limoni per l'acqua acidulata 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Succo di limone",
+        30.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        60.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l’insalata di carciofi iniziate dalla pulizia dei carciofi: per prima cosa preparate l’acqua acidulata per conservare i carciofi senza farli annerire man mano che li pulirete: riempite una ciotola con acqua e spremete all’interno il succo di limone. Eliminate parte del gambo dei carciofi 1 lasciandone un paio di centimetri. Sfogliate gli ortaggi per eliminare le foglie esterne più coriacee, con un coltello tagliate via la punta",
+      "e la parte più esterna del gambo per mantenere l’interno tenero. Ora che siete arrivati al cuore del carciofo, dividetelo in due parti uguali, con l’aiuto di uno spelucchino estraete la peluria interna centrale chiamata barba, affettate sottilmente i carciofi",
+      "e poneteli nella ciotola con acqua acidulata man mano che li tagliate. Una volta terminata la pulizia metteteli a scolare in un colino.Intanto occupatevi del condimento: con una grattugia tagliate a scaglie il Grana Padano e tenetelo da parte.",
+      "Spremete 30 gr di succo di limone e unitelo a 60 gr di olio di oliva, salate, pepate e miscelate l’emulsione con una frusta.Versate i carciofi in una ciotola e insaporiteli con la citronette,",
+      "aggiungete metà delle scaglie di grana, mescolate con un cucchiaio e poi servite l’insalata nei piatti di portata, se preferite adagiandola all’interno di un coppapasta che vi permetterà di mantenere meglio la forma. Sfilate lo stampo delicatamente, terminate guarnendo con le scaglie di Grana avanzate e irrorando l’insalata di carciofi con un filo di olio di oliva a crudo. La vostra croccante insalata di carciofi è pronta per essere portata in tavola!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:26.918421+00:00",
+    "repaired_at": "2026-10-10T15:45:33.825458+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 83042167775928,
+    "name": "Porri al prosciutto",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 35,
+    "ingredients_display": [
+      "Porri 220 g",
+      "Prosciutto crudo 120 g",
+      "Panna fresca liquida a temperatura ambiente 200 g",
+      "Parmigiano Reggiano DOP 30 g",
+      "Burro 20 g",
+      "Farina 00 20 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Porri-al-prosciutto.html",
+    "image_url": "https://www.giallozafferano.it/images/198-19859/Porri-al-prosciutto_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 322.6,
+    "protein": null,
+    "carbs": 13.7,
+    "fats": 24.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Porri",
+        220.0,
+        "g"
+      ],
+      [
+        "Prosciutto crudo",
+        120.0,
+        "g"
+      ],
+      [
+        "Panna fresca liquida a temperatura ambiente",
+        200.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP",
+        30.0,
+        "g"
+      ],
+      [
+        "Burro",
+        20.0,
+        "g"
+      ],
+      [
+        "Farina 00",
+        20.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare i porri al prosciutto per prima cosa spuntate il porro, poi incidetelo nel senso della lunghezza per eliminare le foglie più esterne. Tagliateli in 3 parti uguali, avvolgete intorno a ciascun pezzo una fetta di prosciutto crudo e tenete da parte.",
+      "Intanto occupatevi della crema al Parmigiano: in un pentolino ponete il burro e scioglietelo a fuoco dolce, aggiungete poi la farina setacciata tutta in una volta e mescolate con la frusta energicamente.",
+      "Versate quindi la panna a temperatura ambiente in più volte, salate, pepate",
+      "e aggiungete 25 g di Parmigiano grattugiato, tenendo da parte gli altri 5 g per guarnire alla fine. Mescolate bene tenendo sempre il fuoco medio fino a che la crema si sarà addensata: in totale ci vorranno circa 4 minuti. Versate la crema sul fondo di una pirofila della misura dei porri: noi abbiamo utilizzato una teglia quadrata di 20x20 cm.",
+      "Adagiate quindi i porri, guarnite con il restante parmigiano grattugiato tenuto da parte e cuocete in forno statico preriscaldato a 180° per 18 minuti, i restanti 2 minuti passate alla modalità grill a 240°. Una volta che si sarà formata la crosticina i porri al prosciutto saranno pronti per essere serviti."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:29.711467+00:00",
+    "repaired_at": "2026-10-10T15:45:36.457328+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 189601898418918,
+    "name": "Pasta con feta e spinaci al forno",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 50,
+    "ingredients_display": [
+      "Mezze Maniche Rigate 320 g",
+      "Spinaci 200 g",
+      "Feta 200 g",
+      "Ricotta vaccina 150 g",
+      "Parmigiano Reggiano DOP da grattugiare 50 g",
+      "Aglio 1 spicchio",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-feta-e-spinaci-al-forno.html",
+    "image_url": "https://www.giallozafferano.it/images/253-25307/Pasta-con-feta-e-spinaci-al-forno_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 574.9,
+    "protein": null,
+    "carbs": 66.9,
+    "fats": 22.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Mezze Maniche Rigate",
+        320.0,
+        "g"
+      ],
+      [
+        "Spinaci",
+        200.0,
+        "g"
+      ],
+      [
+        "Feta",
+        200.0,
+        "g"
+      ],
+      [
+        "Ricotta vaccina",
+        150.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP da grattugiare",
+        50.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare la pasta con feta e spinaci al forno per prima cosa lavate gli spinaci ed eliminate la parte finale del gambo. Versate gli spinaci in una padella con un giro d’olio e uno spicchio d’aglio schiacciato. Coprite con il coperchio e cuocete per 10 minuti. Intanto mettete sul fuoco una pentola con l’acqua per cuocere la pasta.",
+      "Quando gli spinaci saranno appassiti, rimuovete l’aglio dalla padella e tenete da parte. A questo punto l’acqua sarà arrivata a bollore, quindi salate e cuocete la pasta molto al dente. Nel frattempo sbriciolate la feta con le mani.",
+      "Scolate la pasta in una ciotola, poi aggiungete gli spinaci, la feta e 30 g di Parmigiano Reggiano DOP grattugiato.",
+      "Dopo aver mescolato, unite anche la ricotta e un mestolo di acqua di cottura della pasta. Amalgamate bene il tutto. Ungete una pirofila con l’olio e versate la pasta così condita all’interno.",
+      "Distribuitela uniformemente con un cucchiaio e spolverizzate con i restanti 20 g di Parmigiano Reggiano DOP grattugiato, poi condite con un filo d’olio. Cuocete in forno ventilato preriscaldato a 180° per 30 minuti fino a quando la superficie sarà bella dorata. Sfornate e gustate la vostra pasta con feta e spinaci al forno."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T15:44:32.988779+00:00",
+    "repaired_at": "2026-10-10T15:45:15.411050+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/253/25307/pasta-con-feta-e-spinaci-al-forno_15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la pasta con feta e spinaci al forno per prima cosa lavate gli spinaci ed eliminate la parte finale del gambo 1 . Versate gli spinaci in una padella con un giro d’olio e uno spicchio d’aglio schiacciato 2 . Coprite con il coperchio 3 e cuocete per 10 minuti. Intanto mettete sul fuoco una pentola con l’acqua per cuocere la pasta.",
+      "Quando gli spinaci saranno appassiti, rimuovete l’aglio dalla padella e tenete da parte 4 . A questo punto l’acqua sarà arrivata a bollore, quindi salate e cuocete la pasta molto al dente 5 . Nel frattempo sbriciolate la feta con le mani 6 .",
+      "Scolate la pasta in una ciotola, poi aggiungete gli spinaci 7 , la feta 8 e 30 g di Parmigiano Reggiano DOP grattugiato 9 .",
+      "Dopo aver mescolato, unite anche la ricotta 10 e un mestolo di acqua di cottura della pasta. Amalgamate bene il tutto 11 . Ungete una pirofila con l’olio e versate la pasta così condita all’interno 12 .",
+      "Distribuitela uniformemente con un cucchiaio e spolverizzate con i restanti 20 g di Parmigiano Reggiano DOP grattugiato 13 , poi condite con un filo d’olio 14 . Cuocete in forno ventilato preriscaldato a 180° per 30 minuti fino a quando la superficie sarà bella dorata. Sfornate e gustate la vostra pasta con feta e spinaci al forno 15 ."
+    ],
+    "steps_clean": [
+      "Per realizzare la pasta con feta e spinaci al forno per prima cosa lavate gli spinaci ed eliminate la parte finale del gambo. Versate gli spinaci in una padella con un giro d’olio e uno spicchio d’aglio schiacciato. Coprite con il coperchio e cuocete per 10 minuti. Intanto mettete sul fuoco una pentola con l’acqua per cuocere la pasta.",
+      "Quando gli spinaci saranno appassiti, rimuovete l’aglio dalla padella e tenete da parte. A questo punto l’acqua sarà arrivata a bollore, quindi salate e cuocete la pasta molto al dente. Nel frattempo sbriciolate la feta con le mani.",
+      "Scolate la pasta in una ciotola, poi aggiungete gli spinaci, la feta e 30 g di Parmigiano Reggiano DOP grattugiato.",
+      "Dopo aver mescolato, unite anche la ricotta e un mestolo di acqua di cottura della pasta. Amalgamate bene il tutto. Ungete una pirofila con l’olio e versate la pasta così condita all’interno.",
+      "Distribuitela uniformemente con un cucchiaio e spolverizzate con i restanti 20 g di Parmigiano Reggiano DOP grattugiato, poi condite con un filo d’olio. Cuocete in forno ventilato preriscaldato a 180° per 30 minuti fino a quando la superficie sarà bella dorata. Sfornate e gustate la vostra pasta con feta e spinaci al forno."
+    ],
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:03.343266+00:00"
+  },
+  {
+    "id": 135714182692130,
+    "name": "Cappellacci con gamberi e carciofi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 120,
+    "ingredients_display": [
+      "Farina 00 300 g",
+      "Spinaci (lessati e strizzati) 100 g",
+      "Uova 2",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Gamberi 14",
+      "Carciofi 4",
+      "Patate 1",
+      "Cipolle dorate 1",
+      "Sedano 1 costa",
+      "Carote 1",
+      "Concentrato di pomodoro 1 cucchiaio",
+      "Cognac 30 g",
+      "Aglio 1 spicchio",
+      "Maggiorana q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Pepe bianco q.b.",
+      "Sale fino q.b.",
+      "Ghiaccio q.b.",
+      "Acqua fredda q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Cappellacci-con-gamberi-e-carciofi.html",
+    "image_url": "https://www.giallozafferano.it/images/270-27064/Cappellacci-con-gamberi-e-carciofi_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 511.4,
+    "protein": null,
+    "carbs": 80.1,
+    "fats": 11.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00",
+        300.0,
+        "g"
+      ],
+      [
+        "Spinaci (lessati e strizzati)",
+        100.0,
+        "g"
+      ],
+      [
+        "Uova 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Gamberi 14",
+        null,
+        "da verificare"
+      ],
+      [
+        "Carciofi 4",
+        null,
+        "da verificare"
+      ],
+      [
+        "Patate 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cipolle dorate 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sedano 1 costa",
+        null,
+        "da verificare"
+      ],
+      [
+        "Carote 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Concentrato di pomodoro 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cognac",
+        30.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Maggiorana",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe bianco",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Ghiaccio",
+        null,
+        "q.b."
+      ],
+      [
+        "Acqua fredda",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare i cappellacci con gamberi e carciofi per prima cosa occupatevi della pasta fresca all'uovo agli spinaci: sbollentateli in acqua bollente salata, il tempo necessario ad ammorbidirli. Scolateli e trasferiteli in una ciotola con acqua e ghiaccio per mantenere vivo il colore verde. Strizzateli con un colino.",
+      "Trasferite gli spinaci in una brocca, aggiungete le uova, sale e un filo d'olio. Frullate con il mixer a immersione per ottenere una crema. Sulla spianatoia versate la farina a fontana, al centro ponete la crema di spinaci.",
+      "Mescolate prima con la forchetta poi proseguite a mano fino ad ottenere un panetto omogeneo e compatto. Coprite con pellicola e lasciate in frigo per 30 minuti. Occupatevi intanto del ripieno: lessate la patata finché non sarà morbida.",
+      "Pulite i gamberi e conservate gli scarti. In una pentola fate rosolare un giro d'olio con un trito grossolano di carota, cipolla e sedano. Unite gli scarti della pulizia dei gamberi.",
+      "Aggiungete la maggiorana e un cucchiaio di concentrato di pomodoro. Tostate il tutto, poi sfumate con il cognac e, se preferite, potete anche fiammeggiare con cautela. Coprite con acqua fredda e ghiaccio.",
+      "Cuocete il fumetto per 25 minuti a fiamma bassa. Poi filtratelo attraverso un colino 7 e rimettetelo sul fuoco dolce 18 finché non si sarà ristretto, ci vorranno almeno 20 minuti.",
+      "Ora pulite i carciofi: separate il gambo 19 , eliminate le foglie esterne più dure e con un coltellino pelate la parte esterna coriacea 20 . Tagliate a spicchi i cuori 21 ed estraete la barbetta interna.",
+      "Pelate anche il gambo e riducetelo a pezzetti 22 . Conservate i carciofi pulite in acqua e limone, così non anneriranno 23 . In una padella scaldate un giro d'olio con uno spicchio d'aglio schiacciato, versate i carciofi 24 .",
+      "Aggiungete il sale 25  e il pepe bianco, poi fateli saltare per una decina di minuti per ammorbidirli, aggiungendo un goccio d'acqua se necessario. Tritate i gamberi puliti 26 e i carciofi cotti 27 .",
+      "Con lo schiacciapatate riducete a purea la patata lessata precedentemente 28 , unite gamberi e carciofi 29 , sale, pepe bianco 30 e un filo d'olio, poi mescolate per amalgamare.",
+      "Trasferite il ripieno in un sac-à-poche 32 . Recuperate la pasta, infarinatela leggermente 32 e passatela nella sfogliatrice 33 partendo dallo spessore più largo fino ad arrivare a uno spessore di circa 2-3 mm.",
+      "Ritaglia dei quadrati di circa 6x6 cm 34 . Farcisci con il ripieno 35 spremendo delle palline di impasto. Ora chiudete la pasta facendo combaciare gli angoli, così da ottenere un triangolo 36 .",
+      "Ripiegate i due lembi verso il centro e unite le due estremità 37 . Nel frattempo fate bollire l'acqua per la pasta. Trasferite il fumetto ristretto in una padella larga con un mestolo di acqua di cottura dei cappellacci. Lessate i cappellacci finché non risaliranno a galla 39 , basteranno pochi minuti.",
+      "Scolate i ravioli in padella con il condimento 40 e saltateli brevemente, poi spegnete il fuoco e mantecate con un filo d'olio 41 . Servite i vostri cappellacci con gamberi e carciofi profumando i piatti con foglioline di maggiorana fresca 42 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:36.656452+00:00",
+    "repaired_at": "2026-10-10T15:45:39.087196+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 268114214383412,
+    "name": "Insalata di calamari",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 30,
+    "ingredients_display": [
+      "Calamari (già puliti) 350 g",
+      "Pomodorini ciliegino 250 g",
+      "Carote (medie) 2",
+      "Olive nere infornate 80 g",
+      "Mandorle in scaglie 30 g",
+      "Succo di limone &frac12;",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Peperoncino in polvere 1 pizzico",
+      "Menta q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Succo di limone &frac12;",
+      "Menta q.b.",
+      "Prezzemolo q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-calamari.html",
+    "image_url": "https://www.giallozafferano.it/images/222-22273/Insalata-di-calamari_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 233.1,
+    "protein": null,
+    "carbs": 13.0,
+    "fats": 13.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Calamari (già puliti)",
+        350.0,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        250.0,
+        "g"
+      ],
+      [
+        "Carote (medie) 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olive nere infornate",
+        80.0,
+        "g"
+      ],
+      [
+        "Mandorle in scaglie",
+        30.0,
+        "g"
+      ],
+      [
+        "Succo di limone &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Peperoncino in polvere 1 pizzico",
+        null,
+        "da verificare"
+      ],
+      [
+        "Menta",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Succo di limone &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Menta",
+        null,
+        "q.b."
+      ],
+      [
+        "Prezzemolo",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'insalata di calamari cominciate dalla pulizia di questi ultimi. Noi usiamo quelli già eviscerati, ma nella scuola di cucina trovate come si fa a pulirli per intero. Quindi procedete togliendo la pelle e tagliando le ventose più grosse. Poi tagliate ad anelli grossi un paio di cm e sminuzzate i tentacoli. Raccogliete i pezzi in un recipiente e versate un po' d'olio,",
+      "un pizzico di sale e uno di peperoncino in polvere, qualche fogliolina di menta, il succo di mezzo limone e mescolate bene il tutto. Lasciate marinare per una ventina di minuti. Intanto procedete con gli altri ingredienti. Dopo aver pulito i pomodorini tagliateli in quarti.",
+      "Mondate le carote, mondatele e affettatele, infine tostate in padella per qualche istante le mandorle in lamelle facendo attenzione che non brucino; mettetele da parte poi. Bene a questo punto i calamari si saranno insaporiti per bene. Arroventate una griglia e poi versateli su.",
+      "Lasciateli cuocere pochi minuti rigirando quando si sarà formata la crosticina. Trasferite i calamari cotti in una pirofia e aggiungete i pomodorini, le carote, le olive nere denocciolate.",
+      "Preparate la citronette versando in una ciotola dell'olio e il succo di mezzo limone (usate come proporzione pari quantità dei due liquidi), aggiungete un po' di prezzemolo sminuzzato con qualche foglia di menta, un bel pizzico di sale ed emulsionate il tutto.",
+      "Versate l'emulsione nella pirofila e mescolate bene. Guarnite infine con le scaglie di mandorle e la vostra insalata di calamari è pronta da gustare."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:39.279467+00:00",
+    "repaired_at": "2026-10-10T15:45:41.714799+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 137721317536781,
+    "name": "Porco assado con patate",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 120,
+    "ingredients_display": [
+      "Spalla di maiale o lonza 1,5 kg",
+      "Aglio 4 spicchi",
+      "Rosmarino 2 rametti",
+      "Salvia q.b.",
+      "Olio extravergine d'oliva 200 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Vino bianco 200 g",
+      "Patate 1 kg",
+      "Olio extravergine d'oliva 50 g",
+      "Paprika dolce 1 cucchiaino",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Rosmarino 2 rametti"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Porco-assado-con-patate.html",
+    "image_url": "https://www.giallozafferano.it/images/332-33216/Porco-assado-con-patate_650x433_wm.jpg",
+    "servings": 6,
+    "kcal": 1126.5,
+    "protein": null,
+    "carbs": 32.5,
+    "fats": 87.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Spalla di maiale o lonza",
+        1.5,
+        "kg"
+      ],
+      [
+        "Aglio",
+        4.0,
+        "spicchi"
+      ],
+      [
+        "Rosmarino",
+        2.0,
+        "rametti"
+      ],
+      [
+        "Salvia",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        200.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Vino bianco",
+        200.0,
+        "g"
+      ],
+      [
+        "Patate",
+        1.0,
+        "kg"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        50.0,
+        "g"
+      ],
+      [
+        "Paprika dolce 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Rosmarino",
+        2.0,
+        "rametti"
+      ]
+    ],
+    "steps": [
+      "Per preparare il porco assado con patate, come prima cosa sistemate su un tagliere l'aglio, il rosmarino e la salvia e tritate il tutto finemente. Prendete la carne di maiale e legatela come se fosse un arrosto; potete seguire la nostra scheda di cucina come legare l'arrosto, o farlo fare al vostro macellaio di fiducia.",
+      "Trasferite l'arrosto su una teglia con carta forno e cospargete la carne con il trito d’erbe, poi condite con sale, pepe e olio.",
+      "Massaggiate bene la carne, versate il vino bianco sul fondo della teglia e copritela con un foglio di carta forno.",
+      "Coprite la teglia anche con un foglio di alluminio e infornate per circa un'ora a 180°C nel forno preriscaldato in modalità ventilata. Nel frattempo pelate le patate e tagliatele a spicchi.",
+      "In una ciotola, condite le patate con sale, rosmarino, paprika e pepe nero macinato.",
+      "Aggiungete l'olio d’oliva e mescolate bene. Dopo un’ora di cottura della carne, sfornate e aggiungete le patate intorno.",
+      "Continuate la cottura per altri 30-40 minuti, senza coprire la teglia, fino a quando le patate saranno dorate e croccanti. Una volta cotto, lasciate riposare il maiale per 10-15 minuti prima di affettarlo. Servite il porco assado con le patate ben caldo!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:42.070635+00:00",
+    "repaired_at": "2026-10-10T15:45:44.346516+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 155499732459259,
+    "name": "Pasta con feta e pomodorini al forno",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 35,
+    "ingredients_display": [
+      "Mezze Maniche Rigate 320 g",
+      "Pomodorini ciliegino 400 g",
+      "Feta 200 g",
+      "Olive taggiasche denocciolate 50 g",
+      "Basilico q.b.",
+      "Origano secco q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-feta-e-pomodorini-al-forno.html",
+    "image_url": "https://www.giallozafferano.it/images/234-23442/Pasta-con-feta-e-pomodorini-al-forno_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 501.0,
+    "protein": null,
+    "carbs": 70.3,
+    "fats": 16.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Mezze Maniche Rigate",
+        320.0,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        400.0,
+        "g"
+      ],
+      [
+        "Feta",
+        200.0,
+        "g"
+      ],
+      [
+        "Olive taggiasche denocciolate",
+        50.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ],
+      [
+        "Origano secco",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con feta e pomodorini al forno mettete in una teglia la feta intera, versate i pomodorini lavati e asciugati e insaporite con le foglioline di basilico fresco.",
+      "Irrorate il tutto con olio di oliva e insaporite con pepe nero. Cuocete in forno ventilato preriscaldato a 200° per 25 minuti. Nel frattempo ponete una pentola con acqua sul fuoco e, quando raggiungerà il bollore, salate e lessate la pasta al dente.",
+      "Intanto sfornate la teglia, scolate qui la pasta e unite le olive denocciolate.",
+      "Mescolate tutto per amlgamare i sapori e sbriciolare la feta. Per finire completate con l’origano secco a piacere. Servite subito la pasta con feta e pomodorini al forno."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T15:44:44.738635+00:00",
+    "repaired_at": "2026-10-10T15:45:18.040762+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23442/pasta-con-feta-e-pomodorini-al-forno_12.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con feta e pomodorini al forno mettete in una teglia la feta intera 1 , versate i pomodorini lavati e asciugati 2 e insaporite con le foglioline di basilico fresco 3 .",
+      "Irrorate il tutto con olio di oliva 4 e insaporite con pepe nero 5 . Cuocete in forno ventilato preriscaldato a 200° per 25 minuti. Nel frattempo ponete una pentola con acqua sul fuoco e, quando raggiungerà il bollore, salate e lessate la pasta al dente 6 .",
+      "Intanto sfornate la teglia 7 , scolate qui la pasta 8 e unite le olive denocciolate 9 .",
+      "Mescolate tutto per amlgamare i sapori 10 e sbriciolare la feta. Per finire completate con l’origano secco a piacere 11 . Servite subito la pasta con feta e pomodorini al forno 12 ."
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con feta e pomodorini al forno mettete in una teglia la feta intera, versate i pomodorini lavati e asciugati e insaporite con le foglioline di basilico fresco.",
+      "Irrorate il tutto con olio di oliva e insaporite con pepe nero. Cuocete in forno ventilato preriscaldato a 200° per 25 minuti. Nel frattempo ponete una pentola con acqua sul fuoco e, quando raggiungerà il bollore, salate e lessate la pasta al dente.",
+      "Intanto sfornate la teglia, scolate qui la pasta e unite le olive denocciolate.",
+      "Mescolate tutto per amlgamare i sapori e sbriciolare la feta. Per finire completate con l’origano secco a piacere. Servite subito la pasta con feta e pomodorini al forno."
+    ],
+    "images_import_version": 6,
+    "step_images_checked_at": "2026-10-10T15:46:00.657212+00:00"
+  },
+  {
+    "id": 256617625722367,
+    "name": "Caponata di pesce spada",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 40,
+    "ingredients_display": [
+      "Pesce spada 300 g",
+      "Pomodori pelati 400 g",
+      "Melanzane 2",
+      "Cipolle bianche 1",
+      "Sedano 2 coste",
+      "Olive verdi 100 g",
+      "Capperi sotto sale dissalati 30 g",
+      "Pinoli 15 g",
+      "Zucchero 30 g",
+      "Basilico q.b.",
+      "Aceto balsamico 2 cucchiai",
+      "Olio extravergine d'oliva 1 cucchiaio",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Olio di semi di arachide 1,5 l"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Caponata-di-pesce-spada.html",
+    "image_url": "https://www.giallozafferano.it/images/304-30430/Caponata-di-pesce-spada_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 934.7,
+    "protein": null,
+    "carbs": 28.9,
+    "fats": 85.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pesce spada",
+        300.0,
+        "g"
+      ],
+      [
+        "Pomodori pelati",
+        400.0,
+        "g"
+      ],
+      [
+        "Melanzane 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cipolle bianche 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sedano 2 coste",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olive verdi",
+        100.0,
+        "g"
+      ],
+      [
+        "Capperi sotto sale dissalati",
+        30.0,
+        "g"
+      ],
+      [
+        "Pinoli",
+        15.0,
+        "g"
+      ],
+      [
+        "Zucchero",
+        30.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ],
+      [
+        "Aceto balsamico",
+        2.0,
+        "cucchiai"
+      ],
+      [
+        "Olio extravergine d'oliva 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio di semi di arachide",
+        1.5,
+        "l"
+      ]
+    ],
+    "steps": [
+      "Per preparare la caponata di pesce spada spuntate le melanzane e tagliatele prima a fette di 1 cm e poi a cubetti. Affettate anche le coste di sedano.",
+      "Infine mondate e affettate la cipolla. In un pentolino scaldate l'olio di semi fino alla temperatura di 175°, poi immergete le melanzane a cubetti. Friggete fino a doratura, per circa 2-3 minuti, quindi scolate le melanzane.",
+      "Trasferite le melanzane fritte su un vassoio rivestito con carta assorbente, così da asciugare l'olio in eccesso. Tagliate il pesce spada a cubetti di un paio di cm. Scaldate l'olio in una padella.",
+      "Aggiungete le cipolle affettate e lasciate soffriggere a fuoco dolce per qualche minuto, poi versate i pelati e salate.",
+      "Unite anche i capperi dissalati, le olive verdi e il sedano affettato.",
+      "Ora versate l'aceto, lo zucchero e le foglie del basilico.",
+      "Aggiungete i pinoli, il pesce spada a cubetti e le melanzane fritte.",
+      "Cuocete per 15 minuti a fuoco moderato. Una volta pronta, aggiustate di sale, insaporite con pepe a piacere e servite subito la vostra caponata di pesce spada!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:47.403608+00:00",
+    "repaired_at": "2026-10-10T15:45:20.674558+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 167285177530428,
+    "name": "Insalata di calamari e patate",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 35,
+    "ingredients_display": [
+      "Calamari 300 g",
+      "Patate 400 g",
+      "Aglio 1 spicchio",
+      "Prezzemolo q.b.",
+      "Succo di limone 50 g",
+      "Olio extravergine d'oliva 20 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Peperoncino fresco 1",
+      "Scorza di limone q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-calamari-e-patate.html",
+    "image_url": "https://www.giallozafferano.it/images/350-35012/Insalata-di-calamari-e-patate_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 194.5,
+    "protein": null,
+    "carbs": 21.0,
+    "fats": 6.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Calamari",
+        300.0,
+        "g"
+      ],
+      [
+        "Patate",
+        400.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Prezzemolo",
+        null,
+        "q.b."
+      ],
+      [
+        "Succo di limone",
+        50.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Peperoncino fresco 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Scorza di limone",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l’insalata di calamari e patate, iniziate dalla pulizia dei calamari: staccate delicatamente la testa dal corpo, eliminate le interiora e la penna trasparente, rimuovete la pelle esterna e le alette laterali. Tagliate via la parte del becco e sciacquate bene i calamari sotto acqua corrente, quindi riduceteli ad anelli. Tagliate a pezzi anche la parte dei tentacoli.",
+      "Portate a ebollizione una pentola con acqua leggermente salata, tuffate i calamari e cuoceteli per circa 3 minuti, poi scolateli per bene e teneteli da parte in una ciotola. Intanto sbucciate le patate.",
+      "Tagliatele a cubi di 3 cm e tuffatele nella stessa acqua di cottura dei calamari. Cuocetele per 10 minuti o finché risulteranno tenere ma ancora compatte, quindi scolatele e lasciatele intiepidire. Preparate ora un trito fine di aglio e peperoncino.",
+      "Tritate poi finemente anche il prezzemolo. In una ciotolina preparate la citronette: versate il succo di limone e unite il trito di aglio e peperoncino.",
+      "Aggiungete poi: prezzemolo tritato, olio, sale e pepe macinato.",
+      "Mescolate in modo da emulsionare bene la salsa. Non appena le patate sono cotte scolatele per bene e trasferitele nella ciotola con i calamari. Versate poi anche la citronette.",
+      "Mescolate bene il tutto per insaporire, poi impiattate e guarnite con scorza di limone grattugiata. L'insalata di calamari e patate è pronta da servire."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:50.028414+00:00",
+    "repaired_at": "2026-10-10T15:45:46.982551+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 53087330070907,
+    "name": "Popcorn al caramello salato",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 37,
+    "ingredients_display": [
+      "Mais per pop corn 150 g",
+      "Olio di semi di girasole 20 g",
+      "Zucchero 200 g",
+      "Burro salato 100 g",
+      "Bicarbonato 4 g",
+      "Miele millefiori 40 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Popcorn-al-caramello-salato.html",
+    "image_url": "https://www.giallozafferano.it/images/251-25155/Popcorn-al-caramello-salato_650x433_wm.jpg",
+    "servings": 5,
+    "kcal": 383.7,
+    "protein": null,
+    "carbs": 52.2,
+    "fats": 20.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Mais per pop corn",
+        150.0,
+        "g"
+      ],
+      [
+        "Olio di semi di girasole",
+        20.0,
+        "g"
+      ],
+      [
+        "Zucchero",
+        200.0,
+        "g"
+      ],
+      [
+        "Burro salato",
+        100.0,
+        "g"
+      ],
+      [
+        "Bicarbonato",
+        4.0,
+        "g"
+      ],
+      [
+        "Miele millefiori",
+        40.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare i popcorn al caramello salato versate un filo d'olio in una pentola capiente dal fondo spesso e dai bordi alti. Senza farlo scaldare aggiungete i chicchi di mais. Accendete il fuoco e tenetelo a fiamma vivace, coprite la pentola con il coperchio. Ttrascorsi circa 3 minuti i pop corn cominceranno a scoppiettare, scuotete la pentola e rimettete sul fuoco a fiamma moderata, continuate a scuotere spesso e fino a quando non scoppietteranno più: impiegheranno più o meno 10 minuti.",
+      "I pop corn sono pronti per essere caramellati. Nella stessa pentola dove avete cucinato i pop corn (non serve lavarla) versate lo zucchero, il burro salato e il miele. Cuocete a fuoco vivace, tutto comincerà a fondere già dopo un paio di minuti. Mescolate di continuo con una paletta di legno. Dopo qualche minuto l'acqua presente nel burro comincerà ad evaporare e il caramello inizierà fare una schiuma densa e fitta. Dopo circa 5-6 minuti comincerà a prendere un colore ambrato e una consistenza collosa: sarà il momento di mescolare velocemente e di continuo e abbassare la fiamma, prima di unire subito il bicarbonato. Mescolate con la paletta di legno e vedrete si formerà velocemente un composto schiumoso.",
+      "Aggiungete immediatamente i popcorn e amalgamate rigirando di continuo in modo che il caramello li avvolga per bene. Spegnete il fuoco e trasferite i popcorn caramellati su una teglia ricoperta di carta forno, con l'aiuto della spatola o di un cucchiaio di legno cercate di distanziarli per farli rapprendere. Non appena saranno raffreddati e cristallizzati i pop corn caramellati saranno pronti per essere gustati 9!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:52.666409+00:00",
+    "repaired_at": "2026-10-10T15:45:49.602778+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 230515145051611,
+    "name": "Pasta con fave e piselli",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 50,
+    "ingredients_display": [
+      "Spaghetti Senza Glutine 320 g",
+      "Porri 100 g",
+      "Fave 250 g",
+      "Pisellini sgusciati 150 g",
+      "Pecorino grattugiato 30 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Timo 1 rametto",
+      "Olio extravergine d'oliva 30 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-fave-e-piselli.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/168/16859/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 482.8,
+    "protein": null,
+    "carbs": 80.3,
+    "fats": 13.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Spaghetti Senza Glutine",
+        320.0,
+        "g"
+      ],
+      [
+        "Porri",
+        100.0,
+        "g"
+      ],
+      [
+        "Fave",
+        250.0,
+        "g"
+      ],
+      [
+        "Pisellini sgusciati",
+        150.0,
+        "g"
+      ],
+      [
+        "Pecorino grattugiato",
+        30.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Timo 1 rametto",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per realizzare la pasta con fave e piselli, iniziate ponendo sul fuoco l'acqua per la pasta: quando bollirà salate. Quindi pulite le fave: spuntate e dividete a metà il bacello delle fave per estrarle, poi eliminate la pellicola esterna di ogni fava e raccoglietele tutte in una ciotola, in modo da ricavarne 180 gr. Poi prendete il porro ed eliminate la barbetta e la parte verde",
+      "Private il porro delle foglie esterne più coriacee, affettatelo sottilmente, poi scaldate l’olio di oliva in un tegame capiente e versate il porro affettato, fate rosolare per 1 minuto.",
+      "Quindi coprite con un mestolo di acqua di cottura, fate appassire il porro per circa 10 minuti poi aggiungete le fave e i piselli sgranati",
+      "Cuocete per 10 minuti (se utilizzate legumi surgelati cuocete per 5 minuti). A cottura ultimata salate e pepate. Cuocete gli spaghetti per circa 9 minuti, devono essere al dente (regolatevi in base al tempo di cottura riportato sulla confezione). Una volta cotti, scolate gli spaghetti senza glutine direttamente nel tegame con i legumi",
+      "Insaporite con il formaggio grattugiato e aromatizzate con foglioline di timo fresco. Mescolate per amalgamare bene gli ingredienti e servite la pasta con fave e piselli ben calda."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:55.933653+00:00",
+    "repaired_at": "2026-10-10T15:45:23.307408+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 204312457497656,
+    "name": "Calamari e gamberi gratinati con verdure",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 60,
+    "ingredients_display": [
+      "Calamari (circa 4) 280 g",
+      "Gamberi (circa 10) 200 g",
+      "Zucchine 100 g",
+      "Peperoni rossi 100 g",
+      "Cipolle rosse 70 g",
+      "Pane raffermo 80 g",
+      "Scorza di limone 1",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Maggiorana q.b.",
+      "Timo q.b.",
+      "Paprika affumicata q.b.",
+      "Origano q.b.",
+      "Pepe mix in grani q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Calamari-e-gamberi-gratinati-con-verdure.html",
+    "image_url": "https://www.giallozafferano.it/images/236-23664/Calamari-e-gamberi-gratinati-con-verdure_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 209.0,
+    "protein": null,
+    "carbs": 19.0,
+    "fats": 6.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Calamari (circa 4)",
+        280.0,
+        "g"
+      ],
+      [
+        "Gamberi (circa 10)",
+        200.0,
+        "g"
+      ],
+      [
+        "Zucchine",
+        100.0,
+        "g"
+      ],
+      [
+        "Peperoni rossi",
+        100.0,
+        "g"
+      ],
+      [
+        "Cipolle rosse",
+        70.0,
+        "g"
+      ],
+      [
+        "Pane raffermo",
+        80.0,
+        "g"
+      ],
+      [
+        "Scorza di limone 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Maggiorana",
+        null,
+        "q.b."
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Paprika affumicata",
+        null,
+        "q.b."
+      ],
+      [
+        "Origano",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe mix in grani",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare i calamari e gamberi gratinati con verdure  iniziate dalla pulizia dei gamberi: togliete la testa, rimuovete tutto il carapace ed eliminate l’intestino (se preferite potete aiutarvi con uno stecco di legno) poi tenete i gamberi da parte. Occupatevi ora della pulizia dei calamari: rimuovete il ciuffo e pulite bene l’interno del calamaro, sciacquandolo con acqua corrente.",
+      "Tagliate i calamari ad anelli di circa 8mm di spessore, mentre il ciuffo lasciatelo intero. Ora tagliate le verdure: lavate, spuntate la zucchina e riducetela a rondelle di circa 5 mm. Lavate il peperone, svuiotatelo dei semi e filamenti interni e tagliatelo a quadratini di circa 2 cm.",
+      "Mondate e affettate la cipolla a uno spessore di circa 5 mm. Prepariamo ora il pan grattato partendo da una fetta di pane secco che taglierete a pezzettoni e metterete in un mixer da cucina.",
+      "Frullate il pane fino a ottenere la cinsistenza del pangrattato e aggiungete la scorza del limone, maggiorana, timo, origano.",
+      "Insaporite con paprika affumicata, i granelli di pepe e il sale.",
+      "Frullate bene per insaporire. Versate in una ciotola i gamberi, i calamari, le verdure   e la panatura, condite con un filo di olio.",
+      "Mescolate bene e stendete su una teglia con carta forno, senza ammassare gli ingredienti, altrimenti faranno fatica a gratinare. Cuocete in forno statico preriscaldato a 200 gradi per 15 minuti. Passato il tempo dategli altri 15 minuti alzando la temperatura a 230 gradi. Quando tutti gli ingredienti saranno ben gratinati la vostra teglia è pronta. Servite i calamari e gamberi gratinati con verdure appena sfornati."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:44:58.714546+00:00",
+    "repaired_at": "2026-10-10T15:45:52.245077+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "ingredienti_composti_non_identificati"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 184482589842875,
+    "name": "Insalata di cachi, rucola e finocchi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 20,
+    "ingredients_display": [
+      "Rucola 300 g",
+      "Cachi mela 1",
+      "Finocchi 1",
+      "Succo di limone 70 ml",
+      "Succo d'arancia 125 ml",
+      "Scorza d'arancia &frac12;",
+      "Miele 1 cucchiaio",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Semi di sesamo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-cachi-rucola-e-finocchi.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/219/21979/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 78.7,
+    "protein": null,
+    "carbs": 16.1,
+    "fats": 1.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Rucola",
+        300.0,
+        "g"
+      ],
+      [
+        "Cachi mela 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Finocchi 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Succo di limone",
+        70.0,
+        "ml"
+      ],
+      [
+        "Succo d'arancia",
+        125.0,
+        "ml"
+      ],
+      [
+        "Scorza d'arancia &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Miele 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Semi di sesamo",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l’insalata di cachi rucola e finocchi iniziate nel tagliare la scorza di mezza arancia facendo attenzione a non prendere la parte bianca. Tagliate la scorza in striscioline sottili e mettetele da parte fino al momento di utilizzarle. Spremete mezza arancia e mezzo limone,",
+      "raccogliete il succo in una ciotola. Aggiungete un cucchiaio di miele, un pizzico di sale e una macinata di pepe nero.",
+      "Con una forchetta sbattete il tutto per amalgamare gli ingredienti fra loro. Prendete un caco mela già lavato ed asciugato, tagliatelo in fette sottili.",
+      "Prendete un finocchio anche questo già lavato e tagliatelo in fette 11. In una insalatiera mettete la rucola già lavata 12,",
+      "aggiungete i finocchi 13 , la scorza di arancia tagliata in striscioline 14 ed il caco mela in fette 15 .",
+      "Versate sopra la vinaigrette di arancia e limone 16 , mescolate il tutto e aggiungete un cucchiaio di semi di sesamo 17 . Servite subito l’insalata di cachi rucola e finocchi 18 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:45:01.503522+00:00",
+    "repaired_at": "2026-10-10T15:45:54.879389+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 176537379758275,
+    "name": "Pomodorini marinati al basilico",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 10,
+    "ingredients_display": [
+      "Pomodorini Piccadilly 500 g",
+      "Frutti di cappero q.b.",
+      "Aglio 1 spicchio",
+      "Basilico q.b.",
+      "Scorza di limone q.b.",
+      "Olio extravergine d'oliva 1 cucchiaio",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pomodorini-marinati-al-basilico.html",
+    "image_url": "https://www.giallozafferano.it/images/363-36373/Pomodorini-marinati-al-basilico_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 42.9,
+    "protein": null,
+    "carbs": 5.5,
+    "fats": 2.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pomodorini Piccadilly",
+        500.0,
+        "g"
+      ],
+      [
+        "Frutti di cappero",
+        null,
+        "q.b."
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ],
+      [
+        "Scorza di limone",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare i pomodorini marinati al basilico, tagliate i pomodori a metà e raccoglieteli in una ciotola, poi condite con sale e pepe.",
+      "Aggiungete l'olio, l’aglio e le foglie di basilico.",
+      "Mescolate per insaporire, coprite con pellicola 8 e lasciate marinare in frigorifero per circa 1 ora. Intanto tagliate a metà i frutti del cappero 9 .",
+      "Trascorso il tempo della marinatura, riprendete i pomodorini 10 , serviteli con il sughetto 11 e i frutti del cappero 12 .",
+      "Profumate con la scorza del limone grattugiata 13 e altre foglie di basilico fresco 14 . I pomodorini marinati al basilico sono pronti da gustare 15 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:45:04.315001+00:00",
+    "repaired_at": "2026-10-10T15:45:57.498609+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 234463483322998,
+    "name": "Pasta con fagioli cozze e pecorino",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 60,
+    "ingredients_display": [
+      "Pasta Mista 400 g",
+      "Cozze 1,5 kg",
+      "Fagioli cannellini precotti (peso sgocciolato) 400 g",
+      "Pecorino Romano DOP 100 g",
+      "Carote 200 g",
+      "Sedano 200 g",
+      "Concentrato di pomodoro 40 g",
+      "Acqua calda 240 g",
+      "Prezzemolo 1 ciuffo",
+      "Aglio 5 spicchi",
+      "Olio extravergine d'oliva 20 g",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-fagioli-cozze-e-pecorino.html",
+    "image_url": "https://www.giallozafferano.it/images/349-34985/Pasta-con-fagioli-cozze-e-pecorino_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 1212.5,
+    "protein": null,
+    "carbs": 160.0,
+    "fats": 22.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pasta Mista",
+        400.0,
+        "g"
+      ],
+      [
+        "Cozze",
+        1.5,
+        "kg"
+      ],
+      [
+        "Fagioli cannellini precotti (peso sgocciolato)",
+        400.0,
+        "g"
+      ],
+      [
+        "Pecorino Romano DOP",
+        100.0,
+        "g"
+      ],
+      [
+        "Carote",
+        200.0,
+        "g"
+      ],
+      [
+        "Sedano",
+        200.0,
+        "g"
+      ],
+      [
+        "Concentrato di pomodoro",
+        40.0,
+        "g"
+      ],
+      [
+        "Acqua calda",
+        240.0,
+        "g"
+      ],
+      [
+        "Prezzemolo 1 ciuffo",
+        null,
+        "da verificare"
+      ],
+      [
+        "Aglio",
+        5.0,
+        "spicchi"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con fagioli cozze e pecorino, versate l'olio in una padella capiente e fatelo insaporire con 3 spicchi di aglio in camicia e i gambi del prezzemolo.",
+      "Dopo un paio di minuti, aggiungete le cozze precedentemente pulite, coprite con il coperchio e cuocete a fuoco vivace giusto il tempo che si aprano i gusci. A questo punto, eliminate le cozze rimaste chiuse e filtrate il liquido di cottura. Sgusciate le cozze e tenete da parte.",
+      "Occupatevi ora del soffritto tagliando a dadini le carote e il sedano. In una casseruola fate imbiondire 2 spicchi d'aglio in camicia con un giro d'olio.",
+      "Aggiungete il trito di carote e sedano e soffriggete per qualche minuto, poi insaporite con il concentrato di pomodoro. Mescolate bene e unite anche i fagioli cannellini precotti e sgocciolati.",
+      "Profumate con il prezzemolo tritato e lasciate insaporire per qualche minuto, poi versate il liquido di cottura delle cozze filtrato. A questo punto aggiungete la pasta mista cruda.",
+      "Versate anche l'acqua bollente, chiudete con il coperchio e portate a cottura la pasta. Una volta al dente, mantecate con un filo d'olio.",
+      "A fuoco spento unite le cozze sgusciate, poi versate a pioggia il pecorino romano grattugiato e mescolate accuratamente. Lasciate riposare la pasta nella casseruola per un minuto.",
+      "Impiattate e completate con un giro d'olio a crudo d'oliva, prezzemolo tritato e una grattata di pepe nero. La vostra pasta con fagioli cozze e pecorino è pronta per essere servita!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:45:06.975365+00:00",
+    "repaired_at": "2026-10-10T15:45:25.939615+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Primo",
       "esito": "candidato",

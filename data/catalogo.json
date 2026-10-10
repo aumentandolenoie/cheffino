@@ -1497,7 +1497,7 @@
     "imported_at": "2026-10-10T11:45:44.698682+00:00",
     "repaired_at": "2026-10-10T12:26:29.496199+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -1560,7 +1560,7 @@
     "imported_at": "2026-10-10T11:45:47.349140+00:00",
     "repaired_at": "2026-10-10T12:26:32.244047+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -1676,7 +1676,7 @@
     "imported_at": "2026-10-10T11:45:49.981907+00:00",
     "repaired_at": "2026-10-10T12:26:35.000197+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -1921,9 +1921,9 @@
     "imported_at": "2026-10-10T11:45:55.407189+00:00",
     "repaired_at": "2026-10-10T12:26:40.165986+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
-      "esito": "escluso",
-      "criterio": "nome",
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome: preparazione salata",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -2065,7 +2065,7 @@
     "imported_at": "2026-10-10T11:45:58.108343+00:00",
     "repaired_at": "2026-10-10T12:26:42.873058+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -2147,7 +2147,7 @@
     "imported_at": "2026-10-10T11:46:00.747760+00:00",
     "repaired_at": "2026-10-10T12:26:45.491359+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -2265,7 +2265,7 @@
     "imported_at": "2026-10-10T11:46:03.391693+00:00",
     "repaired_at": "2026-10-10T12:26:48.105725+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -2370,7 +2370,7 @@
     "imported_at": "2026-10-10T11:46:06.020675+00:00",
     "repaired_at": "2026-10-10T12:26:50.834240+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -2469,7 +2469,7 @@
     "imported_at": "2026-10-10T11:46:08.731843+00:00",
     "repaired_at": "2026-10-10T12:26:53.552955+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -2569,7 +2569,7 @@
     "imported_at": "2026-10-10T11:46:11.457560+00:00",
     "repaired_at": "2026-10-10T12:26:56.270716+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -2663,7 +2663,7 @@
     "imported_at": "2026-10-10T11:46:14.069953+00:00",
     "repaired_at": "2026-10-10T12:26:58.999209+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -2757,7 +2757,7 @@
     "imported_at": "2026-10-10T11:46:16.769819+00:00",
     "repaired_at": "2026-10-10T12:27:01.741968+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -2858,7 +2858,7 @@
     "imported_at": "2026-10-10T11:46:19.512207+00:00",
     "repaired_at": "2026-10-10T12:27:04.443227+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -2990,7 +2990,7 @@
     "imported_at": "2026-10-10T11:46:22.162732+00:00",
     "repaired_at": "2026-10-10T12:27:07.049342+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
@@ -3089,7 +3089,7 @@
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:21.548221+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
@@ -3194,7 +3194,7 @@
     "needs_review": true,
     "imported_at": "2026-10-10T11:56:24.269333+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
@@ -3764,9 +3764,9 @@
     "imported_at": "2026-10-10T11:56:37.828051+00:00",
     "repaired_at": "2026-10-10T12:33:15.907129+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -4023,9 +4023,9 @@
     "imported_at": "2026-10-10T11:56:43.116764+00:00",
     "repaired_at": "2026-10-10T12:33:18.523761+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome: preparazione salata",
       "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -4139,9 +4139,9 @@
     "imported_at": "2026-10-10T11:56:45.772415+00:00",
     "repaired_at": "2026-10-10T12:33:21.232548+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Bevanda",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -4232,9 +4232,9 @@
     "imported_at": "2026-10-10T11:56:48.503503+00:00",
     "repaired_at": "2026-10-10T12:33:23.855250+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -4321,9 +4321,9 @@
     "imported_at": "2026-10-10T11:56:51.223224+00:00",
     "repaired_at": "2026-10-10T12:33:26.475398+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -4442,9 +4442,9 @@
     "imported_at": "2026-10-10T11:56:53.835197+00:00",
     "repaired_at": "2026-10-10T12:33:29.066075+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -4531,9 +4531,9 @@
     "imported_at": "2026-10-10T11:56:56.446151+00:00",
     "repaired_at": "2026-10-10T12:33:31.657178+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -4646,9 +4646,9 @@
     "imported_at": "2026-10-10T11:56:59.178647+00:00",
     "repaired_at": "2026-10-10T12:33:34.242231+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome: preparazione salata",
       "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -5035,9 +5035,9 @@
     "imported_at": "2026-10-10T11:57:09.708179+00:00",
     "repaired_at": "2026-10-10T12:33:36.828876+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Bevanda",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -5050,7 +5050,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 70,
     "ingredients_display": [
       "Mandarini 1 kg",
       "Zucchero 200 g",
@@ -5061,7 +5061,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Mandarini-di-Halloween.html",
     "image_url": "https://www.giallozafferano.it/images/366-36686/Mandarini-di-Halloween_1200x800_wm.jpg",
-    "servings": null,
+    "servings": 8,
     "kcal": 573.1,
     "protein": null,
     "carbs": 68.2,
@@ -5069,29 +5069,29 @@
     "cost": null,
     "ingredients": [
       [
-        "Mandarini 1 kg",
-        null,
-        "da fonte"
+        "Mandarini",
+        1.0,
+        "kg"
       ],
       [
-        "Zucchero 200 g",
-        null,
-        "da fonte"
+        "Zucchero",
+        200.0,
+        "g"
       ],
       [
-        "Cioccolato fondente al 55% 400 g",
-        null,
-        "da fonte"
+        "Cioccolato fondente al 55%",
+        400.0,
+        "g"
       ],
       [
-        "Panna fresca liquida 200 ml",
-        null,
-        "da fonte"
+        "Panna fresca liquida",
+        200.0,
+        "ml"
       ],
       [
-        "Cioccolato fondente 50 g",
-        null,
-        "da fonte"
+        "Cioccolato fondente",
+        50.0,
+        "g"
       ]
     ],
     "steps": [
@@ -5104,14 +5104,15 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T11:57:12.413870+00:00",
+    "repaired_at": "2026-10-10T12:37:55.700568+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     }
   },
   {
@@ -5120,7 +5121,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 80,
     "ingredients_display": [
       "Cavolo nero (da pulire) 600 g",
       "Ricotta vaccina 250 g",
@@ -5139,7 +5140,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Malfatti-al-cavolo-nero.html",
     "image_url": "https://www.giallozafferano.it/images/366-36675/Malfatti-al-cavolo-nero_1200x800_wm.jpg",
-    "servings": null,
+    "servings": 8,
     "kcal": 346.1,
     "protein": null,
     "carbs": 32.6,
@@ -5147,69 +5148,69 @@
     "cost": null,
     "ingredients": [
       [
-        "Cavolo nero (da pulire) 600 g",
-        null,
-        "da fonte"
+        "Cavolo nero (da pulire)",
+        600.0,
+        "g"
       ],
       [
-        "Ricotta vaccina 250 g",
-        null,
-        "da fonte"
+        "Ricotta vaccina",
+        250.0,
+        "g"
       ],
       [
-        "Farina 00 200 g",
-        null,
-        "da fonte"
+        "Farina 00",
+        200.0,
+        "g"
       ],
       [
-        "Parmigiano Reggiano DOP 120 g",
-        null,
-        "da fonte"
+        "Parmigiano Reggiano DOP",
+        120.0,
+        "g"
       ],
       [
-        "Pangrattato 80 g",
-        null,
-        "da fonte"
+        "Pangrattato",
+        80.0,
+        "g"
       ],
       [
         "Cipolle &frac12;",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Uova 2",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Burro 20 g",
-        null,
-        "da fonte"
+        "Burro",
+        20.0,
+        "g"
       ],
       [
-        "Noce moscata q.b.",
+        "Noce moscata",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Burro 50 g",
-        null,
-        "da fonte"
+        "Burro",
+        50.0,
+        "g"
       ],
       [
         "Salvia 1 rametto",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Parmigiano Reggiano DOP q.b.",
+        "Parmigiano Reggiano DOP",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -5224,11 +5225,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T12:25:28.924807+00:00",
+    "repaired_at": "2026-10-10T12:37:52.934941+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -5357,9 +5359,9 @@
     "needs_review": true,
     "imported_at": "2026-10-10T12:25:32.004645+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -5425,9 +5427,9 @@
     "needs_review": true,
     "imported_at": "2026-10-10T12:25:34.622350+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Bevanda",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -5505,9 +5507,9 @@
     "needs_review": true,
     "imported_at": "2026-10-10T12:25:38.443539+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Bevanda",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -5578,7 +5580,7 @@
     "needs_review": true,
     "imported_at": "2026-10-10T12:25:41.018460+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
@@ -5705,7 +5707,7 @@
     "needs_review": true,
     "imported_at": "2026-10-10T12:25:43.616308+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
@@ -5814,7 +5816,7 @@
     "needs_review": true,
     "imported_at": "2026-10-10T12:25:46.347785+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
@@ -5829,7 +5831,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 50,
     "ingredients_display": [
       "Patate farinose 500 g",
       "Lenticchie secche 150 g",
@@ -5844,7 +5846,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Crema-di-patate-e-lenticchie-al-curry.html",
     "image_url": "https://www.giallozafferano.it/images/ricette/221/22114/foto_hd/hd650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 310.0,
     "protein": null,
     "carbs": 49.0,
@@ -5852,49 +5854,49 @@
     "cost": null,
     "ingredients": [
       [
-        "Patate farinose 500 g",
-        null,
-        "da fonte"
+        "Patate farinose",
+        500.0,
+        "g"
       ],
       [
-        "Lenticchie secche 150 g",
-        null,
-        "da fonte"
+        "Lenticchie secche",
+        150.0,
+        "g"
       ],
       [
         "Carote 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Sedano 1 costa",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Cipolle bianche 50 g",
-        null,
-        "da fonte"
+        "Cipolle bianche",
+        50.0,
+        "g"
       ],
       [
         "Curry raso 1 cucchiaino",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Brodo vegetale 500 g",
-        null,
-        "da fonte"
+        "Brodo vegetale",
+        500.0,
+        "g"
       ],
       [
-        "Olio extravergine d'oliva 30 g",
-        null,
-        "da fonte"
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -5905,11 +5907,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T12:25:49.042650+00:00",
+    "repaired_at": "2026-10-10T12:37:58.329277+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -5921,7 +5924,7 @@
     "emoji": "🍽️",
     "style": "Da classificare",
     "type": "Da classificare",
-    "time": null,
+    "time": 120,
     "ingredients_display": [
       "Lenticchie secche di Castelluccio di Norcia 250",
       "Carote 1",
@@ -5940,7 +5943,7 @@
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Crema-di-lenticchie.html",
     "image_url": "https://www.giallozafferano.it/images/173-17336/Crema-di-lenticchie_650x433_wm.jpg",
-    "servings": null,
+    "servings": 4,
     "kcal": 297.3,
     "protein": null,
     "carbs": 33.2,
@@ -5950,67 +5953,67 @@
       [
         "Lenticchie secche di Castelluccio di Norcia 250",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Carote 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Sedano 1 costa",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Scalogno 1",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
         "Curcuma in polvere 1 cucchiaino",
         null,
-        "da fonte"
+        "da verificare"
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Acqua 1,5 l",
-        null,
-        "da fonte"
+        "Acqua",
+        1.5,
+        "l"
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pepe nero q.b.",
+        "Pepe nero",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Pane 8 fette",
-        null,
-        "da fonte"
+        "Pane",
+        8.0,
+        "fette"
       ],
       [
-        "Olio extravergine d'oliva q.b.",
+        "Olio extravergine d'oliva",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Sale fino q.b.",
+        "Sale fino",
         null,
-        "da fonte"
+        "q.b."
       ],
       [
-        "Origano q.b.",
+        "Origano",
         null,
-        "da fonte"
+        "q.b."
       ]
     ],
     "steps": [
@@ -6022,11 +6025,12 @@
     ],
     "needs_review": true,
     "imported_at": "2026-10-10T12:25:51.797909+00:00",
+    "repaired_at": "2026-10-10T12:38:02.128837+00:00",
     "classificazione_automatica": {
       "tipo_proposto": "Da classificare",
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
-      "porzioni_presenti": false,
+      "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
@@ -6110,9 +6114,9 @@
     "needs_review": true,
     "imported_at": "2026-10-10T12:25:54.835728+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Bevanda",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -6203,9 +6207,9 @@
     "needs_review": true,
     "imported_at": "2026-10-10T12:25:57.564098+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -6295,7 +6299,7 @@
     "needs_review": true,
     "imported_at": "2026-10-10T12:26:00.133868+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
@@ -6368,7 +6372,7 @@
     "needs_review": true,
     "imported_at": "2026-10-10T12:26:02.747267+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Dolce",
+      "tipo_proposto": "Dolce o colazione",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
@@ -6437,9 +6441,9 @@
     "needs_review": true,
     "imported_at": "2026-10-10T12:26:05.306810+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Condimento",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,

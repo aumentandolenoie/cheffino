@@ -1,0 +1,22 @@
+CHEFFINO - FASE 1 (database locale)
+
+1. Estrai lo ZIP in una cartella, per esempio Scaricati/cheffino_fase1.
+2. Apri il terminale nella cartella estratta.
+3. Esegui: bash AVVIO_LINUX.sh
+4. Apri http://127.0.0.1:8000 nel browser.
+5. Il catalogo acquisito e' visibile su http://127.0.0.1:8000/api/recipes
+
+PER IMPORTARE UNA RICETTA (manuale)
+In un altro terminale, dalla stessa cartella:
+.venv/bin/python importa_ricetta.py 'https://ricette.giallozafferano.it/URL-REALE-DELLA-RICETTA.html'
+Usa un URL autentico copiato dal sito. Non usare l'esempio testuale sopra.
+
+IMPORTANTISSIMO
+- La grafica attuale e' conservata in frontend/index.html.
+- Il nuovo database e' ancora SEPARATO dal catalogo di dimostrazione mostrato nell'interfaccia.
+- L'importatore acquisisce solo dati Schema.org/Recipe effettivamente presenti nella pagina.
+- Se una pagina blocca la richiesta o non offre tali dati, l'importazione fallisce senza creare una scheda fittizia.
+- Nessuno scraping massivo e nessuna sincronizzazione automatica in questa fase.
+- Non si calcolano calorie, prezzi o grammature mancanti.
+- Il file SQLite e' creato in data/ricette.sqlite3 al primo avvio.
+- Al momento l'interfaccia conserva le sue vecchie ricette demo, come nella versione precedente.

@@ -24,7 +24,7 @@ from pulisci_procedimenti import clean_steps, candidates
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
-IMAGE_VERSION = 2
+IMAGE_VERSION = 3
 
 
 def normalize(s):
@@ -160,6 +160,8 @@ def run(catalog_path=CATALOG, limit=12, delay=2.5, fetcher=fetch_html, policy=No
     pending.sort(key=lambda r: (not bool(r.get('validazione_automatica', {}).get('approved')),
                                 not missing(r), str(r.get('name', ''))))
     checked = main_added = step_added = blocked = errors = no_match = 0
+    missing_main_before = 0
+    reasons = {'no_numbered_photos': 0, 'steps_mismatch': 0, 'numbering_mismatch': 0, 'other': 0}
     for rec in pending:
         if checked >= limit:
             break
@@ -179,6 +181,8 @@ def run(catalog_path=CATALOG, limit=12, delay=2.5, fetcher=fetch_html, policy=No
             except ValueError:
                 pass
             main = main or parser.og_image
+            if not rec.get('image_url'):
+                missing_main_before += 1
             if main and not rec.get('image_url'):
                 rec['image_url'] = main
                 main_added += 1
@@ -194,7 +198,22 @@ def run(catalog_path=CATALOG, limit=12, delay=2.5, fetcher=fetch_html, policy=No
                     print(f"Foto passaggi associate: {rec['name']} | {sum(map(len, groups))} immagini / {len(groups)} blocchi")
                 else:
                     no_match += 1
-                    print(f"Foto non abbinabili: {rec['name']} | foto numerate={len(parser.photos)}")
+                    source_present = raw is not None
+                    original_count = None
+                    try:
+                        original_count = len(parse_recipe(html, url)['steps'])
+                    except (ValueError, TypeError, KeyError):
+                        pass
+                    if not parser.photos:
+                        reason = 'no_numbered_photos'
+                    elif not source_present:
+                        reason = 'steps_mismatch'
+                    elif sorted(parser.photos) != list(range(1, len(parser.photos) + 1)):
+                        reason = 'numbering_mismatch'
+                    else:
+                        reason = 'other'
+                    reasons[reason] += 1
+                    print(f"Foto non abbinabili: {rec['name']} | motivo={reason} | foto numerate={len(parser.photos)} | passaggi salvati={len(rec['steps'])} | passaggi fonte={original_count} | immagine_principale={'si' if rec.get('image_url') else 'no'}")
             rec['images_import_version'] = IMAGE_VERSION
             rec['step_images_checked_at'] = datetime.now(timezone.utc).isoformat()
             checked += 1
@@ -206,7 +225,9 @@ def run(catalog_path=CATALOG, limit=12, delay=2.5, fetcher=fetch_html, policy=No
             print(f'Errore recupero immagini: {rec.get("name")}: {exc}')
         if delay:
             time.sleep(delay)
-    print(f'Immagini v2: controllate={checked}; foto_principali_aggiunte={main_added}; '
+    print(f'Diagnostica immagini: schede_senza_foto_principale_inizialmente={missing_main_before}; '
+          f'motivi_senza_abbinamento={json.dumps(reasons, ensure_ascii=False)}', flush=True)
+    print(f'Immagini v3: controllate={checked}; foto_principali_aggiunte={main_added}; '
           f'ricette_con_foto_passaggi_aggiunte={step_added}; senza_abbinamento={no_match}; '
           f'bloccate={blocked}; errori={errors}; rimanenti={max(0,len(pending)-checked)}', flush=True)
     return main_added, step_added

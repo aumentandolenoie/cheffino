@@ -13,6 +13,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse, urljoin
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError, URLError
 from xml.etree import ElementTree as ET
 from urllib.robotparser import RobotFileParser
 
@@ -118,15 +119,41 @@ def convert(raw):
     }
 
 
+def load_robots():
+    """Fetch robots.txt explicitly with our declared user-agent.
+
+    RobotFileParser.read() uses a different default User-Agent and may silently
+    convert HTTP errors into a blanket disallow; never treat that as site policy.
+    """
+    req = Request(ROBOT_URL, headers={
+        'User-Agent': UA,
+        'Accept': 'text/plain',
+    })
+    try:
+        with urlopen(req, timeout=25) as resp:
+            if urlparse(resp.geturl()).hostname != urlparse(ROBOT_URL).hostname:
+                raise RuntimeError('robots.txt reindirizzato fuori dal dominio previsto')
+            raw = resp.read(512_001)
+            if len(raw) > 512_000:
+                raise RuntimeError('robots.txt supera il limite di dimensione')
+    except (HTTPError, URLError, TimeoutError) as exc:
+        raise RuntimeError(
+            f'Impossibile verificare robots.txt ({exc}). '
+            'Importazione interrotta senza effettuare richieste alle ricette.'
+        ) from exc
+    parser = RobotFileParser()
+    parser.set_url(ROBOT_URL)
+    parser.parse(raw.decode('utf-8-sig', errors='replace').splitlines())
+    print('robots.txt letto correttamente; controllo delle regole attivo.', flush=True)
+    return parser
+
+
 def run(limit=20, delay=2.5, discoverer=discover_urls, fetcher=fetch_recipe,
         catalog_path=CATALOG, robots=None):
     if robots is None:
-        robots = RobotFileParser()
-        robots.set_url(ROBOT_URL)
-        robots.read()
-        if not robots.allow_all and not robots.disallow_all and not robots.can_fetch(UA, BASE + '/sitemap/updated.xml'):
-            print('Sitemap non consentita dal robots.txt. Nessuna importazione.')
-            return 0
+        robots = load_robots()
+    if not robots.can_fetch(UA, BASE + '/sitemap/updated.xml'):
+        raise RuntimeError('La sitemap non è consentita dalle regole robots.txt rilevate. Importazione interrotta.')
     catalog = json.loads(Path(catalog_path).read_text(encoding='utf-8'))
     if not isinstance(catalog, list): raise ValueError('Catalogo JSON non valido')
     known = {r['url'] for r in catalog if r.get('url')}
@@ -162,6 +189,8 @@ def run(limit=20, delay=2.5, discoverer=discover_urls, fetcher=fetch_recipe,
         if delay and imported < limit: time.sleep(delay)
     print(f'Riepilogo filtri: gia_presenti={already}, robots_bloccati={robots_blocked}, fallite_incomplete={failed}', flush=True)
     print(f'Nuove ricette: {imported}; fallite/incomplete: {failed}; totale catalogo: {len(catalog)}', flush=True)
+    if imported == 0 and robots_blocked > 0 and already == 0 and failed == 0:
+        raise RuntimeError('Tutte le ricette candidate sono vietate dal robots.txt verificato; nessuna importazione effettuata.')
     if imported == 0 and failed > 0:
         raise RuntimeError('Nessuna ricetta importata: tutte le estrazioni tentate sono fallite o incomplete. Consultare i log sopra.')
     return imported

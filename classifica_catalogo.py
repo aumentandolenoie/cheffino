@@ -21,7 +21,7 @@ FIRST = ('pasta ', 'spaghetti', 'fusilli', 'penne ', 'rigatoni', 'risotto', 'ris
          'tagliatelle', 'orecchiette', 'carbonara', 'amatriciana')
 SECOND = ('frittata', 'pollo ', 'petto di pollo', 'tacchino ', 'merluzzo', 'salmone',
           'orata ', 'branzino', 'hamburger', 'polpette', 'scaloppine', 'arrosto',
-          'bistecca', 'spezzatino', 'omelette')
+          'bistecca', 'spezzatino', 'omelette', 'sgombro', 'pesce spada', 'tonno in padella')
 ONE_DISH = ('zuppa', 'minestrone', 'vellutata', 'insalatona', 'bowl', 'cous cous',
             'couscous', 'poke', 'piatto unico', 'fagioli in umido', 'lenticchie in umido')
 SIDE = ('contorno', 'patate al forno', 'verdure grigliate', 'insalata verde')
@@ -48,7 +48,7 @@ def assess(record):
     servings = record.get('servings')
     amounts = (isinstance(ings, list) and len(ings) >= 2 and
                all(isinstance(x, list) and len(x) >= 3 and isinstance(x[0], str)
-                   and x[0].strip() and (isinstance(x[1], (int, float)) or x[2] == 'q.b.')
+                   and x[0].strip() and (isinstance(x[1], (int, float)) and x[1] > 0 or x[2] == 'q.b.')
                    for x in ings))
     portions = isinstance(servings, int) and servings > 0
     instructions = isinstance(steps, list) and len(steps) >= 1

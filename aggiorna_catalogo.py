@@ -21,7 +21,7 @@ from app.catalog import fetch_recipe
 from app.public_catalog import CATALOG
 
 BASE = 'https://ricette.giallozafferano.it'
-SITEMAPS = (BASE + '/sitemap/ricette-new.xml', BASE + '/sitemap/updated.xml')
+SITEMAPS = (BASE + '/sitemap/ricette-new.xml', BASE + '/sitemap/updated.xml', BASE + '/sitemap/ricette.xml')
 ROBOT_URL = BASE + '/robots.txt'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
 MAX_XML_BYTES = 12_000_000
@@ -72,10 +72,19 @@ def discover_urls(fetcher=fetch_xml, max_sitemaps=12):
         root_type = root.tag.rsplit('}', 1)[-1]
         print(f'Sitemap letta: {url} (tipo: {root_type})', flush=True)
         if root_type == 'sitemapindex':
-            for e in xml_items(root, 'sitemap'):
-                loc = text_field(e, 'loc')
-                if loc.startswith(BASE + '/sitemap/') and loc not in visited:
-                    queue.append(loc)
+            submaps = [text_field(e, 'loc') for e in xml_items(root, 'sitemap')]
+            submaps = [loc for loc in submaps if loc.startswith(BASE + '/sitemap/')]
+            # Per sitemap grandi, cicla tra gruppi diversi ogni settimana.
+            # Non scarica tutto il sito in una singola esecuzione.
+            if len(submaps) > 9:
+                from datetime import date
+                slots = max(1, len(submaps) - 8)
+                offset = ((date.today().isocalendar().week - 1) * 8) % slots
+                selected = submaps[offset:offset + 8]
+                print(f'Sitemap indice: {len(submaps)} sotto-sitemap; gruppo settimanale {offset + 1}-{offset + len(selected)}', flush=True)
+                submaps = selected
+            for loc in submaps:
+                if loc not in visited and loc not in queue: queue.append(loc)
         else:
             for e in xml_items(root, 'url'):
                 url_entries += 1
@@ -165,6 +174,11 @@ def run(limit=20, delay=2.5, discoverer=discover_urls, fetcher=fetch_recipe,
     robots_blocked = 0
     for url in candidates:
         if imported >= limit or failed >= 12: break
+        # Evita dessert/bevande evidenti già dall'URL, senza escludere
+        # ricette ambigue che saranno valutate dal classificatore.
+        slug=urlparse(url).path.rsplit('/',1)[-1].lower()
+        if re.search(r'(torta(?!-salata)|biscott|crostat|muffin|plumcake|gelato|frullato|latte-matcha|matcha-latte|cheesecake|pancake|cocktail|cioccolata-calda|tiramis|brownie|budino)', slug):
+            continue
         if url in known:
             already += 1
             continue

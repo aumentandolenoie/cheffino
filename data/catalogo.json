@@ -538,7 +538,8 @@
       "Unisci le zucchine, sala e pepa; cuoci mescolando per circa cinque minuti.",
       "Aggiungi un poco di acqua calda e il basilico, togliendo l’aglio.",
       "Cuoci la pasta al dente, completa la cottura in padella con le zucchine e poca acqua di cottura."
-    ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:00:32.073224+00:00"
   },
   {
     "id": 28,
@@ -610,7 +611,8 @@
       "Fai rosolare lo scalogno tritato con olio e rosmarino.",
       "Aggiungi le patate e cuocile, versando gradualmente acqua calda.",
       "Lessa la pasta e termina la cottura con le patate; aggiungi timo e olio a crudo."
-    ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:00:34.789713+00:00"
   },
   {
     "id": 29,
@@ -682,7 +684,8 @@
       "Cuoci i fusilli al dente e taglia a cubetti la mozzarella.",
       "Amalgama pasta e salsa, poi disponi pasta, mozzarella e Parmigiano a strati in pirofila.",
       "Gratina brevemente in forno caldo fino a sciogliere la mozzarella."
-    ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:00:37.470753+00:00"
   },
   {
     "id": 30,
@@ -749,7 +752,8 @@
       "Cuoci la pasta; sciogli lo zafferano in poca acqua tiepida.",
       "Versa la pasta scolata nelle zucchine, unisci lo zafferano e poca acqua della pasta.",
       "Manteca con Grana e termina con menta fresca."
-    ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:00:40.055204+00:00"
   },
   {
     "id": 31,
@@ -816,7 +820,8 @@
       "Lavora la ricotta con Parmigiano, panna, timo e pepe per ottenere una crema.",
       "Allunga il condimento con poca acqua della pasta se necessario.",
       "Scola i fusilli al dente e amalgamali con la crema di ricotta."
-    ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:00:42.735419+00:00"
   },
   {
     "id": 42270105876548,
@@ -930,7 +935,40 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_18.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:00:45.336932+00:00"
   },
   {
     "id": 271954833842137,
@@ -7707,6 +7745,2402 @@
         "ingredienti_porzione_procedimento_incompleti"
       ],
       "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 177798028193126,
+    "name": "Crostino vegano",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 25,
+    "ingredients_display": [
+      "Pane casereccio (4 fette) 200 g",
+      "Olio extravergine d'oliva 100 g",
+      "Tofu 100 g",
+      "Pomodorini gialli 100 g",
+      "Carote 80 g",
+      "Pistacchi non salati 50 g",
+      "Olive taggiasche 30 g",
+      "Germogli di barbabietola 30 g",
+      "Basilico 10 g",
+      "Sale fino q.b.",
+      "Origano q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Basilico q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/antipasto-vegano.html",
+    "image_url": "https://www.giallozafferano.it/images/169-16982/antipasto-vegano_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 492.2,
+    "protein": null,
+    "carbs": 31.4,
+    "fats": 37.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pane casereccio (4 fette)",
+        200.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        100.0,
+        "g"
+      ],
+      [
+        "Tofu",
+        100.0,
+        "g"
+      ],
+      [
+        "Pomodorini gialli",
+        100.0,
+        "g"
+      ],
+      [
+        "Carote",
+        80.0,
+        "g"
+      ],
+      [
+        "Pistacchi non salati",
+        50.0,
+        "g"
+      ],
+      [
+        "Olive taggiasche",
+        30.0,
+        "g"
+      ],
+      [
+        "Germogli di barbabietola",
+        30.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        10.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Origano",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare il crostino vegano ponete le fette di pane su una leccarda rivestita di carta da forno, conditele con l’olio di oliva e l’origano, quindi tostatele in forno già caldo per 5 minuti a 240° in modalità grill.",
+      "Occupatevi ora della crema da spalmare sul crostino: tagliate a cubetti il tofu. Tenetene da parte alcuni cubetti per decorare poi i crostini, il resto ponetelo in un mixer aggiungete quindi i pistacchi,",
+      "le foglie di basilico e 1/3 dell’olio di oliva previsto dalla ricetta e cominciate a frullare a più riprese per amalgamare gli ingredienti, poi versate la restante dose di olio di oliva,",
+      "regolate di sale e frullate ancora sempre ad intermittenza fino ad ottenere un composto omogeneo e cremoso. Lavate e spuntate le carote poi pelatele e con lo stesso pelapatate ritagliate delle strisce sottili",
+      "sovrapponete le strisce di carote poi ripiegate in due le strisce e riducetele a striscioline sottili.",
+      "Lavate i pomodorini gialli e divideteli in spicchi. Tutto è pronto per comporre il crostino vegano: spalmate sui crostini il patè di tofu e pistacchi adagiate sopra uno strato di carote a julienne, i germogli di barbabietola rossa,",
+      "i pomodorini gialli e i cubetti di tofu che avete tenuto da parte.Terminate con le olive taggiasche e le foglioline di basilico fresco. Condite con un filo olio, sale ed infine tagliate a metà i crostini. Il vostro crostino vegano è pronto per essere servito!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:58:30.630578+00:00",
+    "repaired_at": "2026-10-10T14:00:05.846033+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 90620450073313,
+    "name": "Zuppetta di vongole allo zafferano",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 30,
+    "ingredients_display": [
+      "Vongole 1 kg",
+      "Zafferano 2 bustine da 0,15 g",
+      "Aglio 2 spicchi",
+      "Prezzemolo 3 rametti",
+      "Peperoncino fresco 1",
+      "Pepe nero q.b.",
+      "Vino bianco 80 g",
+      "Pane tostato 4 fette"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppetta-di-vongole-allo-zafferano.html",
+    "image_url": "https://www.giallozafferano.it/images/259-25915/Zuppetta-di-vongole-allo-zafferano_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 320.4,
+    "protein": null,
+    "carbs": 25.4,
+    "fats": 3.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Vongole",
+        1.0,
+        "kg"
+      ],
+      [
+        "Zafferano 2 bustine da",
+        0.15,
+        "g"
+      ],
+      [
+        "Aglio",
+        2.0,
+        "spicchi"
+      ],
+      [
+        "Prezzemolo",
+        3.0,
+        "rametti"
+      ],
+      [
+        "Peperoncino fresco 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Vino bianco",
+        80.0,
+        "g"
+      ],
+      [
+        "Pane tostato",
+        4.0,
+        "fette"
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppetta di vongole allo zafferano come prima cosa dovrete spurgare le vongole. Controllate che non ci siano vongole con guscio rotto, in questo caso scartatele. Poi sciacquatele sotto acqua corrente fredda, trasferitele in una ciotola. Riempite la ciotola con acqua fredda e aggiungete del sale. Muovete le vongole con le mani, sfregandole tra di loro, in modo che rilascino tutta la sabbia. Cambiate l'acqua con il sale, poi lasciatele in ammollo 1 o 2 ore cambiando acqua e sale un paio di volte. Alla fine l'acqua dovrà risultare pulita.",
+      "Trascorso questo tempo versate in un tegame un giro d'olio, i 2 spicchi d'aglio sbucciati, dei rametti di prezzemolo e il peperoncino intero ma inciso con il coltello per la lunghezza. Lasciate insaporire per 1-2 minuti, poi versate le vongole precedentemente scolate.",
+      "Sfumate con il vino bianco e lasciate evaporare per 1-2 minuti. Poi coprite con un coperchio e cuocete per circa 3-4 minuti, sino a che tutte le vongole non saranno aperte.",
+      "Ora filtrate le vongole, eliminate il peperoncino, l'aglio e il prezzemolo. Raccogliete il liquido di cottura delle vongole caldo all'interno di una ciotola.",
+      "Aggiungete lo zafferano e mescolate con un cucchiaio sino a che non si sarà completamente sciolto 14.",
+      "Trasferite le vongole nei piatti 16 , se preferite per comodità potrete separarne alcune dai gusci. Aggiungete sopra il brodo caldo 17 e servite la vostra zuppetta di vongole allo zafferano con i crostini di pane 18 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:58:33.233837+00:00",
+    "repaired_at": "2026-10-10T14:00:08.440553+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 88211785160049,
+    "name": "Zuppetta di fave e piselli",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 30,
+    "ingredients_display": [
+      "Fave 500 g",
+      "Pisellini 500 g",
+      "Cipolle 90 g",
+      "Acqua q.b.",
+      "Menta 3 foglie",
+      "Olio extravergine d'oliva 40 g",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppetta-di-fave-e-piselli.html",
+    "image_url": "https://www.giallozafferano.it/images/362-36259/Zuppetta-di-fave-e-piselli_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 288.8,
+    "protein": null,
+    "carbs": 34.7,
+    "fats": 11.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fave",
+        500.0,
+        "g"
+      ],
+      [
+        "Pisellini",
+        500.0,
+        "g"
+      ],
+      [
+        "Cipolle",
+        90.0,
+        "g"
+      ],
+      [
+        "Acqua",
+        null,
+        "q.b."
+      ],
+      [
+        "Menta",
+        3.0,
+        "foglie"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        40.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppetta di fave e piselli, per prima cosa mondate e tritate finemente la cipolla. Scaldate un filo di olio  in una casseruola e aggiungete la cipolla tritata.",
+      "Versate 50 g di acqua presi dalla dose totale e lasciate stufare la cipolla per circa 3 minuti 5. Quando la cipolla si sarà ammorbidita, unite i piselli.",
+      "Aggiungete anche le fave e versate tutta l'acqua rimasta. Condite con il sale.",
+      "Mescolate e cuocete a fuoco medio per 20 minuti. Trascorso questo tempo, i legumi saranno cotti, profumate quindi con la menta fresca. A fuoco spento frullate il tutto con un mixer a immersione.",
+      "Dovrete ottenere una consistenza liscia e cremosa. Impiattate e completate con un filo d'olio extravergine di oliva e delle foglioline di menta fresca. La vostra zuppetta di fave e piselli è pronta per essere servita!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:58:36.290678+00:00",
+    "repaired_at": "2026-10-10T14:00:11.031396+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 262641477469431,
+    "name": "Zuppetta di Grana Padano e sedano",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 30,
+    "ingredients_display": [
+      "Grana Padano DOP (Riserva oltre 20 mesi) da grattugiare 100 g",
+      "Fecola di patate 10 g",
+      "Latte intero a temperatura ambiente 280 g",
+      "Olio extravergine d'oliva 20 g",
+      "Brodo vegetale 30 g",
+      "Sedano solo le foglie q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Crostini di pane q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppetta-di-Grana-Padano-e-sedano.html",
+    "image_url": "https://www.giallozafferano.it/images/214-21424/Zuppetta-di-Grana-Padano-e-sedano_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 208.9,
+    "protein": null,
+    "carbs": 6.7,
+    "fats": 15.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Grana Padano DOP (Riserva oltre 20 mesi) da grattugiare",
+        100.0,
+        "g"
+      ],
+      [
+        "Fecola di patate",
+        10.0,
+        "g"
+      ],
+      [
+        "Latte intero a temperatura ambiente",
+        280.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Brodo vegetale",
+        30.0,
+        "g"
+      ],
+      [
+        "Sedano solo le foglie",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Crostini di pane",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare la zuppetta di Grana Padano e sedano per prima cosa preparate il brodo vegetale 1 . Poi adagiate le foglioline di sedano su una teglia rivestita con carta da forno, spennellatele con l’olio di oliva 2 3 .",
+      "Coprite con un foglio di carta forno 4 e adagiate sopra un’altra teglia della stessa misura 5 . Cuocete le foglie di sedano in forno statico preriscaldato a 250° per 4 minuti. Trascorso questo tempo sfornate la teglia 6 .",
+      "Eliminate il foglio di carta forno 7 e lasciate raffreddare. Intanto preparate la zuppa: in un tegame versate l’olio di oliva 8 e la fecola 9 . Mescolate e cuocete a fuoco dolce per 2/3 minuti formando il roux.",
+      "Versate il latte 10 e il brodo di verdure 11 e mescolate con la frusta. Cuocete per circa 5 minuti poi unite il Grana Padano DOP grattugiato 12 .",
+      "Continuate a mescolare con la frusta sino a completo scioglimento. Proseguite la cottura a fuoco basso finché la salsa non si sarà leggermente addensata 13 . Una volta pronta versate la zuppa nel piatto 14 , guarnite con le foglie croccanti di sedano e condite con olio a crudo 15 .",
+      "Pepate a piacere 15 e aggiungete una manciata di crostini di pane 17 . La zuppetta di Grano Padano e sedano è pronta per essere servita 18 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:58:39.284743+00:00",
+    "repaired_at": "2026-10-10T14:00:13.614871+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 192249230248337,
+    "name": "Zuppa svuotafrigo",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 70,
+    "ingredients_display": [
+      "Zucca napoletana 540 g",
+      "Patate 380 g",
+      "Cavolo nero 300 g",
+      "Pomodorini ciliegino 300 g",
+      "Fagiolini 200 g",
+      "Cipolle rosse 60 g",
+      "Peperoncino secco 2",
+      "Sale grosso q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Pane 4 fette",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Origano secco q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-svuotafrigo.html",
+    "image_url": "https://www.giallozafferano.it/images/220-22025/Zuppa-svuotafrigo_650x433_wm.jpg",
+    "servings": 6,
+    "kcal": 238.1,
+    "protein": null,
+    "carbs": 34.4,
+    "fats": 9.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Zucca napoletana",
+        540.0,
+        "g"
+      ],
+      [
+        "Patate",
+        380.0,
+        "g"
+      ],
+      [
+        "Cavolo nero",
+        300.0,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        300.0,
+        "g"
+      ],
+      [
+        "Fagiolini",
+        200.0,
+        "g"
+      ],
+      [
+        "Cipolle rosse",
+        60.0,
+        "g"
+      ],
+      [
+        "Peperoncino secco 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale grosso",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Pane",
+        4.0,
+        "fette"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Origano secco",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare la zuppa svuotafrigo, per prima cosa preparate le verdure: pulite la zucca e tagliatela a pezzetti, vi occorreranno circa 500 g di polpa, poi sbucciate le patate e riducete anch’esse a dadini. Tagliate il cavolo nero a striscioline.",
+      "Dividete i pomodorini a metà, poi spuntate i fagiolini e tagliateli in 2 o 3 parti. Infine mondate la cipolla e affettatela finemente.",
+      "Scaldate un giro d’olio in una pentola capiente, versate la cipolla e lasciatela stufare per qualche minuto. Aggiungete la zucca e mescolate, poi unite le patate.",
+      "Aggiungete anche il cavolo nero, i fagiolini e i pomodorini, mescolate e cuocete per 3-4 minuti a fiamma media, poi unite il peperoncino tritato.",
+      "A questo punto versate l’acqua che dovrà coprire le verdure, aggiungete il sale grosso, coprite con un coperchio e cuocete a fuoco dolce per circa 40 minuti o finché le verdure non risulteranno cotte.",
+      "Nel frattempo occupatevi dei crostini: tagliate il pane a cubetti, versateli in una padella già calda e condite con olio, sale e origano.",
+      "Tostate i crostini finché non saranno ben dorati, poi teneteli da parte. Quando le verdure saranno cotte, frullate la zuppa con un mixer a immersione per ottenere una consistenza omogenea.",
+      "Versate il passato di verdure nei piatti, aggiungete i crostini e condite con un filo d’olio a crudo: la vostra zuppa svuotafrigo è pronta per essere servita ben calda!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:58:42.458965+00:00",
+    "repaired_at": "2026-10-10T13:59:24.214064+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 46617956965752,
+    "name": "Zuppa inglese di colomba",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 40,
+    "ingredients_display": [
+      "Colomba 200 g",
+      "Alchermes 100 g",
+      "Granella di zucchero q.b.",
+      "Mandorle q.b.",
+      "Latte intero 500 g",
+      "Zucchero 140 g",
+      "Tuorli (circa 4 medi) 70 g",
+      "Cioccolato fondente tritato a coltello 50 g",
+      "Amido di mais (maizena) 45 g",
+      "Estratto di vaniglia 1 cucchiaino"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-inglese-di-colomba.html",
+    "image_url": "https://www.giallozafferano.it/images/273-27362/Zuppa-inglese-di-colomba_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 663.8,
+    "protein": null,
+    "carbs": 97.4,
+    "fats": 20.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Colomba",
+        200.0,
+        "g"
+      ],
+      [
+        "Alchermes",
+        100.0,
+        "g"
+      ],
+      [
+        "Granella di zucchero",
+        null,
+        "q.b."
+      ],
+      [
+        "Mandorle",
+        null,
+        "q.b."
+      ],
+      [
+        "Latte intero",
+        500.0,
+        "g"
+      ],
+      [
+        "Zucchero",
+        140.0,
+        "g"
+      ],
+      [
+        "Tuorli (circa 4 medi)",
+        70.0,
+        "g"
+      ],
+      [
+        "Cioccolato fondente tritato a coltello",
+        50.0,
+        "g"
+      ],
+      [
+        "Amido di mais (maizena)",
+        45.0,
+        "g"
+      ],
+      [
+        "Estratto di vaniglia 1 cucchiaino",
+        null,
+        "da verificare"
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa inglese di colomba come prima cosa realizzate la crema pasticcera: versate il latte in un pentolino insieme all'estratto di vaniglia e portate a bollore. Intanto mettete i tuorli in una ciotola, sbatteteli leggermente e aggiungete lo zucchero. Mescolate bene con una frusta.",
+      "Unite ora anche l'amido di mais e mescolate ancora. Non appena il latte avrà raggiunto il bollore aggiungetelo lentamente nel composto di uova, mescolando per stemperarlo.",
+      "Versate poi nuovamente tutto in pentola e cuocete a fiamma bassa mescolando sino a che la crema non si sarà addensata e non avrà raggiunto di nuovo il bollore. Dividetela poi in due ciotole. Coprite una delle due ciotole con pellicola a contatto.",
+      "Nell'altra versate il cioccolato grattugiato e mescolate sino a che non si sarà sciolto completamente, poi lasciate raffreddare. A questo punto tagliate la colomba a fette dello spessore di 1 cm.",
+      "Poi tagliate le fette a pezzetti. Prendete 4 coppette della capacità di 200 ml e rivestite il fondo con i pezzetti di colomba, appiattendoli leggermente con le mani. Bagnate la colomba con l'alchermes e ricoprite con uno strato di crema pasticcera classica.",
+      "Aggiungete uno strato di crema al cioccolato e un altro di colomba, poi bagnate nuovamente con l'alchermes.",
+      "Finite con uno strato di crema pasticcera classica e uno strato di quella al cioccolato. Decorate con zuccherini e pezzetti di mandorle. Riponete in frigorifero sino al momento di servire la vostra zuppa inglese di colomba!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:58:45.054218+00:00",
+    "repaired_at": "2026-10-10T13:59:26.809061+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 250186173763145,
+    "name": "Zuppa inglese con Pavesini",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 50,
+    "ingredients_display": [
+      "Pavesini 100 g",
+      "Alchermes q.b.",
+      "Cacao amaro in polvere q.b.",
+      "Latte intero 600 g",
+      "Panna fresca liquida 150 g",
+      "Tuorli di circa 6 uova medie 100 g",
+      "Zucchero 210 g",
+      "Cioccolato fondente (in scaglie o in gocce) 75 g",
+      "Amido di mais (maizena) 70 g",
+      "Baccello di vaniglia 1"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-inglese-con-Pavesini.html",
+    "image_url": "https://www.giallozafferano.it/images/231-23114/Zuppa-inglese-con-Pavesini_650x433_wm.jpg",
+    "servings": 8,
+    "kcal": 398.9,
+    "protein": null,
+    "carbs": 52.8,
+    "fats": 16.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pavesini",
+        100.0,
+        "g"
+      ],
+      [
+        "Alchermes",
+        null,
+        "q.b."
+      ],
+      [
+        "Cacao amaro in polvere",
+        null,
+        "q.b."
+      ],
+      [
+        "Latte intero",
+        600.0,
+        "g"
+      ],
+      [
+        "Panna fresca liquida",
+        150.0,
+        "g"
+      ],
+      [
+        "Tuorli di circa 6 uova medie",
+        100.0,
+        "g"
+      ],
+      [
+        "Zucchero",
+        210.0,
+        "g"
+      ],
+      [
+        "Cioccolato fondente (in scaglie o in gocce)",
+        75.0,
+        "g"
+      ],
+      [
+        "Amido di mais (maizena)",
+        70.0,
+        "g"
+      ],
+      [
+        "Baccello di vaniglia 1",
+        null,
+        "da verificare"
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa inglese con Pavesini iniziate preparando la crema. In un pentolino mettete a scaldare il latte e la panna insieme ai semi di vaniglia: portate a sfiorare il bollore. Nel frattampo mescolate i tuorli con lo zucchero con una frusta, poi aggiungete la maizena poco alla volta sempre mescolando con le fruste.",
+      "Ora che avrete ottenuto una crema liscia e senza grumi aggiungete il composto caldo mescolando accuratamente. Trasferite il composto nella pentola e rimettete sul fuoco.",
+      "Cuocete mescolando di continuo finché non avrà raggiunto la giusta densità. Suddividete la crema in due ciotole e in una versate il cioccolato. Mescolate subito affinché il calore faccia sciogliere il cioccolato.",
+      "Coprite entrambe le creme con pellicola a contatto e lasciate raffreddare in frigorifer. Quando si saranno ben raffreddate trasferite in sac-à-poche sia la crema chiara che quella scura.",
+      "A questo punto inzuppate rapidamente i Pavesini nell'alchermes e fate un primo strato alla base della vostra teglia da 16x21cm. Andate a ricorprire i biscotti con la crema al cioccolato",
+      "e passate al secondo strato. Ricominciate con i Pavesini inzuppati e poi versate la crema chiara ricoprendo per bene. Terzo strato di nuovo biscotti inzuppati.",
+      "Ora, come da tradizione, stendete a contatto sia la crema pasticcera al cioccolato che quella chiara. Stendete con una spatola",
+      "e spolverizzate la superficie con un po' di cacao amaro setacciato. Concludete disponendo in superficie altri Pavesini inzuppati. Ecco pronta la vostra zuppa inglese con Pavesini"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:58:47.770503+00:00",
+    "repaired_at": "2026-10-10T13:59:29.391717+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 254476293470467,
+    "name": "Zuppa imperiale",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Piatto unico",
+    "time": 225,
+    "ingredients_display": [
+      "Uova (circa 4 medie) 220 g",
+      "Semolino 135 g",
+      "Parmigiano Reggiano DOP 90 g",
+      "Burro 75 g",
+      "Sale fino q.b.",
+      "Noce moscata q.b.",
+      "Brodo di carne 1 l"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-imperiale.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/165/16517/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 425.1,
+    "protein": null,
+    "carbs": 26.1,
+    "fats": 26.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Uova (circa 4 medie)",
+        220.0,
+        "g"
+      ],
+      [
+        "Semolino",
+        135.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP",
+        90.0,
+        "g"
+      ],
+      [
+        "Burro",
+        75.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Noce moscata",
+        null,
+        "q.b."
+      ],
+      [
+        "Brodo di carne",
+        1.0,
+        "l"
+      ]
+    ],
+    "steps": [
+      "Per realizzare la zuppa imperiale iniziate dalla preparazione del brodo di carne: lavate e pelate le verdure e ponetele in un tegame capiente e dai bordi alti con l’olio. Aromatizzate con i grani di pepe in grani ed i chiodi di garofano. Aggiungete la carne e coprite con 3L di acqua, lasciate cuocere così a fuoco medio-alto per circa 2 ore, fino a far ridurre il brodo di circa la metà. Quindi aggiungete il restante litro di acqua e lasciate cuocere per ancora un'ora a fuoco basso. A fine cottura filtrate il brodo con un colino a maglie strette.",
+      "Conservate la carne e le verdure per il lesso e salate il brodo. Ora occupatevi dell’impasto: in un pentolino sciogliete a fuoco dolce il burro e tenetelo da parte (5-6).",
+      "In una ciotola versate il semolino e il Parmigiano grattugiato 7 , unite le uova sbattute 8 , il burro fuso 9 , il sale,",
+      "aromatizzate con la noce moscata grattugiata 10 e mescolate il tutto con una frusta 11 per amalgamare gli ingredienti 12 .",
+      "Imburrate una teglia 30x20cm e foderatela con carta da forno 13 , trasferite l’impasto nella teglia 14 e livellatelo in superficie con il dorso di un cucchiaio per compattarlo al meglio 15 .",
+      "Cuocete il composto in forno statico preriscaldato a 180° per 35 minuti. A cottura ultimata, sfornate il composto e lasciatelo raffreddare 16 , poi rovesciate la teglia su un tagliere per sformare il panetto 17 . Tagliatelo prima striscioline 18",
+      "e poi a cubetti di circa  1x1 cm (19-20). Versate il brodo caldo in un piatto, aggiungete i cubetti di semolino e servite la vostra zuppa imperiale 21 ."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T13:58:50.367726+00:00",
+    "repaired_at": "2026-10-10T13:59:32.135906+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images_checked_at": "2026-10-10T14:00:16.523150+00:00"
+  },
+  {
+    "id": 103362004279734,
+    "name": "Zuppa gallurese",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Piatto unico",
+    "time": 50,
+    "ingredients_display": [
+      "Pane raffermo di semola 270 g",
+      "Pecorino sardo 260 g",
+      "Casizolu 325 g",
+      "Brodo di carne di pecora e agnello 1 l",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-gallurese.html",
+    "image_url": "https://www.giallozafferano.it/images/201-20129/Zuppa-gallurese_650x433_wm.jpg",
+    "servings": 6,
+    "kcal": 481.3,
+    "protein": null,
+    "carbs": 25.8,
+    "fats": 27.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pane raffermo di semola",
+        270.0,
+        "g"
+      ],
+      [
+        "Pecorino sardo",
+        260.0,
+        "g"
+      ],
+      [
+        "Casizolu",
+        325.0,
+        "g"
+      ],
+      [
+        "Brodo di carne di pecora e agnello",
+        1.0,
+        "l"
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare la zuppa gallurese per prima cosa dovrete preparare un buon brodo di carne dal gusto deciso a base di agnello e pecora. Tagliate a metà il formaggio Casizolu e grattugiatelo, fate lo stesso anche con il pecorino e raccogliete i formaggi in una ciotola.",
+      "Pepate, mescolate e tenete da parte. Tagliate la pagnotta a fette spesse circa 1 cm.",
+      "Poi prendete una pirofila dal bordo alto che misuri circa 20x20 cm e adagiate sul fondo le fettine di pane, in modo da non lasciare spazi vuoti. Ora distribuite sopra uno strato di formaggi grattugiati in modo da ricoprire interamente le fette.",
+      "Proseguite con un altro strato di pane, uno di formaggio e poi ancora pane. Dovrete realizzare 4 strati in totale. Sull’ultimo strato di pane versate il brodo di carne a filo, bucherellando il pane con i rebbi della forchetta così che il liquido possa essere assorbito meglio. Con il dorso di un cucchiaio pressate il pane in superficie, in modo da inumidirlo bene.",
+      "Aspettate un paio di minuti per far assorbire bene il brodo, poi distribuite sopra il resto del formaggio, coprendo interamente. Insaporite con un'altra spolverata di pepe e cuocete in forno già caldo a 200° per 30 minuti, o finché non si creerà in superficie una crosticina dorata. A cottura ultimata, sfornate, lasciate riposare qualche minuto e poi servite la zuppa gallurese ben calda."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T13:58:52.973083+00:00",
+    "repaired_at": "2026-10-10T13:59:34.725722+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images_checked_at": "2026-10-10T14:00:19.116162+00:00"
+  },
+  {
+    "id": 59285397777100,
+    "name": "Zuppa frantoiana",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 120,
+    "ingredients_display": [
+      "Fagioli borlotti 500 g",
+      "Zucca 270 g",
+      "Cavolo nero 250 g",
+      "Cipolle bianche 2",
+      "Sedano 1 costa",
+      "Carote 2",
+      "Patate 300 g",
+      "Olio extravergine d'oliva integrale non filtrato q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-frantoiana.html",
+    "image_url": "https://www.giallozafferano.it/images/258-25819/Zuppa-frantoiana_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 288.9,
+    "protein": null,
+    "carbs": 49.9,
+    "fats": 6.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fagioli borlotti",
+        500.0,
+        "g"
+      ],
+      [
+        "Zucca",
+        270.0,
+        "g"
+      ],
+      [
+        "Cavolo nero",
+        250.0,
+        "g"
+      ],
+      [
+        "Cipolle bianche 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sedano 1 costa",
+        null,
+        "da verificare"
+      ],
+      [
+        "Carote 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Patate",
+        300.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva integrale non filtrato",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa frantoiana per prima cosa realizzate il passato di fagioli: sgranate i fagioli 1 , ne otterrete così 250 g circa. Tritate grossolanamente una costa di sedano, una carota e una cipolla e riuniteli in una casseruola capiente 3 .",
+      "Versate anche i fagioli borlotti. Coprite con acqua fredda 5 , circa 1,2 litri, e portate a bollore. Cuocete a fiamma bassa, tenendo semicoperto 6 , fino a quando saranno teneri.",
+      "Ci vorrà circa mezz'ora 7 . Nel frattempo mondate e tritate la seconda cipolla 8 , pelate e tagliate a cubetti la zucca 9 .",
+      "Pelate e tagliate a cubetti anche le patate 1 e la carota restante. Eliminate la costa centrale del cavolo nero 11 e fatelo a pezzetti 12 .",
+      "In una pentola capiente preparate un soffritto con l'olio extravergine d'oliva 13 e la cipolla tritata 14 e aggiungete le verdure a tocchetti 15 .",
+      "Unite anche il cavolo 16 . Fate rosolare qualche minuto. Intanto prelevate un po' di fagioli cotti 17 e teneteli da parte. Frullate il resto insieme alle verdure e la loro acqua con cui sono stati cotti per ottenere una crema omogenea 18 .",
+      "Unite il passato di fagioli alla zuppa 19 , mescolate e cuocete per circa 40-50 minuti con il coperchio 20 , fino a quando le verdure saranno tenere, unendo circa 500 g di acqua 21 . Al bisogno aggiungetene durante la cottura.",
+      "Verso fine cottura unite i fagioli interi rimasti 22 , mescolate e aggiustate di sale 23 e pepe. Trasferite nei piatti da portata e servite la zuppa frantoiana insieme a fette di pane e un giro di olio extravergine d'oliva a crudo 24"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:58:55.659323+00:00",
+    "repaired_at": "2026-10-10T13:59:37.321729+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 122333987910733,
+    "name": "Zuppa di zucca e fagioli",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Piatto unico",
+    "time": 45,
+    "ingredients_display": [
+      "Zucca delica (da pulire) 1 kg",
+      "Fagioli cannellini precotti (peso sgocciolato) 500 g",
+      "Cipolle 70 g",
+      "Brodo vegetale 700 g",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-zucca-e-fagioli.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36639/Zuppa-di-zucca-e-fagioli_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 534.3,
+    "protein": null,
+    "carbs": 93.6,
+    "fats": 6.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Zucca delica (da pulire)",
+        1.0,
+        "kg"
+      ],
+      [
+        "Fagioli cannellini precotti (peso sgocciolato)",
+        500.0,
+        "g"
+      ],
+      [
+        "Cipolle",
+        70.0,
+        "g"
+      ],
+      [
+        "Brodo vegetale",
+        700.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di zucca e fagioli, per prima cosa pulite la zucca, tagliatela a fette e rimuovete la buccia, poi riducete la polpa a dadini.",
+      "Mondate la cipolla e tritatela grossolanamente. Versate la cipolla e la zucca in una pentola con l’olio caldo.",
+      "Rosolate per 5 minuti, poi aggiungete il brodo vegetale. Lasciate sobbollire a fuoco medio-basso fino a quando la zucca si sarà ammorbidita, ci vorranno circa 20-25 minuti. Una volta cotta, togliete la pentola dal fuoco e frullate una parte della zucca.",
+      "Unite i fagioli precotti e scolati e mescolate bene. Infine regolate di sale 12 e aggiustate la densità aggiungendo eventualmente altro brodo vegetale.",
+      "Impiattate e completate con un filo d’olio 13 e una macinata di pepe 14 . La vostra zuppa di zucca e fagioli è pronta per essere servita 15 !"
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T13:58:58.256051+00:00",
+    "repaired_at": "2026-10-10T13:59:39.914492+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_15.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:00:21.710209+00:00"
+  },
+  {
+    "id": 116426078695065,
+    "name": "Zuppa di verdure e bulgur",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 20,
+    "ingredients_display": [
+      "Bulgur 360 g",
+      "Cavolfiore (gialli e viola) 1,2 g",
+      "Patate 300 g",
+      "Pomodori di Pachino 14",
+      "Sedano ciuffi 2",
+      "Cipolle dorate 1",
+      "Carote 4",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-verdure-e-bulgur.html",
+    "image_url": "https://www.giallozafferano.it/images/220-22047/Zuppa-di-verdure-e-bulgur_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 568.6,
+    "protein": null,
+    "carbs": 107.6,
+    "fats": 12.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Bulgur",
+        360.0,
+        "g"
+      ],
+      [
+        "Cavolfiore (gialli e viola)",
+        1.2,
+        "g"
+      ],
+      [
+        "Patate",
+        300.0,
+        "g"
+      ],
+      [
+        "Pomodori di Pachino 14",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sedano ciuffi 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cipolle dorate 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Carote 4",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di verdure e bulgur cominciate dalla pulizia di tutti gli ortaggi. Partiamo dai cavolfiori. La prima cosa da fare è togliere la base, poi tagliare in pezzi per rimpicciolire le cime più grosse.",
+      "Una volta preparate le cime lavatele e asciugatele. Pelate le patate e tagliate a tocchetti di circa 2 cm.",
+      "Poi preparate il trito per il soffritto sminuzzando i ciuffi di sedano, mondate e tagliate a rondelle anche le carote, i pomodorini,",
+      "e per finire la cipolla. Adesso che avete tutto pronto spostatevi ai fornelli. Mettete sul fuoco una padella capiente e dentro fate un giro d'olio e stufate qualche minuto il soffritto. Dopodiché aggiungete le patate,",
+      "e i cavolfiori. Poi versate acqua fino a coprire le verdure, coprite con il coperchio e lasciate cuocere per una mezzora, o comunque fin quando le verdure non risulteranno cotte.",
+      "Trascorso il tempo aggiustate di sale e frullate il tutto fino ad ottenere una crema. Versate il bulgur,",
+      "versate anche l'acqua necessaria per cuocere il bulgur nelle modalità riportate sulla confezione, rendendo inizialmente il composto liquido. Mescolate di tanto in tanto e a fine cottura versate un filo d'olio. Ecco pronta la vostra zuppa di verdure e bulgur."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:59:01.314458+00:00",
+    "repaired_at": "2026-10-10T13:59:42.499654+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 280303697036954,
+    "name": "Zuppa di scarole e patate",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 80,
+    "ingredients_display": [
+      "Scarola 450 g",
+      "Patate 400 g",
+      "Porri 250 g",
+      "Brodo vegetale q.b.",
+      "Aglio 2 spicchi",
+      "Peperoncino 1",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Filoncini di pane di grano duro, a fette 250 g",
+      "Caciocavallo silano 100 g",
+      "Olio extravergine d'oliva q.b.",
+      "Rosmarino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-scarole-e-patate.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/180/18072/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 484.6,
+    "protein": null,
+    "carbs": 61.8,
+    "fats": 19.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Scarola",
+        450.0,
+        "g"
+      ],
+      [
+        "Patate",
+        400.0,
+        "g"
+      ],
+      [
+        "Porri",
+        250.0,
+        "g"
+      ],
+      [
+        "Brodo vegetale",
+        null,
+        "q.b."
+      ],
+      [
+        "Aglio",
+        2.0,
+        "spicchi"
+      ],
+      [
+        "Peperoncino 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Filoncini di pane di grano duro, a fette",
+        250.0,
+        "g"
+      ],
+      [
+        "Caciocavallo silano",
+        100.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di scarole e patate come prima cosa realizzate il brodo vegetale, poi passate alla pulizia delle verdure. Dividete la scarola a metà, eliminate il picciolo e tagliatela a listarelle di circa 3-4 cm. Lavatela sotto l'acqua corrente e tenete da parte. Passate al porro, eliminate la parte verde e fate un'incisione verticale in modo da eliminare facilmente il primo strato.",
+      "Tagliatelo poi a rondelle e passate alle patate. Pelatele e tagliatele a cubetti di circa 2-3 cm.",
+      "In ultimo tritate anche il peperoncino. Adesso versate un filo d'olio in un tegame, aggiungete gli spicchi d'aglio e il peperoncino; scaldate e unite anche il porro. Stufatelo per circa 4-5 minuti mescolando di tanto in tanto, poi eliminate l'aglio",
+      "e aggiungete le patate. Lasciatele insaporire per qualche istante quindi aggiungete anche la scarola. Aggiungete abbondante brodo fino a coprire il tutto.",
+      "Salate e lasciate cuocere per circa 30 minuti a fuoco medio, mescolando di tanto in tanto. Quando la zuppa di scarole e patate sarà quasi pronta occupatevi di realizzare i crostoni. Ricavate 8 fette dal filone di grano duro e disponetele su una leccarda foderata con carta forno. Irroratele con un filo d'olio e disponete su ciascuna degli aghi di rosmarino. Cuocete in forno statico preriscaldato a 220° per circa 5 minuti.",
+      "Nel frattempo grattugiate il caciocavallo e non appena i crostoni saranno leggermente dorati utilizzatelo per ricoprirli. Rimettete in forno per altri 2-3 minuti,",
+      "fino a che il formaggio non si sarà fuso. A questo punto anche la zuppa sarà pronta e potrete servirla accompagnandola con i crostoni al formaggio."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:59:04.027010+00:00",
+    "repaired_at": "2026-10-10T13:59:45.082077+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 147194268966521,
+    "name": "Zuppa di riso e ceci",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 35,
+    "ingredients_display": [
+      "Riso originario 200 g",
+      "Ceci precotti 350 g",
+      "Carote 80 g",
+      "Cipolle bianche 120 g",
+      "Aglio 1 spicchio",
+      "Brodo vegetale q.b.",
+      "Curry 1 cucchiaino",
+      "Rosmarino 1 rametto",
+      "Pepe nero q.b.",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Funghi champignon 250 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-riso-e-ceci.html",
+    "image_url": "https://www.giallozafferano.it/images/235-23528/Zuppa-di-riso-e-ceci_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 581.8,
+    "protein": null,
+    "carbs": 102.9,
+    "fats": 9.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Riso originario",
+        200.0,
+        "g"
+      ],
+      [
+        "Ceci precotti",
+        350.0,
+        "g"
+      ],
+      [
+        "Carote",
+        80.0,
+        "g"
+      ],
+      [
+        "Cipolle bianche",
+        120.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Brodo vegetale",
+        null,
+        "q.b."
+      ],
+      [
+        "Curry 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Rosmarino 1 rametto",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Funghi champignon",
+        250.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "per realizzare la zuppa di riso e ceci per prima cosa occupatevi della pulizia dei funghi: tagliate la base del gambo e eliminate i resdiui di terra con un panno inumidito. Tagliate a fettine i funghi e teneteli da parte 2 . Mondate cipolla e carote e tritatele 2 .  Scaldate un giro d'olio in padella 3 .",
+      "Soffriggete quindi la carota cipolla e agli a fuoco medio basso 4 . Unite i funghi 5 e fate cuocere per un paio di minuti. Aggiungete i ceci 6 e  mescolate.",
+      "Coprite con il brodo caldo 7 . Raggiunto il bollore aggiungete il riso 8 , amalgamate e insaporite con il sale, il pepe e il curry 9 .",
+      "Profumate con il rosmarino tritato 10 . Portate a cottura il riso aggiungete brodo se necessario,mescolando spesso 11 . Servite la zuppa di riso e ceci calda 12 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:59:07.177108+00:00",
+    "repaired_at": "2026-10-10T13:59:47.685762+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 19216972943873,
+    "name": "Zuppa di rana pescatrice",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Piatto unico",
+    "time": 80,
+    "ingredients_display": [
+      "Rana pescatrice (da pulire) 800 g",
+      "Polpa di pomodoro 400 g",
+      "Cipolle 100 g",
+      "Carote 80 g",
+      "Sedano 80 g",
+      "Funghi secchi porcini 30 g",
+      "Aglio 1 spicchio",
+      "Vino bianco 60 g",
+      "Timo q.b.",
+      "Prezzemolo q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-rana-pescatrice.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36644/Zuppa-di-rana-pescatrice_650x433_wm.jpg",
+    "servings": 6,
+    "kcal": 181.8,
+    "protein": null,
+    "carbs": 10.3,
+    "fats": 5.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Rana pescatrice (da pulire)",
+        800.0,
+        "g"
+      ],
+      [
+        "Polpa di pomodoro",
+        400.0,
+        "g"
+      ],
+      [
+        "Cipolle",
+        100.0,
+        "g"
+      ],
+      [
+        "Carote",
+        80.0,
+        "g"
+      ],
+      [
+        "Sedano",
+        80.0,
+        "g"
+      ],
+      [
+        "Funghi secchi porcini",
+        30.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Vino bianco",
+        60.0,
+        "g"
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Prezzemolo",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di rana pescatrice, per prima cosa mettete i funghi secchi in ammollo in acqua calda. Mondate e tritate finemente la cipolla, le carote e il sedano. Versate il trito di verdure in una casseruola con un filo d’olio.",
+      "Lasciate stufare a fuoco medio per una decina di minuti, poi unite l’aglio e i rametti di timo.",
+      "Nel frattempo, pulite la rana pescatrice: separate i filetti dalla lisca centrale e divideteli in tranci. Di questi, tritatene al coltello circa 250 g.",
+      "Aggiungete la polpa tritata nella casseruola e rosolate per 1-2 minuti, poi adagiate anche i tranci. Mescolate e rosolate a fuoco vivace per 2-3 minuti.",
+      "A questo punto eliminate l’aglio e sfumate con il vino bianco, lasciando evaporare la parte alcolica. Intanto tritate grossolanamente i funghi reidratati, avendo cura di non buttare l’acqua di ammollo, e uniteli in pentola.",
+      "Versate anche la polpa di pomodoro e circa 200 g di acqua dei funghi, poi regolate di sale e di pepe.",
+      "Coprite con il coperchio e cuocete a fuoco dolce per circa 40 minuti. Trascorso questo tempo, rimuovete il coperchio e proseguite la cottura per altri 10 minuti. Infine, aromatizzate con il prezzemolo tritato.",
+      "Impiattate e completate con qualche fogliolina di timo e un filo d’olio. La vostra zuppa di rana pescatrice è pronta per essere servita!"
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T13:59:09.891516+00:00",
+    "repaired_at": "2026-10-10T13:59:50.264232+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_24.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:00:24.300603+00:00"
+  },
+  {
+    "id": 48518277466931,
+    "name": "Zuppa di porri",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 60,
+    "ingredients_display": [
+      "Porri già pulito 460 g",
+      "Patate già pulite 160 g",
+      "Olio extravergine d'oliva q.b.",
+      "Sale q.b.",
+      "Pepe nero q.b.",
+      "Acqua 1,5 l",
+      "Rosmarino 1 rametto",
+      "Alloro 2 foglie",
+      "Pane q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-porri.html",
+    "image_url": "https://www.giallozafferano.it/images/294-29467/Zuppa-di-porri_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 191.8,
+    "protein": null,
+    "carbs": 28.2,
+    "fats": 8.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Porri già pulito",
+        460.0,
+        "g"
+      ],
+      [
+        "Patate già pulite",
+        160.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Acqua",
+        1.5,
+        "l"
+      ],
+      [
+        "Rosmarino 1 rametto",
+        null,
+        "da verificare"
+      ],
+      [
+        "Alloro",
+        2.0,
+        "foglie"
+      ],
+      [
+        "Pane",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di porri, come prima cosa eliminate la parte verde del porro, tagliate le radici e togliete le foglie più esterne.",
+      "Tagliatelo a rondelle spesse circa 1 cm. Raccogliete il tutto in una ciotola e coprite con acqua fredda. Lasciate riposare fino al momento dell’utilizzo. Intanto, pelate e tagliate le patate e fette spesse circa 1 cm.",
+      "In una padella scaldate l’olio, aggiungete le patate e fatele rosolare per 2 minuti. Scolate i porri, uniteli in padella, mescolate e continuate la cottura per altri 2 minuti. Versate l' acqua fino a coprire gli ingredienti.",
+      "Regolate di sale e pepe e fate cuocere per 10 minuti. Aromatizzate con il rosmarino e l’alloro e continuate la cottura per altri 40 minuti. Intanto in una padella scaldate l’olio quindi aggiungete il pane tagliato a pezzetti.",
+      "Cuocete a fiamma media per 2 minuti, rigirando spesso per evitare che si brucino. A pochi minuti dalla fine della cottura frullate, con un frullatore ad immersione, circa metà degli ingredienti per ottenere una zuppa ancora più corposa. Impiattate la zuppa e completate con il pane abbrustolito. La vostra zuppa di porri è pronta per essere servita."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:59:12.902060+00:00",
+    "repaired_at": "2026-10-10T13:59:52.869599+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 93997394744767,
+    "name": "Zuppa di pomodoro",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Piatto unico",
+    "time": 85,
+    "ingredients_display": [
+      "Pomodori San Marzano 1,5 kg",
+      "Olio extravergine d'oliva 30 g",
+      "Basilico 5 foglie",
+      "Aglio 1 spicchio",
+      "Sale fino q.b.",
+      "Panna fresca liquida q.b.",
+      "Basilico q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-pomodoro.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/170/17023/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 154.0,
+    "protein": null,
+    "carbs": 12.8,
+    "fats": 9.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pomodori San Marzano",
+        1.5,
+        "kg"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        5.0,
+        "foglie"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Panna fresca liquida",
+        null,
+        "q.b."
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di pomodoro iniziate lavando questi ultimi. Poi asciugateli e con un coltellino eliminate il picciolo e la pelle. Tagliateli a metà e svuotateli dei semi e del succo. Una volta puliti tutti sminuzzateli.",
+      "In un tegame scaldate l’olio extravergine insieme ad uno spicchio d’aglio sbucciato, dopo un minuto aggiungete i pomodori e mescolate lasciando insaporire per qualche minuto.",
+      "Unite poi le foglie di basilico, salate e date un’ultima mescolate prima di coprire con un coperchio lasciando cuocere, a fiamma bassa, per almeno 35 minuti.",
+      "Trascorso il tempo eliminate il basilico e l’aglio, poi utilizzando un mixer ad immersione frullate i pomodori in modo da ottenere una purea liscia. Lasciate cuocere ancora per 25-30 minuti così da farla asciugare e restringere un po’; poi spegnete il fuoco e lasciatela intiepidire a temperatura ambiente.",
+      "A questo punto la vostra zuppa di pomodoro sarà pronta, noi abbiamo scelto di servirla nelle ciotoline e di guarnirla con della panna fresca. Se volete farlo anche voi è davvero molto semplice, basterà versare un pò di panna sulla zuppa e con un cucchiaio formare una spirale. Infine date un tocco di colore e profumo in più alla vostra zuppa di pomodoro aggiungendo una fogliolina di basilico e servite."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T13:59:15.493682+00:00",
+    "repaired_at": "2026-10-10T13:59:55.463673+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images_checked_at": "2026-10-10T14:00:26.892865+00:00"
+  },
+  {
+    "id": 224153607055441,
+    "name": "Zuppa di pomodoro e ceci con bulgur",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 60,
+    "ingredients_display": [
+      "Bulgur 200 g",
+      "Pomodori pelati 380 g",
+      "Ceci precotti 140 g",
+      "Carote 3",
+      "Scalogno &frac12;",
+      "Concentrato di pomodoro 30 g",
+      "Paprika dolce 5 g",
+      "Salvia 6 foglie",
+      "Timo q.b.",
+      "Maggiorana q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-pomodoro-e-ceci-con-bulgur.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/202/20299/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 392.5,
+    "protein": null,
+    "carbs": 73.4,
+    "fats": 6.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Bulgur",
+        200.0,
+        "g"
+      ],
+      [
+        "Pomodori pelati",
+        380.0,
+        "g"
+      ],
+      [
+        "Ceci precotti",
+        140.0,
+        "g"
+      ],
+      [
+        "Carote 3",
+        null,
+        "da verificare"
+      ],
+      [
+        "Scalogno &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Concentrato di pomodoro",
+        30.0,
+        "g"
+      ],
+      [
+        "Paprika dolce",
+        5.0,
+        "g"
+      ],
+      [
+        "Salvia",
+        6.0,
+        "foglie"
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Maggiorana",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di pomodoro e ceci con bulgur, per prima cosa mondate e tritate lo scalogno, poi pelate e tagliate le carote a fettine sottili. In un tegame soffriggete lo scalogno con un filo d’olio per 2-3 minuti,",
+      "poi aggiungete le carote e cuocete per altri 3 minuti, aiutandovi con poca acqua. Ora versate i pomodori pelati e schiacciateli con un cucchiaio di legno. Aggiustate di sale e pepe e cuocete a fuoco medio per circa 5 minuti.",
+      "A questo punto unite anche i ceci sgocciolati e le erbe aromatiche, mescolate bene, chiudete con il coperchio e cuocete per circa 10 minuti, aggiungendo al bisogno altra acqua per evitare che si bruci.",
+      "Trascorso questo tempo versate il bulgur direttamente nel tegame, mescolate bene e unite anche la paprika. Proseguite la cottura per altri 30 minuti aggiungendo sempre poca acqua per volta.",
+      "Unite anche il concentrato di pomodoro. A fine cottura condite con un filo di olio a crudo e una macinata di pepe nero. La vostra zuppa di pomodoro e ceci con bulgur è pronta per essere servita ben calda!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:59:18.087787+00:00",
+    "repaired_at": "2026-10-10T13:59:58.059032+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 173962377170710,
+    "name": "Zuppa di pomodori arrosto e mozzarella",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Piatto unico",
+    "time": 80,
+    "ingredients_display": [
+      "Pomodorini datterini maturi 1 kg",
+      "Mozzarella 300 g",
+      "Olio extravergine d'oliva 50 g",
+      "Origano q.b.",
+      "Paprika q.b.",
+      "Basilico q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Pane casereccio 80 g",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Origano q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-pomodori-arrosto-e-mozzarella.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/175/17594/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 634.0,
+    "protein": null,
+    "carbs": 24.3,
+    "fats": 45.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pomodorini datterini maturi",
+        1.0,
+        "kg"
+      ],
+      [
+        "Mozzarella",
+        300.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        50.0,
+        "g"
+      ],
+      [
+        "Origano",
+        null,
+        "q.b."
+      ],
+      [
+        "Paprika",
+        null,
+        "q.b."
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Pane casereccio",
+        80.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Origano",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la zuppa di pomodori arrosto e mozzarella cominciate lavando i pomodorini. Asciugateli e tagliateli a metà nel senso della lunghezza. Poi disponeteli a faccia in giù su una leccarda foderata con carta forno.",
+      "Cospargete con circa 40 grammi d’olio, regolate di sale e pepe, poi aromatizzate con origano secco e paprika.",
+      "Ecco pronti i vostri pomodorini da cuocere. Vanno sul ripiano medio-alto del forno già caldo a 220°, in modalità statica per 40-45 minuti. A fine cottura risulteranno arrostiti e succosi. Raccogliete il foglio di carta forno e traferite i pomodorini in una ciotola e lasciate intiepidire.",
+      "Nel frattempo passate alla mozzarella, prendetene 200 grammi dal totale e ottenete dei pezzi grossi. Raccogliete il tutto in una ciotolina, anche il siero che fuoriesce, e poi versate il tutto nel recipiente coi pomodori. Aggiungete delle foglioline di basilico",
+      "e poi frullate il tutto con un frullatore ad immersione. Aggiungete un po’ d’acqua al bisogno fino ad ottenere una vellutata liscia della consistenza che preferite.",
+      "Tenete la zuppa da parte e passate a fare i crostini. Affettate il pane sottilmente. Aggiungete un goccio d’olio insieme ad un pizzico di sale, di pepe e di origano. Infornate, sempre in forno statico preriscaldato a 220° per 7-8 minuti, il tempo necessario a dorare il pane.",
+      "È arrivato il momento della composizione del piatto. Tagliate a piccoli cubetti i restanti 100 g di mozzarella, servirà per decorare. Poi nei piatti da portata versate un po’ di zuppa e immergete il pane tostato. Guarnite il tutto con i cubetti di mozzarella, le foglioline di basilico, un pizzico di paprika e un filo d’olio. Ecco pronta la zuppa di pomodori arrosto e mozzarella."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T13:59:20.812882+00:00",
+    "repaired_at": "2026-10-10T14:00:00.660179+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images_checked_at": "2026-10-10T14:00:29.480084+00:00"
+  },
+  {
+    "id": 21569966455552,
+    "name": "Zuppa di pollo e avocado",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 95,
+    "ingredients_display": [
+      "Petto di pollo 400 g",
+      "Avocado 1",
+      "Pomodori ramati 200 g",
+      "Sedano 160 g",
+      "Patate 100 g",
+      "Carote 50 g",
+      "Zenzero fresco 20 g",
+      "Lime 1",
+      "Cipolle rosse 1",
+      "Aglio 2 spicchi",
+      "Peperoncino dolce lungo 1",
+      "Peperoncino verde dolce lungo 1",
+      "Coriandolo fresco 1 mazzetto",
+      "Acqua q.b.",
+      "Sale fino q.b.",
+      "Lime 2",
+      "Curcuma in polvere circa 1 cucchiaino",
+      "Chiodi di garofano circa 1 cucchiaino",
+      "Bacche di ginepro 4",
+      "Olio extravergine d'oliva 20 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Zuppa-di-pollo-e-avocado.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/175/17526/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 351.8,
+    "protein": null,
+    "carbs": 29.5,
+    "fats": 16.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Petto di pollo",
+        400.0,
+        "g"
+      ],
+      [
+        "Avocado 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pomodori ramati",
+        200.0,
+        "g"
+      ],
+      [
+        "Sedano",
+        160.0,
+        "g"
+      ],
+      [
+        "Patate",
+        100.0,
+        "g"
+      ],
+      [
+        "Carote",
+        50.0,
+        "g"
+      ],
+      [
+        "Zenzero fresco",
+        20.0,
+        "g"
+      ],
+      [
+        "Lime 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cipolle rosse 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Aglio",
+        2.0,
+        "spicchi"
+      ],
+      [
+        "Peperoncino dolce lungo 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Peperoncino verde dolce lungo 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Coriandolo fresco 1 mazzetto",
+        null,
+        "da verificare"
+      ],
+      [
+        "Acqua",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Lime 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Curcuma in polvere circa 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Chiodi di garofano circa 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Bacche di ginepro 4",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per realizzare la zuppa di pollo e avocado, per prima cosa preparate tutte le verdure: lavate il sedano ed eliminate i filamenti esterni utilizzando un pelaverdure, poi tagliatelo a pezzettini. Mondate la cipolla rossa e tagliatela a fettine sottili,",
+      "poi pelate gli spicchi di aglio e tagliateli a metà per il lungo. Pelate le carote e tagliatele prima a bastoncini e poi a cubetti.",
+      "Ora prendete i pomodori, rimuovete la buccia con uno spelucchino, poi tagliateli a metà e rimuovete il picciolo; dividete le metà a spicchi ed eliminate la polpa interna con i semini, poi tagliateli a fettine sottili.",
+      "Sbucciate la patata e dividetela a metà prima trasversalmente, poi longitudinalmente, dopodiché tagliatela a fettine sottili.",
+      "Pelate lo zenzero con il pelaverdure e tagliate anch’esso a fettine sottili. Prendete uno dei lime, dividetelo in quarti e tagliateli a fettine sottili (se non gradite il restrogusto amarognolo, potete utilizzare mezzo lime o solo qualche fettina in questa fase).",
+      "Infine lavate il peperoncino rosso, dividetelo a metà per il lungo ed eliminate i semini interni, poi tagliatelo a pezzettini; fate la stessa cosa con il peperoncino verde. Unite tutte queste verdure in una ciotola capiente e tenete da parte.",
+      "Ora potete occuparvi del pollo: tagliate il petto di pollo a striscioline di medio spessore, trasferitelo in una ciotola e aggiungete il succo spremuto dei due lime rimasti, i chiodi di garofano,",
+      "le bacche di ginepro e la curcuma. Mescolate bene, coprite la ciotola con la pellicola e lasciate marinare in frigorifero per almeno 20 minuti.",
+      "Trascorso il tempo della marinatura, rimuovete il pollo dal frigorifero ed eliminate le bacche di ginepro. Mentre lasciate che il pollo torni a temperatura ambiente, cominciate a cuocere le verdure: prendete una casseruola capiente dai bordi alti, aggiungete il mix di verdure preparato in precedenza e versate l’acqua all’interno fino a coprire tutti gli ingredienti. Coprite con un coperchio e portate a bollore a fuoco medio.",
+      "Nel frattempo, scaldate l’olio d’oliva in un’altra padella, aggiungete il pollo marinato e fatelo saltare a fuoco medio per 5-6 minuti, mescolando spesso. Una volta pronto, trasferite il pollo in una ciotola e tenetelo momentaneamente da parte.",
+      "Quando la zuppa sarà arrivata a bollore, aggiungete il pollo precedentemente saltato, mescolate, aggiustate di sale, poi ricoprite con il coperchio e continuate la cottura. A questo punto preparate l’avocado: tagliatelo a metà per il lungo, eliminate l’osso centrale con un cucchiaio, dopodiché staccate la polpa dalla buccia avendo cura di non rovinarla, sempre usando il cucchiaio.",
+      "Tagliate la polpa dell’avocado prima a fette e poi a dadini, e aggiungetela alla zuppa in cottura. Richiudete con il coperchio e lasciate cuocere la zuppa per almeno 50 minuti in tutto.",
+      "Trascorso il tempo di cottura, rimuovete la zuppa dal fornello, poi lavate e tritate il coriandolo fresco. Dividete la zuppa nei piatti da portata e cospargetela con il coriandolo tritato: la vostra gustosa zuppa di pollo e avocado è pronta per essere servita!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T13:59:23.911919+00:00",
+    "repaired_at": "2026-10-10T14:00:03.259731+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
       "tools": [
         "Fornelli"
       ],

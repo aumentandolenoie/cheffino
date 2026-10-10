@@ -912,6 +912,19 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -1048,6 +1061,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -1148,6 +1175,19 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -1249,6 +1289,19 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -1256,7 +1309,7 @@
     "name": "Zuppa autunnale",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 160,
     "ingredients_display": [
       "Zucca (già pulita) 840 g",
@@ -1371,7 +1424,7 @@
       "insaporite con olio di oliva 19 , un pizzico di sale e aghetti di rosmarino 20 , quindi fate tostare il pane fino a dorarlo 21 in forno statico preriscaldato a 240° in modalità grill per 3-4 minuti.",
       "Ora ponete i gherigli di noci in una padella ben calda 22 (potete lasciarle intere oppure sbriciolarle grossolanamente), tostatele per 3 minuti per dorarle agitando la padella per non farle bruciare 23 , quindi unitele alla zuppa. Servite la zuppa autunnale calda 24 accompagnandola con i crostini di pane tostato."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:45:41.556560+00:00",
     "repaired_at": "2026-10-10T12:26:26.623077+00:00",
     "classificazione_automatica": {
@@ -1382,6 +1435,18 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -1504,6 +1569,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -1567,6 +1646,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -1683,6 +1776,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -1834,6 +1941,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -1841,7 +1962,7 @@
     "name": "Torta salata pere e gorgonzola",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 50,
     "ingredients_display": [
       "Pasta Sfoglia rotonda 230 g",
@@ -1917,7 +2038,7 @@
       "Irrorate con olio 10 , aggiungete una spolverata di pepe 11 e qualche foglia di salvia 12 .",
       "Completate con miele di castagno 13 e ancora un po' di gorgonzola 14 . Cuocete in forno statico, nel ripiano centrale, a 200°C per 30 minuti, fino a doratura. Lasciate intiepidire e la vostra torta salata pere e gorgonzola è pronta per essere gustata 15 ."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:45:55.407189+00:00",
     "repaired_at": "2026-10-10T12:26:40.165986+00:00",
     "classificazione_automatica": {
@@ -1928,6 +2049,17 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -2072,6 +2204,21 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -2154,6 +2301,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -2272,6 +2433,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -2377,6 +2552,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -2476,6 +2665,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -2576,6 +2779,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -2670,6 +2887,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -2764,6 +2995,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -2865,6 +3110,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -2997,6 +3256,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -3096,6 +3369,21 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -3201,6 +3489,21 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -3330,6 +3633,20 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -3337,7 +3654,7 @@
     "name": "Sgombro in padella",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 30,
     "ingredients_display": [
       "Filetti di sgombro (già puliti) 600 g",
@@ -3437,7 +3754,7 @@
       "Aggiungete anche le olive nere 10 e mescolate, poi adagiate i filetti di sgombro con la pelle rivolta verso il basso, facendo attenzione a non sovrapporli 11 . Versate il vino bianco 12 .",
       "Coprite con il coperchio 13 e proseguite la cottura a fuoco basso per altri 10 minuti. In ultimo, aromatizzate con il prezzemolo tritato 14 . Il vostro sgombro in padella è pronto per essere servito 15 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:56:29.679864+00:00",
     "repaired_at": "2026-10-10T12:32:46.745619+00:00",
     "classificazione_automatica": {
@@ -3448,6 +3765,17 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -3585,6 +3913,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -3687,6 +4029,19 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Secondo",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -3771,6 +4126,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -3897,6 +4266,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -4030,6 +4413,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -4146,6 +4543,20 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Bevanda",
+      "tools": [
+        "Fornelli",
+        "Microonde"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -4239,6 +4650,19 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -4328,6 +4752,19 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -4449,6 +4886,17 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Piatto unico",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -4456,7 +4904,7 @@
     "name": "Panino al salame con crema di provolone e melanzane",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 30,
     "ingredients_display": [
       "Pane (4 rosette) 250 g",
@@ -4527,7 +4975,7 @@
       "Siete pronti per assemblare i panini: dividete la rosetta a metà con un coltello seghettato 13 , poi distribuite un cucchiaio di crema di provolone sulla base 14 e aggiungete le melanzane grigliate 15 .",
       "Farcite con le fette di salame 16 , ricoprite con ancora poca salsa 17 e chiudete con la calotta. Il vostro panino al salame con crema di provolone e melanzane è pronto per essere gustato 18 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:56:56.446151+00:00",
     "repaired_at": "2026-10-10T12:33:31.657178+00:00",
     "classificazione_automatica": {
@@ -4538,6 +4986,17 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -4653,6 +5112,19 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -4765,6 +5237,19 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -4772,7 +5257,7 @@
     "name": "Minestra di riso con legumi",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 65,
     "ingredients_display": [
       "Riso per risotti 240 g",
@@ -4866,7 +5351,7 @@
       "Coprite con un coperchio 10 e cuocete a fuoco medio per 20 minuti. Trascorso il tempo di cottura, versate il riso 11 e mescolate, poi aggiustate di sale 12 . Coprite con il coperchio e lasciate andare sul fuoco per altri 10 minuti, mescolando ogni tanto.",
       "Trascorsi i 10 minuti 13 , servite la vostra minestra di riso con legumi completando con una spolverata di pepe nero, un filo d'olio 14 e qualche fogliolina di timo 15 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:57:04.413471+00:00",
     "repaired_at": "2026-10-10T12:33:00.039374+00:00",
     "classificazione_automatica": {
@@ -4877,6 +5362,17 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -4987,6 +5483,19 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -5042,6 +5551,18 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Bevanda",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -5113,6 +5634,20 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli",
+        "Microonde"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -5234,6 +5769,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -5366,6 +5915,21 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -5434,6 +5998,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Bevanda",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -5514,6 +6092,21 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Bevanda",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -5587,6 +6180,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -5714,6 +6321,21 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -5823,6 +6445,22 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -5916,6 +6554,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -6034,6 +6686,21 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -6121,6 +6788,20 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Bevanda",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -6214,6 +6895,21 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -6306,6 +7002,21 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -6379,6 +7090,21 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -6448,6 +7174,22 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Condimento",
+      "tools": [
+        "Fornelli",
+        "Microonde"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -6455,7 +7197,7 @@
     "name": "Baccalà mantecato alla veneziana",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 60,
     "ingredients_display": [
       "Stoccafisso (già ammollato) 800 g",
@@ -6519,7 +7261,7 @@
       "Versate a filo l’olio di semi mentre la planetaria è in azione, poi aggiungete sale e pepe macinato a piacere 10 . Dopodiché aumentate la velocità e continuate a lavorare il composto fino ad ottenere una crema 11 . Ci vorranno circa 10 minuti in tutto in planetaria. Formate le quenelle aiutandovi con 2 cucchiai 12 .",
       "Adagiate le quenelle su crostini di pane tostato 13 oppure su crostini di polenta. Insaporite con prezzemolo fresco tritato 14 e ancora pepe macinato a piacere. Il baccalà mantecato alla veneziana è pronto per essere gustato 15 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T12:26:07.898219+00:00",
     "repaired_at": "2026-10-10T12:33:05.256163+00:00",
     "classificazione_automatica": {
@@ -6530,6 +7272,17 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -6537,7 +7290,7 @@
     "name": "Baccalà in umido",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 60,
     "ingredients_display": [
       "Baccalà dissalato 600 g",
@@ -6620,7 +7373,7 @@
       "Insaporite con le olive taggiasche 13 , coprite con il coperchio 14 e proseguite la cottura per altri 5-10 minuti, in modo che il baccalà si insaporisca nel sugo 15 .",
       "A fine cottura aggiungete l’origano secco 16 . Impiattate il baccalà insieme al suo sugo 17 , quindi ultimate con altro origano secco 18 e una macinata di pepe nero."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T12:26:10.636421+00:00",
     "repaired_at": "2026-10-10T12:33:07.952499+00:00",
     "classificazione_automatica": {
@@ -6631,6 +7384,17 @@
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -6752,6 +7516,19 @@
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
       "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   }
 ]

@@ -26,7 +26,7 @@ from pulisci_procedimenti import clean_steps, candidates
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
-IMAGE_VERSION = 5
+IMAGE_VERSION = 6
 
 
 def normalize(s):
@@ -139,35 +139,49 @@ def associate_numbered(parser, source_steps, count):
 
 
 
-def associate_strips(parser, count):
-    """Associate strip images like strip_1-3.jpg to all covered steps.
-    The frontend collapses repeated consecutive strips, so the user sees each strip once.
+def associate_strips(parser, source_steps, count):
+    """Ogni strip 1-3 e' un'immagine composta che appartiene a UN blocco di testo.
+
+    Se esistono numeri nel testo, accertiamo che i tre riferimenti appartengano
+    tutti allo stesso blocco. In alternativa richiediamo che le strip siano
+    complete e ordinate: una per blocco, senza buchi o sovrapposizioni.
     """
-    strips = sorted(parser.strips, key=lambda x: (x[0], x[1], x[2]))
+    strips = sorted(set(parser.strips), key=lambda x: (x[0], x[1], x[2]))
     if not strips or count < 1:
         return []
+    ref_step = {}
+    if source_steps:
+        hits = candidates(source_steps)
+        numbers = [h[3] for h in hits]
+        if numbers == list(range(1, len(numbers) + 1)):
+            ref_step = {number: step for step, _a, _b, number in hits}
     blocks = [[] for _ in range(count)]
-    used = False
-    for start, end, url in strips:
-        # Clamp the declared range to the actual number of steps.
-        if start > count:
-            continue
-        step_start = max(1, start)
-        step_end = min(count, end)
-        if step_start > step_end:
-            continue
-        used = True
-        for step_no in range(step_start, step_end + 1):
-            blocks[step_no - 1].append(url)
-    return blocks if used and any(blocks) else []
-
+    if ref_step:
+        for start, end, url in strips:
+            matched = {ref_step.get(n) for n in range(start, end + 1)}
+            if None in matched or len(matched) != 1:
+                return []
+            idx = matched.pop()
+            if not 0 <= idx < count or blocks[idx]:
+                return []
+            blocks[idx].append(url)
+        return blocks if any(blocks) else []
+    if len(strips) != count:
+        return []
+    next_no = 1
+    for idx, (start, end, url) in enumerate(strips):
+        if start != next_no or end < start or end - start > 2:
+            return []
+        blocks[idx].append(url)
+        next_no = end + 1
+    return blocks
 
 
 def associate_steps(parser, source_steps, count):
     groups = associate_numbered(parser, source_steps, count)
     if groups:
         return groups, 'numbered'
-    groups = associate_strips(parser, count)
+    groups = associate_strips(parser, source_steps, count)
     if groups:
         return groups, 'strip'
     return [], None
@@ -239,7 +253,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
                 rec['image_url'] = main
                 main_added += 1
 
-            if not rec.get('step_images'):
+            if not rec.get('step_images') or any(re.search(r'[_-]strip[_-]?\d{1,3}-\d{1,3}\.', u, re.I) for group in (rec.get('step_images') or []) if isinstance(group, list) for u in group if isinstance(u, str)):
                 raw = original_steps(html, url, rec['steps'])
                 groups, method = associate_steps(parser, raw, len(rec['steps']))
                 if groups:

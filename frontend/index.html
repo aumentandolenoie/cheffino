@@ -88,6 +88,29 @@
   .recipecard .smallbtn{padding:6px 5px}
   .summarybar{padding:5px}
 }
+
+/* Cheffino — griglie dispari: ultima scheda a larghezza intera */
+.weekly-recipes-grid > .recipecard:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+  width: 100%;
+  justify-self: stretch;
+}
+@media (max-width: 760px) {
+  /* Quinto riquadro centrato, largo quanto gli altri; nessuna cella vuota. */
+  .summarybar > .summaryitem:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+    width: calc((100% - 0px) / 2);
+    justify-self: center;
+    border-right: 0;
+    border-bottom: 0;
+    text-align: center;
+  }
+  .weekly-recipes-grid > .recipecard:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+    width: 100%;
+    justify-self: stretch;
+  }
+}
 </style></head>
 <body><div class="app" id="app"><header class="topbar"><div class="brand"><div class="logo">👨‍🍳</div>cheffino</div><div class="topright"><span class="pill">IL TUO ASSISTENTE IN CUCINA</span><button class="btn" id="resetBtn">↻ Ricomincia</button></div></header><main class="wrap" id="main"></main></div><div id="modalRoot"></div><input id="cheffinoBackupInput" type="file" accept="application/json,.json" style="display:none" onchange="importCheffinoBackup(this)">
 <script>

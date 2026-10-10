@@ -97,7 +97,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Frittata-di-spinaci.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/268-26898/Frittata-di-spinaci_650x433_wm.jpg",
     "servings": 4,
     "kcal": 311.9,
     "protein": 15.2,
@@ -143,7 +143,8 @@
       "Versa il composto in una padella con olio e cuoci a fuoco dolce con coperchio per circa 10 minuti.",
       "Gira la frittata e prosegui la cottura per circa 5 minuti, fino a doratura."
     ],
-    "step_images_checked_at": "2026-10-10T13:43:02.089483+00:00"
+    "step_images_checked_at": "2026-10-10T14:29:25.360829+00:00",
+    "images_import_version": 2
   },
   {
     "id": 5,
@@ -6339,7 +6340,71 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26816/granola-senza-zucchero_24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la granola senza zucchero come prima cosa in una ciotola versate i fiocchi d'avena e il cocco rapè 1 . Aggiungete i semi misti 2 e le mandorle a lamelle 3 .",
+      "Aggiungete le noci 4 , un pizzico di sale e mescolate bene 5 . Prendete i datteri, apriteli a metà ed estraete il nocciolo 6 .",
+      "Trasferite i datteri in un mixer 7 , unite l'olio di cocco 8 e l'acqua 9 .",
+      "Aggiungete il burro di arachidi 10 e lo sciroppo d'acero 11 . Versate poi anche l'estratto di vaniglia 12 .",
+      "Frullate il tutto sino ad ottenere una crema grossolana 13 ; unitela nella ciotola con il composto di fiocchi di avena e cocco  14 e impastate a mano 15 .",
+      "Dovrete ottenere un composto omogeneo 16 e sbriciolarlo in una teglia rivestita con carta forno 17 . Non preoccupatevi se alcuni pezzi sono più grossi di altri 18 .",
+      "Cuocete in forno statico preriscaldato a 170° per 20-25 minuti girando a metà cottura. Poi sfornate e lasciate raffreddare. Intanto tritate grossolanamente il cioccolato fondente 20 , quindi unitelo alla granola 21 .",
+      "La granola senza zucchero è pronta 22 ; potete gustarla nel latte, da sola 23 o per arricchire lo yogurt 24 ."
+    ],
+    "steps_clean": [
+      "Per preparare la granola senza zucchero come prima cosa in una ciotola versate i fiocchi d'avena e il cocco rapè. Aggiungete i semi misti e le mandorle a lamelle.",
+      "Aggiungete le noci, un pizzico di sale e mescolate bene. Prendete i datteri, apriteli a metà ed estraete il nocciolo.",
+      "Trasferite i datteri in un mixer, unite l'olio di cocco e l'acqua.",
+      "Aggiungete il burro di arachidi e lo sciroppo d'acero. Versate poi anche l'estratto di vaniglia.",
+      "Frullate il tutto sino ad ottenere una crema grossolana; unitela nella ciotola con il composto di fiocchi di avena e cocco e impastate a mano.",
+      "Dovrete ottenere un composto omogeneo e sbriciolarlo in una teglia rivestita con carta forno. Non preoccupatevi se alcuni pezzi sono più grossi di altri.",
+      "Cuocete in forno statico preriscaldato a 170° per 20-25 minuti girando a metà cottura. Poi sfornate e lasciate raffreddare. Intanto tritate grossolanamente il cioccolato fondente 20 , quindi unitelo alla granola 21 .",
+      "La granola senza zucchero è pronta 22 ; potete gustarla nel latte, da sola 23 o per arricchire lo yogurt 24 ."
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:34.379978+00:00"
   },
   {
     "id": 14027845692352,
@@ -6421,7 +6486,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:31.701618+00:00"
   },
   {
     "id": 153059926286141,
@@ -6516,7 +6583,43 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/323/32376/gingerbread-latte_12.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare il gingerbread latte per prima cosa occupatevi dello sciroppo: versate lo zucchero di canna in un pentolino 1 , poi unite la cannella 2 e lo zenzero 3 .",
+      "Aggiungete anche l’acqua 4 e mescolate gli ingredienti con una frusta 5 . Portate il pentolino sul fuoco e scaldate a fuoco medio-basso fino al bollore, poi cuocete per altri 3 minuti fino a quando il composto raggiungerà la consistenza di uno sciroppo 6 . Spegnete il fuoco e tenete da parte.",
+      "Nel frattempo montate il latte con l’aiuto di un montalatte fino ad ottenere una schiuma soffice e omogenea 7 . In ultimo preparate il caffè. Per comporre la bevanda, versate prima lo sciroppo nei bicchieri 8 , poi aggiungete il caffè 9 .",
+      "Infine guarnite con il latte montato 10 e con una spolverata di cacao amaro 11 . Il vostro gingerbread latte è pronto per essere gustato 12 !"
+    ],
+    "steps_clean": [
+      "Per preparare il gingerbread latte per prima cosa occupatevi dello sciroppo: versate lo zucchero di canna in un pentolino, poi unite la cannella e lo zenzero.",
+      "Aggiungete anche l’acqua e mescolate gli ingredienti con una frusta. Portate il pentolino sul fuoco e scaldate a fuoco medio-basso fino al bollore, poi cuocete per altri 3 minuti fino a quando il composto raggiungerà la consistenza di uno sciroppo. Spegnete il fuoco e tenete da parte.",
+      "Nel frattempo montate il latte con l’aiuto di un montalatte fino ad ottenere una schiuma soffice e omogenea. In ultimo preparate il caffè. Per comporre la bevanda, versate prima lo sciroppo nei bicchieri, poi aggiungete il caffè.",
+      "Infine guarnite con il latte montato e con una spolverata di cacao amaro. Il vostro gingerbread latte è pronto per essere gustato!"
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:28.006014+00:00"
   },
   {
     "id": 71900842786149,
@@ -6603,7 +6706,36 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36683/dolce-con-fette-biscottate-e-yogurt_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36683/dolce-con-fette-biscottate-e-yogurt_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36683/dolce-con-fette-biscottate-e-yogurt_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36683/dolce-con-fette-biscottate-e-yogurt_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36683/dolce-con-fette-biscottate-e-yogurt_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36683/dolce-con-fette-biscottate-e-yogurt_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36683/dolce-con-fette-biscottate-e-yogurt_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36683/dolce-con-fette-biscottate-e-yogurt_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36683/dolce-con-fette-biscottate-e-yogurt_9.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare il dolce con fette biscottate e yogurt, versate in una ciotola lo yogurt greco e il miele 1 ; poi mescolate con un cucchiaio 2 fino a ottenere una crema omogenea. Tritate grossolanamente le nocciole 3 e tenetele da parte.",
+      "Versate il latte di riso in una pirofila. Immergete velocemente le fette biscottate nel latte, una alla volta, bagnandole da entrambi i lati senza lasciarle in ammollo troppo a lungo 4 . Componete ciascun dolce utilizzando 3 fette biscottate: sistemate la prima fetta sul piatto 5 e distribuite sopra una parte dello yogurt al miele 6 . Con queste dosi otterrete 2 dolci.",
+      "Aggiungete un po’ di nocciole tritate 7 . Proseguite nello stesso modo con le altre fette, alternando gli strati. Completate con lo yogurt rimasto, le nocciole tritate 8 e i lamponi freschi 9 . Il vostro dolce con fette biscottate e yogurt è pronto per essere servito."
+    ],
+    "steps_clean": [
+      "Per preparare il dolce con fette biscottate e yogurt, versate in una ciotola lo yogurt greco e il miele; poi mescolate con un cucchiaio fino a ottenere una crema omogenea. Tritate grossolanamente le nocciole e tenetele da parte.",
+      "Versate il latte di riso in una pirofila. Immergete velocemente le fette biscottate nel latte, una alla volta, bagnandole da entrambi i lati senza lasciarle in ammollo troppo a lungo. Componete ciascun dolce utilizzando 3 fette biscottate: sistemate la prima fetta sul piatto e distribuite sopra una parte dello yogurt al miele. Con queste dosi otterrete 2 dolci.",
+      "Aggiungete un po’ di nocciole tritate. Proseguite nello stesso modo con le altre fette, alternando gli strati. Completate con lo yogurt rimasto, le nocciole tritate e i lamponi freschi. Il vostro dolce con fette biscottate e yogurt è pronto per essere servito."
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:22.688040+00:00"
   },
   {
     "id": 186772930162175,
@@ -6745,7 +6877,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:17.109005+00:00"
   },
   {
     "id": 4910680209640,
@@ -6870,7 +7004,78 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36326/crostata-cioccolato-e-lamponi_27.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la crostata cioccolato e lamponi iniziate dalla pasta frolla al cacao. Versate la farina 00 in una ciotola insieme allo zucchero a velo 1 . Aggiungete il cacao amaro in polvere 2 e il tuorlo 3 .",
+      "Unite un pizzico di sale 4 , un cucchiaino di estratto di vaniglia 5 e il burro freddo tagliato a pezzetti 6 .",
+      "Impastate velocemente con le mani 7 , fino a ottenere un composto compatto, liscio e omogeneo 8 . Formate un panetto, avvolgetelo nella pellicola trasparente 9 e lasciatelo riposare in frigorifero per almeno 30 minuti.",
+      "Trascorso il tempo di riposo, infarinate leggermente il piano di lavoro e stendete la frolla con il mattarello 10 fino a raggiungere uno spessore di circa 7 mm 11 . Imburrate e infarinate uno stampo da 18 cm, poi adagiate all’interno la frolla stesa 12 .",
+      "Fatela aderire bene al fondo e ai bordi 13 , eliminate l’eventuale eccesso e bucherellate la base con i rebbi di una forchetta 14 . Coprite con un foglio di carta forno, riempite con fagioli secchi 15 o pesetti per la cottura alla cieca e cuocete in forno statico a 180° per 20-25 minuti.",
+      "Una volta cotta, sfornate la base 16 , eliminate carta e pesetti e lasciatela raffreddare completamente 17 . Nel frattempo preparate la ganache. Tritate finemente il cioccolato fondente 18 e raccoglietelo in una ciotola.",
+      "Versate la panna fresca in un pentolino 19 , scaldatela a fuoco medio e portatela a sfiorare il bollore. Versate la panna calda sul cioccolato tritato 20 . Mescolate con una frusta a mano 21 , fino a ottenere una crema liscia, lucida e omogenea.",
+      "Aggiungete il burro 22 e mescolate ancora per incorporarlo, poi lasciate intiepidire la ganache a temperatura ambiente 23 . Quando la base di frolla sarà fredda, versate all’interno la ganache tiepida 24 .",
+      "Livellate la superficie con una spatola 25 . Distribuite i lamponi interi sulla superficie 26 , sistemandoli in modo ordinato fino a ricoprirla completamente 27 . Trasferite la crostata in frigorifero e lasciatela rassodare per circa 2 ore prima di servirla."
+    ],
+    "steps_clean": [
+      "Per preparare la crostata cioccolato e lamponi iniziate dalla pasta frolla al cacao. Versate la farina 00 in una ciotola insieme allo zucchero a velo. Aggiungete il cacao amaro in polvere e il tuorlo.",
+      "Unite un pizzico di sale, un cucchiaino di estratto di vaniglia e il burro freddo tagliato a pezzetti.",
+      "Impastate velocemente con le mani, fino a ottenere un composto compatto, liscio e omogeneo. Formate un panetto, avvolgetelo nella pellicola trasparente e lasciatelo riposare in frigorifero per almeno 30 minuti.",
+      "Trascorso il tempo di riposo, infarinate leggermente il piano di lavoro e stendete la frolla con il mattarello fino a raggiungere uno spessore di circa 7 mm. Imburrate e infarinate uno stampo da 18 cm, poi adagiate all’interno la frolla stesa.",
+      "Fatela aderire bene al fondo e ai bordi, eliminate l’eventuale eccesso e bucherellate la base con i rebbi di una forchetta. Coprite con un foglio di carta forno, riempite con fagioli secchi o pesetti per la cottura alla cieca e cuocete in forno statico a 180° per 20-25 minuti.",
+      "Una volta cotta, sfornate la base, eliminate carta e pesetti e lasciatela raffreddare completamente. Nel frattempo preparate la ganache. Tritate finemente il cioccolato fondente e raccoglietelo in una ciotola.",
+      "Versate la panna fresca in un pentolino, scaldatela a fuoco medio e portatela a sfiorare il bollore. Versate la panna calda sul cioccolato tritato. Mescolate con una frusta a mano, fino a ottenere una crema liscia, lucida e omogenea.",
+      "Aggiungete il burro e mescolate ancora per incorporarlo, poi lasciate intiepidire la ganache a temperatura ambiente. Quando la base di frolla sarà fredda, versate all’interno la ganache tiepida.",
+      "Livellate la superficie con una spatola. Distribuite i lamponi interi sulla superficie, sistemandoli in modo ordinato fino a ricoprirla completamente. Trasferite la crostata in frigorifero e lasciatela rassodare per circa 2 ore prima di servirla."
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:14.417919+00:00"
   },
   {
     "id": 18127233988502,
@@ -6977,7 +7182,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:11.773844+00:00"
   },
   {
     "id": 24853061215378,
@@ -7110,7 +7317,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:09.115568+00:00"
   },
   {
     "id": 155960509512323,
@@ -8345,7 +8554,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:19.901474+00:00"
   },
   {
     "id": 90620450073313,
@@ -11247,7 +11458,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:06.471887+00:00"
   },
   {
     "id": 193270235217577,
@@ -11809,7 +12022,99 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_30.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_31.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_32.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_33.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_34.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_35.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29666/controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_36.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare il controfiletto di manzo con verdure e salsa chimichurri iniziate proprio dalla salsa: in una ciotola unite l’origano secco 1 , il peperoncino secco tritato 2 e il prezzemolo tritato finemente 3 .",
+      "Schiacciate gli spicchi d’aglio a cui avrete tolto il germoglio interno 4 , poi aggiungete sale 5 e il succo di limone 6 .",
+      "Versate anche l’olio 7 e l’aceto di vino rosso 8 , poi mescolate bene 9 . Lasciate riposare a temperatura ambiente per almeno 30 minuti per far amalgamare i sapori.",
+      "Nel frattempo occupatevi della carne: eliminate la membrana dal controfiletto 10 , poi tagliatelo a fette dello spessore di circa 4 cm 11 . Salate 12 e lasciate riposare a temperatura ambiente per circa 30 minuti per far insaporire.",
+      "Passate alle verdure: mondate e tagliate le carote prima a fette 13 e poi a bastoncini sottili 14 . Fate la stessa cosa con le melanzane realizzando dei bastoncini un po’ più spessi, poiché cuoceranno in meno tempo 15 .",
+      "Riducete anche il peperone a listarelle della stessa dimensione delle melanzane 16 . Tagliate le zucchine a rondelle dello spessore di 1 cm 17 e infine affettate le cipolle a mezzaluna 18 .",
+      "Distribuite tutte le verdure su una leccarda foderata con carta forno 19 , poi condite con sale, pepe 20 e uno spicchio di aglio schiacciato 21 .",
+      "Aromatizzate con timo e rosmarino 22 , poi irrorate con un giro d’olio 23 e mescolate con le mani per insaporire le verdure in modo uniforme 24 . Cuocete in forno ventilato preriscaldato a 200° per circa 25-30 minuti.",
+      "Quando le verdure saranno cotte 25 , sfornate e riprendete il controfiletto: condite le fette con un filo d’olio 26 e massaggiatelo su entrambi i lati 27 .",
+      "Mettete sul fuoco una griglia di ghisa. Quando sarà rovente adagiate le fette di carne 28 e cuocete da entrambi i lati 29 per un totale di 5-6 minuti (circa 3 minuti per lato) 30 ; in questo modo otterrete una cottura media.",
+      "Trasferite il controfiletto su una gratella 31 e lasciate riposare per 8 minuti, così i succhi si redistribuiranno. Trascorso il tempo di riposo tagliate la carne a fette 32 e impiattate: distribuite le verdure al forno 33 .",
+      "Adagiate le fettine di carne sopra le verdure 34 , poi irrorate con la salsa chimichurri 35 . Servite subito il vostro controfiletto di manzo con verdure e salsa chimichurri 36 !"
+    ],
+    "steps_clean": [
+      "Per preparare il controfiletto di manzo con verdure e salsa chimichurri iniziate proprio dalla salsa: in una ciotola unite l’origano secco, il peperoncino secco tritato e il prezzemolo tritato finemente.",
+      "Schiacciate gli spicchi d’aglio a cui avrete tolto il germoglio interno, poi aggiungete sale e il succo di limone.",
+      "Versate anche l’olio e l’aceto di vino rosso, poi mescolate bene. Lasciate riposare a temperatura ambiente per almeno 30 minuti per far amalgamare i sapori.",
+      "Nel frattempo occupatevi della carne: eliminate la membrana dal controfiletto, poi tagliatelo a fette dello spessore di circa 4 cm. Salate e lasciate riposare a temperatura ambiente per circa 30 minuti per far insaporire.",
+      "Passate alle verdure: mondate e tagliate le carote prima a fette e poi a bastoncini sottili. Fate la stessa cosa con le melanzane realizzando dei bastoncini un po’ più spessi, poiché cuoceranno in meno tempo.",
+      "Riducete anche il peperone a listarelle della stessa dimensione delle melanzane. Tagliate le zucchine a rondelle dello spessore di 1 cm e infine affettate le cipolle a mezzaluna.",
+      "Distribuite tutte le verdure su una leccarda foderata con carta forno, poi condite con sale, pepe e uno spicchio di aglio schiacciato.",
+      "Aromatizzate con timo e rosmarino, poi irrorate con un giro d’olio e mescolate con le mani per insaporire le verdure in modo uniforme. Cuocete in forno ventilato preriscaldato a 200° per circa 25-30 minuti.",
+      "Quando le verdure saranno cotte, sfornate e riprendete il controfiletto: condite le fette con un filo d’olio e massaggiatelo su entrambi i lati.",
+      "Mettete sul fuoco una griglia di ghisa. Quando sarà rovente adagiate le fette di carne e cuocete da entrambi i lati per un totale di 5-6 minuti (circa 3 minuti per lato); in questo modo otterrete una cottura media.",
+      "Trasferite il controfiletto su una gratella e lasciate riposare per 8 minuti, così i succhi si redistribuiranno. Trascorso il tempo di riposo tagliate la carne a fette e impiattate: distribuite le verdure al forno.",
+      "Adagiate le fettine di carne sopra le verdure, poi irrorate con la salsa chimichurri. Servite subito il vostro controfiletto di manzo con verdure e salsa chimichurri!"
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:03.832766+00:00"
   },
   {
     "id": 103839694009450,
@@ -12285,7 +12590,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:01.183371+00:00"
   },
   {
     "id": 272556467712897,
@@ -15725,6 +16032,2692 @@
       "reasons": [
         "non_candidato",
         "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 179110775327344,
+    "name": "Pasta con peperoni, salsiccia e feta",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 60,
+    "ingredients_display": [
+      "Rigatoni 320 g",
+      "Peperoni gialli 500 g",
+      "Salsiccia 200 g",
+      "Feta 100 g",
+      "Salvia q.b.",
+      "Rosmarino q.b.",
+      "Timo q.b.",
+      "Olio extravergine d'oliva 30 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-peperoni-salsiccia-e-feta.html",
+    "image_url": "https://www.giallozafferano.it/images/233-23352/Pasta-con-peperoni-salsiccia-e-feta_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 639.3,
+    "protein": null,
+    "carbs": 75.6,
+    "fats": 27.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Rigatoni",
+        320.0,
+        "g"
+      ],
+      [
+        "Peperoni gialli",
+        500.0,
+        "g"
+      ],
+      [
+        "Salsiccia",
+        200.0,
+        "g"
+      ],
+      [
+        "Feta",
+        100.0,
+        "g"
+      ],
+      [
+        "Salvia",
+        null,
+        "q.b."
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con peperoni, salsiccia e feta iniziamo proprio dagli ortaggi. Dopo aver pulito internamente i peperoni tagliateli a pezzetti irregolari di circa 3 cm. Spezzate con le mani la salsiccia in pezzi di circa 2 cm, dopo aver tolto il budello, e spostatevi ai fornelli.",
+      "Scaldate una padella antiaderente e versate la salsiccia cuocete a fuoco vivace per circa 5 minuti, aggiungete un pizzico di pepe e quando sarà ben colorata mettetela in una ciotola.",
+      "Nella stessa padella versare i peperoni tagliati, salate e coprite con il coperchio lasciando cuocere per circa 10 minuti a fuoco basso; la padella ci servirà di nuovo successivamente. Intanto mettete sul fuoco una pentola con l'acqua per cuocere la pasta. Quando i peperoni saranno cotti trasferiteli nel boccale di un mixer e aggiungete l'olio.",
+      "Profumate con salvia, timo sfogliato, i rametti di rosmarino e iniziate a frullare.",
+      "Ottenete una crema liscia e tenete da parte. Sbriciolate al coltello, o anche con le mani per un effetto più rustico, la feta e tornate ai fornelli. Tuffate i rigatoni nell'acqua bollente e salata da scolare al dente.",
+      "Versare nuovamente la salsiccia nella padella, scaldate e quando la pasta sarà cotta scolatela direttamente nel condimento. Aggiungete la crema di peperoni.",
+      "Allungate con un mestolo di acqua di cottura e saltate a fuoco vivace per un paio di minuti. Spegnete il fuoco e terminate con la feta sbriciolata. Ecco pronta la vostra pasta con peperoni, salsiccia e feta."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T14:26:56.591156+00:00",
+    "repaired_at": "2026-10-10T14:27:49.963800+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:28:45.288721+00:00"
+  },
+  {
+    "id": 95116560499391,
+    "name": "Chicchi di farina di legumi con gamberi e speck",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 25,
+    "ingredients_display": [
+      "Chicchi di farina di legumi (lenticchie rosse, ceci e piselli) 300 g",
+      "Gamberi 300 g",
+      "Salsa di soia 20 g",
+      "Speck a fette 100 g",
+      "Maggiorana foglioline q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Panna acida 50 g",
+      "Latte intero 20 g",
+      "Curry 1 pizzico",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Chicchi-di-farina-di-legumi-con-gamberi-e-speck.html",
+    "image_url": "https://www.giallozafferano.it/images/197-19703/Chicchi-di-farina-di-legumi-con-gamberi-e-speck_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 507.9,
+    "protein": null,
+    "carbs": 59.8,
+    "fats": 14.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Chicchi di farina di legumi (lenticchie rosse, ceci e piselli)",
+        300.0,
+        "g"
+      ],
+      [
+        "Gamberi",
+        300.0,
+        "g"
+      ],
+      [
+        "Salsa di soia",
+        20.0,
+        "g"
+      ],
+      [
+        "Speck a fette",
+        100.0,
+        "g"
+      ],
+      [
+        "Maggiorana foglioline",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Panna acida",
+        50.0,
+        "g"
+      ],
+      [
+        "Latte intero",
+        20.0,
+        "g"
+      ],
+      [
+        "Curry 1 pizzico",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare i chicchi di farina di legumi con gamberi e speck, iniziate dalla pulizia dei gamberi eliminando testa, carapace e il filetto interno (l'instestino) tirandolo via dal dorso con uno stuzzicadenti. Poi in una padella versate un filo d'olio, scaldate leggermente e tuffate i gamberi, alzate la fiamma e girateli spesso per scottarli da entrambe i lati.",
+      "Quando la carne dei gamberi sarà diventata bianca, sfumate con la salsa di soia che caramellizzerà i gamberi. Questa operazione richiederà pochissimi minuti. Quindi spegnete il fuoco e tenete da parte. In un'altra padella con un filo d’olio scottate anche le fettine di speck 6",
+      "finché non risulteranno croccanti 7 . In un tegame con acqua, lessate i chicchi di farina di legumi 8 per il tempo indicato sulla confezione. Intanto preparate il dressing: in un bicchiere alto versate la panna acida, l'olio 9",
+      "unite il latte 10 , frullate il tutto con un frullatore ad immersione 11 poi aggiungete il curry 12 , salate a piacere.",
+      "Mescolate il tutto 13 , quindi ponete i gamberi in una ciotola, unite lo speck croccante 14 , le foglioline di maggiorana 15",
+      "Mescolate 16 , insaporite con sale e pepe a piacere 17 . Scolate i chicchi di farina di legumi 18",
+      "quindi uniteli al condimento e mescolate bene 19 . Servite i vostri chicchi di legumi con gamberi e speck con un cucchiaino di salsa (20-21) e la salsa a parte."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:00.238453+00:00",
+    "repaired_at": "2026-10-10T14:28:08.373511+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:28:58.512201+00:00"
+  },
+  {
+    "id": 25634019726689,
+    "name": "Insalata di mare in vasocottura",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 18,
+    "ingredients_display": [
+      "Gamberi 12",
+      "Seppioline (già pulite) 12",
+      "Carote 1",
+      "Cipollotto fresco 1",
+      "Olio extravergine d'oliva 4 cucchiai",
+      "Timo q.b.",
+      "Scorza di limone q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-mare-in-vasocottura.html",
+    "image_url": "https://www.giallozafferano.it/images/182-18267/Insalata-di-mare-in-vasocottura_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 420.5,
+    "protein": null,
+    "carbs": 8.3,
+    "fats": 16.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Gamberi 12",
+        null,
+        "da verificare"
+      ],
+      [
+        "Seppioline (già pulite) 12",
+        null,
+        "da verificare"
+      ],
+      [
+        "Carote 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cipollotto fresco 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        4.0,
+        "cucchiai"
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Scorza di limone",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare l’insalata di mare in vasocottura, per prima cosa preparate tutti gli ingredienti che vi serviranno: private i gamberi della testa e del carapace, poi incidete il dorso per rimuovere il filo nero all’interno. Prendete le seppioline già pulite, separatele dai tentacoli e tagliatele a striscioline sottili.",
+      "Ora pelate la carota e affettatela sottilmente in diagonale, poi tagliate ogni fettina in 4 parti. Infine pulite il cipollotto e tagliatelo a rondelle sottili, sempre in diagonale.",
+      "A questo punto potete assemblare i vostri vasetti (scegliete dei vasetti nuovi, adatti alla vasocottura con chiusura ermetica e gommina): disponete i gamberi sul fondo, poi aggiungete le seppioline, le carote,",
+      "e il cipollotto. Condite ciascun vasetto con un cucchiaio di olio, salate, pepate e profumate con qualche fogliolina di timo fresco",
+      "e della scorza di limone grattugiata. Chiudete il vasetto ermeticamente e cuocete in microonde alla potenza di 450W per 3 minuti. Una volta pronto, lasciate intiepidire per un paio di minuti prima di aprire: per aprire il vasetto, mantenete il coperchio, sganciate le sicure e tirate la linguetta di gomma; servite la vostra insalata di mare in vasocottura!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:02.863603+00:00",
+    "repaired_at": "2026-10-10T14:28:10.983694+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Microonde"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:47.596869+00:00"
+  },
+  {
+    "id": 29562327012646,
+    "name": "Pulled pork",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 630,
+    "ingredients_display": [
+      "Spalla di maiale 5 kg",
+      "Senape 30 g",
+      "Paprika affumicata 50 g",
+      "Paprika dolce 40 g",
+      "Zucchero muscovado 50 g",
+      "Sale fino 35 g",
+      "Aglio in polvere 20 g",
+      "Pepe bianco 10 g",
+      "Coriandolo in polvere 3 g",
+      "Origano secco 3 g",
+      "Pepe di cayenna 5 g",
+      "Anice in polvere 2 g",
+      "Ketchup 300 g",
+      "Aceto di mele 30 g",
+      "Sale fino 3 g",
+      "Pepe nero 3 g",
+      "Zenzero in polvere 2 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pulled-pork.html",
+    "image_url": "https://www.giallozafferano.it/images/226-22655/Pulled-pork_650x433_wm.jpg",
+    "servings": 12,
+    "kcal": 1058.8,
+    "protein": null,
+    "carbs": 17.6,
+    "fats": 76.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Spalla di maiale",
+        5.0,
+        "kg"
+      ],
+      [
+        "Senape",
+        30.0,
+        "g"
+      ],
+      [
+        "Paprika affumicata",
+        50.0,
+        "g"
+      ],
+      [
+        "Paprika dolce",
+        40.0,
+        "g"
+      ],
+      [
+        "Zucchero muscovado",
+        50.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        35.0,
+        "g"
+      ],
+      [
+        "Aglio in polvere",
+        20.0,
+        "g"
+      ],
+      [
+        "Pepe bianco",
+        10.0,
+        "g"
+      ],
+      [
+        "Coriandolo in polvere",
+        3.0,
+        "g"
+      ],
+      [
+        "Origano secco",
+        3.0,
+        "g"
+      ],
+      [
+        "Pepe di cayenna",
+        5.0,
+        "g"
+      ],
+      [
+        "Anice in polvere",
+        2.0,
+        "g"
+      ],
+      [
+        "Ketchup",
+        300.0,
+        "g"
+      ],
+      [
+        "Aceto di mele",
+        30.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        3.0,
+        "g"
+      ],
+      [
+        "Pepe nero",
+        3.0,
+        "g"
+      ],
+      [
+        "Zenzero in polvere",
+        2.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per realizzare il pulled pork, per prima cosa preparate il rub: prendete un barattolo capiente e versate all’interno la paprika dolce e affumicata, lo zucchero muscovado e il sale fino.",
+      "Unite anche l’aglio in polvere, il pepe bianco e il coriandolo in polvere.",
+      "Infine aggiungete l’origano secco, il pepe di cayenna e l’anice in polvere.",
+      "Mescolate bene tutte le spezie per ottenere un mix omogeneo; se necessario potete passarlo anche al setaccio. Ora prendete la spalla di maiale, aggiungete la senape e spalmatela con le mani su tutta la superficie, sia superiore che inferiore, per creare un velo sottile.",
+      "Poi cospargete la carne con il rub, avendo cura di coprirla interamente. Nel frattempo accendete il barbecue e impostatelo per una cottura indiretta.",
+      "Versate la carbonella in una metà del barbecue e adagiate nell’altra metà una vaschetta di alluminio che servirà per raccogliere i succhi della carne, poi posizionate la spalla di maiale sulla griglia nella zona senza calore diretto.",
+      "Impostate le aperture d’aria in modo da ottenere una temperatura della camera intorno ai 150° e procedete con l’affumicatura. Cuocete col coperchio per almeno un paio di ore o fino a quando il rub non avrà formato una crosticina, il cosiddetto bark. A questo punto trasferite la carne in una vaschetta di alluminio e avvolgete il tutto nella stagnola. Mettete la vaschetta sul barbecue e continuate la cottura per altre 6-8 ore, avendo cura che la temperatura della camera rimanga sui 130°-150°. Potete verificare che la carne sia cotta misurando la temperatura al cuore che dovrà raggiungere i 97°-98°.",
+      "Trascorso il tempo di cottura, scolate il liquido di cottura che si sarà formato nella vaschetta ed eliminate le ossa con un paio di pinze da cucina, poi sfilacciate la carne utilizzando semplicemente 2 forchette, lasciando anche qualche pezzo intero.",
+      "Preparate la salsa: versate il ketchup in una ciotola insieme all’aceto di mele, pepe, sale e zenzero in polvere.",
+      "Mescolate bene e aggiungete la salsa ottenuta alla carne sfilacciata. Mescolate per amalgamare il condimento in modo uniforme.",
+      "Ora potete gustare il vostro pulled pork da solo o utilizzarlo per preparare un fantastico panino insieme all’immancabile coleslaw 32 33!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:05.537139+00:00",
+    "repaired_at": "2026-10-10T14:28:13.587292+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 169565278644893,
+    "name": "Pasta con pancetta",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 40,
+    "ingredients_display": [
+      "Tagliatelle all'uovo 250 g",
+      "Pancetta (tesa) 200 g",
+      "Pomodorini ciliegino 200 g",
+      "Cipolle &frac12;",
+      "Burro 20 g",
+      "Parmigiano Reggiano DOP (da grattugiare) 50 g",
+      "Pecorino (da grattugiare) q.b.",
+      "Vino bianco q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Prezzemolo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pancetta.html",
+    "image_url": "https://www.giallozafferano.it/images/294-29436/Pasta-con-pancetta_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 567.1,
+    "protein": null,
+    "carbs": 49.0,
+    "fats": 31.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Tagliatelle all'uovo",
+        250.0,
+        "g"
+      ],
+      [
+        "Pancetta (tesa)",
+        200.0,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        200.0,
+        "g"
+      ],
+      [
+        "Cipolle &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Burro",
+        20.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP (da grattugiare)",
+        50.0,
+        "g"
+      ],
+      [
+        "Pecorino (da grattugiare)",
+        null,
+        "q.b."
+      ],
+      [
+        "Vino bianco",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Prezzemolo",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con pancetta per prima cosa tagliate la pancetta prima a fette, poi a striscioline e infine a cubetti. Mondate e tritate la cipolla.",
+      "Lavate i pomodorini e divideteli a metà, poi tritate finemente il prezzemolo. Fate sciogliere il burro in una padella capiente.",
+      "Aggiungete la cipolla, salate e lasciate stufare, poi unite la pancetta e rosolatela per qualche minuto.",
+      "Sfumate con il vino bianco e lasciate evaporare completamente, poi aggiungete i pomodorini e cuocete a fuoco medio per una decina di minuti. Nel frattempo portate a bollore una pentola di acqua salata e tuffatevi le tagliatelle.",
+      "Scolate la pasta direttamente nel condimento e mantecatela in padella versando un mestolo di acqua di cottura, se necessario. Insaporite con il Parmigiano grattugiato.",
+      "Versate un filo d’olio, poi aromatizzate con il prezzemolo tritato e una macinata di pepe. Amalgamate bene il tutto e spegnete il fuoco.",
+      "Impiattate e completate con del pecorino grattugiato. La vostra pasta con pancetta è pronta per essere servita!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:08.174338+00:00",
+    "repaired_at": "2026-10-10T14:27:52.742784+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 31086828838792,
+    "name": "Ceviche di gamberi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 20,
+    "ingredients_display": [
+      "Gamberoni 4",
+      "Mango sottili 8 fette",
+      "Succo di lime (circa 4) 80 g",
+      "Zenzero fresco 20 g",
+      "Olio extravergine d'oliva 5 g",
+      "Lamponi 15 g",
+      "Peperoncino verde &frac12;",
+      "Coriandolo q.b.",
+      "Sale fino q.b.",
+      "Lattuga iceberg q.b.",
+      "Scorza di lime q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Ceviche-di-gamberi.html",
+    "image_url": "https://www.giallozafferano.it/images/223-22345/Ceviche-di-gamberi_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 99.0,
+    "protein": null,
+    "carbs": 20.6,
+    "fats": 2.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Gamberoni 4",
+        null,
+        "da verificare"
+      ],
+      [
+        "Mango sottili",
+        8.0,
+        "fette"
+      ],
+      [
+        "Succo di lime (circa 4)",
+        80.0,
+        "g"
+      ],
+      [
+        "Zenzero fresco",
+        20.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        5.0,
+        "g"
+      ],
+      [
+        "Lamponi",
+        15.0,
+        "g"
+      ],
+      [
+        "Peperoncino verde &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Coriandolo",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Lattuga iceberg",
+        null,
+        "q.b."
+      ],
+      [
+        "Scorza di lime",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il ceviche di gamberi, per prima cosa pulite i gamberoni: rimuovete la testa e il carapace, poi incidete il dorso ed estraete l’intestino. Infine dividete i gamberoni puliti a metà tagliandoli per il lungo con un coltello ben affilato. Tenete momentaneamente da parte.",
+      "Pelate il mango e ricavate 8 fettine piuttosto sottili, dividendo le fette più grandi a metà. Tenete da parte e passate all’emulsione.",
+      "Versate il succo di lime in un contenitore alto e stretto, poi aggiungete lo zenzero fresco a tocchetti, l’olio e il sale.",
+      "Frullate con un mixer a immersione fino ad ottenere una consistenza omogenea, poi unite il coriandolo,",
+      "il peperoncino tagliato a rondelle e i lamponi freschi. Mescolate delicatamente per amalgamare il tutto.",
+      "A questo punto prendete una pirofila e disponete i gamberi all’interno alternandoli con le fettine di mango. Versate il condimento ottenuto, coprite con pellicola e lasciate marinare in frigorifero per circa un’ora. Se preferite potete allungare il tempo di marinatura fino a 8-10 ore.",
+      "Trascorso questo tempo, prelevate i gamberi e il mango dal liquido della marinatura e adagiateli su un letto di insalatina, poi condite con parte dell’emulsione e guarnite con della scorza di lime grattugiata. Il vostro ceviche di gamberi è pronto per essere gustato!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:10.938468+00:00",
+    "repaired_at": "2026-10-10T14:28:16.191595+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:28:55.884049+00:00"
+  },
+  {
+    "id": 281127309998021,
+    "name": "Insalata di lenticchie e quartirolo",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 40,
+    "ingredients_display": [
+      "Quartirolo Lombardo 200 g",
+      "Spinacini 100 g",
+      "Rucola 100 g",
+      "Gherigli di noci 10",
+      "Semi di zucca al naturale 5 g",
+      "Rosmarino q.b.",
+      "Salvia q.b.",
+      "Peperoncino secco 1",
+      "Olio extravergine d'oliva q.b.",
+      "Pepe nero q.b.",
+      "Lenticchie precotte 100 g",
+      "Prezzemolo q.b.",
+      "Scorza di limone q.b.",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Olio extravergine d'oliva 20 g",
+      "Aceto balsamico q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-lenticchie-e-quartirolo.html",
+    "image_url": "https://www.giallozafferano.it/images/223-22304/Insalata-di-lenticchie-e-quartirolo_650x433_wm.jpg",
+    "servings": 2,
+    "kcal": 848.3,
+    "protein": null,
+    "carbs": 46.3,
+    "fats": 57.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Quartirolo Lombardo",
+        200.0,
+        "g"
+      ],
+      [
+        "Spinacini",
+        100.0,
+        "g"
+      ],
+      [
+        "Rucola",
+        100.0,
+        "g"
+      ],
+      [
+        "Gherigli di noci 10",
+        null,
+        "da verificare"
+      ],
+      [
+        "Semi di zucca al naturale",
+        5.0,
+        "g"
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Salvia",
+        null,
+        "q.b."
+      ],
+      [
+        "Peperoncino secco 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Lenticchie precotte",
+        100.0,
+        "g"
+      ],
+      [
+        "Prezzemolo",
+        null,
+        "q.b."
+      ],
+      [
+        "Scorza di limone",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Aceto balsamico",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'insalata di lenticchie e quartirolo cominciate insaporendo le lenticchie precotte. In una pentolino in cui avete fatto scaldare olio e aglio, versate le lenticchie scolate. Aggiungete poi la scorza di limone grattugiata, il sale e lasciate insaporire a fuoco dolce per 5-10 minuti. A fine cottura spegnete e aggiungete il prezzemolo sminuzzato al coltello,",
+      "rimuovete l'aglio e fate raffreddare. Intanto tritate al coltello salvia e rosmarino e affettate il quartirolo in fette da mezzo centimetro.",
+      "Tornate ai fornelli, scaldate una padella antiaderente con un goccio d'olio, profumate il fondo con il mix di erbe tritate e un peperoncino sbriciolato. Aggiungete successivamente le fette di formaggio e cuocetele a fuoco vivace per un paio di istanti da un lato e poi dall'altro.",
+      "A fine cottura le due facce risulteranno leggermente sciolte ma consistenti. Mentre il formaggio si raffredda preparate la vinaigrette al balsamico. In una ciotola versate l'olio e un po' di aceto balsamico. Aggiungete il sale",
+      "ed emulsionate il tutto con un forchetta. Passate alla composizione. In una ciotola versate lo spinacino e la rucola, guarnite con un po' di lenticchie,",
+      "guarnite con gherigli di noci e semi di zucca. Adagiate poi qualche fetta di quartirolo e in ultimo guarnite con la vinaigrette e completate la vostra insalata, quartirolo e lenticchie con un pizzico di pepe: buon appetito!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:13.712271+00:00",
+    "repaired_at": "2026-10-10T14:28:18.796681+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:44.949728+00:00"
+  },
+  {
+    "id": 263452970952348,
+    "name": "Pulled chicken",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 140,
+    "ingredients_display": [
+      "Pollo intero (eviscerato) 1,2 kg",
+      "Limoni 1",
+      "Aglio 4 spicchi",
+      "Timo q.b.",
+      "Rosmarino q.b.",
+      "Salvia q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Birra rossa 330 g",
+      "Salsa barbecue 1 cucchiaio",
+      "Cavolo cappuccio rosso 100 g",
+      "Cavolo cappuccio 100 g",
+      "Ketchup 100 g",
+      "Maionese 100 g",
+      "Salsa Worcestershire 1 cucchiaio",
+      "Panini per hamburger 8",
+      "Lattuga iceberg q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pulled-chicken.html",
+    "image_url": "https://www.giallozafferano.it/images/263-26399/Pulled-chicken_650x433_wm.jpg",
+    "servings": 8,
+    "kcal": 674.8,
+    "protein": null,
+    "carbs": 41.7,
+    "fats": 40.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pollo intero (eviscerato)",
+        1.2,
+        "kg"
+      ],
+      [
+        "Limoni 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Aglio",
+        4.0,
+        "spicchi"
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Salvia",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Birra rossa",
+        330.0,
+        "g"
+      ],
+      [
+        "Salsa barbecue 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cavolo cappuccio rosso",
+        100.0,
+        "g"
+      ],
+      [
+        "Cavolo cappuccio",
+        100.0,
+        "g"
+      ],
+      [
+        "Ketchup",
+        100.0,
+        "g"
+      ],
+      [
+        "Maionese",
+        100.0,
+        "g"
+      ],
+      [
+        "Salsa Worcestershire 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Panini per hamburger 8",
+        null,
+        "da verificare"
+      ],
+      [
+        "Lattuga iceberg",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il pulled chicken per prima cosa sistemate il pollo intero sul tagliere, già eviscerato e fiammeggiato: farcite l’interno con il limone diviso in 4 spicchi e le erbe aromatiche.",
+      "Aggiungete anche gli spicchi di aglio in camicia, sale e pepe. Massaggiate la parte esterna con olio e sale, poi legate insieme le estremità delle cosce con dello spago da cucina.",
+      "Trasferite il pollo in una casseruola di ghisa ben calda e fatelo rosolare per circa 4 minuti su ogni lato, girandolo con una pinza. Dovrà risultare bello dorato.",
+      "Dopo aver rosolato tutti i lati del pollo, sfumate con la birra 11 e coprite con il coperchio 12. Trasferite la casseruola in forno statico preriscaldato a 180° e cuocete per 60 minuti; ogni 20 minuti bagnate la superficie del pollo con il fondo di cottura.",
+      "Nel frattempo preparate il coleslaw: tagliate finemente a julienne il cavolo rosso 13 e il cavolo cappuccio (se preferite potete utilizzare una mandolina). In una ciotola mescolate il ketchup con la maionese 14 e la salsa Worchestershire 15 .",
+      "Unite il cavolo rosso 16 e il cavolo cappuccio 17 , poi amalgamate il tutto 18 .",
+      "Trascorso il tempo di cottura, sfornate il pollo 19 e trasferitelo in una teglia a parte, poi coprite con la stagnola e lasciate riposare per qualche minuto 20 . Intanto fate ridurre il fondo di cottura sul fuoco per circa 5 minuti; in questo modo risulterà ancora più saporito 21 .",
+      "Eliminate gli aromi della farcitura 22 , poi sfilate gli ossi 23 e sfilacciate la carne con le mani 24 .",
+      "Condite il pollo sfilacciato con il fondo di cottura 25 e la salsa barbecue 26 , poi mescolate per far sì che la carne assorba bene tutti i sapori 27 .",
+      "Siete pronti per comporre i vostri panini: adagiate un paio di foglie di insalata sulla base del pane, aggiungete una porzione abbondante di pulled chicken 28 e infine coprite con il coleslaw 29 . Richiudete con l’altra metà del panino e procedete nello stesso modo per assemblare anche gli altri 7. Il vostro pulled chicken è pronto per essere gustato 30 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:16.475329+00:00",
+    "repaired_at": "2026-10-10T14:28:21.412971+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 226180940936030,
+    "name": "Pasta con ombrina, zucchine trombetta e pomodorini gialli",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 70,
+    "ingredients_display": [
+      "Fusilli Senza Glutine 320 g",
+      "Ombrina (da pulire) 1 kg",
+      "Pomodorini gialli 600 g",
+      "Zucchine trombetta 200 g",
+      "Scalogno 1",
+      "Aglio 1 spicchio",
+      "Menta q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli.html",
+    "image_url": "https://www.giallozafferano.it/images/304-30400/Pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 606.4,
+    "protein": null,
+    "carbs": 72.3,
+    "fats": 11.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fusilli Senza Glutine",
+        320.0,
+        "g"
+      ],
+      [
+        "Ombrina (da pulire)",
+        1.0,
+        "kg"
+      ],
+      [
+        "Pomodorini gialli",
+        600.0,
+        "g"
+      ],
+      [
+        "Zucchine trombetta",
+        200.0,
+        "g"
+      ],
+      [
+        "Scalogno 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Menta",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con ombrina, zucchine trombetta e pomodorini gialli per prima cosa squamate il pesce, pulitelo dalle interiora e rimuovete le pinne (per ulteriori dettagli potete consultare la scheda \" Come pulire l'ombrina \"). Praticate un’incisione alla base della testa, poi incidete il dorso e penetrate delicatamente con la lama del coltello fino alla pancia, cercando di restare il più aderenti possibile alle lische. Ricavate così 2 filetti.",
+      "Ora eliminate la parte inferiore della pancia, poi estraete le lische con una pinzetta ed eliminate la pelle.",
+      "Infine tagliate la polpa a cubetti di 1,5 cm. Tenete da parte e passate ai pomodorini: dividete i pomodorini a metà, poi versateli in una padella dove avrete fatto scaldare un giro d’olio con uno spicchio di aglio.",
+      "Salate e saltate a fuoco medio per circa 5 minuti, poi prelevate circa un terzo dei pomodori e metteteli da parte; vi serviranno per l’impiattamento. Proseguite la cottura dei pomodorini rimanenti per circa 20 minuti. Trascorso questo tempo eliminate l’aglio.",
+      "Trasferite i pomodorini cotti in un boccale e frullate con un mixer a immersione, poi filtrate il composto attraverso un colino per ottenere una crema liscia e omogenea.",
+      "Tenete da parte e occupatevi delle zucchine trombetta: tagliatele a rondelle sottili, poi tritate finemente lo scalogno. Versate lo scalogno in una padella con l’olio e salate subito.",
+      "Stufate a fuoco dolce per circa 7 minuti, poi aggiungete le zucchine. Alzate la fiamma e rosolate a fuoco medio per circa 5 minuti, regolando di sale. Intanto portate a bollore una pentola di acqua salata e cuocete la pasta al dente. Trascorsi i 5 minuti di cottura delle zucchine, unite l’ombrina.",
+      "Continuate a cuocere per 3 minuti circa, poi versate la crema di pomodorini e aggiustate di sale. Scolate la pasta nella padella con il condimento e saltate brevemente il tutto per amalgamare, poi spegnete il fuoco e mantecate con un filo d’olio.",
+      "Impiattate e completate con i pomodorini tenuti da parte e qualche fogliolina di menta. La vostra pasta con ombrina, zucchine trombetta e pomodorini gialli è pronta per essere servita!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:19.113726+00:00",
+    "repaired_at": "2026-10-10T14:27:55.347407+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 109683226445367,
+    "name": "Ceviche di branzino",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 30,
+    "ingredients_display": [
+      "Branzino (spigola) già pulito e abbattuto 500 g",
+      "Limoni 1",
+      "Lime 2",
+      "Peperoncino fresco rosso 1",
+      "Cipolle rosse 1",
+      "Coriandolo fresco q.b.",
+      "Sale q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Ceviche-di-branzino.html",
+    "image_url": "https://www.giallozafferano.it/images/282-28266/Ceviche-di-branzino_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 180.7,
+    "protein": null,
+    "carbs": 9.5,
+    "fats": 5.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Branzino (spigola) già pulito e abbattuto",
+        500.0,
+        "g"
+      ],
+      [
+        "Limoni 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Lime 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Peperoncino fresco rosso 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cipolle rosse 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Coriandolo fresco",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il ceviche di branzino come prima cosa dedicatevi alla pulizia del pesce. Desquamatelo sotto acqua corrente, poi praticate un taglio sul ventre ed evisceratelo, passatelo nuovamente sotto acqua corrente per eliminare eventuali impurità. Fate un taglio obliquo, poco dopo le branchie, che parta dal dorso e si ricongiunga al taglio fatto precedentemente sul ventre. Incidete la coda e la parte dorsale del pesce seguendo la colonna vertebrale ricaverete così il primo filetto, ripetete lo stesso procedimento per il secondo.",
+      "Tagliate i filetti di branzino prima a strisce e poi a cubetti di dimensioni uniformi 6.",
+      "Spremete il limone 7 e il lime 8 e versate il succo sui cubetti di branzino 9 .",
+      "Tagliate finemente al coltello: la cipolla 10 , il peperoncino 11 , dopo averlo privato dei semi, e il coriandolo 12 .",
+      "Aggiungete il tutto al branzino, condite con olio 13 , sale e pepe 14 e mescolate delicatamente 15 . Coprite con pellicola e lasciate marinare in frigorifero per 15-20 minuti per far amalgamare i sapori.",
+      "Impiattate, guarnendo con foglie di coriandolo fresco e fette di lime 16 , completate con un cucchiaio di marinatura 17 . Il ceviche di branzino è pronto per essere servito 18 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:21.722384+00:00",
+    "repaired_at": "2026-10-10T14:27:57.958217+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Secondo",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28266/ceviche-di-branzino_18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare il ceviche di branzino come prima cosa dedicatevi alla pulizia del pesce. Desquamatelo sotto acqua corrente, poi praticate un taglio sul ventre ed evisceratelo, passatelo nuovamente sotto acqua corrente per eliminare eventuali impurità. Fate un taglio obliquo, poco dopo le branchie 1 , che parta dal dorso e si ricongiunga al taglio fatto precedentemente sul ventre. Incidete la coda e la parte dorsale del pesce seguendo la colonna vertebrale 2 ricaverete così il primo filetto, ripetete lo stesso procedimento per il secondo 3 .",
+      "Tagliate i filetti di branzino prima a strisce 4 e poi a cubetti di dimensioni uniformi 5 6 .",
+      "Spremete il limone 7 e il lime 8 e versate il succo sui cubetti di branzino 9 .",
+      "Tagliate finemente al coltello: la cipolla 10 , il peperoncino 11 , dopo averlo privato dei semi, e il coriandolo 12 .",
+      "Aggiungete il tutto al branzino, condite con olio 13 , sale e pepe 14 e mescolate delicatamente 15 . Coprite con pellicola e lasciate marinare in frigorifero per 15-20 minuti per far amalgamare i sapori.",
+      "Impiattate, guarnendo con foglie di coriandolo fresco e fette di lime 16 , completate con un cucchiaio di marinatura 17 . Il ceviche di branzino è pronto per essere servito 18 ."
+    ],
+    "steps_clean": [
+      "Per preparare il ceviche di branzino come prima cosa dedicatevi alla pulizia del pesce. Desquamatelo sotto acqua corrente, poi praticate un taglio sul ventre ed evisceratelo, passatelo nuovamente sotto acqua corrente per eliminare eventuali impurità. Fate un taglio obliquo, poco dopo le branchie, che parta dal dorso e si ricongiunga al taglio fatto precedentemente sul ventre. Incidete la coda e la parte dorsale del pesce seguendo la colonna vertebrale ricaverete così il primo filetto, ripetete lo stesso procedimento per il secondo.",
+      "Tagliate i filetti di branzino prima a strisce e poi a cubetti di dimensioni uniformi 6.",
+      "Spremete il limone 7 e il lime 8 e versate il succo sui cubetti di branzino 9 .",
+      "Tagliate finemente al coltello: la cipolla 10 , il peperoncino 11 , dopo averlo privato dei semi, e il coriandolo 12 .",
+      "Aggiungete il tutto al branzino, condite con olio 13 , sale e pepe 14 e mescolate delicatamente 15 . Coprite con pellicola e lasciate marinare in frigorifero per 15-20 minuti per far amalgamare i sapori.",
+      "Impiattate, guarnendo con foglie di coriandolo fresco e fette di lime 16 , completate con un cucchiaio di marinatura 17 . Il ceviche di branzino è pronto per essere servito 18 ."
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:28:53.254953+00:00"
+  },
+  {
+    "id": 254998567221932,
+    "name": "Insalata di frutta",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 15,
+    "ingredients_display": [
+      "Pesche noci 1",
+      "Ciliegie 150 g",
+      "Mirtilli 60 g",
+      "Fragole 90 g",
+      "Fichi 2",
+      "Sedano (con le foglie) 2 coste",
+      "Arachidi (non tostate e non salate) 40 g",
+      "Succo di limone 30 g",
+      "Olio extravergine d'oliva 30 g",
+      "Sale fino 1 pizzico"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-frutta.html",
+    "image_url": "https://www.giallozafferano.it/images/170-17033/Insalata-di-frutta_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 200.9,
+    "protein": null,
+    "carbs": 21.2,
+    "fats": 12.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pesche noci 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Ciliegie",
+        150.0,
+        "g"
+      ],
+      [
+        "Mirtilli",
+        60.0,
+        "g"
+      ],
+      [
+        "Fragole",
+        90.0,
+        "g"
+      ],
+      [
+        "Fichi 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sedano (con le foglie) 2 coste",
+        null,
+        "da verificare"
+      ],
+      [
+        "Arachidi (non tostate e non salate)",
+        40.0,
+        "g"
+      ],
+      [
+        "Succo di limone",
+        30.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da verificare"
+      ]
+    ],
+    "steps": [
+      "Per preparare l'insalata di frutta iniziate spremendo un limone e versandone il succo in una ciotola capiente. Aggiungete l'olio e un pizzico di sale.",
+      "Emulsionate bene il tutto utilizzando un frustino. Poi passate alla preparazione della frutta: tagliate la pesca noce a metà e privatela del nocciolo, poi tagliatela a fettine sottili.",
+      "Mettete la pesca noce nella ciotola e mescolate: il succo di limone eviterà che la frutta si ossidi. Tagliate a metà le ciliegie e denocciolatele poi versatele nella ciotola e aggiungete anche i mirtilli. Mescolate di nuovo.",
+      "Ora tocca alle fragole: eliminate il picciolo e tagliatele a fettine sottili. Unitele al resto della frutta nella ciotola e mescolate. Passate ai fichi: lavateli e tagliate via il picciolo.",
+      "Poi, senza sbucciarli, tagliateli a spicchi e aggiungeteli nella ciotola, infine mescolate delicatamente. Passate al sedano: tagliate via la parte finale più bianca e coriacea e pelate la costa con un pela verdure; riducete quindi il gambo a faldine e tagliate anche il ciuffo con le foglie a pezzi più grossi. Unite anche la costa e le foglie al resto della frutta.",
+      "Mescolate bene tutti gli ingredienti e aggiungete le arachidi. Date un'ultima rimestate e trasferite l'insalata di frutta in coppette oppure servite direttamente dalla ciotola. La vostra insalata di frutta è pronta per essere gustata!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:24.532066+00:00",
+    "repaired_at": "2026-10-10T14:28:24.022300+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:42.311098+00:00"
+  },
+  {
+    "id": 161518988912889,
+    "name": "Pulled aubergine",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 70,
+    "ingredients_display": [
+      "Panini ai cereali con semi 4",
+      "Melanzane 2",
+      "Salsa barbecue veg q.b.",
+      "Aglio in polvere q.b.",
+      "Cumino q.b.",
+      "Pepe di Caienna q.b.",
+      "Zenzero in polvere q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Cavolo cappuccio rosso 200 g",
+      "Carote 2",
+      "Maionese 3 cucchiai",
+      "Insalata 4 foglie"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pulled-aubergine.html",
+    "image_url": "https://www.giallozafferano.it/images/264-26484/Pulled-aubergine_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fats": null,
+    "cost": null,
+    "ingredients": [
+      [
+        "Panini ai cereali con semi 4",
+        null,
+        "da verificare"
+      ],
+      [
+        "Melanzane 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Salsa barbecue veg",
+        null,
+        "q.b."
+      ],
+      [
+        "Aglio in polvere",
+        null,
+        "q.b."
+      ],
+      [
+        "Cumino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe di Caienna",
+        null,
+        "q.b."
+      ],
+      [
+        "Zenzero in polvere",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Cavolo cappuccio rosso",
+        200.0,
+        "g"
+      ],
+      [
+        "Carote 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Maionese",
+        3.0,
+        "cucchiai"
+      ],
+      [
+        "Insalata",
+        4.0,
+        "foglie"
+      ]
+    ],
+    "steps": [
+      "Per realizzare il pulled aubergine per prima cosa sistemate le melanzane intere in una teglia foderata con carta forno, bucherellatele con una forchetta e cuocete in forno statico preriscaldato a 250° per 35-40 minuti. Nel frattempo preparate la salsa: versate la salsa barbecue in una ciotola, poi aggiungete il cumino e l’aglio in polvere.",
+      "Unite anche lo zenzero in polvere e il pepe di cayenna, sale, pepe e olio.",
+      "Mescolate per amalgamare il composto. Quando le melanzane saranno cotte, sfornate e rimuovete la buccia con l’aiuto di un coltello. Sfilacciate la polpa delle melanzane utilizzando una forchetta.",
+      "Aggiungete le melanzane sfilacciate alla salsa e mescolate bene. Trasferite le melanzane condite in una padella antiaderente e fatele saltare a fuoco alto per circa 8 minuti, distribuendole uniformemente con delle pinze da cucina: dovranno risultare belle glassate e abbrustolite.",
+      "In ultimo preparate l’insalata di cavolo: tagliate a julienne con una mandolina il cavolo rosso e le carote. Unite le verdure in una ciotola, condite con la maionese e mescolate il tutto.",
+      "Siete pronti per assemblare i panini: farcite la base con l’insalata di cavolo, poi ricoprite con le melanzane sfilacciate ancora calde e una foglia di insalata. Siete pronti per gustare il pulled aubergine 18!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:27.297489+00:00",
+    "repaired_at": "2026-10-10T14:28:26.628635+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 230227512441158,
+    "name": "Pasta con nduja, mazzancolle e stracciatella",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 35,
+    "ingredients_display": [
+      "Pasta integrale Elicoidali 320 g",
+      "Mazzancolle sgusciate e pulite 200 g",
+      "Nduja 200 g",
+      "Stracciatella q.b.",
+      "Vino bianco 60 g",
+      "Prezzemolo q.b.",
+      "Aglio 1 spicchio",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-nduja-mazzancolle-e-stracciatella.html",
+    "image_url": "https://www.giallozafferano.it/images/363-36372/Pasta-con-nduja-mazzancolle-e-stracciatella_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 619.5,
+    "protein": null,
+    "carbs": 63.2,
+    "fats": 25.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pasta integrale Elicoidali",
+        320.0,
+        "g"
+      ],
+      [
+        "Mazzancolle sgusciate e pulite",
+        200.0,
+        "g"
+      ],
+      [
+        "Nduja",
+        200.0,
+        "g"
+      ],
+      [
+        "Stracciatella",
+        null,
+        "q.b."
+      ],
+      [
+        "Vino bianco",
+        60.0,
+        "g"
+      ],
+      [
+        "Prezzemolo",
+        null,
+        "q.b."
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con nduja, mazzancolle e stracciatella in una padella versate olio, aglio e i gambi di prezzemolo. Scaldate la padella e fate rosolare per un paio di minuti, poi  unite le mazzancolle. Cuocete sul fuoco per 3-4 minuti, poi salate.",
+      "Insaporite con il pepe e sfumate con il vino bianco. Lasciate evaporare l’alcol.",
+      "Togliete le mazzancolle e tenetele da parte. Eliminate anche l’aglio e i gambi di prezzemolo.",
+      "Versate la nduja nella padella con il fondo di cottura. Nel frattempo portate a bollore l'acqua salata e cuocete la pasta.",
+      "Stemperate il condimento con un mestolo di acqua di cottura e fate insaporire. Ora tritate le foglie del prezzemolo e tenetele da parte. Scolate la pasta.",
+      "Versatela nella padella con il condimento, allungate con l'acqua della pasta per renderla cremosa, poi aggiungete le mazzancolle.",
+      "Aromatizzate con il prezzemolo fresco tritato e mantecate con poco olio a crudo. Infine, versate la stracciatella nel boccale del mixer.",
+      "Condite con olio e pepe, quindi frullate tutto con il mixer a immersione.",
+      "Impiattate con la stracciatella frullata e gustate subito la pasta con nduja, mazzancolle e stracciatella."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T14:27:30.070517+00:00",
+    "repaired_at": "2026-10-10T14:28:00.556425+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36372/pasta-con-nduja-mazzancolle-e-stracciatella_27.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con nduja, mazzancolle e stracciatella in una padella versate olio, aglio e i gambi di prezzemolo 1 . Scaldate la padella e fate rosolare per un paio di minuti, poi  unite le mazzancolle 2 . Cuocete sul fuoco per 3-4 minuti, poi salate 3 .",
+      "Insaporite con il pepe 4 e sfumate con il vino bianco 5 . Lasciate evaporare l’alcol 6 .",
+      "Togliete le mazzancolle 7 e tenetele da parte 8 . Eliminate anche l’aglio e i gambi di prezzemolo 9 .",
+      "Versate la nduja nella padella con il fondo di cottura 10 . Nel frattempo portate a bollore l'acqua salata 11 e cuocete la pasta 12 .",
+      "Stemperate il condimento con un mestolo di acqua di cottura 13 e fate insaporire. Ora tritate le foglie del prezzemolo e tenetele da parte 14 . Scolate la pasta 15 .",
+      "Versatela nella padella con il condimento 16 , allungate con l'acqua della pasta per renderla cremosa 17 , poi aggiungete le mazzancolle 18 .",
+      "Aromatizzate con il prezzemolo fresco tritato 19 e mantecate con poco olio a crudo 20 . Infine, versate la stracciatella nel boccale del mixer 21 .",
+      "Condite con olio 22 e pepe 23 , quindi frullate tutto con il mixer a immersione 24 .",
+      "Impiattate 25 con la stracciatella frullata 26 e gustate subito la pasta con nduja, mazzancolle e stracciatella 27 ."
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con nduja, mazzancolle e stracciatella in una padella versate olio, aglio e i gambi di prezzemolo. Scaldate la padella e fate rosolare per un paio di minuti, poi  unite le mazzancolle. Cuocete sul fuoco per 3-4 minuti, poi salate.",
+      "Insaporite con il pepe e sfumate con il vino bianco. Lasciate evaporare l’alcol.",
+      "Togliete le mazzancolle e tenetele da parte. Eliminate anche l’aglio e i gambi di prezzemolo.",
+      "Versate la nduja nella padella con il fondo di cottura. Nel frattempo portate a bollore l'acqua salata e cuocete la pasta.",
+      "Stemperate il condimento con un mestolo di acqua di cottura e fate insaporire. Ora tritate le foglie del prezzemolo e tenetele da parte. Scolate la pasta.",
+      "Versatela nella padella con il condimento, allungate con l'acqua della pasta per renderla cremosa, poi aggiungete le mazzancolle.",
+      "Aromatizzate con il prezzemolo fresco tritato e mantecate con poco olio a crudo. Infine, versate la stracciatella nel boccale del mixer.",
+      "Condite con olio e pepe, quindi frullate tutto con il mixer a immersione.",
+      "Impiattate con la stracciatella frullata e gustate subito la pasta con nduja, mazzancolle e stracciatella."
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:28:42.645050+00:00"
+  },
+  {
+    "id": 199672550739260,
+    "name": "Cestini di patate ripieni di salmone",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 50,
+    "ingredients_display": [
+      "Patate 300 g",
+      "Farina di nocciole 20 g",
+      "Grana Padano DOP grattugiato 20 g",
+      "Uova piccolo 1",
+      "Sale fino 5 g",
+      "Pepe nero 1 pizzico",
+      "Salmone norvegese 200 g",
+      "Olio extravergine d'oliva 20 g",
+      "Aglio 1 spicchio",
+      "Sale fino 1 pizzico",
+      "Pepe nero 1 pizzico",
+      "Formaggio fresco spalmabile 250 g",
+      "Menta 5 foglie",
+      "Sale fino 5 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Cestini-di-patate-ripiene-di-salmone.html",
+    "image_url": "https://www.giallozafferano.it/images/161-16172/Cestini-di-patate-ripiene-di-salmone_650x433_wm.jpg",
+    "servings": 6,
+    "kcal": 307.3,
+    "protein": null,
+    "carbs": 10.9,
+    "fats": 21.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Patate",
+        300.0,
+        "g"
+      ],
+      [
+        "Farina di nocciole",
+        20.0,
+        "g"
+      ],
+      [
+        "Grana Padano DOP grattugiato",
+        20.0,
+        "g"
+      ],
+      [
+        "Uova piccolo 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        5.0,
+        "g"
+      ],
+      [
+        "Pepe nero 1 pizzico",
+        null,
+        "da verificare"
+      ],
+      [
+        "Salmone norvegese",
+        200.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pepe nero 1 pizzico",
+        null,
+        "da verificare"
+      ],
+      [
+        "Formaggio fresco spalmabile",
+        250.0,
+        "g"
+      ],
+      [
+        "Menta",
+        5.0,
+        "foglie"
+      ],
+      [
+        "Sale fino",
+        5.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare i cestini di patate ripieni di salmone iniziate dall’involucro dei cestini. Prendete le patate e dopo averle lavate ed asciugate, pelatele. Quindi aiutandovi con una grattugia dai fori larghi grattugiatele e versatele in una ciotola capiente. Rompete l'uovo in una ciotolina, salate e pepate, poi sbattetelo con una forchetta.",
+      "Aggiungete l’uovo alle patate. Unite poi anche il formaggio grattugiato e la farina di nocciole. Mescolate bene gli ingredienti con un cucchiaio fino ad ottenere un composto omogeneo.",
+      "Versate il composto ottenuto in 6 stampini in silicone da 100 g di capienza. Schiacciate bene il composto sui bordi dello stampino aiutandovi con un cucchiaio: il composto dovrà assumerne la forma dello stampino e rimanere cavo all'intero. Una volta preparati, infornateli in forno statico preriscaldato a 220°C per 20 minuti (oppure in forno ventilato a 200°C per 10 minuti). Mentre i vostri cestini cuociono, dedicatevi alla spuma di formaggio del ripieno: tritate finemente la menta, lasciando alcune foglie intere per la decorazione finale.",
+      "Quindi versate la Philadelphia in una ciotola, salate e pepate. Dopodiché unite anche le foglioline di menta tritate e mescolate bene tutti gli ingredienti. Trasferite il composto in una sac-à-poche e tenete da parte. Poi dedicatevi al salmone: eliminate le lische aiutandovi con una pinzetta da cucina e la pelle, ove presente, con la lama di un coltello.",
+      "Tagliate il salmone a striscioline e quindi a cubetti di circa 1 cm di lato. Scaldate l’olio in una padella antiaderente e fate rosolare l’aglio. Scottate il salmone per circa 2-3 minuti, fino a che non farà una leggera crosticina in superficie. Salate e pepate. Infine togliete l’aglio e lasciate intiepidire il salmone, se preferite riponendolo in una ciotola.",
+      "A questo punto i vostri cestini di patate saranno pronti: estraeteli dal forno e lasciateli raffreddare. Quando saranno a temperatura ambiente sformateli e adagiateli su un piatto. Riempiteli con la crema di formaggio.",
+      "Decorate con dei cubetti di salmone e delle foglioline di menta. I vostri cestini di patate ripiene di salmone sono pronti da portare in tavola!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:32.839516+00:00",
+    "repaired_at": "2026-10-10T14:28:03.166276+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:28:50.584468+00:00"
+  },
+  {
+    "id": 67605578037869,
+    "name": "Insalata di farro invernale",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 45,
+    "ingredients_display": [
+      "Farro perlato 320 g",
+      "Cavoletti di Bruxelles 300 g",
+      "Funghi champignon 300 g",
+      "Prosciutto cotto (pezzo intero) 150 g",
+      "Provolone 150 g",
+      "Carote 130 g",
+      "Aglio 2 spicchi",
+      "Acqua 30 g",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-farro-invernale.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/225/22511/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 572.1,
+    "protein": null,
+    "carbs": 71.8,
+    "fats": 20.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farro perlato",
+        320.0,
+        "g"
+      ],
+      [
+        "Cavoletti di Bruxelles",
+        300.0,
+        "g"
+      ],
+      [
+        "Funghi champignon",
+        300.0,
+        "g"
+      ],
+      [
+        "Prosciutto cotto (pezzo intero)",
+        150.0,
+        "g"
+      ],
+      [
+        "Provolone",
+        150.0,
+        "g"
+      ],
+      [
+        "Carote",
+        130.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        2.0,
+        "spicchi"
+      ],
+      [
+        "Acqua",
+        30.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l’insalata di farro invernale, per prima cosa mettete a bollire una pentola di acqua per cuocere il farro. Pulite i cavoletti di Bruxelles rimuovendo il picciolo e le foglie esterne rovinate, poi sciacquateli sotto l’acqua corrente e divideteli a metà. Scaldate un filo d’olio in una padella insieme a uno spicchio di aglio, aggiungete i cavoletti e saltateli per un minuto a fuoco vivace, poi salate e versate l’acqua.",
+      "Coprite con un coperchio, abbassate leggermente la fiamma e cuocete per 8 minuti. Ora pulite i funghi con un panno per eliminare eventuali residui di terra, poi tagliateli a fettine sottili.",
+      "In un’altra padella scaldate un giro d’’olio con uno spicchio di aglio, aggiungete i funghi, salate, pepate e cuocete a fiamma vivace per 5 minuti; dovranno risultare ancora croccanti. A questo punto l’acqua sarà arrivata a bollore, quindi salate e cuocete il farro per il tempo indicato sulla confezione.",
+      "Nel frattempo tagliate a dadini il prosciutto cotto, il provolone e le carote.",
+      "Quando il farro sarà cotto, scolatelo e versatelo in una ciotola. Condite il farro con un filo d’olio, mescolate e aggiungete sia i cavoletti che i funghi, dopo aver rimosso l’aglio da entrambi.",
+      "Unite anche il formaggio e il prosciutto, poi pepate a piacere.",
+      "In ultimo aggiungete le carote e mescolate bene il tutto. La vostra insalata di farro invernale è pronta per essere gustata!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:35.442746+00:00",
+    "repaired_at": "2026-10-10T14:28:29.235066+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:39.674705+00:00"
+  },
+  {
+    "id": 16165683372660,
+    "name": "Pulla finlandesi veloci",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 45,
+    "ingredients_display": [
+      "Pasta Sfoglia rotolo rettangolare integrale da 230 g 1",
+      "Uova 2",
+      "Cannella in polvere 1 cucchiaino",
+      "Cardamomo in polvere 1 cucchiaino",
+      "Granella di zucchero q.b.",
+      "Farina 00 q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pulla-finlandesi-veloci.html",
+    "image_url": "https://www.giallozafferano.it/images/226-22627/Pulla-finlandesi-veloci_650x433_wm.jpg",
+    "servings": 12,
+    "kcal": 17.9,
+    "protein": null,
+    "carbs": 1.0,
+    "fats": 1.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pasta Sfoglia rotolo rettangolare integrale da 230 g 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Uova 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cannella in polvere 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cardamomo in polvere 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Granella di zucchero",
+        null,
+        "q.b."
+      ],
+      [
+        "Farina 00",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare le pulla finlandesi veloci cominciate srotolando la pasta sfoglia su un piano spolverizzato di farina. Con l'aiuto di un matterello, rendetela un po’ più sottile, allargandola da ogni lato. Sbattete le uova in una ciotolina e, senza utilizzarle tutte, spennellate la superficie della pasta sfoglia e aggiungete cannella e cardamomo. Ritagliate 12 triangoli tenendo come base i lati lunghi del rettangolo di sfoglia. Arrotolate i triangoli dalla base verso il vertice per ottenere tanti cornetti e avvicinate un pochino le due punte per conferire loro una forma arcuata. Spennellate l’esterno delle pulla con il resto delle uova sbattute, cospargete con la granella di zucchero e cuocete, in forno già caldo a 180°, per circa 20 minuti. Ecco pronte le vostre pulla finlandesi veloci, se riuscite a resistere consumatele fredde!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:38.549869+00:00",
+    "repaired_at": "2026-10-10T14:28:31.836389+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 110844571177337,
+    "name": "Pasta con melanzane in bianco cremosa",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 30,
+    "ingredients_display": [
+      "Fusilloni 320 g",
+      "Melanzane bianche (da pulire) 350 g",
+      "Parmigiano Reggiano DOP 30 g",
+      "Menta q.b.",
+      "Olio extravergine d'oliva 1 cucchiaio",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-melanzane-in-bianco-cremosa.html",
+    "image_url": "https://www.giallozafferano.it/images/361-36125/Pasta-con-melanzane-in-bianco-cremosa_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 73.7,
+    "protein": null,
+    "carbs": 5.5,
+    "fats": 4.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fusilloni",
+        320.0,
+        "g"
+      ],
+      [
+        "Melanzane bianche (da pulire)",
+        350.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP",
+        30.0,
+        "g"
+      ],
+      [
+        "Menta",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con melanzane in bianco cremosa, lavate, spuntate e tagliate le melanzane a fette, poi ricavate dei bastoncini e infine dei cubetti regolari di circa 1 cm.",
+      "Trasferite i cubetti di melanzane in una padella, poi aggiungete olio, sale e pepe.",
+      "Cuocete a fiamma media per circa 10-15 minuti, o fino a quando le melanzane saranno morbide. Nel frattempo ponete sul fuoco una pentola colma di acqua salata e portatela a bollore. Una volta cotte, trasferite le melanzane in un contenitore alto e frullatele con un mixer a immersione insieme a un mestolo di acqua di cottura.",
+      "Dovete ottenere una crema liscia. Intanto cuocete la pasta per il tempo indicato sulla confezione. Trasferite la crema nella padella e allungatela con un mestolo di acqua di cottura della pasta.",
+      "Mescolate in modo da ottenere una consistenza fluida. Scolate la pasta al dente direttamente nella padella, poi mescolate accuratamente per mantecare.",
+      "Profumate con qualche fogliolina di menta fresca e completate con il Parmigiano Reggiano grattugiato. Servite subito la vostra pasta con melanzane in bianco cremosa ben calda!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:41.153045+00:00",
+    "repaired_at": "2026-10-10T14:28:05.770621+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 77080104431803,
+    "name": "Cestini con gamberi e avocado",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 30,
+    "ingredients_display": [
+      "Pasta fillo 3 fogli",
+      "Semi di sesamo nero q.b.",
+      "Burro fuso 30 g",
+      "Gamberi già puliti 12",
+      "Olio extravergine d'oliva 2 cucchiai",
+      "Fiocchi di sale 1 cucchiaino",
+      "Miele di castagno 1 cucchiaino",
+      "Succo di limone &frac12;",
+      "Pepe nero q.b.",
+      "Avocado 1",
+      "Succo di lime &frac12;",
+      "Sale fino q.b.",
+      "Tabasco® q.b.",
+      "Olio extravergine d'oliva 1 cucchiaio",
+      "Tuorli (di uova medie) 2",
+      "Succo di mandarino 1",
+      "Scorza d'arancia 1",
+      "Scorza di limone 1",
+      "Olio di semi di girasole 250 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Uova di salmone 10 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Cestini-con-gamberi-e-avocado.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/181/18182/foto_hd/hd650x433_wm.jpg",
+    "servings": 12,
+    "kcal": 314.8,
+    "protein": null,
+    "carbs": 6.0,
+    "fats": 32.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pasta fillo",
+        3.0,
+        "fogli"
+      ],
+      [
+        "Semi di sesamo nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Burro fuso",
+        30.0,
+        "g"
+      ],
+      [
+        "Gamberi già puliti 12",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        2.0,
+        "cucchiai"
+      ],
+      [
+        "Fiocchi di sale 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Miele di castagno 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Succo di limone &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Avocado 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Succo di lime &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Tabasco®",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Tuorli (di uova medie) 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Succo di mandarino 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Scorza d'arancia 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Scorza di limone 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio di semi di girasole",
+        250.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Uova di salmone",
+        10.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare i cestini con gamberi e avocado come prima cosa fondete il burro e lasciatelo intiepidire. Utilizzatelo per imburrare uno stampo da muffin da 12 e prendete uno dei fogli di carta fillo, sfogliando delicatamente la pasta e conservando gli altri fogli sotto ad un canovaccio per non farli seccare. Tagliate il foglio di pasta fillo a metà nel senso della lunghezza 2 e da ciascuna metà ricavate 4 rettangoli 3 .",
+      "In questo modo otterrete 8 rettangoli uguali 4 ; per ogni cestino dovrete utilizzare 2 rettangoli. Poi spennellate tutta la superficie di uno dei rettangolini con il burro fuso 5 e posizionate sopra a questo un altro rettangolino, facendo in modo che i lati non coincidano ma che le punte siano leggermente sfalsate, formando una sorta di stella. Cospargete di nuovo con il burro 6",
+      "e trasferite entrambi i fogli all'interno dello stampo. Pressate leggermente con le dita in modo da farlo aderire bene e creare una sorta di cestino 7 . Proseguite in questo modo fino a terminare tutti i pezzi, poi ritagliate ancora un altro foglio e così via fino a riempire tutte le cavità dello stampo e ottenere quelli che saranno i vostri 12 cestini. Cospargeteli con i semi di sesamo nero (8-9) e cuocete i cestini a forno ventilato, preriscaldato a 190°, per 7-8 minuti nel ripiano centrale.",
+      "Nel frattempo tagliate i gamberi a metà nel senso della lunghezza 10 ; se i vostri gamberi non dovessero essere già puliti potete seguire la nostra scuola di cucina: come pulire i gamberi . Man mano sistemateli in una ciotola e conditeli con l'olio 11 e con i fiocchi di sale 12 .",
+      "Aggiungete poi anche il pepe, il succo di limone 13 e il miele 14 . Mescolate il tutto 15 e tenete da parte.",
+      "A questo punto i cestini di pasta fillo saranno cotti e potrete sfornarli 16 . Lasciateli raffreddare e nel frattempo preparate anche la salsa guacamole. Tagliate a metà l'avocado, eliminate il nocciolo, e trasferite la polpa all'interno di un mixer, staccandola con un cucchiaio. Aggiungete poi l'olio 22 , qualche goccia di tabasco 23 , un pizzico di sale",
+      "e il succo di lime 19 . Frullate il tutto fino ad ottenere una crema 20 e trasferite la salsa in una sacca da pasticcere 21 .",
+      "Nel frattempo preparate la maionese agli agrumi. Versate nel contenitore di un mixer i 2 tuorli, il succo di un mandarino 22 e versando l'olio a filo emulsionate il tutto con un mixer ad immersione 23 . Non appena avrete ottenuto una consistenza simile a quella della maionese fermatevi, aggiungete il sale 24 e il pepe.",
+      "Unite poi la scorza del limone 25 e quella d'arancia 26 . Mescolate il tutto e riponete in un biberon da cucina 27 .",
+      "A questo punto scolate i gamberi dalla marinatura e poneteli in una padella molto calda 28 . Cuoceteli per pochissimi minuti fino a che non risulteranno ben dorati 29 , quindi teneteli da parte. Sformate delicatamente i cestini 30 e poneteli su un vassoio.",
+      "Adesso componeneteli, farcendoli con un pò di crema di avocado, due pezzetti di gamberi 31 e ricoprite con un pò di maionese agli agrumi 32 . Rifinite spargendo qualche uova di salmone e servite i cestini con gamberi e avocado 33 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:44.262561+00:00",
+    "repaired_at": "2026-10-10T14:28:34.447541+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:28:47.940110+00:00"
+  },
+  {
+    "id": 125204308643012,
+    "name": "Insalata di farro fredda",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 30,
+    "ingredients_display": [
+      "Farro 200 g",
+      "Peperoni rossi 390 g",
+      "Ceci precotti 150 g",
+      "Olive taggiasche 28 g",
+      "Yogurt greco 170 g",
+      "Basilico 10 foglie",
+      "Olio extravergine d'oliva 3 cucchiai",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-farro-fredda.html",
+    "image_url": "https://www.giallozafferano.it/images/254-25479/Insalata-di-farro-fredda_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 471.0,
+    "protein": null,
+    "carbs": 66.5,
+    "fats": 16.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farro",
+        200.0,
+        "g"
+      ],
+      [
+        "Peperoni rossi",
+        390.0,
+        "g"
+      ],
+      [
+        "Ceci precotti",
+        150.0,
+        "g"
+      ],
+      [
+        "Olive taggiasche",
+        28.0,
+        "g"
+      ],
+      [
+        "Yogurt greco",
+        170.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        10.0,
+        "foglie"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        3.0,
+        "cucchiai"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'insalata di farro fredda portate a bollore in una pentola dell’acqua leggermente salata e fate cuocere il farro per il tempo indicato sulla confezione. Lavate e tritate le foglie di basilico, versate lo yogurt in una ciotolina, aggiungete un pizzico di sale e un cucchiaio di olio.",
+      "Insaporite con le foglie di basilico spezzettat. Mescolate bene, coprite la ciotolina con un foglio di pellicola e ponetela in frigorifero. Nel frattempo, lavate il peperone, tagliatelo in 2 e privatelo del picciolo, dei filamenti e dei semini.",
+      "Riducetelo a dadini e mettetelo in una ciotola. Tagliate a metà le olive e unitele ai peperoni. Scolate i ceci, uniteli ai peperoni.",
+      "Condite il tutto con un pizzico di sale e 2 cucchiai di olio e mescolate.  Scolate il farro, passatelo sotto l’acqua corrente per interrompere la cottura.",
+      "Unite il farro alle verdure, mescolate bene. Coprite la ciotola con pellicola e poi fate raffreddare in frigorifero per almeno un’ora. Distribuite l'insalata di farro fredda in ciotoline individuali e servite accompagnando con un cucchiaio di salsa allo yogurt e basilico."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:47.050681+00:00",
+    "repaired_at": "2026-10-10T14:28:37.049236+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/254/25479/insalata-di-farro-fredda_15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l'insalata di farro fredda portate a bollore in una pentola dell’acqua leggermente salata e fate cuocere il farro 1 per il tempo indicato sulla confezione. Lavate e tritate le foglie di basilico 2 , versate lo yogurt in una ciotolina, aggiungete un pizzico di sale e un cucchiaio di olio 3 .",
+      "Insaporite con le foglie di basilico spezzettat 4 . Mescolate bene, coprite la ciotolina con un foglio di pellicola 5 e ponetela in frigorifero. Nel frattempo, lavate il peperone, tagliatelo in 2 e privatelo del picciolo, dei filamenti e dei semini 6 .",
+      "Riducetelo a dadini 7 e mettetelo in una ciotola. Tagliate a metà le olive 8 e unitele ai peperoni. Scolate i ceci 9 , uniteli ai peperoni.",
+      "Condite il tutto con un pizzico di sale 10 e 2 cucchiai di olio 11 e mescolate.  Scolate il farro 12 , passatelo sotto l’acqua corrente per interrompere la cottura.",
+      "Unite il farro alle verdure 13 , mescolate bene. Coprite la ciotola con pellicola 14 e poi fate raffreddare in frigorifero per almeno un’ora. Distribuite l'insalata di farro fredda in ciotoline individuali e servite accompagnando con un cucchiaio di salsa allo yogurt e basilico 15 ."
+    ],
+    "steps_clean": [
+      "Per preparare l'insalata di farro fredda portate a bollore in una pentola dell’acqua leggermente salata e fate cuocere il farro per il tempo indicato sulla confezione. Lavate e tritate le foglie di basilico, versate lo yogurt in una ciotolina, aggiungete un pizzico di sale e un cucchiaio di olio.",
+      "Insaporite con le foglie di basilico spezzettat. Mescolate bene, coprite la ciotolina con un foglio di pellicola e ponetela in frigorifero. Nel frattempo, lavate il peperone, tagliatelo in 2 e privatelo del picciolo, dei filamenti e dei semini.",
+      "Riducetelo a dadini e mettetelo in una ciotola. Tagliate a metà le olive e unitele ai peperoni. Scolate i ceci, uniteli ai peperoni.",
+      "Condite il tutto con un pizzico di sale e 2 cucchiai di olio e mescolate.  Scolate il farro, passatelo sotto l’acqua corrente per interrompere la cottura.",
+      "Unite il farro alle verdure, mescolate bene. Coprite la ciotola con pellicola e poi fate raffreddare in frigorifero per almeno un’ora. Distribuite l'insalata di farro fredda in ciotoline individuali e servite accompagnando con un cucchiaio di salsa allo yogurt e basilico."
+    ],
+    "images_import_version": 2,
+    "step_images_checked_at": "2026-10-10T14:29:37.029153+00:00"
+  },
+  {
+    "id": 191956037861526,
+    "name": "Puccia salentina",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 35,
+    "ingredients_display": [
+      "Farina 0 1 kg",
+      "Acqua (tiepida) 600 g",
+      "Lievito di birra secco 5 g",
+      "Malto 10 g",
+      "Olio extravergine d'oliva 100 g",
+      "Sale 15 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Puccia-salentina.html",
+    "image_url": "https://www.giallozafferano.it/images/157-15700/Puccia-salentina_650x433_wm.jpg",
+    "servings": 18,
+    "kcal": 254.0,
+    "protein": null,
+    "carbs": 42.9,
+    "fats": 6.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 0",
+        1.0,
+        "kg"
+      ],
+      [
+        "Acqua (tiepida)",
+        600.0,
+        "g"
+      ],
+      [
+        "Lievito di birra secco",
+        5.0,
+        "g"
+      ],
+      [
+        "Malto",
+        10.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        100.0,
+        "g"
+      ],
+      [
+        "Sale",
+        15.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare la puccia salentina iniziate a setacciare la farina nella ciotola della planetaria, quindi unitevi anche il lievito disidratato e il malto.",
+      "Azionate la planetaria con la foglia e versate l’olio a filo; unite anche l’acqua tiepida a filo e lavorate il tutto per qualche minuto. Quando il composto sarà diventato una massa unica, aggiungete anche il sale.",
+      "Lavorate ancora per un paio di minuti, giusto il tempo di permettere all’impasto di assorbire il sale, quindi sostituite la foglia con il gancio. Azionate nuovamente la planetaria a velocità media per circa 10-15 minuti, fino ad ottenere un impasto molto liscio ed elastico. Quando l'impasto si sarà incordato, mettete il composto su un piano di lavoro oleato e lavoratelo leggermente con le mani.",
+      "Sempre con le mani cercate di conferire una forma sferica, poi posizionatelo in una ciotola abbastanza capiente unta con un filo d'olio. Coprite con la pellicola trasparente e lasciate lievitare nel forno spento ma con la luce accesa per circa 2-3 ore (la temperatura indicata è quella di 28-30°), fino a quando non avrà raddoppiato il suo volume.",
+      "Trasferite l'impasto su di una spianatoia e, lavorandolo con le mani, cercate di ottenere un filone. Ricavate 18 porzioni di circa 90 g ciascuna, aiutandovi con un tarocco o con la lama di un coltello.",
+      "Prendete ciascun pezzo di impasto e, trattenendolo nella mano, eseguite un movimento rotatorio per ottenere delle sfere. Stendete con un mattarello le vostre palline di impasto su di una spianatoia leggermente infarinata, fino ad ottenere dei dischi di circa 20 cm di diametro.",
+      "Posizionateli delicatamente su una leccarda foderata con la carta da forno e infornate a 250° in forno statico preriscaldato per circa 15 minuti (se utilizzate il forno ventilato cuocete a 230° per circa 10 minuti). Trascorso il tempo necessario, sfornate le vostre pucce e servitele ancora calde.",
+      "Tra le varie possibilità di farcire la vostra puccia, noi di Giallo Zafferano abbiamo scelto di proporvi quella con lo spezzatino di cavallo. Tagliate senza fare pressione a metà la vostra puccia, riempitela con lo spezzatino preparato e servitela ancora calda!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:27:49.652912+00:00",
+    "repaired_at": "2026-10-10T14:28:39.658628+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [

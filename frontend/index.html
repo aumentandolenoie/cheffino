@@ -169,9 +169,21 @@ function filteredRecipes(options={}){
  const dairy=['Ricotta','Formaggio','Grana','Feta','Mozzarella','Yogurt','Burro','Latte','Panna','Parmigiano','Pecorino','Crescenza','Stracchino','Scamorza','Provola','Fontina','Gorgonzola','Taleggio'];
  const diets=Array.isArray(state.diet)?state.diet:[state.diet];
  return recipeData.filter(r=>{
+  // Le schede approvate automaticamente non certificano allergeni o diete.
+  // In presenza di esigenze alimentari specifiche non mostrarle come sicure.
+  if(r.autoValidated){
+   if(diets.some(d=>d!=='Nessuna'))return false;
+   if(!r.requiredTools.length || r.requiredTools.some(t=>!state.kitchen.includes(t)))return false;
+  }
+
   if(r.ings.some(i=>state.avoid.includes(i)))return false;
    const sourceIngs=recipeDetailData(r)?.ingredients.map(i=>i[0].toLowerCase())||[];
-   if(state.avoid.some(a=>sourceIngs.some(i=>i.includes(a.toLowerCase()))))return false;
+   const fold=(x)=>String(x).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
+   if(state.avoid.some(a=>sourceIngs.some(i=>{
+     const ing=fold(i), excluded=fold(a);
+     return ing===excluded || ing.startsWith(excluded+' ') || ing.endsWith(' '+excluded) || ing.includes(' '+excluded+' ');
+   })))return false;
+
   if(diets.includes('Vegano')&&(r.ings.some(i=>[...meat,...animal].includes(i))||sourceIngs.some(i=>/(pollo|uova|grana|parmigiano|panna|burro|latte|formaggio|miele|pesce|carne)/i.test(i))))return false;
   if(diets.includes('Vegetariano')&&(r.ings.some(i=>meat.includes(i))||sourceIngs.some(i=>/(pollo|petto di pollo|pancetta|carne|salmone|tonno|merluzzo)/i.test(i))))return false;
   if(diets.includes('Senza Glutine')&&(r.ings.some(i=>gluten.includes(i))||sourceIngs.some(i=>/(pasta|ditalini|farina 00|grano|pane)/i.test(i))))return false;
@@ -304,7 +316,7 @@ function toggleVerifiedOnly(){state.verifiedOnly=!state.verifiedOnly;state.planG
 function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;generateWeeklyPlan();render()}
 function showRecipe(id){const r=getRecipe(id),d=recipeDetailData(r),people=peopleCount();
  const metric=(title,val)=>`<div class="detailmetric"><span>${title}</span><b>${val}</b></div>`;
- const mac=(klass,title,key)=>`<div class="detailmacro ${klass}"><span>${title}</span><b>${d?.[key]!==undefined?d[key].toLocaleString('it-IT')+' g':'n.d.'}</b></div>`;
+ const mac=(klass,title,key)=>`<div class="detailmacro ${klass}"><span>${title}</span><b>${typeof d?.[key]==='number'?d[key].toLocaleString('it-IT')+' g':'n.d.'}</b></div>`;
  const steps=d?`<ol class="detailsteps">${d.steps.map(x=>`<li>${safe(x)}</li>`).join('')}</ol>`:'<p class="hint">Procedimento non ancora verificato per questa ricetta. Nessun passaggio viene inventato.</p>';
  modal(`<div class="modalhead"><h2 style="margin:0">${safe(r.name)}</h2><button class="close" onclick="closeModal()">✕</button></div>
  <div class="detailhero">${d?.image?`<img src="${safe(d.image)}" alt="${safe(r.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.nextElementSibling.style.display='block'">`:''}<span class="foodart" style="${d?.image?'display:none':''}">${r.emoji}</span>${!d?.image?'<small>Foto non ancora verificata</small>':''}</div>
@@ -322,7 +334,7 @@ function exportShoppingList(){
  Object.entries(state.plan).forEach(([slot,id])=>{
   const r=getRecipe(id),d=recipeDetailData(r);
   if(!d){missing.push(r.name);return}
-  const portion=d.servings?peopleCount()/d.servings:null;
+  const portion=peopleCount()/d.servings;
   d.ingredients.forEach(([name,qty,unit])=>{
    const key=name.toLowerCase().trim()+'|'+unit;
    const old=entries.get(key)||{name,qty:0,unit,unknown:false,meals:[]};
@@ -359,7 +371,6 @@ async function importCheffinoBackup(input){
   }catch(e){alert('Impossibile importare il backup: '+e.message)}finally{input.value=''}
 }
 
-
 // Il catalogo pubblicato su Render è la fonte dati primaria. Le schede locali
 // rimangono come fallback se l'API non risponde (es. sviluppo offline).
 async function caricaCatalogoServer(){
@@ -369,13 +380,15 @@ async function caricaCatalogoServer(){
   const payload=await response.json();
   if(!Array.isArray(payload.recipes))throw new Error('Formato catalogo non valido');
   for(const entry of payload.recipes){
-   if(entry.needs_review)continue; // Mai usare schede non revisionate.
+   if(entry.needs_review)continue; // Non pubblicare schede ancora in revisione.
    if(typeof entry.id!=='number'||!entry.name||!entry.url||!Array.isArray(entry.ingredients))continue;
    const existing=recipeData.find(r=>r.id===entry.id);
    const item={id:entry.id,name:entry.name,emoji:entry.emoji||'🍽️',
      time:entry.time??null,kcal:entry.kcal??null,
-     ings:Array.isArray(entry.ingredients_display)?entry.ingredients_display:entry.ingredients.map(x=>x[0]),
-     style:entry.style||'Da classificare',type:entry.type||'Piatto unico'};
+     ings:entry.ingredients.map(x=>Array.isArray(x)?x[0]:''),
+     style:entry.style||'Da classificare',type:entry.type||'Piatto unico',
+     autoValidated:!!entry.validazione_automatica?.approved,
+     requiredTools:entry.validazione_automatica?.tools||[]};
    if(existing)Object.assign(existing,item);else recipeData.push(item);
    sourcedDetails[entry.id]={source:entry.source||'Fonte online',url:entry.url,
      servings:entry.servings||null,minutes:entry.time??null,kcal:entry.kcal??null,
@@ -383,9 +396,12 @@ async function caricaCatalogoServer(){
      image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps||[]};
   }
   console.info('Cheffino: catalogo caricato dal server',payload.recipes.length);
+  if(state.view==='home' && Object.keys(state.plan||{}).length===0){generateWeeklyPlan();}
  }catch(e){console.warn('Cheffino: catalogo locale di riserva',e.message)}
  render();
 }
 
+render();
 caricaCatalogoServer();
+
 </script></body></html>

@@ -111,6 +111,11 @@
     justify-self: stretch;
   }
 }
+/* Gallerie fotografiche dei passaggi, solo se abbinate con certezza */
+.detailsteps li{margin-bottom:18px}
+.step-photo-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;margin:12px 0 16px}
+.step-photo-grid img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:11px;background:var(--surface2);border:1px solid var(--line)}
+@media(max-width:430px){.step-photo-grid{gap:5px}.step-photo-grid img{border-radius:8px}}
 </style></head>
 <body><div class="app" id="app"><header class="topbar"><div class="brand"><div class="logo">👨‍🍳</div>Cheffino</div><div class="topright"><button class="btn" onclick="openSettings()">⚙ Preferenze</button></div></header><main class="wrap" id="main"></main></div><div id="modalRoot"></div><input id="cheffinoBackupInput" type="file" accept="application/json,.json" style="display:none" onchange="importCheffinoBackup(this)">
 <script>
@@ -317,7 +322,7 @@ function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;genera
 function showRecipe(id){const r=getRecipe(id),d=recipeDetailData(r),people=peopleCount();
  const metric=(title,val)=>`<div class="detailmetric"><span>${title}</span><b>${val}</b></div>`;
  const mac=(klass,title,key)=>`<div class="detailmacro ${klass}"><span>${title}</span><b>${typeof d?.[key]==='number'?d[key].toLocaleString('it-IT')+' g':'n.d.'}</b></div>`;
- const steps=d?`<ol class="detailsteps">${d.steps.map(x=>`<li>${safe(x)}</li>`).join('')}</ol>`:'<p class="hint">Procedimento non ancora verificato per questa ricetta. Nessun passaggio viene inventato.</p>';
+ const steps=d?`<ol class="detailsteps">${d.steps.map((x,i)=>`<li><div>${safe(x)}</div>${Array.isArray(d.stepImages?.[i])&&d.stepImages[i].length?`<div class="step-photo-grid">${d.stepImages[i].map((url,j)=>`<img src="${safe(url)}" alt="${safe(r.name)} - foto passaggio ${i+1}.${j+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`).join('')}</div>`:''}</li>`).join('')}</ol>`:'<p class="hint">Procedimento non ancora verificato per questa ricetta. Nessun passaggio viene inventato.</p>';
  modal(`<div class="modalhead"><h2 style="margin:0">${safe(r.name)}</h2><button class="close" onclick="closeModal()">✕</button></div>
  <div class="detailhero">${d?.image?`<img src="${safe(d.image)}" alt="${safe(r.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.nextElementSibling.style.display='block'">`:''}<span class="foodart" style="${d?.image?'display:none':''}">${r.emoji}</span>${!d?.image?'<small>Foto non ancora verificata</small>':''}</div>
  <div class="detailmetrics">${metric('Persone',people)}${metric('Tempo',d?.minutes?d.minutes+' min':'n.d.')}${metric('Calorie',d?.kcal?d.kcal+' kcal/porz.':'n.d.')}${metric('Costo',d?.cost||'n.d.')}</div>
@@ -393,7 +398,7 @@ async function caricaCatalogoServer(){
    sourcedDetails[entry.id]={source:entry.source||'Fonte online',url:entry.url,
      servings:entry.servings||null,minutes:entry.time??null,kcal:entry.kcal??null,
      cost:entry.cost??null,protein:entry.protein??null,carbs:entry.carbs??null,fats:entry.fats??null,
-     image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps||[]};
+     image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps||[],stepImages:entry.step_images||[]};
   }
   console.info('Cheffino: catalogo caricato dal server',payload.recipes.length);
   if(state.view==='home' && Object.keys(state.plan||{}).length===0){generateWeeklyPlan();}

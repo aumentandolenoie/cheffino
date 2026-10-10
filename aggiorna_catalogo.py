@@ -102,6 +102,64 @@ def discover_urls(fetcher=fetch_xml, max_sitemaps=12):
     return [x[0] for x in sorted(found.items(), key=lambda x: (x[1], x[0]), reverse=True)]
 
 
+# Diversifica la scoperta fra famiglie di piatti, senza scartare le altre
+# ricette (che saranno verificate dal classificatore dopo l'importazione).
+DESSERT_SLUG = re.compile(
+    r'(torta(?!-salata)|biscott|crostat|muffin|plumcake|gelato|'
+    r'frullato|latte-matcha|matcha-latte|cheesecake|pancake|cocktail|'
+    r'cioccolata-calda|tiramis|brownie|budino|zuppa-inglese|'
+    r'rotolo-al-te|dolce-|granola|gingerbread-latte)', re.I
+)
+
+
+def recipe_family(url):
+    slug = urlparse(url).path.rsplit('/', 1)[-1].lower()
+    if re.search(r'(pasta-|risotto-|riso-|gnocch|tortell|raviol|lasagn|'
+                 r'cannellon|spaghett|penne-|orecchiett|tagliatell)', slug):
+        return 'primi'
+    if re.search(r'(pollo|tacchin|manzo|vitell|maiale|salmone|sgombro|'
+                 r'baccala|merluzzo|orata|branzino|pesce|gamber|tonno|'
+                 r'polpett|frittata|omelette|uova-|arrosto)', slug):
+        return 'secondi'
+    if re.search(r'(zuppa|zuppetta|minestra|vellutata|insalata|bowl|'
+                 r'cous-cous|pizza|piadina|panino|quiche|torta-salata|'
+                 r'burger|focaccia)', slug):
+        return 'unici'
+    return 'altri'
+
+
+def diversify_urls(urls, week=None):
+    """Intercala i gruppi: evita l'importazione di sole ricette 'Zuppa'.
+
+    Rota l'ordine settimanalmente, in modo deterministico. I contenuti
+    estratti restano soggetti a controlli robots e validazione ordinari.
+    """
+    from collections import deque
+    from datetime import date
+    if week is None:
+        week = date.today().isocalendar().week
+    groups = {k: [] for k in ('primi', 'secondi', 'unici', 'altri')}
+    for url in urls:
+        slug = urlparse(url).path.rsplit('/', 1)[-1].lower()
+        if DESSERT_SLUG.search(slug):
+            continue
+        groups[recipe_family(url)].append(url)
+    # Rotazione serve a non campionare sempre l'inizio di ogni gruppo.
+    queues = {}
+    for kind, items in groups.items():
+        if items:
+            shift = (week * 17) % len(items)
+            queues[kind] = deque(items[shift:] + items[:shift])
+    result = []
+    order = ('primi', 'secondi', 'unici', 'altri')
+    while any(queues.values()):
+        for kind in order:
+            if kind in queues and queues[kind]:
+                result.append(queues[kind].popleft())
+    print('Candidati diversificati: ' + ', '.join(f'{k}={len(v)}' for k,v in groups.items()), flush=True)
+    return result
+
+
 def val(v):
     if not isinstance(v, str): return None
     m = re.search(r'(\d+(?:[.,]\d+)?)', v)
@@ -166,7 +224,7 @@ def run(limit=20, delay=2.5, discoverer=discover_urls, fetcher=fetch_recipe,
     catalog = json.loads(Path(catalog_path).read_text(encoding='utf-8'))
     if not isinstance(catalog, list): raise ValueError('Catalogo JSON non valido')
     known = {r['url'] for r in catalog if r.get('url')}
-    candidates = discoverer()
+    candidates = diversify_urls(discoverer())
     print(f'URL candidati: {len(candidates)}; gia presenti nel catalogo: {len(known)}', flush=True)
     imported = 0
     failed = 0
@@ -176,9 +234,6 @@ def run(limit=20, delay=2.5, discoverer=discover_urls, fetcher=fetch_recipe,
         if imported >= limit or failed >= 12: break
         # Evita dessert/bevande evidenti già dall'URL, senza escludere
         # ricette ambigue che saranno valutate dal classificatore.
-        slug=urlparse(url).path.rsplit('/',1)[-1].lower()
-        if re.search(r'(torta(?!-salata)|biscott|crostat|muffin|plumcake|gelato|frullato|latte-matcha|matcha-latte|cheesecake|pancake|cocktail|cioccolata-calda|tiramis|brownie|budino)', slug):
-            continue
         if url in known:
             already += 1
             continue

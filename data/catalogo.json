@@ -1581,8 +1581,54 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T14:49:12.619067+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:26:49.030506+00:00",
+    "images_import_version": 5,
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17173/17173_zuppa_autunnale_strip_7-9.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la zuppa autunnale iniziate tagliando la zucca prima a fettine 1 , eliminate la buccia quindi riducete la polpa a cubetti di circa 2 cm 2 . Legate con lo spago le foglie di alloro e i rametti di rosmarino 3 , in questo modo sarà più facili eliminarli a fine cottura.",
+      "Sgranate i fagioli 4 e raccoglieteli in una ciotola. Spuntate la base del porro, eliminate la parte verde più coriacea e togliete le prime due foglie, quindi affettatelo a rondelle 5 . Lavate le foglie del cavolo 6",
+      "E tagliatele a pezzi grossolani 7 . Gli ingredienti sono pronti per la cottura: scaldate l’olio di oliva in un tegame ampio, aggiungete il porro affettato 8 , lasciatelo rosolare per 1 minuto, quindi coprite con un mestolo di brodo 9 e lasciate stufare per 5-6 minuti.",
+      "Quando il porro sarà stufato, aggiungete la zucca a dadini 10 i fagioli sgranati 11 , il cavolo nero 12",
+      "e per finire il mazzetto di erbe aromatiche 13 , coprite le verdure con il brodo 14 in modo che risultino completamente immerse nel liquido, quindi coprite con il coperchio 15 e lasciate cuocere per circa 2 ore; mescolate di tanto in tanto.",
+      "Trascorso il tempo di cottura, le verdure risulteranno tenere; eliminate il rametto di erbe aromatiche, salate 16 e pepate a piacere, quindi tenete in caldo. Affettale il filone di pane 17 , adagiate le fettine su una leccarda rivestita con carta da forno 18 ,",
+      "insaporite con olio di oliva 19 , un pizzico di sale e aghetti di rosmarino 20 , quindi fate tostare il pane fino a dorarlo 21 in forno statico preriscaldato a 240° in modalità grill per 3-4 minuti.",
+      "Ora ponete i gherigli di noci in una padella ben calda 22 (potete lasciarle intere oppure sbriciolarle grossolanamente), tostatele per 3 minuti per dorarle agitando la padella per non farle bruciare 23 , quindi unitele alla zuppa. Servite la zuppa autunnale calda 24 accompagnandola con i crostini di pane tostato."
+    ],
+    "steps_clean": [
+      "Per realizzare la zuppa autunnale iniziate tagliando la zucca prima a fettine, eliminate la buccia quindi riducete la polpa a cubetti di circa 2 cm. Legate con lo spago le foglie di alloro e i rametti di rosmarino, in questo modo sarà più facili eliminarli a fine cottura.",
+      "Sgranate i fagioli e raccoglieteli in una ciotola. Spuntate la base del porro, eliminate la parte verde più coriacea e togliete le prime due foglie, quindi affettatelo a rondelle. Lavate le foglie del cavolo",
+      "E tagliatele a pezzi grossolani. Gli ingredienti sono pronti per la cottura: scaldate l’olio di oliva in un tegame ampio, aggiungete il porro affettato, lasciatelo rosolare per 1 minuto, quindi coprite con un mestolo di brodo e lasciate stufare per 5-6 minuti.",
+      "Quando il porro sarà stufato, aggiungete la zucca a dadini i fagioli sgranati, il cavolo nero",
+      "e per finire il mazzetto di erbe aromatiche, coprite le verdure con il brodo in modo che risultino completamente immerse nel liquido, quindi coprite con il coperchio e lasciate cuocere per circa 2 ore; mescolate di tanto in tanto.",
+      "Trascorso il tempo di cottura, le verdure risulteranno tenere; eliminate il rametto di erbe aromatiche, salate e pepate a piacere, quindi tenete in caldo. Affettale il filone di pane, adagiate le fettine su una leccarda rivestita con carta da forno,",
+      "insaporite con olio di oliva, un pizzico di sale e aghetti di rosmarino, quindi fate tostare il pane fino a dorarlo in forno statico preriscaldato a 240° in modalità grill per 3-4 minuti.",
+      "Ora ponete i gherigli di noci in una padella ben calda (potete lasciarle intere oppure sbriciolarle grossolanamente), tostatele per 3 minuti per dorarle agitando la padella per non farle bruciare, quindi unitele alla zuppa. Servite la zuppa autunnale calda accompagnandola con i crostini di pane tostato."
+    ]
   },
   {
     "id": 171021698363776,
@@ -2346,8 +2392,8 @@
         "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:49:49.573663+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:27:28.307219+00:00",
+    "images_import_version": 5
   },
   {
     "id": 1681453928818,
@@ -4122,8 +4168,8 @@
         "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:49:46.972803+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:27:25.724748+00:00",
+    "images_import_version": 5
   },
   {
     "id": 120172866436140,
@@ -5377,8 +5423,8 @@
         "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_18.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:49:36.534420+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:27:12.616633+00:00",
+    "images_import_version": 5
   },
   {
     "id": 195906486229640,
@@ -5782,8 +5828,8 @@
         "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:49:33.765201+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:27:10.036052+00:00",
+    "images_import_version": 5
   },
   {
     "id": 90872653943460,
@@ -8138,8 +8184,8 @@
         "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:49:28.575353+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:27:04.860988+00:00",
+    "images_import_version": 5
   },
   {
     "id": 275941352617638,
@@ -8284,8 +8330,8 @@
         "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_18.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:49:25.974692+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:27:02.272500+00:00",
+    "images_import_version": 5
   },
   {
     "id": 149339473991213,
@@ -9319,8 +9365,49 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T14:49:23.378899+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:26:59.690954+00:00",
+    "images_import_version": 5,
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/165/16517/16517_zuppa_imperiale_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/165/16517/16517_zuppa_imperiale_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/165/16517/16517_zuppa_imperiale_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/165/16517/16517_zuppa_imperiale_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/165/16517/16517_zuppa_imperiale_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/165/16517/16517_zuppa_imperiale_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/165/16517/16517_zuppa_imperiale_strip_7-9.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la zuppa imperiale iniziate dalla preparazione del brodo di carne : lavate e pelate le verdure e ponetele in un tegame capiente e dai bordi alti con l’olio. Aromatizzate con i grani di pepe in grani ed i chiodi di garofano . Aggiungete la carne 1 e coprite con 3L di acqua, lasciate cuocere così a fuoco medio-alto per circa 2 ore, fino a far ridurre il brodo di circa la metà. Quindi aggiungete il restante litro di acqua e lasciate cuocere per ancora un'ora a fuoco basso. A fine cottura 2 filtrate il brodo con un colino a maglie strette 3 .",
+      "Conservate la carne e le verdure per il lesso e salate il brodo 4 . Ora occupatevi dell’impasto: in un pentolino sciogliete a fuoco dolce il burro e tenetelo da parte (5-6).",
+      "In una ciotola versate il semolino e il Parmigiano grattugiato 7 , unite le uova sbattute 8 , il burro fuso 9 , il sale,",
+      "aromatizzate con la noce moscata grattugiata 10 e mescolate il tutto con una frusta 11 per amalgamare gli ingredienti 12 .",
+      "Imburrate una teglia 30x20cm e foderatela con carta da forno 13 , trasferite l’impasto nella teglia 14 e livellatelo in superficie con il dorso di un cucchiaio per compattarlo al meglio 15 .",
+      "Cuocete il composto in forno statico preriscaldato a 180° per 35 minuti. A cottura ultimata, sfornate il composto e lasciatelo raffreddare 16 , poi rovesciate la teglia su un tagliere per sformare il panetto 17 . Tagliatelo prima striscioline 18",
+      "e poi a cubetti di circa  1x1 cm (19-20). Versate il brodo caldo in un piatto, aggiungete i cubetti di semolino e servite la vostra zuppa imperiale 21 ."
+    ],
+    "steps_clean": [
+      "Per realizzare la zuppa imperiale iniziate dalla preparazione del brodo di carne: lavate e pelate le verdure e ponetele in un tegame capiente e dai bordi alti con l’olio. Aromatizzate con i grani di pepe in grani ed i chiodi di garofano. Aggiungete la carne e coprite con 3L di acqua, lasciate cuocere così a fuoco medio-alto per circa 2 ore, fino a far ridurre il brodo di circa la metà. Quindi aggiungete il restante litro di acqua e lasciate cuocere per ancora un'ora a fuoco basso. A fine cottura filtrate il brodo con un colino a maglie strette.",
+      "Conservate la carne e le verdure per il lesso e salate il brodo. Ora occupatevi dell’impasto: in un pentolino sciogliete a fuoco dolce il burro e tenetelo da parte (5-6).",
+      "In una ciotola versate il semolino e il Parmigiano grattugiato 7 , unite le uova sbattute 8 , il burro fuso 9 , il sale,",
+      "aromatizzate con la noce moscata grattugiata 10 e mescolate il tutto con una frusta 11 per amalgamare gli ingredienti 12 .",
+      "Imburrate una teglia 30x20cm e foderatela con carta da forno 13 , trasferite l’impasto nella teglia 14 e livellatelo in superficie con il dorso di un cucchiaio per compattarlo al meglio 15 .",
+      "Cuocete il composto in forno statico preriscaldato a 180° per 35 minuti. A cottura ultimata, sfornate il composto e lasciatelo raffreddare 16 , poi rovesciate la teglia su un tagliere per sformare il panetto 17 . Tagliatelo prima striscioline 18",
+      "e poi a cubetti di circa  1x1 cm (19-20). Versate il brodo caldo in un piatto, aggiungete i cubetti di semolino e servite la vostra zuppa imperiale 21 ."
+    ]
   },
   {
     "id": 103362004279734,
@@ -9402,8 +9489,39 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T14:49:20.550054+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:26:56.945345+00:00",
+    "images_import_version": 5,
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/201/20129/20129_zuppa_gallurese_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/201/20129/20129_zuppa_gallurese_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/201/20129/20129_zuppa_gallurese_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/201/20129/20129_zuppa_gallurese_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/201/20129/20129_zuppa_gallurese_strip_4-6.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la zuppa gallurese per prima cosa dovrete preparare un buon brodo di carne dal gusto deciso a base di agnello e pecora. Tagliate a metà il formaggio Casizolu 1 e grattugiatelo 2 , fate lo stesso anche con il pecorino 3 e raccogliete i formaggi in una ciotola.",
+      "Pepate 4 , mescolate 5 e tenete da parte. Tagliate la pagnotta a fette spesse circa 1 cm 6 .",
+      "Poi prendete una pirofila dal bordo alto che misuri circa 20x20 cm e adagiate sul fondo le fettine di pane, in modo da non lasciare spazi vuoti 7 . Ora distribuite sopra uno strato di formaggi grattugiati 8 in modo da ricoprire interamente le fette 9 .",
+      "Proseguite con un altro strato di pane 10 , uno di formaggio e poi ancora pane. Dovrete realizzare 4 strati in totale. Sull’ultimo strato di pane versate il brodo di carne a filo 11 , bucherellando il pane con i rebbi della forchetta così che il liquido possa essere assorbito meglio. Con il dorso di un cucchiaio pressate il pane in superficie, in modo da inumidirlo bene 12 .",
+      "Aspettate un paio di minuti per far assorbire bene il brodo, poi distribuite sopra il resto del formaggio 13 , coprendo interamente 14 . Insaporite con un'altra spolverata di pepe e cuocete in forno già caldo a 200° per 30 minuti, o finché non si creerà in superficie una crosticina dorata. A cottura ultimata, sfornate, lasciate riposare qualche minuto e poi servite la zuppa gallurese ben calda 15 ."
+    ],
+    "steps_clean": [
+      "Per realizzare la zuppa gallurese per prima cosa dovrete preparare un buon brodo di carne dal gusto deciso a base di agnello e pecora. Tagliate a metà il formaggio Casizolu e grattugiatelo, fate lo stesso anche con il pecorino e raccogliete i formaggi in una ciotola.",
+      "Pepate, mescolate e tenete da parte. Tagliate la pagnotta a fette spesse circa 1 cm.",
+      "Poi prendete una pirofila dal bordo alto che misuri circa 20x20 cm e adagiate sul fondo le fettine di pane, in modo da non lasciare spazi vuoti. Ora distribuite sopra uno strato di formaggi grattugiati in modo da ricoprire interamente le fette.",
+      "Proseguite con un altro strato di pane, uno di formaggio e poi ancora pane. Dovrete realizzare 4 strati in totale. Sull’ultimo strato di pane versate il brodo di carne a filo, bucherellando il pane con i rebbi della forchetta così che il liquido possa essere assorbito meglio. Con il dorso di un cucchiaio pressate il pane in superficie, in modo da inumidirlo bene.",
+      "Aspettate un paio di minuti per far assorbire bene il brodo, poi distribuite sopra il resto del formaggio, coprendo interamente. Insaporite con un'altra spolverata di pepe e cuocete in forno già caldo a 200° per 30 minuti, o finché non si creerà in superficie una crosticina dorata. A cottura ultimata, sfornate, lasciate riposare qualche minuto e poi servite la zuppa gallurese ben calda."
+    ]
   },
   {
     "id": 59285397777100,
@@ -10379,8 +10497,39 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T14:49:17.914074+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:26:54.354821+00:00",
+    "images_import_version": 5,
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17023/17023_zuppa_di_pomodoro_strip_4-6.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la zuppa di pomodoro iniziate lavando questi ultimi. Poi asciugateli e con un coltellino eliminate il picciolo e la pelle 1 . Tagliateli a metà e svuotateli dei semi e del succo 2 . Una volta puliti tutti sminuzzateli 3 .",
+      "In un tegame scaldate l’olio extravergine insieme ad uno spicchio d’aglio sbucciato 4 , dopo un minuto aggiungete i pomodori 5 e mescolate lasciando insaporire per qualche minuto 6 .",
+      "Unite poi le foglie di basilico 7 , salate e date un’ultima mescolate 8 prima di coprire con un coperchio lasciando cuocere, a fiamma bassa, per almeno 35 minuti 9 .",
+      "Trascorso il tempo eliminate il basilico e l’aglio 10 , poi utilizzando un mixer ad immersione frullate i pomodori in modo da ottenere una purea liscia 11 . Lasciate cuocere ancora per 25-30 minuti così da farla asciugare e restringere un po’ 12 ; poi spegnete il fuoco e lasciatela intiepidire a temperatura ambiente.",
+      "A questo punto la vostra zuppa di pomodoro sarà pronta, noi abbiamo scelto di servirla nelle ciotoline 13 e di guarnirla con della panna fresca. Se volete farlo anche voi è davvero molto semplice, basterà versare un pò di panna sulla zuppa e con un cucchiaio formare una spirale 14 . Infine date un tocco di colore e profumo in più alla vostra zuppa di pomodoro aggiungendo una fogliolina di basilico e servite 15 ."
+    ],
+    "steps_clean": [
+      "Per preparare la zuppa di pomodoro iniziate lavando questi ultimi. Poi asciugateli e con un coltellino eliminate il picciolo e la pelle. Tagliateli a metà e svuotateli dei semi e del succo. Una volta puliti tutti sminuzzateli.",
+      "In un tegame scaldate l’olio extravergine insieme ad uno spicchio d’aglio sbucciato, dopo un minuto aggiungete i pomodori e mescolate lasciando insaporire per qualche minuto.",
+      "Unite poi le foglie di basilico, salate e date un’ultima mescolate prima di coprire con un coperchio lasciando cuocere, a fiamma bassa, per almeno 35 minuti.",
+      "Trascorso il tempo eliminate il basilico e l’aglio, poi utilizzando un mixer ad immersione frullate i pomodori in modo da ottenere una purea liscia. Lasciate cuocere ancora per 25-30 minuti così da farla asciugare e restringere un po’; poi spegnete il fuoco e lasciatela intiepidire a temperatura ambiente.",
+      "A questo punto la vostra zuppa di pomodoro sarà pronta, noi abbiamo scelto di servirla nelle ciotoline e di guarnirla con della panna fresca. Se volete farlo anche voi è davvero molto semplice, basterà versare un pò di panna sulla zuppa e con un cucchiaio formare una spirale. Infine date un tocco di colore e profumo in più alla vostra zuppa di pomodoro aggiungendo una fogliolina di basilico e servite."
+    ]
   },
   {
     "id": 224153607055441,
@@ -10643,8 +10792,49 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T14:49:15.261330+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:26:51.635234+00:00",
+    "images_import_version": 5,
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/175/17594/17594_zuppa_di_pomodori_e_mozzarella_strip_7-9.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la zuppa di pomodori arrosto e mozzarella cominciate lavando i pomodorini 1 . Asciugateli e tagliateli a metà nel senso della lunghezza 2 . Poi disponeteli a faccia in giù su una leccarda foderata con carta forno 3 .",
+      "Cospargete con circa 40 grammi d’olio 4 , regolate di sale e pepe, poi aromatizzate con origano secco 5 e paprika 6 .",
+      "Ecco pronti i vostri pomodorini da cuocere 7 . Vanno sul ripiano medio-alto del forno già caldo a 220°, in modalità statica per 40-45 minuti. A fine cottura risulteranno arrostiti e succosi  8 . Raccogliete il foglio di carta forno e traferite i pomodorini in una ciotola 9 e lasciate intiepidire.",
+      "Nel frattempo passate alla mozzarella, prendetene 200 grammi dal totale e ottenete dei pezzi grossi 10 . Raccogliete il tutto in una ciotolina, anche il siero che fuoriesce, e poi versate il tutto nel recipiente coi pomodori 11 . Aggiungete delle foglioline di basilico 12",
+      "e poi frullate il tutto con un frullatore ad immersione 13 . Aggiungete un po’ d’acqua al bisogno 14 fino ad ottenere una vellutata liscia della consistenza che preferite 15 .",
+      "Tenete la zuppa da parte e passate a fare i crostini. Affettate il pane sottilmente 16 . Aggiungete un goccio d’olio insieme ad un pizzico di sale, di pepe e di origano 17 . Infornate, sempre in forno statico preriscaldato a 220° per 7-8 minuti, il tempo necessario a dorare il pane 18 .",
+      "È arrivato il momento della composizione del piatto. Tagliate a piccoli cubetti i restanti 100 g di mozzarella, servirà per decorare 19 . Poi nei piatti da portata versate un po’ di zuppa e immergete il pane tostato 20 . Guarnite il tutto con i cubetti di mozzarella, le foglioline di basilico, un pizzico di paprika e un filo d’olio. Ecco pronta la zuppa di pomodori arrosto e mozzarella 21 ."
+    ],
+    "steps_clean": [
+      "Per preparare la zuppa di pomodori arrosto e mozzarella cominciate lavando i pomodorini. Asciugateli e tagliateli a metà nel senso della lunghezza. Poi disponeteli a faccia in giù su una leccarda foderata con carta forno.",
+      "Cospargete con circa 40 grammi d’olio, regolate di sale e pepe, poi aromatizzate con origano secco e paprika.",
+      "Ecco pronti i vostri pomodorini da cuocere. Vanno sul ripiano medio-alto del forno già caldo a 220°, in modalità statica per 40-45 minuti. A fine cottura risulteranno arrostiti e succosi. Raccogliete il foglio di carta forno e traferite i pomodorini in una ciotola e lasciate intiepidire.",
+      "Nel frattempo passate alla mozzarella, prendetene 200 grammi dal totale e ottenete dei pezzi grossi. Raccogliete il tutto in una ciotolina, anche il siero che fuoriesce, e poi versate il tutto nel recipiente coi pomodori. Aggiungete delle foglioline di basilico",
+      "e poi frullate il tutto con un frullatore ad immersione. Aggiungete un po’ d’acqua al bisogno fino ad ottenere una vellutata liscia della consistenza che preferite.",
+      "Tenete la zuppa da parte e passate a fare i crostini. Affettate il pane sottilmente. Aggiungete un goccio d’olio insieme ad un pizzico di sale, di pepe e di origano. Infornate, sempre in forno statico preriscaldato a 220° per 7-8 minuti, il tempo necessario a dorare il pane.",
+      "È arrivato il momento della composizione del piatto. Tagliate a piccoli cubetti i restanti 100 g di mozzarella, servirà per decorare. Poi nei piatti da portata versate un po’ di zuppa e immergete il pane tostato. Guarnite il tutto con i cubetti di mozzarella, le foglioline di basilico, un pizzico di paprika e un filo d’olio. Ecco pronta la zuppa di pomodori arrosto e mozzarella."
+    ]
   },
   {
     "id": 21569966455552,
@@ -11068,8 +11258,8 @@
         "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_12.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:49:31.170000+00:00",
-    "images_import_version": 4
+    "step_images_checked_at": "2026-10-10T15:27:07.449606+00:00",
+    "images_import_version": 5
   },
   {
     "id": 274823696561498,
@@ -16154,8 +16344,49 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 4,
-    "step_images_checked_at": "2026-10-10T14:49:09.961457+00:00"
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:26:46.417494+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_7-9.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con peperoni, salsiccia e feta iniziamo proprio dagli ortaggi. Dopo aver pulito internamente i peperoni 1 tagliateli a pezzetti irregolari di circa 3 cm 2 . Spezzate con le mani la salsiccia in pezzi di circa 2 cm, dopo aver tolto il budello, e spostatevi ai fornelli 3 .",
+      "Scaldate una padella antiaderente e versate la salsiccia 4 cuocete a fuoco vivace per circa 5 minuti, aggiungete un pizzico di pepe 5 e quando sarà ben colorata mettetela in una ciotola 6 .",
+      "Nella stessa padella versare i peperoni tagliati 7 , salate e coprite con il coperchio lasciando cuocere per circa 10 minuti a fuoco basso 8 ; la padella ci servirà di nuovo successivamente. Intanto mettete sul fuoco una pentola con l'acqua per cuocere la pasta. Quando i peperoni saranno cotti trasferiteli nel boccale di un mixer e aggiungete l'olio 9 .",
+      "Profumate con salvia, timo sfogliato 10 , i rametti di rosmarino 11 e iniziate a frullare 12 .",
+      "Ottenete una crema liscia e tenete da parte 13 . Sbriciolate al coltello, o anche con le mani per un effetto più rustico, la feta 14 e tornate ai fornelli. Tuffate i rigatoni nell'acqua bollente e salata da scolare al dente 15 .",
+      "Versare nuovamente la salsiccia nella padella, scaldate 16 e quando la pasta sarà cotta scolatela direttamente nel condimento 17 . Aggiungete la crema di peperoni 18 .",
+      "Allungate con un mestolo di acqua di cottura 19 e saltate a fuoco vivace per un paio di minuti. Spegnete il fuoco e terminate con la feta sbriciolata 20 . Ecco pronta la vostra pasta con peperoni, salsiccia e feta 21 ."
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con peperoni, salsiccia e feta iniziamo proprio dagli ortaggi. Dopo aver pulito internamente i peperoni tagliateli a pezzetti irregolari di circa 3 cm. Spezzate con le mani la salsiccia in pezzi di circa 2 cm, dopo aver tolto il budello, e spostatevi ai fornelli.",
+      "Scaldate una padella antiaderente e versate la salsiccia cuocete a fuoco vivace per circa 5 minuti, aggiungete un pizzico di pepe e quando sarà ben colorata mettetela in una ciotola.",
+      "Nella stessa padella versare i peperoni tagliati, salate e coprite con il coperchio lasciando cuocere per circa 10 minuti a fuoco basso; la padella ci servirà di nuovo successivamente. Intanto mettete sul fuoco una pentola con l'acqua per cuocere la pasta. Quando i peperoni saranno cotti trasferiteli nel boccale di un mixer e aggiungete l'olio.",
+      "Profumate con salvia, timo sfogliato, i rametti di rosmarino e iniziate a frullare.",
+      "Ottenete una crema liscia e tenete da parte. Sbriciolate al coltello, o anche con le mani per un effetto più rustico, la feta e tornate ai fornelli. Tuffate i rigatoni nell'acqua bollente e salata da scolare al dente.",
+      "Versare nuovamente la salsiccia nella padella, scaldate e quando la pasta sarà cotta scolatela direttamente nel condimento. Aggiungete la crema di peperoni.",
+      "Allungate con un mestolo di acqua di cottura e saltate a fuoco vivace per un paio di minuti. Spegnete il fuoco e terminate con la feta sbriciolata. Ecco pronta la vostra pasta con peperoni, salsiccia e feta."
+    ]
   },
   {
     "id": 95116560499391,
@@ -17847,8 +18078,8 @@
       "Condite con olio e pepe, quindi frullate tutto con il mixer a immersione.",
       "Impiattate con la stracciatella frullata e gustate subito la pasta con nduja, mazzancolle e stracciatella."
     ],
-    "images_import_version": 4,
-    "step_images_checked_at": "2026-10-10T14:49:44.350891+00:00"
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:27:23.138528+00:00"
   },
   {
     "id": 199672550739260,
@@ -18834,8 +19065,44 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 4,
-    "step_images_checked_at": "2026-10-10T14:49:07.305880+00:00"
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:26:43.770426+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_4-6.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare le mezze maniche con melanzane e cialde di Grana Padano per prima cosa lavate e asciugate le melanzane, quindi tagliatele prima e fette spesse e poi a bastoncini, quindi riducetele a cubetti di 1 cm circa 1 . Ponete sul fuoco un tegame con l’olio di semi e portatelo a 170°, friggete le melanzane per un paio di minuti o fino a quando non saranno dorate, poi scolatele con la schiumarola 3 .",
+      "Adagiate le melanzane fritte su un vassoio rivestito con carta assorbente in modo da asciugare l’olio in eccesso 4 . Intanto ponete sul fuoco un tegame colmo di acqua e portate al bollore, servirà per la cottura della pasta. Rivestite con carta forno una teglia e distribuite 60 g di Grana Padano DOP grattugiato con un cucchiaino 5 in modo da creare uno strato omogeneo 6 .",
+      "Condite con pepe macinato 7 8 e cuocete in forno ventilato preriscaldato a 170° per 10 minuti. Nel frattempo cuocete la pasta per il tempo riportato sulla confezione 9 .",
+      "Sfornate la vostra cialda di Grana Padano DOP 10 e lasciatela intiepidire. Non appena la pasta sarà pronta scolatela in una ciotola ampia 11 e conditela con olio di oliva 12 .",
+      "Insaporite con foglie di basilico fresco 13 , dei pomodori secchi sott’olio ben scolati 14 e le olive 15 .",
+      "Incorporate anche le melanzane fritte e insaporite con un cucchiaio di Grana Padano DOP grattugiato 16 . Prendete al cialda e spezzatela per ottenere dei pezzi grossolani 17 . Guarnite con le sfoglie di Grana Padano DOP la pasta e gustatela tiepida 18 ."
+    ],
+    "steps_clean": [
+      "Per realizzare le mezze maniche con melanzane e cialde di Grana Padano per prima cosa lavate e asciugate le melanzane, quindi tagliatele prima e fette spesse e poi a bastoncini, quindi riducetele a cubetti di 1 cm circa 1 . Ponete sul fuoco un tegame con l’olio di semi e portatelo a 170°, friggete le melanzane per un paio di minuti o fino a quando non saranno dorate, poi scolatele con la schiumarola 3 .",
+      "Adagiate le melanzane fritte su un vassoio rivestito con carta assorbente in modo da asciugare l’olio in eccesso 4 . Intanto ponete sul fuoco un tegame colmo di acqua e portate al bollore, servirà per la cottura della pasta. Rivestite con carta forno una teglia e distribuite 60 g di Grana Padano DOP grattugiato con un cucchiaino 5 in modo da creare uno strato omogeneo 6 .",
+      "Condite con pepe macinato 7 8 e cuocete in forno ventilato preriscaldato a 170° per 10 minuti. Nel frattempo cuocete la pasta per il tempo riportato sulla confezione 9 .",
+      "Sfornate la vostra cialda di Grana Padano DOP 10 e lasciatela intiepidire. Non appena la pasta sarà pronta scolatela in una ciotola ampia 11 e conditela con olio di oliva 12 .",
+      "Insaporite con foglie di basilico fresco 13 , dei pomodori secchi sott’olio ben scolati 14 e le olive 15 .",
+      "Incorporate anche le melanzane fritte e insaporite con un cucchiaio di Grana Padano DOP grattugiato 16 . Prendete al cialda e spezzatela per ottenere dei pezzi grossolani 17 . Guarnite con le sfoglie di Grana Padano DOP la pasta e gustatela tiepida 18 ."
+    ]
   },
   {
     "id": 46968945886641,
@@ -19353,8 +19620,8 @@
       "Versate la pasta in una pirofila, coprite con la mozzarella rimasta e il Grana Padano DOP grattugiato.",
       "Unite anche le melanzane, spargendole su tutta la superficie. Cuocete in forno preriscaldato a 240 gradi, con la modalità grill, per 10 minuti nel ripiano alto del forno 17. Sfornatela quando sarà ben gratinata e servitela calda o tiepida."
     ],
-    "images_import_version": 4,
-    "step_images_checked_at": "2026-10-10T14:49:39.159072+00:00"
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:27:15.225746+00:00"
   },
   {
     "id": 261127131530602,
@@ -19468,8 +19735,49 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 4,
-    "step_images_checked_at": "2026-10-10T14:48:59.400289+00:00"
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:26:30.658407+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_7-9.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare le casarecce al sugo di merluzzo, zucchine e olive nere lavate le verdure sotto abbondante acqua fresca corrente; spuntate le zucchine 1 , tagliatele a metà nel senso della lunghezza e ricavate delle mezze rondelle 2 . Mondate il cipollotto 3 e",
+      "tritatelo finemente 4 . Prendete i pomodorini e divideteli in 4 parti 5 , poi tagliate le olive a rondelle 6 .",
+      "Dividete il filetto di merluzzo a metà 7 , quindi tagliatelo a cubetti 8 . Mettete sul fuoco una pentola antiaderente con l'olio d'oliva e, quando sarà ben caldo, fate stufare il cipollotto per 4-5 minuti 9 .",
+      "Unite le zucchine 10 e fate cuocere a fuoco lento per altri 4-5 minuti. Versate poi i pomodorini 11 , quindi regolate di sale 12",
+      "e pepe 13 , cuocendo per 8-10 minuti. Aggiungete infine il merluzzo 14 , che farete cuocere per 2-3 minuti, e le olive 15",
+      "mescolando molto delicatamente perchè la carne non si sfaldi 16 . Fate cuocere la pasta in una pentola con abbondante acqua bollente salata 17 , scolatela e versatela direttamente nel condimento 18 ,",
+      "mischiando per insaporire il tutto 19 . Spegnete, completate aggiungendo il prezzemolo tritato 20 , infine servite le vostre casarecce al sugo di merluzzo, zucchine e olive nere 21 ."
+    ],
+    "steps_clean": [
+      "Per preparare le casarecce al sugo di merluzzo, zucchine e olive nere lavate le verdure sotto abbondante acqua fresca corrente; spuntate le zucchine, tagliatele a metà nel senso della lunghezza e ricavate delle mezze rondelle. Mondate il cipollotto e",
+      "tritatelo finemente. Prendete i pomodorini e divideteli in 4 parti, poi tagliate le olive a rondelle.",
+      "Dividete il filetto di merluzzo a metà, quindi tagliatelo a cubetti. Mettete sul fuoco una pentola antiaderente con l'olio d'oliva e, quando sarà ben caldo, fate stufare il cipollotto per 4-5 minuti.",
+      "Unite le zucchine e fate cuocere a fuoco lento per altri 4-5 minuti. Versate poi i pomodorini, quindi regolate di sale",
+      "e pepe, cuocendo per 8-10 minuti. Aggiungete infine il merluzzo, che farete cuocere per 2-3 minuti, e le olive",
+      "mescolando molto delicatamente perchè la carne non si sfaldi. Fate cuocere la pasta in una pentola con abbondante acqua bollente salata, scolatela e versatela direttamente nel condimento,",
+      "mischiando per insaporire il tutto. Spegnete, completate aggiungendo il prezzemolo tritato, infine servite le vostre casarecce al sugo di merluzzo, zucchine e olive nere."
+    ]
   },
   {
     "id": 158312095387123,
@@ -19859,8 +20167,8 @@
       "Aromatizzate con il prezzemolo tritato e mescolate per bene. In ultimo unite le mazzancolle sgusciate e proseguite la cottura per un altro paio di minuti. Impiattate gli spaghetti con le mazzancolle.",
       "Aggiungete ancora sughetto e prezzemolo tritato a piacere. La vostra pasta con mazzancolle è pronta per essere servita!"
     ],
-    "images_import_version": 4,
-    "step_images_checked_at": "2026-10-10T14:49:41.759536+00:00"
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:27:20.527889+00:00"
   },
   {
     "id": 161880508581250,
@@ -22361,8 +22669,44 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 4,
-    "step_images_checked_at": "2026-10-10T14:49:04.658221+00:00"
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:26:41.161641+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_4-6.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la pasta con la trota, iniziate ponendo sul fuoco un tegame con abbondante acqua e salate quando bollirà. Nel frattempo preparate tutti gli ingredienti che vi serviranno: pulite e tritate finemente lo scalogno 1 , poi lavate e asciugate la verza, eliminate le foglie più esterne e la costa centrale 2 e tagliate la parte rimanente a listarelle 3 .",
+      "Sciacquate i pomodori, eliminate la parte verde del gambo 4 e tagliateli prima a fettine poi a cubetti 5 . Infine prendete i filetti di trota: rimuovete la pelle facendo scorrere delicatamente il coltello a filo della pelle, partendo dalla coda fino al capo 6 , e tastate la carne con le dita per verificare che non ci siano lische: se presenti, potete toglierle con delle pinzette da cucina.",
+      "Tagliate i filetti di trota a tocchetti 7 . Scaldate una padella con l’olio extravergine di oliva, aggiungete lo scalogno tritato 8 e fatelo appassire a fuoco basso per circa 5 minuti; quando lo scalogno è diventato quasi trasparente, aggiungete le acciughe scolate dall'olio di conservazione 9",
+      "e la verza tagliata a listarelle 10 , salate e pepate a piacere e cuocete a fuoco vivace per circa 10 minuti, mescolando di tanto in tanto 11 . Ora aggiungete i tocchetti di trota nella padella 12 , mescolate",
+      "e sfumate con il vino bianco 13 , lasciandolo evaporare completamente. In ultimo, unite i pomodori a cubetti 14 , aggiustate di sale e pepe e cuocete per 5-6 minuti mescolando di tanto in tanto, dopodiché spegnete il fuoco 15 .",
+      "Nel frattempo mettete a lessare le farfalle nel tegame con acqua bollente salata a piacere 16 . Scolate la pasta al dente e versatela nella padella insieme al condimento 17 , mescolate per amalgamare il tutto 18 e servite la vostra pasta con la trota ben calda!"
+    ],
+    "steps_clean": [
+      "Per realizzare la pasta con la trota, iniziate ponendo sul fuoco un tegame con abbondante acqua e salate quando bollirà. Nel frattempo preparate tutti gli ingredienti che vi serviranno: pulite e tritate finemente lo scalogno, poi lavate e asciugate la verza, eliminate le foglie più esterne e la costa centrale e tagliate la parte rimanente a listarelle.",
+      "Sciacquate i pomodori, eliminate la parte verde del gambo e tagliateli prima a fettine poi a cubetti. Infine prendete i filetti di trota: rimuovete la pelle facendo scorrere delicatamente il coltello a filo della pelle, partendo dalla coda fino al capo, e tastate la carne con le dita per verificare che non ci siano lische: se presenti, potete toglierle con delle pinzette da cucina.",
+      "Tagliate i filetti di trota a tocchetti. Scaldate una padella con l’olio extravergine di oliva, aggiungete lo scalogno tritato e fatelo appassire a fuoco basso per circa 5 minuti; quando lo scalogno è diventato quasi trasparente, aggiungete le acciughe scolate dall'olio di conservazione",
+      "e la verza tagliata a listarelle, salate e pepate a piacere e cuocete a fuoco vivace per circa 10 minuti, mescolando di tanto in tanto. Ora aggiungete i tocchetti di trota nella padella, mescolate",
+      "e sfumate con il vino bianco, lasciandolo evaporare completamente. In ultimo, unite i pomodori a cubetti, aggiustate di sale e pepe e cuocete per 5-6 minuti mescolando di tanto in tanto, dopodiché spegnete il fuoco.",
+      "Nel frattempo mettete a lessare le farfalle nel tegame con acqua bollente salata a piacere. Scolate la pasta al dente e versatela nella padella insieme al condimento, mescolate per amalgamare il tutto e servite la vostra pasta con la trota ben calda!"
+    ]
   },
   {
     "id": 186241012322651,
@@ -23333,8 +23677,8 @@
       "Nel frattempo portate a bollore una pentola di acqua salata e cuocete le pappardelle. Scolate la pasta al dente e trasferitela nella padella con i funghi, poi saltate il tutto per un paio di minuti; se necessario, potete aggiungere poca acqua di cottura.",
       "Impiattate e completate con un filo d’olio a crudo e altro prezzemolo a piacere. La vostra pasta con i funghi è pronta per essere servita!"
     ],
-    "images_import_version": 4,
-    "step_images_checked_at": "2026-10-10T14:49:02.024802+00:00"
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:27:17.933791+00:00"
   },
   {
     "id": 218027136323427,
@@ -23804,6 +24148,2566 @@
       ],
       "type": "Dolce o colazione",
       "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 66748563507258,
+    "name": "Pasta con gamberoni",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 70,
+    "ingredients_display": [
+      "Spaghetti 320 g",
+      "Gamberoni (da pulire) 900 g",
+      "Pomodorini ciliegino 180 g",
+      "Vino bianco 50 g",
+      "Aglio 1 spicchio",
+      "Peperoncino fresco 1",
+      "Scorza di limone 1",
+      "Prezzemolo (da tritare) q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe bianco q.b.",
+      "Acqua 1 l",
+      "Pomodorini ciliegino 100 g",
+      "Scalogno 2",
+      "Prezzemolo 1 ciuffo",
+      "Vino bianco 50 g",
+      "Pepe nero in grani q.b.",
+      "Pepe bianco in grani q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-gamberoni.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/225/22577/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 735.3,
+    "protein": null,
+    "carbs": 83.0,
+    "fats": 23.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Spaghetti",
+        320.0,
+        "g"
+      ],
+      [
+        "Gamberoni (da pulire)",
+        900.0,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        180.0,
+        "g"
+      ],
+      [
+        "Vino bianco",
+        50.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Peperoncino fresco 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Scorza di limone 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Prezzemolo (da tritare)",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe bianco",
+        null,
+        "q.b."
+      ],
+      [
+        "Acqua",
+        1.0,
+        "l"
+      ],
+      [
+        "Pomodorini ciliegino",
+        100.0,
+        "g"
+      ],
+      [
+        "Scalogno 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Prezzemolo 1 ciuffo",
+        null,
+        "da verificare"
+      ],
+      [
+        "Vino bianco",
+        50.0,
+        "g"
+      ],
+      [
+        "Pepe nero in grani",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe bianco in grani",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con gamberoni iniziate dal fumetto di crostacei, quindi pulite questi ultimi: rimuovete la testa, le zampe e il carapace, poi incidete il dorso ed estraete l’intestino. Tenete da parte gli scarti e dividete a metà i pomodorini che vi serviranno per il fumetto. Tagliate invece in quarti i pomodorini per il condimento. Mondate e tritate grossolanamente gli scalogni. Scaldate l’olio in una casseruola capiente e aggiungete lo scalogno.",
+      "Unite anche gli scarti dei gamberi e fateli rosolare a fiamma alta mescolando e schiacciando con un mestolo di legno, poi sfumate con il vino bianco e aromatizzate con i grani di pepe bianco e nero.",
+      "Aggiungete anche il prezzemolo e i pomodorini tagliati a metà, poi coprite con l’acqua.",
+      "Cuocete a fuoco medio per circa 30 minuti, utilizzando una schiumarola per eliminare la schiuma che si formerà in superficie. Nel frattempo portate a bollore una pentola di acqua per cuocere la pasta. Trascorsi circa 20 minuti di cottura del fumetto, scaldate l’olio in una padella e fatelo insaporire per qualche minuto con il peperoncino e lo spicchio di aglio in camicia. Aggiungete i gamberoni e fateli rosolare per 1-2 minuti, poi sfumate con il vino bianco.",
+      "Quando il vino sarà completamente evaporato, eliminate l’aglio e rimuovete i gamberoni dalla padella, lasciando il fondo di cottura. Tenete i gamberoni da parte coperti. Aggiungete i pomodorini tagliati in quarti nella stessa padella e cuocete per circa 5 minuti.",
+      "Nel frattempo l’acqua sarà arrivata a bollore, quindi salate e cuocete la pasta per metà del suo tempo di cottura, perché finirà di cuocere in padella. Nel frattempo filtrate il fumetto. Scolate la pasta molto al dente e trasferitela nella padella. Portate a cottura la pasta aggiungendo il fumetto poco per volta, come per un risotto. Una volta cotta, unite i gamberoni e aggiustate di sale e di pepe.",
+      "Aromatizzate con prezzemolo tritato e scorza di limone grattugiata. La vostra pasta con gamberoni è pronta per essere servita 27!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:24:55.810355+00:00",
+    "repaired_at": "2026-10-10T15:25:46.266964+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 196005345564435,
+    "name": "Carpaccio di manzo con salsa al miele",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Noce di manzo (o filetto) 800 g",
+      "Rucola 80 g",
+      "Parmigiano Reggiano DOP 60 g",
+      "Olive taggiasche 40 g",
+      "Frutti di cappero (cucunci) 20 g",
+      "Senape 35 g",
+      "Maionese 35 g",
+      "Miele di acacia 10 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Carpaccio-di-manzo-con-salsa-al-miele.html",
+    "image_url": "https://www.giallozafferano.it/images/306-30620/Carpaccio-di-manzo-con-salsa-al-miele_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 643.7,
+    "protein": null,
+    "carbs": 5.1,
+    "fats": 47.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Noce di manzo (o filetto) 800 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Rucola 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Parmigiano Reggiano DOP 60 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olive taggiasche 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Frutti di cappero (cucunci) 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Senape 35 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Maionese 35 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Miele di acacia 10 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il carpaccio di manzo con salsa al miele, per prima cosa tagliate la carne a fette molto sottili. Disponete le fettine di carne sul piatto così da formare un cerchio, poi sistemate la rucola al centro, precedentemente lavata e asciugata.",
+      "Passate alla salsa: in una ciotola unite la maionese e la senape, poi aggiungete il miele e mescolate bene per amalgamare.",
+      "Ora tagliate le alici a pezzetti e dividete i frutti del cappero a metà. In ultimo ricavate le scaglie di Parmigiano Reggiano utilizzando un pelaverdure.",
+      "Guarnite il carpaccio con le alici, i cucunci e le olive taggiasche.",
+      "Condite con la salsa e completate con le scaglie di formaggio. Il vostro carpaccio di manzo con salsa al miele è pronto per essere servito!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:24:58.816185+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Condimento",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Condimento",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 117081108017461,
+    "name": "Insalata di cetrioli all'orientale",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 20,
+    "ingredients_display": [
+      "Cetrioli lunghi, a buccia sottile 500 g",
+      "Aglio 3 spicchi",
+      "Aceto balsamico 25 g",
+      "Salsa di soia chiara 10 g",
+      "Zucchero 1 cucchiaino",
+      "Sale fino 1 cucchiaino",
+      "Olio di sesamo tostato 20 g",
+      "Chili garlic sauce 30 g",
+      "Coriandolo q.b.",
+      "Arachidi salate tostate q.b.",
+      "Semi di sesamo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-cetrioli-all-orientale.html",
+    "image_url": "https://www.giallozafferano.it/images/365-36597/Insalata-di-cetrioli-all-orientale_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 138.1,
+    "protein": null,
+    "carbs": 13.1,
+    "fats": 8.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Cetrioli lunghi, a buccia sottile",
+        500.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        3.0,
+        "spicchi"
+      ],
+      [
+        "Aceto balsamico",
+        25.0,
+        "g"
+      ],
+      [
+        "Salsa di soia chiara",
+        10.0,
+        "g"
+      ],
+      [
+        "Zucchero 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio di sesamo tostato",
+        20.0,
+        "g"
+      ],
+      [
+        "Chili garlic sauce",
+        30.0,
+        "g"
+      ],
+      [
+        "Coriandolo",
+        null,
+        "q.b."
+      ],
+      [
+        "Arachidi salate tostate",
+        null,
+        "q.b."
+      ],
+      [
+        "Semi di sesamo",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'insalata di cetrioli all'orientale lavate accuratamente i cetrioli e rimuovete le estremità. Adagiateli su un tagliere e, utilizzando il lato piatto di un coltello, schiacciateli con decisione. Dovrete rompere leggermente la buccia e schiacciare la polpa.",
+      "Tagliate quindi i cetrioli schiacciati in pezzi di circa 3 cm e trasferiteli in una ciotola. Aggiungete il sale e lo zucchero.",
+      "Mescolate accuratamente e lasciateli riposare per circa 15 minuti. Durante questo tempo perderanno parte dell'acqua di vegetazione e risulteranno più croccanti. Nel frattempo preparate il condimento. Sbucciate gli spicchi d'aglio e tritateli molto finemente. Trasferiteli in una ciotola abbastanza capiente da contenere successivamente anche i cetrioli.",
+      "Unite l'aceto balsamico, la salsa di soia chiara, e la Chili Garlic Sauce.",
+      "Aggiungete anche l'olio di sesamo tostato e mescolate bene fino a ottenere un condimento uniforme. Trascorso il tempo di riposo, riprendete i cetrioli e scolateli per bene.",
+      "Tamponateli delicatamente con della carta assorbente, in modo da asciugarli senza schiacciarli ulteriormente. Trasferite i cetrioli nella ciotola con il condimento e mescolate.",
+      "Quando sarà ben condita potrete impiattare l'insalata di cetrioli 20. Guarnite con le arachidi tostate salate 21.",
+      "Aggiungete i semi di sesamo 22 , il coriandolo tritato 23 e servite l'insalata di cetrioli all'orientale 24 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:01.386638+00:00",
+    "repaired_at": "2026-10-10T15:26:06.969336+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 267787845945768,
+    "name": "Pasta con gamberetti",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 110,
+    "ingredients_display": [
+      "Spaghetti 320 g",
+      "Gamberetti 600 g",
+      "Aglio 2 spicchi",
+      "Vino bianco 50 g",
+      "Prezzemolo (da tritare) q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale q.b.",
+      "Pepe nero q.b.",
+      "Pomodorini ciliegino 400 g",
+      "Porri 100 g",
+      "Prezzemolo gambi 4",
+      "Vino bianco 50 g",
+      "Ghiaccio cubetti 10",
+      "Acqua 1 l",
+      "Olio extravergine d'oliva q.b.",
+      "Sale q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-gamberetti.html",
+    "image_url": "https://www.giallozafferano.it/images/287-28754/Pasta-con-gamberetti_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 641.4,
+    "protein": null,
+    "carbs": 70.4,
+    "fats": 19.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Spaghetti",
+        320.0,
+        "g"
+      ],
+      [
+        "Gamberetti",
+        600.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        2.0,
+        "spicchi"
+      ],
+      [
+        "Vino bianco",
+        50.0,
+        "g"
+      ],
+      [
+        "Prezzemolo (da tritare)",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Pomodorini ciliegino",
+        400.0,
+        "g"
+      ],
+      [
+        "Porri",
+        100.0,
+        "g"
+      ],
+      [
+        "Prezzemolo gambi 4",
+        null,
+        "da verificare"
+      ],
+      [
+        "Vino bianco",
+        50.0,
+        "g"
+      ],
+      [
+        "Ghiaccio cubetti 10",
+        null,
+        "da verificare"
+      ],
+      [
+        "Acqua",
+        1.0,
+        "l"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con i gamberetti per prima cosa pulite i crostacei. Con un paio di forbici eliminate gli occhi, poi staccate la testa dal carapace e sgusciate i gamberetti. Incidete il dorso dei gamberetti ed eliminate l'intestino. Tenete da parte testa e carapace perché serviranno per preparare la bisque. Affettate sottilmente il porro.",
+      "Dividete a metà i pomodorini. In una pentola versate un filo d'olio, aggiungete il porro e fate stufare per 5 minuti. Unite i pomodorini, le teste e i carapaci dei gamberetti.",
+      "Sfumate con vino bianco e lasciate evaporare completamente la parte alcolica, poi aggiungete il ghiaccio e l'acqua.",
+      "Unite i gambi di prezzemolo, regolate di sale, coprite con coperchio e cuocete, a fuoco medio-basso, per 50 minuti.",
+      "Intanto in una padella fate insaporire un filo d'olio con l'aglio, poi unite i gamberetti e saltateli a fuoco vivace per 2 minuti. Sfumate con vino bianco e lasciate evaporare completamente, poi trasferite i gamberetti in una ciotola.",
+      "Frullate la bisque con un mixer ad immersione, poi filtratela con un colino a maglie strette. Intanto cuocete la pasta in abbondante acqua salata per 4-5 minuti.",
+      "Versate un mestolo di bisque nella padella in cui avete cotto i gamberetti, poi scolate la pasta e trasferitela nella padella. Portate a cottura gli spaghetti aggiungendo un mestolo di bisque per volta, come se fosse un risotto.",
+      "Una volta che la pasta sarà cotta, aggiungete quasi tutti i gamberetti, il pepe, il prezzemolo tritato e un filo d'olio.",
+      "Mantecate il tutto, poi impiattate e guarnite con i gamberetti tenuti da parte. La vostra pasta con gamberetti è pronta per essere gustata!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:04.059886+00:00",
+    "repaired_at": "2026-10-10T15:25:48.829072+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 72225072668611,
+    "name": "Carpaccio di manzo con insalata di asparagi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 25,
+    "ingredients_display": [
+      "Carpaccio di manzo 600 g",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Asparagi (da pulire) 400 g",
+      "Aceto balsamico 2 cucchiai",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Uova 4",
+      "Frutti di cappero 40 g",
+      "Acciughe sott'olio 8 filetti"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Carpaccio-di-manzo-con-insalata-di-asparagi.html",
+    "image_url": "https://www.giallozafferano.it/images/360-36013/Carpaccio-di-manzo-con-insalata-di-asparagi_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 377.4,
+    "protein": null,
+    "carbs": 6.7,
+    "fats": 19.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Carpaccio di manzo",
+        600.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Asparagi (da pulire)",
+        400.0,
+        "g"
+      ],
+      [
+        "Aceto balsamico",
+        2.0,
+        "cucchiai"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Uova 4",
+        null,
+        "da verificare"
+      ],
+      [
+        "Frutti di cappero",
+        40.0,
+        "g"
+      ],
+      [
+        "Acciughe sott'olio 8 filetti",
+        null,
+        "da verificare"
+      ]
+    ],
+    "steps": [
+      "Per preparare il carpaccio di manzo con insalata di asparagi, per prima cosa condite le fettine di controfiletto di manzo con sale, pepe e olio. Coprite con pellicola e riponete in frigorifero.",
+      "Immergete le uova in un pentolino con acqua fredda, portate a leggero bollore e da quel momento contate 7 minuti di cottura. Nel frattempo, pulite gli asparagi: rimuovete l’estremità legnosa della base, poi affettateli sottilmente per il lungo utilizzando un pelapatate.",
+      "Trasferite gli asparagi in una ciotola e condite con olio, sale, pepe e aceto balsamico. Mescolate delicatamente.",
+      "Siete pronti per impiattare: disponete le fettine di carne sul piatto da portata, poi adagiate sopra l’insalata di asparagi, distribuendola in modo uniforme. Sgusciate e sbriciolate le uova sode.",
+      "Infine guarnite con i fiori di cappero divisi a metà e i filetti di alici tagliati a losanghe. Il vostro carpaccio di manzo con insalata di asparagi è pronto per essere servito!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:06.638378+00:00",
+    "repaired_at": "2026-10-10T15:26:09.539946+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 87739454633631,
+    "name": "Insalata di ceci estiva",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 20,
+    "ingredients_display": [
+      "Ceci precotti 300 g",
+      "Peperoni gialli 100 g",
+      "Zucchine tonde 100 g",
+      "Pomodorini datterini 100 g",
+      "Cipolle rosse 80 g",
+      "Cetrioli 50 g",
+      "Feta 60 g",
+      "Menta 12 g",
+      "Limoni 1",
+      "Olio extravergine d'oliva 20 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-ceci-estiva.html",
+    "image_url": "https://www.giallozafferano.it/images/211-21118/Insalata-di-ceci-estiva_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 401.9,
+    "protein": null,
+    "carbs": 56.1,
+    "fats": 13.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Ceci precotti",
+        300.0,
+        "g"
+      ],
+      [
+        "Peperoni gialli",
+        100.0,
+        "g"
+      ],
+      [
+        "Zucchine tonde",
+        100.0,
+        "g"
+      ],
+      [
+        "Pomodorini datterini",
+        100.0,
+        "g"
+      ],
+      [
+        "Cipolle rosse",
+        80.0,
+        "g"
+      ],
+      [
+        "Cetrioli",
+        50.0,
+        "g"
+      ],
+      [
+        "Feta",
+        60.0,
+        "g"
+      ],
+      [
+        "Menta",
+        12.0,
+        "g"
+      ],
+      [
+        "Limoni 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l’insalata di ceci estiva cominciate lavando e asciugando tutti gli ortaggi. Eliminate la calotta del peperone e staccate il picciolo coi semi, poi rimuovete i filamenti interni e infine tagliate il peperone a listarelle sottili. Dividete a metà i pomodorini.",
+      "Passate alla zucchina: spuntatela e tagliatela a rondelle; da queste ottenete dei bastoncini. Spuntate il cetriolo e, senza pelarlo, ricavate fettine oblique non troppo spesse.",
+      "Mondate e tagliate a fettine sottili la cipolla rossa. Infine preparate il condimento per l’insalata versando nel boccale di un mixer le foglie di menta fresca insieme all’olio. Frullate con il mixer ad immersione",
+      "e aggiungete il succo di limone. Mescolate e trasferite in una ciotolina. Scolate i ceci precotti e versateli in una ciotola piuttosto capiente, poi aggiungete uno ad uno tutti gli altri ingredienti: le zucchine, le cipolle rosse e i peperoni,",
+      "i cetrioli e i pomodorini. Poi aromatizzate con la scorza grattugiata del limone e condite tutto con l'olio alla menta, sale e pepe a piacere.",
+      "Mescolate e aggiungete il tocco finale: la feta sbriciolata. Un'ultima mescolata e la vostra insalata di ceci estiva è pronta per essere gustata!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:09.237322+00:00",
+    "repaired_at": "2026-10-10T15:26:12.107104+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 137716008157289,
+    "name": "Porridge overnight",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Crusca di avena 40 g",
+      "Latte di riso 150 g",
+      "Mirtilli 10 g",
+      "Yogurt greco 75 g",
+      "Mirtilli 20 g",
+      "Mandorle in scaglie q.b.",
+      "Menta q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Porridge-overnight.html",
+    "image_url": "https://www.giallozafferano.it/images/266-26632/Porridge-overnight_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 262.1,
+    "protein": null,
+    "carbs": 48.1,
+    "fats": 9.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Crusca di avena 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte di riso 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mirtilli 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Yogurt greco 75 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mirtilli 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mandorle in scaglie q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Menta q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il porridge overnight versate la crusca di avena in un barattolo di vetro, poi aggiungete il latte di riso. Lavate e tagliate i mirtilli a metà.",
+      "Unite anche i mirtilli, mescolate e coprite con il coperchio. Lasciate riposare in frigorifero per tutta la notte.",
+      "La mattina dopo togliete il coperchio, poi guarnite con lo yogurt greco e i mirtilli interi.",
+      "Completate con delle scagliette di mandorle e qualche fogliolina di menta: il vostro porridge overnight è pronto per essere gustato!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:11.797482+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 63498042415512,
+    "name": "Pasta con funghi e fagioli",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 30,
+    "ingredients_display": [
+      "Fusilli Integrali 320 g",
+      "Cipollotto fresco 50 g",
+      "Funghi champignon 300 g",
+      "Pancetta tagliata a dadini 180 g",
+      "Fagioli cannellini precotti 370 g",
+      "Acqua 20 g",
+      "Rosmarino q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Pepe nero q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-funghi-e-fagioli.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/180/18084/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 841.8,
+    "protein": null,
+    "carbs": 119.5,
+    "fats": 23.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fusilli Integrali",
+        320.0,
+        "g"
+      ],
+      [
+        "Cipollotto fresco",
+        50.0,
+        "g"
+      ],
+      [
+        "Funghi champignon",
+        300.0,
+        "g"
+      ],
+      [
+        "Pancetta tagliata a dadini",
+        180.0,
+        "g"
+      ],
+      [
+        "Fagioli cannellini precotti",
+        370.0,
+        "g"
+      ],
+      [
+        "Acqua",
+        20.0,
+        "g"
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare la pasta con funghi e fagioli per prima cosa ponete sul fuoco un tegame colmo di acqua salate e portate al bollore, servirà per la cottura della pasta. Nel frattempo occupatevi del condimento: affettate sottilmente la parte chiara del cipollotto dopo aver eliminato le foglie più esterne. Ora occupatevi della pulizia dei funghi: eliminate la base del gambo e con un panno leggermente inumidito tamponateli per eliminare eventuali residui di terra, quindi affettateli sottilmente. Versate un filo di olio di oliva in un tegame, aggiungete il cipollotto",
+      "e lasciate rosolare a fuoco dolce per 2-3 minuti, poi aromatizzate con il rosmarino sfogliato. A questo punto aggiungete anche la pancetta e i funghi cuocete 5-6 minuti",
+      "poi versate anche i fagioli precotti e aggiungete 20 g di acqua. Proseguite la cottura per altri 5 minuti e nel frattempo cuocete la pasta al dente e poi scolatela direttamente nel condimento.",
+      "Allungate con un mestolo di acqua di cottura e saltate la pasta qualche istante per amalgamare i sapori. Servite subito la vostra pasta con funghi e fagioli."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T15:25:14.399551+00:00",
+    "repaired_at": "2026-10-10T15:25:51.396040+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/180/18084/18084_pasta_con_funghi_e_fagioli_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/180/18084/18084_pasta_con_funghi_e_fagioli_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/180/18084/18084_pasta_con_funghi_e_fagioli_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/180/18084/18084_pasta_con_funghi_e_fagioli_strip_4-6.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la pasta con funghi e fagioli per prima cosa ponete sul fuoco un tegame colmo di acqua salate e portate al bollore, servirà per la cottura della pasta. Nel frattempo occupatevi del condimento: affettate sottilmente la parte chiara del cipollotto 1 dopo aver eliminato le foglie più esterne. Ora occupatevi della pulizia dei funghi : eliminate la base del gambo e con un panno leggermente inumidito tamponateli per eliminare eventuali residui di terra, quindi affettateli sottilmente 2 . Versate un filo di olio di oliva in un tegame, aggiungete il cipollotto 3",
+      "e lasciate rosolare a fuoco dolce per 2-3 minuti, poi aromatizzate con il rosmarino sfogliato 4 . A questo punto aggiungete anche la pancetta 5 e i funghi 6 cuocete 5-6 minuti",
+      "poi versate anche i fagioli precotti 7 e aggiungete 20 g di acqua. Proseguite la cottura per altri 5 minuti e nel frattempo cuocete la pasta al dente 8 e poi scolatela direttamente nel condimento 9 .",
+      "Allungate con un mestolo di acqua di cottura 10 e saltate la pasta qualche istante per amalgamare i sapori 11 . Servite subito la vostra pasta con funghi e fagioli 12 ."
+    ],
+    "steps_clean": [
+      "Per realizzare la pasta con funghi e fagioli per prima cosa ponete sul fuoco un tegame colmo di acqua salate e portate al bollore, servirà per la cottura della pasta. Nel frattempo occupatevi del condimento: affettate sottilmente la parte chiara del cipollotto dopo aver eliminato le foglie più esterne. Ora occupatevi della pulizia dei funghi: eliminate la base del gambo e con un panno leggermente inumidito tamponateli per eliminare eventuali residui di terra, quindi affettateli sottilmente. Versate un filo di olio di oliva in un tegame, aggiungete il cipollotto",
+      "e lasciate rosolare a fuoco dolce per 2-3 minuti, poi aromatizzate con il rosmarino sfogliato. A questo punto aggiungete anche la pancetta e i funghi cuocete 5-6 minuti",
+      "poi versate anche i fagioli precotti e aggiungete 20 g di acqua. Proseguite la cottura per altri 5 minuti e nel frattempo cuocete la pasta al dente e poi scolatela direttamente nel condimento.",
+      "Allungate con un mestolo di acqua di cottura e saltate la pasta qualche istante per amalgamare i sapori. Servite subito la vostra pasta con funghi e fagioli."
+    ],
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:26:38.468078+00:00"
+  },
+  {
+    "id": 158486475660857,
+    "name": "Carote arrosto",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 35,
+    "ingredients_display": [
+      "Carote 700 g",
+      "Parmigiano Reggiano DOP 24 mesi 150 g",
+      "Mandorle 20 g",
+      "Salvia q.b.",
+      "Burro 20 g",
+      "Olio extravergine d'oliva 10 g",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Carote-arrosto.html",
+    "image_url": "https://www.giallozafferano.it/images/361-36111/Carote-arrosto_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 306.0,
+    "protein": null,
+    "carbs": 19.1,
+    "fats": 18.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Carote",
+        700.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP 24 mesi",
+        150.0,
+        "g"
+      ],
+      [
+        "Mandorle",
+        20.0,
+        "g"
+      ],
+      [
+        "Salvia",
+        null,
+        "q.b."
+      ],
+      [
+        "Burro",
+        20.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        10.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare le carote arrosto, iniziate pelando le carote con un pelapatate, poi eliminate le estremità e tagliatele a pezzi regolari. Dividetele quindi a metà nel senso della lunghezza.",
+      "Tagliate ulteriormente ogni metà per il lungo per ricavare dei bastoncini. Tritate grossolanamente le mandorle con un coltello. Ungete una teglia con un filo d’olio extravergine d’oliva.",
+      "Disponete le carote cercando di non sovrapporle e conditele con un altro filo d’olio. Aggiungete qualche noce di burro a pezzettini e profumate con foglie di salvia spezzettate, poi salate. Cuocete in forno ventilato preriscaldato a 200°C per 15 minuti. A questo punto, sfornate e aggiungete le mandorle tritate. Proseguite la cottura per altri 10 minuti.",
+      "Una volta cotte, sfornate e cospargete con il Parmigiano Reggiano DOP grattugiato 11. Le vostre carote arrosto sono pronte per essere servite 12!"
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T15:25:17.438802+00:00",
+    "repaired_at": "2026-10-10T15:25:54.077592+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36111/carotte-arrosto_12.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare le carote arrosto, iniziate pelando le carote con un pelapatate 1 , poi eliminate le estremità 2 e tagliatele a pezzi regolari. Dividetele quindi a metà nel senso della lunghezza 3 .",
+      "Tagliate ulteriormente ogni metà per il lungo per ricavare dei bastoncini 4 . Tritate grossolanamente le mandorle con un coltello 5 . Ungete una teglia con un filo d’olio extravergine d’oliva 6 .",
+      "Disponete le carote cercando di non sovrapporle e conditele con un altro filo d’olio 7 . Aggiungete qualche noce di burro a pezzettini e profumate con foglie di salvia spezzettate, poi salate 8 . Cuocete in forno ventilato preriscaldato a 200°C per 15 minuti. A questo punto, sfornate e aggiungete le mandorle tritate 9 . Proseguite la cottura per altri 10 minuti.",
+      "Una volta cotte, sfornate e cospargete con il Parmigiano Reggiano DOP grattugiato 10 11 . Le vostre carote arrosto sono pronte per essere servite 12 !"
+    ],
+    "steps_clean": [
+      "Per preparare le carote arrosto, iniziate pelando le carote con un pelapatate, poi eliminate le estremità e tagliatele a pezzi regolari. Dividetele quindi a metà nel senso della lunghezza.",
+      "Tagliate ulteriormente ogni metà per il lungo per ricavare dei bastoncini. Tritate grossolanamente le mandorle con un coltello. Ungete una teglia con un filo d’olio extravergine d’oliva.",
+      "Disponete le carote cercando di non sovrapporle e conditele con un altro filo d’olio. Aggiungete qualche noce di burro a pezzettini e profumate con foglie di salvia spezzettate, poi salate. Cuocete in forno ventilato preriscaldato a 200°C per 15 minuti. A questo punto, sfornate e aggiungete le mandorle tritate. Proseguite la cottura per altri 10 minuti.",
+      "Una volta cotte, sfornate e cospargete con il Parmigiano Reggiano DOP grattugiato 11. Le vostre carote arrosto sono pronte per essere servite 12!"
+    ],
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:26:25.327013+00:00"
+  },
+  {
+    "id": 91606204057379,
+    "name": "Insalata di ceci alla mediterranea",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 20,
+    "ingredients_display": [
+      "Ceci precotti (peso sgocciolato) 400 g",
+      "Cetrioli 200 g",
+      "Pomodorini gialli 200 g",
+      "Pomodorini ciliegino 100 g",
+      "Cipolle rosse 80 g",
+      "Rucola 50 g",
+      "Olive taggiasche 40 g",
+      "Basilico q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Aceto balsamico q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-ceci-alla-mediterranea.html",
+    "image_url": "https://www.giallozafferano.it/images/364-36470/Insalata-di-ceci-alla-mediterranea_650x433_wm.jpg",
+    "servings": 6,
+    "kcal": 343.5,
+    "protein": null,
+    "carbs": 47.8,
+    "fats": 11.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Ceci precotti (peso sgocciolato)",
+        400.0,
+        "g"
+      ],
+      [
+        "Cetrioli",
+        200.0,
+        "g"
+      ],
+      [
+        "Pomodorini gialli",
+        200.0,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        100.0,
+        "g"
+      ],
+      [
+        "Cipolle rosse",
+        80.0,
+        "g"
+      ],
+      [
+        "Rucola",
+        50.0,
+        "g"
+      ],
+      [
+        "Olive taggiasche",
+        40.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Aceto balsamico",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l’insalata di ceci alla mediterranea, per prima cosa sbucciate la cipolla e dividetela a metà per il lungo, poi affettatela finemente per ottenere dei petali sottili.",
+      "Trasferite la cipolla affettata in una ciotola, aggiungete il ghiaccio e coprite con l’acqua. Lasciate in ammollo per 10 minuti, in questo modo risulterà più delicata.",
+      "Nel frattempo occupatevi degli altri ingredienti: tagliate i pomodorini gialli a metà e quelli rossi in 4 parti. Sbucciate i cetrioli.",
+      "Divideteli in 4 per il lungo, poi eliminate la parte centrale con i semi. Infine, affettateli in diagonale.",
+      "Ora versate i ceci precotti in una ciotola capiente, poi aggiungete i pomodorini rossi e gialli.",
+      "Unite i cetrioli, le cipolle ben scolate e le foglie di basilico spezzettate a mano.",
+      "Condite con l’aceto balsamico, l’olio, il sale e il pepe.",
+      "Mescolate bene il tutto, poi lasciate insaporire in frigorifero per 10 minuti. In ultimo, completate con le olive taggiasche e le foglie di rucola. La vostra insalata di ceci alla mediterranea è pronta per essere servita!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:20.034331+00:00",
+    "repaired_at": "2026-10-10T15:26:14.670817+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 109288681177578,
+    "name": "Porridge mirtilli e pistacchi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Fiocchi di avena 140 g",
+      "Latte intero 200 g",
+      "Acqua 220 g",
+      "Sale fino 1 pizzico",
+      "Sciroppo di agave 70 g",
+      "Mirtilli 30 g",
+      "Pistacchi 20 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Porridge-mirtilli-e-pistacchi.html",
+    "image_url": "https://www.giallozafferano.it/images/170-17044/Porridge-mirtilli-e-pistacchi_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 506.4,
+    "protein": null,
+    "carbs": 82.8,
+    "fats": 12.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fiocchi di avena 140 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte intero 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 220 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sciroppo di agave 70 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mirtilli 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pistacchi 20 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il porridge mirtilli e pistacchi versate il latte in un tegame, aggiungete poi anche l'acqua e un pizzico di sale. Versate i fiocchi d'avena e mescolate con una spatola.",
+      "Accendete il fuoco e continuando a mescolare di tanto in tanto cuocete a fuoco medio per 4-6 minuti circa, fino ad ottenere la consistenza che preferite: dovrà risultare cremosa e molto densa. Nel frattempo tritate grossolanamente i pistacchi e teneteli da parte. Trascorso il tempo indicato spegnete il fuoco e versate all'interno della zuppa di avena circa 50 g di sciroppo d'agave e mescolate; il resto dello sciroppo servirà per la guarnizione finale.",
+      "Aggiungete poi anche metà dei pistacchi e mescolate sempre con una spatola. Trasferite il porridge in due ciotoline e guarnite la superficie con i restanti pistacchi tritati,",
+      "con lo sciroppo d'agave tenuto da parte e con i mirtilli freschi. Il vostro porridge mirtilli è pistacchi è ora pronto da gustare."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:22.599943+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 30252368588666,
+    "name": "Pasta con friggitelli e crudo di gamberi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 40,
+    "ingredients_display": [
+      "Bucatini 320 g",
+      "Pane raffermo 50 g",
+      "Mandorle 20 g",
+      "Olio extravergine d'oliva q.b.",
+      "Aglio q.b.",
+      "Peperoncino fresco 2 g",
+      "Gamberi rossi (abbatttuti) 200 g",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Tabasco® verde q.b.",
+      "Scorza di limone q.b.",
+      "Friggitelli 170 g",
+      "Mandorle 45 g",
+      "Basilico 2 g",
+      "Grana Padano DOP 30 g",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva 70 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-friggitelli-e-crudo-di-gamberi.html",
+    "image_url": "https://www.giallozafferano.it/images/362-36271/Pasta-con-friggitelli-e-crudo-di-gamberi_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 672.4,
+    "protein": null,
+    "carbs": 72.4,
+    "fats": 31.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Bucatini",
+        320.0,
+        "g"
+      ],
+      [
+        "Pane raffermo",
+        50.0,
+        "g"
+      ],
+      [
+        "Mandorle",
+        20.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Aglio",
+        null,
+        "q.b."
+      ],
+      [
+        "Peperoncino fresco",
+        2.0,
+        "g"
+      ],
+      [
+        "Gamberi rossi (abbatttuti)",
+        200.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Tabasco® verde",
+        null,
+        "q.b."
+      ],
+      [
+        "Scorza di limone",
+        null,
+        "q.b."
+      ],
+      [
+        "Friggitelli",
+        170.0,
+        "g"
+      ],
+      [
+        "Mandorle",
+        45.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        2.0,
+        "g"
+      ],
+      [
+        "Grana Padano DOP",
+        30.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        70.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con friggitelli e  crudo di gamberi, tagliate il pane a pezzi, mettetelo nel mixer e frullatelo fino a quando non otterrete una consistenza grossolana.",
+      "Tagliate a lamelle 20 g di mandorle. Spuntate i friggitelli, divideteli a metà ed eliminate i semini interni.",
+      "Tagliateli a pezzettini e teneteli da parte. Scaldate in una padella un filo d'olio insieme all'aglio schiacciato e al peperoncino aperto a metà, poi aggiungete il pane.",
+      "Versate anche le mandorle a lamelle. Regolate di sale e saltate il tutto a fuoco medio per circa sette o otto minuti, così da rendere il pane croccante e tostare leggermente le mandorle. Una volta pronto, togliete l'aglio e il peperoncino dal composto e tenete questo pane aromatico da parte.",
+      "Ora dedicatevi al condimento principale, quindi unite in un mixer i friggitelli, il resto delle mandorle, il formaggio grattugiato, un pizzico di sale e l'olio.",
+      "Aromatizzate con il basilico e frullate fino a ottenere un pesto liscio, che trasferirete in una ciotola capiente. Nel frattempo cuocete i bucatini in acqua bollente salata.",
+      "Passate poi alla pulizia dei gamberi rossi rimuovendo la testa, il carapace e il budello interno. Tagliateli a tocchetti di circa mezzo centimetro e conditeli in una ciotolina con sale, olio e scorza di limone.",
+      "Insaporite con qualche goccia di tabasco verde. Scolate la pasta direttamente nella ciotola con il pesto e aggiungete un mestolino di acqua di cottura per amalgamare bene il tutto.",
+      "Impiattate la pasta e completate ogni piatto aggiungendo il pane aromatico croccante, una grattugiata di scorza di limone e i tocchetti di gamberi, servite subito in tavola la pasta con pesto di friggitelli e crudo di gamberi."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T15:25:25.161714+00:00",
+    "repaired_at": "2026-10-10T15:25:56.644089+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/362/36271/pasta-con-friggitelli-e-crudo-di-gamberi_27.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con friggitelli e  crudo di gamberi, tagliate il pane a pezzi 1 , mettetelo nel mixer 2 e frullatelo fino a quando non otterrete una consistenza grossolana 3 .",
+      "Tagliate a lamelle 20 g di mandorle 4 . Spuntate i friggitelli 5 , divideteli a metà ed eliminate i semini interni 6 .",
+      "Tagliateli a pezzettini 7 e teneteli da parte. Scaldate in una padella un filo d'olio insieme all'aglio schiacciato 8 e al peperoncino aperto a metà, poi aggiungete il pane 9 .",
+      "Versate anche le mandorle a lamelle 10 . Regolate di sale 11 e saltate il tutto a fuoco medio per circa sette o otto minuti, così da rendere il pane croccante e tostare leggermente le mandorle 12 . Una volta pronto, togliete l'aglio e il peperoncino dal composto e tenete questo pane aromatico da parte.",
+      "Ora dedicatevi al condimento principale, quindi unite in un mixer i friggitelli, il resto delle mandorle 13 , il formaggio grattugiato, un pizzico di sale 14 e l'olio 15 .",
+      "Aromatizzate con il basilico 16 e frullate fino a ottenere un pesto liscio 17 , che trasferirete in una ciotola capiente. Nel frattempo cuocete i bucatini in acqua bollente salata 18 .",
+      "Passate poi alla pulizia dei gamberi rossi rimuovendo la testa 19 , il carapace e il budello interno. Tagliateli a tocchetti di circa mezzo centimetro 20 e conditeli in una ciotolina con sale, olio e scorza di limone 21 .",
+      "Insaporite con qualche goccia di tabasco verde 22 . Scolate la pasta direttamente nella ciotola con il pesto 23 e aggiungete un mestolino di acqua di cottura per amalgamare bene il tutto 24 .",
+      "Impiattate la pasta e completate ogni piatto aggiungendo il pane aromatico croccante 25 , una grattugiata di scorza di limone e i tocchetti di gamberi 26 , servite subito in tavola la pasta con pesto di friggitelli e crudo di gamberi 27 ."
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con friggitelli e  crudo di gamberi, tagliate il pane a pezzi, mettetelo nel mixer e frullatelo fino a quando non otterrete una consistenza grossolana.",
+      "Tagliate a lamelle 20 g di mandorle. Spuntate i friggitelli, divideteli a metà ed eliminate i semini interni.",
+      "Tagliateli a pezzettini e teneteli da parte. Scaldate in una padella un filo d'olio insieme all'aglio schiacciato e al peperoncino aperto a metà, poi aggiungete il pane.",
+      "Versate anche le mandorle a lamelle. Regolate di sale e saltate il tutto a fuoco medio per circa sette o otto minuti, così da rendere il pane croccante e tostare leggermente le mandorle. Una volta pronto, togliete l'aglio e il peperoncino dal composto e tenete questo pane aromatico da parte.",
+      "Ora dedicatevi al condimento principale, quindi unite in un mixer i friggitelli, il resto delle mandorle, il formaggio grattugiato, un pizzico di sale e l'olio.",
+      "Aromatizzate con il basilico e frullate fino a ottenere un pesto liscio, che trasferirete in una ciotola capiente. Nel frattempo cuocete i bucatini in acqua bollente salata.",
+      "Passate poi alla pulizia dei gamberi rossi rimuovendo la testa, il carapace e il budello interno. Tagliateli a tocchetti di circa mezzo centimetro e conditeli in una ciotolina con sale, olio e scorza di limone.",
+      "Insaporite con qualche goccia di tabasco verde. Scolate la pasta direttamente nella ciotola con il pesto e aggiungete un mestolino di acqua di cottura per amalgamare bene il tutto.",
+      "Impiattate la pasta e completate ogni piatto aggiungendo il pane aromatico croccante, una grattugiata di scorza di limone e i tocchetti di gamberi, servite subito in tavola la pasta con pesto di friggitelli e crudo di gamberi."
+    ],
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:26:35.862094+00:00"
+  },
+  {
+    "id": 174929307255030,
+    "name": "Carote arrosto con pistacchi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 40,
+    "ingredients_display": [
+      "Carote 650 g",
+      "Pistacchi non salati 80 g",
+      "Aglio 3 spicchi",
+      "Rosmarino 3 rametti",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Carote-arrosto-con-pistacchi.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/219/21907/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 209.6,
+    "protein": null,
+    "carbs": 22.5,
+    "fats": 12.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Carote",
+        650.0,
+        "g"
+      ],
+      [
+        "Pistacchi non salati",
+        80.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        3.0,
+        "spicchi"
+      ],
+      [
+        "Rosmarino",
+        3.0,
+        "rametti"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare le carote arrosto con pistacchi per prima cosa lavate le carote e spuntatele. Quindi dividetele a metà e poi ricavate dei bastoncini tagliandole per il lato lungo. Versate le carote in una ciotola e condite con aglio sbucciato e rosmarino.",
+      "Irroratele con olio di oliva e insaporite con il sale. Ora tritate grossolanamente i pistacchi con un coltello.",
+      "Aggiungete i pistacchi in ciotola e mescolate per amalgamare tutti gli ingredienti. Foderate con carta forno una teglia e versate qui le carote cercando di distribuirle in modo omogeneo così da facilitare la cottura. Cuocete in forno statico preriscaldato a 220° per 30 minuti. A cottura ultimata sfornate le vostre carote arrostite e lasciatele intiepidire prima di servirle."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T15:25:27.731182+00:00",
+    "repaired_at": "2026-10-10T15:25:59.219733+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/219/21907/21907_carote_arrosto_con_pistacchi_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/219/21907/21907_carote_arrosto_con_pistacchi_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/219/21907/21907_carote_arrosto_con_pistacchi_strip_1-3.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare le carote arrosto con pistacchi per prima cosa lavate le carote e spuntatele. Quindi dividetele a metà 1 e poi ricavate dei bastoncini tagliandole per il lato lungo 2 . Versate le carote in una ciotola e condite con aglio sbucciato e rosmarino 3 .",
+      "Irroratele con olio di oliva 4 e insaporite con il sale 5 . Ora tritate grossolanamente i pistacchi con un coltello 6 .",
+      "Aggiungete i pistacchi in ciotola 7 e mescolate per amalgamare tutti gli ingredienti. Foderate con carta forno una teglia e versate qui le carote 8 cercando di distribuirle in modo omogeneo così da facilitare la cottura. Cuocete in forno statico preriscaldato a 220° per 30 minuti. A cottura ultimata sfornate le vostre carote arrostite e lasciatele intiepidire prima di servirle 9 ."
+    ],
+    "steps_clean": [
+      "Per realizzare le carote arrosto con pistacchi per prima cosa lavate le carote e spuntatele. Quindi dividetele a metà e poi ricavate dei bastoncini tagliandole per il lato lungo. Versate le carote in una ciotola e condite con aglio sbucciato e rosmarino.",
+      "Irroratele con olio di oliva e insaporite con il sale. Ora tritate grossolanamente i pistacchi con un coltello.",
+      "Aggiungete i pistacchi in ciotola e mescolate per amalgamare tutti gli ingredienti. Foderate con carta forno una teglia e versate qui le carote cercando di distribuirle in modo omogeneo così da facilitare la cottura. Cuocete in forno statico preriscaldato a 220° per 30 minuti. A cottura ultimata sfornate le vostre carote arrostite e lasciatele intiepidire prima di servirle."
+    ],
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:26:27.929085+00:00"
+  },
+  {
+    "id": 127641610388941,
+    "name": "Insalata di cavolo e scalogni",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 15,
+    "ingredients_display": [
+      "Verza 300 g",
+      "Scalogno 140 g",
+      "Acciughe sotto sale 70 g",
+      "Olio extravergine d'oliva 50 g",
+      "Sale grosso q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Aceto di vino rosso 20 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-cavolo-e-scalogni.html",
+    "image_url": "https://www.giallozafferano.it/images/165-16539/Insalata-di-cavolo-e-scalogni_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 193.2,
+    "protein": null,
+    "carbs": 10.5,
+    "fats": 14.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Verza",
+        300.0,
+        "g"
+      ],
+      [
+        "Scalogno",
+        140.0,
+        "g"
+      ],
+      [
+        "Acciughe sotto sale",
+        70.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        50.0,
+        "g"
+      ],
+      [
+        "Sale grosso",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Aceto di vino rosso",
+        20.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per realizzare l’insalata di cavolo e scalogni iniziate sbucciando gli scalogni, poi mettete a scaldare in un tegame l’acqua con un pizzico di sale grosso e l’aceto di vino rosso.",
+      "Aggiunte egli scalogni e lessateli per 5 minuti. Poi scolate gli scalogni con una schiumarola e trasferiteli in una ciotolina.",
+      "Fate intiepidire leggermente poi tagliate gli scalogni a spicchi; occupatevi quindi delle acciughe sotto sale: raschiate con un coltello il sale in eccesso, poi tagliate a metà nel senso della lunghezza e sfilate la lisca centrale, a questo punto sciacquate i filetti di acciughe sotto l’acqua corrente. Prendete il cavolo: noi abbiamo usato cavolo cappuccio ma potete anche usare la verza se preferite; tagliatelo a metà eliminate il torsolo al centro che è la parte più dura.",
+      "Affettate il cavolo sottilmente per ridurlo a striscioline. Mettete il cavolo in una ciotola e condite con poco sale (potete anche ometterlo data la presenza delle sarde se non preferite un gusto eccessivamente saporito), pepe poi unite i filetti di acciughe puliti",
+      "Unite anche gli spicchi di scalogno e insaporite con l’olio di oliva. La vostra insalata di cavolo e scalogni è pronta per essere portata in tavola."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:30.380100+00:00",
+    "repaired_at": "2026-10-10T15:26:17.238733+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 220047054453364,
+    "name": "Porridge mele e nocciole",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Fiocchi di avena 140 g",
+      "Latte intero 200 g",
+      "Acqua 220 g",
+      "Mele Fuji 1",
+      "Granella di nocciole 20 g",
+      "Miele di acacia 70 g",
+      "Cannella in polvere 2 pizzichi",
+      "Sale 1 pizzico"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Porridge-mele-e-nocciole.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/170/17046/foto_hd/hd650x433_wm.jpg",
+    "servings": null,
+    "kcal": 563.4,
+    "protein": null,
+    "carbs": 96.4,
+    "fats": 14.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fiocchi di avena 140 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte intero 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 220 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mele Fuji 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Granella di nocciole 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Miele di acacia 70 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cannella in polvere 2 pizzichi",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale 1 pizzico",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il porridge mele e nocciole iniziate dall'avena: in una pentola versate l'acqua, il latte e un pizzico di sale e poi unite i fiocchi d'avena mescolando con una marisa. Ora accendete il fuoco e cuocete a fuoco medio-basso e mescolate.",
+      "Cuocete il porridge per 4-6 minuti, continuando a mescolare fino a quando non avrà raggiunto la consistenza che preferite: dovrà risultare cremoso e molto denso. Quando sarà pronto spegnete il fuoco e aggiungete 1 pizzico di cannella. Mescolate bene e poi trasferite il porrdige in due ciotoline da colazione, mettendole un attimo da parte.",
+      "A questo punto occupatevi delle mele: lavate bene la vostra mela e tagliatela a rondelle molto sottili, dello spessore di circa 4 millimetri. Versate il miele in una padella, avendo cura di lasciare un paio di cucchiaini da parte per guarnire successivamente il porridge; lasciatelo sciogliere a fuoco dolce per 1-2 minuti 8. Aggiungete le mele a fette e fatele camellare per un minuto.",
+      "Girate le mele con l'aiuto di una pinza e fatele caramellare per un minuto anche dall'altro lato. A questo punto potete comporre il vostro porridge mele e nocciole: prendete le ciotoline e sistemate qualche fettina di mela sopra la zuppa d'aveva, aggiungete la granella di nocciole",
+      "spolverizzate con 1 pizzico di cannella e versate un cucchiaino di miele. A piacere potete decorare con dell'altra granella di nocciole. Il vostro porridge mele e nocciole è pronto per essere gustato!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:33.090927+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 100174027734567,
+    "name": "Pasta con fiori di zucca e feta",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 25,
+    "ingredients_display": [
+      "Linguine senza glutine 320 g",
+      "Fiori di zucca 100 g",
+      "Feta 100 g",
+      "Pomodori ramati 180 g",
+      "Porri 60 g",
+      "Basilico 20 g",
+      "Olio extravergine d'oliva 90 g",
+      "Parmigiano Reggiano DOP da grattugiare 30 g",
+      "Pomodori secchi sott'olio 70 g",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-fiori-di-zucca-e-feta.html",
+    "image_url": "https://www.giallozafferano.it/images/186-18619/Pasta-con-fiori-di-zucca-e-feta_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 687.2,
+    "protein": null,
+    "carbs": 79.5,
+    "fats": 36.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Linguine senza glutine",
+        320.0,
+        "g"
+      ],
+      [
+        "Fiori di zucca",
+        100.0,
+        "g"
+      ],
+      [
+        "Feta",
+        100.0,
+        "g"
+      ],
+      [
+        "Pomodori ramati",
+        180.0,
+        "g"
+      ],
+      [
+        "Porri",
+        60.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        20.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        90.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP da grattugiare",
+        30.0,
+        "g"
+      ],
+      [
+        "Pomodori secchi sott'olio",
+        70.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare le linguine con fiori di zucca e feta per prima cosa ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta e portatela al bollore. Occupatevi poi della pulizia dei fiori di zucca: con un pennello eliminate eventuali tracce di terra, eliminate il pistillo interno e riduceteli a striscioline sottili. Ora scolate bene i pomodori secchi dall’olio di conservazione e poi tagliateli a listarelle.",
+      "Lavate e riducete a cubetti anche il pomodoro. Spuntate il porro e affettatelo. Intanto cuocete le linguine al dente, tenendole indietro di un paio di minuti rispetto ai tempi indicati sulla confezione.",
+      "Realizzate il pesto: nel bicchiere di un mixer versate il basilico, i porri, i pomodori e l’olio.",
+      "Frullate tutto con il mixer ad immersione, così da ottenere un composto omogeneo, insaporite con il formaggio grattugiato e salate, mescolate e tenete da parte.",
+      "In una padella scaldate un filo d’olio e saltate i pomodori secchi con i fiori di zucca per 1 minuto (13-14), spegnete e teneteli da parte, serviranno per guarnire il piatto. Nella stessa padella versate il pesto 15",
+      "e scolate qui la pasta 16 , versate un mestolo di acqua di cottura 17 , mescolate e saltate la pasta pochissimi istanti a fuoco medio. A cottura ultimata, condite con un filo di olio 18 .",
+      "Servite le linguine ben calde guarnendo il piatto con i fiori di zucca saltati insieme ai pomodori secchi 19 e briciole di feta 20 , infine pepate a piacere. Le bavette con fiori di zucca e feta sono pronte per essere gustate 21 ."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T15:25:35.655772+00:00",
+    "repaired_at": "2026-10-10T15:26:01.785264+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_pasta_con_fiori_di_zucca_e_feta_nopack_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_pasta_con_fiori_di_zucca_e_feta_nopack_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_pasta_con_fiori_di_zucca_e_feta_nopack_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18619/18619_bavette_con_fiori_di_zucca_e_feta_strip_7-9.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare le linguine con fiori di zucca e feta per prima cosa ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta e portatela al bollore. Occupatevi poi della pulizia dei fiori di zucca: con un pennello eliminate eventuali tracce di terra, eliminate il pistillo interno 1 e riduceteli a striscioline sottili 2 . Ora scolate bene i pomodori secchi dall’olio di conservazione e poi tagliateli a listarelle 3 .",
+      "Lavate e riducete a cubetti anche il pomodoro 4 . Spuntate il porro e affettatelo 5 . Intanto cuocete le linguine al dente, tenendole indietro di un paio di minuti rispetto ai tempi indicati sulla confezione 6 .",
+      "Realizzate il pesto: nel bicchiere di un mixer versate il basilico, i porri 7 , i pomodori 8 e l’olio 9 .",
+      "Frullate tutto con il mixer ad immersione 10 , così da ottenere un composto omogeneo, insaporite con il formaggio grattugiato 11 e salate, mescolate 12 e tenete da parte.",
+      "In una padella scaldate un filo d’olio e saltate i pomodori secchi con i fiori di zucca per 1 minuto (13-14), spegnete e teneteli da parte, serviranno per guarnire il piatto. Nella stessa padella versate il pesto 15",
+      "e scolate qui la pasta 16 , versate un mestolo di acqua di cottura 17 , mescolate e saltate la pasta pochissimi istanti a fuoco medio. A cottura ultimata, condite con un filo di olio 18 .",
+      "Servite le linguine ben calde guarnendo il piatto con i fiori di zucca saltati insieme ai pomodori secchi 19 e briciole di feta 20 , infine pepate a piacere. Le bavette con fiori di zucca e feta sono pronte per essere gustate 21 ."
+    ],
+    "steps_clean": [
+      "Per realizzare le linguine con fiori di zucca e feta per prima cosa ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta e portatela al bollore. Occupatevi poi della pulizia dei fiori di zucca: con un pennello eliminate eventuali tracce di terra, eliminate il pistillo interno e riduceteli a striscioline sottili. Ora scolate bene i pomodori secchi dall’olio di conservazione e poi tagliateli a listarelle.",
+      "Lavate e riducete a cubetti anche il pomodoro. Spuntate il porro e affettatelo. Intanto cuocete le linguine al dente, tenendole indietro di un paio di minuti rispetto ai tempi indicati sulla confezione.",
+      "Realizzate il pesto: nel bicchiere di un mixer versate il basilico, i porri, i pomodori e l’olio.",
+      "Frullate tutto con il mixer ad immersione, così da ottenere un composto omogeneo, insaporite con il formaggio grattugiato e salate, mescolate e tenete da parte.",
+      "In una padella scaldate un filo d’olio e saltate i pomodori secchi con i fiori di zucca per 1 minuto (13-14), spegnete e teneteli da parte, serviranno per guarnire il piatto. Nella stessa padella versate il pesto 15",
+      "e scolate qui la pasta 16 , versate un mestolo di acqua di cottura 17 , mescolate e saltate la pasta pochissimi istanti a fuoco medio. A cottura ultimata, condite con un filo di olio 18 .",
+      "Servite le linguine ben calde guarnendo il piatto con i fiori di zucca saltati insieme ai pomodori secchi 19 e briciole di feta 20 , infine pepate a piacere. Le bavette con fiori di zucca e feta sono pronte per essere gustate 21 ."
+    ],
+    "images_import_version": 5,
+    "step_images_checked_at": "2026-10-10T15:26:33.264165+00:00"
+  },
+  {
+    "id": 80566357096493,
+    "name": "Carciofi ripieni di uova e formaggio",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 70,
+    "ingredients_display": [
+      "Carciofi (circa 300 g l'uno) 4",
+      "Uova 4",
+      "Provola da grattugiare 120 g",
+      "Pecorino da grattugiare 50 g",
+      "Pane 90 g",
+      "Aglio 2 spicchi",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Sale grosso 1 cucchiaino",
+      "Limoni 1",
+      "Olio extravergine d'oliva q.b.",
+      "Timo q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Carciofi-ripieni-di-uova-e-formaggio.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/206/20671/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 332.3,
+    "protein": null,
+    "carbs": 20.2,
+    "fats": 19.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Carciofi (circa 300 g l'uno) 4",
+        null,
+        "da verificare"
+      ],
+      [
+        "Uova 4",
+        null,
+        "da verificare"
+      ],
+      [
+        "Provola da grattugiare",
+        120.0,
+        "g"
+      ],
+      [
+        "Pecorino da grattugiare",
+        50.0,
+        "g"
+      ],
+      [
+        "Pane",
+        90.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        2.0,
+        "spicchi"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale grosso 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Limoni 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare i carciofi ripieni di uova e formaggio per prima cosa pulite i carciofi: eliminate il gambo, scartate le foglie esterne e arrotondate la base, poi tagliate via le punte.",
+      "Infine aprite il carciofo a fiore e rimuovete la barbetta con uno scavino. Sbollentate i carciofi interi in acqua bollente salata e acidulata per 8 minuti, poi scolateli e lasciateli asciugare a testa in giù su un canovaccio pulito.",
+      "Nel frattempo preparate il ripieno: tagliate il pane a cubetti e trasferitelo in un mixer, poi aggiungete il timo e il sale. Frullate grossolanamente.",
+      "In un’altra ciotola versate le uova, il Pecorino grattugiato e la provola che avrete precedentemente grattugiato con una grattugia a maglie larghe; tenete da parte una manciata di provola per il successivo passaggio in forno. Salate, pepate e amalgamate il tutto con una forchetta.",
+      "A questo punto aggiungete gradualmente le briciole di pane aromatizzato; regolate la dose in base al grado di assorbimento del pane e mescolate fino ad ottenere un composto morbido e compatto. In una padella (possibilmente adatta alla cottura in forno) scaldate un giro d’olio con gli spicchi di aglio in camicia e dei rametti di timo.",
+      "Adagiate i carciofi nella padella con la parte tagliata rivolta verso il basso e i petali ben allargati. Fate insaporire per qualche minuto, poi spegnete il fuoco, rigirateli e lasciate intiepidire. Una volta intiepiditi, farcite generosamente l’interno dei carciofi con il ripieno, pressandolo bene.",
+      "Arrotondate la forma dei carciofi ripieni compattandoli con le mani, poi rimetteteli in padella (oppure trasferiteli in una teglia). Cospargete la superficie con la provola tenuta da parte e cuocete in forno statico preriscaldato a 180° per circa 25 minuti. Quando saranno belli dorati in superficie sfornate e guarnite i vostri carciofi ripieni di uova e formaggio con una macinata di pepe e qualche fogliolina di timo!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:38.220554+00:00",
+    "repaired_at": "2026-10-10T15:26:19.807686+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 175338610057166,
+    "name": "Insalata di cavolo cappuccio",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 50,
+    "ingredients_display": [
+      "Cavolo cappuccio 350 g",
+      "Succo di limone &frac12;",
+      "Sale fino 20 g",
+      "Zucchero 20 g",
+      "Pepe nero q.b.",
+      "Fagioli dall'occhio secchi 200 g",
+      "Parmigiano Reggiano DOP 120 g",
+      "Mandarini 3",
+      "Maggiorana qualche rametto",
+      "Miele millefiori 20 g",
+      "Olio extravergine d'oliva 30 g",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-cavolo-cappuccio.html",
+    "image_url": "https://www.giallozafferano.it/images/182-18200/Insalata-di-cavolo-cappuccio_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 305.4,
+    "protein": null,
+    "carbs": 29.5,
+    "fats": 15.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Cavolo cappuccio",
+        350.0,
+        "g"
+      ],
+      [
+        "Succo di limone &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        20.0,
+        "g"
+      ],
+      [
+        "Zucchero",
+        20.0,
+        "g"
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Fagioli dall'occhio secchi",
+        200.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP",
+        120.0,
+        "g"
+      ],
+      [
+        "Mandarini 3",
+        null,
+        "da verificare"
+      ],
+      [
+        "Maggiorana qualche rametto",
+        null,
+        "da verificare"
+      ],
+      [
+        "Miele millefiori",
+        20.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l’insalata di cavolo cappuccio viola cominciate mettendo in ammollo i fagioli dall’occhio. Quindi versateli in un recipiente, coprite con abbondante acqua e lasciate così per almeno 12 ore. Trascorso il tempo scolateli e sciacquateli. Poi versateli in un tegame con abbondante acqua e portate a bollore. Durante la cottura potrebbe essere necessario schiumare le sostanze che affiorano. Lasciate sobbollire per circa 25-30 cotti: a fine cottura dovranno risultare sodi (nè non troppo croccanti né troppo morbidi). Quindi scolateli,",
+      "e lasciateli raffreddare in una ciotola. Passate intanto al cavolo, tagliatelo a listarelle sottili. Mettete in una ciotola insieme al sale e lo zucchero,",
+      "un pizzico di pepe nero e il succo di limone. Mescolate per bene e coprite con la pellicola. Lasciate marinare per circa 2 ore in frigo; questa operazione permetterà al cavolo di ammorbidirsi e di addolcirsi anche come gusto. Poi tagliate il pezzo di Parmigiano e riducete a scaglie grossolane,",
+      "versate in padella a fuoco dolce facendo attenzione che non si sciolgaNO. Dovrà semplicemente diventare profumato e \"sudato\" in superficie (questa operazione serve a donare un gusto più accentuato al formaggio). Mettete anche le scaglie da parte e sbucciate i mandarini.",
+      "Prelevate gli spicchi in una ciotola avendo cura di togliere tutte le parti bianche e per finire preparate il dressing. In una ciotola versate il miele e l’olio. Sbattete velocemente unendo il sale e formate così un’emulsione.",
+      "Adesso che avete tutto pronto passate alla composizione. Scolate dalla marinatura il cavolo cappuccio e siacquatelo, mettetelo in una ciotola insieme ai fagioli, gli spicchi di mandarino, la maggiorana fresca sfogliata.",
+      "Condite con l’emulsione al miele. Mescolate bene il tutto e aggiustate di sale e di pepe a piacimento. Infine servite la vostra insalata di cavolo cappuccio viola con le scaglie di Parmigiano e buon appetito!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:40.797872+00:00",
+    "repaired_at": "2026-10-10T15:26:22.373607+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 252710229861231,
+    "name": "Porridge freddo",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Fiocchi di avena 60 g",
+      "Semi di chia 1 cucchiaio",
+      "Acqua a temperatura ambiente 120 g",
+      "Sciroppo di agave 2 cucchiaini",
+      "Yogurt di soia 2 cucchiai",
+      "Granola con cioccolato 2 cucchiai",
+      "Mirtilli 5"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Porridge-freddo.html",
+    "image_url": "https://www.giallozafferano.it/images/266-26672/Porridge-freddo_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 431.7,
+    "protein": null,
+    "carbs": 67.3,
+    "fats": 12.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fiocchi di avena 60 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Semi di chia 1 cucchiaio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua a temperatura ambiente 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sciroppo di agave 2 cucchiaini",
+        null,
+        "da fonte"
+      ],
+      [
+        "Yogurt di soia 2 cucchiai",
+        null,
+        "da fonte"
+      ],
+      [
+        "Granola con cioccolato 2 cucchiai",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mirtilli 5",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare il porridge freddo per prima cosa versate in un barattolo di vetro i fiocchi di avena e i semi di chia, poi aggiungete lo sciroppo di agave e l’acqua a temperatura ambiente.",
+      "Mescolate bene, poi chiudete con il coperchio e lasciate riposare in frigorifero per tutta la notte (o almeno 6 ore). Trascorso il tempo di riposo trasferite il porridge in una ciotola e guarnite con lo yogurt di soia, la granola al cioccolato e i mirtilli. Il vostro porridge freddo è pronto per essere gustato!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:43.370891+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 114972110690077,
+    "name": "Pasta con fiori di zucca e bottarga",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 25,
+    "ingredients_display": [
+      "Spaghetti Senza Glutine 320 g",
+      "Fiori di zucca (da pulire) 300 g",
+      "Bottarga di tonno 50 g",
+      "Pomodorini datterini 70 g",
+      "Cipollotti rossi di Tropea 1",
+      "Vino bianco secco 40 g",
+      "Timo q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Pepe nero q.b.",
+      "Scorza di pompelmo da grattugiare q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-fiori-di-zucca-e-bottarga.html",
+    "image_url": "https://www.giallozafferano.it/images/177-17757/Pasta-con-fiori-di-zucca-e-bottarga_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 377.6,
+    "protein": null,
+    "carbs": 69.2,
+    "fats": 8.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Spaghetti Senza Glutine",
+        320.0,
+        "g"
+      ],
+      [
+        "Fiori di zucca (da pulire)",
+        300.0,
+        "g"
+      ],
+      [
+        "Bottarga di tonno",
+        50.0,
+        "g"
+      ],
+      [
+        "Pomodorini datterini",
+        70.0,
+        "g"
+      ],
+      [
+        "Cipollotti rossi di Tropea 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Vino bianco secco",
+        40.0,
+        "g"
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Scorza di pompelmo da grattugiare",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con fiori di zucca e bottarga, iniziate dalla pulizia dei fiori: puliteli con un panno, poi eliminate il picciolo interno, tritateli finemente con un coltello dalla lama affilata. Pulite il cipollotto, tagliate via la barbetta finale e la parte verde, quindi riducetelo a fettine",
+      "Lavate e tagliate i pomodorini a metà. Mettete a bollire in un tegame abbondante acqua da salare a bollore: servirà poi per cuocere gli spaghetti. In una padella versate un filo d'olio, poi unite il cipollotto per farlo soffriggere mescolando di tanto in tanto;",
+      "dopo pochi istanti aggiungete i pomodorini e il timo fresco a rametti, fate soffriggere il tutto a fuoco medio per qualche minuto, quindi aggiungete i fiori di zucca tritati in precedenza; sfumate con il vino bianco, quindi abbassate il fuoco e cuocete fino a quando la nota alcolica non sarà evaporata del tutto.",
+      "Salate e pepate a piacere, mescolate e spegnete il fuoco. Cuocete la pasta tenendola indietro di un paio di minuti rispetto alla tempistiche indicate sulla confezione; grattugiate la bottarga di tonno.",
+      "Scolate la pasta direttamente nella padella in cui avete preparato il condimento e mantecate a fuoco basso, aggiungendo un mestolino d’acqua di cottura. Saltate la pasta a fuoco dolce, spegnete il fuoco, aggiungete un filo d’olio, la bottarga grattugiata (tenendone un po’ da parte per guarnire il piatto).",
+      "Impiattate nei singoli piatti da portata, guarnite con un altro po' di bottarga e scorza di pompelmo non trattato grattugiata. Servite la vostra pasta con fiori di zucca e bottarga ben calda!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T15:25:46.027798+00:00",
+    "repaired_at": "2026-10-10T15:26:04.348060+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1

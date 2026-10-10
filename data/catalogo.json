@@ -902,7 +902,16 @@
       "Per dare corpo e una consistenza più cremosa, incorporate un cucchiaio di farina di ceci 16 . Continuate la cottura ancora per qualche minuto, mescolando bene: vedrete che la zuppa diventerà densa e vellutata 17 . Quando è pronta, servite la zuppa di zucca e lenticchie calda in una ciotola, completando con un filo d’olio a crudo e, se gradite, una macinata di pepe nero 18 !"
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:45:30.376338+00:00"
+    "imported_at": "2026-10-10T11:45:30.376338+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 271954833842137,
@@ -1028,7 +1037,16 @@
       "Aggiungete quindi i pomodorini 13 e proseguite la cottura per una decina di minuti. Controllate di aver raggiunto il grado di cottura adatto ai vostri gusti, regolate di sale 14 e pepe e togliete dal fuoco, lasciate riposare qualche minuto. Servite la zuppa di lenticchie ben calda aggiungendo un filo d'olio a crudo, una grattata di pepe e i crostini di pane 15 ."
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:45:33.101948+00:00"
+    "imported_at": "2026-10-10T11:45:33.101948+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 62417905672710,
@@ -1118,7 +1136,16 @@
       "Infine completate con un filo d’olio 13 , un pizzico di curcuma 14 e una macinata di pepe. La vostra zuppa di lenticchie con curcuma e zenzero è pronta per essere servita 15 !"
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:45:35.753141+00:00"
+    "imported_at": "2026-10-10T11:45:35.753141+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 126218907648864,
@@ -1209,7 +1236,16 @@
       "Impiattate e completate con un giro d’olio 16 e una spolverata di pepe 17 . La zuppa di farro e lenticchie è pronta per essere gustata 18"
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:45:38.391986+00:00"
+    "imported_at": "2026-10-10T11:45:38.391986+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 131014755584784,
@@ -1332,7 +1368,16 @@
       "Ora ponete i gherigli di noci in una padella ben calda 22 (potete lasciarle intere oppure sbriciolarle grossolanamente), tostatele per 3 minuti per dorarle agitando la padella per non farle bruciare 23 , quindi unitele alla zuppa. Servite la zuppa autunnale calda 24 accompagnandola con i crostini di pane tostato."
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:45:41.556560+00:00"
+    "imported_at": "2026-10-10T11:45:41.556560+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 171021698363776,
@@ -1444,7 +1489,16 @@
       "Trasferite Nutella® in una sach-à-poche con bocchetta da 6 mm e farcire le basi delle tortine, spremendone 15g su ciascuna 25 . Adagiate sopra la parte decorata  26 e servite le vostre zucchette ripiene di Nutella® 27 !"
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:45:44.698682+00:00"
+    "imported_at": "2026-10-10T11:45:44.698682+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 190381413323087,
@@ -1497,7 +1551,16 @@
       "spennellate la superficie con il tuorlo stemperato con poca acqua 10 , spolverizzate con lo zucchero di canna 11 e cuocete in forno preriscaldato a 180° per 25 minuti. Trascorso il tempo di cottura le vostre zucchette di sfoglia saranno ben dorate in superficie 12 : gustatele tiepide o anche a temperatura ambiente!"
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:45:47.349140+00:00"
+    "imported_at": "2026-10-10T11:45:47.349140+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 183262695746594,
@@ -1603,7 +1666,16 @@
       "Per realizzare una decorazione originale, coprite parte della superficie delle tortine con un foglio di carta e spolverizzate con lo zucchero a velo (25-26). Le vostre tortine di zucca e cioccolato sono pronte per essere gustate 27 !"
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:45:49.981907+00:00"
+    "imported_at": "2026-10-10T11:45:49.981907+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 45798059982633,
@@ -1744,7 +1816,16 @@
       "Insaporite con il formaggio grattugiato 40 e la scorza del limone 41 . Servite i tortelli di zucca alla mantovana con le mandorle tostate 42 ."
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:45:52.668135+00:00"
+    "imported_at": "2026-10-10T11:45:52.668135+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 212440586978112,
@@ -1828,7 +1909,16 @@
       "Completate con miele di castagno 13 e ancora un po' di gorgonzola 14 . Cuocete in forno statico, nel ripiano centrale, a 200°C per 30 minuti, fino a doratura. Lasciate intiepidire e la vostra torta salata pere e gorgonzola è pronta per essere gustata 15 ."
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:45:55.407189+00:00"
+    "imported_at": "2026-10-10T11:45:55.407189+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 1681453928818,
@@ -1962,7 +2052,16 @@
       "Quindi rivestite interamente il dolce con una spatola 37 , guarnite con le fragole a fette disponendole in maniera alterna una volta con la punta rivolta verso l'alto e una volta verso il basso 38 . Decorate la superficie a piacere e la vostra torta ricotta e fragole è pronta 39 ."
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:45:58.108343+00:00"
+    "imported_at": "2026-10-10T11:45:58.108343+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 191443079218214,
@@ -2034,7 +2133,16 @@
       "e cuocete a in forno statico preriscaldato 170° per 70 minuti, nel ripiano più basso del forno 13 . Fate la prova stecchino a fine cottura per verificare che la torta sia cotta. Sfornate e lasciate raffreddare prima di sformare la torta per servirla 14 . Se preferite, spolverizzate un pizzico di zucchero a velo sulla vostra torta di castagne e cioccolato 15 !"
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:46:00.747760+00:00"
+    "imported_at": "2026-10-10T11:46:00.747760+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 176455757232419,
@@ -2142,7 +2250,16 @@
       "Togliete lo stampo dal frigorifero e aggiungete la confettur a cucchiaiatea 13 , poi cuocete in forno statico preriscaldato a 180° per 35 minuti. Fate sempre la prova dello stecchino per verificare la cottura all'interno. Non appena cotta spegnete il forno e lasciate la torta nel forno con lo sportello aperto per 5 minuti. Poi sfornate, lasciate raffreddare e cospargete la torta con marmellata di zucchero a velo prima di servirla 15 ."
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:46:03.391693+00:00"
+    "imported_at": "2026-10-10T11:46:03.391693+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 20159596085883,
@@ -2237,7 +2354,16 @@
       "Mescolate per pochi istanti con le fruste, così da ottenere un impasto senza grumi e omogeneo 10 , trasferitelo in uno stampo da 22 cm imburrato e infarinato 11 . Cuocete in forno statico preriscaldato a 180°, per circa 40 minuti, e quando la torta 7 vasetti al cacao sarà fredda potrete sformarla. Spolverate, a piacere, con zucchero a velo 12 ."
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:46:06.020675+00:00"
+    "imported_at": "2026-10-10T11:46:06.020675+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 28394982502732,
@@ -2326,7 +2452,16 @@
       "Distribuite il composto nella teglia in modo uniforme e livellate la superficie con una spatola 10 . Cuocete la torta nel forno già caldo a 180° per 50 minuti (potete provare a cuocere in forno ventilato a 160° per circa 40 minuti, coprendo se necessario la superficie gli ultimi 10 minuti con un foglio di carta alluminio e facendo sempre la prova dello stecchino). Trascorso il tempo di cottura sfornate la teglia 11 , lasciatela intiepidire e poi sformatela e servite la torta 5 minuti spolverizzandola con lo zucchero a velo 12 !"
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:46:08.731843+00:00"
+    "imported_at": "2026-10-10T11:46:08.731843+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 94342537379137,
@@ -2416,7 +2551,16 @@
       "Versate l’impasto in uno stampo del diametro di 20 cm, imburrato e infarinato 13 . Cuocete in forno statico preriscaldato a 180ç per circa 40 minuti. Fate la prova stecchino prima di sfornare, poi lasciate raffreddare completamente la torta nello stampo. Una volta raffreddata, spolverizzate con zucchero a velo a piacere 14 . La vostra torta 5 minuti cocco e mirtilli è pronta per essere gustata 15 !"
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:46:11.457560+00:00"
+    "imported_at": "2026-10-10T11:46:11.457560+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 147298971437633,
@@ -2500,7 +2644,16 @@
       "Livellate delicatamente la superficie con una spatola 13 . Cuocete in forno statico preriscaldato a 170°C, posizionando lo stampo sul ripiano centrale, per 60 minuti. Prima di sfornare eseguite la prova dello stecchino: se esce asciutto, la torta è pronta. Lasciate raffreddare completamente la torta nello stampo o su una gratella, quindi trasferitela su un piatto da portata e completate con una leggera spolverata di zucchero a velo 14 prima di servirla 15 ."
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:46:14.069953+00:00"
+    "imported_at": "2026-10-10T11:46:14.069953+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 32919346764472,
@@ -2584,7 +2737,16 @@
       "Cuocete la torta in forno statico preriscaldato a 180°C per circa 35 minuti, posizionandola sul ripiano medio-basso del forno. Al termine della cottura, sfornate la torta 13 e lasciatela intiepidire prima di sformarla 14 . La torta 5 minuti allo yogurt e cacao è pronta da servire 15 ."
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:46:16.769819+00:00"
+    "imported_at": "2026-10-10T11:46:16.769819+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 66219501729955,
@@ -2675,7 +2837,16 @@
       "Una volta cotta 16 , lasciatela intiepidire prima di servirla, quindi spolverizzatela a piacere con zucchero e Velo 17 . La torta 5 minuti alle fragole è pronta per essere gustata 18 ."
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:46:19.512207+00:00"
+    "imported_at": "2026-10-10T11:46:19.512207+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   },
   {
     "id": 7941019845980,
@@ -2797,6 +2968,2113 @@
       "Rovesciate il dolce su una gratella e ricopritelo interamente con la salsa al cioccolato 19 . Per finire distribuite sulla superficie la granella di pistacchi 20 . La torta 5 minuti alla ricotta è pronta per essere gustata 21 ."
     ],
     "needs_review": true,
-    "imported_at": "2026-10-10T11:46:22.162732+00:00"
+    "imported_at": "2026-10-10T11:46:22.162732+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 81188317355982,
+    "name": "Torta 5 minuti alla marmellata",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 00 280 g",
+      "Confettura di lamponi 200 g",
+      "Zucchero 150 g",
+      "Olio di semi di girasole 120 g",
+      "Yogurt bianco naturale 100 g",
+      "Uova 3",
+      "Lievito in polvere per dolci 16 g",
+      "Vaniglia in polvere q.b.",
+      "Sale fino q.b.",
+      "Zucchero a velo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-5-minuti-alla-marmellata.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36694/Torta-5-minuti-alla-marmellata_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 443.0,
+    "protein": null,
+    "carbs": 64.5,
+    "fats": 17.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00 280 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Confettura di lamponi 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi di girasole 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Yogurt bianco naturale 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova 3",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 16 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Vaniglia in polvere q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la torta 5 minuti alla marmellata, versate in una ciotola lo zucchero semolato e le uova 1 , poi aggiungete un pizzico di sale 2 e la polvere di vaniglia 3 .",
+      "Azionate le fruste elettriche per amalgamare gli ingredienti 4 . Quando avrete ottenuto un composto gonfio e spumoso, unite lo yogurt bianco 5 e l'olio di semi a filo, tenendo sempre le fruste in azione 6 .",
+      "Setacciate anche la farina e il lievito 7 e incorporate le polveri con le fruste 8 . Trasferite l'impasto ottenuto in una tortiera da 24 cm di diametro foderata con carta forno 9 .",
+      "Livellate la superficie 10 , poi aggiungete la confettura di lamponi a cucchiaiate, distribuendole uniformemente 11 . Cuocete in forno statico preriscaldato a 170° per circa 50 minuti, posizionando lo stampo sul ripiano medio 12 .",
+      "Una volta sfornata, verificate la cottura con uno stecchino: se dovesse risultare umido, infornate per altri 5 minuti 13 . Una volta raffreddata, cospargete la superficie con lo zucchero a velo 14 . La vostra torta 5 minuti alla marmellata è pronta per essere servita 15 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:21.548221+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 245498296563293,
+    "name": "Torta 5 minuti al limone",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 00 200 g",
+      "Uova (3 medie) 165 g",
+      "Olio di semi di girasole 100 g",
+      "Zucchero 150 g",
+      "Latte di avena 150 g",
+      "Fecola di patate 80 g",
+      "Lievito in polvere per dolci 16 g",
+      "Scorza di limone 1",
+      "Succo di limone 50 g",
+      "Sale fino q.b.",
+      "Zucchero a velo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Torta-5-minuti-al-limone.html",
+    "image_url": "https://www.giallozafferano.it/images/364-36462/Torta-5-minuti-al-limone_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 356.1,
+    "protein": null,
+    "carbs": 50.8,
+    "fats": 14.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova (3 medie) 165 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi di girasole 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte di avena 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fecola di patate 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 16 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scorza di limone 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Succo di limone 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la torta 5 minuti al limone come prima cosa lavate accuratamente il limone e grattugiatene la scorza, facendo attenzione a prelevare solo la parte gialla. Spremetelo con uno spremiagrumi, filtrate il succo per eliminare eventuali semi e tenetelo da parte 1 . Rompete le uova in una ciotola capiente, aggiungete lo zucchero semolato 2 e un pizzico di sale 3 , quindi mescolate con una frusta a mano fino a ottenere un composto omogeneo.",
+      "Versate il latte di avena 4 , l'olio di semi 5 e il succo di limone filtrato 6 , continuando a mescolare fino a incorporare perfettamente tutti gli ingredienti liquidi.",
+      "Unite la farina 7 , la fecola di patate 8 e il lievito per dolci 9 , preferibilmente setacciati.",
+      "Aggiungete in ultimo anche la scorza grattugiata del limone 10 . Mescolate con la frusta fino a ottenere un impasto liscio, uniforme e senza grumi 11 . Foderate una tortiera da 22 cm di diametro con carta forno e versatevi il composto 12 .",
+      "Cuocete in forno statico già caldo a 180°C, nel ripiano centrale, per 45 minuti. Prima di sfornare, verificate la cottura effettuando la prova dello stecchino: se esce asciutto, la torta è pronta. Lasciate raffreddare completamente la torta nello stampo 13 per alcuni minuti, quindi trasferitela su una gratella fino a completo raffreddamento. Prima di servirla, completate con una leggera spolverata di zucchero a velo 14 e servite 15 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:24.269333+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 229177419212424,
+    "name": "Strudel di mele, cipolle e speck",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 00 150 g",
+      "Uova (1 medio) 55 g",
+      "Acqua 30 g",
+      "Olio extravergine d'oliva 20 g",
+      "Farina di mais fioretto 10 g",
+      "Cipolle bianche 400 g",
+      "Mele Red Delicious 280 g",
+      "Speck 120 g",
+      "Pangrattato 50 g",
+      "Timo 3 g",
+      "Rosmarino 3 g",
+      "Salvia 3 g",
+      "Olio extravergine d'oliva q.b.",
+      "Burro fuso 40 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Strudel-di-mele-cipolle-e-speck.html",
+    "image_url": "https://www.giallozafferano.it/images/219-21924/Strudel-di-mele-cipolle-e-speck_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 328.9,
+    "protein": null,
+    "carbs": 37.9,
+    "fats": 14.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova (1 medio) 55 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina di mais fioretto 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cipolle bianche 400 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mele Red Delicious 280 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Speck 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pangrattato 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Timo 3 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Rosmarino 3 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Salvia 3 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro fuso 40 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare lo strudel di mele, cipolle e speck occupatevi dell’impasto: in una ciotola versate le farine, il sale 1 , l’uovo, l’acqua 2 e infine l’olio di oliva 3 .",
+      "Impastate prima con una forchetta e poi a mano 4 , fino a ottenere un panetto omogeneo 5 , avvolgetelo con pellicola 6 e riponetelo in frigo per 20 minuti.",
+      "Tagliate a listarelle lo speck 7 , mondate e affettate sottilmente le cipolle 8 . Lavate e tagliate a metà le mele, eliminate il torsolo e affettatele sottilmente 9 .",
+      "In un tegame scaldate un filo di olio di oliva, aggiungete lo speck 10 e fate rosolare 11 , in un altro tegame scaldate un filo di olio e aggiungete le cipolle 12 . Saltate a fiamma media per 5 minuti.",
+      "Spenete il fucoco 13 e ponete le cipolle in una ciotola, quindi nella stessa padella saltate le mele 14 .Unite poi lo speck rosolato e le cipolle 15 .",
+      "Unite anche le mele  16 e mescolate per insaporire senza cuocere 17 .Tritate  grossolamente il rosmarino, il timo e la salvia 18 .",
+      "In una ciotola versate il ripieno, insaporite con le erbe 19 e il pangrattato 20 . Mescolate e tenete da parte 21 .",
+      "Riprendete il panetto di pasta e stendetelo con il matterello su un canovaccio infarinato 22 . Tirate la sfoglia con il dorso delle mani e formate un rettangolo 23 . Spennellate la superficie con del burro fuso. Distribuite sopra un po' pangrattato 24 .",
+      "Distribuite il ripieno di cipolle e mele solo su un lato 25 . Aiutandovi con il canovaccio, ripiegate da un lato la sfoglia 26 e arrotolatela 27 .",
+      "Ripiegate i lati per sigillare il rotolo 28 .  Adagiate lo strudel su una teglia rivestita con carta forno, distribuite sopra il burro fuso e praticate dei tagli in diagonale per far uscire il vapore ed evitare che si gonfi in cottura lo strudel 29 . Cuocete in forno statico preriscaldato a 200° per 20/25 minuti.A cottura ultimata, sfornate lo strudel di mele cipolle e speck, lasciatelo intiepidire e poi portatelo in tavola 30 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:26.984305+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 161609328838698,
+    "name": "Sgombro in padella",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Filetti di sgombro (già puliti) 600 g",
+      "Pomodorini ciliegino 300 g",
+      "Passata di pomodoro 100 g",
+      "Olive nere 40 g",
+      "Uvetta 30 g",
+      "Pinoli 25 g",
+      "Capperi sotto sale 20 g",
+      "Aglio 1 spicchio",
+      "Vino bianco secco 30 g",
+      "Prezzemolo q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Sgombro-in-padella.html",
+    "image_url": "https://www.giallozafferano.it/images/249-24970/Sgombro-in-padella_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 458.8,
+    "protein": null,
+    "carbs": 13.0,
+    "fats": 31.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Filetti di sgombro (già puliti) 600 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pomodorini ciliegino 300 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Passata di pomodoro 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olive nere 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uvetta 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pinoli 25 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Capperi sotto sale 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aglio 1 spicchio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Vino bianco secco 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Prezzemolo q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare lo sgombro in padella, per prima cosa rimuovete eventuali lische dai filetti di pesce con una pinzetta 1 . Tagliate i pomodorini ciliegini a metà 2 e versateli in una padella capiente dove avrete fatto imbiondire uno spicchio d'aglio con l'olio 3 .",
+      "Salate 4 , pepate e rosolate brevemente. Aggiungete la passata di pomodoro 5 e cuocete a fuoco medio-basso per una decina di minuti 6 .",
+      "Trascorso questo tempo, unite i capperi dissalati 7 , i pinoli 8 e l'uvetta 9 .",
+      "Aggiungete anche le olive nere 10 e mescolate, poi adagiate i filetti di sgombro con la pelle rivolta verso il basso, facendo attenzione a non sovrapporli 11 . Versate il vino bianco 12 .",
+      "Coprite con il coperchio 13 e proseguite la cottura a fuoco basso per altri 10 minuti. In ultimo, aromatizzate con il prezzemolo tritato 14 . Il vostro sgombro in padella è pronto per essere servito 15 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:29.679864+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 120172866436140,
+    "name": "Sgombro con cime di rapa e nocciole",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Sgombro 2",
+      "Zucchero 500 g",
+      "Acqua fredda 1 l",
+      "Sale fino 30 g",
+      "Aceto di mele 1 cucchiaio",
+      "Olio extravergine d'oliva q.b.",
+      "Sale di maldon q.b.",
+      "Nocciole intere spellate 200 g",
+      "Acqua 150 g",
+      "Sale fino q.b.",
+      "Cime di rapa 135 g",
+      "Bicarbonato 1 pizzico",
+      "Succo di limone 1 cucchiaio",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Sgombro-con-cime-di-rapa-e-nocciole.html",
+    "image_url": "https://www.giallozafferano.it/images/246-24682/Sgombro-con-cime-di-rapa-e-nocciole_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 1389.9,
+    "protein": null,
+    "carbs": 135.8,
+    "fats": 77.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Sgombro 2",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 500 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua fredda 1 l",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aceto di mele 1 cucchiaio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale di maldon q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Nocciole intere spellate 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cime di rapa 135 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Bicarbonato 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Succo di limone 1 cucchiaio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare lo sgombro con cime di rapa e nocciole per prima cosa pulite gli sgombri. Incidete la pancia 1 ed estraete le interiora, quindi sciacquate sotto l'acqua corrente 2 . Incidete il dorso, poi posizionate il coltello sotto la pinna e tagliate scendendo verso la coda  3 .",
+      "Ricavate i filetti evitando di fare movimenti seghettati 4 5 , poi eliminate la parte della pancia e rifinite i bordi per dare ai filetti una forma regolare 6 .",
+      "Eliminate le lische con l'apposita pinzetta 7 . Versate metà dello zucchero in una pirofila formando uno strato di circa mezzo centimetro, poi adagiate i 4 filetti con la parte della pelle rivolta verso il basso 8 . Ricopriteli completamente con il restante zucchero 9 .",
+      "Lasciate marinare per 20 minuti a temperatura ambiente. Trascorso questo tempo togliete gli sgombri dalla marinatura 11 e sciacquateli sotto l'acqua corrente 12 .",
+      "Riempite una ciotola con l'acqua fredda e sciogliete qui 30 g di sale 13 , adagiate i filetti 14 e lasciateli in ammollo per 2-3 minuti. Questa soluzione di acqua e sale richiama l'acqua marina e dona un tocco sapido. Asciugate i filetti su carta assorbente 15 .",
+      "Pulite le cime eliminando la parte più coriacea 16 . Bollite le cime in acqua, sale e un pizzico di bicarbonato per 2 minuti 17 . Poi scolatele e ponetele in una ciotola con acqua e ghiaccio per bloccarne la cottura 18 .",
+      "Asciugate le cime su un vassoio rivestito con carta assorbente 19 . Versate le nocciole in una teglia rivestita con carta forno 20 e tostatele in forno statico preriscaldato a 180° per 8-10 minuti 21 .",
+      "Frullate le nocciole ancora calde nel mixer 22 . Quando otterrete una consistenza sabbiosa aggiungete l'acqua 23 e d+un pizzico di sale. Proseguite a frullare finché non otterrete una salsa 24 .",
+      "Passate la salsa al setaccio 25 perchè risulti più liscia 26 . Cuocete gli sgombri: scaldate una padella con un giro d'olio, adagiate i filetti dal lato della pelle 27 e schiacciateli leggermente per evitare che si arriccino.",
+      "Fate ben rosolare e dorare la pelle e poi rigirateli per qualche secondo dall'altro lato 28 . Una volta pronti poneteli su un vassoio con carta assorbente; mentre sono ancora caldi ungete la pelle degli sgombri con l'aceto di mele 29 e condite con il sale di maldon 30 . In questo modo assorbiranno meglio i sapori.",
+      "Passate alle cime: scaldate un giro d'olio nella stessa padella in cui avete cotto lo sgombro 31 . Adagiate le cime 32 e rosolatele bene da entrambi i lati 32 , poi sfumate con un cucchiaio di succo di limone 33 .",
+      "Adagiate anche le cime su carta assorbente e condite con un pizzico di sale 34 . Servite i filetti accompagnati con la salsa di nocciole 35 e le cime di rapa 36 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:32.495897+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 260137902601952,
+    "name": "Sgombro al cartoccio",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Sgombro (4 interi) 580 g",
+      "Sedano 170 g",
+      "Peperoni gialli 140 g",
+      "Pomodori ramati 120 g",
+      "Melanzane 90 g",
+      "Limoni 1",
+      "Basilico q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Pepe nero q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Sgombro-al-cartoccio.html",
+    "image_url": "https://www.giallozafferano.it/images/185-18587/Sgombro-al-cartoccio_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 367.6,
+    "protein": null,
+    "carbs": 8.5,
+    "fats": 24.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Sgombro (4 interi) 580 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sedano 170 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Peperoni gialli 140 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pomodori ramati 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Melanzane 90 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Limoni 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Basilico q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare lo sgombro al cartoccio per prima cosa occupatevi della pulizia degli sgombri: incidete il ventre con un coltello 1 ed eviscerate il pesce 2 , poi sciacquatelo sotto l’acqua corrente per ripulirlo 3 .",
+      "Ora lavate le verdure e mondatele: spuntate il sedano e riducetelo a dadini 4 , poi tagliate le melanzane a fette e ricavate dei dadini 5 . Eliminate i semini interni e il picciolo del peperone 6",
+      "e tagliatelo prima a listarelle e poi a cubetti 7 . Infine riducete a dadini anche i pomodori 8 . Trasferite tutte le verdure tagliate in una ciotola, profumate con foglioline di basilico fresco 9",
+      "e condite con olio, sale e pepe 10 . Ora adagiate ciascuno sgombro pulito su un foglio di carta forno di circa 35x31 cm 11 , riempite la pancia dello sgombro con un cucchiaio di verdure 12 e poi distribuite il resto intorno al pesce (abbiate cura di usare per ciascuno sgombro circa ¼ delle verdure preparate in precedenza).",
+      "Condite il pesce con un filo di olio di oliva 13 . Lavate il limone e tagliatelo a fette sottili 14 , poi adagiate 3 fette di limone sopra ogni sgombro 15 .",
+      "Ora richiudete il cartoccio sollevando i lembi di carta forno 16 e sovrapponendoli sopra al pesce 17 , poi sigillate bene ripiegando i lati 18 .",
+      "Ponete i cartocci su una leccarda rivestita con carta forno 19 e cuocete in forno statico preriscaldato a 200° per 20 minuti. A cottura ultimata sfornate i vostri sgombri al cartoccio 20 e serviteli ben caldi 21 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:35.140486+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 256369329813562,
+    "name": "Rotolo al tè matcha",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Uova medie 3",
+      "Farina 00 60 g",
+      "Zucchero ( + q.b. per spolverizzare) 80 g",
+      "Tè verde Matcha solubile 30 g",
+      "Lievito in polvere per dolci &frac12; bustina",
+      "Panna fresca liquida non zuccherata 200 g",
+      "Latte condensato 150 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Rotolo-al-te-matcha.html",
+    "image_url": "https://www.giallozafferano.it/images/197-19769/Rotolo-al-te-matcha_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 223.0,
+    "protein": null,
+    "carbs": 26.9,
+    "fats": 11.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Uova medie 3",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 60 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero ( + q.b. per spolverizzare) 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tè verde Matcha solubile 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci &frac12; bustina",
+        null,
+        "da fonte"
+      ],
+      [
+        "Panna fresca liquida non zuccherata 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte condensato 150 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il rotolo al tè matcha come prima cosa realizzate la pasta biscotto. Rompete le uova in una ciotola, aggiungete 80 g di zucchero 1 e montate il tutto con le fruste elettriche 2 fino a che non saranno gonfie e spumose 3 .",
+      "Unite la farina 4 e il tè matcha 5 . Incorporate quindi le polveri con una spatola mescolando dal basso verso l'alto 6 ,",
+      "fino ad ottenere un composto omogeneo 7 . Aggiungete poi anche il lievito 8 e mescolate come fatto in precedenza 9 .",
+      "Versate il composto in una leccarda foderata con carta forno di dimensioni di 30x40 cm 10 . Livellate la superficie delicatamente 11 e cuocete in forno statico preriscaldato a 180° per circa 8 minuti. Una volta cotta, sfornate la pasta biscotto e trasferitela sul piano di lavoro, facendo attenzione a non bruciarvi. Spolverizzate la superficie con lo zucchero semolato 12 , poi capovolgetelo e staccate delicatamente la carta forno.",
+      "Arrotolate la pasta biscotto nella carta forno 13 , poi avvolgetelo nella pellicola 14 e lasciatelo riposare. Nel frattempo preparate la crema al latte: versate la panna fredda in una ciotola e iniziate a montare con le fruste 15 ,",
+      "fino a che avrete ottenuto una consistenza ferma e spumosa 16 . A questo punto aggiungete anche il latte condensato 17 e continuate a lavorare il tutto con lo sbattitore elettrico. Quando la crema risulterà omogenea riponetela in frigorifero per circa 30 minuti. Poi srotolate delicatamente la pasta biscotto e versate la crema al centro 18 .",
+      "Poi spargetela in maniera uniforme 19 e arrotolate la pasta dal lato più corto 20 . Se necessario potete rifilare i bordi della pasta prima di arrotolarlo. Riponete il rotolo in frigorifero per almeno un'ora prima di servirlo 21 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:37.828051+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 204728640831211,
+    "name": "Risotto alla puttanesca con pomodori arrosto",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Riso Carnaroli 320 g",
+      "Brodo vegetale 700 g",
+      "Burro 90 g",
+      "Formaggio grattugiato Lodigiano 60 g",
+      "Capperi sotto sale 30",
+      "Olive nere in polvere 2 cucchiai",
+      "Prezzemolo q.b.",
+      "Salsa alle acciughe q.b.",
+      "Pomodorini perini 350 g",
+      "Olio extravergine d'oliva 1 cucchiaio",
+      "Aglio 1 spicchio",
+      "Timo 1 rametto",
+      "Sale fino q.b.",
+      "Olio di semi di arachide q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Risotto-alla-puttanesca-con-pomodori-arrosto.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36679/Risotto-alla-puttanesca-con-pomodori-arrosto_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 1001.1,
+    "protein": null,
+    "carbs": 68.4,
+    "fats": 76.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Riso Carnaroli 320 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Brodo vegetale 700 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 90 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Formaggio grattugiato Lodigiano 60 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Capperi sotto sale 30",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olive nere in polvere 2 cucchiai",
+        null,
+        "da fonte"
+      ],
+      [
+        "Prezzemolo q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Salsa alle acciughe q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pomodorini perini 350 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 1 cucchiaio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aglio 1 spicchio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Timo 1 rametto",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio di semi di arachide q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il risotto alla puttanesca con pomodori arrosto iniziate dalla crema di pomodoro. Tagliate i pomodori a pezzi grossolani 1 . Metteteli in una teglia con un pizzico di sale 2 e un giro di olio evo 3 .",
+      "Insaporite con l’aglio in camicia 4 e il timo 5 . Cuocete in forno statico preriscaldato a 140 °C per un paio d’ore 6 .",
+      "Una volta ammorbiditi, frullate i pomodori 7 fino a ottenere una purea 8 . A questo punto stendete la purea su una teglia foderata con carta da forno 9 e lasciatela in forno statico a 80 °C per circa 1 ora.",
+      "In un pentolino mettete a scaldare l'olio di semi e immergete i capperi dissalati 10 , friggeteli per pochi istanti 11 e scolateli su carta assorbente 12 .",
+      "Nel frattempo sarà pronta anche la crema di pomodoro 13 , tenetela da parte. In una pentola, fate tostare il riso a secco 14 , poi sfumate con il brodo caldo 15 fino a ricoprire il riso. Cominciate la cottura a fuoco sostenuto; nel momento in cui comincerà a sobbollire, abbassate la fiamma. Continuate a girare il risotto, aggiungendo un mestolo di brodo alla volta quando vedete che il riso ha assorbito completamente il brodo precedente.",
+      "A 10 minuti dalla fine della cottura, aggiungete la crema di pomodori arrosto 16 e riportate a bollore. Una volta terminata la cottura, spegnete il fuoco e mantecate con burro freddo e formaggio Lodigiano 17 . Lasciate riposare il risotto 3 minuti 18 , così che la temperatura si abbassi: il risotto deve essere servito a 50 °C, non bollente come la pasta, altrimenti si perdono i sapori.",
+      "Insaporite con un filo d'olio evo 19 , il prezzemolo tritato, un giro di salsa di acciughe, la polvere di olive nere e i capperi fritti 20 . Il risotto alla puttanesca con pomodori arrosto è pronto da gustare 21 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:40.473342+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 205821802808831,
+    "name": "Quiche con pere, salvia e fontina",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 00 200 g",
+      "Burro freddo 100 g",
+      "Acqua fredda 30 g",
+      "Tuorli 1",
+      "Salvia 8 foglie",
+      "Sale fino 1 pizzico",
+      "Pere kaiser (da pulire) 500 g",
+      "Fontina 250 g",
+      "Latte intero 100 g",
+      "Panna fresca liquida 100 g",
+      "Uova 1",
+      "Tuorli 1",
+      "Burro 30 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Quiche-con-pere-salvia-e-fontina.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36678/Quiche-con-pere-salvia-e-fontina_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 576.0,
+    "protein": null,
+    "carbs": 40.6,
+    "fats": 38.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro freddo 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua fredda 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tuorli 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Salvia 8 foglie",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pere kaiser (da pulire) 500 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fontina 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte intero 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Panna fresca liquida 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tuorli 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la quiche con pere, salvia e fontina, iniziate dalla pasta brisè: in una ciotola versate il burro freddo a cubetti e la farina 1 . Tritate finemente le foglie di salvia 2 e aggiungetele nella ciotola insieme al tuorlo 3 .",
+      "Aggiungete l’acqua fredda 4 e un pizzico di sale, poi lavorate velocemente con le mani 5 per formare un impasto omogeneo 6 . Avvolgete il panetto nella pellicola e lasciate riposare in frigorifero per 30 minuti.",
+      "Nel frattempo sbucciate le pere 7 , spuntatele 8 e dividetele a spicchi 9 , poi rimuovete il torsolo.",
+      "Fate sciogliere il burro in una padella capiente 10 , poi adagiate le pere a spicchi 11 e fatele saltare a fuoco vivace per pochi minuti 12 . Lasciate intiepidire.",
+      "Intanto in una ciotola versate l’uovo intero, il tuorlo, la panna 13 e il latte 14 . Salate, pepate e mescolate con una frusta 15 .",
+      "Infine, tagliate la fontina a fette 16 . Trascorso il tempo di riposo, riprendete l’impasto e stendetelo con il mattarello fino a uno spessore di 3 mm 17 . Trasferite la sfoglia in uno stampo e sistematela bene sulla base e sui bordi 18 , poi rimuovete l’eccesso.",
+      "Bucherellate la base con una forchetta 19 , poi inserite all’interno gli spicchi di pera 20 e le fette di fontina 21 .",
+      "Versate il composto di tuorlo e panna 22 e cuocete in forno statico preriscaldato a 180° per circa 40-45 minuti 23 . Quando sarà bella dorata, sfornate e lasciate intiepidire prima di servire la vostra quiche con pere, salvia e fontina 24 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:43.116764+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 211537335719000,
+    "name": "Pumpkin spice latte",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Zucca (già pulita) 160 g",
+      "Zucchero 30 g",
+      "Acqua 200 g",
+      "Cannella in polvere q.b.",
+      "Zenzero in polvere q.b.",
+      "Chiodi di garofano q.b.",
+      "Noce moscata q.b.",
+      "Caffè 60 g",
+      "Latte freddo 200 g",
+      "Panna fresca liquida 100 g",
+      "Zucchero a velo 10 g",
+      "Cannella in polvere q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pumpkin-spice-latte.html",
+    "image_url": "https://www.giallozafferano.it/images/305-30550/Pumpkin-spice-latte_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 310.3,
+    "protein": null,
+    "carbs": 32.5,
+    "fats": 18.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Zucca (già pulita) 160 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cannella in polvere q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zenzero in polvere q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Chiodi di garofano q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Noce moscata q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Caffè 60 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte freddo 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Panna fresca liquida 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero a velo 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cannella in polvere q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il pumpkin spice latte, iniziate dalla crema di zucca: pulite la zucca 1 eliminando buccia, semi e filamenti, poi tagliate a cubetti 2 160 g di polpa 3 .",
+      "Mettete i cubetti di zucca in una pirofila capiente 4 , coprite con pellicola trasparente 5 , bucherellate la superficie e cuocete in microonde alla massima potenza per 6 minuti 6 . Se non avete il microonde, potete cuocere la zucca al vapore: ci vorranno dai 10 ai 12 minuti circa.",
+      "Una volta cotta, trasferite la zucca nel boccale di un mixer a immersione 7 e frullate 8 per ottenere una purea liscia e omogenea 9 . Tenete da parte.",
+      "Occupatevi ora dello sciroppo: in un pentolino versate l’acqua 10 , lo zucchero 11 e le spezie 12 .",
+      "Unite la crema di zucca 13 e portate a bollore, poi fate sobbollire a fuoco dolce per 2 o 3 minuti circa, continuando a mescolare. Tenete da parte lo sciroppo e lasciate raffreddare 14 . Passate alla panna montata: versate la panna fredda in una ciotola 15 e aggiungete lo zucchero a velo.",
+      "Montate con le fruste elettriche 16 fino ad ottenere una consistenza ferma e soda 17 . Dedicatevi ora al latte schiumato: versate il latte in un bicchiere capiente 18 .",
+      "Prendete poi un montatore 19 per ottenere la schiuma 20 . Infine preparate il caffè. Siete pronti per comporre le tazze: versate lo sciroppo di zucca sul fondo 21 .",
+      "Aggiungete una tazzina di caffè 22 , poi versate il latte schiumato 23 e mescolate 24 .",
+      "Completate guarnendo con abbondante panna montata 25 e una spolverata di cannella 26 . Il vostro pumpkin spice latte è pronto per essere gustato 27 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:45.772415+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 73418926199175,
+    "name": "Porridge proteico",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Fiocchi di avena 160 g",
+      "Latte di soia 320 g",
+      "Acqua 320 g",
+      "Banane 1",
+      "Lamponi 10",
+      "Burro di arachidi 2 cucchiai",
+      "Miele di castagno 1 cucchiaio",
+      "Semi di papavero q.b.",
+      "Sale fino 1 cucchiaino"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Porridge-proteico.html",
+    "image_url": "https://www.giallozafferano.it/images/274-27415/Porridge-proteico_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 643.5,
+    "protein": null,
+    "carbs": 95.6,
+    "fats": 21.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fiocchi di avena 160 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte di soia 320 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 320 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Banane 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lamponi 10",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro di arachidi 2 cucchiai",
+        null,
+        "da fonte"
+      ],
+      [
+        "Miele di castagno 1 cucchiaio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Semi di papavero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 cucchiaino",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il porridge proteico versate in un pentolino il latte di soia, l'acqua 1 , i fiocchi d'avena 2 e il sale 3 .",
+      "Addolcite con il miele 4 e mescolate, quindi portate a sfiorare il bollore 5 ; da quel momento contare 5 minuti, il porridge avrà assorbito i liquidi e risulterà morbido ma non colloso. Sbucciate la banana e tagliatela a rondelle 6 .",
+      "Lavate e dividete a metà i lamponi 7 . Nel frattempo il porridge sarà pronto, trasferitelo in una ciotola 8 e aggiungete i semi di papavero 9 .",
+      "Guarnite i piatti con i lamponi 10 , la banana e il burro di arachidi 11 . Il vostro porridge proteico è pronto per essere gustato 12 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:48.503503+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 22982742159258,
+    "name": "Plumcake al tè matcha",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Burro a temperatura ambiente 120 g",
+      "Zucchero 120 g",
+      "Farina 00 100 g",
+      "Tè verde Matcha 20 g",
+      "Uova (2 medie) 110 g",
+      "Lievito in polvere per dolci 8 g",
+      "Burro 10 g",
+      "Farina 00 20 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Plumcake-al-te-matcha.html",
+    "image_url": "https://www.giallozafferano.it/images/168-16890/Plumcake-al-te-matcha_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 498.7,
+    "protein": null,
+    "carbs": 53.6,
+    "fats": 29.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Burro a temperatura ambiente 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tè verde Matcha 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova (2 medie) 110 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 8 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Farina 00 20 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il plumcake al tè matcha, ponete il burro ammorbidito a temperatura ambiente e lo zucchero in una ciotola capiente 1 e lavorate con una frusta elettrica a velocità medio-bassa fino a che il composto non diventerà cremoso 2 ; in questo caso non è consigliabile usare la planetaria perché il volume degli ingredienti è molto ridotto. Versate le uova nella ciotola una alla volta mentre le fruste elettriche sono in funzione, lasciando il tempo al primo uovo di venire assorbito completamente dal composto prima di aggiungere il successivo 3 ;",
+      "alla fine il composto deve risultare chiaro e spumoso 4 . Setacciate la farina insieme al lievito in una ciotola a parte 5 , poi aggiungete gradualmente le polveri al composto, un cucchiaio alla volta, continuando a lavorare con le fruste 6 .",
+      "Quando tutti gli ingredienti saranno ben amalgamati, dividete l’impasto in 2 porzioni del peso di 300 g una e 150 g l'altra in 2 ciotole distinte 7 . Ora, in una ciotolina a parte, setacciate la polvere di tè matcha con un colino a maglie strette 8 e unitela alla ciotola con l’impasto di 300 g 9 .",
+      "Lavorate questo impasto con le fruste elettriche 10 perchè il tè matcha si assorba e si amalgami del tutto, fino ad ottenere una colorazione verde uniforme 11 . Trasferite l’impasto bianco e quello verde in due sac-à-poche usa e getta distinte 12 .",
+      "Imburrate e infarinate 4 stampini da plumcake delle dimensioni di 9,5 x 6,5 x 4 cm 13 . Prendete le due sac-à-poche, tagliate la punta e spremete dei ciuffi all’interno di uno stampino per creare uno strato di colore verde 14 e uno bianco 15 ;",
+      "realizzate un ultimo strato con ciuffetti di impasto verde: non è necessario riempire gli stampini in modo uniforme perché durante la cottura i ciuffi di impasto si allargheranno e andranno a unirsi fra loro, creando un effetto marmorizzato 16 . Procedete in questo modo per tutti e 4 gli stampini. Cuocete i plumcake in forno statico preriscaldato a 180°C per circa 30 minuti. Trascorso il tempo di cottura, verificate con uno stecchino che l’interno dei mini-plumcake sia cotto, poi rimuoveteli dal forno e lasciateli intiepidire negli stampini 17 ; una volta intiepiditi, potrete sformarli (per staccarli più facilmente potete usare la lama di un coltello lungo tutto il perimetro dello stampino). I vostri plumcake al tè matcha sono pronti per essere serviti 18 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:51.223224+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 112890916408686,
+    "name": "Pizza in teglia con il cucchiaio",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 0 550 g",
+      "Acqua 440 g",
+      "Olio extravergine d'oliva 30 g",
+      "Lievito di birra fresco 10 g",
+      "Sale fino 10 g",
+      "Passata di pomodoro 300 g",
+      "Olio extravergine d'oliva 25 g",
+      "Origano q.b.",
+      "Sale fino q.b.",
+      "Fiordilatte 250 g",
+      "Basilico q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pizza-in-teglia-con-il-cucchiaio.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36682/Pizza-in-teglia-con-il-cucchiaio_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 867.9,
+    "protein": null,
+    "carbs": 114.2,
+    "fats": 31.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 0 550 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 440 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito di birra fresco 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Passata di pomodoro 300 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 25 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Origano q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fiordilatte 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Basilico q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pizza in teglia con il cucchiaio cominciate lavorando in una ciotola la farina e il lievito 1 insieme all'acqua 2 e mescolate con un cucchiaio o una spatola 3 .",
+      "Non appena l'impasto diventa appiccicoso coprite con pellicola e lasciate riposare 10 minuti 4 . Dopodiché aggiungete l'olio 5 e il sale 6 .",
+      "Quindi mescolate ancora con una spatola o un cucchiaio 7 , coprite e lasciate riposare altri 10 minuti 8 . A questo punto potete dare le pieghe, sempre dalla ciotola con la spatola, quindi sollevate i lembi dell'impasto e portateli al centro 9 .",
+      "Noterete che l'impasto ha cambiato consistenza e risulterà più liscio 10 , coprite con pellicola 11 e fate lievitare a una temperatura di 25-27 gradi per circa 3h o fino al raddoppio 12 .",
+      "Ungete una teglia rettangolare di 30x40 cm 13 e rovesciate l'impasto all'interno 14 . Cominciate ad allargarlo con le mani 15 .",
+      "Quindi coprite di nuovo per 10 minuti 16 . Intanto preparate il condimento: mescolate passata di pomodoro, sale, origano e circa metà dell'olio 17 . Recuperate l'impasto e allargatelo ulteriormente con le dita 18 .",
+      "Spalmate il condimento in superficie 19 , ancora un giro d'olio e fate riposare mezzora. Dopodiché infornate a 220° per 30 minuti 20 . Intanto tagliate il fiordilatte e mettetelo a scolare in un colino 21 .",
+      "Trascorso il tempo di cottura 22 mettete il fiordilatte sulla pizza e cuocete per altri 10 minuti 23 . Completate con il basilico e un pizzico di pepe e la vostra pizza in teglia con il cucchiaio è pronta 24 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:53.835197+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 30153711962162,
+    "name": "Panino al salame con crema di provolone e melanzane",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Pane (4 rosette) 250 g",
+      "Salame di Milano 140 g",
+      "Melanzane 300 g",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva 200 g",
+      "Rosmarino 20 g",
+      "Provolone piccante di Amatrice 100 g",
+      "Panna fresca liquida 130 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Panino-al-salame-con-crema-di-provolone-e-melanzane.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36681/Panino-al-salame-con-crema-di-provolone-e-melanzane_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 953.5,
+    "protein": null,
+    "carbs": 36.9,
+    "fats": 81.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pane (4 rosette) 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Salame di Milano 140 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Melanzane 300 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Rosmarino 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Provolone piccante di Amatrice 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Panna fresca liquida 130 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il panino al salame con crema di provolone e melanzane, iniziate dall’olio aromatizzato: mettete gli aghi di rosmarino lavati e asciugati in un pentolino 1 , aggiungete l’olio 2 e portatelo a 40°. Una volta scaldato, spegnete il fuoco e lasciate raffreddare 3 .",
+      "Intanto occupatevi delle melanzane: spuntatele e tagliatele a fette sottili 4 , poi adagiatele su una griglia ben calda 5 e cuocete per 3-4 minuti per lato, a seconda dello spessore 6 . Una volta grigliate, trasferite le melanzane in una ciotola.",
+      "Nel frattempo filtrate l’olio aromatizzato 7 . Condite le melanzane grigliate con l’olio al rosmarino 8 e il sale 9 .",
+      "Passate alla crema di provolone: scaldate la panna in un pentolino 10 e grattugiate il provolone 11 . Quando la panna sarà calda, togliete il pentolino dal fuoco e unite il formaggio grattugiato in più volte 12 . Mescolate bene con una frusta per scioglierlo completamente.",
+      "Siete pronti per assemblare i panini: dividete la rosetta a metà con un coltello seghettato 13 , poi distribuite un cucchiaio di crema di provolone sulla base 14 e aggiungete le melanzane grigliate 15 .",
+      "Farcite con le fette di salame 16 , ricoprite con ancora poca salsa 17 e chiudete con la calotta. Il vostro panino al salame con crema di provolone e melanzane è pronto per essere gustato 18 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:56.446151+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 195906486229640,
+    "name": "Mini pie salate di formaggio e mele",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Pasta Sfoglia (2 rotoli rettangolari) 460 g",
+      "Mele Fuji 1",
+      "Provola 150 g",
+      "Uova 1",
+      "Tuorli 1",
+      "Panna fresca liquida 25 g",
+      "Noce moscata q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Burro q.b.",
+      "Tuorli 1",
+      "Latte intero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Mini-pie-salate-di-formaggio-e-mele.html",
+    "image_url": "https://www.giallozafferano.it/images/181-18149/Mini-pie-salate-di-formaggio-e-mele_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 858.0,
+    "protein": null,
+    "carbs": 60.5,
+    "fats": 60.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pasta Sfoglia (2 rotoli rettangolari) 460 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mele Fuji 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Provola 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tuorli 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Panna fresca liquida 25 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Noce moscata q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tuorli 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Latte intero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare le mini pie salate di formaggio e mele, lavate la mela e dividetela prima a metà 1 e poi in quarti 2 , dopodiché eliminate il torsolo 3 .",
+      "Riducete due quarti di mela a bastoncini 4 e dividete i bastoncini a metà 5 . Infine, tagliate i restanti due quarti di mela a fettine piuttosto sottili (vi occorrerrano 12 fettine) 6 .",
+      "Riducete la provola a fettine e poi a dadini 7 , trasferitela in una ciotola e unite l’uovo intero 8 , il tuorlo e la panna 9 .",
+      "Salate e pepate 10 e aggiungete un pizzico di noce moscata 11 . Mescolate per amalgamare bene il tutto 12 e tenete da parte.",
+      "Ora stendete il primo rotolo di pasta sfoglia e ricavate 4 dischi utilizzando un coppapasta del diametro di 10 cm 13 . Imburrate 4 stampi da tartellette del diametro di 8 cm e rivestiteli con i dischi di sfoglia che avete appena ritagliato 14 , facendo aderire bene sia la base che i bordi. Distribuite un cucchiaio del composto di uova e formaggio per ciascuna tartelletta 15 ,",
+      "poi aggiungete circa mezzo cucchiaio di mela tagliata a bastoncini 16 e ricoprite con un altro strato del composto di formaggio e uova 17 . Terminate adagiando in cima 3 sottili fettine di mela per ciascuna tartelletta 18 .",
+      "A questo punto stendete il secondo rotolo di pasta sfoglia e ritagliate altri 4 dischi con lo stesso coppapasta di 10 cm di diametro, poi utilizzate un coltellino per praticare 3 tagli al centro, facendo attenzione a non incidere la sfoglia fino ai bordi (19-20). Adagiate il disco di sfoglia così intagliato su ogni tartelletta in modo da coprire il ripieno e premete con le dita lungo i bordi per sigillarlo 21 .",
+      "Sbattete il tuorlo con poco latte in una ciotolina e spennellate le mini pie con il composto ottenuto 22 , poi cuocete in forno statico preriscaldato a 180° per 20-25 minuti, fino a quando non saranno belle dorate 23 . Le vostre mini pie salate di formaggio e mele sono pronte per essere servite ancora tiepide 24 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:56:59.178647+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 275076523513603,
+    "name": "Minestra di riso e patate",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Riso Carnaroli 320 g",
+      "Patate 650 g",
+      "Passata di pomodoro 100 g",
+      "Olio extravergine d'oliva q.b.",
+      "Carote 1",
+      "Cipolle &frac12;",
+      "Sedano &frac12;",
+      "Sale q.b.",
+      "Pepe nero q.b.",
+      "Brodo vegetale 1,5 l",
+      "Grana Padano DOP q.b.",
+      "Basilico q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Minestra-di-riso-e-patate.html",
+    "image_url": "https://www.giallozafferano.it/images/268-26825/Minestra-di-riso-e-patate_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 520.9,
+    "protein": null,
+    "carbs": 98.5,
+    "fats": 9.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Riso Carnaroli 320 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Patate 650 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Passata di pomodoro 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Carote 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cipolle &frac12;",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sedano &frac12;",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Brodo vegetale 1,5 l",
+        null,
+        "da fonte"
+      ],
+      [
+        "Grana Padano DOP q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Basilico q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la minestra di riso e patate pelate le patate 1 e tagliatele a cubetti di circa 2 cm 2 . Intanto versate in un tegame ampio l'olio 3 .",
+      "Aggiungete il trito di carota 4 , cipolla e sedano 5 . Fate appassire per qualche minuto, quindi versate le patate 6 .",
+      "Insaporite con la passata di pomodoro 7 , sale, pepe 8 e coprite con del brodo vegetale caldo 9 , fate cuocere per 20 minuti, o il tempo necessario a far ammorbidire le patate.",
+      "Quando le patate saranno cotte, unite il riso 10 , portate a cottura seguendo i tempi indicati sulla confezione e aggiungendo il brodo al bisogno 11 . La minestra di riso e patate è pronta 12 .",
+      "Servite la minestra calda 13 , con un filo di olio, del Grana Padano a piacere 14 e delle foglioline di basilico fresco 15 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:57:01.786279+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 22236432663090,
+    "name": "Minestra di riso con legumi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Riso per risotti 240 g",
+      "Legumi misti precotti 260 g",
+      "Patate 430 g",
+      "Carote 120 g",
+      "Sedano 80 g",
+      "Scalogno 80 g",
+      "Passata di pomodoro 250 g",
+      "Acqua 800 g",
+      "Timo q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Minestra-di-riso-con-legumi.html",
+    "image_url": "https://www.giallozafferano.it/images/292-29297/Minestra-di-riso-con-legumi_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 647.8,
+    "protein": null,
+    "carbs": 120.8,
+    "fats": 9.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Riso per risotti 240 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Legumi misti precotti 260 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Patate 430 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Carote 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sedano 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scalogno 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Passata di pomodoro 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Acqua 800 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Timo q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la minestra di riso con legumi lavate e tagliate a brunoise le verdure per il soffritto, ovvero sedano, carota e cipolla 1 . Pelate le patate e tagliatele cubetti di circa 2 cm 2 . In una casseruola versate l’olio e il trito per il soffritto 3 .",
+      "Stufate a fuoco dolce per circa 10 minuti 4 , poi aggiungete le patate 5 e mescolate 6 .",
+      "Unite anche la passata di pomodoro 7 e i legumi 8 . Cuocete per un paio di minuti, poi versate l'acqua 9 .",
+      "Coprite con un coperchio 10 e cuocete a fuoco medio per 20 minuti. Trascorso il tempo di cottura, versate il riso 11 e mescolate, poi aggiustate di sale 12 . Coprite con il coperchio e lasciate andare sul fuoco per altri 10 minuti, mescolando ogni tanto.",
+      "Trascorsi i 10 minuti 13 , servite la vostra minestra di riso con legumi completando con una spolverata di pepe nero, un filo d'olio 14 e qualche fogliolina di timo 15 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:57:04.413471+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 90872653943460,
+    "name": "Minestra autunnale",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farro 250 g",
+      "Verza 400 g",
+      "Zucca 500 g",
+      "Lenticchie secche 300 g",
+      "Funghi secchi porcini 30 g",
+      "Scalogno 1",
+      "Salvia q.b.",
+      "Rosmarino q.b.",
+      "Timo q.b.",
+      "Olio extravergine d'oliva 20 g",
+      "Castagne 100 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Minestra-autunnale.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36689/Minestra-autunnale_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 658.1,
+    "protein": null,
+    "carbs": 124.3,
+    "fats": 8.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farro 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Verza 400 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucca 500 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lenticchie secche 300 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Funghi secchi porcini 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scalogno 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Salvia q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Rosmarino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Timo q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Castagne 100 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la minestra autunnale, iniziate dalle castagne: incidetele con un coltellino 1 , sistematele in una pentola e copritele con acqua fredda 2 . Accendete il fuoco e cuocetele per circa 40 minuti. Nel frattempo pulite la zucca eliminando la buccia 3 ed eventuali semi e filamenti interni.",
+      "A questo punto tagliatela prima a fette 4 e poi a tocchetti di circa 1 cm 5 . Mondate lo scalogno e tagliatelo a rondelle. Versate l’olio in una pentola capiente, aggiungete lo scalogno 6 , salate e lasciatelo stufare dolcemente.",
+      "Unite la zucca 7 , salate 8 e cuocete per circa 5 minuti. Sciacquate le lenticchie sotto l’acqua corrente e aggiungetele nella pentola con la zucca 9 .",
+      "Mescolate 10 e coprite con circa 1 litro di acqua calda 11 . Legate insieme le erbe aromatiche e unitele alla zuppa 12 . Lasciate cuocere circa 20-25 minuti.",
+      "Mentre le lenticchie cuociono, mettete i funghi porcini secchi in ammollo in 200 g di acqua calda 13 per circa 20 minuti 14 . Quando si saranno ammorbiditi, scolateli conservando l’acqua di ammollo e tritateli grossolanamente al coltello 15 .",
+      "Aggiungete i funghi alle lenticchie 16 insieme al farro 17 e versate anche l’acqua di ammollo dei porcini 18 . Lasciate cuocere per circa 15 minuti.",
+      "Mondate la verza e tagliatela a striscioline 19 . A questo punto scolate anche le castagne ormai cotte 20 , lasciatele intiepidire quanto basta per maneggiarle, quindi sbucciatele e riducetele a pezzetti 21 .",
+      "Unite la verza nella pentola 22 e proseguite la cottura per 5-10 minuti fino a quando il farro, le lenticchie e le verdure saranno cotti. Se la zuppa dovesse asciugarsi troppo potete aggiungere ancora un po' di acqua calda. A fine cottura aggiungete una macinata di pepe 23 , eliminate il mazzetto aromatico, e aggiungete un trito di erbe aromatiche 24 .",
+      "Completate con un filo d’olio extravergine d’oliva e mescolate 25 . Distribuite la minestra autunnale nei piatti e terminate con le castagne sbriciolate 26 . Servite la vostra zuppa ben calda 27 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:57:07.077234+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 103398610939236,
+    "name": "Matcha latte",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Latte intero 240 g",
+      "Tè verde Matcha 4 g",
+      "Tè verde Matcha q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Matcha-latte.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36695/Matcha-latte_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 73.2,
+    "protein": null,
+    "carbs": 5.8,
+    "fats": 3.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Latte intero 240 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tè verde Matcha 4 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Tè verde Matcha q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il matcha latte, versate nel cappuccinatore metà dose di latte 1 e di tè matcha in polvere 2 . Azionatelo fino ad ottenere un composto caldo e ben montato 3 .",
+      "Trasferite la bevanda in una tazza trasparente 4 e procedete nello stesso modo per preparare la seconda tazza. Infine spolverizzate la superficie con altro tè matcha a piacere 5 . Il vostro matcha latte è pronto per essere gustato 6 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:57:09.708179+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
+  },
+  {
+    "id": 1473122248830,
+    "name": "Mandarini di Halloween",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Mandarini 1 kg",
+      "Zucchero 200 g",
+      "Cioccolato fondente al 55% 400 g",
+      "Panna fresca liquida 200 ml",
+      "Cioccolato fondente 50 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Mandarini-di-Halloween.html",
+    "image_url": "https://www.giallozafferano.it/images/366-36686/Mandarini-di-Halloween_1200x800_wm.jpg",
+    "servings": null,
+    "kcal": 573.1,
+    "protein": null,
+    "carbs": 68.2,
+    "fats": 32.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Mandarini 1 kg",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cioccolato fondente al 55% 400 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Panna fresca liquida 200 ml",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cioccolato fondente 50 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare i mandarini di Halloween, tagliate la parte superiore dei mandarini 1 2 e, con l’aiuto di un coltello e un cucchiaio, ricavate la polpa 3 , facendo attenzione a non bucare il fondo.",
+      "Tenete da parte i gusci privati della polpa 4 . In un pentolino inserite la polpa e lo zucchero 5 , lasciate cuocete a fuoco medio-basso per 30 minuti 6 .",
+      "Dovrete ottenere una purea omogenea 7 . Se dovessero rimanere dei pezzi grossolani, potete frullare tutto con il mixer a immersione. Trasferite in una ciotola e lasciate raffreddare, poi farcite i mandarini con la purea ottenuta 8 9 . Lasciateli rapprendere in frigorifero per 10 minuti.",
+      "Passate alla preparazione della ganache. Tritate finemente il cioccolato 10 e fondetelo a bagnomaria 11 (o in microonde). Scaldate quindi la panna in un pentolino, deve arrivare a una temperatura di circa 80° 12 .",
+      "Versate la panna calda nel cioccolato 13 e mescolate 14 per ottenere una crema omogenea. Lasciate rapprendere la ganache a temperatura ambiente o in frigo, mescolandola di tanto in tanto fin quando otterrete una consistenza tipo pomata. Ora sciogliete il cioccolato per la decorazione (in microonde o a bagnomaria), trasferitelo in un conetto di carta e disegnate le tipiche faccine sui mandarini 15 .",
+      "Ispiratevi alle classiche decorazioni della zucca per ottenere una resa simile 16 . A questo punto farcite i mandarini con la ganache utilizzando un sac-à-poche con bocchetta stellata per creare un ciuffetto 17 . I mandarini di Halloween sono pronti per la festa 18 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T11:57:12.413870+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    }
   }
 ]

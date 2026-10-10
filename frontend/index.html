@@ -15,7 +15,80 @@
 /* Centra l'ultima scheda nei layout a due colonne quando il totale e dispari. */
 .weekly-recipes-grid > .recipecard:last-child:nth-child(odd){grid-column:1 / -1;width:calc((100% - 13px)/2);justify-self:center}
 @media(max-width:760px){.weekly-recipes-grid > .recipecard:last-child:nth-child(odd){grid-column:auto;width:100%}}
-.source-switch{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:13px 15px;margin-top:17px;border:1px solid var(--line);background:var(--surface);border-radius:14px}.source-switch small{display:block;color:var(--muted);font-size:11px;margin-top:3px}@media(max-width:550px){.source-switch{flex-direction:column;align-items:stretch}.source-switch button{width:100%}}<style>.detailhero img,.recipephoto{width:100%;height:100%;object-fit:cover;border-radius:inherit;position:absolute;inset:0;z-index:2}.detailhero{position:relative;overflow:hidden}.thumb{overflow:hidden;position:relative}.thumbphoto{width:100%;height:100%;object-fit:cover}</style></head>
+.source-switch{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:13px 15px;margin-top:17px;border:1px solid var(--line);background:var(--surface);border-radius:14px}.source-switch small{display:block;color:var(--muted);font-size:11px;margin-top:3px}@media(max-width:550px){.source-switch{flex-direction:column;align-items:stretch}.source-switch button{width:100%}}.detailhero img,.recipephoto{width:100%;height:100%;object-fit:cover;border-radius:inherit;position:absolute;inset:0;z-index:2}.detailhero{position:relative;overflow:hidden}.thumb{overflow:hidden;position:relative}.thumbphoto{width:100%;height:100%;object-fit:cover}
+/* Cheffino mobile polish: conserva card e gerarchia visiva del desktop. */
+@media (max-width:760px){
+  html,body,.app{max-width:100%;overflow-x:clip}
+  .wrap{padding:22px 14px 48px}
+  .topbar{padding:0 14px;gap:8px}
+  .brand{font-size:20px;white-space:nowrap}
+  .topright{min-width:0}
+  .topright .btn{padding:9px 11px;font-size:12px;white-space:nowrap}
+  .panel{padding:18px 15px}
+  .stephead{align-items:flex-start;gap:8px}
+  .stepcount{white-space:nowrap;font-size:11px}
+  .h1{font-size:clamp(25px,7vw,32px);line-height:1.12;letter-spacing:-1px}
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .choice{padding:13px;min-width:0;overflow-wrap:anywhere}
+  .footer{flex-wrap:wrap;gap:10px}
+  .footer>.hint{order:3;flex-basis:100%;text-align:center}
+  .days{grid-template-columns:repeat(7,minmax(0,1fr));gap:5px}
+  .daycheck{min-width:0;padding:10px 0}
+  .summarybar{grid-template-columns:repeat(2,minmax(0,1fr));gap:0;padding:7px 10px}
+  .summaryitem{min-width:0;padding:12px 9px;border-right:0;border-bottom:1px solid var(--line)}
+  .summaryitem:nth-child(odd){border-right:1px solid var(--line)}
+  .summaryitem:nth-last-child(1){border-bottom:0}
+  .summaryvalue{overflow-wrap:anywhere;font-size:13px}
+  .summarylabel{font-size:11px}
+  .actiongrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-bottom:27px}
+  .actioncard{min-width:0;display:flex;flex-direction:column;align-items:flex-start;gap:8px;padding:13px}
+  .actioncard strong{font-size:14px;line-height:1.25}
+  .actioncard span{font-size:11px}
+  .actioncard>span:last-child{display:none}
+  .recipegrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .recipecard{display:flex;flex-direction:column;align-items:stretch;gap:9px;min-width:0;padding:9px;border-radius:16px}
+  .recipecard>.thumb{width:100%;height:auto;aspect-ratio:1.55;flex-shrink:0;font-size:38px}
+  .recipecard>div:nth-child(2){min-width:0;display:flex;flex-direction:column;flex:1}
+  .recipecard h3{font-size:13px;line-height:1.28;overflow-wrap:anywhere;margin:7px 0}
+  .recipecard .cardmeta{font-size:11px;line-height:1.35;overflow-wrap:anywhere;margin:0 0 8px}
+  .recipecard .cardtop{align-items:center}
+  .recipecard .iconbtn{min-width:27px;min-height:30px}
+  .recipecard .cardactions{margin-top:auto;justify-content:space-between;gap:5px}
+  .recipecard .smallbtn{font-size:11px;padding:7px 8px;white-space:normal;text-align:center}
+  .weekly-recipes-grid>.recipecard:last-child:nth-child(odd){grid-column:1/-1;width:calc((100% - 10px)/2);justify-self:center}
+  .saved-heading{align-items:center}
+  .saved-heading h2{font-size:21px!important}
+  .saved-all{font-size:12px;padding:6px 0}
+  .modal{padding:18px 15px;max-height:calc(100dvh - 32px);border-radius:18px}
+  .modalhead{align-items:flex-start}
+  .modalhead h2{font-size:20px;overflow-wrap:anywhere}
+  .detailmetrics{grid-template-columns:repeat(4,minmax(0,1fr));gap:5px}
+  .detailmetric{padding:12px 3px}
+  .detailmetric b{font-size:12px;line-height:1.2}
+  .detailmetric span{font-size:10px}
+  .detailmacros{gap:6px}
+  .detailmacro{padding:12px 3px}
+  .detailmacro b{font-size:14px}
+  .source-switch{gap:10px}
+}
+@media(max-width:400px){
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .recipegrid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .recipecard{grid-template-columns:unset}
+  .recipecard>.thumb{height:auto}
+  .weekly-recipes-grid>.recipecard:last-child:nth-child(odd){grid-column:1/-1;width:calc((100% - 10px)/2)}
+  .pill{display:none}
+  .actioncard{padding:11px}
+  .detailmetrics{gap:4px}
+}
+@media(max-width:350px){
+  .recipegrid{gap:7px}
+  .recipecard{padding:7px}
+  .recipecard h3{font-size:12px}
+  .recipecard .smallbtn{padding:6px 5px}
+  .summarybar{padding:5px}
+}
+</style></head>
 <body><div class="app" id="app"><header class="topbar"><div class="brand"><div class="logo">👨‍🍳</div>cheffino</div><div class="topright"><span class="pill">IL TUO ASSISTENTE IN CUCINA</span><button class="btn" id="resetBtn">↻ Ricomincia</button></div></header><main class="wrap" id="main"></main></div><div id="modalRoot"></div><input id="cheffinoBackupInput" type="file" accept="application/json,.json" style="display:none" onchange="importCheffinoBackup(this)">
 <script>
 const supermarkets=['Aldi','Alì','Bennet','Carrefour','Conad','Coop','Dec','Despar','Dodecà','Esselunga','Eurospin','Famila','Il Gigante','Lidl','MD','PAM','Penny','Sole365','Tigros'];

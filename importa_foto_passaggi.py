@@ -24,7 +24,7 @@ from pulisci_procedimenti import clean_steps, candidates
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
-IMAGE_VERSION = 3
+IMAGE_VERSION = 4
 
 
 def normalize(s):
@@ -51,11 +51,28 @@ class ImagesHTML(HTMLParser):
         self.base_url = base_url
         self.photos = {}
         self.og_image = None
+        self.image_samples = []
+        self.image_tag_count = 0
+        self.source_tag_count = 0
 
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
         if tag == 'meta' and (a.get('property') == 'og:image' or a.get('name') == 'twitter:image'):
             self.og_image = self.og_image or valid_image(a.get('content'), self.base_url)
+        if tag in ('img', 'source'):
+            if tag == 'img':
+                self.image_tag_count += 1
+            else:
+                self.source_tag_count += 1
+            # A diagnostic sample of the public page, with no downloaded images.
+            # Keep only useful strings, with a strict size limit in GitHub logs.
+            if len(self.image_samples) < 35:
+                src = next((a.get(k) for k in ('data-src', 'data-lazy-src', 'data-original', 'src', 'data-srcset', 'srcset') if a.get(k)), '')
+                alt_text = re.sub(r'\s+', ' ', a.get('alt', '') or '').strip()[:110]
+                url_hint = (src or '').split('?')[0].split('/')[-1][:105]
+                cls = re.sub(r'\s+', ' ', a.get('class', '') or '').strip()[:75]
+                if alt_text or url_hint:
+                    self.image_samples.append((tag, alt_text, url_hint, cls))
         if tag != 'img':
             return
         alt = normalize(a.get('alt'))
@@ -161,6 +178,7 @@ def run(catalog_path=CATALOG, limit=12, delay=2.5, fetcher=fetch_html, policy=No
                                 not missing(r), str(r.get('name', ''))))
     checked = main_added = step_added = blocked = errors = no_match = 0
     missing_main_before = 0
+    examples_printed = 0
     reasons = {'no_numbered_photos': 0, 'steps_mismatch': 0, 'numbering_mismatch': 0, 'other': 0}
     for rec in pending:
         if checked >= limit:
@@ -214,6 +232,11 @@ def run(catalog_path=CATALOG, limit=12, delay=2.5, fetcher=fetch_html, policy=No
                         reason = 'other'
                     reasons[reason] += 1
                     print(f"Foto non abbinabili: {rec['name']} | motivo={reason} | foto numerate={len(parser.photos)} | passaggi salvati={len(rec['steps'])} | passaggi fonte={original_count} | immagine_principale={'si' if rec.get('image_url') else 'no'}")
+                    if reason == 'no_numbered_photos' and examples_printed < 3:
+                        examples_printed += 1
+                        print(f"DIAGNOSTICA HTML: {rec['name']} | tag_img={parser.image_tag_count} | tag_source={parser.source_tag_count} | campioni={len(parser.image_samples)}")
+                        for tag, alt_text, filename, css in parser.image_samples[:12]:
+                            print(f"  FOTO HTML tag={tag} | alt={alt_text!r} | file={filename!r} | classe={css!r}")
             rec['images_import_version'] = IMAGE_VERSION
             rec['step_images_checked_at'] = datetime.now(timezone.utc).isoformat()
             checked += 1

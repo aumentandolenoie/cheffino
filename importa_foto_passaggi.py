@@ -1,9 +1,11 @@
-"""Recupera le foto numerate dei passaggi di GialloZafferano.
+"""Arricchisce il catalogo Cheffino con immagini ORIGINALI indicate dalle pagine GialloZafferano.
 
-Usa SOLO URL di foto che compaiono realmente nell'HTML, con alt che
-corrisponde al titolo della ricetta seguito da un numero. Non indovina URL.
-Associa tre immagini per blocco testuale SOLO quando il conteggio è esatto.
-Non modifica steps, approvazioni o restrizioni alimentari.
+- Recupera l'immagine principale da JSON-LD Recipe e, se assente, da og:image.
+- Per i passaggi utilizza i riferimenti numerici del procedimento originale,
+  associando SOLO foto con alt 'Titolo ricetta - N' e numeri corrispondenti.
+- Per ricette senza riferimenti numerici accetta solo corrispondenza esatta 1:1 / 3:1.
+- Ritenta schede precedentemente controllate senza immagini; non riscarica quelle complete.
+- Non cambia ingredienti, procedimenti, classificazioni o approvazioni.
 """
 import argparse
 import json
@@ -16,76 +18,107 @@ from urllib.parse import urljoin, urlparse
 from urllib.request import Request, urlopen
 from urllib.robotparser import RobotFileParser
 
+from app.catalog import parse_recipe
+from pulisci_procedimenti import clean_steps, candidates
+
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
+IMAGE_VERSION = 2
 
 
 def normalize(s):
     return re.sub(r'\s+', ' ', str(s or '')).strip().casefold()
 
 
-class PhotoParser(HTMLParser):
-    def __init__(self, title, base_url):
+def valid_image(value, base_url):
+    if not isinstance(value, str) or not value.strip() or value.startswith(('data:', 'blob:')):
+        return None
+    value = urljoin(base_url, value.strip())
+    p = urlparse(value)
+    host = (p.hostname or '').lower()
+    if p.scheme != 'https' or not (host == 'giallozafferano.it' or host.endswith('.giallozafferano.it')):
+        return None
+    if not re.search(r'\.(?:jpe?g|png|webp)(?:$|\?)', p.path + ('?' + p.query if p.query else ''), re.I):
+        return None
+    return value
+
+
+class ImagesHTML(HTMLParser):
+    def __init__(self, name, base_url):
         super().__init__(convert_charrefs=True)
-        self.title = normalize(title)
+        self.name = normalize(name)
         self.base_url = base_url
-        self.found = {}
+        self.photos = {}
+        self.og_image = None
 
     def handle_starttag(self, tag, attrs):
+        a = dict(attrs)
+        if tag == 'meta' and (a.get('property') == 'og:image' or a.get('name') == 'twitter:image'):
+            self.og_image = self.og_image or valid_image(a.get('content'), self.base_url)
         if tag != 'img':
             return
-        props = dict(attrs)
-        alt = normalize(props.get('alt', ''))
-        # Per esempio: 'Sgombro in padella - 1'. Non includere immagini
-        # principali, consigliate o gallerie prive di numerazione.
+        alt = normalize(a.get('alt'))
         match = re.fullmatch(r'(.+?)\s*[-–]\s*(\d{1,3})', alt)
-        if not match or normalize(match.group(1)) != self.title:
+        if not match or normalize(match.group(1)) != self.name:
             return
-        number = int(match.group(2))
-        if not 1 <= number <= 90:
+        n = int(match.group(2))
+        if not 1 <= n <= 120:
             return
         url = None
-        for key in ('data-src', 'data-lazy-src', 'data-original', 'src'):
-            v = (props.get(key) or '').strip()
-            if v and not v.startswith(('data:', 'blob:')):
-                url = v
+        for field in ('data-src', 'data-lazy-src', 'data-original', 'src'):
+            url = valid_image(a.get(field), self.base_url)
+            if url:
                 break
         if not url:
-            for key in ('data-srcset', 'srcset'):
-                values = (props.get(key) or '').split(',')
-                if values:
-                    url = values[0].strip().split(' ')[0]
+            for field in ('data-srcset', 'srcset'):
+                srcset = a.get(field, '') or ''
+                for part in srcset.split(','):
+                    url = valid_image(part.strip().split()[0] if part.strip() else None, self.base_url)
+                    if url:
+                        break
+                if url:
                     break
-        if not url:
-            return
-        url = urljoin(self.base_url, url)
-        parsed = urlparse(url)
-        # GZ serve foto normalmente da www.giallozafferano.it.
-        if parsed.scheme != 'https' or not (parsed.hostname == 'giallozafferano.it' or
-            (parsed.hostname or '').endswith('.giallozafferano.it')):
-            return
-        self.found[number] = url
+        if url:
+            self.photos[n] = url
 
 
-def get_photo_groups(html, name, url, step_count):
-    if step_count < 1:
+def original_steps(html, url, stored):
+    try:
+        source = parse_recipe(html, url)['steps']
+    except (ValueError, TypeError, KeyError):
+        return None
+    cleaned, _ = clean_steps(source)
+    if len(cleaned) != len(stored):
+        return None
+    if all(normalize(a) == normalize(b) for a, b in zip(cleaned, stored)):
+        return source
+    return None
+
+
+def associate_steps(parser, source_steps, count):
+    """Use source photo references when available, falling back to exact cardinality."""
+    photo = parser.photos
+    if not photo or count < 1:
         return []
-    parser = PhotoParser(name, url)
-    parser.feed(html)
-    numbers = sorted(parser.found)
-    if not numbers or numbers != list(range(1, len(numbers) + 1)):
-        return []
-    # GZ mostra tipicamente 3 immagini numerate per blocco di istruzioni.
-    # Se la relazione non è verificabile, non visualizziamo foto abbinate male.
-    if len(numbers) == step_count * 3:
-        size = 3
-    elif len(numbers) == step_count:
-        size = 1
-    else:
-        return []
-    return [[parser.found[n] for n in range(i * size + 1, (i + 1) * size + 1)]
-            for i in range(step_count)]
+    keys = sorted(photo)
+    if source_steps:
+        hits = candidates(source_steps)
+        # Only accept an unambiguous sequence 1..N. No picture can be shifted
+        # from one text block to another.
+        if hits and [h[3] for h in hits] == list(range(1, len(hits)+1)):
+            blocks = [[] for _ in range(count)]
+            for idx, _a, _b, num in hits:
+                if num in photo:
+                    blocks[idx].append(photo[num])
+            if any(blocks):
+                return blocks
+    if keys == list(range(1, len(keys)+1)):
+        if len(keys) == count:
+            return [[photo[i + 1]] for i in range(count)]
+        if len(keys) == count * 3:
+            return [[photo[j] for j in range(i*3 + 1, i*3 + 4)] for i in range(count)]
+    return []
 
 
 def robots_policy():
@@ -102,34 +135,35 @@ def robots_policy():
 def fetch_html(url):
     req = Request(url, headers={'User-Agent': UA, 'Accept': 'text/html'})
     with urlopen(req, timeout=25) as response:
-        final = response.geturl()
-        if urlparse(final).hostname != 'ricette.giallozafferano.it':
+        if urlparse(response.geturl()).hostname != 'ricette.giallozafferano.it':
             raise ValueError('Redirect fuori dal dominio previsto')
-        page = response.read(4_000_001)
-    if len(page) > 4_000_000:
+        body = response.read(4_000_001)
+    if len(body) > 4_000_000:
         raise ValueError('Pagina troppo grande')
-    return page.decode('utf-8', 'replace')
+    return body.decode('utf-8', 'replace')
 
 
 def run(catalog_path=CATALOG, limit=12, delay=2.5, fetcher=fetch_html, policy=None):
-    data = json.loads(Path(catalog_path).read_text(encoding='utf-8'))
-    if not isinstance(data, list):
-        raise ValueError('Catalogo non valido')
+    path = Path(catalog_path)
+    catalog = json.loads(path.read_text(encoding='utf-8'))
+    if not isinstance(catalog, list):
+        raise ValueError('Il catalogo deve essere una lista')
     if policy is None:
         policy = robots_policy()
-    checked = associated = no_match = blocked = errors = 0
-    # Prima la ricetta di test e le schede gia approvate per il piano.
-    ordered = sorted(data, key=lambda r: (
-        0 if str(r.get('name', '')).casefold() == 'sgombro in padella' else
-        1 if r.get('validazione_automatica', {}).get('approved') else 2))
-    for recipe in ordered:
+    # Prioritize approved recipes lacking images, then all others needing a retry.
+    def missing(r):
+        return not r.get('image_url') or not any(r.get('step_images') or [])
+    pending = [r for r in catalog if r.get('source') == 'GialloZafferano' and
+               r.get('url') and r.get('steps') and
+               (r.get('images_import_version', 0) < IMAGE_VERSION or
+                (not r.get('step_images') and not r.get('image_url')))]
+    pending.sort(key=lambda r: (not bool(r.get('validazione_automatica', {}).get('approved')),
+                                not missing(r), str(r.get('name', ''))))
+    checked = main_added = step_added = blocked = errors = no_match = 0
+    for rec in pending:
         if checked >= limit:
             break
-        if recipe.get('source') != 'GialloZafferano' or not recipe.get('url') or not recipe.get('steps'):
-            continue
-        if recipe.get('step_images_checked_at'):
-            continue
-        url = recipe['url']
+        url = rec['url']
         if urlparse(url).hostname != 'ricette.giallozafferano.it':
             continue
         if not policy.can_fetch(UA, url):
@@ -137,32 +171,52 @@ def run(catalog_path=CATALOG, limit=12, delay=2.5, fetcher=fetch_html, policy=No
             continue
         try:
             html = fetcher(url)
-            groups = get_photo_groups(html, recipe.get('name', ''), url, len(recipe['steps']))
-            if groups:
-                recipe['step_images'] = groups
-                associated += 1
-                print(f"Foto associate: {recipe['name']} | {sum(map(len, groups))} immagini / {len(groups)} passaggi", flush=True)
-            else:
-                no_match += 1
-                print(f"Foto non associabili con certezza: {recipe['name']}", flush=True)
-            recipe['step_images_checked_at'] = datetime.now(timezone.utc).isoformat()
+            parser = ImagesHTML(rec.get('name', ''), url)
+            parser.feed(html)
+            main = None
+            try:
+                main = valid_image(parse_recipe(html, url).get('image_url'), url)
+            except ValueError:
+                pass
+            main = main or parser.og_image
+            if main and not rec.get('image_url'):
+                rec['image_url'] = main
+                main_added += 1
+            if not rec.get('step_images'):
+                raw = original_steps(html, url, rec['steps'])
+                groups = associate_steps(parser, raw, len(rec['steps']))
+                if groups:
+                    rec['step_images'] = groups
+                    if raw:
+                        rec['steps_raw'] = raw
+                        rec['steps_clean'] = list(rec['steps'])
+                    step_added += 1
+                    print(f"Foto passaggi associate: {rec['name']} | {sum(map(len, groups))} immagini / {len(groups)} blocchi")
+                else:
+                    no_match += 1
+                    print(f"Foto non abbinabili: {rec['name']} | foto numerate={len(parser.photos)}")
+            rec['images_import_version'] = IMAGE_VERSION
+            rec['step_images_checked_at'] = datetime.now(timezone.utc).isoformat()
             checked += 1
-            Path(catalog_path).write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+            # Save in increments so a later network failure cannot discard good work.
+            path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         except Exception as exc:
-            errors += 1
             checked += 1
-            print(f'Errore immagini: {url}: {exc}', flush=True)
+            errors += 1
+            print(f'Errore recupero immagini: {rec.get("name")}: {exc}')
         if delay:
             time.sleep(delay)
-    print(f'Foto passaggi: controllate={checked}; associate={associated}; non_associabili={no_match}; robots_bloccate={blocked}; errori={errors}; totale={len(data)}', flush=True)
-    return associated
+    print(f'Immagini v2: controllate={checked}; foto_principali_aggiunte={main_added}; '
+          f'ricette_con_foto_passaggi_aggiunte={step_added}; senza_abbinamento={no_match}; '
+          f'bloccate={blocked}; errori={errors}; rimanenti={max(0,len(pending)-checked)}', flush=True)
+    return main_added, step_added
 
 
 if __name__ == '__main__':
     cli = argparse.ArgumentParser()
     cli.add_argument('--limit', type=int, default=12)
     cli.add_argument('--delay', type=float, default=2.5)
-    opts = cli.parse_args()
-    if not 1 <= opts.limit <= 40 or opts.delay < 2:
-        cli.error('limit da 1 a 40; delay almeno 2 secondi')
-    run(limit=opts.limit, delay=opts.delay)
+    args = cli.parse_args()
+    if not 1 <= args.limit <= 40 or args.delay < 2:
+        cli.error('limit 1..40; delay >= 2')
+    run(limit=args.limit, delay=args.delay)

@@ -1118,7 +1118,35 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_15.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:08:57.251493+00:00"
   },
   {
     "id": 62417905672710,
@@ -1231,7 +1259,35 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_15.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:09:00.012286+00:00"
   },
   {
     "id": 126218907648864,
@@ -1345,7 +1401,40 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_18.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:09:02.796944+00:00"
   },
   {
     "id": 131014755584784,
@@ -1627,7 +1716,55 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23864/zucchette-ripiene-di-nutella_27.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:09:05.401361+00:00"
   },
   {
     "id": 190381413323087,
@@ -1704,7 +1841,8 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images_checked_at": "2026-10-10T14:09:08.044695+00:00"
   },
   {
     "id": 183262695746594,
@@ -1834,7 +1972,8 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images_checked_at": "2026-10-10T14:09:10.682980+00:00"
   },
   {
     "id": 45798059982633,
@@ -1999,7 +2138,80 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_30.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_31.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_32.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_33.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_34.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_35.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_36.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_37.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_38.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_39.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_40.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_41.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_42.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:09:13.474556+00:00"
   },
   {
     "id": 212440586978112,
@@ -2291,7 +2503,8 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images_checked_at": "2026-10-10T14:09:16.095038+00:00"
   },
   {
     "id": 191443079218214,
@@ -2387,7 +2600,8 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images_checked_at": "2026-10-10T14:09:18.850164+00:00"
   },
   {
     "id": 176455757232419,
@@ -2519,7 +2733,35 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/271/27173/torta-con-marmellata_15.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:09:21.705140+00:00"
   },
   {
     "id": 20159596085883,
@@ -2638,7 +2880,8 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images_checked_at": "2026-10-10T14:09:25.342568+00:00"
   },
   {
     "id": 28394982502732,
@@ -10142,6 +10385,2579 @@
       ],
       "type": "Piatto unico",
       "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 83136816315805,
+    "name": "Pasta con pesto di mandorle e pomodorini confit",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Pennette rigate 5 cereali 320 g",
+      "Primosale 150 g",
+      "Mandorle in scaglie 60 g",
+      "Olive taggiasche 30 g",
+      "Parmigiano Reggiano DOP 4 cucchiai",
+      "Olio extravergine d'oliva 3 cucchiai",
+      "Pepe nero q.b.",
+      "Pomodorini ciliegino 200 g",
+      "Zucchero 1 cucchiaino",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pesto-di-mandorle-e-pomodorini-confit.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/179/17998/foto_hd/hd650x433_wm.jpg",
+    "servings": null,
+    "kcal": 723.3,
+    "protein": null,
+    "carbs": 68.4,
+    "fats": 37.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pennette rigate 5 cereali 320 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Primosale 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mandorle in scaglie 60 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olive taggiasche 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Parmigiano Reggiano DOP 4 cucchiai",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 3 cucchiai",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pomodorini ciliegino 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero 1 cucchiaino",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con pesto di mandorle e pomodorini confit, iniziate dai pomodorini: lavateli, divideteli a metà e disponeteli su una leccarda foderata con carta forno rivolgendo la parte tagliata verso l'alto. Spolverizzate con lo zucchero e il sale.",
+      "Condite con un filo d'olio e cuocete in forno ventilato preriscaldato a 120° per circa 2 ore. Una volta cotti, sfornate e lasciate intiepidire 5. Nel frattempo tostate anche le mandorle a fuoco basso per circa 4 minuti fino a che non saranno ben dorate. Ponete sul fuoco una pentola colma d'acqua, salata a piacere, che servirà per la cottura della pasta.",
+      "Non appena i pomodorini saranno freddi, trasferiteli nel bicchiere di un mixer, poi unite le mandorle, il Parmigiano Reggiano grattugiato e frullate il tutto. Aggiungete poi l'olio, un pizzico di pepe e frullate nuovamente. Non appena avrete ottenuto un composto omogeneo, tenete il vostro pesto di mandorle e pomodorini confit da parte.",
+      "Cuocete la pasta per il tempo indicato sulla confezione e nel frattempo tagliate il primosale a cubetti. Trasferite il pesto in un tegame e diluitelo con un mestolo di acqua di cottura.",
+      "Scolate la pasta al dente e trasferitela all'interno del tegame. Aggiungete delle foglioline di timo, le olive taggiasche e mescolate il tutto. Potete condire a piacere con altro formaggio grattugiato.",
+      "Unite il primosale a cubetti, mescolate ancora una volta e servite la vostra pasta con pesto di mandorle e pomodorini confit!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:21.391791+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Condimento",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Condimento",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 143175238491246,
+    "name": "Cosce di pollo al forno",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 65,
+    "ingredients_display": [
+      "Fusi di pollo (8 fusi) 870 g",
+      "Patate 850 g",
+      "Paprika piccante 2 cucchiaini",
+      "Rosmarino 3 rametti",
+      "Timo 3 rametti",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Cosce-di-pollo-al-forno.html",
+    "image_url": "https://www.giallozafferano.it/images/167-16737/Cosce-di-pollo-al-forno_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 580.1,
+    "protein": null,
+    "carbs": 40.2,
+    "fats": 26.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fusi di pollo (8 fusi)",
+        870.0,
+        "g"
+      ],
+      [
+        "Patate",
+        850.0,
+        "g"
+      ],
+      [
+        "Paprika piccante",
+        2.0,
+        "cucchiaini"
+      ],
+      [
+        "Rosmarino",
+        3.0,
+        "rametti"
+      ],
+      [
+        "Timo",
+        3.0,
+        "rametti"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare le cosce di pollo al forno trasferite i fusi in pirofila e conditeli con olio, sale e pepe. Sbucciate le patate.",
+      "Tagliatele in 8 spicchi, adagiatele su teglia rivestita con carta forno e conditele con olio, sale e pepe. Adagiate le cosce di pollo.",
+      "Aromatizzate con timo e rosmarino. In ultimo una spolverata di paprika piccante.",
+      "Cuocete in forno statico preriscaldato a 230° per 40 minuti. Passati 20 minuti girate le cosce di pollo e rimestate le patate per una cottura omogenea. Trascorsi 40 minuti mescolate ancora le patate con una marisa e cuocete per altri 5 minuti sempre a 230° ma passando in modalità ventilata. Servite subito le vostre cosce di pollo al forno!"
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T14:07:24.037555+00:00",
+    "repaired_at": "2026-10-10T14:08:20.370800+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_12.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T14:08:54.607547+00:00"
+  },
+  {
+    "id": 274823696561498,
+    "name": "Insalata di polpo con finocchi e arance",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 70,
+    "ingredients_display": [
+      "Polpo (già eviscerato) 800 g",
+      "Finocchi 700 g",
+      "Arance 2",
+      "Olive nere infornate 100 g",
+      "Olio extravergine d'oliva 50 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Erba cipollina q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-polpo-con-finocchi-e-arance.html",
+    "image_url": "https://www.giallozafferano.it/images/219-21987/Insalata-di-polpo-con-finocchi-e-arance_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 396.4,
+    "protein": null,
+    "carbs": 28.0,
+    "fats": 17.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Polpo (già eviscerato)",
+        800.0,
+        "g"
+      ],
+      [
+        "Finocchi",
+        700.0,
+        "g"
+      ],
+      [
+        "Arance 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olive nere infornate",
+        100.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        50.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Erba cipollina",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'insalata di polpo con finocchi e arance come prima cosa lavate il polpo sotto l'acqua corrente. Ponete sul fuoco un tegame colmo d'acqua, aggiungete il sale e portate a bollore. Quando l'acqua inizierà a bollire tenendo il polpo dalla testa immergete i tentacoli nell'acqua bollente per alcuni secondi, senza scottarvi. Fate questa operazione per due volte,",
+      "poi immergetelo completamente e lasciatelo cuocere per 40 minuti. Trascorso questo tempo scolatelo e raffreddatelo sotto l'acqua fredda.",
+      "Eliminate la pelle che si staccherà facilmente, poi tagliate il polpo a pezzi e tenetelo da parte. Prendete i finocchi, eliminate la parte verde dei ciuffi e tagliate il resto a fette.",
+      "Lavateli bene e asciugateli con un panno da cucina. Trasferiteli poi in una ciotola capiente.",
+      "Pulite l'arancia a vivo e prelevate solo gli spicchi. Tagliateli a cubetti piccoli.",
+      "Unite il polpo ai finocchi, aggiungete i cubetti d'arancia e le olive nere. Regolate di sale e di pepe.",
+      "Aggiungete un filo d'olio e dell'erba cipollina tritata. Mescolate il tutto e conservate in frigorifero fino al momento di servire l'insalata."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:27.208487+00:00",
+    "repaired_at": "2026-10-10T14:08:25.583280+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 216751349649532,
+    "name": "Pasta con pesto di lattuga e calamari",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Fusilli 5 cereali 320 g",
+      "Calamari (già puliti) 220 g",
+      "Taralli pugliesi 100 g",
+      "Scalogno 1",
+      "Paprika dolce 1 cucchiaino",
+      "Finocchietto selvatico q.b.",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Lattuga romana 180 g",
+      "Olio extravergine d'oliva 80 g",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pesto-di-lattuga-e-calamari.html",
+    "image_url": "https://www.giallozafferano.it/images/177-17796/Pasta-con-pesto-di-lattuga-e-calamari_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 678.4,
+    "protein": null,
+    "carbs": 83.4,
+    "fats": 27.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fusilli 5 cereali 320 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Calamari (già puliti) 220 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Taralli pugliesi 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scalogno 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Paprika dolce 1 cucchiaino",
+        null,
+        "da fonte"
+      ],
+      [
+        "Finocchietto selvatico q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lattuga romana 180 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con pesto di lattuga calamari iniziate proprio da quest'ultimi. Noi abbiamo acquistato dei calamari già puliti, ma se i vostri non lo fossero potete seguire la nostra scheda: come pulire i calamari. Incidete il mantello e apritelo a libro. Con un coltello ricavate prima delle listarelle, poi dei cubetti piccoli.",
+      "Tagliate lo scalogno a rondelle sottili e lasciatele soffriggere in padella con un filo d'olio. Non appena sarà ben rosolato unite i cubetti di calamari e saltateli per pochi istanti.",
+      "Aggiungete la paprika dolce e cuocete ancora per un paio di minuti. Poi spegnete la fiamma e unite i ciuffetti di finocchietto selvatico. Tenete da parte i calamari e occupatevi del pesto di lattuga. Lavatela, asciugatela e tagliatela in pezzi, quindi trasferitela nel bicchiere di un mixer.",
+      "Versate poi l'olio e regolate di sale. Frullate il tutto con un mixer ad immersione fino ad ottenere una crema liscia. Trasferite quindi il pesto di lattuga in una ciotolina e copritela con della pellicola a contatto.",
+      "Cuocete la pasta in abbondante acqua salata bollente e scolatela al dente, trasferendola direttamente all'interno di un tegame. Unite il pesto di lattuga, un mestolo di acqua di cottura e saltate il tutto. Aggiungete poi anche metà del ragù di calamari e mescolate ancora.",
+      "Trasferite la pasta nei piatti e aggiungete su ciascuno un pò di ragù di calamari. Guarnite con i taralli sbriciolati e servite la vostra pasta al pesto di lattuga e  calamari."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:32.715674+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Condimento",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Condimento",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 123798501624124,
+    "name": "Cosce di pollo al forno con mele",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 75,
+    "ingredients_display": [
+      "Fusi di pollo (4 fusi) 500 g",
+      "Vino bianco 50 g",
+      "Olio extravergine d'oliva 40 g",
+      "Sale fino 10 g",
+      "Paprika dolce q.b.",
+      "Pepe nero in grani q.b.",
+      "Pepe rosa in grani q.b.",
+      "Pepe bianco in grani q.b.",
+      "Bacche di ginepro q.b.",
+      "Prezzemolo q.b.",
+      "Salvia q.b.",
+      "Rosmarino q.b.",
+      "Timo q.b.",
+      "Mele Fuji (circa 2) 500 g",
+      "Zucchero di canna 5 g",
+      "Sale fino 5 g",
+      "Acqua 50 g",
+      "Succo di limone &frac12;"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Cosce-di-pollo-al-forno-con-mele.html",
+    "image_url": "https://www.giallozafferano.it/images/181-18142/Cosce-di-pollo-al-forno-con-mele_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 449.9,
+    "protein": null,
+    "carbs": 34.0,
+    "fats": 24.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fusi di pollo (4 fusi)",
+        500.0,
+        "g"
+      ],
+      [
+        "Vino bianco",
+        50.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        40.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        10.0,
+        "g"
+      ],
+      [
+        "Paprika dolce",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero in grani",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe rosa in grani",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe bianco in grani",
+        null,
+        "q.b."
+      ],
+      [
+        "Bacche di ginepro",
+        null,
+        "q.b."
+      ],
+      [
+        "Prezzemolo",
+        null,
+        "q.b."
+      ],
+      [
+        "Salvia",
+        null,
+        "q.b."
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Mele Fuji (circa 2)",
+        500.0,
+        "g"
+      ],
+      [
+        "Zucchero di canna",
+        5.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        5.0,
+        "g"
+      ],
+      [
+        "Acqua",
+        50.0,
+        "g"
+      ],
+      [
+        "Succo di limone &frac12;",
+        null,
+        "da verificare"
+      ]
+    ],
+    "steps": [
+      "Per realizzare le cosce di pollo al forno con mele iniziate tritando finemente le erbe aromatiche, quindi il prezzemolo, la salvia, il rosmarino e il timo, e tenete da parte. Ponete in un mortaio i grani di pepe nero, bianco e rosa e le bacche di ginepro e pressateli con il pestello",
+      "per ridurli in polvere. In una brocca ponete il trito di erbe e le spezie macinate, versate l’olio di oliva",
+      "aggiungete i 10 g di sale fino, il vino e aromatizzate con la paprika dolce, poi mescolate con un cucchiaio per insaporire.",
+      "Prendete una pirofila da forno e ungete il fondo con l’olio di oliva, adagiate qui le vostre cosce di pollo una accanto all’altra, quindi ricopritele con il trito speziato preparato in precedenza. Cuocete le cosce in forno statico preriscaldato a 180° per 45 minuti. Nel frattempo lavate e asciugate le mele, tagliatele prima a metà",
+      "e poi in quarti e infine riducetele a pezzetti più piccoli e irregolari. Versate i pezzetti di mela in una padella, aggiungete lo zucchero di canna,",
+      "5 g di sale fino e irrorate con il succo di mezzo limone. Fate cuocere a fuoco medio per sciogliere lo zucchero, quindi versate anche l’acqua,",
+      "abbassate la fiamma e proseguite la cottura per 10 minuti finché le mele non risulteranno morbide. Intanto anche il pollo avrà terminato la cottura e risulterà dorato in superficie, quindi sfornate e servite subito le vostre cosce di pollo al forno con mele!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:36.825890+00:00",
+    "repaired_at": "2026-10-10T14:08:22.978806+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 193270235217577,
+    "name": "Insalata di patate, mozzarelline e pomodorini",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 50,
+    "ingredients_display": [
+      "Patate 600 g",
+      "Pomodorini ciliegino 500 g",
+      "Mozzarelline ciliegine 300 g",
+      "Olive nere denocciolate 50 g",
+      "Acciughe sott'olio 30 g",
+      "Aglio 2 spicchi",
+      "Basilico q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva 30 g",
+      "Basilico 20 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-patate-mozzarelline-e-pomodorini.html",
+    "image_url": "https://www.giallozafferano.it/images/277-27727/Insalata-di-patate-mozzarelline-e-pomodorini_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 511.2,
+    "protein": null,
+    "carbs": 35.0,
+    "fats": 31.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Patate",
+        600.0,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        500.0,
+        "g"
+      ],
+      [
+        "Mozzarelline ciliegine",
+        300.0,
+        "g"
+      ],
+      [
+        "Olive nere denocciolate",
+        50.0,
+        "g"
+      ],
+      [
+        "Acciughe sott'olio",
+        30.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        2.0,
+        "spicchi"
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        20.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare l’insalata di patate, mozzarelline e pomodorini per prima cosa lavate le patate e lessatele in una pentola a partire da acqua fredda per circa 20 minuti (il tempo di cottura può variare a seconda della loro dimensione); dovranno risultare morbide ma non troppo. Una volta cotte scolatele in una ciotola e lasciatele raffreddare. Nel frattempo occupatevi dei pomodorini: lavateli e divideteli a metà, poi versateli in una padella in cui avrete fatto scaldare un filo d’olio con 2 spicchi di aglio.",
+      "Insaporite con sale, pepe e qualche foglia di basilico e cuocete a fuoco vivace per circa 3 minuti; non dovranno sfaldarsi. Una volta cotti, trasferite i pomodorini in una ciotola e lasciate raffreddare.",
+      "Passate all’olio al basilico: mettete le foglie di basilico in un boccale, versate l’olio e frullate con un mixer a immersione per ottenere un composto omogeneo.",
+      "Setacciate il composto attraverso un colino schiacciando con il dorso di un cucchiaio per eliminare i residui. Tenete da parte.",
+      "Ora riprendete le patate ormai fredde e tagliatele a rondelle dello spessore di 1 cm. Siete pronti per assemblare l’insalata: trasferite le patate in una ciotola capiente insieme ai pomodorini e alle olive.",
+      "Unite le mozzarelline e i filetti di acciuga, poi profumate con qualche fogliolina di basilico.",
+      "Infine condite con l’olio al basilico e mescolate bene, poi aggiustate di sale se necessario. La vostra insalata di patate, mozzarelline e pomodorini è pronta per essere servita!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:39.799776+00:00",
+    "repaired_at": "2026-10-10T14:08:28.175466+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 252553634773624,
+    "name": "Purè goloso",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 65,
+    "ingredients_display": [
+      "Patate (farinose) 600 g",
+      "Mozzarella 200 g",
+      "Prosciutto cotto 120 g",
+      "Latte intero q.b.",
+      "Parmigiano Reggiano DOP da grattugiare 80 g",
+      "Burro 40 g",
+      "Noce moscata da grattugiare q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pure-goloso.html",
+    "image_url": "https://www.giallozafferano.it/images/150-15025/Pure-goloso_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 463.0,
+    "protein": null,
+    "carbs": 23.2,
+    "fats": 30.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Patate (farinose)",
+        600.0,
+        "g"
+      ],
+      [
+        "Mozzarella",
+        200.0,
+        "g"
+      ],
+      [
+        "Prosciutto cotto",
+        120.0,
+        "g"
+      ],
+      [
+        "Latte intero",
+        null,
+        "q.b."
+      ],
+      [
+        "Parmigiano Reggiano DOP da grattugiare",
+        80.0,
+        "g"
+      ],
+      [
+        "Burro",
+        40.0,
+        "g"
+      ],
+      [
+        "Noce moscata da grattugiare",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il purè goloso iniziate procurandovi delle patate farinose della stessa dimensione, meglio se non molto grosse (se lo sono, dividetele a metà). Lavate le patate molto bene sotto l’acqua fresca corrente e lessatele con la buccia in acqua salata per circa 40 minuti. Nel frattempo preparate il condimento: tagliate la fetta di prosciutto e la mozzarella a dadini;",
+      "grattugiate il parmigiano reggiano e mettete tutto da parte. Trascorsi i 40 minuti, accertatevi dell’avvenuta cottura delle patate punzecchiandole con una forchetta; se le patate risulteranno morbide e ben cotte, spegnete il fuoco e con una forchetta toglietele delicatamente dall'acqua; quindi sbucciatele ancora calde, riponendole in una ciotola.",
+      "Passate ora le patate nel passaverdure o nello schiacciapatate, fino ad ottenere una morbida purea. Nel frattempo mettete sul fuoco il latte per farlo scaldare. Ponete il purè che avete ottenuto in un recipiente e unite la noce di burro, mescolando bene con una spatola;",
+      "aggiungete anche la noce moscata grattugiata. Quando il latte si sarà scaldato, versatelo poco alla volta, sempre mescolando con la spatola fino ad ottenere un purè liscio, gonfio e omogeneo (il purè non deve risultare liquido, quindi regolatevi con il latte, usandone quanto basta per ottenere la consistenza che desiderate).",
+      "Infine aggiungete il parmigiano reggiano grattugiato, il prosciutto e la mozzarella tagliate a cubetti.",
+      "Regolate di sale a vostro piacimento, quindi mescolate per amalgamare gli ingredienti. Infine trasferite il purè goloso in una pirofila e servitelo ben caldo."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:42.433224+00:00",
+    "repaired_at": "2026-10-10T14:08:30.867074+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 240340609011232,
+    "name": "Pasta con pesto di finocchietto",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Fusilli Senza Glutine 320 g",
+      "Finocchietto selvatico 100 g",
+      "Mandorle pelate 80 g",
+      "Olio extravergine d'oliva 150 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Grana Padano DOP da grattugiare 60 g",
+      "Pomodorini ciliegino 600 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Zucchero di canna 20 g",
+      "Origano 1 pizzico",
+      "Olio extravergine d'oliva 20 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pesto-di-finocchietto.html",
+    "image_url": "https://www.giallozafferano.it/images/166-16684/Pasta-con-pesto-di-finocchietto_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 903.6,
+    "protein": null,
+    "carbs": 81.9,
+    "fats": 59.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fusilli Senza Glutine 320 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Finocchietto selvatico 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mandorle pelate 80 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Grana Padano DOP da grattugiare 60 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pomodorini ciliegino 600 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero di canna 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Origano 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 20 g",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con finocchietto iniziate a preparare i pomodorini confit. Lavate i pomodorini, tagliateli a metà e disponeteli su una leccarda foderata con della carta forno posizionandoli con il taglio rivolto verso l'alto. Salate, pepate e cospargeteli prima con lo zucchero di canna, poi l'origano e l'olio.  Cuocete in forno statico preriscaldato a 170° per 50 minuti e nel frattempo occupatevi di realizzare il pesto.",
+      "Lavate anche il finocchietto, tamponatelo con un foglio di carta da cucina e prelevate solo le foglioline eliminando il gambo. Poi trasferitele all'interno di un mixer, aggiungete le mandorle pelate, il formaggio grattugiato, un pizzico di sale e di pepe.",
+      "In ultimo versate l'olio e frullate il tutto fino ad ottenere un composto omogeneo. A questo punto ponete sul fuoco un tegame colmo d'acqua (che servirà per la cottura della pasta) e portatela a sfiorare il bollore, quindi salate. Trasferite il pesto di finocchietto in un tegame capiente (servirà per condire più facilmente la pasta), senza accendere il fuoco. Stemperatelo con un mestolo di acqua calda.",
+      "A questo punto anche i pomodorini confit saranno pronti, estraeteli dal forno, cuocete la pasta e scolatela al dente. Trasferiteli nel tegame in cui avete versato il pesto di finocchietto.",
+      "Aggiungete i pomodorini confit, mescolate il tutto brevemente e servite la vostra pasta con finocchietto!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:45.355916+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Condimento",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Condimento",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 243081823936685,
+    "name": "Controfiletto di manzo con verdure e salsa chimichurri",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Controfiletto di manzo a temperatura ambiente 1 kg",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Prezzemolo (da tritare) 30 g",
+      "Aglio 2 spicchi",
+      "Aceto di vino rosso 120 g",
+      "Olio extravergine d'oliva 110 g",
+      "Succo di limone 1",
+      "Peperoncino secco &frac12; cucchiaino",
+      "Origano secco q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Zucchine 2",
+      "Melanzane 1",
+      "Peperoni rossi 1",
+      "Carote 1",
+      "Cipolle rosse 1",
+      "Aglio 1 spicchio",
+      "Rosmarino q.b.",
+      "Timo q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Controfiletto-di-manzo-con-verdure-e-salsa-chimichurri.html",
+    "image_url": "https://www.giallozafferano.it/images/296-29666/Controfiletto-di-manzo-con-verdure-e-salsa-chimichurri_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 1040.2,
+    "protein": null,
+    "carbs": 23.4,
+    "fats": 81.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Controfiletto di manzo a temperatura ambiente 1 kg",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Prezzemolo (da tritare) 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aglio 2 spicchi",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aceto di vino rosso 120 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 110 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Succo di limone 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Peperoncino secco &frac12; cucchiaino",
+        null,
+        "da fonte"
+      ],
+      [
+        "Origano secco q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchine 2",
+        null,
+        "da fonte"
+      ],
+      [
+        "Melanzane 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Peperoni rossi 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Carote 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Cipolle rosse 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aglio 1 spicchio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Rosmarino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Timo q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare il controfiletto di manzo con verdure e salsa chimichurri iniziate proprio dalla salsa: in una ciotola unite l’origano secco, il peperoncino secco tritato e il prezzemolo tritato finemente.",
+      "Schiacciate gli spicchi d’aglio a cui avrete tolto il germoglio interno, poi aggiungete sale e il succo di limone.",
+      "Versate anche l’olio e l’aceto di vino rosso, poi mescolate bene. Lasciate riposare a temperatura ambiente per almeno 30 minuti per far amalgamare i sapori.",
+      "Nel frattempo occupatevi della carne: eliminate la membrana dal controfiletto, poi tagliatelo a fette dello spessore di circa 4 cm. Salate e lasciate riposare a temperatura ambiente per circa 30 minuti per far insaporire.",
+      "Passate alle verdure: mondate e tagliate le carote prima a fette e poi a bastoncini sottili. Fate la stessa cosa con le melanzane realizzando dei bastoncini un po’ più spessi, poiché cuoceranno in meno tempo.",
+      "Riducete anche il peperone a listarelle della stessa dimensione delle melanzane. Tagliate le zucchine a rondelle dello spessore di 1 cm e infine affettate le cipolle a mezzaluna.",
+      "Distribuite tutte le verdure su una leccarda foderata con carta forno, poi condite con sale, pepe e uno spicchio di aglio schiacciato.",
+      "Aromatizzate con timo e rosmarino, poi irrorate con un giro d’olio e mescolate con le mani per insaporire le verdure in modo uniforme. Cuocete in forno ventilato preriscaldato a 200° per circa 25-30 minuti.",
+      "Quando le verdure saranno cotte, sfornate e riprendete il controfiletto: condite le fette con un filo d’olio e massaggiatelo su entrambi i lati.",
+      "Mettete sul fuoco una griglia di ghisa. Quando sarà rovente adagiate le fette di carne e cuocete da entrambi i lati per un totale di 5-6 minuti (circa 3 minuti per lato); in questo modo otterrete una cottura media.",
+      "Trasferite il controfiletto su una gratella e lasciate riposare per 8 minuti, così i succhi si redistribuiranno. Trascorso il tempo di riposo tagliate la carne a fette e impiattate: distribuite le verdure al forno.",
+      "Adagiate le fettine di carne sopra le verdure, poi irrorate con la salsa chimichurri. Servite subito il vostro controfiletto di manzo con verdure e salsa chimichurri!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:48.268939+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Condimento",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Condimento",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 103839694009450,
+    "name": "Insalata di patate e zucchine",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 30,
+    "ingredients_display": [
+      "Patate 800 g",
+      "Zucchine 450 g",
+      "Cipolle rosse 180 g",
+      "Pomodorini ciliegino 250 g",
+      "Mais (precotto) 150 g",
+      "Basilico q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva 100 g",
+      "Senape 1 cucchiaio",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-patate-e-zucchine.html",
+    "image_url": "https://www.giallozafferano.it/images/222-22295/Insalata-di-patate-e-zucchine_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 520.1,
+    "protein": null,
+    "carbs": 53.3,
+    "fats": 33.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Patate",
+        800.0,
+        "g"
+      ],
+      [
+        "Zucchine",
+        450.0,
+        "g"
+      ],
+      [
+        "Cipolle rosse",
+        180.0,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        250.0,
+        "g"
+      ],
+      [
+        "Mais (precotto)",
+        150.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        100.0,
+        "g"
+      ],
+      [
+        "Senape 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'insalata di patate e zucchine cominciate dagli ortaggi. Mondate le patate e tagliate a tocchetti di un paio di centimetri, spuntate e tagliate alla stessa grandezza le zucchine. In una vaporiera cuocete per una decina di minuti le patate",
+      "e le zucchine. Una volta cotte mettete a intiepidire. Intanto sciacquate i pomodorini e divideteli a metà, concludete mondando e affettando la cipolla rossa.",
+      "Preparate la salsina versando in un barattolino l'olio e la senape, aggiungete sale e pepe, chiudete il barattolo e sbattetelo qualche istante per emulsionare il tutto. A questo punto siete pronti per comporre l'insalata. Unite patate,",
+      "cipolle e pomodorini, zucchine e mais. Regolate di sale e condite con un filo d'olio, spezzettate qualche fogliolina di basilico e date una mescolata delicata. Infine aggiungete l'emulsione di senape e olio e mescolate ancora delicatamente. Ecco pronta la vostra insalata di patate e zucchine, guarnite con un po' di basilico e buon appetito."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:51.431945+00:00",
+    "repaired_at": "2026-10-10T14:08:33.464436+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 97612502231062,
+    "name": "Purè di zucca",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 60,
+    "ingredients_display": [
+      "Zucca (giù pulita) 700 g",
+      "Patate farinose 400 g",
+      "Latte intero 150 g",
+      "Cannella in polvere 1 cucchiaino",
+      "Olio extravergine d'oliva 15 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pure-di-zucca.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/221/22121/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 182.5,
+    "protein": null,
+    "carbs": 31.8,
+    "fats": 5.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Zucca (giù pulita)",
+        700.0,
+        "g"
+      ],
+      [
+        "Patate farinose",
+        400.0,
+        "g"
+      ],
+      [
+        "Latte intero",
+        150.0,
+        "g"
+      ],
+      [
+        "Cannella in polvere 1 cucchiaino",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        15.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il purè di zucca cominciate dalla sua pulizia, per ottenere 700 g di polpa. Tagliatela a fette ed eliminate la buccia, riducetela a cubetti. Fate lo stesso con le patate dapprima sbucciandole",
+      "e poi tagliandole a cubetti. Versate zucca e patate in una vaporirera, ponete in una pentola con acqua bollente e coprite con il coperchio.",
+      "I cubetti cuoceranno in circa 40 minuti, ma fate la prova con la forchetta per assicurarvi che siano teneri. Trasferite il tutto in uno schiacciapatate",
+      "e ottenete una purea. Trasferite in una pentola e aggiungete l'olio, il latte,",
+      "e poi guarnite di cannella, sale e pepe. A questo punto ponete sul fornello a fiamma dolce e mescolate con una frusta per qualche minuto, perchè il composto risulti omogeneo e cremoso. Spegnete e gustate il purè di zucca ben caldo."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:54.544093+00:00",
+    "repaired_at": "2026-10-10T14:08:36.071498+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 151568230992457,
+    "name": "Pasta con pesto di fagiolini, stracciatella e tartare di gamberi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Fusillotti 320 g",
+      "Gamberi precedentemente abbattuti e decongelati 250 g",
+      "Stracciatella 100 g",
+      "Scorza d'arancia 1",
+      "Olio extravergine d'oliva 10 g",
+      "Sale fino q.b.",
+      "Fagiolini 250 g",
+      "Grana Padano DOP (da grattugiare) 40 g",
+      "Pinoli 20 g",
+      "Basilico q.b.",
+      "Aglio 1 spicchio",
+      "Olio extravergine d'oliva 10 g",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pesto-di-fagiolini-stracciatella-e-tartare-di-gamberi.html",
+    "image_url": "https://www.giallozafferano.it/images/304-30455/Pasta-con-pesto-di-fagiolini-stracciatella-e-tartare-di-gamberi_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 258.2,
+    "protein": null,
+    "carbs": 7.0,
+    "fats": 17.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fusillotti 320 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Gamberi precedentemente abbattuti e decongelati 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Stracciatella 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scorza d'arancia 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Fagiolini 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Grana Padano DOP (da grattugiare) 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pinoli 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Basilico q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aglio 1 spicchio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 10 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con pesto di fagiolini, stracciatella e tartare di gamberi iniziate dal pesto. Pulite i fagiolini: lavateli, rimuovete le estremità e sbollentateli in acqua bollente salata per circa 4-5 minuti. Scolateli con una schiumarola, senza buttare l'acqua di cottura, e immergeteli in acqua e ghiaccio per fermare la cottura e mantenere un colore vivo.",
+      "Trasferite i fagiolini in un mixer insieme al basilico e al Grana Padano grattugiato.",
+      "Unite anche i pinoli, un pizzico di sale e 10 g di olio.",
+      "Frullate il tutto fino ad ottenere un composto omogeneo e cremoso. A questo punto pulite i gamberi: eliminate testa, carapace e intestino (potete trovare tutti i dettagli nella nostra scheda \" Come pulire i gamberi \". Tritateli al coltello e trasferiteli in ciotola, poi condite con un filo d’olio e un pizzico di sale.",
+      "Unite anche la scorza d’arancia grattugiata, mescolate bene e mettete da parte. Cuocete la pasta nella stessa acqua in cui avete lessato i fagiolini e che avrete intanto riportato a bollore.",
+      "Scolate la pasta al dente e trasferitela direttamente in una ciotola dove avrete precedentemente messo il pesto, allungato con un mestolo di acqua di cottura. Mescolate bene.",
+      "Quando il pesto sarà ben amalgamato, impiattate e completate con pezzetti di stracciatella, la tartare di gamberi e qualche fogliolina di basilico. Servite subito la vostra pasta con pesto di fagiolini, stracciatella e tartare di gamberi!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:57.188041+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Condimento",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Condimento",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 123866901655940,
+    "name": "Coni con straccetti di manzo e verdure croccanti",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 45,
+    "ingredients_display": [
+      "Dischetti di pasta 16",
+      "Uova (medio) 1",
+      "Manzo 300 g",
+      "Carote 100 g",
+      "Fagiolini 100 g",
+      "Zucchine 120 g",
+      "Aceto balsamico 50 g",
+      "Olio extravergine d'oliva 50 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Farina 00 (per infarinare) q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Coni-con-straccetti-di-manzo-e-verdure-croccanti.html",
+    "image_url": "https://www.giallozafferano.it/images/153-15314/Coni-con-straccetti-di-manzo-e-verdure-croccanti_650x433_wm.jpg",
+    "servings": 16,
+    "kcal": 129.4,
+    "protein": null,
+    "carbs": 15.0,
+    "fats": 4.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Dischetti di pasta 16",
+        null,
+        "da verificare"
+      ],
+      [
+        "Uova (medio) 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Manzo",
+        300.0,
+        "g"
+      ],
+      [
+        "Carote",
+        100.0,
+        "g"
+      ],
+      [
+        "Fagiolini",
+        100.0,
+        "g"
+      ],
+      [
+        "Zucchine",
+        120.0,
+        "g"
+      ],
+      [
+        "Aceto balsamico",
+        50.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        50.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Farina 00 (per infarinare)",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare i coni con straccetti di manzo e verdure croccanti, prendete i dischetti di pasta, stendeteli su un piano di lavoro, adagiate sopra un conetto di alluminio lungo 12 cm, con un foro largo 3cm, avvolgete il dischetto intorno al cono, sigillatelo premendo il bordo con le dita",
+      "e poi spennellate tutta la superficie con l’uovo sbattuto.Ponete i conetti su una leccarda rivestita con carta da forno e cuocete i conetti in forno statico a 200° per 10 minuti (o statico a 180° per 8 minuti) finché l’esterno non risulterà dorato, a cottura ultimata, sfornate i coni e quando saranno freddi estraete delicatamente il cono.",
+      "Lavate le verdure, spuntate i fagiolini e le zucchine, tagliate quest’ultime a listarelle sottili,pelate le carote e riducetele anch’esse a striscioline. In una padella scaldate 20 gr di olio di oliva, rosolate uno spicchio di aglio intero e poi aggiungete le carote, cuocete per 3-4 minuti",
+      "poi aggiungete i fagiolini,proseguite la cottura per altri 3-4 minuti infine unite anche le zucchine, continuate a cuocere le verdure per qualche minuto, devono restare croccanti.",
+      "Tagliate il manzo a striscioline, infarinatele accuratamente poi eliminate la farina in eccesso con un colino. In un’altra padella scaldate 30 gr di olio di oliva,",
+      "poi versate gli straccetti di carne fateli rosolare su tutti i lati per 2-3 minuti, salate, pepate e sfumate con l’aceto balsamico,",
+      "lasciate evaporare e poi spegnete il fuoco.Tutto è pronto per farcire i coni: prendete un cono di pasta e riempite la cavità con verdure e straccetti, aiutandovi con una pinza da cucina. I vostri gustosi coni con straccetti di manzo e verdure croccanti sono pronti per essere serviti."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:07:59.943336+00:00",
+    "repaired_at": "2026-10-10T14:08:38.675664+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 272556467712897,
+    "name": "Insalata di patate e finocchietto",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 70,
+    "ingredients_display": [
+      "Patate novelle 500 g",
+      "Olive taggiasche denocciolate 100 g",
+      "Finocchietto selvatico 50 g",
+      "Olio extravergine d'oliva 50 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-patate-e-finocchietto.html",
+    "image_url": "https://www.giallozafferano.it/images/274-27468/Insalata-di-patate-e-finocchietto_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 240.9,
+    "protein": null,
+    "carbs": 24.6,
+    "fats": 15.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Patate novelle",
+        500.0,
+        "g"
+      ],
+      [
+        "Olive taggiasche denocciolate",
+        100.0,
+        "g"
+      ],
+      [
+        "Finocchietto selvatico",
+        50.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        50.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'insalata di patate e finocchietto come prima cosa sbollentate le patate partendo da acqua fredda: ci vorranno circa 30 minuti. Non appena saranno morbide scolatele e lasciatele raffreddare, poi sbucciatele.",
+      "Tagliate le patate prima a fette spesse e poi a tocchetti di un paio di cm. Man mano sistematele in una ciotola. Unite le olive taggiasche denocciolate.",
+      "Condite con sale, pepe e olio extravergine. Aggiungete poi il finocchietto sminuzzato.",
+      "Mescolate delicatamente sino a che l'insalata non risulterà condita in maniera omogenea. Trasferite in un piatto da portata e servite la vostra insalata di patate e finocchietto!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:08:03.057174+00:00",
+    "repaired_at": "2026-10-10T14:08:41.281674+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 33773102978234,
+    "name": "Purè di patate e lenticchie",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 125,
+    "ingredients_display": [
+      "Patate a pasta gialla farinose o rosse 1 kg",
+      "Latte intero 300 g",
+      "Burro 80 g",
+      "Sale fino q.b.",
+      "Noce moscata q.b.",
+      "Lenticchie secche 180 g",
+      "Sedano 50 g",
+      "Carote 50 g",
+      "Cipolle 50 g",
+      "Alloro 2 foglie",
+      "Rosmarino 3 rametti",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pure-di-patate-e-lenticchie.html",
+    "image_url": "https://www.giallozafferano.it/images/164-16424/Pure-di-patate-e-lenticchie_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 609.7,
+    "protein": null,
+    "carbs": 79.6,
+    "fats": 25.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Patate a pasta gialla farinose o rosse",
+        1.0,
+        "kg"
+      ],
+      [
+        "Latte intero",
+        300.0,
+        "g"
+      ],
+      [
+        "Burro",
+        80.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Noce moscata",
+        null,
+        "q.b."
+      ],
+      [
+        "Lenticchie secche",
+        180.0,
+        "g"
+      ],
+      [
+        "Sedano",
+        50.0,
+        "g"
+      ],
+      [
+        "Carote",
+        50.0,
+        "g"
+      ],
+      [
+        "Cipolle",
+        50.0,
+        "g"
+      ],
+      [
+        "Alloro",
+        2.0,
+        "foglie"
+      ],
+      [
+        "Rosmarino",
+        3.0,
+        "rametti"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il purè di patate e lenticchie potete iniziare mettendo mettendo in ammollo queste ultime per qualche ora (potete anche saltare il passaggio dell'ammollo, in quanto necessario solo a ridurre leggermente i tempi di cottura dei legumi). Successivamente scolatele dell’acqua e versate le lenticchie in un recipiente capiente aggiungendo anche le foglie di alloro. Coprite con abbondante acqua e cuocetele per 35 minuti a fiamma media dal momento in cui raggiungerà il bollore.",
+      "Una volta cotte lasciatele scolare per bene. Nel frattempo preparate un trito di sedano, carota e cipolla e versatelo in padella insieme all’olio, mescolando spesso in modo che non bruci.",
+      "Dopo una decina di minuti unite le lenticchie scolate al trito, aggiungete anche i rametti di rosmarino e le foglie di alloro e continuate la cottura per 7-8 minuti, aggiustando di sale e di pepe.",
+      "Passate poi alla preparazione del purè di patate. In una pentola capiente versate le patate e coprite con molta acqua, dal momento in cui arriverà a bollore contate 30-40 minuti a seconda dello spessore. Fate sempre la prova forchetta in modo da essere sicuri che siano tutte cotte: se i rebbi entreranno facilmente fino al centro allora saranno cotte. Scolatele e poi sbucciatele mentre sono ancora calde.",
+      "Subito dopo schiacciate le patate in un tegame, grattugiate un po’ di noce moscata, aggiungete un pizzico di sale e unite il burro a pezzetti, cuocete a fiamma molto bassa, fin quando il burro non sarà fuso. Nel frattempo mettete a scaldare il latte e versatelo non appena sarà bollente",
+      "mescolate di continuo fin quando non avrete ottenuto un purè liscio, gonfio e omogeneo. A questo punto avrete tutto pronto per impiattare in un grazioso tegamino di terracotta se preferite o in un semplice piatto da portata il purè di patate e lenticchie guarnendo con del rosmarino fresco."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:08:05.854938+00:00",
+    "repaired_at": "2026-10-10T14:08:43.883336+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 22473126689139,
+    "name": "Pasta con pesto di asparagi e speck",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Pasta 320 g",
+      "Speck in una fetta unica 200 g",
+      "Olio extravergine d'oliva q.b.",
+      "Asparagi (da pulire) 250 g",
+      "Parmigiano Reggiano DOP da grattugiare 30 g",
+      "Pecorino da grattugiare 30 g",
+      "Mandorle pelate 30 g",
+      "Olio extravergine d'oliva 110 g",
+      "Succo di limone q.b.",
+      "Noce moscata q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pesto-di-asparagi-e-speck.html",
+    "image_url": "https://www.giallozafferano.it/images/246-24683/Pasta-con-pesto-di-asparagi-e-speck_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 784.3,
+    "protein": null,
+    "carbs": 65.4,
+    "fats": 43.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pasta 320 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Speck in una fetta unica 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Asparagi (da pulire) 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Parmigiano Reggiano DOP da grattugiare 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pecorino da grattugiare 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mandorle pelate 30 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva 110 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Succo di limone q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Noce moscata q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per realizzare la pasta con pesto di asparagi e speck iniziate con la preparazione del pesto di asparagi: eliminate le estremità più legnose e pelate la parte rimanente del gambo. In tutto vi occorreranno circa 220 g di asparagi puliti. Sbollentate gli asparagi in acqua salata per circa 10 minuti.",
+      "Scolate gli asparagi, tamponateli con un panno e tagliateli a pezzi. Versate le mandorle in un mixer e tritatele grossolanamente, poi aggiungete il Parmigiano Reggiano DOP e il Pecorino grattugiati e frullate ancora per qualche istante.",
+      "Unite gli asparagi insieme a qualche goccia di succo di limone e all’olio.",
+      "Insaporite con sale, pepe e noce moscata e frullate a scatti, fino ad ottenere un pesto dalla consistenza rustica e cremosa.",
+      "Ora tagliate lo speck a listarelle e rosolatelo in una padella con un filo di olio caldo fino a renderlo croccante. Nel frattempo portate a bollore una pentola di acqua per cuocere la pasta.",
+      "Quando l’acqua sarà arrivata a bollore, salate e versate la pasta. Scolate la pasta al dente tenendo da parte un po’ della sua acqua di cottura e trasferitela nella padella con lo speck, poi unite il pesto di asparagi.",
+      "Aggiungete un paio di cucchiai dell’acqua di cottura e mescolate bene per amalgamare la pasta al condimento. La vostra pasta con pesto di asparagi e speck è pronta per essere servita!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:08:08.610791+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Condimento",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Condimento",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 120332695650575,
+    "name": "Conchiglioni al forno con ragù di gamberi e nasello allo zafferano",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 85,
+    "ingredients_display": [
+      "Conchiglioni 300 g",
+      "Gamberi interi 600 g",
+      "Filetti di nasello 300 g",
+      "Pomodorini ciliegino 200 g",
+      "Rosmarino 10 g",
+      "Vino bianco 100 g",
+      "Zafferano 1 bustina",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Burro 20 g",
+      "Aglio 1 spicchio",
+      "Acqua &frac12; bicchiere",
+      "Noce moscata q.b.",
+      "Parmigiano Reggiano DOP q.b.",
+      "Latte intero 500 g",
+      "Burro 50 g",
+      "Farina 00 50 g",
+      "Sale fino q.b.",
+      "Noce moscata q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Conchiglioni-al-forno-con-ragu-di-gamberi-e-nasello-allo-zafferano.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/199/19915/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 799.4,
+    "protein": null,
+    "carbs": 77.4,
+    "fats": 29.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Conchiglioni",
+        300.0,
+        "g"
+      ],
+      [
+        "Gamberi interi",
+        600.0,
+        "g"
+      ],
+      [
+        "Filetti di nasello",
+        300.0,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        200.0,
+        "g"
+      ],
+      [
+        "Rosmarino",
+        10.0,
+        "g"
+      ],
+      [
+        "Vino bianco",
+        100.0,
+        "g"
+      ],
+      [
+        "Zafferano 1 bustina",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Burro",
+        20.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Acqua &frac12; bicchiere",
+        null,
+        "da verificare"
+      ],
+      [
+        "Noce moscata",
+        null,
+        "q.b."
+      ],
+      [
+        "Parmigiano Reggiano DOP",
+        null,
+        "q.b."
+      ],
+      [
+        "Latte intero",
+        500.0,
+        "g"
+      ],
+      [
+        "Burro",
+        50.0,
+        "g"
+      ],
+      [
+        "Farina 00",
+        50.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Noce moscata",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare i conchiglioni al forno con ragù di gamberi e nasello allo zafferano per prima cosa preparate la besciamella: in una tegame ponete il burro morbido e la farina. Accendete la fiamma bassa e mescolate velocemente con un mestolo di legno. Con il calore della fiamma il burro si scioglierà e creerà con la farina una sorta di cremina dorata. Versate il latte",
+      "e mescolate con una frusta. Insaporite con un pizzico di sale e di noce moscata",
+      "e mescolate fino a quando la besciamella non si addenserà. Sgusciate i gamberi eliminando la testa, le zampette e poi la corazza.",
+      "Con un coltellino fate un'incisione sul dorso del gambero ed elimina, tirandolo con le mani, l'intestino. Una volta puliti otterrete circa 280 g di gamberi. Sciacquateli sotto l'acqua corrente, poi mettete i gamberi su un tagliere e tagliateli a pezzetti. Sfilettate il nasello eliminando la pelle. Fatelo partendo dall'estremità della coda. Fate un'incisione con un coltello affilato separando la pelle dalla carne. Con la mano tirate il lembo di pelle e continua finché non sarà tutta eliminata.",
+      "Tagliate anche il nasello a pezzetti. Ora lavate i pomodorini e tagliateli in 4 parti. Staccate gli aghi dal rosmarino e tritali finemente.Intanto ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta.",
+      "In una padella scaldate un filo d'olio extravergine d'oliva e fate rosolare uno spicchio d'aglio tagliato in due. Versate i gamberi e poi il nasello.",
+      "Fate rosolare giusto un paio di secondi e aggiungete un pizzico di sale, uno di pepe e uno di noce moscata e mescolate. Sfumate con il vino bianco e lasciate che evapori. Aggiungete anche lo zafferano sciolto in 3-4 cucchiai di acqua calda e mescolate, poi aggiungete il burro",
+      "e il rosmarino tritato. Ora versate nella padella i pomodorini e mezzo bicchiere d'acqua, mescolate e fate cuocere per 1-2 minuti.",
+      "Spegnete il fuoco e fate raffreddare il ragù di gamberi e nasello. Ora cuocete la pasta molto al dente regolandovi in base al tempo di cottura riportato sulla confezione. In una teglia di 24 x 24 cm, versate sul fondo un mestolo di besciamella.",
+      "Farcite ad uno ad uno i conchiglioni con il ragù di gamberi e nasello e adagiateli sulla teglia, poi coprite con la besciamella.",
+      "Spolverizzate con il formaggio grattugiato, condite con un filo d'olio extra vergine d'oliva e cuocete in forno statico a 190°C per 25 minuti, poi fai cuocere altri 10 minuti in modalità grill. A cottura ultimata, sfornate i conchiglioni e lasciateli intiepidire qualche istante prima di servirli."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:08:11.777641+00:00",
+    "repaired_at": "2026-10-10T14:08:46.497431+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 121947647805280,
+    "name": "Insalata di patate con crema di rucola",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 30,
+    "ingredients_display": [
+      "Patate 800 g",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Rucola 200 g",
+      "Succo di limone q.b.",
+      "Scorza di limone q.b.",
+      "Olive taggiasche 50 g",
+      "Parmigiano Reggiano DOP q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Insalata-di-patate-con-crema-di-rucola.html",
+    "image_url": "https://www.giallozafferano.it/images/364-36421/Insalata-di-patate-con-crema-di-rucola_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 220.6,
+    "protein": null,
+    "carbs": 38.4,
+    "fats": 5.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Patate",
+        800.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Rucola",
+        200.0,
+        "g"
+      ],
+      [
+        "Succo di limone",
+        null,
+        "q.b."
+      ],
+      [
+        "Scorza di limone",
+        null,
+        "q.b."
+      ],
+      [
+        "Olive taggiasche",
+        50.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'insalata di patate con crema di rucola iniziate sbucciando le patate con un pelapatate, poi tagliatele prima a fette spesse, e successivamente a cubotti piuttosto regolari.",
+      "Portate a bollore una pentola d'acqua, salatela e tuffatevi le patate. Cuocetele finché saranno tenere ma ancora compatte, ci vorranno circa 15 minuti, quindi scolatele delicatamente con una schiumarola e lasciatele intiepidire.",
+      "Nel frattempo dedicatevi alla preparazione della crema di rucola. Spremete il limone e tenete da parte il succo. Versate la rucola nel bicchiere del frullatore a immersione e aggiustate di sale.",
+      "Condite con pepe e olio extravergine d'oliva, grattugiate anche la scorza del limone direttamente nel bicchiere.",
+      "Versate il succo precedentemente spremuto. Frullate il tutto con il mixer a immersione fino a ottenere una crema liscia e omogenea.",
+      "Trasferite la crema di rucola in un'insalatiera capiente e aggiungete le patate lessate. Unite anche le olive taggiasche e mescolate delicatamente con un cucchiaio.",
+      "Dovete ricoprire uniformemente tutti i cubotti di patata con la crema 19 . Distribuite l'insalata nei piatti da portata e completate con scaglie di Parmigiano 20 , un filo di olio extravergine d'oliva a crudo e una macinata di pepe nero fresco. Servite subito l'insalata di patate con crema di rucola 21 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:08:14.604064+00:00",
+    "repaired_at": "2026-10-10T14:08:49.105011+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 148392265612335,
+    "name": "Purè di patate cremoso",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 65,
+    "ingredients_display": [
+      "Patate a pasta gialla 550 g",
+      "Panna fresca liquida 200 g",
+      "Panna acida 1 cucchiaio",
+      "Noce moscata q.b.",
+      "Sale fino q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pure-di-patate-cremoso.html",
+    "image_url": "https://www.giallozafferano.it/images/171-17131/Pure-di-patate-cremoso_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 280.7,
+    "protein": null,
+    "carbs": 25.7,
+    "fats": 18.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Patate a pasta gialla",
+        550.0,
+        "g"
+      ],
+      [
+        "Panna fresca liquida",
+        200.0,
+        "g"
+      ],
+      [
+        "Panna acida 1 cucchiaio",
+        null,
+        "da verificare"
+      ],
+      [
+        "Noce moscata",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il purè cremoso come prima cosa ponete le patate in un tegame e riempitelo d'acqua, poi lessatele per circa 40 minuti. Quando saranno cotte scolatele e tenetele da parte per un momento. A questo punto occupatevi di ridurre la panna: versatela in un pentolino",
+      "e a fuoco molto basso lasciatela ridurre del 50%, ci vorranno circa 10 minuti. Nel frattempo passate a pelare le patate, che dovranno essere ancora calde. Una volta pelate, e sempre ancora calde, schiacciatele utilizzando l'apposito attrezzo.",
+      "Dopodichè, trasferite le patate in una padella antiaderente e a fuoco molto basso, mescolando con una spatola, lasciate evaporare completamente l'umidità contenuta nelle patate. Non si dovrà creare una crosticina sul fondo, infatti il calore dovrà essere costante ma moderato. A questo punto passate a setacciare le patate. Ponetele in un colino, posto sopra una ciotola",
+      "e con una spatola setacciate le patate, in modo da renderle ancora più vellutate. Aggiungete un pizzico di sale",
+      "e mescolate con le mani, in modo da ricavare un panetto liscio, morbido e compatto. Non resta che mantecare il purè: versate la riduzione di panna in un tegame più ampio",
+      "aggiungete il panetto di patate separato in pezzi nella panna e utilizzando una spatola incorporate completamente la panna alle patate. A questo punto spegnete il fuoco e sempre con la spatola iniziate a montare il purè sbattendolo velocemente, in modo da incorporare aria e ottenere una consistenza più soffice.",
+      "Aggiungete poi la panna acida e mescolate per amalgamarla completamente. Unite poi una grattata abbondante di noce moscata, regolate di sale se necessario, mescolate nuovamente e servite il vostro purè cremoso aggiungendo un filo d'olio a crudo in superficie."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:08:17.206518+00:00",
+    "repaired_at": "2026-10-10T14:08:51.704106+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 71740311677932,
+    "name": "Pasta con pesto alla trapanese, melanzane grigliate e pomodorini confit",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Orecchiette 320 g",
+      "Melanzane 200 g",
+      "Aglio 1 spicchio",
+      "Mandorle pelate tostate 40 g",
+      "Basilico q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pomodorini datterini 200 g",
+      "Mandorle pelate 50 g",
+      "Pecorino (da grattugiare) 50 g",
+      "Basilico q.b.",
+      "Pomodorini ciliegino 100 g",
+      "Zucchero di canna 20 g",
+      "Scorza di limone (da grattugiare) 1",
+      "Aglio 1 spicchio",
+      "Timo q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-pesto-alla-trapanese-melanzane-grigliate-e-pomodorini-confit.html",
+    "image_url": "https://www.giallozafferano.it/images/303-30303/Pasta-con-pesto-alla-trapanese-melanzane-grigliate-e-pomodorini-confit_650x433_wm.jpg",
+    "servings": null,
+    "kcal": 557.0,
+    "protein": null,
+    "carbs": 77.5,
+    "fats": 19.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Orecchiette 320 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Melanzane 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aglio 1 spicchio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mandorle pelate tostate 40 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Basilico q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Olio extravergine d'oliva q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pomodorini datterini 200 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Mandorle pelate 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pecorino (da grattugiare) 50 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Basilico q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pomodorini ciliegino 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero di canna 20 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Scorza di limone (da grattugiare) 1",
+        null,
+        "da fonte"
+      ],
+      [
+        "Aglio 1 spicchio",
+        null,
+        "da fonte"
+      ],
+      [
+        "Timo q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Pepe nero q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con pesto alla trapanese, melanzane grigliate e pomodorini confit iniziate da questi ultimi: lavate e dividete i pomodorini ciliegini a metà, disponeteli in una teglia foderata con carta forno con la parte tagliata rivolta verso l'alto, poi conditeli con sale, pepe e zucchero di canna.",
+      "Aromatizzate con foglioline di timo e scorza di limone grattugiata. Cuocete in forno statico preriscaldato a 120° per un'ora e mezza. Intanto occupatevi del pesto alla trapanese: in un mixer versate i pomodorini interi.",
+      "Aggiungete il pecorino, l'olio e il basilico.",
+      "Unite anche le mandorle, salate e pepate, quindi frullate fino a ottenere una consistenza cremosa; se dovesse risultare troppo asciutta aggiungete altro olio. Passate alle melanzane: rimuovete la buccia a strisce alterne.",
+      "Ricavate delle fette per il lungo dello spessore di 2 cm, poi conditele con sale, pepe e olio.",
+      "Grigliate le fette di melanzana per circa 10 minuti finché non si vedranno le tipiche striature. Una volta grigliate, tagliate le melanzane a listarelle.",
+      "Ricavate da queste dei pezzetti più piccoli e tenete da parte. Intanto cuocete le orecchiette in acqua bollente e salata. Mentre la pasta cuoce, in una padella scaldate l'olio con lo spicchio d'aglio sbucciato.",
+      "Versate le melanzane grigliate e il pesto. Mescolate per insaporire ed eliminate l'aglio.",
+      "Scolate le orecchiette nella padella con il sugo a fuoco spento, mescolate e aromatizzate con foglioline di basilico. A questo punto i pomodori confit saranno cotti, quindi sfornateli.",
+      "Impiattate le orecchiette guarnendo i piatti con i pomodorini confit, le mandorle tostate a scaglie 29 e le foglioline di basilico. La pasta con pesto alla trapanese, melanzane grigliate e pomodorini confit è pronta per essere servita 30 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-10T14:08:20.038397+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Condimento",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Condimento",
+      "tools": [
+        "Forno",
         "Fornelli"
       ],
       "dietary_verified": [],

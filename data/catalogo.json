@@ -79,7 +79,8 @@
       "Fai appassire lo scalogno con olio e poca acqua, poi cuoci le zucchine per pochi minuti.",
       "Cuoci i fusilli; a parte mescola ricotta, scorza di limone, basilico e poca acqua della pasta.",
       "Unisci pasta, zucchine e crema di ricotta, aggiungi Grana e amalgama."
-    ]
+    ],
+    "step_images_checked_at": "2026-10-10T13:42:59.438014+00:00"
   },
   {
     "id": 4,
@@ -141,7 +142,8 @@
       "Incorpora gli spinaci alle uova e mescola.",
       "Versa il composto in una padella con olio e cuoci a fuoco dolce con coperchio per circa 10 minuti.",
       "Gira la frittata e prosegui la cottura per circa 5 minuti, fino a doratura."
-    ]
+    ],
+    "step_images_checked_at": "2026-10-10T13:43:02.089483+00:00"
   },
   {
     "id": 5,
@@ -288,7 +290,8 @@
       "Preleva una parte dei ceci e un po’ del loro liquido; versa i ditalini nella pentola e cuocili aggiungendo acqua calda se necessario.",
       "Frulla i ceci messi da parte e rimetti la crema nella pentola quando la pasta è cotta.",
       "Spegni il fuoco e manteca con Grana Padano e olio, poi servi."
-    ]
+    ],
+    "step_images_checked_at": "2026-10-10T13:43:05.429070+00:00"
   },
   {
     "id": 25,
@@ -372,7 +375,8 @@
       "Fai insaporire i porri in olio, aggiungi la zucca e versa il brodo vegetale.",
       "Cuoci fino a rendere morbida la zucca, poi frulla il composto e unisci la panna.",
       "Regola sale, pepe e noce moscata e servi con nocciole e rosmarino come indicato nella ricetta originale."
-    ]
+    ],
+    "step_images_checked_at": "2026-10-10T13:43:08.058012+00:00"
   },
   {
     "id": 26,
@@ -466,7 +470,8 @@
       "Prepara il pollo con farina e aromi e fallo cuocere in padella, secondo le indicazioni della fonte.",
       "Prepara il condimento a base di limone, acqua, amido, zucchero e salsa di soia.",
       "Completa la cottura del pollo nella salsa; consulta i passaggi illustrati nella fonte per i tempi esatti."
-    ]
+    ],
+    "step_images_checked_at": "2026-10-10T13:43:10.680906+00:00"
   },
   {
     "id": 27,
@@ -1447,7 +1452,8 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images_checked_at": "2026-10-10T13:42:42.270658+00:00"
   },
   {
     "id": 171021698363776,
@@ -2060,7 +2066,35 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_15.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T13:42:45.928458+00:00"
   },
   {
     "id": 1681453928818,
@@ -3776,7 +3810,35 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_15.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T13:42:39.644030+00:00"
   },
   {
     "id": 120172866436140,
@@ -4997,7 +5059,40 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_18.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T13:42:48.779186+00:00"
   },
   {
     "id": 195906486229640,
@@ -5373,7 +5468,35 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_15.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T13:42:51.444499+00:00"
   },
   {
     "id": 90872653943460,
@@ -7283,7 +7406,35 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_15.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T13:42:54.058795+00:00"
   },
   {
     "id": 275941352617638,
@@ -7395,7 +7546,40 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_18.jpg"
+      ]
+    ],
+    "step_images_checked_at": "2026-10-10T13:42:56.693951+00:00"
   },
   {
     "id": 149339473991213,

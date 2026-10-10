@@ -322,7 +322,7 @@ function exportShoppingList(){
  Object.entries(state.plan).forEach(([slot,id])=>{
   const r=getRecipe(id),d=recipeDetailData(r);
   if(!d){missing.push(r.name);return}
-  const portion=peopleCount()/d.servings;
+  const portion=d.servings?peopleCount()/d.servings:null;
   d.ingredients.forEach(([name,qty,unit])=>{
    const key=name.toLowerCase().trim()+'|'+unit;
    const old=entries.get(key)||{name,qty:0,unit,unknown:false,meals:[]};
@@ -359,5 +359,33 @@ async function importCheffinoBackup(input){
   }catch(e){alert('Impossibile importare il backup: '+e.message)}finally{input.value=''}
 }
 
-render();
+
+// Il catalogo pubblicato su Render è la fonte dati primaria. Le schede locali
+// rimangono come fallback se l'API non risponde (es. sviluppo offline).
+async function caricaCatalogoServer(){
+ try{
+  const response=await fetch('/api/recipes',{cache:'no-store'});
+  if(!response.ok)throw new Error('HTTP '+response.status);
+  const payload=await response.json();
+  if(!Array.isArray(payload.recipes))throw new Error('Formato catalogo non valido');
+  for(const entry of payload.recipes){
+   if(entry.needs_review)continue; // Mai usare schede non revisionate.
+   if(typeof entry.id!=='number'||!entry.name||!entry.url||!Array.isArray(entry.ingredients))continue;
+   const existing=recipeData.find(r=>r.id===entry.id);
+   const item={id:entry.id,name:entry.name,emoji:entry.emoji||'🍽️',
+     time:entry.time??null,kcal:entry.kcal??null,
+     ings:Array.isArray(entry.ingredients_display)?entry.ingredients_display:entry.ingredients.map(x=>x[0]),
+     style:entry.style||'Da classificare',type:entry.type||'Piatto unico'};
+   if(existing)Object.assign(existing,item);else recipeData.push(item);
+   sourcedDetails[entry.id]={source:entry.source||'Fonte online',url:entry.url,
+     servings:entry.servings||null,minutes:entry.time??null,kcal:entry.kcal??null,
+     cost:entry.cost??null,protein:entry.protein??null,carbs:entry.carbs??null,fats:entry.fats??null,
+     image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps||[]};
+  }
+  console.info('Cheffino: catalogo caricato dal server',payload.recipes.length);
+ }catch(e){console.warn('Cheffino: catalogo locale di riserva',e.message)}
+ render();
+}
+
+caricaCatalogoServer();
 </script></body></html>

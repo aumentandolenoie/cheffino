@@ -1,0 +1,816 @@
+[
+  {
+    "id": 0,
+    "name": "Pasta cremosa zucchine e ricotta",
+    "emoji": "🍝",
+    "style": "Classici italiani",
+    "type": "Primo",
+    "time": 25,
+    "ingredients_display": [
+      "Pasta",
+      "Zucchine",
+      "Ricotta",
+      "Aglio",
+      "Olio d’oliva"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-zucchine-e-ricotta.html",
+    "image_url": "https://ricette.giallozafferano.it/images/ricette/282/28200/pasta-zucchine-e-ricotta_16.jpg",
+    "servings": 4,
+    "kcal": 509.4,
+    "protein": 21.5,
+    "carbs": 72.9,
+    "fats": 14.9,
+    "cost": "Molto basso",
+    "ingredients": [
+      [
+        "Fusilli",
+        320,
+        "g"
+      ],
+      [
+        "Ricotta vaccina",
+        240,
+        "g"
+      ],
+      [
+        "Zucchine",
+        500,
+        "g"
+      ],
+      [
+        "Scalogno",
+        1,
+        "pz"
+      ],
+      [
+        "Basilico",
+        6,
+        "foglie"
+      ],
+      [
+        "Grana Padano",
+        50,
+        "g"
+      ],
+      [
+        "Scorza di limone",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine di oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Taglia le zucchine a dadini e trita lo scalogno.",
+      "Fai appassire lo scalogno con olio e poca acqua, poi cuoci le zucchine per pochi minuti.",
+      "Cuoci i fusilli; a parte mescola ricotta, scorza di limone, basilico e poca acqua della pasta.",
+      "Unisci pasta, zucchine e crema di ricotta, aggiungi Grana e amalgama."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Frittata di spinaci",
+    "emoji": "🍳",
+    "style": "Economiche",
+    "type": "Secondo",
+    "time": 35,
+    "ingredients_display": [
+      "Uova",
+      "Spinaci",
+      "Parmigiano",
+      "Olio d’oliva"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Frittata-di-spinaci.html",
+    "image_url": null,
+    "servings": 4,
+    "kcal": 311.9,
+    "protein": 15.2,
+    "carbs": 4.4,
+    "fats": 26.5,
+    "cost": "Molto basso",
+    "ingredients": [
+      [
+        "Uova",
+        6,
+        "pz"
+      ],
+      [
+        "Spinaci",
+        350,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano",
+        50,
+        "g"
+      ],
+      [
+        "Olio extravergine di oliva",
+        5,
+        "cucchiai"
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Lava e pulisci gli spinaci, eliminando i gambi più duri. Falli saltare in padella con olio, poi lasciali intiepidire, strizzali e tritali.",
+      "Rompi le uova in una ciotola, aggiungi il Parmigiano grattugiato, sale e pepe, quindi sbatti fino a ottenere un composto omogeneo.",
+      "Incorpora gli spinaci alle uova e mescola.",
+      "Versa il composto in una padella con olio e cuoci a fuoco dolce con coperchio per circa 10 minuti.",
+      "Gira la frittata e prosegui la cottura per circa 5 minuti, fino a doratura."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pasta al pomodoro e basilico",
+    "emoji": "🍅",
+    "style": "Classici italiani",
+    "type": "Primo",
+    "time": 35,
+    "ingredients_display": [
+      "Pasta",
+      "Polpa di pomodoro",
+      "Basilico",
+      "Aglio",
+      "Olio d’oliva"
+    ],
+    "source": "GialloZafferano Blog — Allacciate il grembiule",
+    "url": "https://blog.giallozafferano.it/allacciateilgrembiule/pasta-pomodoro-basilico/",
+    "image_url": null,
+    "servings": 4,
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fats": null,
+    "cost": "Economico",
+    "ingredients": [
+      [
+        "Pasta",
+        360,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        200,
+        "g"
+      ],
+      [
+        "Polpa di pomodoro",
+        200,
+        "ml"
+      ],
+      [
+        "Olio extravergine di oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Basilico",
+        5,
+        "foglie"
+      ],
+      [
+        "Aglio",
+        1,
+        "spicchio"
+      ]
+    ],
+    "steps": [
+      "Dividi i pomodorini e mettili in padella con aglio e un filo d’olio.",
+      "Cuoci i pomodorini per 5–10 minuti; aggiungi polpa di pomodoro e basilico e prosegui per circa 10 minuti.",
+      "Lessa la pasta in acqua salata e scolala al dente.",
+      "Salta la pasta nel sugo con poca acqua di cottura e completa con basilico fresco."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Pasta e ceci cremosa",
+    "emoji": "🍲",
+    "style": "Classici italiani",
+    "type": "Primo",
+    "time": 40,
+    "ingredients_display": [
+      "Pasta",
+      "Ceci",
+      "Scalogno",
+      "Concentrato di pomodoro",
+      "Salvia",
+      "Grana",
+      "Olio d’oliva"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-e-ceci-cremosa.html",
+    "image_url": null,
+    "servings": 4,
+    "kcal": 863.5,
+    "protein": 41.3,
+    "carbs": 133.7,
+    "fats": 19.9,
+    "cost": "Basso",
+    "ingredients": [
+      [
+        "Ditalini",
+        250,
+        "g"
+      ],
+      [
+        "Ceci precotti sgocciolati",
+        500,
+        "g"
+      ],
+      [
+        "Scalogno",
+        1,
+        "pz"
+      ],
+      [
+        "Concentrato di pomodoro",
+        1,
+        "cucchiaio"
+      ],
+      [
+        "Salvia",
+        null,
+        "q.b."
+      ],
+      [
+        "Acqua",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine di oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe",
+        null,
+        "q.b."
+      ],
+      [
+        "Grana Padano",
+        70,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Trita lo scalogno e fallo ammorbidire in pentola con olio e salvia; unisci il concentrato di pomodoro.",
+      "Aggiungi i ceci sgocciolati, copri appena con acqua, regola di sale e pepe e cuoci dolcemente per circa 20 minuti.",
+      "Preleva una parte dei ceci e un po’ del loro liquido; versa i ditalini nella pentola e cuocili aggiungendo acqua calda se necessario.",
+      "Frulla i ceci messi da parte e rimetti la crema nella pentola quando la pasta è cotta.",
+      "Spegni il fuoco e manteca con Grana Padano e olio, poi servi."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Vellutata di zucca",
+    "emoji": "🎃",
+    "style": "Piatti salutari",
+    "type": "Primo",
+    "time": 50,
+    "ingredients_display": [
+      "Zucca",
+      "Porri",
+      "Brodo vegetale",
+      "Panna",
+      "Nocciole",
+      "Rosmarino",
+      "Olio d’oliva"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Vellutata-di-zucca.html",
+    "image_url": null,
+    "servings": 4,
+    "kcal": 488,
+    "protein": 8.2,
+    "carbs": 35.9,
+    "fats": 38.6,
+    "cost": "Basso",
+    "ingredients": [
+      [
+        "Zucca delica da pulire",
+        1500,
+        "g"
+      ],
+      [
+        "Porri",
+        150,
+        "g"
+      ],
+      [
+        "Brodo vegetale",
+        800,
+        "g"
+      ],
+      [
+        "Panna fresca liquida",
+        100,
+        "g"
+      ],
+      [
+        "Olio extravergine di oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe",
+        null,
+        "q.b."
+      ],
+      [
+        "Noce moscata",
+        1,
+        "pizzico"
+      ],
+      [
+        "Nocciole spellate",
+        80,
+        "g"
+      ],
+      [
+        "Rosmarino",
+        2,
+        "rametti"
+      ]
+    ],
+    "steps": [
+      "Pulisci la zucca e tagliala a pezzi; affetta i porri.",
+      "Fai insaporire i porri in olio, aggiungi la zucca e versa il brodo vegetale.",
+      "Cuoci fino a rendere morbida la zucca, poi frulla il composto e unisci la panna.",
+      "Regola sale, pepe e noce moscata e servi con nocciole e rosmarino come indicato nella ricetta originale."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Pollo al limone",
+    "emoji": "🍋",
+    "style": "Per tutta la famiglia",
+    "type": "Secondo",
+    "time": null,
+    "ingredients_display": [
+      "Pollo",
+      "Farina",
+      "Limone",
+      "Amido di mais",
+      "Zucchero",
+      "Salsa di soia",
+      "Olio d’oliva"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pollo-al-limone.html",
+    "image_url": null,
+    "servings": 4,
+    "kcal": 254.2,
+    "protein": null,
+    "carbs": null,
+    "fats": null,
+    "cost": null,
+    "ingredients": [
+      [
+        "Petto di pollo",
+        600,
+        "g"
+      ],
+      [
+        "Farina 00",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine di oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Origano",
+        null,
+        "q.b."
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Scorza di limone",
+        1,
+        "pz"
+      ],
+      [
+        "Succo di limone",
+        100,
+        "g"
+      ],
+      [
+        "Acqua",
+        200,
+        "g"
+      ],
+      [
+        "Amido di mais",
+        20,
+        "g"
+      ],
+      [
+        "Zucchero",
+        10,
+        "g"
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Salsa di soia",
+        10,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Grattugia la scorza del limone e spremi il succo, filtrandolo.",
+      "Prepara il pollo con farina e aromi e fallo cuocere in padella, secondo le indicazioni della fonte.",
+      "Prepara il condimento a base di limone, acqua, amido, zucchero e salsa di soia.",
+      "Completa la cottura del pollo nella salsa; consulta i passaggi illustrati nella fonte per i tempi esatti."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Pasta e zucchine",
+    "emoji": "🥒",
+    "style": "Veloci e facili",
+    "type": "Primo",
+    "time": 20,
+    "ingredients_display": [
+      "Pasta",
+      "Zucchine",
+      "Aglio",
+      "Basilico",
+      "Olio d’oliva"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-e-zucchine.html",
+    "image_url": "https://www.giallozafferano.com/images/226-22692/pasta-and-zucchini_1200x800.jpg",
+    "servings": 4,
+    "kcal": 356.6,
+    "protein": 12.5,
+    "carbs": 65.5,
+    "fats": 5.1,
+    "cost": "Molto basso",
+    "ingredients": [
+      [
+        "Fusilli",
+        320,
+        "g"
+      ],
+      [
+        "Zucchine",
+        650,
+        "g"
+      ],
+      [
+        "Aglio",
+        1,
+        "spicchio"
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine di oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Grattugia le zucchine e insaporisci olio e aglio in padella.",
+      "Unisci le zucchine, sala e pepa; cuoci mescolando per circa cinque minuti.",
+      "Aggiungi un poco di acqua calda e il basilico, togliendo l’aglio.",
+      "Cuoci la pasta al dente, completa la cottura in padella con le zucchine e poca acqua di cottura."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Pasta e patate",
+    "emoji": "🥔",
+    "style": "Economiche",
+    "type": "Primo",
+    "time": 45,
+    "ingredients_display": [
+      "Pasta",
+      "Patate",
+      "Scalogno",
+      "Rosmarino",
+      "Olio d’oliva"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-e-patate.html",
+    "image_url": null,
+    "servings": 4,
+    "kcal": 444.6,
+    "protein": 12.2,
+    "carbs": 80.1,
+    "fats": 8.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pipe rigate",
+        250,
+        "g"
+      ],
+      [
+        "Patate gialle",
+        700,
+        "g"
+      ],
+      [
+        "Scalogno",
+        40,
+        "g"
+      ],
+      [
+        "Olio extravergine di oliva",
+        30,
+        "g"
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Sbuccia le patate e tagliale a piccoli cubi.",
+      "Fai rosolare lo scalogno tritato con olio e rosmarino.",
+      "Aggiungi le patate e cuocile, versando gradualmente acqua calda.",
+      "Lessa la pasta e termina la cottura con le patate; aggiungi timo e olio a crudo."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Pasta alla sorrentina",
+    "emoji": "🍅",
+    "style": "Classici italiani",
+    "type": "Primo",
+    "time": 60,
+    "ingredients_display": [
+      "Pasta",
+      "Passata di pomodoro",
+      "Mozzarella",
+      "Parmigiano",
+      "Basilico"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-alla-sorrentina.html",
+    "image_url": null,
+    "servings": 4,
+    "kcal": 568.9,
+    "protein": 25.3,
+    "carbs": 72.5,
+    "fats": 19.9,
+    "cost": "Basso",
+    "ingredients": [
+      [
+        "Fusilli",
+        320,
+        "g"
+      ],
+      [
+        "Passata di pomodoro",
+        500,
+        "g"
+      ],
+      [
+        "Mozzarella",
+        125,
+        "g"
+      ],
+      [
+        "Olio extravergine di oliva",
+        30,
+        "g"
+      ],
+      [
+        "Aglio",
+        1,
+        "spicchio"
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Parmigiano Reggiano",
+        65,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Cuoci la passata con olio, aglio e basilico a fuoco dolce per circa mezz’ora.",
+      "Cuoci i fusilli al dente e taglia a cubetti la mozzarella.",
+      "Amalgama pasta e salsa, poi disponi pasta, mozzarella e Parmigiano a strati in pirofila.",
+      "Gratina brevemente in forno caldo fino a sciogliere la mozzarella."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Pasta zucchine e zafferano",
+    "emoji": "🍝",
+    "style": "Veloci e facili",
+    "type": "Primo",
+    "time": 30,
+    "ingredients_display": [
+      "Pasta",
+      "Zucchine",
+      "Zafferano",
+      "Grana",
+      "Olio d’oliva"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-zucchine-e-zafferano.html",
+    "image_url": null,
+    "servings": 4,
+    "kcal": 376,
+    "protein": 14.8,
+    "carbs": 64.5,
+    "fats": 6.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pipe rigate",
+        320,
+        "g"
+      ],
+      [
+        "Zucchine",
+        500,
+        "g"
+      ],
+      [
+        "Zafferano",
+        0.3,
+        "g"
+      ],
+      [
+        "Grana Padano",
+        30,
+        "g"
+      ],
+      [
+        "Menta",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine di oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Taglia le zucchine a cubetti e saltale in padella con olio finché sono morbide.",
+      "Cuoci la pasta; sciogli lo zafferano in poca acqua tiepida.",
+      "Versa la pasta scolata nelle zucchine, unisci lo zafferano e poca acqua della pasta.",
+      "Manteca con Grana e termina con menta fresca."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Pasta e ricotta",
+    "emoji": "🧀",
+    "style": "Veloci e facili",
+    "type": "Primo",
+    "time": 25,
+    "ingredients_display": [
+      "Pasta",
+      "Ricotta",
+      "Parmigiano",
+      "Panna",
+      "Timo"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-e-ricotta.html",
+    "image_url": null,
+    "servings": 4,
+    "kcal": 551.3,
+    "protein": 23.8,
+    "carbs": 68.1,
+    "fats": 20,
+    "cost": "Molto basso",
+    "ingredients": [
+      [
+        "Fusilli",
+        320,
+        "g"
+      ],
+      [
+        "Ricotta vaccina",
+        350,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano",
+        70,
+        "g"
+      ],
+      [
+        "Panna fresca liquida",
+        70,
+        "g"
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe",
+        null,
+        "q.b."
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Fai cuocere i fusilli in abbondante acqua salata.",
+      "Lavora la ricotta con Parmigiano, panna, timo e pepe per ottenere una crema.",
+      "Allunga il condimento con poca acqua della pasta se necessario.",
+      "Scola i fusilli al dente e amalgamali con la crema di ricotta."
+    ]
+  }
+]

@@ -27,7 +27,7 @@ jobs:
           python audit_immagini.py --limit 5 > /tmp/audit-foto.txt
           tail -n 1 /tmp/audit-foto.txt
           python pubblica_catalogo.py --target /tmp/cheffino-snapshot-candidato.json
-          python verifica_snapshot.py --snapshot /tmp/cheffino-snapshot-candidato.json
+          python verifica_snapshot.py --snapshot /tmp/cheffino-snapshot-candidato.json --approved-photo-review data/revisioni_foto_pubblicazione.json
 
   prova-rete:
     runs-on: ubuntu-latest
@@ -58,7 +58,7 @@ jobs:
           python classifica_catalogo.py
           python valida_catalogo.py
           python pubblica_catalogo.py --target /tmp/catalogo_pubblicato_test.json
-          python verifica_snapshot.py --snapshot /tmp/catalogo_pubblicato_test.json
+          python verifica_snapshot.py --snapshot /tmp/catalogo_pubblicato_test.json --approved-photo-review data/revisioni_foto_pubblicazione.json
           python -m json.tool /tmp/catalogo_pubblicato_test.json > /dev/null
       - name: Conferma foto storica dal sito originale (sola lettura)
         run: python ripara_foto_storica.py --dry-run

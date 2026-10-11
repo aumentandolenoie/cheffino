@@ -15,3 +15,10 @@ jobs:
       - run: python -m pip install -r requirements.txt pytest
       - run: python -m pytest -q
       - run: python -m compileall -q app *.py tests
+      - name: Audit catalogo reale (sola lettura)
+        run: |
+          python -m json.tool data/catalogo.json > /dev/null
+          python audit_immagini.py --limit 5 > /tmp/audit-foto.txt
+          tail -n 1 /tmp/audit-foto.txt
+          python pubblica_catalogo.py --target /tmp/cheffino-snapshot-candidato.json
+          python verifica_snapshot.py --snapshot /tmp/cheffino-snapshot-candidato.json

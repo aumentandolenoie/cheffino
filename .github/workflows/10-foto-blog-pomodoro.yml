@@ -27,6 +27,8 @@ jobs:
       - name: Recupera immagini reali blog e verifica pubblicazione
         run: |
           python recupera_foto_blog_pomodoro.py --apply
+          # Soltanto DOPO che le tre foto sono verificate rimuovi la sospensione.
+          python -c 'import json,pathlib; p=pathlib.Path("data/revisioni_foto_pubblicazione.json"); a=json.loads(p.read_text()); a=[x for x in a if x.get("id")!=5]; p.write_text(json.dumps(a,ensure_ascii=False,indent=2)+"\\n")'
           python controlla_integrita_catalogo.py
           python pubblica_catalogo.py
           python verifica_snapshot.py --previous /tmp/snapshot_pre_blog.json --approved-photo-review data/revisioni_foto_pubblicazione.json
@@ -35,10 +37,10 @@ jobs:
           python -m json.tool data/catalogo_pubblicato.json > /dev/null
       - name: Salva modifiche al catalogo
         run: |
-          if git diff --quiet -- data/catalogo.json data/catalogo_pubblicato.json; then exit 0; fi
+          if git diff --quiet -- data/catalogo.json data/catalogo_pubblicato.json data/revisioni_foto_pubblicazione.json; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/catalogo.json data/catalogo_pubblicato.json
+          git add data/catalogo.json data/catalogo_pubblicato.json data/revisioni_foto_pubblicazione.json
           git commit -m 'Catalogo: ripristina galleria originale blog pasta al pomodoro'
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"

@@ -7,7 +7,9 @@ def test_snapshot_controls_visibility_and_keeps_total(tmp_path, monkeypatch):
     snap = tmp_path / "pubblicato.json"
     entries = [
         {"id": 1, "name": "Disponibile", "url": "https://example.org/1",
-         "source": "Giallozafferano", "needs_review": False},
+         "source": "Giallozafferano", "needs_review": False,
+         "image_url": "https://www.giallozafferano.it/images/236-23641/c.jpg",
+         "step_images": [["https://www.giallozafferano.it/images/ricette/236/23641/1.jpg"]]},
         {"id": 2, "name": "Non pubblicata", "url": "https://example.org/2",
          "source": "Giallozafferano", "needs_review": False},
         {"id": 3, "name": "Nuova", "url": "https://example.org/3",

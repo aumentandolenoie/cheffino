@@ -13,6 +13,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   pubblicazione:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -31,7 +32,7 @@ jobs:
           python controlla_integrita_catalogo.py
           if [ -f data/catalogo_pubblicato.json ]; then cp data/catalogo_pubblicato.json /tmp/cheffino_snapshot_precedente.json; fi
           python pubblica_catalogo.py
-          python verifica_snapshot.py --previous /tmp/cheffino_snapshot_precedente.json
+          python verifica_snapshot.py --previous /tmp/cheffino_snapshot_precedente.json --approved-photo-review data/revisioni_foto_pubblicazione.json
           python -m json.tool data/catalogo_pubblicato.json > /dev/null
       - name: Salva snapshot pubblicato
         run: |

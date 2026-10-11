@@ -160,7 +160,7 @@ def main():
             continue
         candidates.append((0 if status == 'candidato' else 1, bool(rec.get('repaired_at')), idx, rec))
     candidates.sort(key=lambda x: (x[0], x[1], x[2]))
-    print(f'In attesa di arricchimento: {len(candidates)} (candidate={sum(p == 0 for p, _, _, _ in candidates)}, incerte={sum(p == 1 for p, _, _ in candidates)}); escluse saltate={skipped_excluded}', flush=True)
+    print(f'In attesa di arricchimento: {len(candidates)} (candidate={sum(p == 0 for p, _, _, _ in candidates)}, incerte={sum(p == 1 for p, _, _, _ in candidates)}); escluse saltate={skipped_excluded}', flush=True)
     for _, _, idx, rec in candidates:
         if refreshed + failed >= opts.limit: break
         url=rec.get('url','')

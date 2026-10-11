@@ -197,7 +197,9 @@ def associate_strips(parser, source_steps, count):
         # collocare *solo* quella parte nel blocco giusto.
         available = {n for a,b,_ in strips for n in range(a,b+1)}
         covered = available.intersection(ref_step)
-        if len(covered) >= 3 and len(covered) >= len(available)*0.7:
+        if (len(covered) >= 3 and len(covered) >= len(available)*0.7 and
+                any(len({ref_step.get(n) for n in range(a,b+1) if n in ref_step}) > 1
+                    for a,b,_ in strips)):
             for start,end,url in strips:
                 for n in range(start,end+1):
                     step = ref_step.get(n)

@@ -22,7 +22,7 @@ from app.photo_policy import certified_source_absence
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
-IMAGE_VERSION = 11
+IMAGE_VERSION = 12
 
 
 def normalize(s):
@@ -263,9 +263,16 @@ def fetch_html(url):
 
 
 def missing_photos(rec):
+    """Le gallerie parziali vanno ritentate: una foto non completa tutti i passaggi."""
+    base = rec.get('url') or BASE
+    if not valid_image(rec.get('image_url'), base):
+        return True
     groups = rec.get('step_images')
-    return not valid_image(rec.get('image_url'), rec.get('url') or BASE) or not (isinstance(groups, list) and
-        any(isinstance(group, list) and group for group in groups))
+    steps = rec.get('steps') or []
+    if not steps or not isinstance(groups, list) or len(groups) != len(steps):
+        return True
+    return any(not isinstance(group, list) or
+               not any(valid_image(photo, base) for photo in group) for group in groups)
 
 
 def should_recheck(rec, now=None, retry_days=7):
@@ -337,7 +344,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
                                 str(r.get('name', ''))))
 
     checked = main_added = step_added = blocked = errors = no_match = 0
-    strips_used = numbered_used = 0
+    strips_used = numbered_used = steps_filled_total = 0
     report = []
     for rec in pending:
         if checked >= limit:
@@ -372,17 +379,43 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
                 media['reason'] = 'foreign_image'
             previous = rec.get('step_images') or []
             had_gallery = has_step_gallery(rec)
-            # Existing verified galleries are never replaced by a new inference.
-            if groups and any(groups) and not had_gallery:
-                rec['step_images'] = groups
+            steps_filled = 0
+            merged = None
+            if groups and len(groups) == len(rec['steps']) and any(groups):
+                if not had_gallery:
+                    merged = [list(g) for g in groups]
+                    steps_filled = sum(bool(g) for g in merged)
+                elif (isinstance(previous, list) and len(previous) == len(groups) and
+                      rec.get('images_import_version', 0) >= 10 and
+                      all(isinstance(g, list) for g in previous)):
+                    # Solo i blocchi ancora vuoti: mai sostituire fotografie
+                    # esistenti o mescolare la vecchia mappatura pre-v10.
+                    merged = [list(g) for g in previous]
+                    for index, candidate in enumerate(groups):
+                        if not merged[index] and candidate:
+                            merged[index] = list(candidate)
+                            steps_filled += 1
+            if merged is not None and steps_filled:
+                rec['step_images'] = merged
                 rec.pop('step_photo_source_evidence', None)
+                original_blocks = rec.get('step_media_blocks') or []
                 rec['step_media_blocks'] = [
-                    {'text': text, 'images': group,
-                     'section': media['blocks'][i]['section'] if method == media['method'] and media['blocks'] else ''}
-                    for i, (text, group) in enumerate(zip(rec['steps'], groups))]
+                    {'text': text, 'images': group, 'section': (
+                        media['blocks'][i].get('section', '')
+                        if method == media['method'] and len(media['blocks']) == len(merged)
+                        else original_blocks[i].get('section', '')
+                        if i < len(original_blocks) and isinstance(original_blocks[i], dict)
+                        else '')}
+                    for i, (text, group) in enumerate(zip(rec['steps'], merged))]
+                rec['images_import_version'] = IMAGE_VERSION
                 step_added += 1
+                steps_filled_total += steps_filled
             elif not had_gallery:
                 no_match += 1
+            if method == 'strip':
+                strips_used += 1
+            elif method == 'numbered':
+                numbered_used += 1
             status = ('complete' if groups and all(groups) else
                       'partial' if any(groups) else 'unknown')
             # Absence needs a recognized complete source page and independent
@@ -403,6 +436,12 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
                         'checked_at': datetime.now(timezone.utc).isoformat(),
                         'existing_preserved': had_gallery,
                         'candidate_differs': had_gallery and groups != previous,
+                        'updated': bool(steps_filled),
+                        'steps_filled': steps_filled,
+                        'effective_status': ('complete' if rec.get('step_images') and
+                                             len(rec['step_images']) == len(rec['steps']) and
+                                             all(rec['step_images']) else
+                                             'partial' if has_step_gallery(rec) else 'unknown'),
                         'reason': media.get('reason')}
             rec['media_extraction'] = evidence
             report.append({'id': rec.get('id'), 'name': rec.get('name'), **evidence})
@@ -424,7 +463,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
             time.sleep(delay)
 
     print(f'Immagini v{IMAGE_VERSION}: controllate={checked}; foto_principali_aggiunte={main_added}; '
-          f'ricette_con_foto_passaggi_aggiunte={step_added}; con_strip={strips_used}; '
+          f'ricette_con_foto_passaggi_aggiunte_o_completate={step_added}; blocchi_riempiti={steps_filled_total}; con_strip={strips_used}; '
           f'con_numerate={numbered_used}; senza_abbinamento={no_match}; '
           f'bloccate={blocked}; errori={errors}; rimanenti={max(0, len(pending) - checked)}', flush=True)
     if report_path:

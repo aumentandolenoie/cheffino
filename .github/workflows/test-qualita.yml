@@ -22,3 +22,39 @@ jobs:
           tail -n 1 /tmp/audit-foto.txt
           python pubblica_catalogo.py --target /tmp/cheffino-snapshot-candidato.json
           python verifica_snapshot.py --snapshot /tmp/cheffino-snapshot-candidato.json
+
+  prova-rete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Raccolta limitata da sito reale (solo runner)
+        run: |
+          python aggiorna_catalogo.py --limit 2 --delay 2.5
+          python -m json.tool data/catalogo.json > /dev/null
+      - name: Arricchimento e immagini limitati (solo runner)
+        run: |
+          python classifica_catalogo.py
+          python ripara_catalogo.py --limit 2 --delay 2.5
+          python recupera_quantita_esplicite.py
+          python recupera_ingredienti_fonte.py
+          python recupera_quantita_mirate.py
+          python pulisci_procedimenti.py
+          python controlla_integrita_catalogo.py --apply
+          python importa_foto_passaggi.py --limit 2 --delay 2.5
+          python controlla_integrita_catalogo.py --apply
+          python audit_immagini.py --online --limit 3 | tail -n 6
+      - name: Validazione, snapshot e confronto sul runner
+        run: |
+          python classifica_catalogo.py
+          python valida_catalogo.py
+          python pubblica_catalogo.py --target /tmp/catalogo_pubblicato_test.json
+          python verifica_snapshot.py --snapshot /tmp/catalogo_pubblicato_test.json
+          python -m json.tool /tmp/catalogo_pubblicato_test.json > /dev/null
+      - name: Verifica nessuna pubblicazione
+        run: |
+          test ! -f data/catalogo_pubblicato.json
+          echo 'Tutti i cambiamenti di questa prova restano sul runner; nessun commit/push.'

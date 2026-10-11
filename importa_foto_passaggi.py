@@ -1,6 +1,6 @@
 """Arricchisce il catalogo Cheffino con immagini ORIGINALI indicate dalle pagine GialloZafferano.
 
-Versione 5:
+Versione 8:
 - recupera l'immagine principale da JSON-LD Recipe e, se assente, da og:image.
 - continua a supportare foto numerate classiche (alt 'Titolo ricetta - N').
 - aggiunge il supporto ai file 'strip_1-3.jpg' / 'strip_4-6.jpg' ecc.,
@@ -26,7 +26,7 @@ from pulisci_procedimenti import clean_steps, candidates
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
-IMAGE_VERSION = 7
+IMAGE_VERSION = 8
 
 
 def normalize(s):
@@ -48,11 +48,11 @@ def valid_image(value, base_url):
 
 def image_from_attrs(attrs, base_url):
     url = None
-    for field in ('data-src', 'data-lazy-src', 'data-original', 'src'):
+    for field in ('data-src', 'data-lazy-src', 'data-original', 'data-lazy', 'src'):
         url = valid_image(attrs.get(field), base_url)
         if url:
             return url
-    for field in ('data-srcset', 'srcset'):
+    for field in ('data-srcset', 'srcset'): 
         srcset = attrs.get(field, '') or ''
         for part in srcset.split(','):
             url = valid_image(part.strip().split()[0] if part.strip() else None, base_url)
@@ -69,11 +69,18 @@ class ImagesHTML(HTMLParser):
         self.photos = {}          # classic numbered photos: {1:url, 2:url, ...}
         self.strips = []          # grouped strip images: [(start,end,url), ...]
         self.og_image = None
+        self.picture_image = None
 
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
         if tag == 'meta' and (a.get('property') == 'og:image' or a.get('name') == 'twitter:image'):
             self.og_image = self.og_image or valid_image(a.get('content'), self.base_url)
+        if tag == 'source':
+            # Le immagini <picture> possono esporre il file solo nel srcset.
+            url = image_from_attrs(a, self.base_url)
+            if url:
+                self.picture_image = url
+            return
         if tag != 'img':
             return
         url = image_from_attrs(a, self.base_url)
@@ -214,7 +221,7 @@ def fetch_html(url):
 
 def missing_photos(rec):
     groups = rec.get('step_images')
-    return not rec.get('image_url') or not (isinstance(groups, list) and
+    return not valid_image(rec.get('image_url'), rec.get('url') or BASE) or not (isinstance(groups, list) and
         any(isinstance(group, list) and group for group in groups))
 
 
@@ -246,7 +253,9 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
     pending = [r for r in catalog if r.get('source') == 'GialloZafferano' and
                r.get('url') and r.get('steps') and
                should_recheck(r, retry_days=retry_days)]
-    pending.sort(key=lambda r: (not missing_photos(r),
+    # Copertine mancanti prima di gallerie mancanti, poi ricette già pubblicate.
+    pending.sort(key=lambda r: (bool(valid_image(r.get('image_url'), r.get('url') or BASE)),
+                                not missing_photos(r),
                                 not bool(r.get('validazione_automatica', {}).get('approved')),
                                 not (not r.get('image_url') or not any(r.get('step_images') or [])),
                                 str(r.get('name', ''))))
@@ -272,7 +281,8 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
             except ValueError:
                 pass
             main = main or parser.og_image
-            if main and not rec.get('image_url'):
+            # Un valore presente ma fuori dal dominio immagini consentito non e' una copertina valida.
+            if main and not valid_image(rec.get('image_url'), url):
                 rec['image_url'] = main
                 main_added += 1
 
@@ -318,7 +328,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
         if delay:
             time.sleep(delay)
 
-    print(f'Immagini v7: controllate={checked}; foto_principali_aggiunte={main_added}; '
+    print(f'Immagini v8: controllate={checked}; foto_principali_aggiunte={main_added}; '
           f'ricette_con_foto_passaggi_aggiunte={step_added}; con_strip={strips_used}; '
           f'con_numerate={numbered_used}; senza_abbinamento={no_match}; '
           f'bloccate={blocked}; errori={errors}; rimanenti={max(0, len(pending) - checked)}', flush=True)

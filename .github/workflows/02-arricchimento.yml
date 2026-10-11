@@ -26,7 +26,6 @@ jobs:
           python recupera_quantita_mirate.py
           python pulisci_procedimenti.py
           python controlla_integrita_catalogo.py --apply
-          python importa_foto_passaggi.py --limit 40 --delay 2.5
           python controlla_integrita_catalogo.py --apply
           python audit_immagini.py --online --limit 12
           python classifica_catalogo.py

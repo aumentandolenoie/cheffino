@@ -1,0 +1,42 @@
+name: "Cheffino 04 - Recupero immagini"
+on:
+  push:
+    paths:
+      - '.github/workflows/04-recupero-immagini.yml'
+  schedule:
+    - cron: '20 9 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cheffino-catalogo-scrittura
+  cancel-in-progress: false
+jobs:
+  immagini:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Controlla e recupera foto originali
+        run: |
+          python controlla_integrita_catalogo.py --apply
+          python importa_foto_passaggi.py --limit 35 --delay 2.5 --retry-days 7
+          python controlla_integrita_catalogo.py --apply
+          python audit_immagini.py --limit 10 > /tmp/cheffino-audit-immagini.log
+          tail -n 1 /tmp/cheffino-audit-immagini.log
+          python -m json.tool data/catalogo.json > /dev/null
+      - name: Registra solo cambiamenti del catalogo
+        run: |
+          if git diff --quiet -- data/catalogo.json; then
+            echo 'Nessun aggiornamento delle fotografie.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/catalogo.json
+          git commit -m 'Catalogo: recupero fotografie originali'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

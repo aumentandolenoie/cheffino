@@ -56,6 +56,7 @@ def _refresh_photo_fields(approved, latest):
         photo_ids.discard(None)
         if cover_id is None or all(step_id == cover_id for step_id in photo_ids):
             result["step_images"] = groups
+            result["images_import_version"] = latest.get("images_import_version", 0)
     return result
 
 

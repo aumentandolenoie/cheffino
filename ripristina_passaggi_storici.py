@@ -19,7 +19,7 @@ from pulisci_procedimenti import clean_steps
 
 RAW = Path("data/catalogo.json")
 PUBLISHED = Path("data/catalogo_pubblicato.json")
-LEGACY_IDS = {4, 24, 25, 26, 27, 28, 29, 30, 31}
+LEGACY_IDS = {26}
 
 
 def plan(source=RAW, published=PUBLISHED, fetcher=fetch_html, policy=None):
@@ -66,8 +66,18 @@ def plan(source=RAW, published=PUBLISHED, fetcher=fetch_html, policy=None):
             main_id = image_id(cover)
             step_ids = {image_id(u) for group in groups for u in group if image_id(u)}
             if main_id and any(i != main_id for i in step_ids):
-                print(f"ID {recipe_id}: fotografie di altra ricetta")
-                continue
+                # La scheda storica puo' avere una copertina di un'altra ricetta.
+                # Una sostituzione e' consentita soltanto se la foto principale
+                # ORIGINALE della pagina corrente coincide con TUTTE le foto step.
+                fresh = valid_image(data.get("image_url"),url)
+                fresh_id = image_id(fresh)
+                if not fresh or not fresh_id or not step_ids or any(i != fresh_id for i in step_ids):
+                    print(f"ID {recipe_id}: foto fonte non coerenti, nessuna sostituzione")
+                    continue
+                print(f"ID {recipe_id}: sostituisco copertina storica discordante con originale verificata")
+                for target in (rec,pub):
+                    target["image_url_precedente"] = target.get("image_url")
+                    target["image_url"] = fresh
             for target in (rec,pub):
                 target["steps_precedenti"] = list(target["steps"])
                 target["steps"] = steps

@@ -60,3 +60,21 @@ Eseguito via workflow di test della pull request, senza alterare main o Render:
 Lo snapshot in CI si trova solo nella directory temporanea del runner e
 non è stato attivato dal backend. I controlli HTTP sulla raggiungibilità
 delle copertine non sono stati eseguiti in questa prova offline.
+
+## Prova integrata con rete reale (11 ottobre 2026)
+Esecuzione GitHub Actions su runner temporaneo, senza commit né push:
+- Raccolta: 2 ricette nuove, totale temporaneo 390.
+- Riparazione: 2 schede rilette, 0 errori e 0 ancora incomplete tra le rilette.
+- Foto: 2 gallerie dei passaggi recuperate (strisce), 0 errori.
+- Controllo online di 3 copertine: 2 OK e 1 URL non ammesso.
+- Snapshot simulato dopo validazione: 133 ricette visibili su 390,
+  0 perdite rispetto alle 133 visibili nel catalogo temporaneo.
+- Entrambi i job CI (`test` e `prova-rete`) superati.
+- Il nuovo test limitato comprende chiamate esterne reali rispettando
+  robots.txt; non equivale ancora a un giro schedulato completo.
+- Il primo test rete aveva evidenziato un errore nel conteggio
+  `candidates` del riparatore, corretto e riverificato nel secondo run.
+
+Nessun aggiornamento di produzione: main, Render e il catalogo persistente
+restano invariati. La PR resta in bozza finché non saranno pianificati
+il rollout e l'adozione del catalogo pubblicato da parte del backend.

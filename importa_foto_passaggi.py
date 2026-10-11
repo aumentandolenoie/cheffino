@@ -26,7 +26,7 @@ from pulisci_procedimenti import clean_steps, candidates
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
-IMAGE_VERSION = 6
+IMAGE_VERSION = 7
 
 
 def normalize(s):
@@ -256,6 +256,16 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
             if not rec.get('step_images') or any(re.search(r'[_-]strip[_-]?\d{1,3}-\d{1,3}\.', u, re.I) for group in (rec.get('step_images') or []) if isinstance(group, list) for u in group if isinstance(u, str)):
                 raw = original_steps(html, url, rec['steps'])
                 groups, method = associate_steps(parser, raw, len(rec['steps']))
+                if groups:
+                    # Guard against cross-recipe association: a GZ recipe photo ID,
+                    # when present, must equal the ID of the recipe's cover photo.
+                    from controlla_integrita_catalogo import image_id
+                    cover_id = image_id(rec.get('image_url') or main)
+                    foreign_ids = {image_id(u) for group in groups for u in group}
+                    foreign_ids.discard(None)
+                    if cover_id and any(v != cover_id for v in foreign_ids):
+                        print(f"Foto sospette scartate: {rec['name']} | id_copertina={cover_id} | id_passaggi={sorted(foreign_ids)}")
+                        groups = []
                 if groups:
                     rec['step_images'] = groups
                     if raw:

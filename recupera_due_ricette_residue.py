@@ -42,7 +42,7 @@ def choose_cover(html,title,url,expected_id):
     main=[u for u in matching if "images/" in u and "/images/ricette/" not in u
           and "_780x520" in urlparse(u).path]
     if len(set(main))!=1:
-        raise ValueError("Copertina visibile con ID corretto non univoca")
+        raise ValueError("Copertina visibile con ID corretto non univoca: "+str(matching[:8]))
     return main[0]
 
 def plan(raw=RAW,pub=PUB,fetcher=fetch_html,policy=None):

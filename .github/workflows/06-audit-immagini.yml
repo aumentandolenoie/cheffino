@@ -1,0 +1,30 @@
+name: "Cheffino 06 - Audit immagini visibili"
+on:
+  push:
+    paths:
+      - '.github/workflows/06-audit-immagini.yml'
+  schedule:
+    - cron: '40 11 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  immagini-visibili:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verifica in modo progressivo le copertine effettivamente pubblicate
+        run: |
+          OFFSET=$(( (10#$(date -u +%j) % 7) * 20 ))
+          echo "Segmento esaminato: offset=$OFFSET"
+          python diagnostica_foto_api.py --online --offset "$OFFSET" --limit 20 --delay 1 | tee /tmp/cheffino-foto-report.txt
+      - name: Conserva report diagnostico (non altera il catalogo)
+        uses: actions/upload-artifact@v4
+        with:
+          name: audit-copertine
+          path: /tmp/cheffino-foto-report.txt
+          retention-days: 30

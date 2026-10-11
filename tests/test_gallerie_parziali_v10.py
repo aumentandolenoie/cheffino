@@ -40,5 +40,7 @@ def test_non_monotone_photo_numbers_not_matched():
 def test_strip_intervals_spanning_distinct_steps_not_assigned():
     p=parser_with_images(strips=((1,3,"a"),))
     source=["Prepara 1 e 2.", "Completa 3."]
-    assert associate_strips(p,source,2)==[]
+    result=associate_strips(p,source,2)
+    assert [len(g) for g in result]==[2,1]
+    assert result[1][0].endswith('#part=2')
     assert IMAGE_VERSION>=10

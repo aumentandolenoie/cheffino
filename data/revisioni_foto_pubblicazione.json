@@ -8,5 +8,10 @@
     "id": 149444968096049,
     "url": "https://ricette.giallozafferano.it/Hamburger-alle-erbe-aromatiche-con-verdure-miste-e-patatine.html",
     "reason": "galleria_presente_nella_fonte_non_abbinata"
+  },
+  {
+    "id": 5,
+    "url": "https://blog.giallozafferano.it/allacciateilgrembiule/pasta-pomodoro-basilico/",
+    "reason": "foto_nel_corpo_del_blog_non_ancora_abbinate"
   }
 ]

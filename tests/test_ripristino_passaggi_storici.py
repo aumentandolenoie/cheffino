@@ -1,4 +1,5 @@
 import json
+import ripristina_passaggi_storici as repair
 from ripristina_passaggi_storici import plan, run
 
 
@@ -7,7 +8,8 @@ class Permit:
         return True
 
 
-def test_original_procedure_saved_in_both_catalogs_with_backup(tmp_path):
+def test_original_procedure_saved_in_both_catalogs_with_backup(tmp_path,monkeypatch):
+    monkeypatch.setattr(repair, 'LEGACY_IDS', {4})
     a=tmp_path/"all.json"
     b=tmp_path/"published.json"
     rec={"id":4,"name":"Frittata di spinaci",

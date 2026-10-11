@@ -13,7 +13,7 @@ import argparse
 import json
 import re
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -212,7 +212,30 @@ def fetch_html(url):
 
 
 
-def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=None):
+def missing_photos(rec):
+    groups = rec.get('step_images')
+    return not rec.get('image_url') or not (isinstance(groups, list) and
+        any(isinstance(group, list) and group for group in groups))
+
+
+def should_recheck(rec, now=None, retry_days=7):
+    if rec.get('images_import_version', 0) < IMAGE_VERSION:
+        return True
+    if not missing_photos(rec):
+        return False
+    checked = rec.get('step_images_checked_at')
+    if not checked:
+        return True
+    try:
+        last = datetime.fromisoformat(checked.replace('Z', '+00:00'))
+        if last.tzinfo is None:
+            last = last.replace(tzinfo=timezone.utc)
+        return (now or datetime.now(timezone.utc)) - last >= timedelta(days=retry_days)
+    except (ValueError, TypeError, AttributeError):
+        return True
+
+
+def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=None, retry_days=7):
     path = Path(catalog_path)
     catalog = json.loads(path.read_text(encoding='utf-8'))
     if not isinstance(catalog, list):
@@ -222,9 +245,9 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
 
     pending = [r for r in catalog if r.get('source') == 'GialloZafferano' and
                r.get('url') and r.get('steps') and
-               (r.get('images_import_version', 0) < IMAGE_VERSION or
-                (not r.get('step_images') and not r.get('image_url')))]
-    pending.sort(key=lambda r: (not bool(r.get('validazione_automatica', {}).get('approved')),
+               should_recheck(r, retry_days=retry_days)]
+    pending.sort(key=lambda r: (not missing_photos(r),
+                                not bool(r.get('validazione_automatica', {}).get('approved')),
                                 not (not r.get('image_url') or not any(r.get('step_images') or [])),
                                 str(r.get('name', ''))))
 
@@ -255,7 +278,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
 
             if not rec.get('step_images') or any(re.search(r'[_-]strip[_-]?\d{1,3}-\d{1,3}\.', u, re.I) for group in (rec.get('step_images') or []) if isinstance(group, list) for u in group if isinstance(u, str)):
                 raw = original_steps(html, url, rec['steps'])
-                groups, method = associate_steps(parser, raw, len(rec['steps']))
+                groups, method = associate_steps(parser, raw, len(rec['steps'])) if raw is not None else ([], None)
                 if groups:
                     # Guard against cross-recipe association: a GZ recipe photo ID,
                     # when present, must equal the ID of the recipe's cover photo.
@@ -295,7 +318,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
         if delay:
             time.sleep(delay)
 
-    print(f'Immagini v5: controllate={checked}; foto_principali_aggiunte={main_added}; '
+    print(f'Immagini v7: controllate={checked}; foto_principali_aggiunte={main_added}; '
           f'ricette_con_foto_passaggi_aggiunte={step_added}; con_strip={strips_used}; '
           f'con_numerate={numbered_used}; senza_abbinamento={no_match}; '
           f'bloccate={blocked}; errori={errors}; rimanenti={max(0, len(pending) - checked)}', flush=True)
@@ -306,5 +329,7 @@ if __name__ == '__main__':
     cli = argparse.ArgumentParser()
     cli.add_argument('--limit', type=int, default=25)
     cli.add_argument('--delay', type=float, default=2.5)
+    cli.add_argument('--retry-days', type=int, default=7)
     args = cli.parse_args()
-    run(limit=args.limit, delay=args.delay)
+    if args.retry_days < 1: cli.error('--retry-days deve essere >= 1')
+    run(limit=args.limit, delay=args.delay, retry_days=args.retry_days)

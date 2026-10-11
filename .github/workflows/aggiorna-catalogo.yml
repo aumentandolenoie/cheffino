@@ -32,6 +32,7 @@ jobs:
           python verifica_catalogo.py
           python valida_catalogo.py
           python pulisci_procedimenti.py
+          python controlla_integrita_catalogo.py --apply
           python importa_foto_passaggi.py --limit 25 --delay 2.5
           python -m json.tool data/catalogo.json > /dev/null
       - name: Salva catalogo

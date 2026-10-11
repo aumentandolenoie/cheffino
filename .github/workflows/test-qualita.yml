@@ -60,6 +60,8 @@ jobs:
           python pubblica_catalogo.py --target /tmp/catalogo_pubblicato_test.json
           python verifica_snapshot.py --snapshot /tmp/catalogo_pubblicato_test.json
           python -m json.tool /tmp/catalogo_pubblicato_test.json > /dev/null
+      - name: Conferma foto storica dal sito originale (sola lettura)
+        run: python ripara_foto_storica.py --dry-run
       - name: Verifica nessuna pubblicazione
         run: |
           git diff --exit-code -- data/catalogo_pubblicato.json

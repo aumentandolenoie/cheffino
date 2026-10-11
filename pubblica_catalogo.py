@@ -44,6 +44,8 @@ def eligible(rec):
                     step_id = image_id(url)
                     if step_id and step_id != cover_id:
                         return False, "foto_di_altra_ricetta"
+    if not publishable_step_photos(rec):
+        return False, "foto_passaggi_non_verificate"
     return True, "ok"
 
 

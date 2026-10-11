@@ -80,8 +80,8 @@
       "Cuoci i fusilli; a parte mescola ricotta, scorza di limone, basilico e poca acqua della pasta.",
       "Unisci pasta, zucchine e crema di ricotta, aggiungi Grana e amalgama."
     ],
-    "step_images_checked_at": "2026-10-11T12:45:21.131146+00:00",
-    "images_import_version": 9
+    "step_images_checked_at": "2026-10-11T12:49:23.987227+00:00",
+    "images_import_version": 10
   },
   {
     "id": 4,
@@ -144,8 +144,8 @@
       "Versa il composto in una padella con olio e cuoci a fuoco dolce con coperchio per circa 10 minuti.",
       "Gira la frittata e prosegui la cottura per circa 5 minuti, fino a doratura."
     ],
-    "step_images_checked_at": "2026-10-11T12:45:15.758129+00:00",
-    "images_import_version": 9
+    "step_images_checked_at": "2026-10-11T12:49:18.616020+00:00",
+    "images_import_version": 10
   },
   {
     "id": 5,
@@ -293,8 +293,8 @@
       "Frulla i ceci messi da parte e rimetti la crema nella pentola quando la pasta è cotta.",
       "Spegni il fuoco e manteca con Grana Padano e olio, poi servi."
     ],
-    "step_images_checked_at": "2026-10-11T12:45:23.801010+00:00",
-    "images_import_version": 9
+    "step_images_checked_at": "2026-10-11T12:49:26.764940+00:00",
+    "images_import_version": 10
   },
   {
     "id": 25,
@@ -379,8 +379,8 @@
       "Cuoci fino a rendere morbida la zucca, poi frulla il composto e unisci la panna.",
       "Regola sale, pepe e noce moscata e servi con nocciole e rosmarino come indicato nella ricetta originale."
     ],
-    "step_images_checked_at": "2026-10-11T12:45:40.224057+00:00",
-    "images_import_version": 9
+    "step_images_checked_at": "2026-10-11T12:49:42.988376+00:00",
+    "images_import_version": 10
   },
   {
     "id": 26,
@@ -475,8 +475,8 @@
       "Prepara il condimento a base di limone, acqua, amido, zucchero e salsa di soia.",
       "Completa la cottura del pollo nella salsa; consulta i passaggi illustrati nella fonte per i tempi esatti."
     ],
-    "step_images_checked_at": "2026-10-11T12:45:37.383167+00:00",
-    "images_import_version": 9
+    "step_images_checked_at": "2026-10-11T12:49:40.296155+00:00",
+    "images_import_version": 10
   },
   {
     "id": 27,
@@ -544,8 +544,8 @@
       "Aggiungi un poco di acqua calda e il basilico, togliendo l’aglio.",
       "Cuoci la pasta al dente, completa la cottura in padella con le zucchine e poca acqua di cottura."
     ],
-    "step_images_checked_at": "2026-10-11T12:45:32.082253+00:00",
-    "images_import_version": 9
+    "step_images_checked_at": "2026-10-11T12:49:34.932261+00:00",
+    "images_import_version": 10
   },
   {
     "id": 28,
@@ -618,8 +618,8 @@
       "Aggiungi le patate e cuocile, versando gradualmente acqua calda.",
       "Lessa la pasta e termina la cottura con le patate; aggiungi timo e olio a crudo."
     ],
-    "step_images_checked_at": "2026-10-11T12:45:26.523615+00:00",
-    "images_import_version": 9
+    "step_images_checked_at": "2026-10-11T12:49:29.560849+00:00",
+    "images_import_version": 10
   },
   {
     "id": 29,
@@ -692,8 +692,8 @@
       "Amalgama pasta e salsa, poi disponi pasta, mozzarella e Parmigiano a strati in pirofila.",
       "Gratina brevemente in forno caldo fino a sciogliere la mozzarella."
     ],
-    "step_images_checked_at": "2026-10-11T12:45:18.436997+00:00",
-    "images_import_version": 9
+    "step_images_checked_at": "2026-10-11T12:49:21.297903+00:00",
+    "images_import_version": 10
   },
   {
     "id": 30,
@@ -761,8 +761,8 @@
       "Versa la pasta scolata nelle zucchine, unisci lo zafferano e poca acqua della pasta.",
       "Manteca con Grana e termina con menta fresca."
     ],
-    "step_images_checked_at": "2026-10-11T12:45:34.721798+00:00",
-    "images_import_version": 9
+    "step_images_checked_at": "2026-10-11T12:49:37.602075+00:00",
+    "images_import_version": 10
   },
   {
     "id": 31,
@@ -830,8 +830,8 @@
       "Allunga il condimento con poca acqua della pasta se necessario.",
       "Scola i fusilli al dente e amalgamali con la crema di ricotta."
     ],
-    "step_images_checked_at": "2026-10-11T12:45:29.360157+00:00",
-    "images_import_version": 9
+    "step_images_checked_at": "2026-10-11T12:49:32.247264+00:00",
+    "images_import_version": 10
   },
   {
     "id": 42270105876548,
@@ -23375,8 +23375,45 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 9,
-    "step_images_checked_at": "2026-10-11T12:45:13.049809+00:00"
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T12:49:15.928978+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_1-3.jpg"
+      ],
+      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_13-15.jpg"
+      ],
+      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_19-21.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con le zucche iniziate tagliando a fette di 1 cm di spessore la zucca 1 , poi eliminate con un coltello la buccia 2 e tagliate ciascuna fetta a bastoncini di 2 cm di spessore dai quali ricaverete dei triangolini 3 .",
+      "Lavate e spuntate le zucchine, quindi tagliatele a rondelle di mezzo centimetro di spessore 4 , prendete ciascuna rondella e intagliatela incidendo due triangolini distanziati (5-6),",
+      "estraete i triangolini e otterrete la forma di una simpatica zucca 7 . Ripetete lo steso procedimento con le carote: pelatele, spuntate quindi tagliatele a rondelle di mezzo centimetro 8 , intagliate con un coltello i triangolini 9",
+      "estraeteli 10 per avere le vostre zucche arancioni 11 . Intanto ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta. In una padella scaldate l’olio di oliva, quindi versate i triangolini di zucca 12",
+      "insaporite con lo spicchio di aglio intero (potete ometterlo se non lo preferite) 13 e il rosmarino 14 , lasciate rosolare per 2-3 minuti, quindi unite anche le carote 15",
+      "e le zucchine 16 , salate a piacere poi sfumate con un mestolo di acqua di cottura della pasta 17 e cuocete per circa 8 minuti a fuoco basso, a fine cottura eliminate l’aglio con una pinza da cucina. Quando l’acqua per la cottura bollirà, versate le mini penne rigate 18",
+      "Cuocete la pasta per 6 minuti o il tempo riportato sulla confezione, quindi scolatela direttamente nella padella con il condimento 19 , insaporite con il Parmigiano grattugiato 20 e servite subito la pasta con le zucche 21 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con le zucche iniziate tagliando a fette di 1 cm di spessore la zucca, poi eliminate con un coltello la buccia e tagliate ciascuna fetta a bastoncini di 2 cm di spessore dai quali ricaverete dei triangolini.",
+      "Lavate e spuntate le zucchine, quindi tagliatele a rondelle di mezzo centimetro di spessore, prendete ciascuna rondella e intagliatela incidendo due triangolini distanziati (5-6),",
+      "estraete i triangolini e otterrete la forma di una simpatica zucca 7 . Ripetete lo steso procedimento con le carote: pelatele, spuntate quindi tagliatele a rondelle di mezzo centimetro 8 , intagliate con un coltello i triangolini 9",
+      "estraeteli 10 per avere le vostre zucche arancioni 11 . Intanto ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta. In una padella scaldate l’olio di oliva, quindi versate i triangolini di zucca 12",
+      "insaporite con lo spicchio di aglio intero (potete ometterlo se non lo preferite) 13 e il rosmarino 14 , lasciate rosolare per 2-3 minuti, quindi unite anche le carote 15",
+      "e le zucchine 16 , salate a piacere poi sfumate con un mestolo di acqua di cottura della pasta 17 e cuocete per circa 8 minuti a fuoco basso, a fine cottura eliminate l’aglio con una pinza da cucina. Quando l’acqua per la cottura bollirà, versate le mini penne rigate 18",
+      "Cuocete la pasta per 6 minuti o il tempo riportato sulla confezione, quindi scolatela direttamente nella padella con il condimento 19 , insaporite con il Parmigiano grattugiato 20 e servite subito la pasta con le zucche 21 !"
+    ]
   },
   {
     "id": 55652435307175,
@@ -24880,8 +24917,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 9,
-    "step_images_checked_at": "2026-10-11T12:45:04.991046+00:00"
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T12:49:07.777074+00:00"
   },
   {
     "id": 236893490771622,
@@ -33351,8 +33388,65 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 9,
-    "step_images_checked_at": "2026-10-11T12:45:10.370164+00:00"
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T12:49:13.242588+00:00",
+    "step_images": [
+      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_8.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con datterini, capperi e burrata iniziate lavando e tagliando i pomodorini a metà, nel senso della lunghezza 1 , disponeteli su una teglia foderata con carta da forno 2 , con il lato tagliato rivolto verso l’alto. Condite con abbondante olio extravergine d'oliva 3 .",
+      "Cospargete con origano 4 , sale 5 e zucchero 6 . Infornate in forno statico preriscaldato a 200° per circa 30-40 minuti: a fine cottura dovranno risultare caramellati, appassiti e ben abbrustoliti.",
+      "Per i capperi: sciacquateli sotto acqua corrente per eliminare il sale in eccesso, tamponateli così da eliminare più acqua possibile. In un pentolino dai bordi alti scaldate l’olio di semi a 175°. Friggete i capperi per qualche minuto 7 e scolate su carta assorbente, non appena risulteranno ben croccanti 8 9 .",
+      "Intanto i pomodorini saranno cotti: prelevatene circa 3/4 del totale, versateli in un bicchiere alto, unite acqua 10 e 2 cucchiai di olio extravergine d'oliva 11 e frullate 12 .",
+      "La consistenza finale deve essere una crema 13 , da passare poi al setaccio 14 . La coulis di datterini è pronta 15 .",
+      "Mettete a cuocere i pennoni 16 , da scolare 3 minuti prima del termine della cottura. Intanto in una padella ampia versate l'olio extravergine d'oliva, l'aglio scamiciato e le acciughe 17 . Fatele sciogliere mescolando, poi rimuovete l'aglio 18 .",
+      "Potete versare poi la coulis e mescolare, quindi scolare i pennoni 19 , aggiungere acqua di cottura al bisogno 20 e terminare così la cottura dei pennoni. Una volta pronti spegnete il fuoco, aromatizzate con la scorza grattugiata del limone 21 . Potete unire a filo anche poco olio.",
+      "Servite la pasta in un bel piatto da portata disponendo in ordine sparso i pomodorini datterino tenuti da parte 22 e la stracciatella di burrata 23 . Terminate sbriciolando i capperi fritti 24 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con datterini, capperi e burrata iniziate lavando e tagliando i pomodorini a metà, nel senso della lunghezza, disponeteli su una teglia foderata con carta da forno, con il lato tagliato rivolto verso l’alto. Condite con abbondante olio extravergine d'oliva.",
+      "Cospargete con origano, sale e zucchero. Infornate in forno statico preriscaldato a 200° per circa 30-40 minuti: a fine cottura dovranno risultare caramellati, appassiti e ben abbrustoliti.",
+      "Per i capperi: sciacquateli sotto acqua corrente per eliminare il sale in eccesso, tamponateli così da eliminare più acqua possibile. In un pentolino dai bordi alti scaldate l’olio di semi a 175°. Friggete i capperi per qualche minuto e scolate su carta assorbente, non appena risulteranno ben croccanti 9.",
+      "Intanto i pomodorini saranno cotti: prelevatene circa 3/4 del totale, versateli in un bicchiere alto, unite acqua 10 e 2 cucchiai di olio extravergine d'oliva 11 e frullate 12 .",
+      "La consistenza finale deve essere una crema 13 , da passare poi al setaccio 14 . La coulis di datterini è pronta 15 .",
+      "Mettete a cuocere i pennoni 16 , da scolare 3 minuti prima del termine della cottura. Intanto in una padella ampia versate l'olio extravergine d'oliva, l'aglio scamiciato e le acciughe 17 . Fatele sciogliere mescolando, poi rimuovete l'aglio 18 .",
+      "Potete versare poi la coulis e mescolare, quindi scolare i pennoni 19 , aggiungere acqua di cottura al bisogno 20 e terminare così la cottura dei pennoni. Una volta pronti spegnete il fuoco, aromatizzate con la scorza grattugiata del limone 21 . Potete unire a filo anche poco olio.",
+      "Servite la pasta in un bel piatto da portata disponendo in ordine sparso i pomodorini datterino tenuti da parte 22 e la stracciatella di burrata 23 . Terminate sbriciolando i capperi fritti 24 !"
+    ]
   },
   {
     "id": 39116646995969,
@@ -36145,8 +36239,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 9,
-    "step_images_checked_at": "2026-10-11T12:44:56.857343+00:00"
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T12:48:59.612540+00:00"
   },
   {
     "id": 132208820724896,
@@ -41434,8 +41528,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 9,
-    "step_images_checked_at": "2026-10-11T12:45:02.297191+00:00"
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T12:49:05.077064+00:00"
   },
   {
     "id": 157146087951858,
@@ -44878,8 +44972,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 9,
-    "step_images_checked_at": "2026-10-11T12:44:59.586473+00:00"
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T12:49:02.370641+00:00"
   },
   {
     "id": 6749092888902,
@@ -45805,8 +45899,62 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 9,
-    "step_images_checked_at": "2026-10-11T12:45:07.667508+00:00"
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T12:49:10.492803+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_9.jpg"
+      ],
+      [],
+      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con crema di porri brasati, nocciole e finocchietto, come prima cosa pulite i porri: eliminate la parte verde 1 e la base, poi divideteli a metà per il lungo 2 e condite con olio 3 .",
+      "Salate 4 e distribuite il condimento su tutta la superficie con le mani 5 . Adagiate i porri su una piastra ben calda 6 .",
+      "Lasciate abbrustolire bene i porri da ambo i lati 7 , ci vorranno circa 10 minuti. Quando si saranno ammorbiditi trasferiteli in una teglia 8 , coprite con pellicola e lasciateli riposare per 10 minuti 9 ; in questo continueranno ad ammorbidirsi grazie al loro stesso vapore.",
+      "Nel frattempo versate le nocciole in una padella già calda 10 e tostatele per qualche minuto, facendo attenzione a non bruciarle 11 . Tritate grossolanamente le nocciole al coltello 12 .",
+      "Riprendete i porri brasati e metteteli in un boccale 10 , poi aggiungete pochissima acqua 11 e frullate con un mixer a immersione fino ad ottenere una crema liscia e omogenea 12 . Tenete da parte.",
+      "Cuocete gli spaghetti in abbondante acqua bollente salata 16 . Scolate la pasta 2 minuti prima della fine della cottura e trasferiteli in una padella 17 , poi versate un mestolo dell'acqua di cottura 18 .",
+      "Unite la crema di porri 19 e portate a cottura. Spegnete il fuoco, versate un filo d'olio 20 , pepate 21 e mantecate.",
+      "Impiattate gli spaghetti 22 , poi completate con le nocciole tritate 23 e il finocchietto selvatico. La pasta con crema di porri brasati, nocciole e finocchietto è pronta per essere servita 24 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con crema di porri brasati, nocciole e finocchietto, come prima cosa pulite i porri: eliminate la parte verde e la base, poi divideteli a metà per il lungo e condite con olio.",
+      "Salate e distribuite il condimento su tutta la superficie con le mani. Adagiate i porri su una piastra ben calda.",
+      "Lasciate abbrustolire bene i porri da ambo i lati, ci vorranno circa 10 minuti. Quando si saranno ammorbiditi trasferiteli in una teglia, coprite con pellicola e lasciateli riposare per 10 minuti; in questo continueranno ad ammorbidirsi grazie al loro stesso vapore.",
+      "Nel frattempo versate le nocciole in una padella già calda e tostatele per qualche minuto, facendo attenzione a non bruciarle. Tritate grossolanamente le nocciole al coltello.",
+      "Riprendete i porri brasati e metteteli in un boccale 10 , poi aggiungete pochissima acqua 11 e frullate con un mixer a immersione fino ad ottenere una crema liscia e omogenea 12 . Tenete da parte.",
+      "Cuocete gli spaghetti in abbondante acqua bollente salata 16 . Scolate la pasta 2 minuti prima della fine della cottura e trasferiteli in una padella 17 , poi versate un mestolo dell'acqua di cottura 18 .",
+      "Unite la crema di porri 19 e portate a cottura. Spegnete il fuoco, versate un filo d'olio 20 , pepate 21 e mantecate.",
+      "Impiattate gli spaghetti 22 , poi completate con le nocciole tritate 23 e il finocchietto selvatico. La pasta con crema di porri brasati, nocciole e finocchietto è pronta per essere servita 24 !"
+    ]
   },
   {
     "id": 177595636769878,

@@ -35,4 +35,4 @@ def test_photo_parser_uses_numbered_images_when_step_text_is_verified():
     groups, method = associate_steps(parser, source, len(stored))
     assert method == 'numbered'
     assert len(groups) == 3
-    assert IMAGE_VERSION == 9
+    assert IMAGE_VERSION >= 9

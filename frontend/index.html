@@ -310,7 +310,7 @@ function showRecipe(id){const r=getRecipe(id),d=recipeDetailData(r),people=peopl
        let target=idx;
        // Le strip GZ sono normalmente triplette: 1-3,4-6,7-9...
        // Ricollocazione vale anche se salvate con la vecchia V5.
-       if(start>=1 && end>=start && end-start<=2)target=Math.floor((start-1)/3);
+       if((d?.imageVersion||0)<10 && start>=1 && end>=start && end-start<=2)target=Math.floor((start-1)/3);
        if(target>=0&&target<(d?.steps?.length||0)){
          const images=collected.get(target)||[];
          if(!images.some(x=>x.url===url))images.push({url,start,end,strip:true});
@@ -408,7 +408,7 @@ async function caricaCatalogoServer(){
    sourcedDetails[entry.id]={source:entry.source,url:entry.url,
     servings:entry.servings||null,minutes:entry.time??null,kcal:entry.kcal??null,
     cost:entry.cost??null,protein:entry.protein??null,carbs:entry.carbs??null,fats:entry.fats??null,
-    image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps,stepImages:entry.step_images||[]};
+    image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps,stepImages:entry.step_images||[],imageVersion:entry.images_import_version||0};
   }
   // Elimina solo i riferimenti a vecchie demo ormai inesistenti.
   const validIds=new Set(recipeData.map(x=>x.id));

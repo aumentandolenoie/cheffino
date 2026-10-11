@@ -296,7 +296,7 @@ function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;genera
 function showRecipe(id){const r=getRecipe(id),d=recipeDetailData(r),people=peopleCount();
  const metric=(title,val)=>`<div class="detailmetric"><span>${title}</span><b>${val}</b></div>`;
  const mac=(klass,title,key)=>`<div class="detailmacro ${klass}"><span>${title}</span><b>${typeof d?.[key]==='number'?d[key].toLocaleString('it-IT')+' g':'n.d.'}</b></div>`;
- const stripPattern=/(?:^|[_-])strip[_-]?(\d{1,3})-(\d{1,3})\.(?:jpe?g|png|webp)(?:\?|$)/i;
+ const stripPattern=/(?:^|[_-])strip[_-]?(\d{1,3})-(\d{1,3})\.(?:jpe?g|png|webp)(?:\?|#part=[012]$|$)/i;
  const collected=new Map();
  // Compatibile anche con i cataloghi V5: una strip ripetuta sui passi 1,2,3
  // viene ricollocata sul PRIMO blocco di testo, mostrando tutte e tre le foto.
@@ -313,7 +313,7 @@ function showRecipe(id){const r=getRecipe(id),d=recipeDetailData(r),people=peopl
        if((d?.imageVersion||0)<10 && start>=1 && end>=start && end-start<=2)target=Math.floor((start-1)/3);
        if(target>=0&&target<(d?.steps?.length||0)){
          const images=collected.get(target)||[];
-         if(!images.some(x=>x.url===url))images.push({url,start,end,strip:true});
+         if(!images.some(x=>x.url===url))images.push({url,start,end,strip:true,part:url.match(/#part=([012])$/)?.[1]});
          collected.set(target,images);
        }
      }else{
@@ -326,7 +326,7 @@ function showRecipe(id){const r=getRecipe(id),d=recipeDetailData(r),people=peopl
  const steps=d?`<ol class="detailsteps">${d.steps.map((x,i)=>{
    const images=collected.get(i)||[];
    return `<li><div>${safe(x)}</div>${images.length?`<div class="step-photo-grid">${images.map((photo,j)=>photo.strip?
-     Array.from({length:photo.end-photo.start+1},(_,part)=>`<span class="step-strip-window"><img src="${safe(photo.url)}" alt="${safe(r.name)} - foto ${photo.start+part}" loading="lazy" decoding="async" referrerpolicy="no-referrer" style="--strip-shift:-${(part*100/3).toFixed(6)}%" onerror="this.parentElement.remove()"></span>`).join(''):
+     Array.from({length:photo.part===undefined?photo.end-photo.start+1:1},(_,part)=>{const partIndex=photo.part===undefined?part:Number(photo.part);return `<span class="step-strip-window"><img src="${safe(photo.url)}" alt="${safe(r.name)} - foto ${photo.start+partIndex}" loading="lazy" decoding="async" referrerpolicy="no-referrer" style="--strip-shift:-${(partIndex*100/3).toFixed(6)}%" onerror="this.parentElement.remove()"></span>`}).join(''):
      `<img src="${safe(photo.url)}" alt="${safe(r.name)} - foto passaggio ${i+1}.${j+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`).join('')}</div>`:''}</li>`;
  }).join('')}</ol>`:'<p class="hint">Procedimento non ancora verificato per questa ricetta. Nessun passaggio viene inventato.</p>';
 

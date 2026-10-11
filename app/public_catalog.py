@@ -10,6 +10,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 from controlla_integrita_catalogo import image_id
+from app.photo_policy import publishable_step_photos, certified_source_absence
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG = ROOT / "data" / "catalogo.json"
@@ -57,6 +58,11 @@ def _refresh_photo_fields(approved, latest):
         if cover_id is None or all(step_id == cover_id for step_id in photo_ids):
             result["step_images"] = groups
             result["images_import_version"] = latest.get("images_import_version", 0)
+    proof = latest.get("step_photo_source_evidence")
+    if isinstance(proof,dict):
+        candidate = dict(result,step_photo_source_evidence=proof)
+        if certified_source_absence(candidate):
+            result["step_photo_source_evidence"] = proof
     return result
 
 
@@ -75,7 +81,13 @@ def public_catalog():
         for rec in records:
             published = eligible.get(rec.get("id"))
             if published is not None and published.get("url") == rec.get("url"):
-                merged.append(_refresh_photo_fields(published, rec))
+                effective = _refresh_photo_fields(published, rec)
+                if not publishable_step_photos(effective):
+                    # Il record resta nel catalogo totale: soltanto il piano
+                    # richiede foto reali o prova di assenza della fonte.
+                    effective["needs_review"] = True
+                    effective["photo_review_reason"] = "foto_passaggi_non_verificate"
+                merged.append(effective)
             else:
                 pending = dict(rec)
                 pending["needs_review"] = True

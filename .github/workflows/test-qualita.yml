@@ -64,6 +64,12 @@ jobs:
         run: python ripara_foto_storica.py --dry-run
       - name: Simula ripristino dei procedimenti originali pubblicati (sola lettura)
         run: python ripristina_passaggi_storici.py
+      - name: Evidenze originali delle sette ricette (sola lettura)
+        run: python diagnostica_ultime_sette.py
+      - name: Simula recupero sicuro di due ricette senza modifiche
+        run: python recupera_due_ricette_residue.py
+      - name: Simula certificazione di assenza nella fonte originale
+        run: python certifica_assenza_foto_fonte.py
       - name: Verifica nessuna pubblicazione
         run: |
           git diff --exit-code -- data/catalogo_pubblicato.json

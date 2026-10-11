@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - '.github/workflows/09-hamburger-vegetariano.yml'
+      - 'data/revisioni_foto_pubblicazione.json'
   workflow_dispatch:
 permissions:
   contents: write

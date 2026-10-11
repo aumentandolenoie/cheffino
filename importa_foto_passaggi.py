@@ -1,6 +1,6 @@
 """Arricchisce il catalogo Cheffino con immagini ORIGINALI indicate dalle pagine GialloZafferano.
 
-Versione 8:
+Versione 9:
 - recupera l'immagine principale da JSON-LD Recipe e, se assente, da og:image.
 - continua a supportare foto numerate classiche (alt 'Titolo ricetta - N').
 - aggiunge il supporto ai file 'strip_1-3.jpg' / 'strip_4-6.jpg' ecc.,
@@ -10,6 +10,7 @@ Versione 8:
 - non cambia ingredienti, procedimenti, classificazioni o approvazioni.
 """
 import argparse
+from difflib import SequenceMatcher
 import json
 import re
 import time
@@ -26,7 +27,7 @@ from pulisci_procedimenti import clean_steps, candidates
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
-IMAGE_VERSION = 8
+IMAGE_VERSION = 9
 
 
 def normalize(s):
@@ -109,18 +110,32 @@ class ImagesHTML(HTMLParser):
 
 
 
+def steps_equivalent(source, stored):
+    """Accetta solo cambiamenti editoriali minimi, nello stesso ordine.
+
+    Non ricolloca foto su procedure riscritte o con blocchi fusi/divisi:
+    la somiglianza di TUTTI i passaggi deve essere sufficientemente alta.
+    """
+    cleaned, _ = clean_steps(source)
+    if len(cleaned) != len(stored) or not cleaned:
+        return False
+    for a, b in zip(cleaned, stored):
+        left, right = normalize(a), normalize(b)
+        if not left or not right:
+            return False
+        if left == right:
+            continue
+        if SequenceMatcher(None, left, right, autojunk=False).ratio() < 0.90:
+            return False
+    return True
+
+
 def original_steps(html, url, stored):
     try:
         source = parse_recipe(html, url)['steps']
     except (ValueError, TypeError, KeyError):
         return None
-    cleaned, _ = clean_steps(source)
-    if len(cleaned) != len(stored):
-        return None
-    if all(normalize(a) == normalize(b) for a, b in zip(cleaned, stored)):
-        return source
-    return None
-
+    return source if steps_equivalent(source, stored) else None
 
 
 def associate_numbered(parser, source_steps, count):
@@ -341,7 +356,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
         if delay:
             time.sleep(delay)
 
-    print(f'Immagini v8: controllate={checked}; foto_principali_aggiunte={main_added}; '
+    print(f'Immagini v9: controllate={checked}; foto_principali_aggiunte={main_added}; '
           f'ricette_con_foto_passaggi_aggiunte={step_added}; con_strip={strips_used}; '
           f'con_numerate={numbered_used}; senza_abbinamento={no_match}; '
           f'bloccate={blocked}; errori={errors}; rimanenti={max(0, len(pending) - checked)}', flush=True)

@@ -1,0 +1,41 @@
+name: "Cheffino 03 - Verifica e pubblicazione"
+on:
+  schedule:
+    - cron: '15 10 * * 3,5'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cheffino-catalogo-scrittura
+  cancel-in-progress: false
+jobs:
+  pubblicazione:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Dipendenze di test
+        run: python -m pip install -r requirements.txt pytest
+      - name: Test regressione
+        run: python -m pytest -q
+      - name: Validazione strutturale e integrita
+        run: |
+          python classifica_catalogo.py
+          python valida_catalogo.py
+          python controlla_integrita_catalogo.py
+          if [ -f data/catalogo_pubblicato.json ]; then cp data/catalogo_pubblicato.json /tmp/cheffino_snapshot_precedente.json; fi
+          python pubblica_catalogo.py
+          python verifica_snapshot.py --previous /tmp/cheffino_snapshot_precedente.json
+          python -m json.tool data/catalogo_pubblicato.json > /dev/null
+      - name: Salva snapshot pubblicato
+        run: |
+          if git diff --quiet -- data/catalogo.json data/catalogo_pubblicato.json && [ -z "$(git ls-files --others --exclude-standard -- data/catalogo_pubblicato.json)" ]; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/catalogo.json data/catalogo_pubblicato.json
+          git commit -m 'Catalogo: snapshot pubblicato dopo test'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

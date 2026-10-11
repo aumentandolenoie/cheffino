@@ -1,0 +1,44 @@
+name: "Cheffino 02 - Arricchimento"
+on:
+  schedule:
+    - cron: '15 8 * * 2,4'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cheffino-catalogo-scrittura
+  cancel-in-progress: false
+jobs:
+  arricchimento:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Completa ricette e immagini senza approvare
+        run: |
+          python classifica_catalogo.py
+          python ripara_catalogo.py --limit 30 --delay 2.5
+          python recupera_quantita_esplicite.py
+          python recupera_ingredienti_fonte.py
+          python recupera_quantita_mirate.py
+          python pulisci_procedimenti.py
+          python controlla_integrita_catalogo.py --apply
+          python importa_foto_passaggi.py --limit 40 --delay 2.5
+          python controlla_integrita_catalogo.py --apply
+          python audit_immagini.py --online --limit 12
+          python classifica_catalogo.py
+          python diagnostica_quantita.py --limit 20
+          python verifica_catalogo.py
+          python -m json.tool data/catalogo.json > /dev/null
+      - name: Salva dati arricchiti
+        run: |
+          if git diff --quiet -- data/catalogo.json; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/catalogo.json
+          git commit -m 'Catalogo in lavorazione: arricchimento fonti e foto'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

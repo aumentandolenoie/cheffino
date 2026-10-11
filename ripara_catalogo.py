@@ -9,7 +9,7 @@ import json
 import re
 import time
 from pathlib import Path
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from urllib.robotparser import RobotFileParser
 from urllib.request import Request, urlopen
 
@@ -76,7 +76,21 @@ def enrich(rec, raw):
     revised = dict(rec)
     ingredients = raw.get('ingredients') or rec.get('ingredients_display') or []
     revised['ingredients_display'] = ingredients
-    revised['ingredients'] = [parse_ingredient(x) for x in ingredients]
+    parsed = [parse_ingredient(x) for x in ingredients]
+    previous_display = rec.get('ingredients_display') or []
+    previous_values = rec.get('ingredients') or []
+    if isinstance(previous_display, list) and isinstance(previous_values, list):
+        for i, label in enumerate(ingredients):
+            if i >= len(previous_display) or i >= len(previous_values):
+                continue
+            old = previous_values[i]
+            if (str(label).strip() == str(previous_display[i]).strip()
+                    and isinstance(old, list) and len(old) >= 3
+                    and ((isinstance(old[1], (int, float)) and not isinstance(old[1], bool) and old[1] > 0)
+                         or old[2] == 'q.b.')
+                    and parsed[i] is not None and parsed[i][2] == 'da verificare'):
+                parsed[i] = old
+    revised['ingredients'] = parsed
     revised['servings'] = parse_servings(raw.get('yield_text')) or rec.get('servings')
     revised['time'] = parse_duration(raw.get('total_time')) or (
         (parse_duration(raw.get('prep_time')) or 0) + (parse_duration(raw.get('cook_time')) or 0)
@@ -104,12 +118,31 @@ def robots_policy():
     return parser
 
 
+def retry_due(rec, days=7, now=None):
+    if not rec.get('needs_review'):
+        return False
+    previous = rec.get('repaired_at')
+    if not previous:
+        return True
+    qa = assess(rec)
+    incomplete = not qa['dati_completi'] or not rec.get('time') or not rec.get('image_url')
+    if not incomplete:
+        return False
+    try:
+        last = datetime.fromisoformat(previous.replace('Z', '+00:00'))
+        if last.tzinfo is None:
+            last = last.replace(tzinfo=timezone.utc)
+        return (now or datetime.now(timezone.utc)) - last >= timedelta(days=days)
+    except (ValueError, TypeError, AttributeError):
+        return True
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--limit', type=int, default=20)
     ap.add_argument('--delay', type=float, default=2.5)
+    ap.add_argument('--retry-days', type=int, default=7)
     opts = ap.parse_args()
-    if not 1<=opts.limit<=50 or opts.delay<2: ap.error('limit 1..50 e delay >=2 richiesti')
+    if not 1<=opts.limit<=50 or opts.delay<2 or opts.retry_days < 1: ap.error('limit 1..50 e delay >=2 richiesti')
     catalog = json.loads(CATALOG.read_text(encoding='utf-8'))
     robots = robots_policy()
     refreshed = incomplete = failed = blocked = 0
@@ -119,16 +152,16 @@ def main():
     candidates = []
     skipped_excluded = 0
     for idx, rec in enumerate(catalog):
-        if not rec.get('needs_review') or rec.get('source') != 'GialloZafferano' or rec.get('repaired_at'):
+        if not rec.get('needs_review') or rec.get('source') != 'GialloZafferano' or not retry_due(rec, opts.retry_days):
             continue
         typ, status, _ = classify(rec.get('name', ''))
         if status == 'escluso':
             skipped_excluded += 1
             continue
-        candidates.append((0 if status == 'candidato' else 1, idx, rec))
-    candidates.sort(key=lambda x: (x[0], x[1]))
-    print(f'In attesa di arricchimento: {len(candidates)} (candidate={sum(p == 0 for p, _, _ in candidates)}, incerte={sum(p == 1 for p, _, _ in candidates)}); escluse saltate={skipped_excluded}', flush=True)
-    for _, idx, rec in candidates:
+        candidates.append((0 if status == 'candidato' else 1, bool(rec.get('repaired_at')), idx, rec))
+    candidates.sort(key=lambda x: (x[0], x[1], x[2]))
+    print(f'In attesa di arricchimento: {len(candidates)} (candidate={sum(p == 0 for p, _, _, _ in candidates)}, incerte={sum(p == 1 for p, _, _, _ in candidates)}); escluse saltate={skipped_excluded}', flush=True)
+    for _, _, idx, rec in candidates:
         if refreshed + failed >= opts.limit: break
         url=rec.get('url','')
         if not url.startswith('https://ricette.giallozafferano.it/') or not robots.can_fetch(UA,url):

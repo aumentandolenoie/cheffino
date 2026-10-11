@@ -4,7 +4,7 @@ from pubblica_catalogo import eligible, publish
 def sample(**kwargs):
     rec = dict(id=1, name="Ricetta fonte", url="https://ricette.giallozafferano.it/a.html",
                image_url="https://www.giallozafferano.it/images/236-23641/a.jpg",
-               steps=["Mescola"], needs_review=False,
+               steps=["Mescola"], step_images=[["https://www.giallozafferano.it/images/ricette/236/23641/a_1.jpg"]], needs_review=False,
                validazione_automatica={"approved": True})
     rec.update(kwargs)
     return rec
@@ -36,10 +36,9 @@ def test_prevent_empty_overwrite(tmp_path):
         raise AssertionError("Expected ValueError")
     assert target.read_text()=="previous"
 
-def test_keep_legacy_recipe_without_cover():
-    # Le schede storiche possono essere visibili pur senza immagine.
+def test_legacy_recipe_without_cover_is_in_review():
     rec = sample(id=5, image_url=None, validazione_automatica=None)
-    assert eligible(rec) == (True, "ok")
+    assert eligible(rec) == (False, "copertina_assente")
 
 
 def test_imported_approved_recipe_still_requires_cover():

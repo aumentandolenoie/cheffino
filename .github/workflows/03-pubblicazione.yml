@@ -27,6 +27,7 @@ jobs:
           python valida_catalogo.py
           python controlla_integrita_catalogo.py
           python pubblica_catalogo.py
+          python verifica_snapshot.py
           python -m json.tool data/catalogo_pubblicato.json > /dev/null
       - name: Salva snapshot pubblicato
         run: |

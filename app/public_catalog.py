@@ -7,6 +7,9 @@ storico del backend, senza cancellare ricette preesistenti.
 """
 import json
 from pathlib import Path
+from urllib.parse import urlparse
+
+from controlla_integrita_catalogo import image_id
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG = ROOT / "data" / "catalogo.json"
@@ -18,6 +21,42 @@ def _read_list(path):
     if not isinstance(data, list):
         raise ValueError(f"Catalogo non valido: {path}")
     return data
+
+
+def _trusted_photo(url):
+    if not isinstance(url, str):
+        return False
+    try:
+        p = urlparse(url)
+        host = (p.hostname or "").lower()
+        return (p.scheme == "https" and
+                (host == "giallozafferano.it" or host.endswith(".giallozafferano.it"))
+                and p.port in (None, 443) and not p.username and not p.password)
+    except ValueError:
+        return False
+
+
+def _refresh_photo_fields(approved, latest):
+    """Copia SOLO le immagini della stessa ricetta dalla versione aggiornata.
+
+    Lo snapshot resta autoritativo per idoneita', ingredienti e procedimento.
+    Le immagini del catalogo di lavoro possono essere piu' recenti dello
+    snapshot: non serve attendere la successiva pubblicazione bisettimanale.
+    """
+    result = dict(approved)
+    main = latest.get("image_url")
+    if _trusted_photo(main):
+        result["image_url"] = main
+    groups = latest.get("step_images")
+    if (isinstance(groups, list) and groups and
+            all(isinstance(g, list) and all(_trusted_photo(u) for u in g)
+                for g in groups)):
+        cover_id = image_id(result.get("image_url"))
+        photo_ids = {image_id(u) for group in groups for u in group}
+        photo_ids.discard(None)
+        if cover_id is None or all(step_id == cover_id for step_id in photo_ids):
+            result["step_images"] = groups
+    return result
 
 
 def public_catalog():
@@ -35,7 +74,7 @@ def public_catalog():
         for rec in records:
             published = eligible.get(rec.get("id"))
             if published is not None and published.get("url") == rec.get("url"):
-                merged.append(published)
+                merged.append(_refresh_photo_fields(published, rec))
             else:
                 pending = dict(rec)
                 pending["needs_review"] = True

@@ -1118,34 +1118,9 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images": [
-      [
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_1.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_2.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_4.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_5.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_6.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_7.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_8.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_9.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_10.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_11.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_12.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_13.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_14.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/240/24038/draft-zuppa-di-lenticchie_15.jpg"
-      ]
-    ],
-    "step_images_checked_at": "2026-10-10T14:08:57.251493+00:00"
+    "step_images": [],
+    "step_images_checked_at": "2026-10-10T14:08:57.251493+00:00",
+    "images_import_version": 0
   },
   {
     "id": 62417905672710,
@@ -8316,48 +8291,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images": [
-      [
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_1.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_2.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_3.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_4.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_5.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_6.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_7.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_8.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_9.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_10.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_11.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_12.jpg"
-      ],
-      [
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_13.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_14.jpg",
-        "https://ricette.giallozafferano.it/images/ricette/238/23875/besciamella_15.jpg"
-      ]
-    ],
-    "steps_raw": [
-      "Per preparare la besciamella per prima cosa versate il latte in un pentolino 1 , aggiungete la noce moscata 2 e il sale 3 , poi fatelo scaldare.",
-      "Mettete il burro in un'altra pentola 4 e fatelo sciogliere a fuoco dolce, poi aggiungete la farina in una volta sola 5 . Mescolate vigorosamente con una frusta a mano per evitare la formazione di grumi 6 . Continuate a mescolare fino ad ottenere un composto dorato, il roux.",
-      "A questo punto stemperate il roux versando prima poco latte caldo 7 , mescolate con una frusta 8 e poi versate tutto il resto del latte 9 .",
-      "Continuate a mescolare 10 a fuoco dolce fino a raggiungere la consistenza desiderata 11 ; cuocendo la besciamella per 5-6 minuti otterrete una densità media. La besciamella è pronta potete utilizzarla subito oppure conservarla. In questo caso versatela in una ciotola 12 .",
-      "Coprite con pellicola a contatto 13 e lasciatela raffreddare. Al momento di utilizzarla lavoratela con una frusta per farla tornare liscia 14 . Se dovesse essere troppo fredda potete scaldarla in microonde aggiungendo poco latte. La besciamella è pronta 15 !"
-    ],
-    "steps_clean": [
-      "Per preparare la besciamella per prima cosa versate il latte in un pentolino, aggiungete la noce moscata e il sale, poi fatelo scaldare.",
-      "Mettete il burro in un'altra pentola e fatelo sciogliere a fuoco dolce, poi aggiungete la farina in una volta sola. Mescolate vigorosamente con una frusta a mano per evitare la formazione di grumi. Continuate a mescolare fino ad ottenere un composto dorato, il roux.",
-      "A questo punto stemperate il roux versando prima poco latte caldo, mescolate con una frusta e poi versate tutto il resto del latte.",
-      "Continuate a mescolare a fuoco dolce fino a raggiungere la consistenza desiderata; cuocendo la besciamella per 5-6 minuti otterrete una densità media. La besciamella è pronta potete utilizzarla subito oppure conservarla. In questo caso versatela in una ciotola.",
-      "Coprite con pellicola a contatto e lasciatela raffreddare. Al momento di utilizzarla lavoratela con una frusta per farla tornare liscia. Se dovesse essere troppo fredda potete scaldarla in microonde aggiungendo poco latte. La besciamella è pronta!"
-    ],
-    "images_import_version": 2,
+    "step_images": [],
+    "images_import_version": 0,
     "step_images_checked_at": "2026-10-10T14:20:56.299207+00:00"
   },
   {
@@ -8759,8 +8694,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:04:48.694549+00:00",
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:51:11.120395+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/172/17296/17296_baccal_alla_livornese_strip_1-3.jpg"
@@ -10016,7 +9951,71 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25819/zuppa-frantoiana_24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la zuppa frantoiana per prima cosa realizzate il passato di fagioli: sgranate i fagioli 1 , ne otterrete così 250 g circa. Tritate grossolanamente una costa di sedano, una carota e una cipolla e riuniteli in una casseruola capiente 3 .",
+      "Versate anche i fagioli borlotti. Coprite con acqua fredda 5 , circa 1,2 litri, e portate a bollore. Cuocete a fiamma bassa, tenendo semicoperto 6 , fino a quando saranno teneri.",
+      "Ci vorrà circa mezz'ora 7 . Nel frattempo mondate e tritate la seconda cipolla 8 , pelate e tagliate a cubetti la zucca 9 .",
+      "Pelate e tagliate a cubetti anche le patate 1 e la carota restante. Eliminate la costa centrale del cavolo nero 11 e fatelo a pezzetti 12 .",
+      "In una pentola capiente preparate un soffritto con l'olio extravergine d'oliva 13 e la cipolla tritata 14 e aggiungete le verdure a tocchetti 15 .",
+      "Unite anche il cavolo 16 . Fate rosolare qualche minuto. Intanto prelevate un po' di fagioli cotti 17 e teneteli da parte. Frullate il resto insieme alle verdure e la loro acqua con cui sono stati cotti per ottenere una crema omogenea 18 .",
+      "Unite il passato di fagioli alla zuppa 19 , mescolate e cuocete per circa 40-50 minuti con il coperchio 20 , fino a quando le verdure saranno tenere, unendo circa 500 g di acqua 21 . Al bisogno aggiungetene durante la cottura.",
+      "Verso fine cottura unite i fagioli interi rimasti 22 , mescolate e aggiustate di sale 23 e pepe. Trasferite nei piatti da portata e servite la zuppa frantoiana insieme a fette di pane e un giro di olio extravergine d'oliva a crudo 24"
+    ],
+    "steps_clean": [
+      "Per preparare la zuppa frantoiana per prima cosa realizzate il passato di fagioli: sgranate i fagioli 1 , ne otterrete così 250 g circa. Tritate grossolanamente una costa di sedano, una carota e una cipolla e riuniteli in una casseruola capiente 3 .",
+      "Versate anche i fagioli borlotti. Coprite con acqua fredda 5 , circa 1,2 litri, e portate a bollore. Cuocete a fiamma bassa, tenendo semicoperto 6 , fino a quando saranno teneri.",
+      "Ci vorrà circa mezz'ora 7 . Nel frattempo mondate e tritate la seconda cipolla 8 , pelate e tagliate a cubetti la zucca 9 .",
+      "Pelate e tagliate a cubetti anche le patate 1 e la carota restante. Eliminate la costa centrale del cavolo nero 11 e fatelo a pezzetti 12 .",
+      "In una pentola capiente preparate un soffritto con l'olio extravergine d'oliva 13 e la cipolla tritata 14 e aggiungete le verdure a tocchetti 15 .",
+      "Unite anche il cavolo 16 . Fate rosolare qualche minuto. Intanto prelevate un po' di fagioli cotti 17 e teneteli da parte. Frullate il resto insieme alle verdure e la loro acqua con cui sono stati cotti per ottenere una crema omogenea 18 .",
+      "Unite il passato di fagioli alla zuppa 19 , mescolate e cuocete per circa 40-50 minuti con il coperchio 20 , fino a quando le verdure saranno tenere, unendo circa 500 g di acqua 21 . Al bisogno aggiungetene durante la cottura.",
+      "Verso fine cottura unite i fagioli interi rimasti 22 , mescolate e aggiustate di sale 23 e pepe. Trasferite nei piatti da portata e servite la zuppa frantoiana insieme a fette di pane e un giro di olio extravergine d'oliva a crudo 24"
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:51:08.339107+00:00"
   },
   {
     "id": 122333987910733,
@@ -10497,7 +10496,43 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23528/zuppa-di-riso-e-ceci_12.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "per realizzare la zuppa di riso e ceci per prima cosa occupatevi della pulizia dei funghi: tagliate la base del gambo e eliminate i resdiui di terra con un panno inumidito. Tagliate a fettine i funghi e teneteli da parte 2 . Mondate cipolla e carote e tritatele 2 .  Scaldate un giro d'olio in padella 3 .",
+      "Soffriggete quindi la carota cipolla e agli a fuoco medio basso 4 . Unite i funghi 5 e fate cuocere per un paio di minuti. Aggiungete i ceci 6 e  mescolate.",
+      "Coprite con il brodo caldo 7 . Raggiunto il bollore aggiungete il riso 8 , amalgamate e insaporite con il sale, il pepe e il curry 9 .",
+      "Profumate con il rosmarino tritato 10 . Portate a cottura il riso aggiungete brodo se necessario,mescolando spesso 11 . Servite la zuppa di riso e ceci calda 12 ."
+    ],
+    "steps_clean": [
+      "per realizzare la zuppa di riso e ceci per prima cosa occupatevi della pulizia dei funghi: tagliate la base del gambo e eliminate i resdiui di terra con un panno inumidito. Tagliate a fettine i funghi e teneteli da parte 2 . Mondate cipolla e carote e tritatele 2 .  Scaldate un giro d'olio in padella 3 .",
+      "Soffriggete quindi la carota cipolla e agli a fuoco medio basso 4 . Unite i funghi 5 e fate cuocere per un paio di minuti. Aggiungete i ceci 6 e  mescolate.",
+      "Coprite con il brodo caldo 7 . Raggiunto il bollore aggiungete il riso 8 , amalgamate e insaporite con il sale, il pepe e il curry 9 .",
+      "Profumate con il rosmarino tritato 10 . Portate a cottura il riso aggiungete brodo se necessario,mescolando spesso 11 . Servite la zuppa di riso e ceci calda 12 ."
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:51:05.686260+00:00"
   },
   {
     "id": 19216972943873,
@@ -10778,7 +10813,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29467/zuppa-di-porri_15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la zuppa di porri, come prima cosa eliminate la parte verde del porro 1 , tagliate le radici 2 e togliete le foglie più esterne 3 .",
+      "Tagliatelo a rondelle spesse circa 1 cm 4 . Raccogliete il tutto in una ciotola e coprite con acqua fredda 5 . Lasciate riposare fino al momento dell’utilizzo. Intanto, pelate e tagliate le patate e fette spesse circa 1 cm 6 .",
+      "In una padella scaldate l’olio, aggiungete le patate 7 e fatele rosolare per 2 minuti. Scolate i porri, uniteli in padella 8 , mescolate e continuate la cottura per altri 2 minuti. Versate l' acqua fino a coprire gli ingredienti 9 .",
+      "Regolate di sale e pepe 10 e fate cuocere per 10 minuti. Aromatizzate con il rosmarino e l’alloro 11 e continuate la cottura per altri 40 minuti. Intanto in una padella scaldate l’olio quindi aggiungete il pane tagliato a pezzetti 12 .",
+      "Cuocete a fiamma media per 2 minuti 13 , rigirando spesso per evitare che si brucino. A pochi minuti dalla fine della cottura frullate, con un frullatore ad immersione 14 , circa metà degli ingredienti per ottenere una zuppa ancora più corposa. Impiattate la zuppa e completate con il pane abbrustolito. La vostra zuppa di porri è pronta per essere servita 15 ."
+    ],
+    "steps_clean": [
+      "Per preparare la zuppa di porri, come prima cosa eliminate la parte verde del porro, tagliate le radici e togliete le foglie più esterne.",
+      "Tagliatelo a rondelle spesse circa 1 cm. Raccogliete il tutto in una ciotola e coprite con acqua fredda. Lasciate riposare fino al momento dell’utilizzo. Intanto, pelate e tagliate le patate e fette spesse circa 1 cm.",
+      "In una padella scaldate l’olio, aggiungete le patate e fatele rosolare per 2 minuti. Scolate i porri, uniteli in padella, mescolate e continuate la cottura per altri 2 minuti. Versate l' acqua fino a coprire gli ingredienti.",
+      "Regolate di sale e pepe e fate cuocere per 10 minuti. Aromatizzate con il rosmarino e l’alloro e continuate la cottura per altri 40 minuti. Intanto in una padella scaldate l’olio quindi aggiungete il pane tagliato a pezzetti.",
+      "Cuocete a fiamma media per 2 minuti, rigirando spesso per evitare che si brucino. A pochi minuti dalla fine della cottura frullate, con un frullatore ad immersione, circa metà degli ingredienti per ottenere una zuppa ancora più corposa. Impiattate la zuppa e completate con il pane abbrustolito. La vostra zuppa di porri è pronta per essere servita."
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:51:02.986918+00:00"
   },
   {
     "id": 93997394744767,
@@ -11033,7 +11111,40 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/202/20299/20299_zuppa_di_pomodoro_e_ceci_con_bulgur_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/202/20299/20299_zuppa_di_pomodoro_e_ceci_con_bulgur_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/202/20299/20299_zuppa_di_pomodoro_e_ceci_con_bulgur_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/202/20299/20299_zuppa_di_pomodoro_e_ceci_con_bulgur_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/202/20299/20299_zuppa_di_pomodoro_e_ceci_con_bulgur_mod_strip_13-15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la zuppa di pomodoro e ceci con bulgur, per prima cosa mondate e tritate lo scalogno 1 , poi pelate e tagliate le carote a fettine sottili 2 . In un tegame soffriggete lo scalogno con un filo d’olio per 2-3 minuti 3 ,",
+      "poi aggiungete le carote 4 e cuocete per altri 3 minuti, aiutandovi con poca acqua. Ora versate i pomodori pelati 5 e schiacciateli con un cucchiaio di legno 6 . Aggiustate di sale e pepe e cuocete a fuoco medio per circa 5 minuti.",
+      "A questo punto unite anche i ceci sgocciolati 7 e le erbe aromatiche 8 , mescolate bene, chiudete con il coperchio 9 e cuocete per circa 10 minuti, aggiungendo al bisogno altra acqua per evitare che si bruci.",
+      "Trascorso questo tempo versate il bulgur direttamente nel tegame 10 , mescolate bene e unite anche la paprika 11 . Proseguite la cottura per altri 30 minuti aggiungendo sempre poca acqua per volta 12 .",
+      "Unite anche il concentrato di pomodoro 13 . A fine cottura condite con un filo di olio a crudo 14 e una macinata di pepe nero. La vostra zuppa di pomodoro e ceci con bulgur è pronta per essere servita ben calda 15 !"
+    ],
+    "steps_clean": [
+      "Per preparare la zuppa di pomodoro e ceci con bulgur, per prima cosa mondate e tritate lo scalogno, poi pelate e tagliate le carote a fettine sottili. In un tegame soffriggete lo scalogno con un filo d’olio per 2-3 minuti,",
+      "poi aggiungete le carote e cuocete per altri 3 minuti, aiutandovi con poca acqua. Ora versate i pomodori pelati e schiacciateli con un cucchiaio di legno. Aggiustate di sale e pepe e cuocete a fuoco medio per circa 5 minuti.",
+      "A questo punto unite anche i ceci sgocciolati e le erbe aromatiche, mescolate bene, chiudete con il coperchio e cuocete per circa 10 minuti, aggiungendo al bisogno altra acqua per evitare che si bruci.",
+      "Trascorso questo tempo versate il bulgur direttamente nel tegame, mescolate bene e unite anche la paprika. Proseguite la cottura per altri 30 minuti aggiungendo sempre poca acqua per volta.",
+      "Unite anche il concentrato di pomodoro. A fine cottura condite con un filo di olio a crudo e una macinata di pepe nero. La vostra zuppa di pomodoro e ceci con bulgur è pronta per essere servita ben calda!"
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:51:00.288865+00:00"
   },
   {
     "id": 173962377170710,
@@ -15525,7 +15636,40 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16640/16640_pasta_con_pesce_spada_e_zucchine_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16640/16640_pasta_con_pesce_spada_e_zucchine_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16640/16640_pasta_con_pesce_spada_e_zucchine_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16640/16640_nopack_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16640/16640_pasta_con_pesce_spada_e_zucchine_strip_13-15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la pasta con pesce spada e zucchine mettete a bollire abbondante acqua i un tegame e quando bollirà salatela; nel frattempo lavate e spuntate le zucchine, poi riducetele a julienne con una grattugia con i fori larghi 1 , poi pulite le fette di pesce spada: eliminate la striscia di pelle laterale 2 quindi tagliate la polpa prima a listarelle 3",
+      "poi a piccoli cubetti di circa 1 cm 4 . In una padella scaldate l’olio di oliva extravergine con lo spicchio di aglio intero 5 , poi unite i bocconcini di pesce spada 6",
+      "fate rosolare per 1 minuto mescolando, poi sfumate con il vino bianco 7 , lasciate evaporare per qualche istante e poi incorporate le zucchine tagliate a julienne 8 salate, pepate e cuocete per 4-5 minuti mescolando di tanto in tanto. Quindi spegnete il fuoco e profumate con le foglioline di timo fresco 9 ,",
+      "eliminate con una pinza da cucina lo spicchio di aglio 10 e profumate con la scorza grattugiata del limone. Lessate i fusilli nel tegame con acqua salata portata a bollore per circa 11 minuti o quanto riportato sulla confezione 12 ; dovranno essere al dente.",
+      "Scolateli poi con una schiumarola direttamente nella padella con il pesce 13 . Aggiungete un po’ di pepe a piacere 14 e servite subito la pasta con pesce spada e zucchine ben calda 15 !"
+    ],
+    "steps_clean": [
+      "Per realizzare la pasta con pesce spada e zucchine mettete a bollire abbondante acqua i un tegame e quando bollirà salatela; nel frattempo lavate e spuntate le zucchine, poi riducetele a julienne con una grattugia con i fori larghi, poi pulite le fette di pesce spada: eliminate la striscia di pelle laterale quindi tagliate la polpa prima a listarelle",
+      "poi a piccoli cubetti di circa 1 cm. In una padella scaldate l’olio di oliva extravergine con lo spicchio di aglio intero, poi unite i bocconcini di pesce spada",
+      "fate rosolare per 1 minuto mescolando, poi sfumate con il vino bianco, lasciate evaporare per qualche istante e poi incorporate le zucchine tagliate a julienne salate, pepate e cuocete per 4-5 minuti mescolando di tanto in tanto. Quindi spegnete il fuoco e profumate con le foglioline di timo fresco,",
+      "eliminate con una pinza da cucina lo spicchio di aglio e profumate con la scorza grattugiata del limone. Lessate i fusilli nel tegame con acqua salata portata a bollore per circa 11 minuti o quanto riportato sulla confezione 12; dovranno essere al dente.",
+      "Scolateli poi con una schiumarola direttamente nella padella con il pesce 13 . Aggiungete un po’ di pepe a piacere 14 e servite subito la pasta con pesce spada e zucchine ben calda 15 !"
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:52.029421+00:00"
   },
   {
     "id": 10702932925065,
@@ -17579,7 +17723,64 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/294/29436/pasta-con-pancetta_21.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con pancetta per prima cosa tagliate la pancetta prima a fette 1 , poi a striscioline e infine a cubetti 2 . Mondate e tritate la cipolla 3 .",
+      "Lavate i pomodorini e divideteli a metà 4 , poi tritate finemente il prezzemolo 5 . Fate sciogliere il burro in una padella capiente 6 .",
+      "Aggiungete la cipolla 7 , salate 8 e lasciate stufare, poi unite la pancetta 9 e rosolatela per qualche minuto.",
+      "Sfumate con il vino bianco 10 e lasciate evaporare completamente, poi aggiungete i pomodorini 11 e cuocete a fuoco medio per una decina di minuti. Nel frattempo portate a bollore una pentola di acqua salata e tuffatevi le tagliatelle 12 .",
+      "Scolate la pasta direttamente nel condimento 13 e mantecatela in padella versando un mestolo di acqua di cottura, se necessario 14 . Insaporite con il Parmigiano grattugiato 15 .",
+      "Versate un filo d’olio 16 , poi aromatizzate con il prezzemolo tritato 17 e una macinata di pepe 18 . Amalgamate bene il tutto e spegnete il fuoco.",
+      "Impiattate 19 e completate con del pecorino grattugiato 20 . La vostra pasta con pancetta è pronta per essere servita 21 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con pancetta per prima cosa tagliate la pancetta prima a fette, poi a striscioline e infine a cubetti. Mondate e tritate la cipolla.",
+      "Lavate i pomodorini e divideteli a metà, poi tritate finemente il prezzemolo. Fate sciogliere il burro in una padella capiente.",
+      "Aggiungete la cipolla, salate e lasciate stufare, poi unite la pancetta e rosolatela per qualche minuto.",
+      "Sfumate con il vino bianco e lasciate evaporare completamente, poi aggiungete i pomodorini e cuocete a fuoco medio per una decina di minuti. Nel frattempo portate a bollore una pentola di acqua salata e tuffatevi le tagliatelle.",
+      "Scolate la pasta direttamente nel condimento e mantecatela in padella versando un mestolo di acqua di cottura, se necessario. Insaporite con il Parmigiano grattugiato.",
+      "Versate un filo d’olio, poi aromatizzate con il prezzemolo tritato e una macinata di pepe. Amalgamate bene il tutto e spegnete il fuoco.",
+      "Impiattate e completate con del pecorino grattugiato. La vostra pasta con pancetta è pronta per essere servita!"
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:49.238154+00:00"
   },
   {
     "id": 31086828838792,
@@ -18184,7 +18385,78 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/304/30400/pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli_27.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con ombrina, zucchine trombetta e pomodorini gialli per prima cosa squamate il pesce, pulitelo dalle interiora e rimuovete le pinne (per ulteriori dettagli potete consultare la scheda \" Come pulire l'ombrina \"). Praticate un’incisione alla base della testa 1 , poi incidete il dorso 2 e penetrate delicatamente con la lama del coltello fino alla pancia, cercando di restare il più aderenti possibile alle lische. Ricavate così 2 filetti 3 .",
+      "Ora eliminate la parte inferiore della pancia 4 , poi estraete le lische con una pinzetta 5 ed eliminate la pelle 6 .",
+      "Infine tagliate la polpa a cubetti di 1,5 cm 7 . Tenete da parte e passate ai pomodorini: dividete i pomodorini a metà 8 , poi versateli in una padella dove avrete fatto scaldare un giro d’olio con uno spicchio di aglio 9 .",
+      "Salate 10 e saltate a fuoco medio per circa 5 minuti, poi prelevate circa un terzo dei pomodori 11 e metteteli da parte; vi serviranno per l’impiattamento. Proseguite la cottura dei pomodorini rimanenti per circa 20 minuti. Trascorso questo tempo eliminate l’aglio 12 .",
+      "Trasferite i pomodorini cotti in un boccale e frullate con un mixer a immersione 13 , poi filtrate il composto attraverso un colino 14 per ottenere una crema liscia e omogenea 15 .",
+      "Tenete da parte e occupatevi delle zucchine trombetta: tagliatele a rondelle sottili 16 , poi tritate finemente lo scalogno. Versate lo scalogno in una padella con l’olio 17 e salate subito 18 .",
+      "Stufate a fuoco dolce per circa 7 minuti, poi aggiungete le zucchine 19 . Alzate la fiamma e rosolate a fuoco medio per circa 5 minuti, regolando di sale. Intanto portate a bollore una pentola di acqua salata e cuocete la pasta al dente 20 . Trascorsi i 5 minuti di cottura delle zucchine, unite l’ombrina 21 .",
+      "Continuate a cuocere per 3 minuti circa 22 , poi versate la crema di pomodorini 23 e aggiustate di sale. Scolate la pasta nella padella con il condimento e saltate brevemente il tutto per amalgamare, poi spegnete il fuoco e mantecate con un filo d’olio 24 .",
+      "Impiattate e completate con i pomodorini tenuti da parte 25 e qualche fogliolina di menta 26 . La vostra pasta con ombrina, zucchine trombetta e pomodorini gialli è pronta per essere servita 27 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con ombrina, zucchine trombetta e pomodorini gialli per prima cosa squamate il pesce, pulitelo dalle interiora e rimuovete le pinne (per ulteriori dettagli potete consultare la scheda \" Come pulire l'ombrina \"). Praticate un’incisione alla base della testa, poi incidete il dorso e penetrate delicatamente con la lama del coltello fino alla pancia, cercando di restare il più aderenti possibile alle lische. Ricavate così 2 filetti.",
+      "Ora eliminate la parte inferiore della pancia, poi estraete le lische con una pinzetta ed eliminate la pelle.",
+      "Infine tagliate la polpa a cubetti di 1,5 cm. Tenete da parte e passate ai pomodorini: dividete i pomodorini a metà, poi versateli in una padella dove avrete fatto scaldare un giro d’olio con uno spicchio di aglio.",
+      "Salate e saltate a fuoco medio per circa 5 minuti, poi prelevate circa un terzo dei pomodori e metteteli da parte; vi serviranno per l’impiattamento. Proseguite la cottura dei pomodorini rimanenti per circa 20 minuti. Trascorso questo tempo eliminate l’aglio.",
+      "Trasferite i pomodorini cotti in un boccale e frullate con un mixer a immersione, poi filtrate il composto attraverso un colino per ottenere una crema liscia e omogenea.",
+      "Tenete da parte e occupatevi delle zucchine trombetta: tagliatele a rondelle sottili, poi tritate finemente lo scalogno. Versate lo scalogno in una padella con l’olio e salate subito.",
+      "Stufate a fuoco dolce per circa 7 minuti, poi aggiungete le zucchine. Alzate la fiamma e rosolate a fuoco medio per circa 5 minuti, regolando di sale. Intanto portate a bollore una pentola di acqua salata e cuocete la pasta al dente. Trascorsi i 5 minuti di cottura delle zucchine, unite l’ombrina.",
+      "Continuate a cuocere per 3 minuti circa, poi versate la crema di pomodorini e aggiustate di sale. Scolate la pasta nella padella con il condimento e saltate brevemente il tutto per amalgamare, poi spegnete il fuoco e mantecate con un filo d’olio.",
+      "Impiattate e completate con i pomodorini tenuti da parte e qualche fogliolina di menta. La vostra pasta con ombrina, zucchine trombetta e pomodorini gialli è pronta per essere servita!"
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:46.398948+00:00"
   },
   {
     "id": 109683226445367,
@@ -19306,7 +19578,57 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36125/pasta-con-melanzane-in-bianco-cremosa_18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con melanzane in bianco cremosa, lavate, spuntate e tagliate le melanzane a fette 1 , poi ricavate dei bastoncini 2 e infine dei cubetti regolari di circa 1 cm 3 .",
+      "Trasferite i cubetti di melanzane in una padella 4 , poi aggiungete olio, sale 5 e pepe 6 .",
+      "Cuocete a fiamma media per circa 10-15 minuti, o fino a quando le melanzane saranno morbide 7 . Nel frattempo ponete sul fuoco una pentola colma di acqua salata e portatela a bollore. Una volta cotte, trasferite le melanzane in un contenitore alto 8 e frullatele con un mixer a immersione insieme a un mestolo di acqua di cottura 9 .",
+      "Dovete ottenere una crema liscia 10 . Intanto cuocete la pasta per il tempo indicato sulla confezione 11 . Trasferite la crema nella padella e allungatela con un mestolo di acqua di cottura della pasta 12 .",
+      "Mescolate in modo da ottenere una consistenza fluida 13 . Scolate la pasta al dente direttamente nella padella 14 , poi mescolate accuratamente per mantecare 15 .",
+      "Profumate con qualche fogliolina di menta fresca 16 e completate con il Parmigiano Reggiano grattugiato 17 . Servite subito la vostra pasta con melanzane in bianco cremosa ben calda 18 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con melanzane in bianco cremosa, lavate, spuntate e tagliate le melanzane a fette, poi ricavate dei bastoncini e infine dei cubetti regolari di circa 1 cm.",
+      "Trasferite i cubetti di melanzane in una padella, poi aggiungete olio, sale e pepe.",
+      "Cuocete a fiamma media per circa 10-15 minuti, o fino a quando le melanzane saranno morbide. Nel frattempo ponete sul fuoco una pentola colma di acqua salata e portatela a bollore. Una volta cotte, trasferite le melanzane in un contenitore alto e frullatele con un mixer a immersione insieme a un mestolo di acqua di cottura.",
+      "Dovete ottenere una crema liscia. Intanto cuocete la pasta per il tempo indicato sulla confezione. Trasferite la crema nella padella e allungatela con un mestolo di acqua di cottura della pasta.",
+      "Mescolate in modo da ottenere una consistenza fluida. Scolate la pasta al dente direttamente nella padella, poi mescolate accuratamente per mantecare.",
+      "Profumate con qualche fogliolina di menta fresca e completate con il Parmigiano Reggiano grattugiato. Servite subito la vostra pasta con melanzane in bianco cremosa ben calda!"
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:43.727195+00:00"
   },
   {
     "id": 77080104431803,
@@ -21736,7 +22058,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17730/17730_fusilli_senza_glutine_con_cavoletti_bruxelles_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17730/17730_fusilli_senza_glutine_con_cavoletti_bruxelles_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17730/17730_fusilli_senza_glutine_con_cavoletti_bruxelles_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17730/17730_fusilli_senza_glutine_con_cavoletti_bruxelles_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17730/17730_pasta_con_lenticchie_e_cavoletti_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17730/17730_fusilli_senza_glutine_con_cavoletti_bruxelles_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17730/17730_fusilli_senza_glutine_con_cavoletti_bruxelles_strip_19-21.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la pasta con lenticchie e cavoletti per prima cosa sciacquate le lenticchie, poi versatele in abbondante acqua 1 ; portatele a bollore e lessatele per 5 minuti 2 . Intanto mondate lo scalogno e tagliatelo a spicchi 3",
+      "Lavate i pomodorini e divideteli a metà 4 ; non appena le lenticchie saranno pronte, scolatele 5 e tenetele da parte. Tritate al coltello il timo e il rosmarino 6 e tenete da parte anche le erbe aromatiche.",
+      "Portate a bollore dell'acqua in un pentolino; intanto sfogliate i cavoletti per eliminare le foglie più esterne, tagliate il torsolo alla base 7 . Lessate anche questi per 10 minuti 8 . Intanto portate a bollore l'acqua in un'altra pentola e salate quando bollirà:  servirà per la cottura della pasta. Una volta cotti i cavoletti di Bruxelles, scolateli conservando dell'acqua di cottura e versateli nel bicchiere di un mixer 9 ,",
+      "aggiungete la panna fresca liquida 10 e un mestolo di acqua di cottura dei cavoletti 11 , frullate tutto per ottenere una crema poi salate 12 e pepate.",
+      "Ora cuocete la pasta 13 per circa 10 minuti o il tempo indicato sulla confezione. In un tegame versate un filo di olio di oliva, lo scalogno e i pomodorini 14 , profumate con il trito di erbe aromatiche preparato in precedenza 15 .",
+      "Saltate per un minuto e poi versate le lenticchie 16 , salate 17 e cuocete per circa 5 minuti. Aggiungete quindi le olive taggiasche denocciolate e scolate dell'olio di conservazione 18 .",
+      "Mescolate, spegnete il fuoco e una volta che la pasta sarà pronta, scolatela direttamente nel tegame con i pomodorini e le lenticchie 19 . Mantecate per insaporire, quindi servite adagiando nel piatto prima la crema di cavoletti di Bruxelles 20 e poi posizionate sopra la pasta 21 . La pasta con lenticchie e cavoletti è pronta da gustare!"
+    ],
+    "steps_clean": [
+      "Per realizzare la pasta con lenticchie e cavoletti per prima cosa sciacquate le lenticchie, poi versatele in abbondante acqua; portatele a bollore e lessatele per 5 minuti. Intanto mondate lo scalogno e tagliatelo a spicchi",
+      "Lavate i pomodorini e divideteli a metà; non appena le lenticchie saranno pronte, scolatele e tenetele da parte. Tritate al coltello il timo e il rosmarino e tenete da parte anche le erbe aromatiche.",
+      "Portate a bollore dell'acqua in un pentolino; intanto sfogliate i cavoletti per eliminare le foglie più esterne, tagliate il torsolo alla base. Lessate anche questi per 10 minuti. Intanto portate a bollore l'acqua in un'altra pentola e salate quando bollirà:  servirà per la cottura della pasta. Una volta cotti i cavoletti di Bruxelles, scolateli conservando dell'acqua di cottura e versateli nel bicchiere di un mixer,",
+      "aggiungete la panna fresca liquida e un mestolo di acqua di cottura dei cavoletti, frullate tutto per ottenere una crema poi salate e pepate.",
+      "Ora cuocete la pasta per circa 10 minuti o il tempo indicato sulla confezione. In un tegame versate un filo di olio di oliva, lo scalogno e i pomodorini, profumate con il trito di erbe aromatiche preparato in precedenza.",
+      "Saltate per un minuto e poi versate le lenticchie, salate e cuocete per circa 5 minuti. Aggiungete quindi le olive taggiasche denocciolate e scolate dell'olio di conservazione.",
+      "Mescolate, spegnete il fuoco e una volta che la pasta sarà pronta, scolatela direttamente nel tegame con i pomodorini e le lenticchie. Mantecate per insaporire, quindi servite adagiando nel piatto prima la crema di cavoletti di Bruxelles e poi posizionate sopra la pasta. La pasta con lenticchie e cavoletti è pronta da gustare!"
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:41.041477+00:00"
   },
   {
     "id": 226507466299036,
@@ -22319,8 +22684,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:01:04.899538+00:00"
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:38.216410+00:00"
   },
   {
     "id": 55652435307175,
@@ -23731,8 +24096,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:25.079401+00:00"
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:16.002149+00:00"
   },
   {
     "id": 236893490771622,
@@ -32159,8 +32524,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:52.987280+00:00"
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:35.090266+00:00"
   },
   {
     "id": 39116646995969,
@@ -34953,8 +35318,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:10:57.623109+00:00"
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:07.167652+00:00"
   },
   {
     "id": 132208820724896,
@@ -39794,7 +40159,45 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18693/18693_polpo_in_umido_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18693/18693_polpo_in_umido_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18693/18693_polpo_in_umido_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18693/18693_polpo_in_umido_def_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18693/18693_polpo_in_umido_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/186/18693/18693_polpo_in_umido_strip_16-18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare il polpo in umido cominciate dalla pulizia di quest’ultimo. Dopo averlo ben sciacquato e asciugato, ponetelo su un tagliere e incidete la sacca che contiene gli occhi 1 . Poi nella parte al centro, posta sotto il polpo, troverete il dente che andrà tagliato via con un coltellino 2 . Per finire pulite l’interno del capo e sciacquate il tutto 3 .",
+      "Procedete pulendo lo scalogno. Dopodiché affettatelo 4 e mettetelo in una ciotola, poi mondate lo spicchio d’aglio e spostatevi ai fornelli. In una pentola capiente scaldate un giro di olio, quindi aggiungete l’aglio 5 e lo scalogno 6 .",
+      "Versate la passata di pomodoro e alzate la fiamma 7 , regolate di sale e unite le foglioline di timo 8 , la salvia 9 ,",
+      "e l’acqua 10 . Fate scaldare bene finché il composto non raggiunge il bollore, immergete i tentacoli del polpo per tre volte 11 . In questo modo tenderanno ad arricciarsi per bene 12 .",
+      "Assicuratevi che abbiano assunto la tipica forma arricciata e poi immergete completamente 13 . Coprite con il coperchio e cuocete a fuoco medio per 50 minuti 14 . Per sicurezza ricordatevi di pungere il polpo nella parte interna, dove c’era il dente, se la forchetta non fa troppa fatica a penetrare la polpa, allora si ritiene cotto 15 .",
+      "Quindi spolverizzate il tutto con una macinata di pepe 16 e poi sollevate il polpo spostandolo sul tagliere, tagliatelo a pezzi della grandezza che preferite 17 e servite con il suo sugo. Il vostro polpo in umido è pronto: buon appetito 18 ."
+    ],
+    "steps_clean": [
+      "Per preparare il polpo in umido cominciate dalla pulizia di quest’ultimo. Dopo averlo ben sciacquato e asciugato, ponetelo su un tagliere e incidete la sacca che contiene gli occhi. Poi nella parte al centro, posta sotto il polpo, troverete il dente che andrà tagliato via con un coltellino. Per finire pulite l’interno del capo e sciacquate il tutto.",
+      "Procedete pulendo lo scalogno. Dopodiché affettatelo e mettetelo in una ciotola, poi mondate lo spicchio d’aglio e spostatevi ai fornelli. In una pentola capiente scaldate un giro di olio, quindi aggiungete l’aglio e lo scalogno.",
+      "Versate la passata di pomodoro e alzate la fiamma, regolate di sale e unite le foglioline di timo, la salvia,",
+      "e l’acqua. Fate scaldare bene finché il composto non raggiunge il bollore, immergete i tentacoli del polpo per tre volte. In questo modo tenderanno ad arricciarsi per bene.",
+      "Assicuratevi che abbiano assunto la tipica forma arricciata e poi immergete completamente. Coprite con il coperchio e cuocete a fuoco medio per 50 minuti. Per sicurezza ricordatevi di pungere il polpo nella parte interna, dove c’era il dente, se la forchetta non fa troppa fatica a penetrare la polpa, allora si ritiene cotto.",
+      "Quindi spolverizzate il tutto con una macinata di pepe e poi sollevate il polpo spostandolo sul tagliere, tagliatelo a pezzi della grandezza che preferite e servite con il suo sugo. Il vostro polpo in umido è pronto: buon appetito."
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:57.496721+00:00"
   },
   {
     "id": 27275286374158,
@@ -40204,8 +40607,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:19.627399+00:00"
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:12.667673+00:00"
   },
   {
     "id": 157146087951858,
@@ -43648,8 +44051,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:46:40.445262+00:00"
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:09.969617+00:00"
   },
   {
     "id": 6749092888902,
@@ -44525,8 +44928,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:46:43.128424+00:00"
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:32.400153+00:00"
   },
   {
     "id": 177595636769878,
@@ -49051,7 +49454,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/153/15365/15365_polenta_polpo_umido_erbette_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/153/15365/15365_polenta_polpo_umido_erbette_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/153/15365/15365_polenta_polpo_umido_erbette_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/153/15365/15365_polenta_polpo_umido_erbette_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/153/15365/15365_polenta_polpo_umido_erbette_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/153/15365/15365_polenta_polpo_umido_erbette_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/153/15365/15365_polenta_polpo_umido_erbette_strip_19-21.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la polenta con polpo in umido ed erbette, iniziate a portare a bollore una pentola con 500g di acqua salata. Quindi procedete con la pulizia del polpo . Dopo averlo sciacquato sotto acqua corrente fredda, ponetelo su un tagliere ed eliminate il becco: con un coltellino incidete intorno alla bocca, scavate l'interno ed estraete il becco 1 . Togliete anche la sacca all’altezza degli occhi, quindi rimuovete la testa 2 . Frollate la carne del polpo battendo con l’apposito martelletto, un batticarne o un utensile da cucina per 10 minuti, per rompere le fibre e rendere le carni più tenere. Sciacquate nuovamente il polpo sotto acqua corrente fredda ed estraete le interiora dalla sacca lavandola poi accuratamente all'interno. Dividete il polpo a metà 3 ,",
+      "separate ogni tentacolo 4 e riduceteli insieme alla testa in cubetti e striscioline 5 . Mondate e affettate lo scalogno in rondelle sottili 6 .",
+      "In una pentola antiaderente con l' olio di oliva ponete una testa d’aglio e lo scalogno a soffriggere; quando questo è ben imbiondito, rimuovete l’aglio 7 . Aggiungete il polpo e lasciatelo rosolare per 4-5 minuti 8 , quindi sfumate con il vino bianco 9 .",
+      "Raggruppate in un mazzetto legato con spago da cucina tutte le erbe aromatiche e aggiungetelo al polpo 10 , quindi versatevi anche la passata di pomodoro 11 e tanta acqua da ricoprire il pesce 12 .",
+      "Aggiustate di sale, pepe 13 e fate cuocere a fuoco dolce per 30 minuti. Nel frattempo occupatevi della polenta. In una pentola portate ad ebollizione l'acqua salata, poi versate la farina gialla a pioggia, mescolando ininterrottamente con una frusta 14 ; amalgamate bene e coprite con un coperchio 15 : fate cuocere la polenta a fuoco dolce per 35-40 minuti, mischiandola ogni tanto con un cucchiaio di legno (se secessario aggiungendo un mestolo di acqua). Intanto preparate il contorno; lavate le erbette sotto acqua corrente, scolatele ed asciugatele.",
+      "Ponetele su un tagliere e tritatele grossolanamente 16 , quindi saltatele assieme all’aglio in una padella con olio di oliva 17 , aggiustatele di sale e pepe e fatele cuocere per 5-6 minuti. Una volta pronte, rimuovete la testa d’aglio 18 e lasciatele al caldo.",
+      "Quando anche la polenta e il polpo saranno pronti, rimuovete il mazzetto di erbette da quest’ultimo 19 e ponete una porzione di erbette e un’abbondante cucchiaiata di polenta in un piatto da portata 20 . Adagiate infine sulla polenta un po’ di polpo con il sugo di cottura 21 : la vostra polenta con polpo in umido ed erbette è pronta per essere servita."
+    ],
+    "steps_clean": [
+      "Per preparare la polenta con polpo in umido ed erbette, iniziate a portare a bollore una pentola con 500g di acqua salata. Quindi procedete con la pulizia del polpo. Dopo averlo sciacquato sotto acqua corrente fredda, ponetelo su un tagliere ed eliminate il becco: con un coltellino incidete intorno alla bocca, scavate l'interno ed estraete il becco. Togliete anche la sacca all’altezza degli occhi, quindi rimuovete la testa. Frollate la carne del polpo battendo con l’apposito martelletto, un batticarne o un utensile da cucina per 10 minuti, per rompere le fibre e rendere le carni più tenere. Sciacquate nuovamente il polpo sotto acqua corrente fredda ed estraete le interiora dalla sacca lavandola poi accuratamente all'interno. Dividete il polpo a metà,",
+      "separate ogni tentacolo e riduceteli insieme alla testa in cubetti e striscioline. Mondate e affettate lo scalogno in rondelle sottili.",
+      "In una pentola antiaderente con l' olio di oliva ponete una testa d’aglio e lo scalogno a soffriggere; quando questo è ben imbiondito, rimuovete l’aglio. Aggiungete il polpo e lasciatelo rosolare per 4-5 minuti, quindi sfumate con il vino bianco.",
+      "Raggruppate in un mazzetto legato con spago da cucina tutte le erbe aromatiche e aggiungetelo al polpo, quindi versatevi anche la passata di pomodoro e tanta acqua da ricoprire il pesce.",
+      "Aggiustate di sale, pepe e fate cuocere a fuoco dolce per 30 minuti. Nel frattempo occupatevi della polenta. In una pentola portate ad ebollizione l'acqua salata, poi versate la farina gialla a pioggia, mescolando ininterrottamente con una frusta; amalgamate bene e coprite con un coperchio: fate cuocere la polenta a fuoco dolce per 35-40 minuti, mischiandola ogni tanto con un cucchiaio di legno (se secessario aggiungendo un mestolo di acqua). Intanto preparate il contorno; lavate le erbette sotto acqua corrente, scolatele ed asciugatele.",
+      "Ponetele su un tagliere e tritatele grossolanamente, quindi saltatele assieme all’aglio in una padella con olio di oliva, aggiustatele di sale e pepe e fatele cuocere per 5-6 minuti. Una volta pronte, rimuovete la testa d’aglio e lasciatele al caldo.",
+      "Quando anche la polenta e il polpo saranno pronti, rimuovete il mazzetto di erbette da quest’ultimo e ponete una porzione di erbette e un’abbondante cucchiaiata di polenta in un piatto da portata. Adagiate infine sulla polenta un po’ di polpo con il sugo di cottura: la vostra polenta con polpo in umido ed erbette è pronta per essere servita."
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:54.794584+00:00"
   },
   {
     "id": 52646043131026,
@@ -50356,5 +50802,2865 @@
     ],
     "images_import_version": 6,
     "step_images_checked_at": "2026-10-10T17:00:14.120522+00:00"
+  },
+  {
+    "id": 97618653410404,
+    "name": "Bocconcini di pane con tonno e avocado",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 26,
+    "ingredients_display": [
+      "Tonno sott'olio in olio extravergine di oliva (sgocciolato) 104 g",
+      "Baguette medie 2",
+      "Olio extravergine d'oliva 4 cucchiaini",
+      "Asiago 120 g",
+      "Avocado (circa 1) 165 g",
+      "Pomodori secchi 30 g",
+      "Senape 2 cucchiaini"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Bocconcini-di-pane-con-tonno-e-avocado.html",
+    "image_url": "https://www.giallozafferano.it/images/191-19171/Bocconcini-di-pane-con-tonno-e-avocado_650x433_wm.jpg",
+    "servings": 3,
+    "kcal": 938.3,
+    "protein": null,
+    "carbs": 115.6,
+    "fats": 32.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Tonno sott'olio in olio extravergine di oliva (sgocciolato)",
+        104.0,
+        "g"
+      ],
+      [
+        "Baguette medie 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        4.0,
+        "cucchiaini"
+      ],
+      [
+        "Asiago",
+        120.0,
+        "g"
+      ],
+      [
+        "Avocado (circa 1)",
+        165.0,
+        "g"
+      ],
+      [
+        "Pomodori secchi",
+        30.0,
+        "g"
+      ],
+      [
+        "Senape",
+        2.0,
+        "cucchiaini"
+      ]
+    ],
+    "steps": [
+      "Per realizzare i bocconcini di pane con tonno e avocado tagliate a fette sottili l’asiago, poi tagliate a metà l’avocado, eliminate il nocciolo interno e con un cucchiaino estraete la polpa.",
+      "Tagliatela a fettine. Prendete le baguette e dividetele a metà; conditeli con un filo di olio di oliva.",
+      "Tostate il pane su una griglia calda per 2 minuti dalla parte della mollica e 1 minuto circa dalla parte esterna. Trasferite su un tagliere (o piatto da portata), e spalmate una delle due metà con la senape,",
+      "adagiate sopra le fettine di formaggio e distribuite sopra i bocconcini di tonno sgocciolato. Insaporite con i pomodori sott’olio scolati e le fettine di avocado,",
+      "richiudete con l’altra metà del filoncino e tagliate diagonalmente in tre parti uguali il filoncino farcito, servite subito i vostri bocconcini di pane con tonno e avocado."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:16.983641+00:00",
+    "repaired_at": "2026-10-11T10:49:45.117077+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Da classificare",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 243666308474191,
+    "name": "Focaccia pugliese con cipolle",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 90,
+    "ingredients_display": [
+      "Farina 0 220 g",
+      "Semola di grano duro rimacinata 180 g",
+      "Patate 140 g",
+      "Acqua 260 g",
+      "Sale fino 10 g",
+      "Lievito di birra secco 3 g",
+      "Zucchero 1 cucchiaino",
+      "Cipolle 300 g",
+      "Olive nere 60 g",
+      "Olio extravergine d'oliva 100 g",
+      "Sale grosso 1 cucchiaio",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Focaccia-pugliese-con-cipolle.html",
+    "image_url": "https://www.giallozafferano.it/images/238-23842/Focaccia-pugliese-con-cipolle_650x433_wm.jpg",
+    "servings": 6,
+    "kcal": 468.6,
+    "protein": null,
+    "carbs": 60.1,
+    "fats": 21.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 0",
+        220.0,
+        "g"
+      ],
+      [
+        "Semola di grano duro rimacinata",
+        180.0,
+        "g"
+      ],
+      [
+        "Patate",
+        140.0,
+        "g"
+      ],
+      [
+        "Acqua",
+        260.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        10.0,
+        "g"
+      ],
+      [
+        "Lievito di birra secco",
+        3.0,
+        "g"
+      ],
+      [
+        "Zucchero",
+        1,
+        "cucchiaini"
+      ],
+      [
+        "Cipolle",
+        300.0,
+        "g"
+      ],
+      [
+        "Olive nere",
+        60.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        100.0,
+        "g"
+      ],
+      [
+        "Sale grosso",
+        1,
+        "cucchiai"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare la focaccia pugliese con cipolle, per prima cosa lessate le patate partendo da acqua fredda per circa 30 minuti o fino a quando risulteranno abbastanza morbide da infilzarle con una forchetta 1 . Una volta cotte, sbucciate e schiacciate le patate con una forchetta 2 . Lasciate intiepidire e, nel frattempo, versate in una ciotola la semola e la farina 0 3 .",
+      "Unite il lievito disidratato 4 e lo zucchero 5 , poi create un incavo al centro e aggiungete le patate schiacciate 6 .",
+      "Versate l’acqua poco per volta 7 mentre impastate con le mani per farla assorbire 8 . Quando avrete ottenuto un composto liscio e omogeneo aggiungete il sale 9 e lavorate ancora per incorporarlo in modo uniforme.",
+      "Trasferite l’impasto sul piano di lavoro infarinato e allargatelo con le dita per formare un rettangolo 10 , poi procedete con le pieghe: ripiegate il lembo superiore verso il centro 11 , poi ripiegate anche il lembo inferiore e sovrapponetelo 12 .",
+      "Fate la stessa cosa anche con i lembi laterali 13 , poi ribaltate il panetto 14 e arrotondatelo facendolo girare sul piano fra le mani 15 .",
+      "Coprite l’impasto con la ciotola e lasciatelo riposare per 30 minuti 16 , poi ripetete un giro di pieghe. Ribaltate nuovamente il panetto, arrotondatelo e sistematelo in una ciotola oliata 17 . Coprite con pellicola e lasciate lievitare al riparo dalla corrente per circa 3 ore o fino al raddoppio del volume 18 .",
+      "Trascorso il tempo di lievitazione, versate l’impasto in una teglia oliata da 30x40 cm 19 . Allargate l’impasto delicatamente con le mani unte di olio 20 e lasciate riposare ancora per un’ora. Nel frattempo mondate e tagliate le cipolle a rondelle sottili 21 .",
+      "Trascorso questo tempo, versate l’olio sulla focaccia 22 e premete i polpastrelli nell’impasto per creare i classici buchi 23 , poi aggiungete il sale grosso 24 .",
+      "Distribuite le rondelle di cipolla su tutta la superficie 25 , poi aggiungete le olive 26 e condite con un altro filo di olio. Cuocete in forno statico preriscaldato a 200° per circa 30 minuti. Quando sarà bella dorata, sfornate e gustate la vostra focaccia pugliese con cipolle 27 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:19.745925+00:00",
+    "repaired_at": "2026-10-11T10:49:47.749501+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 275067740690302,
+    "name": "Poke",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 15,
+    "ingredients_display": [
+      "Tonno 550 g",
+      "Gambi di cipollotto 20 g",
+      "Olio di sesamo 20 g",
+      "Semi di sesamo 1 cucchiaino",
+      "Peperoncino fresco 20 g",
+      "Sale delle Hawaii 1 cucchiaino",
+      "Salsa di soia 20 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Poke.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/170/17030/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 204.2,
+    "protein": null,
+    "carbs": 1.1,
+    "fats": 6.1,
+    "cost": null,
+    "ingredients": [
+      [
+        "Tonno",
+        550.0,
+        "g"
+      ],
+      [
+        "Gambi di cipollotto",
+        20.0,
+        "g"
+      ],
+      [
+        "Olio di sesamo",
+        20.0,
+        "g"
+      ],
+      [
+        "Semi di sesamo",
+        1,
+        "cucchiaini"
+      ],
+      [
+        "Peperoncino fresco",
+        20.0,
+        "g"
+      ],
+      [
+        "Sale delle Hawaii",
+        1,
+        "cucchiaini"
+      ],
+      [
+        "Salsa di soia",
+        20.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per realizzare il poke assicuratevi di aver acquistato pesce fresco abbattuto. Si raccomanda, per precauzione, di congelarlo in freezer per 96 ore a -18 gradi e poi scongelarlo per impiegarlo nella ricetta. Iniziate quindi con la preparazione: eliminate il picciolo dal peperoncino fresco, estraete i semini interni, poi affettatelo così da ottenere delle piccole rondelle.",
+      "Ora prelevate il gambo del cipollotto fresco e tritatelo al coltello. Passate quindi al tonno: tagliatelo a fette di 2 cm, poi riducete ciascuna fetta a listarelle e infine da questa ricavate dei cubetti da 2 cm.",
+      "Trasferite il tonno a cubetti in una ciotola, insaporite con il gambo di cipollotto tritato, il peperoncino fresco, aggiungete anche i semi di sesamo bianchi, irrorate con l’olio di sesamo",
+      "e la salsa di soia. Per finire insaporite con un cucchiaino di sale delle Hawaii. Mescolate con un cucchiaio per insaporire.",
+      "Coprite la ciotola con pellicola per alimenti e lasciate marinare in frigorifero per 1-2 ore. Trascorso il tempo della marinatura, riprendete il vostro poke e servitelo subito porzionato!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:22.494127+00:00",
+    "repaired_at": "2026-10-11T10:49:13.605522+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "attrezzatura_non_determinabile"
+      ],
+      "type": "Piatto unico",
+      "tools": [],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 252288290795440,
+    "name": "Pasta con crema di Parmigiano e salsiccia",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 45,
+    "ingredients_display": [
+      "Pipe Rigate 320 g",
+      "Salsiccia 250 g",
+      "Parmigiano Reggiano DOP 24 mesi 100 g",
+      "Panna fresca liquida 200 g",
+      "Nocciole 50 g",
+      "Timo 1 rametto",
+      "Aglio 1 spicchio",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Pepe rosa q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-parmigiano-e-salsiccia.html",
+    "image_url": "https://www.giallozafferano.it/images/236-23678/Pasta-con-crema-di-parmigiano-e-salsiccia_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 832.5,
+    "protein": null,
+    "carbs": 66.0,
+    "fats": 49.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pipe Rigate",
+        320.0,
+        "g"
+      ],
+      [
+        "Salsiccia",
+        250.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP 24 mesi",
+        100.0,
+        "g"
+      ],
+      [
+        "Panna fresca liquida",
+        200.0,
+        "g"
+      ],
+      [
+        "Nocciole",
+        50.0,
+        "g"
+      ],
+      [
+        "Timo",
+        1,
+        "rametti"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe rosa",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con crema di parmigiano e salsiccia iniziate togliendo la pelle dalla salsiccia dopodiché sgranatela in una ciotola. Scaldate un filo d'olio profumandolo con uno spicchio d'aglio.",
+      "Versatela in padella e lasciatela rosolare con il rametto di timo, sale e pepe. Mescolate di tanto in tanto e quando sarà ben abbrustolita togliete l'aglio.",
+      "Intanto buttate la pasta in acqua bollente e salata e preparate subito la crema di parmigiano mettendo a scaldare la panna in un pentolino. Quando si sarà intiepidita aggiungete il parmigiano.",
+      "A fiamma spenta mescolate con una frusta finché non avrete ottenuto una salsa liscia. Quando mancano un paio di minuti alla fine della cottura della pasta, scolatela nella padella con la salsiccia.",
+      "Aggiungete un mestolo d’acqua di cottura. Proseguite la cottura per un minuto circa e poi aggiungete la crema di parmigiano: continuate a mescolare finché non avrà terminato la cottura.",
+      "Impiattate e aggiungete le nocciole tagliate grossolanamente, qualche fogliolina di timo e una macinata di pepe rosa. La vostra pasta con crema di parmigiano e salsiccia è pronta per essere servita ben calda."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-11T10:48:25.165304+00:00",
+    "repaired_at": "2026-10-11T10:49:16.233711+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23678/23678_pasta_con_crema_di_parmigiano_maiale_e_frutta_sec_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23678/23678_pasta_con_crema_di_parmigiano_maiale_e_frutta_sec_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23678/23678_pasta_con_crema_di_parmigiano_maiale_e_frutta_sec_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23678/23678_pasta_con_crema_di_parmigiano_maiale_e_frutta_sec_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23678/23678_pasta_con_crema_di_parmigiano_maiale_e_frutta_sec_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23678/23678_pasta_con_crema_di_parmigiano_maiale_e_frutta_sec_strip_16-18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con crema di parmigiano e salsiccia iniziate togliendo la pelle dalla salsiccia 1 dopodiché sgranatela in una ciotola 2 . Scaldate un filo d'olio profumandolo con uno spicchio d'aglio 3 .",
+      "Versatela in padella 4 e lasciatela rosolare con il rametto di timo 5 , sale e pepe. Mescolate di tanto in tanto e quando sarà ben abbrustolita togliete l'aglio 6 .",
+      "Intanto buttate la pasta in acqua bollente e salata 7 e preparate subito la crema di parmigiano mettendo a scaldare la panna in un pentolino 8 . Quando si sarà intiepidita aggiungete il parmigiano 9 .",
+      "A fiamma spenta mescolate con una frusta 10 finché non avrete ottenuto una salsa liscia 11 . Quando mancano un paio di minuti alla fine della cottura della pasta, scolatela nella padella con la salsiccia 12 .",
+      "Aggiungete un mestolo d’acqua di cottura 13 . Proseguite la cottura per un minuto circa e poi aggiungete la crema di parmigiano 14 : continuate a mescolare finché non avrà terminato la cottura 15 .",
+      "Impiattate e aggiungete le nocciole tagliate grossolanamente 16 , qualche fogliolina di timo 17 e una macinata di pepe rosa. La vostra pasta con crema di parmigiano e salsiccia è pronta per essere servita ben calda 18 ."
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con crema di parmigiano e salsiccia iniziate togliendo la pelle dalla salsiccia dopodiché sgranatela in una ciotola. Scaldate un filo d'olio profumandolo con uno spicchio d'aglio.",
+      "Versatela in padella e lasciatela rosolare con il rametto di timo, sale e pepe. Mescolate di tanto in tanto e quando sarà ben abbrustolita togliete l'aglio.",
+      "Intanto buttate la pasta in acqua bollente e salata e preparate subito la crema di parmigiano mettendo a scaldare la panna in un pentolino. Quando si sarà intiepidita aggiungete il parmigiano.",
+      "A fiamma spenta mescolate con una frusta finché non avrete ottenuto una salsa liscia. Quando mancano un paio di minuti alla fine della cottura della pasta, scolatela nella padella con la salsiccia.",
+      "Aggiungete un mestolo d’acqua di cottura. Proseguite la cottura per un minuto circa e poi aggiungete la crema di parmigiano: continuate a mescolare finché non avrà terminato la cottura.",
+      "Impiattate e aggiungete le nocciole tagliate grossolanamente, qualche fogliolina di timo e una macinata di pepe rosa. La vostra pasta con crema di parmigiano e salsiccia è pronta per essere servita ben calda."
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:18.660999+00:00"
+  },
+  {
+    "id": 219376424027883,
+    "name": "Bocconcini di merluzzo e speck",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 25,
+    "ingredients_display": [
+      "Filetto di merluzzo 300 g",
+      "Speck a fette 100 g",
+      "Pane (mollica) 30 g",
+      "Rosmarino 1 rametto",
+      "Prezzemolo 1 ciuffo",
+      "Erba cipollina q.b.",
+      "Scorza di limone 1",
+      "Sale fino 1 pizzico",
+      "Olio extravergine d'oliva q.b.",
+      "Maionese 4 cucchiai"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Bocconcini-di-merluzzo-e-speck.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/198/19835/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 255.9,
+    "protein": null,
+    "carbs": 5.1,
+    "fats": 16.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Filetto di merluzzo",
+        300.0,
+        "g"
+      ],
+      [
+        "Speck a fette",
+        100.0,
+        "g"
+      ],
+      [
+        "Pane (mollica)",
+        30.0,
+        "g"
+      ],
+      [
+        "Rosmarino",
+        1,
+        "rametti"
+      ],
+      [
+        "Prezzemolo",
+        1,
+        "ciuffi"
+      ],
+      [
+        "Erba cipollina",
+        null,
+        "q.b."
+      ],
+      [
+        "Scorza di limone 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        1,
+        "pizzichi"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Maionese",
+        4.0,
+        "cucchiai"
+      ]
+    ],
+    "steps": [
+      "Per preparare i bocconcini di merluzzo e speck come prima cosa preparate il trito di erbe aromatiche e unitelo in una ciotola insieme alla mollica sbriciolata. Aggiungete poi la scorza di limone grattugiata e mescolate il tutto.",
+      "Prendete i filetti di merluzzo e tagliateli prima a falde e poi a cubetti, non troppo piccoli. Versate un filo d'olio in un tegame, scaldatelo e unite il merluzzo. Lasciatelo rosolare su entrambi i lati per un totale di 5 minuti, girandoli con delicatezza.",
+      "In ultimo salate e trasferite in un piatto. Passate poi i cubetti di merluzzo nella panatura",
+      "in modo da coprirli interamente. Distendete le fette di speck su un tagliere e adagiate ciascun bocconcino all'inizio di una delle fette. Arrotolate in modo da ottenere un involtino.",
+      "Fate lo stesso anche per gli altri e disponeteli all'interno di una pirofila. Cuocete in forno statico preriscaldato a 180° per 10 minuti. Poi sfornate e lasciate raffreddare.",
+      "Sistemate su un piatto delle foglie di lattuga e una ciotolina, trasferite poi anche i bocconcini e riempite la ciotolina con la maionese. I vostri bocconcini di merluzzo e speck sono pronti da servire!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:27.931338+00:00",
+    "repaired_at": "2026-10-11T10:49:18.858914+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 9715430271518,
+    "name": "Focaccia primavera",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 75,
+    "ingredients_display": [
+      "Farina 00 300 g",
+      "Farina Manitoba 200 g",
+      "Lievito di birra fresco 10 g",
+      "Acqua 300 g",
+      "Sale fino 20 g",
+      "Olio extravergine d'oliva 25 g",
+      "Maggiorana secca q.b.",
+      "Timo secco q.b.",
+      "Origano secco q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Fiocchi di sale q.b.",
+      "Asparagi surgelati 300 g",
+      "Stracchino 250 g",
+      "Maggiorana q.b.",
+      "Timo q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Focaccia-primavera.html",
+    "image_url": "https://www.giallozafferano.it/images/246-24638/Focaccia-primavera_650x433_wm.jpg",
+    "servings": 8,
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fats": null,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00",
+        300.0,
+        "g"
+      ],
+      [
+        "Farina Manitoba",
+        200.0,
+        "g"
+      ],
+      [
+        "Lievito di birra fresco",
+        10.0,
+        "g"
+      ],
+      [
+        "Acqua",
+        300.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        20.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        25.0,
+        "g"
+      ],
+      [
+        "Maggiorana secca",
+        null,
+        "q.b."
+      ],
+      [
+        "Timo secco",
+        null,
+        "q.b."
+      ],
+      [
+        "Origano secco",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Fiocchi di sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Asparagi surgelati",
+        300.0,
+        "g"
+      ],
+      [
+        "Stracchino",
+        250.0,
+        "g"
+      ],
+      [
+        "Maggiorana",
+        null,
+        "q.b."
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la focaccia primavera partite dall'impasto. In una ciotola unite le farine, il lievito sbriciolato e tutta l’acqua.",
+      "Iniziate a mescolare con un mestolo e quando l'acqua sarà stata assorbita trasferite l'impasto sul banco da lavoro e impastate energicamente fino a che non sarà omogeneo.",
+      "A questo punto unite l’olio in tre volte, aggiungendone ancora solo quando la prima dose sarà stata assorbita dall’impasto. Una volta assorbito tutto l’olio unite il sale e impastate fino a che non si sarà incorporato bene.",
+      "Aggiungete anche le 3 erbe aromatiche secche e impastate ancora 5 min circa, o comunque fino a che l’impasto non risulterà liscio ed omogeneo.",
+      "Mettete in una ciotola e coprite con pellicola 14 , lasciate lievitare a temperatura ambiente per circa 2 ore o comunque fino al raddoppio 14 . Trasferite l'impasto sul piano da lavoro e appiattitelo leggermente con le mani 15 .",
+      "Trasferitelo in una teglia precedentemente unta grande 25x18 cm 16 . Stendete la focaccia allargando l'impasto con i polpastrelli 17 e tirandolo delicatamente sino a ricoprire l'intera superficie 18 .",
+      "Coprite con pellicola 19 e lasciate lievitare ancora per circa 30 minuti a temperatura ambiente. Nel frattempo preparate gli asparagi. Versate in una padella un filo d'olio 20 e aggiungete gli asparagi surgelati 21 .",
+      "Saltateli per circa 5 minuti e conditeli con sale e pepe 22 . Quando saranno pronti 23 trasferiteli in una ciotola e lasciateli raffreddare 24 .",
+      "Ora con le mani unte realizzate i classici buchi all’impasto, premendo delicatamente 25 , poi cospargete con olio  26  e fiocchi di sale 27 .",
+      "A questo punto cuocete in forno statico preriscaldato a 190° per 20 minuti. E nel frattempo tagliate gli asparagi a metà per il senso della lunghezza 28 . Passati i primi 20 minuti, sfornate la focaccia 29 e ricopritela con lo stracchino che straccerete con le mani o con un cucchiaio 30 .",
+      "Distribuite gli asparagi verso il lato corto della focaccia 31 , mettendoli tutti in fila 32 . Infornate nuovamente per 25 minuti. Appena la focaccia sarà ben dorata, sfornate e cospargete con timo e maggiorana freschi 33 . Servite la focaccia primavera tiepida o fredda."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:31.444058+00:00",
+    "repaired_at": "2026-10-11T10:49:50.390609+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 251372831743842,
+    "name": "Poke temaki wrap",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 22,
+    "ingredients_display": [
+      "Piadine arrotolabili 2",
+      "Tonno (abbattuto) 200 g",
+      "Olio di semi sesamo 2 cucchiai",
+      "Salsa di soia 2 cucchiai",
+      "Cipollotto fresco 10 g",
+      "Peperoncino fresco 1",
+      "Aceto di riso 1 cucchiaio",
+      "Avocado 1",
+      "Peperoncino verde 1",
+      "Pomodori ramati 1",
+      "Scalogno 10 g",
+      "Succo di lime 10 g",
+      "Olio extravergine d'oliva 20 g",
+      "Pepe nero 1 pizzico",
+      "Sale fino 1 pizzico",
+      "Crescenza 100 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Poke-temaki-wrap.html",
+    "image_url": "https://www.giallozafferano.it/images/183-18384/Poke-temaki-wrap_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 439.8,
+    "protein": null,
+    "carbs": 23.7,
+    "fats": 28.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Piadine arrotolabili 2",
+        null,
+        "da verificare"
+      ],
+      [
+        "Tonno (abbattuto)",
+        200.0,
+        "g"
+      ],
+      [
+        "Olio di semi sesamo",
+        2.0,
+        "cucchiai"
+      ],
+      [
+        "Salsa di soia",
+        2.0,
+        "cucchiai"
+      ],
+      [
+        "Cipollotto fresco",
+        10.0,
+        "g"
+      ],
+      [
+        "Peperoncino fresco 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Aceto di riso",
+        1,
+        "cucchiai"
+      ],
+      [
+        "Avocado",
+        1,
+        "pezzi"
+      ],
+      [
+        "Peperoncino verde 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pomodori ramati",
+        1,
+        "pezzi"
+      ],
+      [
+        "Scalogno",
+        10.0,
+        "g"
+      ],
+      [
+        "Succo di lime",
+        10.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Pepe nero",
+        1,
+        "pizzichi"
+      ],
+      [
+        "Sale fino",
+        1,
+        "pizzichi"
+      ],
+      [
+        "Crescenza",
+        100.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare il poke temaki wrap, prendete il peperoncino e privatelo del picciolo. Poi togliete i semini interni e tritatelo. Tritate finemente anche la parte verde del cipollotto.",
+      "Prendete il tonno fresco (assicuratevi che sia abbattuto all'acquisto e seguite le indicazioni risportate in fondo alla ricetta su un corretto uso e consumo di pesce crudo); tagliatelo prima a striscioline, poi a dadini di 2 cm e trasferiteli in una ciotolina. Condite con olio di sesamo,",
+      "salsa di soia, aceto di riso, peperoncino;",
+      "unite anche la parte verde del cipollotto e mescolate, coprite con pellicola e lasciate marinare in frigo per almeno 2 ore. Una volta passato il tempo indicato, estraetelo e lasciatelo a temperatura ambiente una mezz'oretta.",
+      "Nel frattempo preparate la guacamole: aprite l'avocado in due, togliete il nocciolo e ricavate la polpa scavando con un cucchiaio. Spremete il succo di un lime",
+      "e bagnate la polpa di avocado con il succo ottenuto. Poi mondate e tritate lo scalogno, lavate e tritate finemente il pomodoro ramato",
+      "e infine spuntate e tritate anche il peperoncino verde. Versate tutti gli ingredienti nella ciotola con l'avocado (20-21),",
+      "condite con l'olio 22 , poi schiacciate e mescolate il tutto 23 : la vostra guacamole è pronta 24 .",
+      "Dividete le due piadine a metà 25 , scaldatele su una padella per circa 2 minuti 26 , poi prendete la crescenza e spalmatela su tutta la superficie della mezza piadina 27 .",
+      "Date alla piadina una forma conica 28 e inseritela in un bicchiere per aggiungere comodamente gli altri ingredienti, dopodiché versate all'interno del cono 1 cucchiaino di guacamole 29 . Togliete la pellicola alla ciotola con il tonno marinato 30 , date una rimestata",
+      "e aggiungetelo alla piadina 31 , poi guarnite a piacere con della crescenza 32 e proseguite fino a terminare gli ingredienti. Il vostro poke temaki wrap è pronto per essere servito 33 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:34.199082+00:00",
+    "repaired_at": "2026-10-11T10:49:21.495419+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 215913124414342,
+    "name": "Pasta con crema di melanzane e ricotta salata",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 70,
+    "ingredients_display": [
+      "Capellini 320 g",
+      "Basilico 12 foglie",
+      "Melanzane 400 g",
+      "Aglio 2 spicchi",
+      "Acqua 100 g",
+      "Olio extravergine d'oliva 35 g",
+      "Sale fino q.b.",
+      "Pomodorini datterini 300 g",
+      "Olio extravergine d'oliva 20 g",
+      "Sale fino q.b.",
+      "Ricotta salata 250 g",
+      "Panna fresca liquida 170 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-melanzane-e-ricotta-salata.html",
+    "image_url": "https://www.giallozafferano.it/images/361-36157/Pasta-con-crema-di-melanzane-e-ricotta-salata_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 679.1,
+    "protein": null,
+    "carbs": 75.3,
+    "fats": 34.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Capellini",
+        320.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        12.0,
+        "foglie"
+      ],
+      [
+        "Melanzane",
+        400.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        2.0,
+        "spicchi"
+      ],
+      [
+        "Acqua",
+        100.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        35.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pomodorini datterini",
+        300.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Ricotta salata",
+        250.0,
+        "g"
+      ],
+      [
+        "Panna fresca liquida",
+        170.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con crema di melanzane e ricotta salata, iniziate dalla melanzana: dividetela a metà, poi incidete la polpa a scacchiera. Trasferite la melanzana su una teglia con la parte tagliata rivolta verso l’alto e condite con circa 15 g di olio.",
+      "Salate e inserite gli spicchi d’aglio nei tagli della polpa. Cuocete in forno statico preriscaldato a 230° per circa 30 minuti.",
+      "Nel frattempo dedicatevi ai pomodorini: divideteli a metà e versateli in una padella con un filo d’olio caldo. Cuocete a fiamma vivace per circa 7 minuti, salando a piacere.",
+      "Una volta arrostiti, mettete i pomodorini da parte. Passate alla fonduta: grattugiate la ricotta salata con una grattugia a fori larghi. In un pentolino versate la panna e la ricotta salata grattugiata.",
+      "Scaldate a fiamma bassissima per circa 10 minuti, mescolando continuamente con una frusta fino ad ottenere una consistenza cremosa. Se desiderate, potete frullarla con un mixer a immersione per renderla più liscia.",
+      "Nel frattempo le melanzane saranno cotte, quindi sfornate e ricavate la polpa. Trasferite la polpa in un boccale, poi aggiungete i restanti 20 g di olio e l’acqua.",
+      "Frullate con il mixer a immersione per ricavare una salsa omogenea. Se necessario, aggiustate di sale. Trasferite la crema ottenuta nella padella in cui avete arrostito i pomodorini.",
+      "Intanto cuocete i capellini in acqua bollente e salata. Scolateli un paio di minuti prima del tempo indicato sulla confezione e trasferiteli nella padella con il condimento. Portate a cottura la pasta aggiungendo un mestolo della sua acqua al bisogno.",
+      "A fuoco spento, mantecate con un filo d’olio. Impiattate distribuendo la fonduta sul fondo, poi adagiate un nido di spaghetti.",
+      "Aggiungete i pomodorini arrostiti e guarnite con qualche fogliolina di basilico. Servite subito la vostra pasta con crema di melanzane e ricotta salata!"
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-11T10:48:36.860131+00:00",
+    "repaired_at": "2026-10-11T10:49:24.115952+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_9.jpg"
+      ],
+      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/361/36157/pasta-con-crema-di-melanzane-e-ricotta-salata_30.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con crema di melanzane e ricotta salata, iniziate dalla melanzana: dividetela a metà 1 , poi incidete la polpa a scacchiera 2 . Trasferite la melanzana su una teglia con la parte tagliata rivolta verso l’alto e condite con circa 15 g di olio 3 .",
+      "Salate 4 e inserite gli spicchi d’aglio nei tagli della polpa 5 . Cuocete in forno statico preriscaldato a 230° per circa 30 minuti 6 .",
+      "Nel frattempo dedicatevi ai pomodorini: divideteli a metà 7 e versateli in una padella con un filo d’olio caldo 8 . Cuocete a fiamma vivace per circa 7 minuti, salando a piacere 9 .",
+      "Una volta arrostiti, mettete i pomodorini da parte 10 . Passate alla fonduta: grattugiate la ricotta salata con una grattugia a fori larghi 11 . In un pentolino versate la panna e la ricotta salata grattugiata 12 .",
+      "Scaldate a fiamma bassissima per circa 10 minuti, mescolando continuamente con una frusta 13 fino ad ottenere una consistenza cremosa 14 . Se desiderate, potete frullarla con un mixer a immersione per renderla più liscia 15 .",
+      "Nel frattempo le melanzane saranno cotte, quindi sfornate e ricavate la polpa 16 . Trasferite la polpa in un boccale, poi aggiungete i restanti 20 g di olio 17 e l’acqua 18 .",
+      "Frullate con il mixer a immersione 19 per ricavare una salsa omogenea 20 . Se necessario, aggiustate di sale. Trasferite la crema ottenuta nella padella in cui avete arrostito i pomodorini 21 .",
+      "Intanto cuocete i capellini in acqua bollente e salata 22 . Scolateli un paio di minuti prima del tempo indicato sulla confezione e trasferiteli nella padella con il condimento 23 . Portate a cottura la pasta aggiungendo un mestolo della sua acqua al bisogno 24 .",
+      "A fuoco spento 25 , mantecate con un filo d’olio. Impiattate distribuendo la fonduta sul fondo 26 , poi adagiate un nido di spaghetti 27 .",
+      "Aggiungete i pomodorini arrostiti 28 e guarnite con qualche fogliolina di basilico 29 . Servite subito la vostra pasta con crema di melanzane e ricotta salata 30 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con crema di melanzane e ricotta salata, iniziate dalla melanzana: dividetela a metà, poi incidete la polpa a scacchiera. Trasferite la melanzana su una teglia con la parte tagliata rivolta verso l’alto e condite con circa 15 g di olio.",
+      "Salate e inserite gli spicchi d’aglio nei tagli della polpa. Cuocete in forno statico preriscaldato a 230° per circa 30 minuti.",
+      "Nel frattempo dedicatevi ai pomodorini: divideteli a metà e versateli in una padella con un filo d’olio caldo. Cuocete a fiamma vivace per circa 7 minuti, salando a piacere.",
+      "Una volta arrostiti, mettete i pomodorini da parte. Passate alla fonduta: grattugiate la ricotta salata con una grattugia a fori larghi. In un pentolino versate la panna e la ricotta salata grattugiata.",
+      "Scaldate a fiamma bassissima per circa 10 minuti, mescolando continuamente con una frusta fino ad ottenere una consistenza cremosa. Se desiderate, potete frullarla con un mixer a immersione per renderla più liscia.",
+      "Nel frattempo le melanzane saranno cotte, quindi sfornate e ricavate la polpa. Trasferite la polpa in un boccale, poi aggiungete i restanti 20 g di olio e l’acqua.",
+      "Frullate con il mixer a immersione per ricavare una salsa omogenea. Se necessario, aggiustate di sale. Trasferite la crema ottenuta nella padella in cui avete arrostito i pomodorini.",
+      "Intanto cuocete i capellini in acqua bollente e salata. Scolateli un paio di minuti prima del tempo indicato sulla confezione e trasferiteli nella padella con il condimento. Portate a cottura la pasta aggiungendo un mestolo della sua acqua al bisogno.",
+      "A fuoco spento, mantecate con un filo d’olio. Impiattate distribuendo la fonduta sul fondo, poi adagiate un nido di spaghetti.",
+      "Aggiungete i pomodorini arrostiti e guarnite con qualche fogliolina di basilico. Servite subito la vostra pasta con crema di melanzane e ricotta salata!"
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:29.290507+00:00"
+  },
+  {
+    "id": 57170497254616,
+    "name": "Blinis di mais con skyr, avocado e pomodorini arrosto",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 70,
+    "ingredients_display": [
+      "Farina di mais fioretto 150 g",
+      "Farina 00 20 g",
+      "Lievito istantaneo per preparazioni salate 5 g",
+      "Latte intero 160 g",
+      "Uova (uno intero medio) 60 g",
+      "Albumi 35 g",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pomodorini ciliegino (a grappolo) 350 g",
+      "Olio extravergine d'oliva q.b.",
+      "Avocado 1",
+      "Skyr 450 g",
+      "Sale fino q.b.",
+      "Succo di limone &frac12;",
+      "Pepe bianco q.b.",
+      "Origano secco q.b.",
+      "Origano fresco (per guarnire) q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Blinis-di-mais-con-skyr-avocado-e-pomodorini-arrosto.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/208/20873/foto_hd/hd650x433_wm.jpg",
+    "servings": 20,
+    "kcal": 97.8,
+    "protein": null,
+    "carbs": 10.0,
+    "fats": 4.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina di mais fioretto",
+        150.0,
+        "g"
+      ],
+      [
+        "Farina 00",
+        20.0,
+        "g"
+      ],
+      [
+        "Lievito istantaneo per preparazioni salate",
+        5.0,
+        "g"
+      ],
+      [
+        "Latte intero",
+        160.0,
+        "g"
+      ],
+      [
+        "Uova (uno intero medio)",
+        60.0,
+        "g"
+      ],
+      [
+        "Albumi",
+        35.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pomodorini ciliegino (a grappolo)",
+        350.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Avocado",
+        1,
+        "pezzi"
+      ],
+      [
+        "Skyr",
+        450.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Succo di limone &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Pepe bianco",
+        null,
+        "q.b."
+      ],
+      [
+        "Origano secco",
+        null,
+        "q.b."
+      ],
+      [
+        "Origano fresco (per guarnire)",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare i blinis di mais con skyr, avocado e pomodorini al forno versate in una ciotola la farina di mais e quella 00 1 , unite il lievito istantaneo 2 e versate il latte a filo mescolando con una frusta 3 .",
+      "Dividete il tuorlo dall'albume e versate il tuorlo nell'impasto 4 . Mescolate e unite il sale 5 e l'olio 6 mescolando per far incorporare tutti gli ingredienti.",
+      "Coprite con pellicola 7 e lasciate a temperatura di 26° per circa 90 minuti. Nel frattempo occupatevi dei pomodorini: prendete i grappoli senza staccare i pomodorini e lavate tutto sotto acqua corrente. Sistemateli su una teglia foderata con carta da forno, condite con l’olio 8 e l'origano secco 9 .",
+      "Aggiungete anche del sale a piacere e infornate in forno statico già caldo a 200° per 40 minuti. Trascorso il tempo di cottura sfornate i pomodorini e lasciate raffreddare 10 . Montate con le fruste elettriche a neve l'albume tenuto da parte insieme ad altri 35 g di albume (11 e 12).",
+      "Prendete l’impasto riposato e versate poco per volta gli albumi montati dal basso verso l’alto 13 . Una volta pronto l'impasto 14 , cuocete i blinis: scaldate e ungete con pochissimo olio una padella piatta (potete aiutarvi con carta da cucina per spargere l'olio sulla superficie). Versate qualche mestolo di impasto per creare dei dischetti di circa 6 cm di diametro 15 e cuocete a fuoco medio-basso.",
+      "Una volta che la base sarà dorata, girateli delicatamente 16 per cuocerli anche dall'altro lato 17 . Proseguite in questo modo con tutti e una volta cotti poneteli su un piatto da portata 18 . Con queste dosi otterrete circa 20 blinis.",
+      "Dividete a metà un avocado, eliminate il nocciolo 19 . Pelate l'avocado 20 e poi dividete la polpa a dadini 21 .",
+      "Versate in una ciotola e spremete il succo di un limone filtrando con un colino 22 ; questo impedirà che la polpa di avocado si ossidi. Condite con un filo d'olio 23 e pepe bianco a piacere. Potete decorare ciascun blinis di mais con un cucchiaio di skyr 24 ,",
+      "dadini di avocado 25 e pomodorini arrosto 26 . I vostri blinis di mais con skyr, avocado e pomodorini arrosto sono pronti per essere serviti 27 ."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:40.698111+00:00",
+    "repaired_at": "2026-10-11T10:49:26.769788+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 237252137321149,
+    "name": "Focaccia pomodorini e olive con Bimby®",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 60,
+    "ingredients_display": [
+      "Farina 00 300 g",
+      "Farina Manitoba 200 g",
+      "Acqua 300 g",
+      "Olio extravergine d'oliva 35 g",
+      "Sale fino 10 g",
+      "Lievito di birra fresco 10 g",
+      "Zucchero 5 g",
+      "Acqua 250 g",
+      "Succo di limone 30 g",
+      "Pomodori di Pachino 300 g",
+      "Olive di Gaeta 80 g",
+      "Olio extravergine d'oliva 30 g",
+      "Origano q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Focaccia-pomodorini-e-olive-con-Bimby.html",
+    "image_url": "https://www.giallozafferano.it/images/292-29232/Focaccia-pomodorini-e-olive-con-Bimby_650x433_wm.jpg",
+    "servings": 6,
+    "kcal": 433.3,
+    "protein": null,
+    "carbs": 68.2,
+    "fats": 13.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00",
+        300.0,
+        "g"
+      ],
+      [
+        "Farina Manitoba",
+        200.0,
+        "g"
+      ],
+      [
+        "Acqua",
+        300.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        35.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        10.0,
+        "g"
+      ],
+      [
+        "Lievito di birra fresco",
+        10.0,
+        "g"
+      ],
+      [
+        "Zucchero",
+        5.0,
+        "g"
+      ],
+      [
+        "Acqua",
+        250.0,
+        "g"
+      ],
+      [
+        "Succo di limone",
+        30.0,
+        "g"
+      ],
+      [
+        "Pomodori di Pachino",
+        300.0,
+        "g"
+      ],
+      [
+        "Olive di Gaeta",
+        80.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ],
+      [
+        "Origano",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la focaccia pomodorini e olive con Bimby mettete nel boccale il lievito di birra, lo zucchero e 100 g di acqua. Sciogliete il lievito per 2 minuti a 37° impostando la velocità 2.",
+      "Aggiungete 50 g di farina 00 4 e amalgamate per un minuto a velocità 3. Lasciate riposare all'interno del boccale per 10 minuti. Unite il resto delle farine e versate anche gli altri 200 g di acqua 5 , quindi impastate con la funzione spiga per 2 minuti. A questo punto aggiungete i 10 g di sale 6 .",
+      "Versate i 35 g di olio extravergine di oliva 7 e impastate nuovamente con la funzione spiga per 2 minuti 8 9 .",
+      "Trasferite l'impasto sul piano da lavoro infarinato 10 e formate una palla liscia e omogenea 11 . Nel frattempo rivestite il recipiente del Varoma con un foglio di carta forno 12 .",
+      "Versate un filo di olio 13 . Trasferite l'impasto nel recipiente del Varoma 14 e chiudete con il coperchio 15 .",
+      "Mettete nel boccale 250 g di acqua 16 e il succo di limone, chiudete con il coperchio e posizionate sopra il Varoma 17 . Impostate il programma della fermentazione per 2 ore a 37°. Ora lavate i pomodorini e tagliateli a metà, tenendoli da parte 18 .",
+      "Una volta completata la lievitazione, togliete con attenzione il Varoma 19 . Versate l'impasto in uno stampo oliato del diametro di 32 cm e stendetelo con le mani 20 . Con i polpastrelli pressate l'impasto per creare dei fori 21 .",
+      "Sistemate sopra i pomodorini premendo leggermente 22 , poi fate la stessa cosa anche con le olive 23 . Salate la superficie e condite con un giro abbondante di olio 24 .",
+      "Completate con una spolverata di origano secco 25 . Lasciate lievitare per 30 minuti in un luogo senza correnti d'aria 26 . Trascorsi i 30 minuti, cuocete in forno già caldo a 200° per 45 minuti. Una volta trascorso il tempo di cottura, sfornate 27 e lasciate intiepidire prima di gustare la vostra focaccia pomodorini e olive con Bimby®!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:43.425307+00:00",
+    "repaired_at": "2026-10-11T10:49:53.019329+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 56216802979980,
+    "name": "Poke cake",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 65,
+    "ingredients_display": [
+      "Zucchero di canna 180 g",
+      "Uova a temperatura ambiente (circa 2 medie) 110 g",
+      "Farina 00 280 g",
+      "Latte intero a temperatura ambiente 150 g",
+      "Yogurt bianco naturale (non zuccherato) a temperatura ambiente 125 g",
+      "Burro 100 g",
+      "Baccello di vaniglia (i semi) &frac12;",
+      "Sale fino 1 pizzico",
+      "Lievito in polvere per dolci 16 g",
+      "Cioccolato al latte 150 g",
+      "Panna fresca liquida 100 g",
+      "Baccello di vaniglia (senza i semi) 1",
+      "Panna fresca liquida 100 g",
+      "Baccello di vaniglia (i semi) &frac12;",
+      "Cioccolato al latte 20 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Poke-cake.html",
+    "image_url": "https://www.giallozafferano.it/images/204-20457/Poke-cake_650x433_wm.jpg",
+    "servings": 15,
+    "kcal": 285.0,
+    "protein": null,
+    "carbs": 34.4,
+    "fats": 14.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Zucchero di canna",
+        180.0,
+        "g"
+      ],
+      [
+        "Uova a temperatura ambiente (circa 2 medie)",
+        110.0,
+        "g"
+      ],
+      [
+        "Farina 00",
+        280.0,
+        "g"
+      ],
+      [
+        "Latte intero a temperatura ambiente",
+        150.0,
+        "g"
+      ],
+      [
+        "Yogurt bianco naturale (non zuccherato) a temperatura ambiente",
+        125.0,
+        "g"
+      ],
+      [
+        "Burro",
+        100.0,
+        "g"
+      ],
+      [
+        "Baccello di vaniglia (i semi) &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        1,
+        "pizzichi"
+      ],
+      [
+        "Lievito in polvere per dolci",
+        16.0,
+        "g"
+      ],
+      [
+        "Cioccolato al latte",
+        150.0,
+        "g"
+      ],
+      [
+        "Panna fresca liquida",
+        100.0,
+        "g"
+      ],
+      [
+        "Baccello di vaniglia (senza i semi) 1",
+        null,
+        "da verificare"
+      ],
+      [
+        "Panna fresca liquida",
+        100.0,
+        "g"
+      ],
+      [
+        "Baccello di vaniglia (i semi) &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cioccolato al latte",
+        20.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per realizzare la poke cake come prima cosa sciogliete il burro e lasciatelo raffreddare. Ora versate in una ciotola capiente lo zucchero e le uova intere 1 ; iniziate a montare il composto con le fruste elettriche e poi, quando sarà omogeneo, aggiungete il sale 3 .",
+      "Unite il burro fuso raffreddato 4 e continuate a montare fino a ottenere una massa gonfia e chiara, a questo punto incorporate lo yogurt 5 e il latte 6 .",
+      "Mantenente azionate le fruste fino ad inglobare tutti gli ingredienti, poi aggiungete il lievito e la farina setacciati attraverso un colino 7 8 . Mescolate con le fruste per un paio di minuti, finché l’impasto non sarà ben amalgamato. Terminate aromatizzando con i semi del baccello di vaniglia 9 .",
+      "Prendete una teglia e rivestitela con carta forno, adagiate sopra uno stampo senza fondo quadrato da 20x20 cm, avendo cura di imburrare il bordo interno. Versate qui l’impasto 10 , livellate la superficie con una spatola 11 e cuocete in forno statico preriscaldato a 180° per 30 minuti sul ripiano medio. Nel frattempo tritate il cioccolato per la farcitura 12 .",
+      "Versate in un pentolino la panna fresca liquida 13 e il baccello di vaniglia svuotato dei semi 14 , portate a bollore e poi eliminate il baccello 15 .",
+      "Versate il composto caldo nella ciotola con il cioccolato tritato 16 e mescolate fino a ottenere una salsa omogenea 17 che terrete da parte. Intanto la base avrà terminato la cottura, sfornatela 18 . Se durante la cottura il centro della torta si è gonfiato un po' non preoccupatevi, capovolgete il dolce e lasciatelo raffreddare.",
+      "Estraete lo stampo 19 , poi con il manico di un mestolo infilzate il dolce 20 in modo da creare 20 fori ben distanziati tra loro. Farcite i fori con la ganache di cioccolato aiutandovi con un sac-à-poche 21 .",
+      "Con una spatola livellate la superficie così da eliminare l’eccesso di ganache 22 . Ora occupatevi della decorazione, versate la panna fresca liquida in una ciotola, insaporite con i restanti semi del baccello di vaniglia 23 e montate la panna con le fruste elettriche (assicuratevi che le fruste siano ben pulite) 24 fino a quando non sarà ben spumosa.",
+      "Ricoprite il dolce con la panna montata 25 , creando un effetto ondulato con delle spatolate morbide 26 . Spolverizzate la superficie con del cioccolato tritato finemente 27 .",
+      "A questo punto ritagliate il dolce prima in 5 strisce verticali 28 e poi in 3 orizzontali 29 , così da ricavare 15 pezzi. Se preferite potete realizzare anche dei cubotti più piccoli. Servite la vostra poke cake 30 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:46.084518+00:00",
+    "repaired_at": "2026-10-11T10:49:29.392344+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 22088968087347,
+    "name": "Pasta con crema di melanzane e pomodorini",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 70,
+    "ingredients_display": [
+      "Fusilloni 320 g",
+      "Melanzane 500 g",
+      "Pomodorini datterini 300 g",
+      "Zucchero di canna 1 cucchiaio",
+      "Peperoncino secco q.b.",
+      "Basilico q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-melanzane-e-pomodorini.html",
+    "image_url": "https://www.giallozafferano.it/images/299-29952/Pasta-con-crema-di-melanzane-e-pomodorini_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 98.8,
+    "protein": null,
+    "carbs": 12.8,
+    "fats": 5.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fusilloni",
+        320.0,
+        "g"
+      ],
+      [
+        "Melanzane",
+        500.0,
+        "g"
+      ],
+      [
+        "Pomodorini datterini",
+        300.0,
+        "g"
+      ],
+      [
+        "Zucchero di canna",
+        1,
+        "cucchiai"
+      ],
+      [
+        "Peperoncino secco",
+        null,
+        "q.b."
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con crema di melanzane e pomodorini cominciate dalle melanzane: lavatele e spuntatele. Tagliatele prima a fette, poi a bastoncini e infine a cubetti di 1 cm.",
+      "Trasferite le melanzane in una teglia e condite con olio, sale, peperoncino e basilico spezzettato.",
+      "Mescolate con le mani per insaporire le melanzane in modo uniforme, poi tenete da parte. Passate ai pomodorini: divideteli a metà e conditeli con l'olio.",
+      "Aggiungete anche il sale e lo zucchero di canna. Cuocete sia le melanzane che i pomodorini in forno statico preriscaldato a 200° per circa 35-40 minuti, posizionando le teglie sullo stesso ripiano. Trascorso il tempo di cottura, le melanzane risulteranno dorate.",
+      "I pomodorini invece avranno rilasciato l'acqua di vegetazione. Tenete da parte qualche melanzana per la decorazione dei piatti, poi filtrate il fondo di cottura dei pomodori per condire le melanzane rimaste nella teglia.",
+      "Trasferite le melanzane condite in un mixer, unite qualche foglia di basilico e frullate accuratamente.",
+      "Cuocete la pasta in acqua bollente salata. Nel frattempo versate la crema di melanzane in una padella e allungatela con un mestolo dell'acqua di cottura. Scolate la pasta al dente e trasferitela direttamente in padella, poi saltatela aggiungendo acqua al bisogno.",
+      "Amalgamate bene e spegnete il fuoco, poi completate con un filo d’olio a crudo e altro basilico fresco. Impiattate e guarnite con i pomodorini, le melanzane tenute da parte e ancora qualche fogliolina di basilico. La vostra pasta con crema di melanzane e pomodorini è pronta per essere servita!"
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-11T10:48:48.716397+00:00",
+    "repaired_at": "2026-10-11T10:49:32.031965+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/299/29952/29952_pasta-con-crema-di-melanzane-e-pomodorini_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/299/29952/29952_pasta-con-crema-di-melanzane-e-pomodorini_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/299/29952/29952_pasta-con-crema-di-melanzane-e-pomodorini_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/299/29952/29952_pasta-con-crema-di-melanzane-e-pomodorini_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/299/29952/29952_pasta-con-crema-di-melanzane-e-pomodorini_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/299/29952/29952_pasta-con-crema-di-melanzane-e-pomodorini_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/299/29952/29952_pasta-con-crema-di-melanzane-e-pomodorini_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/299/29952/29952_pasta-con-crema-di-melanzane-e-pomodorini_strip_22-24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con crema di melanzane e pomodorini cominciate dalle melanzane: lavatele e spuntatele 1 . Tagliatele prima a fette 2 , poi a bastoncini e infine a cubetti di 1 cm 3 .",
+      "Trasferite le melanzane in una teglia e condite con olio 4 , sale, peperoncino 5 e basilico spezzettato 6 .",
+      "Mescolate con le mani per insaporire le melanzane in modo uniforme, poi tenete da parte 7 . Passate ai pomodorini: divideteli a metà 8 e conditeli con l'olio 9 .",
+      "Aggiungete anche il sale e lo zucchero di canna 10 . Cuocete sia le melanzane che i pomodorini in forno statico preriscaldato a 200° per circa 35-40 minuti, posizionando le teglie sullo stesso ripiano 11 . Trascorso il tempo di cottura, le melanzane risulteranno dorate 12 .",
+      "I pomodorini invece avranno rilasciato l'acqua di vegetazione 13 . Tenete da parte qualche melanzana per la decorazione dei piatti 14 , poi filtrate il fondo di cottura dei pomodori per condire le melanzane rimaste nella teglia 15 .",
+      "Trasferite le melanzane condite in un mixer 16 , unite qualche foglia di basilico 17 e frullate accuratamente 18 .",
+      "Cuocete la pasta in acqua bollente salata. Nel frattempo versate la crema di melanzane in una padella e allungatela con un mestolo dell'acqua di cottura 19 . Scolate la pasta al dente e trasferitela direttamente in padella 20 , poi saltatela aggiungendo acqua al bisogno 21 .",
+      "Amalgamate bene 22 e spegnete il fuoco, poi completate con un filo d’olio a crudo e altro basilico fresco 23 . Impiattate e guarnite con i pomodorini, le melanzane tenute da parte e ancora qualche fogliolina di basilico. La vostra pasta con crema di melanzane e pomodorini è pronta per essere servita 24 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con crema di melanzane e pomodorini cominciate dalle melanzane: lavatele e spuntatele. Tagliatele prima a fette, poi a bastoncini e infine a cubetti di 1 cm.",
+      "Trasferite le melanzane in una teglia e condite con olio, sale, peperoncino e basilico spezzettato.",
+      "Mescolate con le mani per insaporire le melanzane in modo uniforme, poi tenete da parte. Passate ai pomodorini: divideteli a metà e conditeli con l'olio.",
+      "Aggiungete anche il sale e lo zucchero di canna. Cuocete sia le melanzane che i pomodorini in forno statico preriscaldato a 200° per circa 35-40 minuti, posizionando le teglie sullo stesso ripiano. Trascorso il tempo di cottura, le melanzane risulteranno dorate.",
+      "I pomodorini invece avranno rilasciato l'acqua di vegetazione. Tenete da parte qualche melanzana per la decorazione dei piatti, poi filtrate il fondo di cottura dei pomodori per condire le melanzane rimaste nella teglia.",
+      "Trasferite le melanzane condite in un mixer, unite qualche foglia di basilico e frullate accuratamente.",
+      "Cuocete la pasta in acqua bollente salata. Nel frattempo versate la crema di melanzane in una padella e allungatela con un mestolo dell'acqua di cottura. Scolate la pasta al dente e trasferitela direttamente in padella, poi saltatela aggiungendo acqua al bisogno.",
+      "Amalgamate bene e spegnete il fuoco, poi completate con un filo d’olio a crudo e altro basilico fresco. Impiattate e guarnite con i pomodorini, le melanzane tenute da parte e ancora qualche fogliolina di basilico. La vostra pasta con crema di melanzane e pomodorini è pronta per essere servita!"
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:26.647323+00:00"
+  },
+  {
+    "id": 260831753740936,
+    "name": "Blinis di grano saraceno con tonno affumicato",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 23,
+    "ingredients_display": [
+      "Farina di grano saraceno senza glutine 80 g",
+      "Fecola di patate senza glutine 40 g",
+      "Yogurt bianco naturale 150 g",
+      "Uova (1 medio) 50 g",
+      "Latte intero 20 g",
+      "Lievito istantaneo per preparazioni salate senza glutine 2 g",
+      "Sale fino q.b.",
+      "Burro q.b.",
+      "Tonno affumicato 100 g",
+      "Caprino 100 g",
+      "Erba cipollina 8 fili",
+      "Sale fino q.b.",
+      "Lime 1"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Blinis-di-grano-saraceno-con-tonno-affumicato.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/219/21905/foto_hd/hd650x433_wm.jpg",
+    "servings": 9,
+    "kcal": 111.0,
+    "protein": null,
+    "carbs": 12.3,
+    "fats": 3.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina di grano saraceno senza glutine",
+        80.0,
+        "g"
+      ],
+      [
+        "Fecola di patate senza glutine",
+        40.0,
+        "g"
+      ],
+      [
+        "Yogurt bianco naturale",
+        150.0,
+        "g"
+      ],
+      [
+        "Uova (1 medio)",
+        50.0,
+        "g"
+      ],
+      [
+        "Latte intero",
+        20.0,
+        "g"
+      ],
+      [
+        "Lievito istantaneo per preparazioni salate senza glutine",
+        2.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Burro",
+        null,
+        "q.b."
+      ],
+      [
+        "Tonno affumicato",
+        100.0,
+        "g"
+      ],
+      [
+        "Caprino",
+        100.0,
+        "g"
+      ],
+      [
+        "Erba cipollina 8 fili",
+        null,
+        "da verificare"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Lime",
+        1,
+        "pezzi"
+      ]
+    ],
+    "steps": [
+      "Per preparare i blinis di grano saraceno con tonno affumicato, versate lo yogurt e l’uovo in una ciotola e mescolateli con una frusta, aggiungete farina di grano saraceno e la fecola; continuate a mescolare.",
+      "Aggiustate di sale, versate il latte a filo mescolate ancora, aggiungete il lievito instanteo e amalgamate il tutto un’ultima volta.",
+      "In una padella fate sciogliere con un pezzetto di burro quindi versate 3-4 mestolini di impasto (circa 6 cm di diametro) in base all'ampiezza della padella. Dopo circa 1 minuto girate i blinis per cuocere dall'altro lato, iniziando dal primo versato. Cuoceteli ancora per un minuto o poco più. Con le dosi indicate otterrete circa 18 pezzi.",
+      "Man a mano che saranno pronti, adagiateli su un piatto da portata. Passate alla farcitura: in una ciotola versate il caprino e l'erba cipollina tritata (tenete da parte due steli per la decorazione finale). Unite l'olio, il succo di lime;",
+      "aggiustate di sale, mescolate. Sbucciate un pezzo del lime e tagliate la scorza a fettine sottili.",
+      "Riprendete i blinis e spalmate ciascuno con la crema di formaggio adagiate le fettine di tonno affumicato e decorate con la scorza di lime tagliata a listarelle e un po’ di erba cipollina. I blinis di grano saraceno con tonno affumicato sono pronti 18."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:51.825472+00:00",
+    "repaired_at": "2026-10-11T10:49:55.649778+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 241367404629547,
+    "name": "Focaccia morbida",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 50,
+    "ingredients_display": [
+      "Farina 00 500 g",
+      "Acqua a temperatura ambiente 300 g",
+      "Olio extravergine d'oliva 20 g",
+      "Lievito di birra fresco 4 g",
+      "Sale fino 5 g",
+      "Olio extravergine d'oliva 30 g",
+      "Acqua 15 g",
+      "Fiocchi di sale q.b.",
+      "Rosmarino q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Focaccia-morbida.html",
+    "image_url": "https://www.giallozafferano.it/images/220-22087/Focaccia-morbida_650x433_wm.jpg",
+    "servings": 6,
+    "kcal": 396.7,
+    "protein": null,
+    "carbs": 63.9,
+    "fats": 11.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00",
+        500.0,
+        "g"
+      ],
+      [
+        "Acqua a temperatura ambiente",
+        300.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Lievito di birra fresco",
+        4.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        5.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ],
+      [
+        "Acqua",
+        15.0,
+        "g"
+      ],
+      [
+        "Fiocchi di sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la focaccia morbida per prima cosa versate il lievito sbriciolato nell’acqua a temperatura ambiente e mescolate fino a completo scioglimento. In alternativa potete sbriciolare il lievito direttamente in planetaria. Versate la farina nella ciotola della planetaria dotata di gancio.",
+      "Unite l’acqua con il lievito e iniziate ad impastare a velocità bassa. Aggiungete il sale e infine l’olio a filo.",
+      "Quando l’impasto sarà ben liscio e omogeneo, arrestate la planetaria. Ci vorranno circa 10 minuti. Ungete con un filo d’olio il piano di lavoro, quindi rovesciate l'impasto.",
+      "Lavoratelo con le mani, giusto il tempo di conferirgli una forma sferica. Trasferitelo quindi in una ciotola e coprite con pellicola. Lasciate lievitare per 2 ore a temperatura ambiente.",
+      "Trascorso questo tempo riprendete l’impasto lievitato, ungete accuratamente con l’olio una teglia alta 5 cm con 26 cm di diametro. Ponete al centro l'impasto e stendetelo su tutta la superficie della teglia con le mani.",
+      "Coprite con la pellicola e lasciate lievitare per un'ora in forno spento con la luce accesa (sempre a una temperatura compresa tra i 25°-28°). Intanto preparate una salamoia miscelando l’acqua con l’olio 18.",
+      "Trascorso il tempo di lievitazione, riprendete l'impasto e pressate la superficie con la punta delle dita per creare i tipici buchi della focaccia 19 , quindi distribuite sopra la salamoia 20 e i fiocchi di sale 21 .",
+      "Aggiungete anche gli aghi di rosmarino 22 e cuocete in forno statico preriscaldato a 200° per 40 minuti. Una volta cotta, sfornate la vostra focaccia morbida 23 , fatela intiepidire e sformatela quindi servitela ancora calda 24 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:54.482484+00:00",
+    "repaired_at": "2026-10-11T10:49:58.274400+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 115009007825672,
+    "name": "Poke cake con Nutella® facile e golosa",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": null,
+    "ingredients_display": [
+      "Farina 00 250 g",
+      "Zucchero di canna 180 g",
+      "Uova (circa 2 a temperatura ambiente) 110 g",
+      "Sale fino 1 pizzico",
+      "Yogurt bianco naturale (non zuccherato, a temperatura ambiente) 125 g",
+      "Burro 100 g",
+      "Ribes rosso 90 g",
+      "Lievito in polvere per dolci 8 g",
+      "Nutella® 150 g",
+      "Ribes rosso q.b.",
+      "Decorazione alimentare zuccherini natalizi q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Poke-cake-con-Nutella.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/219/21941/foto_hd/hd650x433_wm.jpg",
+    "servings": null,
+    "kcal": 361.8,
+    "protein": null,
+    "carbs": 53.9,
+    "fats": 14.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00 250 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Zucchero di canna 180 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Uova (circa 2 a temperatura ambiente) 110 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Sale fino 1 pizzico",
+        null,
+        "da fonte"
+      ],
+      [
+        "Yogurt bianco naturale (non zuccherato, a temperatura ambiente) 125 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Burro 100 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Ribes rosso 90 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Lievito in polvere per dolci 8 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Nutella® 150 g",
+        null,
+        "da fonte"
+      ],
+      [
+        "Ribes rosso q.b.",
+        null,
+        "da fonte"
+      ],
+      [
+        "Decorazione alimentare zuccherini natalizi q.b.",
+        null,
+        "da fonte"
+      ]
+    ],
+    "steps": [
+      "Per preparare la poke cake con Nutella® fondete il burro a fuoco bassissimo, quindi lasciate intiepidire. Versate lo zucchero di canna in una ciotola, aggiungete le uova a temperatura ambiente e montate con le fruste elettriche. Aggiungete un pizzico di sale e continuate a lavorare fino ad ottenere un composto chiaro ed uniforme. A questo punto aggiungete il burro fuso tiepido.",
+      "Continuate a lavorare con le fruste elettriche fino a che non sarà ben assorbito. Aggiungete poi lo yogurt a temperatura ambiente e lavorate ancora alcuni istanti.",
+      "Quando avrete ottenuto un composto omogeneo aggiungete la farina precedentemente setacciata e il lievito, anch'esso setacciato. Lavorate ancora con le fruste a velocità bassa.",
+      "Quando la farina sarà ben amalagamata al resto degli ingredienti aggiungete una parte dei ribes e mescolate con una spatola. Imburrate e foderate con la carta forno uno stampo da 30x22 cm, versate l'impasto all'interno",
+      "e livellate la superficie con una spatola. Aggiungete i ribes rimasti in superficie. Cuocete la torta in forno statico preriscaldato a 180° per circa 30 minuti. Quando il dolce sarà cotto sfornatelo e lasciatelo raffreddare. Sformatelo poi dallo stampo e trasferitelo su un tagliere. Rifilate quindi i bordi della torta, poi ricavate 5 strisce orizzontali e 6 verticali, in modo da ottenere 30 cubi delle stesse dimensioni.",
+      "Utilizzando il manico di un mestolo realizzate un foro al centro di ogni cubetto 16 . Spolverizzate con lo zucchero a velo 17 . Disponete a questo punto 25 cubetti a forma di albero di Natale, i restanti potrete servirli a parte. Trasferite la Nutella in un sac-à-poche e utilizzatelo per riempire ciascun cubetto fino a realizzare un ciuffetto 18 .",
+      "Quando avrete farcito tutti i cubi 19 , decorate con ribes 20 e zuccherini natalizi. La Poke cake con Nutella® è pronta da servire 21 !"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:48:58.053976+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
+      "porzioni_presenti": false,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato",
+        "ingredienti_porzione_procedimento_incompleti",
+        "tempo_mancante"
+      ],
+      "type": "Dolce o colazione",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 189563734837992,
+    "name": "Pasta con crema di melanzane e pesce spada",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 50,
+    "ingredients_display": [
+      "Mezzi Rigatoni 320 g",
+      "Pesce spada 280 g",
+      "Melanzane 250 g",
+      "Passata di pomodoro 125 g",
+      "Cipolle bianche piccola 1",
+      "Capperi sott'aceto 20 g",
+      "Aglio 1 spicchio",
+      "Vino bianco 30 g",
+      "Basilico 6 foglie",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-melanzane-e-pesce-spada.html",
+    "image_url": "https://www.giallozafferano.it/images/282-28298/Pasta-con-crema-di-melanzane-e-pesce-spada_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 466.4,
+    "protein": null,
+    "carbs": 69.2,
+    "fats": 10.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Mezzi Rigatoni",
+        320.0,
+        "g"
+      ],
+      [
+        "Pesce spada",
+        280.0,
+        "g"
+      ],
+      [
+        "Melanzane",
+        250.0,
+        "g"
+      ],
+      [
+        "Passata di pomodoro",
+        125.0,
+        "g"
+      ],
+      [
+        "Cipolle bianche piccola",
+        1,
+        "pezzi"
+      ],
+      [
+        "Capperi sott'aceto",
+        20.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Vino bianco",
+        30.0,
+        "g"
+      ],
+      [
+        "Basilico",
+        6.0,
+        "foglie"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare la pasta con crema di melanzane e pesce spada per prima cosa mondate e tritate finemente la cipolla. Tagliate le melanzane prima a fette 2 e poi a dadini di 1 cm 3 .",
+      "In una padella versate l’olio 4 e la cipolla tritata 5 . Stufate la cipolla a fuoco dolce per circa 10 minuti, finché non sarà morbida e trasparente 6 .",
+      "Una volta che la cipolla sarà ben stufata, aggiungete le melanzane e mescolate 7 . Ora unite anche la passata di pomodoro 8 , sciacquate la caraffa e allungate il sugo con poca acqua 9 .",
+      "Aggiustate di sale 10 , pepe 11 e profumate con le foglie di basilico 12 .",
+      "Continuate a cuocere le melanzane per circa 10 minuti versando un mestolo di acqua calda 13 . Mettete da parte 2-3 cucchiai di melanzane e trasferite il resto in una brocca 14 , poi frullate con il mixer a immersione per ottenere una crema 15 . Tenetela da parte.",
+      "Eliminate la pelle dal pesce spada 16 , poi tagliatelo prima a strisce 17 e poi a cubetti piccoli 18 .",
+      "In una padella scaldate l’olio con l’aglio, poi versate i cubetti di pesce spada 19 e saltate a fuoco vivace per 2 minuti. Sfumate con il vino bianco 20 , lasciate evaporare e togliete l’aglio 21 .",
+      "Intanto cuocete la pasta al dente in abbondante acqua salata 22 . Una volta cotto, trasferite il pesce spada in una ciotola 23 e, nella stessa padella, versate la crema di melanzane preparata precedentemente 24 .",
+      "Aggiungete i capperi 25 e un mestolo di acqua di cottura della pasta 26 . Scolate la pasta al dente direttamente nel sugo 27 .",
+      "Mantecate in padella con altra acqua di cottura 28 , quanto basta perché risulti cremosa 29 . Completate il piatto con il pesce spada e le melanzane che avete tenuto da parte e guarnite con foglie di basilico fresco. La vostra pasta con crema di melanzane e pesce spada è pronta per essere servita 30 !"
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-11T10:49:00.733765+00:00",
+    "repaired_at": "2026-10-11T10:49:34.640354+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/282/28298/pasta-con-crema-di-melanzane-e-pesce-spada_30.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la pasta con crema di melanzane e pesce spada per prima cosa mondate e tritate finemente la cipolla. Tagliate le melanzane prima a fette 2 e poi a dadini di 1 cm 3 .",
+      "In una padella versate l’olio 4 e la cipolla tritata 5 . Stufate la cipolla a fuoco dolce per circa 10 minuti, finché non sarà morbida e trasparente 6 .",
+      "Una volta che la cipolla sarà ben stufata, aggiungete le melanzane e mescolate 7 . Ora unite anche la passata di pomodoro 8 , sciacquate la caraffa e allungate il sugo con poca acqua 9 .",
+      "Aggiustate di sale 10 , pepe 11 e profumate con le foglie di basilico 12 .",
+      "Continuate a cuocere le melanzane per circa 10 minuti versando un mestolo di acqua calda 13 . Mettete da parte 2-3 cucchiai di melanzane e trasferite il resto in una brocca 14 , poi frullate con il mixer a immersione per ottenere una crema 15 . Tenetela da parte.",
+      "Eliminate la pelle dal pesce spada 16 , poi tagliatelo prima a strisce 17 e poi a cubetti piccoli 18 .",
+      "In una padella scaldate l’olio con l’aglio, poi versate i cubetti di pesce spada 19 e saltate a fuoco vivace per 2 minuti. Sfumate con il vino bianco 20 , lasciate evaporare e togliete l’aglio 21 .",
+      "Intanto cuocete la pasta al dente in abbondante acqua salata 22 . Una volta cotto, trasferite il pesce spada in una ciotola 23 e, nella stessa padella, versate la crema di melanzane preparata precedentemente 24 .",
+      "Aggiungete i capperi 25 e un mestolo di acqua di cottura della pasta 26 . Scolate la pasta al dente direttamente nel sugo 27 .",
+      "Mantecate in padella con altra acqua di cottura 28 , quanto basta perché risulti cremosa 29 . Completate il piatto con il pesce spada e le melanzane che avete tenuto da parte e guarnite con foglie di basilico fresco. La vostra pasta con crema di melanzane e pesce spada è pronta per essere servita 30 !"
+    ],
+    "steps_clean": [
+      "Per realizzare la pasta con crema di melanzane e pesce spada per prima cosa mondate e tritate finemente la cipolla. Tagliate le melanzane prima a fette 2 e poi a dadini di 1 cm 3 .",
+      "In una padella versate l’olio 4 e la cipolla tritata 5 . Stufate la cipolla a fuoco dolce per circa 10 minuti, finché non sarà morbida e trasparente 6 .",
+      "Una volta che la cipolla sarà ben stufata, aggiungete le melanzane e mescolate 7 . Ora unite anche la passata di pomodoro 8 , sciacquate la caraffa e allungate il sugo con poca acqua 9 .",
+      "Aggiustate di sale 10 , pepe 11 e profumate con le foglie di basilico 12 .",
+      "Continuate a cuocere le melanzane per circa 10 minuti versando un mestolo di acqua calda 13 . Mettete da parte 2-3 cucchiai di melanzane e trasferite il resto in una brocca 14 , poi frullate con il mixer a immersione per ottenere una crema 15 . Tenetela da parte.",
+      "Eliminate la pelle dal pesce spada 16 , poi tagliatelo prima a strisce 17 e poi a cubetti piccoli 18 .",
+      "In una padella scaldate l’olio con l’aglio, poi versate i cubetti di pesce spada 19 e saltate a fuoco vivace per 2 minuti. Sfumate con il vino bianco 20 , lasciate evaporare e togliete l’aglio 21 .",
+      "Intanto cuocete la pasta al dente in abbondante acqua salata 22 . Una volta cotto, trasferite il pesce spada in una ciotola 23 e, nella stessa padella, versate la crema di melanzane preparata precedentemente 24 .",
+      "Aggiungete i capperi 25 e un mestolo di acqua di cottura della pasta 26 . Scolate la pasta al dente direttamente nel sugo 27 .",
+      "Mantecate in padella con altra acqua di cottura 28 , quanto basta perché risulti cremosa 29 . Completate il piatto con il pesce spada e le melanzane che avete tenuto da parte e guarnite con foglie di basilico fresco. La vostra pasta con crema di melanzane e pesce spada è pronta per essere servita 30 !"
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:23.974052+00:00"
+  },
+  {
+    "id": 144685133639820,
+    "name": "Bicchierini salati al salmone, crema di formaggio e crumble alle erbe",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 30,
+    "ingredients_display": [
+      "Salmone affumicato 100 g",
+      "Formaggio spalmabile Philadelphia 350 g",
+      "Mandorle in scaglie tostate 40 g",
+      "Scorza di lime q.b.",
+      "Aneto q.b.",
+      "Burro freddo 50 g",
+      "Farina 00 50 g",
+      "Grana Padano DOP grattugiato 20 g",
+      "Rosmarino q.b.",
+      "Sale fino 1 pizzico"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe.html",
+    "image_url": "https://www.giallozafferano.it/images/159-15992/Bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 587.4,
+    "protein": null,
+    "carbs": 13.5,
+    "fats": 44.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Salmone affumicato",
+        100.0,
+        "g"
+      ],
+      [
+        "Formaggio spalmabile Philadelphia",
+        350.0,
+        "g"
+      ],
+      [
+        "Mandorle in scaglie tostate",
+        40.0,
+        "g"
+      ],
+      [
+        "Scorza di lime",
+        null,
+        "q.b."
+      ],
+      [
+        "Aneto",
+        null,
+        "q.b."
+      ],
+      [
+        "Burro freddo",
+        50.0,
+        "g"
+      ],
+      [
+        "Farina 00",
+        50.0,
+        "g"
+      ],
+      [
+        "Grana Padano DOP grattugiato",
+        20.0,
+        "g"
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        1,
+        "pizzichi"
+      ]
+    ],
+    "steps": [
+      "Per preparare i bicchierini salati al salmone, crema di formaggio e crumble alle erbe iniziate mettendo nel mixer il formaggio grattugiato, poi aggiungete la farina e il rosmarino fresco.",
+      "Salate e aggiungete il burro freddo a tocchetti. Lavorate a intermittenza fino a ottenere un composto dalla consistenza granulosa, simile a grosse briciole.",
+      "Trasferite l’impasto su una teglia rivestita di carta forno e cuocetelo in forno statico preriscaldato a 180°C per 15 minuti, o finché risulterà dorato e fragrante. Nel frattempo, ricavate dalle fette di salmone una tartare, tagliandole finemente con un coltello ben affilato. Quando il crumble sarà cotto, sfornatelo e lasciatelo raffreddare.",
+      "Spezzettatelo con le mani per ottenere dei pezzetti irregolari. A questo punto potete comporre i vostri bicchierini: mettete alla base circa 20 g di crumble per porzione (11–12).",
+      "Con un cucchiaio aggiungete sopra il formaggio spalmabile Philadelphia 13 14 . Completate la preparazione disponendo in superficie la tartare di salmone affumicato e le mandorle a lamelle tostate 15 .",
+      "Aromatizzate con una grattugiata di scorza di lime 16 e qualche rametto di aneto fresco 17 . I vostri bicchierini salati al salmone, crema di formaggio e crumble alle erbe sono pronti da servire 18 ."
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-11T10:49:03.522472+00:00",
+    "repaired_at": "2026-10-11T10:49:37.267219+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/159/15992/bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe_18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare i bicchierini salati al salmone, crema di formaggio e crumble alle erbe iniziate mettendo nel mixer il formaggio grattugiato 1 , poi aggiungete la farina 2 e il rosmarino fresco 3 .",
+      "Salate 4 e aggiungete il burro freddo a tocchetti 5 . Lavorate a intermittenza fino a ottenere un composto dalla consistenza granulosa, simile a grosse briciole 6 .",
+      "Trasferite l’impasto su una teglia rivestita di carta forno 7 e cuocetelo in forno statico preriscaldato a 180°C per 15 minuti, o finché risulterà dorato e fragrante. Nel frattempo, ricavate dalle fette di salmone una tartare, tagliandole finemente con un coltello ben affilato 8 . Quando il crumble sarà cotto, sfornatelo 9 e lasciatelo raffreddare.",
+      "Spezzettatelo con le mani per ottenere dei pezzetti irregolari 10 . A questo punto potete comporre i vostri bicchierini: mettete alla base circa 20 g di crumble per porzione (11–12).",
+      "Con un cucchiaio aggiungete sopra il formaggio spalmabile Philadelphia 13 14 . Completate la preparazione disponendo in superficie la tartare di salmone affumicato e le mandorle a lamelle tostate 15 .",
+      "Aromatizzate con una grattugiata di scorza di lime 16 e qualche rametto di aneto fresco 17 . I vostri bicchierini salati al salmone, crema di formaggio e crumble alle erbe sono pronti da servire 18 ."
+    ],
+    "steps_clean": [
+      "Per preparare i bicchierini salati al salmone, crema di formaggio e crumble alle erbe iniziate mettendo nel mixer il formaggio grattugiato, poi aggiungete la farina e il rosmarino fresco.",
+      "Salate e aggiungete il burro freddo a tocchetti. Lavorate a intermittenza fino a ottenere un composto dalla consistenza granulosa, simile a grosse briciole.",
+      "Trasferite l’impasto su una teglia rivestita di carta forno e cuocetelo in forno statico preriscaldato a 180°C per 15 minuti, o finché risulterà dorato e fragrante. Nel frattempo, ricavate dalle fette di salmone una tartare, tagliandole finemente con un coltello ben affilato. Quando il crumble sarà cotto, sfornatelo e lasciatelo raffreddare.",
+      "Spezzettatelo con le mani per ottenere dei pezzetti irregolari. A questo punto potete comporre i vostri bicchierini: mettete alla base circa 20 g di crumble per porzione (11–12).",
+      "Con un cucchiaio aggiungete sopra il formaggio spalmabile Philadelphia 13 14 . Completate la preparazione disponendo in superficie la tartare di salmone affumicato e le mandorle a lamelle tostate 15 .",
+      "Aromatizzate con una grattugiata di scorza di lime 16 e qualche rametto di aneto fresco 17 . I vostri bicchierini salati al salmone, crema di formaggio e crumble alle erbe sono pronti da servire 18 ."
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:04.367072+00:00"
+  },
+  {
+    "id": 211010872267136,
+    "name": "Focaccia integrale",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 70,
+    "ingredients_display": [
+      "Acqua a temperatura ambiente 420 g",
+      "Farina integrale 250 g",
+      "Farina Manitoba 300 g",
+      "Lievito di birra secco 4 g",
+      "Miele 10 g",
+      "Olio extravergine d'oliva 30 g",
+      "Sale fino 10 g",
+      "Olio extravergine d'oliva per ungere la teglia e il piano di lavoro q.b.",
+      "Olio extravergine d'oliva 20 g",
+      "Sale grosso 20 g",
+      "Rosmarino 2 rametti"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Focaccia-integrale.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/166/16667/foto_hd/hd650x433_wm.jpg",
+    "servings": 6,
+    "kcal": 428.3,
+    "protein": null,
+    "carbs": 70.1,
+    "fats": 12.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Acqua a temperatura ambiente",
+        420.0,
+        "g"
+      ],
+      [
+        "Farina integrale",
+        250.0,
+        "g"
+      ],
+      [
+        "Farina Manitoba",
+        300.0,
+        "g"
+      ],
+      [
+        "Lievito di birra secco",
+        4.0,
+        "g"
+      ],
+      [
+        "Miele",
+        10.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        10.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva per ungere la teglia e il piano di lavoro",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Sale grosso",
+        20.0,
+        "g"
+      ],
+      [
+        "Rosmarino",
+        2.0,
+        "rametti"
+      ]
+    ],
+    "steps": [
+      "Per preparare la focaccia integrale iniziate a setacciare la farina manitoba all'interno della ciotola della planetaria. Unite poi la farina integrale e il lievito di birra disidratato.",
+      "Aggiungete anche il miele e azionate la macchina dotata di frusta a foglia a velocità bassa. Versate l'acqua (a temperatura ambiente) a filo fino ad ottenere un composto omogeneo. Poi cambiate la frusta a foglia con quella a gancio e continuate a lavorare l'impasto per 5 minuti.",
+      "Aggiungete il sale fino e l'olio continuando a lavorare l'impasto sempre a velocità moderata per altri 5 minuti. Quindi arrestate la planetaria",
+      "e aiutandovi con un tarocco trasferite l'impasto su un piano di lavoro leggermente unto; sempre con il tarocco date delle pieghe di rinforzo portando la pasta esterna verso il centro. Cercate di dare al composto una forma sferica, essendo molto idratato non riuscirete a lavorarlo solo con le mani, ma sarà necessario utilizzare il tarocco in queste fasi. Vi suggeriamo di non aggiungere altra farina in questa fase per evitare di compromettere la consistenza dell'impasto. Poi trasferitelo all'interno di una ciotola capiente",
+      "e coprite con della pellicola trasparente. Lasciate lievitare in forno spento solo con la luce accesa per circa 3 ore e mezza fino a che l'impasto non avrà raddoppiato di volume, poi sempre utilizzando il tarocco trasferitelo nuovamente su un piano di lavoro leggermente unto. Date ancora delle pieghe di rinforzo",
+      "e trasferite l'impasto all'interno di una teglia rettangolare 35x28 cm, leggermente unta, sempre aiutandovi con il tarocco.  Ungetevi leggermente le mani e allargate l'impasto spingendolo delicatamente verso l'esterno fino a ricoprire l'intera superficie della teglia.",
+      "Lasciate riposare per 5/10 minuti dopodichè con le punta delle dita create i classici fori, spingendo i polpastrelli all'interno della focaccia. Cospargete la vostra focaccia integrale con l'olio e il sale grosso.",
+      "Aggiungete i rametti di rosmarino e cuocete in forno statico preriscaldato a 220° per 40 minuti (non vi consigliamo la cottura in forno ventilato). Una volta cotta sfornate la focaccia integrale e servitela come preferite!"
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:49:06.198672+00:00",
+    "repaired_at": "2026-10-11T10:50:00.885985+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Da classificare",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 58233962807291,
+    "name": "Poke cake al cioccolato",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 90,
+    "ingredients_display": [
+      "Farina 00 180 g",
+      "Cioccolato fondente al 70% 120 g",
+      "Uova a temperatura ambiente 165 g",
+      "Burro 150 g",
+      "Latte intero a temperatura ambiente 150 g",
+      "Lievito in polvere per dolci 6 g",
+      "Zucchero 140 g",
+      "Cioccolato fondente al 55% 150 g",
+      "Panna fresca liquida 150 g",
+      "Panna fresca liquida 300 g",
+      "Baccello di vaniglia &frac12;",
+      "Cioccolato fondente in scaglie q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Poke-cake-al-cioccolato.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/205/20537/foto_hd/hd650x433_wm.jpg",
+    "servings": 10,
+    "kcal": 553.9,
+    "protein": null,
+    "carbs": 42.5,
+    "fats": 39.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00",
+        180.0,
+        "g"
+      ],
+      [
+        "Cioccolato fondente al 70%",
+        120.0,
+        "g"
+      ],
+      [
+        "Uova a temperatura ambiente",
+        165.0,
+        "g"
+      ],
+      [
+        "Burro",
+        150.0,
+        "g"
+      ],
+      [
+        "Latte intero a temperatura ambiente",
+        150.0,
+        "g"
+      ],
+      [
+        "Lievito in polvere per dolci",
+        6.0,
+        "g"
+      ],
+      [
+        "Zucchero",
+        140.0,
+        "g"
+      ],
+      [
+        "Cioccolato fondente al 55%",
+        150.0,
+        "g"
+      ],
+      [
+        "Panna fresca liquida",
+        150.0,
+        "g"
+      ],
+      [
+        "Panna fresca liquida",
+        300.0,
+        "g"
+      ],
+      [
+        "Baccello di vaniglia &frac12;",
+        null,
+        "da verificare"
+      ],
+      [
+        "Cioccolato fondente in scaglie",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare la poke cake al cioccolato per prima cosa occupatevi dell’impasto: in una ciotola versate il burro morbido tagliato a cubetti e lo zucchero. Montate il composto con le fruste elettriche e poi versate le uova intere a temperatura ambiente.",
+      "Continuate a montare il composto finché non sarà chiaro e omogeneo, a questo punto unite anche il cioccolato fondente fuso a bagnomaria oppure al microonde assicurandovi che si sia intiepidito. Azionate nuovamente le fruste e montate fino a ottenere un composto omogeneo.Incorporate ora la farina precedentemente setacciata attraverso un colino",
+      "il latte a temperatura ambiente e il lievito setacciato. Imburrate uno stampo quadrato senza fondo 20x20 cm e adagiatelo su una teglia rivestita con carta forno 9.",
+      "Versate il composto nello stampo. Livellate la superficie con una spatola e cuocete la base in forno statico preriscaldato a 180° per 30 minuti nel ripiano centrale. A cottura ultimata, sfornate il dolce e lasciatelo raffreddare prima di sformarlo dallo stampo.",
+      "Nel frattempo occupatevi della ganache: tritate il cioccolato fondente, scaldate la panna in un pentolino e poi versatelo caldo sul cioccolato, mescolate con una frusta fino a quando il cioccolato non si sarà completamente sciolto.",
+      "Ora togliete lo stampo dalla base, con il manico di un cucchiaio di legno praticate dei fori equidistanti a circa 3 cm l’uno dall’altro.Dovrete ottenere 20 fori in totale. Ora trasferite la ganache in un sac-à-poche senza bocchetta e farcite l’interno dei fori.",
+      "Con una spatola livellate la superficie per eliminare la crema in eccesso. Aromatizzate la panna fresca con i semi di mezzo baccello di vaniglia e montatela con le fruste fino a quando non sarà spumosa e soda.",
+      "A questo punto ricoprite il dolce con la panna, spalmandola con la spatola in modo da creare un motivo ondulato. Guarnite con cioccolato fondente a scaglie, servite la vostra poke cake tagliata a cubetti."
+    ],
+    "needs_review": true,
+    "imported_at": "2026-10-11T10:49:09.840178+00:00",
+    "repaired_at": "2026-10-11T10:49:39.897773+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": false,
+      "procedimento_presente": true,
+      "dati_completi": false
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "ingredienti_porzione_procedimento_incompleti"
+      ],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno",
+        "Microonde"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    }
+  },
+  {
+    "id": 50027419037905,
+    "name": "Pasta con crema di melanzane al forno e nduja",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 95,
+    "ingredients_display": [
+      "Spaghetti Integrali 320 g",
+      "Pinoli 40 g",
+      "Melanzane 1",
+      "Nduja 10 g",
+      "Concentrato di pomodoro 20 g",
+      "Olio extravergine d'oliva 20 g",
+      "Sale fino q.b.",
+      "Basilico 25 g",
+      "Olio extravergine d'oliva 40 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-melanzane-al-forno-e-nduja.html",
+    "image_url": "https://www.giallozafferano.it/images/303-30398/Pasta-con-crema-di-melanzane-al-forno-e-nduja_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 500.5,
+    "protein": null,
+    "carbs": 62.7,
+    "fats": 24.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Spaghetti Integrali",
+        320.0,
+        "g"
+      ],
+      [
+        "Pinoli",
+        40.0,
+        "g"
+      ],
+      [
+        "Melanzane",
+        1,
+        "pezzi"
+      ],
+      [
+        "Nduja",
+        10.0,
+        "g"
+      ],
+      [
+        "Concentrato di pomodoro",
+        20.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Basilico",
+        25.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        40.0,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con crema di melanzane al forno e nduja iniziate dalla crema di melanzane: bucherellate la melanzana intera con una forchetta e avvolgetela prima nella carta forno e poi nell’alluminio. Trasferitela in una teglia e cuocete in forno statico preriscaldato a 200° per un’ora o fino a quando sarà bella abbrustolita. Sfornate e lasciate intiepidire.",
+      "Eliminate la buccia e trasferite la polpa in un boccale, poi aggiungete l’olio e il sale. Frullate con un mixer a immersione.",
+      "Quando avrete ottenuto una consistenza cremosa unite qualche foglia di basilico presa dalla dose richiesta per l’olio al basilico e frullate nuovamente. Tenete la crema da parte. Tostate i pinoli in una padella per qualche minuto a fuoco medio, poi tenete da parte.",
+      "Dedicatevi all’olio al basilico: portate a bollore una pentola di acqua che vi servirà per cuocere la pasta e sbollentate il basilico per qualche secondo, poi scolatelo in una ciotola con acqua e ghiaccio. Strizzate bene le foglie.",
+      "Trasferitele in un boccale, poi aggiungete un paio di cucchiai di acqua ghiacciata e l’olio. Frullate il mixer a immersione per ottenere una consistenza omogenea.",
+      "Setacciate il composto ottenuto e tenete da parte. A questo punto riportate a bollore l’acqua di cottura del basilico, salate e cuocete gli spaghetti al dente. Nel frattempo versate nella padella la crema di melanzane e la nduja.",
+      "Unite anche il concentrato di pomodoro e mescolate bene a fuoco dolce per scioglierlo in modo uniforme. Scolate la pasta e trasferitela nella padella con il condimento, poi amalgamate il tutto.",
+      "Impiattate e completate con qualche goccia di olio al basilico e i pinoli tostati. La vostra pasta con crema di melanzane al forno e nduja è pronta per essere servita!"
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-11T10:49:13.061344+00:00",
+    "repaired_at": "2026-10-11T10:49:42.510407+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/303/30398/pasta-con-crema-di-melanzane-al-forno-e-nduja_24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con crema di melanzane al forno e nduja iniziate dalla crema di melanzane: bucherellate la melanzana intera con una forchetta 1 e avvolgetela prima nella carta forno e poi nell’alluminio 2 . Trasferitela in una teglia e cuocete in forno statico preriscaldato a 200° per un’ora o fino a quando sarà bella abbrustolita. Sfornate e lasciate intiepidire 3 .",
+      "Eliminate la buccia 4 e trasferite la polpa in un boccale, poi aggiungete l’olio 5 e il sale. Frullate con un mixer a immersione 6 .",
+      "Quando avrete ottenuto una consistenza cremosa unite qualche foglia di basilico presa dalla dose richiesta per l’olio al basilico 7 e frullate nuovamente. Tenete la crema da parte 8 . Tostate i pinoli in una padella per qualche minuto a fuoco medio 9 , poi tenete da parte.",
+      "Dedicatevi all’olio al basilico: portate a bollore una pentola di acqua che vi servirà per cuocere la pasta e sbollentate il basilico per qualche secondo 10 , poi scolatelo in una ciotola con acqua e ghiaccio 11 . Strizzate bene le foglie 12 .",
+      "Trasferitele in un boccale, poi aggiungete un paio di cucchiai di acqua ghiacciata 13 e l’olio 14 . Frullate il mixer a immersione per ottenere una consistenza omogenea 15 .",
+      "Setacciate il composto ottenuto e tenete da parte 16 . A questo punto riportate a bollore l’acqua di cottura del basilico, salate e cuocete gli spaghetti al dente 17 . Nel frattempo versate nella padella la crema di melanzane e la nduja 18 .",
+      "Unite anche il concentrato di pomodoro 19 e mescolate bene a fuoco dolce per scioglierlo in modo uniforme 20 . Scolate la pasta e trasferitela nella padella con il condimento, poi amalgamate il tutto 21 .",
+      "Impiattate e completate con qualche goccia di olio al basilico 22 e i pinoli tostati 23 . La vostra pasta con crema di melanzane al forno e nduja è pronta per essere servita 24 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con crema di melanzane al forno e nduja iniziate dalla crema di melanzane: bucherellate la melanzana intera con una forchetta e avvolgetela prima nella carta forno e poi nell’alluminio. Trasferitela in una teglia e cuocete in forno statico preriscaldato a 200° per un’ora o fino a quando sarà bella abbrustolita. Sfornate e lasciate intiepidire.",
+      "Eliminate la buccia e trasferite la polpa in un boccale, poi aggiungete l’olio e il sale. Frullate con un mixer a immersione.",
+      "Quando avrete ottenuto una consistenza cremosa unite qualche foglia di basilico presa dalla dose richiesta per l’olio al basilico e frullate nuovamente. Tenete la crema da parte. Tostate i pinoli in una padella per qualche minuto a fuoco medio, poi tenete da parte.",
+      "Dedicatevi all’olio al basilico: portate a bollore una pentola di acqua che vi servirà per cuocere la pasta e sbollentate il basilico per qualche secondo, poi scolatelo in una ciotola con acqua e ghiaccio. Strizzate bene le foglie.",
+      "Trasferitele in un boccale, poi aggiungete un paio di cucchiai di acqua ghiacciata e l’olio. Frullate il mixer a immersione per ottenere una consistenza omogenea.",
+      "Setacciate il composto ottenuto e tenete da parte. A questo punto riportate a bollore l’acqua di cottura del basilico, salate e cuocete gli spaghetti al dente. Nel frattempo versate nella padella la crema di melanzane e la nduja.",
+      "Unite anche il concentrato di pomodoro e mescolate bene a fuoco dolce per scioglierlo in modo uniforme. Scolate la pasta e trasferitela nella padella con il condimento, poi amalgamate il tutto.",
+      "Impiattate e completate con qualche goccia di olio al basilico e i pinoli tostati. La vostra pasta con crema di melanzane al forno e nduja è pronta per essere servita!"
+    ],
+    "images_import_version": 7,
+    "step_images_checked_at": "2026-10-11T10:50:21.306978+00:00"
   }
 ]

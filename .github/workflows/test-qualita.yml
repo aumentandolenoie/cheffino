@@ -60,5 +60,6 @@ jobs:
           python -m json.tool /tmp/catalogo_pubblicato_test.json > /dev/null
       - name: Verifica nessuna pubblicazione
         run: |
-          test ! -f data/catalogo_pubblicato.json
-          echo 'Tutti i cambiamenti di questa prova restano sul runner; nessun commit/push.'
+          git diff --exit-code -- data/catalogo_pubblicato.json
+          test -z "$(git status --porcelain -- data/catalogo_pubblicato.json)"
+          echo 'Snapshot persistente non modificato; nessun commit/push.'

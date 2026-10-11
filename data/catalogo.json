@@ -143,8 +143,8 @@
       "Versa il composto in una padella con olio e cuoci a fuoco dolce con coperchio per circa 10 minuti.",
       "Gira la frittata e prosegui la cottura per circa 5 minuti, fino a doratura."
     ],
-    "step_images_checked_at": "2026-10-10T16:36:16.401348+00:00",
-    "images_import_version": 6
+    "step_images_checked_at": "2026-10-11T12:32:42.326759+00:00",
+    "images_import_version": 8
   },
   {
     "id": 5,
@@ -5566,7 +5566,55 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18149/18149_mini_pie_salate_di_formaggio_e_mele_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18149/18149_mini_pie_salate_di_formaggio_e_mele_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18149/18149_mini_pie_salate_di_formaggio_e_mele_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18149/18149_mini_pie_salate_di_formaggio_e_mele_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18149/18149_mini_pie_salate_di_formaggio_e_mele_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18149/18149_mini_pie_salate_di_formaggio_e_mele_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18149/18149_mini_pie_salate_di_formaggio_e_mele_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18149/18149_mini_pie_salata_di_formaggio_e_mele_ultima_strip_strip_22-24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare le mini pie salate di formaggio e mele, lavate la mela e dividetela prima a metà 1 e poi in quarti 2 , dopodiché eliminate il torsolo 3 .",
+      "Riducete due quarti di mela a bastoncini 4 e dividete i bastoncini a metà 5 . Infine, tagliate i restanti due quarti di mela a fettine piuttosto sottili (vi occorrerrano 12 fettine) 6 .",
+      "Riducete la provola a fettine e poi a dadini 7 , trasferitela in una ciotola e unite l’uovo intero 8 , il tuorlo e la panna 9 .",
+      "Salate e pepate 10 e aggiungete un pizzico di noce moscata 11 . Mescolate per amalgamare bene il tutto 12 e tenete da parte.",
+      "Ora stendete il primo rotolo di pasta sfoglia e ricavate 4 dischi utilizzando un coppapasta del diametro di 10 cm 13 . Imburrate 4 stampi da tartellette del diametro di 8 cm e rivestiteli con i dischi di sfoglia che avete appena ritagliato 14 , facendo aderire bene sia la base che i bordi. Distribuite un cucchiaio del composto di uova e formaggio per ciascuna tartelletta 15 ,",
+      "poi aggiungete circa mezzo cucchiaio di mela tagliata a bastoncini 16 e ricoprite con un altro strato del composto di formaggio e uova 17 . Terminate adagiando in cima 3 sottili fettine di mela per ciascuna tartelletta 18 .",
+      "A questo punto stendete il secondo rotolo di pasta sfoglia e ritagliate altri 4 dischi con lo stesso coppapasta di 10 cm di diametro, poi utilizzate un coltellino per praticare 3 tagli al centro, facendo attenzione a non incidere la sfoglia fino ai bordi (19-20). Adagiate il disco di sfoglia così intagliato su ogni tartelletta in modo da coprire il ripieno e premete con le dita lungo i bordi per sigillarlo 21 .",
+      "Sbattete il tuorlo con poco latte in una ciotolina e spennellate le mini pie con il composto ottenuto 22 , poi cuocete in forno statico preriscaldato a 180° per 20-25 minuti, fino a quando non saranno belle dorate 23 . Le vostre mini pie salate di formaggio e mele sono pronte per essere servite ancora tiepide 24 !"
+    ],
+    "steps_clean": [
+      "Per preparare le mini pie salate di formaggio e mele, lavate la mela e dividetela prima a metà e poi in quarti, dopodiché eliminate il torsolo.",
+      "Riducete due quarti di mela a bastoncini e dividete i bastoncini a metà. Infine, tagliate i restanti due quarti di mela a fettine piuttosto sottili (vi occorrerrano 12 fettine).",
+      "Riducete la provola a fettine e poi a dadini, trasferitela in una ciotola e unite l’uovo intero, il tuorlo e la panna.",
+      "Salate e pepate e aggiungete un pizzico di noce moscata. Mescolate per amalgamare bene il tutto e tenete da parte.",
+      "Ora stendete il primo rotolo di pasta sfoglia e ricavate 4 dischi utilizzando un coppapasta del diametro di 10 cm. Imburrate 4 stampi da tartellette del diametro di 8 cm e rivestiteli con i dischi di sfoglia che avete appena ritagliato, facendo aderire bene sia la base che i bordi. Distribuite un cucchiaio del composto di uova e formaggio per ciascuna tartelletta,",
+      "poi aggiungete circa mezzo cucchiaio di mela tagliata a bastoncini e ricoprite con un altro strato del composto di formaggio e uova. Terminate adagiando in cima 3 sottili fettine di mela per ciascuna tartelletta.",
+      "A questo punto stendete il secondo rotolo di pasta sfoglia e ritagliate altri 4 dischi con lo stesso coppapasta di 10 cm di diametro, poi utilizzate un coltellino per praticare 3 tagli al centro, facendo attenzione a non incidere la sfoglia fino ai bordi (19-20). Adagiate il disco di sfoglia così intagliato su ogni tartelletta in modo da coprire il ripieno e premete con le dita lungo i bordi per sigillarlo 21 .",
+      "Sbattete il tuorlo con poco latte in una ciotolina e spennellate le mini pie con il composto ottenuto 22 , poi cuocete in forno statico preriscaldato a 180° per 20-25 minuti, fino a quando non saranno belle dorate 23 . Le vostre mini pie salate di formaggio e mele sono pronte per essere servite ancora tiepide 24 !"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:43.632041+00:00"
   },
   {
     "id": 275076523513603,
@@ -5691,7 +5739,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26825/minestra-di-riso-e-patate_15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la minestra di riso e patate pelate le patate 1 e tagliatele a cubetti di circa 2 cm 2 . Intanto versate in un tegame ampio l'olio 3 .",
+      "Aggiungete il trito di carota 4 , cipolla e sedano 5 . Fate appassire per qualche minuto, quindi versate le patate 6 .",
+      "Insaporite con la passata di pomodoro 7 , sale, pepe 8 e coprite con del brodo vegetale caldo 9 , fate cuocere per 20 minuti, o il tempo necessario a far ammorbidire le patate.",
+      "Quando le patate saranno cotte, unite il riso 10 , portate a cottura seguendo i tempi indicati sulla confezione e aggiungendo il brodo al bisogno 11 . La minestra di riso e patate è pronta 12 .",
+      "Servite la minestra calda 13 , con un filo di olio, del Grana Padano a piacere 14 e delle foglioline di basilico fresco 15 ."
+    ],
+    "steps_clean": [
+      "Per preparare la minestra di riso e patate pelate le patate e tagliatele a cubetti di circa 2 cm. Intanto versate in un tegame ampio l'olio.",
+      "Aggiungete il trito di carota, cipolla e sedano. Fate appassire per qualche minuto, quindi versate le patate.",
+      "Insaporite con la passata di pomodoro, sale, pepe e coprite con del brodo vegetale caldo, fate cuocere per 20 minuti, o il tempo necessario a far ammorbidire le patate.",
+      "Quando le patate saranno cotte, unite il riso, portate a cottura seguendo i tempi indicati sulla confezione e aggiungendo il brodo al bisogno. La minestra di riso e patate è pronta.",
+      "Servite la minestra calda, con un filo di olio, del Grana Padano a piacere e delle foglioline di basilico fresco."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:40.414882+00:00"
   },
   {
     "id": 22236432663090,
@@ -6102,7 +6193,29 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36695/matcha-latte_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36695/matcha-latte_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36695/matcha-latte_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36695/matcha-latte_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36695/matcha-latte_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36695/matcha-latte_6.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare il matcha latte, versate nel cappuccinatore metà dose di latte 1 e di tè matcha in polvere 2 . Azionatelo fino ad ottenere un composto caldo e ben montato 3 .",
+      "Trasferite la bevanda in una tazza trasparente 4 e procedete nello stesso modo per preparare la seconda tazza. Infine spolverizzate la superficie con altro tè matcha a piacere 5 . Il vostro matcha latte è pronto per essere gustato 6 !"
+    ],
+    "steps_clean": [
+      "Per preparare il matcha latte, versate nel cappuccinatore metà dose di latte e di tè matcha in polvere. Azionatelo fino ad ottenere un composto caldo e ben montato.",
+      "Trasferite la bevanda in una tazza trasparente e procedete nello stesso modo per preparare la seconda tazza. Infine spolverizzate la superficie con altro tè matcha a piacere. Il vostro matcha latte è pronto per essere gustato!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:37.642770+00:00"
   },
   {
     "id": 1473122248830,
@@ -6187,7 +6300,57 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/366/36686/mandarini-di-halloween_18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare i mandarini di Halloween, tagliate la parte superiore dei mandarini 1 2 e, con l’aiuto di un coltello e un cucchiaio, ricavate la polpa 3 , facendo attenzione a non bucare il fondo.",
+      "Tenete da parte i gusci privati della polpa 4 . In un pentolino inserite la polpa e lo zucchero 5 , lasciate cuocete a fuoco medio-basso per 30 minuti 6 .",
+      "Dovrete ottenere una purea omogenea 7 . Se dovessero rimanere dei pezzi grossolani, potete frullare tutto con il mixer a immersione. Trasferite in una ciotola e lasciate raffreddare, poi farcite i mandarini con la purea ottenuta 8 9 . Lasciateli rapprendere in frigorifero per 10 minuti.",
+      "Passate alla preparazione della ganache. Tritate finemente il cioccolato 10 e fondetelo a bagnomaria 11 (o in microonde). Scaldate quindi la panna in un pentolino, deve arrivare a una temperatura di circa 80° 12 .",
+      "Versate la panna calda nel cioccolato 13 e mescolate 14 per ottenere una crema omogenea. Lasciate rapprendere la ganache a temperatura ambiente o in frigo, mescolandola di tanto in tanto fin quando otterrete una consistenza tipo pomata. Ora sciogliete il cioccolato per la decorazione (in microonde o a bagnomaria), trasferitelo in un conetto di carta e disegnate le tipiche faccine sui mandarini 15 .",
+      "Ispiratevi alle classiche decorazioni della zucca per ottenere una resa simile 16 . A questo punto farcite i mandarini con la ganache utilizzando un sac-à-poche con bocchetta stellata per creare un ciuffetto 17 . I mandarini di Halloween sono pronti per la festa 18 !"
+    ],
+    "steps_clean": [
+      "Per preparare i mandarini di Halloween, tagliate la parte superiore dei mandarini 1 2 e, con l’aiuto di un coltello e un cucchiaio, ricavate la polpa 3 , facendo attenzione a non bucare il fondo.",
+      "Tenete da parte i gusci privati della polpa 4 . In un pentolino inserite la polpa e lo zucchero 5 , lasciate cuocete a fuoco medio-basso per 30 minuti 6 .",
+      "Dovrete ottenere una purea omogenea 7 . Se dovessero rimanere dei pezzi grossolani, potete frullare tutto con il mixer a immersione. Trasferite in una ciotola e lasciate raffreddare, poi farcite i mandarini con la purea ottenuta 8 9 . Lasciateli rapprendere in frigorifero per 10 minuti.",
+      "Passate alla preparazione della ganache. Tritate finemente il cioccolato 10 e fondetelo a bagnomaria 11 (o in microonde). Scaldate quindi la panna in un pentolino, deve arrivare a una temperatura di circa 80° 12 .",
+      "Versate la panna calda nel cioccolato 13 e mescolate 14 per ottenere una crema omogenea. Lasciate rapprendere la ganache a temperatura ambiente o in frigo, mescolandola di tanto in tanto fin quando otterrete una consistenza tipo pomata. Ora sciogliete il cioccolato per la decorazione (in microonde o a bagnomaria), trasferitelo in un conetto di carta e disegnate le tipiche faccine sui mandarini 15 .",
+      "Ispiratevi alle classiche decorazioni della zucca per ottenere una resa simile 16 . A questo punto farcite i mandarini con la ganache utilizzando un sac-à-poche con bocchetta stellata per creare un ciuffetto 17 . I mandarini di Halloween sono pronti per la festa 18 !"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:34.963285+00:00"
   },
   {
     "id": 162536820830831,
@@ -12350,7 +12513,64 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/277/27727/insalata-di-patate-mozzarelline-e-pomodorini_21.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l’insalata di patate, mozzarelline e pomodorini per prima cosa lavate le patate e lessatele in una pentola a partire da acqua fredda per circa 20 minuti (il tempo di cottura può variare a seconda della loro dimensione) 1 ; dovranno risultare morbide ma non troppo. Una volta cotte scolatele in una ciotola e lasciatele raffreddare. Nel frattempo occupatevi dei pomodorini: lavateli e divideteli a metà 2 , poi versateli in una padella in cui avrete fatto scaldare un filo d’olio con 2 spicchi di aglio 3 .",
+      "Insaporite con sale, pepe e qualche foglia di basilico 4 e cuocete a fuoco vivace per circa 3 minuti; non dovranno sfaldarsi 5 . Una volta cotti, trasferite i pomodorini in una ciotola 6 e lasciate raffreddare.",
+      "Passate all’olio al basilico: mettete le foglie di basilico in un boccale, versate l’olio 7 e frullate con un mixer a immersione 8 per ottenere un composto omogeneo 9 .",
+      "Setacciate il composto attraverso un colino 10 schiacciando con il dorso di un cucchiaio 11 per eliminare i residui 12 . Tenete da parte.",
+      "Ora riprendete le patate ormai fredde e tagliatele a rondelle dello spessore di 1 cm 13 . Siete pronti per assemblare l’insalata: trasferite le patate in una ciotola capiente insieme ai pomodorini 14 e alle olive 15 .",
+      "Unite le mozzarelline 16 e i filetti di acciuga 17 , poi profumate con qualche fogliolina di basilico 18 .",
+      "Infine condite con l’olio al basilico 19 e mescolate bene, poi aggiustate di sale se necessario 20 . La vostra insalata di patate, mozzarelline e pomodorini è pronta per essere servita 21 !"
+    ],
+    "steps_clean": [
+      "Per preparare l’insalata di patate, mozzarelline e pomodorini per prima cosa lavate le patate e lessatele in una pentola a partire da acqua fredda per circa 20 minuti (il tempo di cottura può variare a seconda della loro dimensione); dovranno risultare morbide ma non troppo. Una volta cotte scolatele in una ciotola e lasciatele raffreddare. Nel frattempo occupatevi dei pomodorini: lavateli e divideteli a metà, poi versateli in una padella in cui avrete fatto scaldare un filo d’olio con 2 spicchi di aglio.",
+      "Insaporite con sale, pepe e qualche foglia di basilico e cuocete a fuoco vivace per circa 3 minuti; non dovranno sfaldarsi. Una volta cotti, trasferite i pomodorini in una ciotola e lasciate raffreddare.",
+      "Passate all’olio al basilico: mettete le foglie di basilico in un boccale, versate l’olio e frullate con un mixer a immersione per ottenere un composto omogeneo.",
+      "Setacciate il composto attraverso un colino schiacciando con il dorso di un cucchiaio per eliminare i residui. Tenete da parte.",
+      "Ora riprendete le patate ormai fredde e tagliatele a rondelle dello spessore di 1 cm. Siete pronti per assemblare l’insalata: trasferite le patate in una ciotola capiente insieme ai pomodorini e alle olive.",
+      "Unite le mozzarelline e i filetti di acciuga, poi profumate con qualche fogliolina di basilico.",
+      "Infine condite con l’olio al basilico e mescolate bene, poi aggiustate di sale se necessario. La vostra insalata di patate, mozzarelline e pomodorini è pronta per essere servita!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:32.301434+00:00"
   },
   {
     "id": 252553634773624,
@@ -13000,7 +13220,35 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/222/22295/22295_insalata_giusta_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/222/22295/22295_insalata_giusta_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/222/22295/22295_insalata_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/222/22295/22295_insalata_strip_10-12.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l'insalata di patate e zucchine cominciate dagli ortaggi. Mondate le patate e tagliate a tocchetti di un paio di centimetri 1 , spuntate e tagliate alla stessa grandezza le zucchine 2 . In una vaporiera cuocete per una decina di minuti le patate 3",
+      "e le zucchine 4 . Una volta cotte mettete a intiepidire. Intanto sciacquate i pomodorini e divideteli a metà 5 , concludete mondando e affettando la cipolla rossa 6 .",
+      "Preparate la salsina versando in un barattolino l'olio e la senape 7 , aggiungete sale e pepe, chiudete il barattolo e sbattetelo qualche istante per emulsionare il tutto 8 . A questo punto siete pronti per comporre l'insalata. Unite patate 9 ,",
+      "cipolle e pomodorini 10 , zucchine e mais. Regolate di sale e condite con un filo d'olio, spezzettate qualche fogliolina di basilico e date una mescolata delicata. Infine aggiungete l'emulsione di senape e olio e mescolate ancora delicatamente 11 . Ecco pronta la vostra insalata di patate e zucchine, guarnite con un po' di basilico e buon appetito 12 ."
+    ],
+    "steps_clean": [
+      "Per preparare l'insalata di patate e zucchine cominciate dagli ortaggi. Mondate le patate e tagliate a tocchetti di un paio di centimetri, spuntate e tagliate alla stessa grandezza le zucchine. In una vaporiera cuocete per una decina di minuti le patate",
+      "e le zucchine. Una volta cotte mettete a intiepidire. Intanto sciacquate i pomodorini e divideteli a metà, concludete mondando e affettando la cipolla rossa.",
+      "Preparate la salsina versando in un barattolino l'olio e la senape, aggiungete sale e pepe, chiudete il barattolo e sbattetelo qualche istante per emulsionare il tutto. A questo punto siete pronti per comporre l'insalata. Unite patate,",
+      "cipolle e pomodorini, zucchine e mais. Regolate di sale e condite con un filo d'olio, spezzettate qualche fogliolina di basilico e date una mescolata delicata. Infine aggiungete l'emulsione di senape e olio e mescolate ancora delicatamente. Ecco pronta la vostra insalata di patate e zucchine, guarnite con un po' di basilico e buon appetito."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:29.626683+00:00"
   },
   {
     "id": 97612502231062,
@@ -13481,7 +13729,43 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27468/insalata-di-patate-e-finocchietto_12.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l'insalata di patate e finocchietto come prima cosa sbollentate le patate partendo da acqua fredda 1 : ci vorranno circa 30 minuti. Non appena saranno morbide scolatele 2 e lasciatele raffreddare, poi sbucciatele 3 .",
+      "Tagliate le patate prima a fette spesse 4 e poi a tocchetti di un paio di cm 5 . Man mano sistematele in una ciotola. Unite le olive taggiasche denocciolate 6 .",
+      "Condite con sale 7 , pepe 8 e olio extravergine. Aggiungete poi il finocchietto sminuzzato 9 .",
+      "Mescolate delicatamente 10 sino a che l'insalata non risulterà condita in maniera omogenea 11 . Trasferite in un piatto da portata e servite la vostra insalata di patate e finocchietto 12 !"
+    ],
+    "steps_clean": [
+      "Per preparare l'insalata di patate e finocchietto come prima cosa sbollentate le patate partendo da acqua fredda: ci vorranno circa 30 minuti. Non appena saranno morbide scolatele e lasciatele raffreddare, poi sbucciatele.",
+      "Tagliate le patate prima a fette spesse e poi a tocchetti di un paio di cm. Man mano sistematele in una ciotola. Unite le olive taggiasche denocciolate.",
+      "Condite con sale, pepe e olio extravergine. Aggiungete poi il finocchietto sminuzzato.",
+      "Mescolate delicatamente sino a che l'insalata non risulterà condita in maniera omogenea. Trasferite in un piatto da portata e servite la vostra insalata di patate e finocchietto!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:26.842946+00:00"
   },
   {
     "id": 33773102978234,
@@ -14099,7 +14383,64 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36421/insalata-di-patate-con-crema-di-rucola_21.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l'insalata di patate con crema di rucola iniziate sbucciando le patate con un pelapatate 1 , poi tagliatele prima a fette spesse 2 , e successivamente a cubotti piuttosto regolari 3 .",
+      "Portate a bollore una pentola d'acqua, salatela 4 e tuffatevi le patate 5 . Cuocetele finché saranno tenere ma ancora compatte, ci vorranno circa 15 minuti, quindi scolatele delicatamente con una schiumarola 6 e lasciatele intiepidire.",
+      "Nel frattempo dedicatevi alla preparazione della crema di rucola. Spremete il limone e tenete da parte il succo 7 . Versate la rucola nel bicchiere del frullatore a immersione 8 e aggiustate di sale 9 .",
+      "Condite con pepe 10 e olio extravergine d'oliva 11 , grattugiate anche la scorza del limone direttamente nel bicchiere 12 .",
+      "Versate il succo precedentemente spremuto 13 . Frullate il tutto con il mixer a immersione 14 fino a ottenere una crema liscia e omogenea 15 .",
+      "Trasferite la crema di rucola in un'insalatiera capiente e aggiungete le patate lessate 16 . Unite anche le olive taggiasche 17 e mescolate delicatamente con un cucchiaio.",
+      "Dovete ricoprire uniformemente tutti i cubotti di patata con la crema 19 . Distribuite l'insalata nei piatti da portata e completate con scaglie di Parmigiano 20 , un filo di olio extravergine d'oliva a crudo e una macinata di pepe nero fresco. Servite subito l'insalata di patate con crema di rucola 21 ."
+    ],
+    "steps_clean": [
+      "Per preparare l'insalata di patate con crema di rucola iniziate sbucciando le patate con un pelapatate, poi tagliatele prima a fette spesse, e successivamente a cubotti piuttosto regolari.",
+      "Portate a bollore una pentola d'acqua, salatela e tuffatevi le patate. Cuocetele finché saranno tenere ma ancora compatte, ci vorranno circa 15 minuti, quindi scolatele delicatamente con una schiumarola e lasciatele intiepidire.",
+      "Nel frattempo dedicatevi alla preparazione della crema di rucola. Spremete il limone e tenete da parte il succo. Versate la rucola nel bicchiere del frullatore a immersione e aggiustate di sale.",
+      "Condite con pepe e olio extravergine d'oliva, grattugiate anche la scorza del limone direttamente nel bicchiere.",
+      "Versate il succo precedentemente spremuto. Frullate il tutto con il mixer a immersione fino a ottenere una crema liscia e omogenea.",
+      "Trasferite la crema di rucola in un'insalatiera capiente e aggiungete le patate lessate. Unite anche le olive taggiasche e mescolate delicatamente con un cucchiaio.",
+      "Dovete ricoprire uniformemente tutti i cubotti di patata con la crema 19 . Distribuite l'insalata nei piatti da portata e completate con scaglie di Parmigiano 20 , un filo di olio extravergine d'oliva a crudo e una macinata di pepe nero fresco. Servite subito l'insalata di patate con crema di rucola 21 ."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:23.757796+00:00"
   },
   {
     "id": 148392265612335,
@@ -14459,7 +14800,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27280/insalata-di-patate-con-cicoria-e-feta_15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare l’insalata di patate con cicoria e feta per prima cosa lessate le patate a partire da acqua fredda per circa 30-40 minuti, fino a quando saranno abbastanza morbide da infilzarle con una forchetta 1 . Nel frattempo versate i pinoli in una padella 2 e tostateli per un paio di minuti 3 , poi teneteli da parte.",
+      "Una volta cotte, scolate le patate e lasciatele raffreddare 4 . Intanto pulite la cicoria dai gambi più duri 5 e tagliate le foglie grossolanamente, poi sciacquatela sotto l’acqua corrente. Riducete la feta a cubetti 6 .",
+      "Versate l’olio in una ciotolina, poi aggiungete il sale, il pepe 7 e l’aceto di mele 8 . Emulsionate bene e tenete da parte 9 .",
+      "Quando le patate si saranno raffreddate, eliminate la buccia e tagliatele a cubetti di circa 3-4 cm 10 . Trasferite i cubetti di patate in una ciotola capiente 11 , poi aggiungete la cicoria che avrete scolato e asciugato 12 .",
+      "Unite anche la feta 13 e i pinoli tostati. Infine condite con il dressing 14 . Mescolate delicatamente e servite la vostra insalata di patate con cicoria e feta 15 !"
+    ],
+    "steps_clean": [
+      "Per realizzare l’insalata di patate con cicoria e feta per prima cosa lessate le patate a partire da acqua fredda per circa 30-40 minuti, fino a quando saranno abbastanza morbide da infilzarle con una forchetta. Nel frattempo versate i pinoli in una padella e tostateli per un paio di minuti, poi teneteli da parte.",
+      "Una volta cotte, scolate le patate e lasciatele raffreddare. Intanto pulite la cicoria dai gambi più duri e tagliate le foglie grossolanamente, poi sciacquatela sotto l’acqua corrente. Riducete la feta a cubetti.",
+      "Versate l’olio in una ciotolina, poi aggiungete il sale, il pepe e l’aceto di mele. Emulsionate bene e tenete da parte.",
+      "Quando le patate si saranno raffreddate, eliminate la buccia e tagliatele a cubetti di circa 3-4 cm. Trasferite i cubetti di patate in una ciotola capiente, poi aggiungete la cicoria che avrete scolato e asciugato.",
+      "Unite anche la feta e i pinoli tostati. Infine condite con il dressing. Mescolate delicatamente e servite la vostra insalata di patate con cicoria e feta!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:20.933447+00:00"
   },
   {
     "id": 74956051630853,
@@ -14821,7 +15205,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:17.811180+00:00"
   },
   {
     "id": 227463897219980,
@@ -15422,7 +15808,55 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/203/20355/20355_insalata_di_orzo_e_cavolo_riccio_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/203/20355/20355_insalata_di_orzo_e_cavolo_riccio_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/203/20355/20355_insalata_di_orzo_e_cavolo_riccio_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/203/20355/20355_insalata_di_orzo_e_cavolo_riccio_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/203/20355/20355_insalata_di_orzo_e_cavolo_riccio_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/203/20355/20355_insalata_di_orzo_e_cavolo_riccio_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/203/20355/20355_insalata_di_orzo_e_cavolo_riccio_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/203/20355/20355_insalata_di_orzo_e_cavolo_riccio_strip_22-24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare l’insalata di orzo e cavolo riccio per prima cosa cuocete l’orzo in acqua bollente salata 1 per circa 15 minuti o per il tempo riportato sulla confezione. Intanto mettete in ammollo l’uva passa in una ciotolina con acqua tiepida per reidratarla 2 . Sfogliate il cavolo eliminando la parte centrale delle foglie che è più coriacea 3 .",
+      "Lavate e asciugate le foglie e poi trasferitene metà nel bicchiere di un mixer: aggiungete l’olio di oliva 4 , il Parmigiano grattugiato 5 e frullate con il mixer a immersione 6 ,",
+      "aggiungendo quanto basta di acqua di cottura dell’orzo 7 per ottenere un pesto cremoso 8  che terrete momentaneamente da parte. Nel frattempo scolate l’orzo che sarà giunto a cottura 9 .",
+      "Versate l'orzo in una ciotola e condite con il pesto di cavolo 10 , mescolate e tenete da parte 11 . Ora pulite la zucca: tagliatela a metà, eliminate i semini centrali e la buccia 12 .",
+      "Tagliate la zucca prima a spicchi e poi a piccoli cubetti 13 . In una padella versate un filo di olio di oliva, scaldatelo e poi aggiungete la zucca 14 , saltandola per qualche minuto finché non sarà dorata e ben cotta 15 .",
+      "Ora ponete in una ciotola l’altra metà del cavolo che avete pulito in precedenza: condite con sale 16 , olio 17 e aceto 18 ,",
+      "poi aggiungete i fagioli 19 , l’uvetta reidratata e ben scolata 20 e la zucca 21 .",
+      "Infine unite l’insalata di cavolo all’orzo 22 e incorporate per ultime le arachidi 23 . Mescolate e servite la vostra saporita insalata di orzo e cavolo 24 !"
+    ],
+    "steps_clean": [
+      "Per realizzare l’insalata di orzo e cavolo riccio per prima cosa cuocete l’orzo in acqua bollente salata per circa 15 minuti o per il tempo riportato sulla confezione. Intanto mettete in ammollo l’uva passa in una ciotolina con acqua tiepida per reidratarla. Sfogliate il cavolo eliminando la parte centrale delle foglie che è più coriacea.",
+      "Lavate e asciugate le foglie e poi trasferitene metà nel bicchiere di un mixer: aggiungete l’olio di oliva, il Parmigiano grattugiato e frullate con il mixer a immersione,",
+      "aggiungendo quanto basta di acqua di cottura dell’orzo per ottenere un pesto cremoso  che terrete momentaneamente da parte. Nel frattempo scolate l’orzo che sarà giunto a cottura.",
+      "Versate l'orzo in una ciotola e condite con il pesto di cavolo, mescolate e tenete da parte. Ora pulite la zucca: tagliatela a metà, eliminate i semini centrali e la buccia.",
+      "Tagliate la zucca prima a spicchi e poi a piccoli cubetti. In una padella versate un filo di olio di oliva, scaldatelo e poi aggiungete la zucca, saltandola per qualche minuto finché non sarà dorata e ben cotta.",
+      "Ora ponete in una ciotola l’altra metà del cavolo che avete pulito in precedenza: condite con sale, olio e aceto,",
+      "poi aggiungete i fagioli, l’uvetta reidratata e ben scolata e la zucca.",
+      "Infine unite l’insalata di cavolo all’orzo e incorporate per ultime le arachidi. Mescolate e servite la vostra saporita insalata di orzo e cavolo!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:14.659717+00:00"
   },
   {
     "id": 167956449104866,
@@ -15986,7 +16420,53 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_9.jpg"
+      ],
+      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/235/23563/insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine_18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare l’insalata di orzo con pesto di rucola, fagiolini e zucchine per prima cosa portate a bollore una pentola di acqua salata e cuocete l’orzo per il tempo indicato sulla confezione 1 . Nel frattempo mettete sul fuoco un’altra pentola da salare a bollore per cuocere le verdure e dedicatevi alla preparazione degli altri ingredienti: lavate e spuntate le zucchine 2 , poi tagliatelle a rondelle 3 .",
+      "Spuntate anche i fagiolini 4 e dividetele in 2-3 parti 5 , poi tagliate a metà i pomodorini 6 .",
+      "Versate i fagiolini nell’acqua bollente 7 e, dopo 5 minuti, aggiungete anche le zucchine 8 . Cuocete le verdure per circa 10 minuti, dovranno risultare ancora croccanti. Trascorso il tempo di cottura dell’orzo, scolatelo in una ciotola capiente 9 .",
+      "Non vi resta che preparare il pesto di rucola: lavate e asciugate la rucola, poi mettetela in un contenitore alto e stretto insieme ai pinoli 10 , al Parmigiano grattugiato 11 e un paio di cubetti di ghiaccio 12 .",
+      "Salate, pepate 13 e aggiungete circa 5 cucchiai di olio 14 . Frullate con un mixer a immersione per ottenere una salsa cremosa e omogenea; se necessario aggiungete altro olio per raggiungere la consistenza desiderata. Versate il pesto di rucola nella ciotola con l’orzo 15 e mescolate bene.",
+      "Unite anche i fagiolini con le zucchine 16 e i pomodorini 17 . Mescolate il tutto e servite la vostra insalata di orzo con pesto di rucola, fagiolini e zucchine 18 !"
+    ],
+    "steps_clean": [
+      "Per realizzare l’insalata di orzo con pesto di rucola, fagiolini e zucchine per prima cosa portate a bollore una pentola di acqua salata e cuocete l’orzo per il tempo indicato sulla confezione. Nel frattempo mettete sul fuoco un’altra pentola da salare a bollore per cuocere le verdure e dedicatevi alla preparazione degli altri ingredienti: lavate e spuntate le zucchine, poi tagliatelle a rondelle.",
+      "Spuntate anche i fagiolini e dividetele in 2-3 parti, poi tagliate a metà i pomodorini.",
+      "Versate i fagiolini nell’acqua bollente e, dopo 5 minuti, aggiungete anche le zucchine. Cuocete le verdure per circa 10 minuti, dovranno risultare ancora croccanti. Trascorso il tempo di cottura dell’orzo, scolatelo in una ciotola capiente.",
+      "Non vi resta che preparare il pesto di rucola: lavate e asciugate la rucola, poi mettetela in un contenitore alto e stretto insieme ai pinoli, al Parmigiano grattugiato e un paio di cubetti di ghiaccio.",
+      "Salate, pepate e aggiungete circa 5 cucchiai di olio. Frullate con un mixer a immersione per ottenere una salsa cremosa e omogenea; se necessario aggiungete altro olio per raggiungere la consistenza desiderata. Versate il pesto di rucola nella ciotola con l’orzo e mescolate bene.",
+      "Unite anche i fagiolini con le zucchine e i pomodorini. Mescolate il tutto e servite la vostra insalata di orzo con pesto di rucola, fagiolini e zucchine!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:11.885139+00:00"
   },
   {
     "id": 273671598540752,
@@ -16358,7 +16838,35 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21349/21349_insalata_melone_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21349/21349_insalata_melone_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21349/21349_insalata_melone_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/213/21349/21349_insalata_melone_strip_10-12.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l’insalata di melone cominciate pulendo proprio quest’ultimo. Eliminate le due estremità, dividetelo in due e scavate la parte coi semi e i filamenti utilizzando un cucchiaio 1 . Poi affettate ed eliminate la buccia 2 infine tagliate a pezzetti di circa un paio di cm 3 .",
+      "Mettete da parte e occupatevi dei ravanelli. La prima cosa da fare è staccare le foglie e la parte con il codino 4 . Sciacquate accuratamente 5 e poi affettate sottilmente ottenendo delle rondelle 6 .",
+      "Infine tagliate a tocchettini la feta greca 7 e componete la vostra insalata. In una ciotola versate il songino sciacquato, le rondelle di ravanello 8 , poi le olive nere denocciolate e la feta 9 .",
+      "Unite anche i cubetti di melone, poi condite con sale, aceto 10 e un goccio d’olio 11 . Mescolate bene e impiattate la vostra insalata di melone guarnendo, a piacere, con un ciuffetto di menta fresca 12 ."
+    ],
+    "steps_clean": [
+      "Per preparare l’insalata di melone cominciate pulendo proprio quest’ultimo. Eliminate le due estremità, dividetelo in due e scavate la parte coi semi e i filamenti utilizzando un cucchiaio. Poi affettate ed eliminate la buccia infine tagliate a pezzetti di circa un paio di cm.",
+      "Mettete da parte e occupatevi dei ravanelli. La prima cosa da fare è staccare le foglie e la parte con il codino. Sciacquate accuratamente e poi affettate sottilmente ottenendo delle rondelle.",
+      "Infine tagliate a tocchettini la feta greca e componete la vostra insalata. In una ciotola versate il songino sciacquato, le rondelle di ravanello, poi le olive nere denocciolate e la feta.",
+      "Unite anche i cubetti di melone, poi condite con sale, aceto e un goccio d’olio. Mescolate bene e impiattate la vostra insalata di melone guarnendo, a piacere, con un ciuffetto di menta fresca."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:09.104086+00:00"
   },
   {
     "id": 72215562396919,
@@ -16873,7 +17381,35 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/221/22112/22112_insalata_di_spinacini_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/221/22112/22112_insalata_di_spinacini_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/221/22112/22112_insalata_di_spinacini_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/221/22112/22112_insalata_di_spinacini_strip_10-12.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare l’insalata di mele e spinacini per prima cosa sciacquate sotto l’acqua corrente le foglie di spinaci e lasciatele scolare in un colino 1 . Tagliate a tocchetti il primo sale 2 , poi lavate con cura la mela e tagliatela a metà 3 .",
+      "Eliminate il torsolo e poi affettatela 4 in modo da ottenere degli spicchi sottili 5 . Versate in una ciotola lo spinacino, conditelo con il sale 6",
+      "e un filo di olio d’oliva 7 . Mescolate e poi aggiungete il primo sale 8 e le fettine di mela 9 .",
+      "Aggiungete per ultime le mandorle 10 , insaporite con il miele millefiori 11 e servite subito l’insalata di mele e spinacini 12 ."
+    ],
+    "steps_clean": [
+      "Per realizzare l’insalata di mele e spinacini per prima cosa sciacquate sotto l’acqua corrente le foglie di spinaci e lasciatele scolare in un colino. Tagliate a tocchetti il primo sale, poi lavate con cura la mela e tagliatela a metà.",
+      "Eliminate il torsolo e poi affettatela in modo da ottenere degli spicchi sottili. Versate in una ciotola lo spinacino, conditelo con il sale",
+      "e un filo di olio d’oliva. Mescolate e poi aggiungete il primo sale e le fettine di mela.",
+      "Aggiungete per ultime le mandorle, insaporite con il miele millefiori e servite subito l’insalata di mele e spinacini."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:06.341468+00:00"
   },
   {
     "id": 146427637689994,
@@ -17445,8 +17981,39 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 2,
-    "step_images_checked_at": "2026-10-10T14:29:47.596869+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:03.656248+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/182/18267/18267_insalata_di_mare_in_vasocottura_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/182/18267/18267_insalata_di_mare_in_vasocottura_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/182/18267/18267_insalata_di_mare_in_vasocottura_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/182/18267/18267_insalata_di_mare_in_vasocottura_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/182/18267/18267_insalata_di_mare_in_vasocottura_strip_13-15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare l’insalata di mare in vasocottura, per prima cosa preparate tutti gli ingredienti che vi serviranno: private i gamberi della testa e del carapace 1 , poi incidete il dorso per rimuovere il filo nero all’interno 2 . Prendete le seppioline già pulite, separatele dai tentacoli e tagliatele a striscioline sottili 3 .",
+      "Ora pelate la carota e affettatela sottilmente in diagonale 4 , poi tagliate ogni fettina in 4 parti 5 . Infine pulite il cipollotto e tagliatelo a rondelle sottili, sempre in diagonale 6 .",
+      "A questo punto potete assemblare i vostri vasetti (scegliete dei vasetti nuovi, adatti alla vasocottura con chiusura ermetica e gommina): disponete i gamberi sul fondo 7 , poi aggiungete le seppioline 8 , le carote 9 ,",
+      "e il cipollotto 10 . Condite ciascun vasetto con un cucchiaio di olio 11 , salate, pepate e profumate con qualche fogliolina di timo fresco 12",
+      "e della scorza di limone grattugiata 13 . Chiudete il vasetto ermeticamente 14 e cuocete in microonde alla potenza di 450W per 3 minuti. Una volta pronto, lasciate intiepidire per un paio di minuti prima di aprire: per aprire il vasetto, mantenete il coperchio, sganciate le sicure e tirate la linguetta di gomma; servite la vostra insalata di mare in vasocottura 15 !"
+    ],
+    "steps_clean": [
+      "Per realizzare l’insalata di mare in vasocottura, per prima cosa preparate tutti gli ingredienti che vi serviranno: private i gamberi della testa e del carapace, poi incidete il dorso per rimuovere il filo nero all’interno. Prendete le seppioline già pulite, separatele dai tentacoli e tagliatele a striscioline sottili.",
+      "Ora pelate la carota e affettatela sottilmente in diagonale, poi tagliate ogni fettina in 4 parti. Infine pulite il cipollotto e tagliatelo a rondelle sottili, sempre in diagonale.",
+      "A questo punto potete assemblare i vostri vasetti (scegliete dei vasetti nuovi, adatti alla vasocottura con chiusura ermetica e gommina): disponete i gamberi sul fondo, poi aggiungete le seppioline, le carote,",
+      "e il cipollotto. Condite ciascun vasetto con un cucchiaio di olio, salate, pepate e profumate con qualche fogliolina di timo fresco",
+      "e della scorza di limone grattugiata. Chiudete il vasetto ermeticamente e cuocete in microonde alla potenza di 450W per 3 minuti. Una volta pronto, lasciate intiepidire per un paio di minuti prima di aprire: per aprire il vasetto, mantenete il coperchio, sganciate le sicure e tirate la linguetta di gomma; servite la vostra insalata di mare in vasocottura!"
+    ]
   },
   {
     "id": 29562327012646,
@@ -18116,8 +18683,44 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 2,
-    "step_images_checked_at": "2026-10-10T14:29:44.949728+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:00.848547+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/223/22304/22304_insalata_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/223/22304/22304_insalata_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/223/22304/22304_insalata_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/223/22304/22304_insalata_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/223/22304/22304_insalata_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/223/22304/22304_insalata_strip_16-18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l'insalata di lenticchie e quartirolo cominciate insaporendo le lenticchie precotte. In una pentolino in cui avete fatto scaldare olio e aglio, versate le lenticchie scolate 1 . Aggiungete poi la scorza di limone grattugiata, il sale e lasciate insaporire a fuoco dolce per 5-10 minuti 2 . A fine cottura spegnete e aggiungete il prezzemolo sminuzzato al coltello 3 ,",
+      "rimuovete l'aglio e fate raffreddare 4 . Intanto tritate al coltello salvia e rosmarino 5 e affettate il quartirolo in fette da mezzo centimetro 6 .",
+      "Tornate ai fornelli, scaldate una padella antiaderente con un goccio d'olio, profumate il fondo con il mix di erbe tritate e un peperoncino sbriciolato 7 . Aggiungete successivamente le fette di formaggio 8 e cuocetele a fuoco vivace per un paio di istanti da un lato e poi dall'altro 9 .",
+      "A fine cottura le due facce risulteranno leggermente sciolte ma consistenti 10 . Mentre il formaggio si raffredda preparate la vinaigrette al balsamico. In una ciotola versate l'olio e un po' di aceto balsamico 11 . Aggiungete il sale 12",
+      "ed emulsionate il tutto con un forchetta 13 . Passate alla composizione. In una ciotola versate lo spinacino e la rucola 14 , guarnite con un po' di lenticchie 15 ,",
+      "guarnite con gherigli di noci e semi di zucca 16 . Adagiate poi qualche fetta di quartirolo 17 e in ultimo guarnite con la vinaigrette e completate la vostra insalata, quartirolo e lenticchie con un pizzico di pepe: buon appetito 18 !"
+    ],
+    "steps_clean": [
+      "Per preparare l'insalata di lenticchie e quartirolo cominciate insaporendo le lenticchie precotte. In una pentolino in cui avete fatto scaldare olio e aglio, versate le lenticchie scolate. Aggiungete poi la scorza di limone grattugiata, il sale e lasciate insaporire a fuoco dolce per 5-10 minuti. A fine cottura spegnete e aggiungete il prezzemolo sminuzzato al coltello,",
+      "rimuovete l'aglio e fate raffreddare. Intanto tritate al coltello salvia e rosmarino e affettate il quartirolo in fette da mezzo centimetro.",
+      "Tornate ai fornelli, scaldate una padella antiaderente con un goccio d'olio, profumate il fondo con il mix di erbe tritate e un peperoncino sbriciolato. Aggiungete successivamente le fette di formaggio e cuocetele a fuoco vivace per un paio di istanti da un lato e poi dall'altro.",
+      "A fine cottura le due facce risulteranno leggermente sciolte ma consistenti. Mentre il formaggio si raffredda preparate la vinaigrette al balsamico. In una ciotola versate l'olio e un po' di aceto balsamico. Aggiungete il sale",
+      "ed emulsionate il tutto con un forchetta. Passate alla composizione. In una ciotola versate lo spinacino e la rucola, guarnite con un po' di lenticchie,",
+      "guarnite con gherigli di noci e semi di zucca. Adagiate poi qualche fetta di quartirolo e in ultimo guarnite con la vinaigrette e completate la vostra insalata, quartirolo e lenticchie con un pizzico di pepe: buon appetito!"
+    ]
   },
   {
     "id": 263452970952348,
@@ -18736,8 +19339,44 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 2,
-    "step_images_checked_at": "2026-10-10T14:29:42.311098+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:57.261652+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17033/17033_insalata_di_frutta_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17033/17033_insalata_di_frutta_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17033/17033_insalata_di_frutta_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17033/17033_insalata_di_frutta_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17033/17033_insalata_di_frutta_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/170/17033/17033_insalata_di_frutta_strip_16-18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l'insalata di frutta iniziate spremendo un limone 1 e versandone il succo in una ciotola capiente 2 . Aggiungete l'olio 3 e un pizzico di sale.",
+      "Emulsionate bene il tutto utilizzando un frustino 4 . Poi passate alla preparazione della frutta: tagliate la pesca noce a metà e privatela del nocciolo 5 , poi tagliatela a fettine sottili 6 .",
+      "Mettete la pesca noce nella ciotola 7 e mescolate: il succo di limone eviterà che la frutta si ossidi. Tagliate a metà le ciliegie e denocciolatele 8 poi versatele nella ciotola e aggiungete anche i mirtilli 9 . Mescolate di nuovo.",
+      "Ora tocca alle fragole: eliminate il picciolo e tagliatele a fettine sottili 10 . Unitele al resto della frutta nella ciotola e mescolate 11 . Passate ai fichi: lavateli e tagliate via il picciolo 12 .",
+      "Poi, senza sbucciarli, tagliateli a spicchi 13 e aggiungeteli nella ciotola, infine mescolate delicatamente. Passate al sedano: tagliate via la parte finale più bianca e coriacea e pelate la costa con un pela verdure; riducete quindi il gambo a faldine e tagliate anche il ciuffo con le foglie a pezzi più grossi 14 . Unite anche la costa e le foglie al resto della frutta 15 .",
+      "Mescolate bene tutti gli ingredienti 16 e aggiungete le arachidi 17 . Date un'ultima rimestate e trasferite l'insalata di frutta in coppette 18 oppure servite direttamente dalla ciotola. La vostra insalata di frutta è pronta per essere gustata!"
+    ],
+    "steps_clean": [
+      "Per preparare l'insalata di frutta iniziate spremendo un limone e versandone il succo in una ciotola capiente. Aggiungete l'olio e un pizzico di sale.",
+      "Emulsionate bene il tutto utilizzando un frustino. Poi passate alla preparazione della frutta: tagliate la pesca noce a metà e privatela del nocciolo, poi tagliatela a fettine sottili.",
+      "Mettete la pesca noce nella ciotola e mescolate: il succo di limone eviterà che la frutta si ossidi. Tagliate a metà le ciliegie e denocciolatele poi versatele nella ciotola e aggiungete anche i mirtilli. Mescolate di nuovo.",
+      "Ora tocca alle fragole: eliminate il picciolo e tagliatele a fettine sottili. Unitele al resto della frutta nella ciotola e mescolate. Passate ai fichi: lavateli e tagliate via il picciolo.",
+      "Poi, senza sbucciarli, tagliateli a spicchi e aggiungeteli nella ciotola, infine mescolate delicatamente. Passate al sedano: tagliate via la parte finale più bianca e coriacea e pelate la costa con un pela verdure; riducete quindi il gambo a faldine e tagliate anche il ciuffo con le foglie a pezzi più grossi. Unite anche la costa e le foglie al resto della frutta.",
+      "Mescolate bene tutti gli ingredienti e aggiungete le arachidi. Date un'ultima rimestate e trasferite l'insalata di frutta in coppette oppure servite direttamente dalla ciotola. La vostra insalata di frutta è pronta per essere gustata!"
+    ]
   },
   {
     "id": 161518988912889,
@@ -21133,7 +21772,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/365/36534/insalata-di-farro-con-zucchine-grigliate-e-mandorle_15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l’insalata di farro con zucchine grigliate e mandorle, per prima cosa cuocete il farro in acqua salata bollente 1 . Nel frattempo spuntate le zucchine e dividetele a metà 2 , poi tagliatele per il lungo a fette dello spessore di circa mezzo centimetro 3 .",
+      "Oliate una griglia ben calda e adagiate le zucchine 4 , poi grigliate per qualche minuto per lato 5 fino a quando saranno morbide e con le righe ben visibili 6 . Mettete da parte e lasciate intiepidire.",
+      "Intanto il farro sarà cotto, quindi scolatelo in una ciotola 7 e lasciatelo intiepidire. Tritate grossolanamente le mandorle al coltello 8 e tenetele da parte. Ora riprendete le zucchine intiepidite e tagliatele a pezzetti 9 .",
+      "Aggiungete le zucchine nella ciotola con il farro 10 , poi unite anche le mandorle 11 e il succo di limone 13 .",
+      "Aromatizzate anche con la scorza grattugiata del limone 13 , poi regolate di sale e pepe. Mescolate bene il tutto 14 e servite la vostra insalata di farro con zucchine grigliate e mandorle 15 !"
+    ],
+    "steps_clean": [
+      "Per preparare l’insalata di farro con zucchine grigliate e mandorle, per prima cosa cuocete il farro in acqua salata bollente. Nel frattempo spuntate le zucchine e dividetele a metà, poi tagliatele per il lungo a fette dello spessore di circa mezzo centimetro.",
+      "Oliate una griglia ben calda e adagiate le zucchine, poi grigliate per qualche minuto per lato fino a quando saranno morbide e con le righe ben visibili. Mettete da parte e lasciate intiepidire.",
+      "Intanto il farro sarà cotto, quindi scolatelo in una ciotola e lasciatelo intiepidire. Tritate grossolanamente le mandorle al coltello e tenetele da parte. Ora riprendete le zucchine intiepidite e tagliatele a pezzetti.",
+      "Aggiungete le zucchine nella ciotola con il farro, poi unite anche le mandorle e il succo di limone 13.",
+      "Aromatizzate anche con la scorza grattugiata del limone 13 , poi regolate di sale e pepe. Mescolate bene il tutto 14 e servite la vostra insalata di farro con zucchine grigliate e mandorle 15 !"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:54.582797+00:00"
   },
   {
     "id": 173994384629713,
@@ -22982,7 +23664,57 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/301/30183/insalata-di-farro-con-primo-sale-more-e-alici_18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l'insalata di farro con primosale, more e alici portate a bollore dell'acqua salata 1 e cuocete il farro per il tempo indicato sulla confezione; noi abbiamo usato il farro perlato che cuoce in circa 20 minuti 2 . Tagliate il primosale a fette 3 .",
+      "Da queste ricavate dei cubetti 4 e tenete da parte. Lavate e dividete a metà le more 5 , poi tritate l'erba cipollina 6 .",
+      "Una volta cotto, scolate il farro 7 e trasferitelo in una teglia a raffreddare 8 . In una ciotolina preparate il condimento unendo l'erba cipollina e l'olio 9 .",
+      "Versate anche l'aceto di vino rosso 10 , salate 1 e pepate 11 . Mescolate per insaporire bene l'emulsione e usatela per condire il farro cotto 12 .",
+      "Unite il primosale 13 e le more 14 , poi mescolate delicatamente 15 .",
+      "L'insalata di farro è pronta 16 : impiattatela completando con 3 filetti di alici 17 e foglioline di basilico fresco. Gustate subito la vostra insalata di farro con primosale, more e alici, le Dolci del Mar Cantabrico 18 !"
+    ],
+    "steps_clean": [
+      "Per preparare l'insalata di farro con primosale, more e alici portate a bollore dell'acqua salata e cuocete il farro per il tempo indicato sulla confezione; noi abbiamo usato il farro perlato che cuoce in circa 20 minuti. Tagliate il primosale a fette.",
+      "Da queste ricavate dei cubetti e tenete da parte. Lavate e dividete a metà le more, poi tritate l'erba cipollina.",
+      "Una volta cotto, scolate il farro e trasferitelo in una teglia a raffreddare. In una ciotolina preparate il condimento unendo l'erba cipollina e l'olio.",
+      "Versate anche l'aceto di vino rosso, salate 1 e pepate. Mescolate per insaporire bene l'emulsione e usatela per condire il farro cotto.",
+      "Unite il primosale e le more, poi mescolate delicatamente.",
+      "L'insalata di farro è pronta: impiattatela completando con 3 filetti di alici e foglioline di basilico fresco. Gustate subito la vostra insalata di farro con primosale, more e alici, le Dolci del Mar Cantabrico!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:51.462730+00:00"
   },
   {
     "id": 276544971361476,
@@ -23473,7 +24205,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/267/26720/farro-con-pesto-e-primo-sale_15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l'insalata di farro con pesto di erbe e primo sale mettete a bollire il farro 1 (questo istantaneo sarà pronto in circa 12 minuti), salate a fine cottura.  Scolate e sciacquate con acqua fredda 2 , versate in una ciotola e condite con un giro di olio 3 .",
+      "Preparate il pesto versando nella ciotola del mixer il basilico, la maggiorana 4 , l'erba cipollina 5 e gli anacardi 6 .",
+      "Aggiungete il Pecorino 7 , salate 8 e versate l'olio 9 .",
+      "Azionate le lame per frullare il tutto 10 . Versate il pesto nel farro 11 e mescolate. Tagliate a cubetti il primosale 12 .",
+      "Unite i pomodori secchi tagliati a striscioline e il primosale 13 . Guarnite con gli anacardi leggermente tritati 14 . L'insalata di farro è pronta per essere gustata 15 ."
+    ],
+    "steps_clean": [
+      "Per preparare l'insalata di farro con pesto di erbe e primo sale mettete a bollire il farro (questo istantaneo sarà pronto in circa 12 minuti), salate a fine cottura.  Scolate e sciacquate con acqua fredda, versate in una ciotola e condite con un giro di olio.",
+      "Preparate il pesto versando nella ciotola del mixer il basilico, la maggiorana, l'erba cipollina e gli anacardi.",
+      "Aggiungete il Pecorino, salate e versate l'olio.",
+      "Azionate le lame per frullare il tutto. Versate il pesto nel farro e mescolate. Tagliate a cubetti il primosale.",
+      "Unite i pomodori secchi tagliati a striscioline e il primosale. Guarnite con gli anacardi leggermente tritati. L'insalata di farro è pronta per essere gustata."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:48.242245+00:00"
   },
   {
     "id": 233479719935391,
@@ -24589,7 +25364,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19185/19185_insalata_di_fagiolini_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19185/19185_insalata_di_fagiolini_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19185/19185_insalata_di_fagiolini_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19185/19185_insalata_di_fagiolini_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19185/19185_insalata_di_fagiolini_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19185/19185_insalata_di_fagiolini_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19185/19185_insalata_di_fagiolini_strip_19-21.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare l’insalata di fagiolini cominciate dalla pulizia di questi. Spuntateli eliminando le due estremità 1 , poi sciacquateli per bene e tagliateli a metà o in tre parti, a seconda della grandezza 2 . A questo punto sbollentateli per 10 minuti in acqua bollente 3 .",
+      "trascorso il tempo scolateli in una ciotola con acqua e ghiaccio per bloccare la cottura 4 , poco dopo scolate e tenete in disparte 5 . Nel frattempo tostate le mandorle in padella, scottandole per 3 minuti a fuoco medio: saltatele spesso affinché non brucino 6 .",
+      "Infine procedete con l’ultima cottura, quella degli scalogni. Puliteli e divideteli in 4 parti 7 . Spostate all’interno di una padella già calda con l’olio e unite subito lo zucchero 8 . Dopo qualche istante di caramellatura sfumate con l’acqua 9 .",
+      "Continuate la cottura per altri 5 minuti finché gli scalogni non saranno un po’ ammorbiditi e il fondo sarà imbrunito 10 . A questo punto potrete occuparvi della salsa alla senape. Nel boccale di un mixer versate la senape, il succo di limone 11 , il sale, il pepe e l’olio 12 .",
+      "Con il mixer andate ad emulsionare il tutto 13 e in pochi secondi la vostra salsa sarà pronta 14 . Dopo aver sciacquato i pomodorini delle varie qualità tagliateli a metà 15 ,",
+      "e uniteli ai fagiolini che avrete messo in un’insalatiera 16 . Guarnite con la salsa 17 e date una veloce mescolata 18 .",
+      "Infine unite la feta sbriciolandola a mano 19 , le mandorle tostate 20 e mescolate. Ecco pronta la vostra coloratissima e sfiziosa insalata di fagiolini: non vi resta che servirla guarnendo con gli scalogni 21 ."
+    ],
+    "steps_clean": [
+      "Per preparare l’insalata di fagiolini cominciate dalla pulizia di questi. Spuntateli eliminando le due estremità, poi sciacquateli per bene e tagliateli a metà o in tre parti, a seconda della grandezza. A questo punto sbollentateli per 10 minuti in acqua bollente.",
+      "trascorso il tempo scolateli in una ciotola con acqua e ghiaccio per bloccare la cottura, poco dopo scolate e tenete in disparte. Nel frattempo tostate le mandorle in padella, scottandole per 3 minuti a fuoco medio: saltatele spesso affinché non brucino.",
+      "Infine procedete con l’ultima cottura, quella degli scalogni. Puliteli e divideteli in 4 parti. Spostate all’interno di una padella già calda con l’olio e unite subito lo zucchero. Dopo qualche istante di caramellatura sfumate con l’acqua.",
+      "Continuate la cottura per altri 5 minuti finché gli scalogni non saranno un po’ ammorbiditi e il fondo sarà imbrunito. A questo punto potrete occuparvi della salsa alla senape. Nel boccale di un mixer versate la senape, il succo di limone, il sale, il pepe e l’olio.",
+      "Con il mixer andate ad emulsionare il tutto e in pochi secondi la vostra salsa sarà pronta. Dopo aver sciacquato i pomodorini delle varie qualità tagliateli a metà,",
+      "e uniteli ai fagiolini che avrete messo in un’insalatiera. Guarnite con la salsa e date una veloce mescolata.",
+      "Infine unite la feta sbriciolandola a mano, le mandorle tostate e mescolate. Ecco pronta la vostra coloratissima e sfiziosa insalata di fagiolini: non vi resta che servirla guarnendo con gli scalogni."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:45.089978+00:00"
   },
   {
     "id": 151305014122343,
@@ -44341,7 +45159,57 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/295/29580/pasta-con-crema-di-porro-zafferano-e-salsiccia-di-bra_18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con crema di porro, zafferano e salsiccia di Bra, come prima cosa mettete i pistilli di zafferano in infusione in acqua calda e lasciateli in ammollo per una notte 1 . Eliminate le radici 2 e la parte verde dei porri. Eliminate i primi 1-2 strati 3 e lavateli.",
+      "Tagliate grossolanamente i porri a rondelle 4 . In una pentola scaldate un giro d’olio abbondante, aggiungete i porri 5 , il sale 6 e rosolate bene per qualche minuto.",
+      "Coprite con acqua calda 7 e lasciate stufare per 10 minuti, finché i porri non si saranno ammorbiditi. Intanto friggete i peperoni cruschi, privati del picciolo e dei semi 8 , in olio di semi a 150°-160° per qualche secondo, mescolando continuamente. Scolateli su carta assorbente per eliminare l’olio in eccesso 9 .",
+      "Unite ai porri lo zafferano disciolto 10 , mescolate e spegnete il fuoco. Frullate con un mixer a immersione 11 fino ad ottenere una crema abbastanza omogenea, non è necessario che sia completamente liscia. Aggiungete la salsa Worchestershire 12 , regolate di sale e mescolate.",
+      "Infine profumate con qualche fogliolina di timo 13 . Cuocete la pasta in abbondante acqua bollente salata 14 . Scolate la pasta al dente e trasferitela in padella 15 , poi amalgamate il tutto.",
+      "Spegnete il fuoco, aggiungete un filo d’olio e mantecate 16 . Impiattate e completate con i peperoni cruschi sbriciolati grossolanamente con le mani, la salsiccia di Bra cruda a pezzetti 17 e qualche fogliolina di timo. La pasta con crema di porro, zafferano e salsiccia di Bra è pronta per essere servita 18 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con crema di porro, zafferano e salsiccia di Bra, come prima cosa mettete i pistilli di zafferano in infusione in acqua calda e lasciateli in ammollo per una notte. Eliminate le radici e la parte verde dei porri. Eliminate i primi 1-2 strati e lavateli.",
+      "Tagliate grossolanamente i porri a rondelle. In una pentola scaldate un giro d’olio abbondante, aggiungete i porri, il sale e rosolate bene per qualche minuto.",
+      "Coprite con acqua calda e lasciate stufare per 10 minuti, finché i porri non si saranno ammorbiditi. Intanto friggete i peperoni cruschi, privati del picciolo e dei semi, in olio di semi a 150°-160° per qualche secondo, mescolando continuamente. Scolateli su carta assorbente per eliminare l’olio in eccesso.",
+      "Unite ai porri lo zafferano disciolto, mescolate e spegnete il fuoco. Frullate con un mixer a immersione fino ad ottenere una crema abbastanza omogenea, non è necessario che sia completamente liscia. Aggiungete la salsa Worchestershire, regolate di sale e mescolate.",
+      "Infine profumate con qualche fogliolina di timo. Cuocete la pasta in abbondante acqua bollente salata. Scolate la pasta al dente e trasferitela in padella, poi amalgamate il tutto.",
+      "Spegnete il fuoco, aggiungete un filo d’olio e mantecate. Impiattate e completate con i peperoni cruschi sbriciolati grossolanamente con le mani, la salsiccia di Bra cruda a pezzetti e qualche fogliolina di timo. La pasta con crema di porro, zafferano e salsiccia di Bra è pronta per essere servita!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:34:00.669127+00:00"
   },
   {
     "id": 247747163809603,
@@ -45578,7 +46446,45 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/300/30075/30075_pasta-con-crema-di-piselli-taccole-e-ricotta-salata_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/300/30075/30075_pasta-con-crema-di-piselli-taccole-e-ricotta-salata_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/300/30075/30075_pasta-con-crema-di-piselli-taccole-e-ricotta-salata_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/300/30075/30075_pasta-con-crema-di-piselli-taccole-e-ricotta-salata_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/300/30075/30075_pasta-con-crema-di-piselli-taccole-e-ricotta-salata_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/300/30075/30075_pasta-con-crema-di-piselli-taccole-e-ricotta-salata_strip_16-18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con crema di piselli, taccole e ricotta salata cominciate dai pisellini: dovrete sbollentarli in acqua bollente e salata per 5 minuti 1 . Scolateli in acqua fredda per mantenere il loro colore brillante 2 , poi trasferiteli in una brocca - tenendone un paio di cucchiaiate da parte per decorare il piatto - e aggiungete la menta 3 .",
+      "Versate l'olio 4 , un mestolo di acqua 5 e frullate con il mixer a immersione 6 .",
+      "Regolate di sale 7 e tenete da parte 8 . Occupatevi adesso delle taccole: pulitele e rimuovete le estremità 9 .",
+      "Riducetele a pezzetti di 1 cm 10 e spostatevi ai fornelli. In una padella con l'olio e l'aglio, unite il peperoncino a pezzetti grossi 11 . Unite le taccole e fate insaporire per 10 minuti prima di rimuovere il peperoncino 12 .",
+      "Nel frattempo cuocete la pasta in acqua bollente salata 13 . Quando è al dente scolate direttamente nella padella con le taccole 14 , unite la crema di piselli 15 .",
+      "Saltate per un paio di minuti 16 . Impiattate guarnendo con qualche pisellino tenuto da parte, la ricotta salata grattugiata 17 , la menta ed ecco pronta la vostra pasta con crema di piselli, taccole e ricotta salata 18 ."
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con crema di piselli, taccole e ricotta salata cominciate dai pisellini: dovrete sbollentarli in acqua bollente e salata per 5 minuti. Scolateli in acqua fredda per mantenere il loro colore brillante, poi trasferiteli in una brocca - tenendone un paio di cucchiaiate da parte per decorare il piatto - e aggiungete la menta.",
+      "Versate l'olio, un mestolo di acqua e frullate con il mixer a immersione.",
+      "Regolate di sale e tenete da parte. Occupatevi adesso delle taccole: pulitele e rimuovete le estremità.",
+      "Riducetele a pezzetti di 1 cm e spostatevi ai fornelli. In una padella con l'olio e l'aglio, unite il peperoncino a pezzetti grossi. Unite le taccole e fate insaporire per 10 minuti prima di rimuovere il peperoncino.",
+      "Nel frattempo cuocete la pasta in acqua bollente salata. Quando è al dente scolate direttamente nella padella con le taccole, unite la crema di piselli.",
+      "Saltate per un paio di minuti. Impiattate guarnendo con qualche pisellino tenuto da parte, la ricotta salata grattugiata, la menta ed ecco pronta la vostra pasta con crema di piselli, taccole e ricotta salata."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:57.321700+00:00"
   },
   {
     "id": 208443114754838,
@@ -48169,7 +49075,64 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/272/27243/focaccia-senza-glutine-con-erbe-aromatiche_21.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la focaccia senza glutine con erbe aromatiche per prima cosa preparate l'olio aromatizzato, possibilmente con qualche ora d'anticipo. In un pentolino versate l'olio abbondante e unite dei rametti di rosmarino 1 . Non appena inizia a soffriggere spegnete il fuoco. Lasciate il rosmarino in infusione per qualche ora (o per tutta la notte). intanto realizzate l'impasto: tritate tutte le erbe aromatiche, poi trasferitele in una ciotola in cui avrete messo la farina senza glutine 2 . Aggiungete il lievito di birra fresco sbriciolato 3 .",
+      "Versate una parte dell'acqua 4 e iniziate a mescolare. Aggiungete poco a poco ancora altra acqua 5 ; non preoccupatevi se l'impasto sembra sgretolarsi, è normale essendo realizzato con una farina senza glutine. Man mano che la farina assorbirà l'acqua inizierà a risultare sempre più compatto. Terminate di aggiungere l'acqua lentamente 6 e mescolate energicamente.",
+      "Unite il miele 7 e in più riprese anche l'olio 8 . Mescolate bene con un mestolo di legno 9 .",
+      "Aggiungete il sale 10 e mescolate ancora una volta sino a che non sarà assorbito. Dovrete ottenere un impasto omogeneo e cremoso 11 . Trasferitelo all'interno di una teglia 30x40 cm rivestita con carta forno, unta con un po' di acqua e un po' di olio 12 .",
+      "Con le mani unte spingete delicatamente l'impasto 13 fino a riempire completamente la teglia 14 . Coprite con pellicola e lasciate lievitare in forno spento solo con luce accesa per circa 2-2,5 ore 15 .",
+      "Trascorso questo tempo bagnate la superficie con olio 16 e acqua 17 , poi aggiungete un pizzico di sale. Affondate delicatamente le dita nell'impasto per creare i classici buchi 18 .",
+      "Cuocete in forno ventilato preriscaldato a 220° per circa 30 minuti, fino a che non sarà ben dorata. Poi sfornate la focaccia 19 e lasciatela intiepidire. Trasferite la focaccia senza glutine con erbe aromatiche su un tagliere, spennellate abbondantemente con l'olio aromatizzato al rosmarino 20 , aggiungete del sale maldon e servitela tagliata a quadrotti 21 !"
+    ],
+    "steps_clean": [
+      "Per realizzare la focaccia senza glutine con erbe aromatiche per prima cosa preparate l'olio aromatizzato, possibilmente con qualche ora d'anticipo. In un pentolino versate l'olio abbondante e unite dei rametti di rosmarino. Non appena inizia a soffriggere spegnete il fuoco. Lasciate il rosmarino in infusione per qualche ora (o per tutta la notte). intanto realizzate l'impasto: tritate tutte le erbe aromatiche, poi trasferitele in una ciotola in cui avrete messo la farina senza glutine. Aggiungete il lievito di birra fresco sbriciolato.",
+      "Versate una parte dell'acqua e iniziate a mescolare. Aggiungete poco a poco ancora altra acqua; non preoccupatevi se l'impasto sembra sgretolarsi, è normale essendo realizzato con una farina senza glutine. Man mano che la farina assorbirà l'acqua inizierà a risultare sempre più compatto. Terminate di aggiungere l'acqua lentamente e mescolate energicamente.",
+      "Unite il miele e in più riprese anche l'olio. Mescolate bene con un mestolo di legno.",
+      "Aggiungete il sale e mescolate ancora una volta sino a che non sarà assorbito. Dovrete ottenere un impasto omogeneo e cremoso. Trasferitelo all'interno di una teglia 30x40 cm rivestita con carta forno, unta con un po' di acqua e un po' di olio.",
+      "Con le mani unte spingete delicatamente l'impasto fino a riempire completamente la teglia. Coprite con pellicola e lasciate lievitare in forno spento solo con luce accesa per circa 2-2,5 ore.",
+      "Trascorso questo tempo bagnate la superficie con olio e acqua, poi aggiungete un pizzico di sale. Affondate delicatamente le dita nell'impasto per creare i classici buchi.",
+      "Cuocete in forno ventilato preriscaldato a 220° per circa 30 minuti, fino a che non sarà ben dorata. Poi sfornate la focaccia e lasciatela intiepidire. Trasferite la focaccia senza glutine con erbe aromatiche su un tagliere, spennellate abbondantemente con l'olio aromatizzato al rosmarino, aggiungete del sale maldon e servitela tagliata a quadrotti!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:39.643174+00:00"
   },
   {
     "id": 147633642025648,
@@ -48797,7 +49760,57 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/243/24310/focaccia-caponata_18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la focaccia senza glutine con caponata iniziate dagli ingredienti della caponata veloce: mondate la cipolla e tagliatela a julienne 1 , poi spuntate le melanzane e riducetele a cubetti di 2 cm 2 . Infine dividete i pomodorini a metà 3 .",
+      "Mettete la cipolla in una padella antiaderente con un giro d’olio 4 e fatela imbiondire a fuoco dolce per circa 10 minuti. Aggiungete le melanzane 5 , alzate la fiamma e rosolate per altri 10 minuti, dopodiché unite i pomodorini 6 .",
+      "Insaporite con i capperi dissalati 7 , i pinoli 8 e le olive tagliate grossolanamente 9 .",
+      "Salate, pepate 10 e cuocete per altri 10 minuti, poi profumate con qualche fogliolina di basilico spezzettata con le mani 11 . A questo punto adagiate le focacce su una teglia e infornatele a 200° in modalità grill per 5 minuti 12 .",
+      "Nel frattempo tagliate il pecorino a fette dello spessore di circa mezzo cm 13 . Siete pronti per assemblare gli ingredienti: dividete la focaccia a metà in senso orizzontale 14 e adagiate le fette di pecorino 15 .",
+      "Aggiungete 2 cucchiai di caponata 16 e completate con il songino 17 . Richiudete la focaccia e procedete nello stesso modo con la seconda. La vostra focaccia senza glutine con caponata è pronta per essere gustata 18 !"
+    ],
+    "steps_clean": [
+      "Per realizzare la focaccia senza glutine con caponata iniziate dagli ingredienti della caponata veloce: mondate la cipolla e tagliatela a julienne, poi spuntate le melanzane e riducetele a cubetti di 2 cm. Infine dividete i pomodorini a metà.",
+      "Mettete la cipolla in una padella antiaderente con un giro d’olio e fatela imbiondire a fuoco dolce per circa 10 minuti. Aggiungete le melanzane, alzate la fiamma e rosolate per altri 10 minuti, dopodiché unite i pomodorini.",
+      "Insaporite con i capperi dissalati, i pinoli e le olive tagliate grossolanamente.",
+      "Salate, pepate e cuocete per altri 10 minuti, poi profumate con qualche fogliolina di basilico spezzettata con le mani. A questo punto adagiate le focacce su una teglia e infornatele a 200° in modalità grill per 5 minuti.",
+      "Nel frattempo tagliate il pecorino a fette dello spessore di circa mezzo cm. Siete pronti per assemblare gli ingredienti: dividete la focaccia a metà in senso orizzontale e adagiate le fette di pecorino.",
+      "Aggiungete 2 cucchiai di caponata e completate con il songino. Richiudete la focaccia e procedete nello stesso modo con la seconda. La vostra focaccia senza glutine con caponata è pronta per essere gustata!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:36.862165+00:00"
   },
   {
     "id": 272149242713913,
@@ -49366,7 +50379,71 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/262/26296/focaccia-semplice-fatta-in-casa_24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la focaccia semplice fatta in casa cominciate mescolando insieme in una ciotolina il lievito con lo zucchero 1 e andate a versarlo, insieme alla farina, nella tazza di una planetaria munita di foglia 2 . Azionate la planetaria e versate a filo latte e acqua che avrete mescolato insieme 3 .",
+      "Poi unite l’olio, anche questo a filo 4 . Continuate ad impastare fino a quando non notate che l’impasto avrà preso un po’ di consistenza, perciò sostituite la foglia 5 con il gancio 6 .",
+      "Versate il sale 7 e continuate ad impastare per circa 15 minuti 8 fin quando l’impasto non sarà ben incordato: l’impasto è molto idratato quindi aiutatevi con un tarocco per staccarlo dal gancio 9 .",
+      "Trasferite il composto sul piano da lavoro leggermente infarinato sempre aiutandovi con il tarocco 10 e sempre con quest'ultimo date un paio di pieghe, cioè sollevate un lembo 11 e portatelo al centro 12 . Poi sollevate l’altra estremità e portate anche questa nel mezzo e ripetete una volta ancora.",
+      "Trasferite il composto in una ciotola 13 e coprite con pellicola trasparente. Riponete la ciotola in forno spento con luce accesa e lasciate lievitare per 2 ore o comunque fine al raddoppio 14 . Ungete una teglia (noi abbiamo usato una teglia rettangolare 35x28 cm) spennellando accuratamente tutta la superficie e lungo i bordi 15 ,",
+      "versate l’impasto all’interno e ungetevi le mani per non far attaccare la pasta 16 . Cominciate a distenderla con le punte delle dita 17 per distribuirla fino a ricoprire interamente la superficie e i lati 18 . Essendo un impasto molto idratato, se non riuscite subito a riempire l'intero stampo, lasciate riposare ancora per qualche minuto prima di continuare a distendere l'impasto.",
+      "Una volta terminato, coprite con pellicola trasparente 19 e lasciate lievitare per un’altra ora in forno spento ma con la luce accesa 20 . Trascorso il tempo andate a creare delle fossette nell’impasto con le punte della dita unte d'olio 21 .",
+      "Cospargete con l’olio 22 , qualche fogliolina di rosmarino e dei fiocchi di sale 23 . La vostra focaccia è pronta per essere cotta in forno statico a 180° per circa 35–40 minuti, nella parte bassa (controllate di tanto in tanto la cottura senza aprire il forno). Una volta cotta 24 non vi resta che sfornarla e gustarla al naturale o farcita!"
+    ],
+    "steps_clean": [
+      "Per preparare la focaccia semplice fatta in casa cominciate mescolando insieme in una ciotolina il lievito con lo zucchero e andate a versarlo, insieme alla farina, nella tazza di una planetaria munita di foglia. Azionate la planetaria e versate a filo latte e acqua che avrete mescolato insieme.",
+      "Poi unite l’olio, anche questo a filo. Continuate ad impastare fino a quando non notate che l’impasto avrà preso un po’ di consistenza, perciò sostituite la foglia con il gancio.",
+      "Versate il sale e continuate ad impastare per circa 15 minuti fin quando l’impasto non sarà ben incordato: l’impasto è molto idratato quindi aiutatevi con un tarocco per staccarlo dal gancio.",
+      "Trasferite il composto sul piano da lavoro leggermente infarinato sempre aiutandovi con il tarocco e sempre con quest'ultimo date un paio di pieghe, cioè sollevate un lembo e portatelo al centro. Poi sollevate l’altra estremità e portate anche questa nel mezzo e ripetete una volta ancora.",
+      "Trasferite il composto in una ciotola e coprite con pellicola trasparente. Riponete la ciotola in forno spento con luce accesa e lasciate lievitare per 2 ore o comunque fine al raddoppio. Ungete una teglia (noi abbiamo usato una teglia rettangolare 35x28 cm) spennellando accuratamente tutta la superficie e lungo i bordi,",
+      "versate l’impasto all’interno e ungetevi le mani per non far attaccare la pasta. Cominciate a distenderla con le punte delle dita per distribuirla fino a ricoprire interamente la superficie e i lati. Essendo un impasto molto idratato, se non riuscite subito a riempire l'intero stampo, lasciate riposare ancora per qualche minuto prima di continuare a distendere l'impasto.",
+      "Una volta terminato, coprite con pellicola trasparente e lasciate lievitare per un’altra ora in forno spento ma con la luce accesa. Trascorso il tempo andate a creare delle fossette nell’impasto con le punte della dita unte d'olio.",
+      "Cospargete con l’olio, qualche fogliolina di rosmarino e dei fiocchi di sale. La vostra focaccia è pronta per essere cotta in forno statico a 180° per circa 35–40 minuti, nella parte bassa (controllate di tanto in tanto la cottura senza aprire il forno). Una volta cotta non vi resta che sfornarla e gustarla al naturale o farcita!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:33.669925+00:00"
   },
   {
     "id": 88341068500244,
@@ -49979,7 +51056,70 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/234/23443/foccaccia-rustichella-con-salame-e-formaggio_23.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la focaccia rustichella con salame e formaggio iniziate dall'impasto. In una ciotola mettete la farina e il lievito di birra secco 1 . Aggiungete un pizzico di zucchero 2 e l'acqua 3 .",
+      "Mescolate per amalgamare gli ingredienti 4 , poi aggiungete anche l'olio 5 e mescolate ancora sino a che non avrete ottenuto un composto omogeneo 6 .",
+      "Unite in ultimo il sale 7 e mescolate ancora con una forchetta. Trasferite poi l'impasto su un piano leggermente infarinato, impastate per circa 10 minuti fino a quando risulterà liscio ed omogeneo 8 , poi dovrete dare forma sferica 9 .",
+      "Trasferite in una ciotola leggermente infarinata 10 , cospargete con un po' di farina e coprite con pellicola 11 . Lasciate lievitare fino al raddoppio in forno spento con luce accesa, ci vorranno circa 4 ore. Riprendete quindi l’impasto 12 e trasferitelo sul piano di lavoro infarinato.",
+      "Dividete l'impasto in due parti uguali 13 e lavorate ciascun pezzo cercando di ottenere un panetto omogeneo 14 . Stendete poi il primo panetto, ino modo da ottenere un rettangolo grande 25x35 cm 15 .",
+      "Trasferite la pasta in una teglia antiaderente delle stesse dimensioni, cercando di coprire tutta la superficie 16 . Adesso sistemate sopra le fettine di salame 17 e poi quelle di formaggio 18 , lasciando un piccolo bordo libero.",
+      "Stendete anche l'altro panetto di pasta e adagiatelo sopra. Schiacciate i bordi per sigillarli. Poi utilizzando un coltello fate delle incisioni verticali 19 e poi orizzontali 20 , in modo da formare dei quadrotti. Spennellate con olio extravergine tutta la superficie della focaccia 21 .",
+      "Cospargete con i semi di sesamo 22 e lasciate lievitare ancora un'ora in forno spento 23 . Passate ora alla cottura. Cuocete in forno statico preriscaldato a 180° per circa 40 minuti, posizionandola nel ripiano centrale. Quando sarà ben dorata sfornatela e servite la vostra focaccia rustichella con salame e formaggio."
+    ],
+    "steps_clean": [
+      "Per preparare la focaccia rustichella con salame e formaggio iniziate dall'impasto. In una ciotola mettete la farina e il lievito di birra secco. Aggiungete un pizzico di zucchero e l'acqua.",
+      "Mescolate per amalgamare gli ingredienti, poi aggiungete anche l'olio e mescolate ancora sino a che non avrete ottenuto un composto omogeneo.",
+      "Unite in ultimo il sale e mescolate ancora con una forchetta. Trasferite poi l'impasto su un piano leggermente infarinato, impastate per circa 10 minuti fino a quando risulterà liscio ed omogeneo, poi dovrete dare forma sferica.",
+      "Trasferite in una ciotola leggermente infarinata, cospargete con un po' di farina e coprite con pellicola. Lasciate lievitare fino al raddoppio in forno spento con luce accesa, ci vorranno circa 4 ore. Riprendete quindi l’impasto e trasferitelo sul piano di lavoro infarinato.",
+      "Dividete l'impasto in due parti uguali e lavorate ciascun pezzo cercando di ottenere un panetto omogeneo. Stendete poi il primo panetto, ino modo da ottenere un rettangolo grande 25x35 cm.",
+      "Trasferite la pasta in una teglia antiaderente delle stesse dimensioni, cercando di coprire tutta la superficie. Adesso sistemate sopra le fettine di salame e poi quelle di formaggio, lasciando un piccolo bordo libero.",
+      "Stendete anche l'altro panetto di pasta e adagiatelo sopra. Schiacciate i bordi per sigillarli. Poi utilizzando un coltello fate delle incisioni verticali e poi orizzontali, in modo da formare dei quadrotti. Spennellate con olio extravergine tutta la superficie della focaccia.",
+      "Cospargete con i semi di sesamo e lasciate lievitare ancora un'ora in forno spento. Passate ora alla cottura. Cuocete in forno statico preriscaldato a 180° per circa 40 minuti, posizionandola nel ripiano centrale. Quando sarà ben dorata sfornatela e servite la vostra focaccia rustichella con salame e formaggio."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:30.975101+00:00"
   },
   {
     "id": 123219234320756,
@@ -50183,7 +51323,57 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/268/26878/pasta-con-crema-di-patate-e-salsiccia_18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per prepare la pasta con crema di patate e salsiccia, iniziate lessando le patate intere per circa 40 minuti 1 , o fino a quando non saranno morbide. Con lo schiacciapatate riducetele a una purea 2 , quindi aggiungete a questa il Parmigiano Reggiano DOP grattugiato 3 .",
+      "Unite zafferano in polvere 4 sale e pepe. Mescolate 5 per ottenere una composto piuttosto corposo e omogeneo 6 .",
+      "Private la salsiccia del budello, sgranatela e ponetela in una padella leggermente scaldata (senza aggiunta di grassi) 7 . Fatela rosolare per qualche minuto mescolando spesso 8 finché non diventerà dorata 9 .",
+      "Intanto lessate la pasta per il tempo indicato sulla confezione 10 . Mentre cuoce, ammorbidite il composto di patate e zafferano con acqua di cottura 11 , poi frullate con il mixer a immersione 12 .",
+      "Dovrete ottenere una crema liscia e piuttosto fluida 13 . Scolate la pasta nella padella con la salsiccia 14 , aggiungete la crema di patate 15 .",
+      "Versate anche un mestolo di acqua di cottura 16 , o quanto basta per stemperare e amalgamare il condimento 17 . La pasta con crema di patate e salsiccia è pronta da gustare 18 !"
+    ],
+    "steps_clean": [
+      "Per prepare la pasta con crema di patate e salsiccia, iniziate lessando le patate intere per circa 40 minuti, o fino a quando non saranno morbide. Con lo schiacciapatate riducetele a una purea, quindi aggiungete a questa il Parmigiano Reggiano DOP grattugiato.",
+      "Unite zafferano in polvere sale e pepe. Mescolate per ottenere una composto piuttosto corposo e omogeneo.",
+      "Private la salsiccia del budello, sgranatela e ponetela in una padella leggermente scaldata (senza aggiunta di grassi). Fatela rosolare per qualche minuto mescolando spesso finché non diventerà dorata.",
+      "Intanto lessate la pasta per il tempo indicato sulla confezione. Mentre cuoce, ammorbidite il composto di patate e zafferano con acqua di cottura, poi frullate con il mixer a immersione.",
+      "Dovrete ottenere una crema liscia e piuttosto fluida. Scolate la pasta nella padella con la salsiccia, aggiungete la crema di patate.",
+      "Versate anche un mestolo di acqua di cottura, o quanto basta per stemperare e amalgamare il condimento. La pasta con crema di patate e salsiccia è pronta da gustare!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:54.539995+00:00"
   },
   {
     "id": 251511937360496,
@@ -50519,7 +51709,55 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/155/15513/15513_focaccia_ripiena_pizzicata_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/155/15513/15513_focaccia_ripiena_pizzicata_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/155/15513/15513_focaccia_ripiena_pizzicata_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/155/15513/15513_focaccia_ripiena_pizzicata_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/155/15513/15513_focaccia_ripiena_pizzicata_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/155/15513/15513_focaccia_ripiena_pizzicata_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/155/15513/15513_focaccia_ripiena_pizzicata_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/155/15513/15513_focaccia_ripiena_pizzicata_strip_22-24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la focaccia ripiena pizzicata iniziate dall’impasto. In una planetaria munita di gancio versate la farina setacciata, il lievito disidratato 1 e lo zucchero 2 ed azionate la planetaria a velocità bassa. Quindi aggiungete il latte ed il latte di kefir a temperatura ambiente a filo 3 .",
+      "Mentre continuate ad impastare aggiungete anche l’olio di semi a filo 4 . Poi unite l’uovo a temperatura ambiente 5 e quando si sarà assorbito aggiungete il sale 6 .",
+      "Continuate ad impastare per circa altri 5 minuti fino a che l’impasto non risulterà ben incordato al gancio 7 . Quindi spostatelo su una spianatoia cosparsa di farina e lavoratelo con le mani 8 per dargli una forma sferica 9 .",
+      "Adagiate l’impasto in una ciotola capiente e coprite con pellicola alimentare trasparente 10 . Lasciatelo lievitare per 4 ore in forno spento con luce accesa (ad una temperatura di 26-30° massimo). Nel frattempo procedete con la preparazione del ripieno. Prendete l'emmentaler e il caciocavallo e tagliateli a piccoli cubetti 11 , ripetendo l’operazione con il prosciutto cotto 12 .",
+      "Trascorso il tempo di lievitazione riprendete l’impasto che avrà raddoppiato il suo volume 13 e trasferitelo su una spianatoia leggermente infarinata; con un mattarello stendetelo fino ad ottenere una sfoglia dello spessore di 5 mm 14 . Poi coprite la sfoglia di impasto con un canovaccio pulito e lasciate riposare per 10 minuti 15 . Questa operazione è necessaria per evitare che coppando immediatamente l’impasto questo si ritiri.",
+      "Create dei dischi di impasto con l’aiuto di un coppapasta del diametro di 8 cm 16 . L’impasto che avanza può essere riutilizzato per ottenere ulteriori dischi. Potete farciere la metà dei dischi ottenuti con i cubetti di prosciutto ed emmentaler 17 e l’altra metà con un cucchiaino di 'nduja e cubetti di caciocavallo 18 , avendo cura di lasciare uno spazio dal bordo per evitare la fuoriuscita del ripieno in cottura.",
+      "Prendete un disco e ripiegatelo a metà per ottenere una mezza luna 19 , quindi fate convergere gli estremi della mezzaluna in centro in modo da dare la forma di piccola rosellina 20 . Schiacciate bene le estremità con le dita per sigillare l’impasto. Ripetete l’operazione con tutti i dischi. Quindi prendete una teglia dal diametro di 32 cm e foderatela con carta forno. Disponete le rosellne ripiene nella teglia, partendo dai bordi 21 alternando quelle con ripieni di versi.",
+      "Quindi riempite tutto lo stampo fino al centro, sovrapponendo anche le roselline al centro con un secondo strato se necessario 22 . Spennellate leggermente con un uovo sbattuto tutta la focaccia ripiena pizzicata 23 e infornate in forno statico preriscaldato a 200° per 20 minuti (o in forno ventilato a 180° per 10 minuti). Sfornate la vostra focaccia ripiena pizzicata, lasciatela intiepidire a temperatura ambiente e… gustatela ancora calda 24 !"
+    ],
+    "steps_clean": [
+      "Per preparare la focaccia ripiena pizzicata iniziate dall’impasto. In una planetaria munita di gancio versate la farina setacciata, il lievito disidratato e lo zucchero ed azionate la planetaria a velocità bassa. Quindi aggiungete il latte ed il latte di kefir a temperatura ambiente a filo.",
+      "Mentre continuate ad impastare aggiungete anche l’olio di semi a filo. Poi unite l’uovo a temperatura ambiente e quando si sarà assorbito aggiungete il sale.",
+      "Continuate ad impastare per circa altri 5 minuti fino a che l’impasto non risulterà ben incordato al gancio. Quindi spostatelo su una spianatoia cosparsa di farina e lavoratelo con le mani per dargli una forma sferica.",
+      "Adagiate l’impasto in una ciotola capiente e coprite con pellicola alimentare trasparente. Lasciatelo lievitare per 4 ore in forno spento con luce accesa (ad una temperatura di 26-30° massimo). Nel frattempo procedete con la preparazione del ripieno. Prendete l'emmentaler e il caciocavallo e tagliateli a piccoli cubetti, ripetendo l’operazione con il prosciutto cotto.",
+      "Trascorso il tempo di lievitazione riprendete l’impasto che avrà raddoppiato il suo volume e trasferitelo su una spianatoia leggermente infarinata; con un mattarello stendetelo fino ad ottenere una sfoglia dello spessore di 5 mm. Poi coprite la sfoglia di impasto con un canovaccio pulito e lasciate riposare per 10 minuti. Questa operazione è necessaria per evitare che coppando immediatamente l’impasto questo si ritiri.",
+      "Create dei dischi di impasto con l’aiuto di un coppapasta del diametro di 8 cm. L’impasto che avanza può essere riutilizzato per ottenere ulteriori dischi. Potete farciere la metà dei dischi ottenuti con i cubetti di prosciutto ed emmentaler e l’altra metà con un cucchiaino di 'nduja e cubetti di caciocavallo, avendo cura di lasciare uno spazio dal bordo per evitare la fuoriuscita del ripieno in cottura.",
+      "Prendete un disco e ripiegatelo a metà per ottenere una mezza luna, quindi fate convergere gli estremi della mezzaluna in centro in modo da dare la forma di piccola rosellina. Schiacciate bene le estremità con le dita per sigillare l’impasto. Ripetete l’operazione con tutti i dischi. Quindi prendete una teglia dal diametro di 32 cm e foderatela con carta forno. Disponete le rosellne ripiene nella teglia, partendo dai bordi alternando quelle con ripieni di versi.",
+      "Quindi riempite tutto lo stampo fino al centro, sovrapponendo anche le roselline al centro con un secondo strato se necessario. Spennellate leggermente con un uovo sbattuto tutta la focaccia ripiena pizzicata e infornate in forno statico preriscaldato a 200° per 20 minuti (o in forno ventilato a 180° per 10 minuti). Sfornate la vostra focaccia ripiena pizzicata, lasciatela intiepidire a temperatura ambiente e… gustatela ancora calda!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:28.298827+00:00"
   },
   {
     "id": 192805961445618,
@@ -51137,7 +52375,78 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/238/23842/focaccia-pugliese-con-cipolle_27.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare la focaccia pugliese con cipolle, per prima cosa lessate le patate partendo da acqua fredda per circa 30 minuti o fino a quando risulteranno abbastanza morbide da infilzarle con una forchetta 1 . Una volta cotte, sbucciate e schiacciate le patate con una forchetta 2 . Lasciate intiepidire e, nel frattempo, versate in una ciotola la semola e la farina 0 3 .",
+      "Unite il lievito disidratato 4 e lo zucchero 5 , poi create un incavo al centro e aggiungete le patate schiacciate 6 .",
+      "Versate l’acqua poco per volta 7 mentre impastate con le mani per farla assorbire 8 . Quando avrete ottenuto un composto liscio e omogeneo aggiungete il sale 9 e lavorate ancora per incorporarlo in modo uniforme.",
+      "Trasferite l’impasto sul piano di lavoro infarinato e allargatelo con le dita per formare un rettangolo 10 , poi procedete con le pieghe: ripiegate il lembo superiore verso il centro 11 , poi ripiegate anche il lembo inferiore e sovrapponetelo 12 .",
+      "Fate la stessa cosa anche con i lembi laterali 13 , poi ribaltate il panetto 14 e arrotondatelo facendolo girare sul piano fra le mani 15 .",
+      "Coprite l’impasto con la ciotola e lasciatelo riposare per 30 minuti 16 , poi ripetete un giro di pieghe. Ribaltate nuovamente il panetto, arrotondatelo e sistematelo in una ciotola oliata 17 . Coprite con pellicola e lasciate lievitare al riparo dalla corrente per circa 3 ore o fino al raddoppio del volume 18 .",
+      "Trascorso il tempo di lievitazione, versate l’impasto in una teglia oliata da 30x40 cm 19 . Allargate l’impasto delicatamente con le mani unte di olio 20 e lasciate riposare ancora per un’ora. Nel frattempo mondate e tagliate le cipolle a rondelle sottili 21 .",
+      "Trascorso questo tempo, versate l’olio sulla focaccia 22 e premete i polpastrelli nell’impasto per creare i classici buchi 23 , poi aggiungete il sale grosso 24 .",
+      "Distribuite le rondelle di cipolla su tutta la superficie 25 , poi aggiungete le olive 26 e condite con un altro filo di olio. Cuocete in forno statico preriscaldato a 200° per circa 30 minuti. Quando sarà bella dorata, sfornate e gustate la vostra focaccia pugliese con cipolle 27 !"
+    ],
+    "steps_clean": [
+      "Per realizzare la focaccia pugliese con cipolle, per prima cosa lessate le patate partendo da acqua fredda per circa 30 minuti o fino a quando risulteranno abbastanza morbide da infilzarle con una forchetta 1 . Una volta cotte, sbucciate e schiacciate le patate con una forchetta 2 . Lasciate intiepidire e, nel frattempo, versate in una ciotola la semola e la farina 0 3 .",
+      "Unite il lievito disidratato 4 e lo zucchero 5 , poi create un incavo al centro e aggiungete le patate schiacciate 6 .",
+      "Versate l’acqua poco per volta 7 mentre impastate con le mani per farla assorbire 8 . Quando avrete ottenuto un composto liscio e omogeneo aggiungete il sale 9 e lavorate ancora per incorporarlo in modo uniforme.",
+      "Trasferite l’impasto sul piano di lavoro infarinato e allargatelo con le dita per formare un rettangolo 10 , poi procedete con le pieghe: ripiegate il lembo superiore verso il centro 11 , poi ripiegate anche il lembo inferiore e sovrapponetelo 12 .",
+      "Fate la stessa cosa anche con i lembi laterali 13 , poi ribaltate il panetto 14 e arrotondatelo facendolo girare sul piano fra le mani 15 .",
+      "Coprite l’impasto con la ciotola e lasciatelo riposare per 30 minuti 16 , poi ripetete un giro di pieghe. Ribaltate nuovamente il panetto, arrotondatelo e sistematelo in una ciotola oliata 17 . Coprite con pellicola e lasciate lievitare al riparo dalla corrente per circa 3 ore o fino al raddoppio del volume 18 .",
+      "Trascorso il tempo di lievitazione, versate l’impasto in una teglia oliata da 30x40 cm 19 . Allargate l’impasto delicatamente con le mani unte di olio 20 e lasciate riposare ancora per un’ora. Nel frattempo mondate e tagliate le cipolle a rondelle sottili 21 .",
+      "Trascorso questo tempo, versate l’olio sulla focaccia 22 e premete i polpastrelli nell’impasto per creare i classici buchi 23 , poi aggiungete il sale grosso 24 .",
+      "Distribuite le rondelle di cipolla su tutta la superficie 25 , poi aggiungete le olive 26 e condite con un altro filo di olio. Cuocete in forno statico preriscaldato a 200° per circa 30 minuti. Quando sarà bella dorata, sfornate e gustate la vostra focaccia pugliese con cipolle 27 !"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:25.296300+00:00"
   },
   {
     "id": 275067740690302,
@@ -51689,7 +52998,92 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_30.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_31.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_32.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/246/24638/focaccia-primavera_33.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la focaccia primavera partite dall'impasto. In una ciotola unite le farine 1 , il lievito sbriciolato 2 e tutta l’acqua 3 .",
+      "Iniziate a mescolare con un mestolo 4 e quando l'acqua sarà stata assorbita trasferite l'impasto sul banco da lavoro 5 e impastate energicamente fino a che non sarà omogeneo 6 .",
+      "A questo punto unite l’olio in tre volte 7 , aggiungendone ancora solo quando la prima dose sarà stata assorbita dall’impasto. Una volta assorbito tutto l’olio 8 unite il sale 9 e impastate fino a che non si sarà incorporato bene.",
+      "Aggiungete anche le 3 erbe aromatiche secche 10 e impastate ancora 5 min circa 11 , o comunque fino a che l’impasto non risulterà liscio ed omogeneo 12 .",
+      "Mettete in una ciotola e coprite con pellicola 14 , lasciate lievitare a temperatura ambiente per circa 2 ore o comunque fino al raddoppio 14 . Trasferite l'impasto sul piano da lavoro e appiattitelo leggermente con le mani 15 .",
+      "Trasferitelo in una teglia precedentemente unta grande 25x18 cm 16 . Stendete la focaccia allargando l'impasto con i polpastrelli 17 e tirandolo delicatamente sino a ricoprire l'intera superficie 18 .",
+      "Coprite con pellicola 19 e lasciate lievitare ancora per circa 30 minuti a temperatura ambiente. Nel frattempo preparate gli asparagi. Versate in una padella un filo d'olio 20 e aggiungete gli asparagi surgelati 21 .",
+      "Saltateli per circa 5 minuti e conditeli con sale e pepe 22 . Quando saranno pronti 23 trasferiteli in una ciotola e lasciateli raffreddare 24 .",
+      "Ora con le mani unte realizzate i classici buchi all’impasto, premendo delicatamente 25 , poi cospargete con olio  26  e fiocchi di sale 27 .",
+      "A questo punto cuocete in forno statico preriscaldato a 190° per 20 minuti. E nel frattempo tagliate gli asparagi a metà per il senso della lunghezza 28 . Passati i primi 20 minuti, sfornate la focaccia 29 e ricopritela con lo stracchino che straccerete con le mani o con un cucchiaio 30 .",
+      "Distribuite gli asparagi verso il lato corto della focaccia 31 , mettendoli tutti in fila 32 . Infornate nuovamente per 25 minuti. Appena la focaccia sarà ben dorata, sfornate e cospargete con timo e maggiorana freschi 33 . Servite la focaccia primavera tiepida o fredda."
+    ],
+    "steps_clean": [
+      "Per preparare la focaccia primavera partite dall'impasto. In una ciotola unite le farine, il lievito sbriciolato e tutta l’acqua.",
+      "Iniziate a mescolare con un mestolo e quando l'acqua sarà stata assorbita trasferite l'impasto sul banco da lavoro e impastate energicamente fino a che non sarà omogeneo.",
+      "A questo punto unite l’olio in tre volte, aggiungendone ancora solo quando la prima dose sarà stata assorbita dall’impasto. Una volta assorbito tutto l’olio unite il sale e impastate fino a che non si sarà incorporato bene.",
+      "Aggiungete anche le 3 erbe aromatiche secche e impastate ancora 5 min circa, o comunque fino a che l’impasto non risulterà liscio ed omogeneo.",
+      "Mettete in una ciotola e coprite con pellicola 14 , lasciate lievitare a temperatura ambiente per circa 2 ore o comunque fino al raddoppio 14 . Trasferite l'impasto sul piano da lavoro e appiattitelo leggermente con le mani 15 .",
+      "Trasferitelo in una teglia precedentemente unta grande 25x18 cm 16 . Stendete la focaccia allargando l'impasto con i polpastrelli 17 e tirandolo delicatamente sino a ricoprire l'intera superficie 18 .",
+      "Coprite con pellicola 19 e lasciate lievitare ancora per circa 30 minuti a temperatura ambiente. Nel frattempo preparate gli asparagi. Versate in una padella un filo d'olio 20 e aggiungete gli asparagi surgelati 21 .",
+      "Saltateli per circa 5 minuti e conditeli con sale e pepe 22 . Quando saranno pronti 23 trasferiteli in una ciotola e lasciateli raffreddare 24 .",
+      "Ora con le mani unte realizzate i classici buchi all’impasto, premendo delicatamente 25 , poi cospargete con olio  26  e fiocchi di sale 27 .",
+      "A questo punto cuocete in forno statico preriscaldato a 190° per 20 minuti. E nel frattempo tagliate gli asparagi a metà per il senso della lunghezza 28 . Passati i primi 20 minuti, sfornate la focaccia 29 e ricopritela con lo stracchino che straccerete con le mani o con un cucchiaio 30 .",
+      "Distribuite gli asparagi verso il lato corto della focaccia 31 , mettendoli tutti in fila 32 . Infornate nuovamente per 25 minuti. Appena la focaccia sarà ben dorata, sfornate e cospargete con timo e maggiorana freschi 33 . Servite la focaccia primavera tiepida o fredda."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:32:22.593293+00:00"
   },
   {
     "id": 251372831743842,
@@ -54741,7 +56135,71 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/274/27417/pasta-con-crema-di-fave-e-cicoria_24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con crema di fave e cicoria come prima cosa mettete le fave secche in una pentola 1 . Versate l'acqua e aggiungete lo scalogno sbucciato e tagliato a metà 2 , la carota pelata e tagliata a metà e un bel pizzico di sale 3 .",
+      "Aggiungete una foglia di alloro e lasciate cuocere a fiamma media per circa un'ora dal bollore 4 . Intanto pulite le cicorie eliminando i gambi più duri e prelevando solo le foglie più tenere 5 . Poi lavatele bene e immergetele in acqua bollente salata per pochi minuti 6 .",
+      "Trasferite le cicorie in acqua e ghiaccio 7 , poi scolatele per bene 8 . Intanto in un tegame rosolate uno spicchio d'aglio, insieme a un peperoncino con un filo d'olio. Unite le cicorie ben scolate 9 .",
+      "Rosolatele per qualche minuto 10 , poi eliminate aglio e peperoncino. Preparate la mollica: in un mixer versate il pane senza glutine a pezzi 11 e le erbe aromatiche 12 .",
+      "Frullate il tutto, poi aggiungete un pizzico di sale e un filo d'olio 13 ; dovrete ottenere un composto molto umido. Saltate il composto in padella 14 , sino a che non sarà completamente asciutto così da formare delle briciole croccanti 15 .",
+      "Quando le fave sono cotte eliminate alloro e carote 16 ; poi frullate con un mixer a immersione 17 per ridurle in crema 18 .",
+      "Cuocete la pasta in abbondante acqua salata bollente 19 . Intanto scaldate di nuovo le cicorie, poi tenetene qualcuna da parte per la decorazione e versate all'interno della padella la crema di fave 20 21 .",
+      "Scolate la pasta al dente e trasferitela in padella 22 , poi saltate il tutto per amalgamare bene 23 e impiattate. Aggiungete sopra un po' di cicoria e abbondante mollica. La vostra pasta con crema di fave e cicoria è pronta per essere servita 24 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con crema di fave e cicoria come prima cosa mettete le fave secche in una pentola. Versate l'acqua e aggiungete lo scalogno sbucciato e tagliato a metà, la carota pelata e tagliata a metà e un bel pizzico di sale.",
+      "Aggiungete una foglia di alloro e lasciate cuocere a fiamma media per circa un'ora dal bollore. Intanto pulite le cicorie eliminando i gambi più duri e prelevando solo le foglie più tenere. Poi lavatele bene e immergetele in acqua bollente salata per pochi minuti.",
+      "Trasferite le cicorie in acqua e ghiaccio, poi scolatele per bene. Intanto in un tegame rosolate uno spicchio d'aglio, insieme a un peperoncino con un filo d'olio. Unite le cicorie ben scolate.",
+      "Rosolatele per qualche minuto, poi eliminate aglio e peperoncino. Preparate la mollica: in un mixer versate il pane senza glutine a pezzi e le erbe aromatiche.",
+      "Frullate il tutto, poi aggiungete un pizzico di sale e un filo d'olio; dovrete ottenere un composto molto umido. Saltate il composto in padella, sino a che non sarà completamente asciutto così da formare delle briciole croccanti.",
+      "Quando le fave sono cotte eliminate alloro e carote; poi frullate con un mixer a immersione per ridurle in crema.",
+      "Cuocete la pasta in abbondante acqua salata bollente. Intanto scaldate di nuovo le cicorie, poi tenetene qualcuna da parte per la decorazione e versate all'interno della padella la crema di fave 21.",
+      "Scolate la pasta al dente e trasferitela in padella 22 , poi saltate il tutto per amalgamare bene 23 e impiattate. Aggiungete sopra un po' di cicoria e abbondante mollica. La vostra pasta con crema di fave e cicoria è pronta per essere servita 24 !"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:51.819213+00:00"
   },
   {
     "id": 164437232850372,
@@ -56057,7 +57515,45 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/194/19401/19401_pasta_con_crema_ceci_e_rucola_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/194/19401/19401_pasta_con_crema_ceci_e_rucola_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/194/19401/19401_pasta_con_crema_ceci_e_rucola_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/194/19401/19401_pasta_crema_ceci_senza_pack_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/194/19401/19401_pasta_ceci_ok_e_rucola_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/194/19401/19401_pasta_ceci_ok_e_rucola_strip_16-18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con crema di ceci e rucola, mettete a bollire un tegame con acqua e a bollore salate. Passate alla crema di ceci: scaldate un filo d’olio in una casseruola 1 . Sfogliate il porro e tagliatelo a rondelle sottili; versatelo nella casseruola 2 , quindi scolate e unite i ceci precotti 3 . Salate a piacere e fate soffriggere il tutto per circa 5 minuti, mescolando spesso.",
+      "Una volta che il porro si sarà ammorbidito, spegnete il fuoco e unite le foglie di basilico 4 , mescolate e pepate a piacere 5 . Versate il condimento ai ceci in un contenitore alto 6 ,",
+      "unite il Parmigiano grattugiato 7 insieme all’olio 8 e frullate con un mixer a immersione 9 .",
+      "Per ottenere un composto sufficientemente cremoso 10 , se necessario, potete aggiungere uno o due cucchiai di acqua calda per diluire maggiormente la crema in fase di lavorazione. Cuocete la pasta per il tempo riportato sulla confezione 11 ; nel frattempo, nella stessa casseruola dove avete cotto i ceci, versate un filo d’olio e aggiungete la rucola 12 .",
+      "Fate appassire la rucola per qualche minuto, aiutandovi con un mestolo di acqua di cottura della pasta 13 . Una volta appassita la rucola, unite la crema di ceci 14 e altre foglioline di basilico 15 .",
+      "Scolate la pasta al dente direttamente in casseruola 16 . Mescolate per bene mantecando qualche istante 17 e servite la vostra pasta con crema di ceci e rucola ben calda 18 , se preferite con un filo d’olio a crudo e una grattata di pepe nero a piacere."
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con crema di ceci e rucola, mettete a bollire un tegame con acqua e a bollore salate. Passate alla crema di ceci: scaldate un filo d’olio in una casseruola. Sfogliate il porro e tagliatelo a rondelle sottili; versatelo nella casseruola, quindi scolate e unite i ceci precotti. Salate a piacere e fate soffriggere il tutto per circa 5 minuti, mescolando spesso.",
+      "Una volta che il porro si sarà ammorbidito, spegnete il fuoco e unite le foglie di basilico, mescolate e pepate a piacere. Versate il condimento ai ceci in un contenitore alto,",
+      "unite il Parmigiano grattugiato insieme all’olio e frullate con un mixer a immersione.",
+      "Per ottenere un composto sufficientemente cremoso, se necessario, potete aggiungere uno o due cucchiai di acqua calda per diluire maggiormente la crema in fase di lavorazione. Cuocete la pasta per il tempo riportato sulla confezione; nel frattempo, nella stessa casseruola dove avete cotto i ceci, versate un filo d’olio e aggiungete la rucola.",
+      "Fate appassire la rucola per qualche minuto, aiutandovi con un mestolo di acqua di cottura della pasta. Una volta appassita la rucola, unite la crema di ceci e altre foglioline di basilico.",
+      "Scolate la pasta al dente direttamente in casseruola. Mescolate per bene mantecando qualche istante e servite la vostra pasta con crema di ceci e rucola ben calda, se preferite con un filo d’olio a crudo e una grattata di pepe nero a piacere."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:49.017109+00:00"
   },
   {
     "id": 181187097912192,
@@ -56729,7 +58225,57 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/363/36315/pasta-con-crema-di-ceci-e-peperoni_18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con crema di ceci e peperoni cominciate dalla crema di ceci. In una padella fate scaldare un filo d’olio extravergine d’oliva e fate imbiondire due spicchi d’aglio scamiciati 1 . Unite i ceci ben scolati 2 , aggiustate di sale 3 e pepe e versate acqua fino a coprirli appena, senza eccedere.",
+      "Fate cuocere a fuoco medio per circa 10 minuti, quindi eliminate gli spicchi d’aglio 4 . Trasferite i ceci nel bicchiere di un mixer a immersione 5 e frullate fino a ottenere una crema liscia e omogenea 6 . Tenetela da parte.",
+      "Nel frattempo pulite i peperoni: eliminate il picciolo e i filamenti interni, quindi tagliate a cubetti di circa 1 cm i peperoni rossi 7 e gialli 8 . Nella stessa padella fate scaldare un filo d’olio e unite i peperoni 9 .",
+      "Salate 10 e lasciateli cuocere a fuoco medio per circa 10 minuti, mescolando di tanto in tanto 11 . Portate a ebollizione abbondante acqua salata e lessate i rigatoni 12 .",
+      "Quando saranno al dente, scolateli direttamente nella padella con i peperoni 13 . Aggiungete quindi la crema di ceci preparata in precedenza 14 . Completate con il succo di limone 15 .",
+      "Profumate con la scorza di limone 16 e, se necessario, unite qualche cucchiaio di acqua di cottura della pasta per rendere il condimento più cremoso. Fate saltare i rigatoni fino a ottenere un condimento avvolgente e ben amalgamato 17 . Distribuite la pasta con crema di ceci e peperoni nei piatti 18 e servite subito, completando a piacere con erba cipollina fresca tritata."
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con crema di ceci e peperoni cominciate dalla crema di ceci. In una padella fate scaldare un filo d’olio extravergine d’oliva e fate imbiondire due spicchi d’aglio scamiciati. Unite i ceci ben scolati, aggiustate di sale e pepe e versate acqua fino a coprirli appena, senza eccedere.",
+      "Fate cuocere a fuoco medio per circa 10 minuti, quindi eliminate gli spicchi d’aglio. Trasferite i ceci nel bicchiere di un mixer a immersione e frullate fino a ottenere una crema liscia e omogenea. Tenetela da parte.",
+      "Nel frattempo pulite i peperoni: eliminate il picciolo e i filamenti interni, quindi tagliate a cubetti di circa 1 cm i peperoni rossi e gialli. Nella stessa padella fate scaldare un filo d’olio e unite i peperoni.",
+      "Salate e lasciateli cuocere a fuoco medio per circa 10 minuti, mescolando di tanto in tanto. Portate a ebollizione abbondante acqua salata e lessate i rigatoni.",
+      "Quando saranno al dente, scolateli direttamente nella padella con i peperoni. Aggiungete quindi la crema di ceci preparata in precedenza. Completate con il succo di limone.",
+      "Profumate con la scorza di limone e, se necessario, unite qualche cucchiaio di acqua di cottura della pasta per rendere il condimento più cremoso. Fate saltare i rigatoni fino a ottenere un condimento avvolgente e ben amalgamato. Distribuite la pasta con crema di ceci e peperoni nei piatti e servite subito, completando a piacere con erba cipollina fresca tritata."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:33:46.323014+00:00"
   },
   {
     "id": 114012434629898,

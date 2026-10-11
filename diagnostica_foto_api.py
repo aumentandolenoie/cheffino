@@ -3,6 +3,7 @@ import argparse
 from collections import Counter
 import time
 from app.public_catalog import public_catalog
+from app.photo_policy import certified_source_absence
 from audit_immagini import probe, safe_image_url
 
 
@@ -13,8 +14,10 @@ def report(limit=12, online=False, offset=0, delay=0):
                isinstance(r.get("ingredients"), list) and r.get("ingredients")]
     no_url = [r for r in visible if not r.get("image_url")]
     without_steps = [r for r in visible if not any(isinstance(g,list) and g for g in (r.get("step_images") or []))]
+    unverified_missing = [r for r in without_steps if not certified_source_absence(r)]
+    certified_missing = [r for r in without_steps if certified_source_absence(r)]
     wrong_url = [r for r in visible if r.get("image_url") and not safe_image_url(r.get("image_url"))]
-    print(f"API: totali={len(rows)}; disponibili={len(visible)}; senza_URL={len(no_url)}; URL_fuori_dominio={len(wrong_url)}; senza_foto_passaggi={len(without_steps)}")
+    print(f"API: totali={len(rows)}; disponibili={len(visible)}; senza_URL={len(no_url)}; URL_fuori_dominio={len(wrong_url)}; senza_foto_passaggi={len(without_steps)}; senza_foto_fonte_verificata={len(certified_missing)}; senza_foto_non_verificate={len(unverified_missing)}")
     for rec in no_url:
         print(f"SENZA COPERTINA: {rec.get('name')} | id={rec.get('id')} | fonte={rec.get('url')}")
     for rec in wrong_url:

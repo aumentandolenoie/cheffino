@@ -45505,7 +45505,45 @@
       "validation_version": 1
     },
     "images_import_version": 10,
-    "step_images_checked_at": "2026-10-11T13:53:50.870725+00:00"
+    "step_images_checked_at": "2026-10-11T13:53:50.870725+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburger_alle_erbe_panino_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburger_alle_erbe_panino_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburger_alle_erbe_panino_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburger_alle_erbe_panino_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburger_alle_erbe_panino_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburger_alle_erbe_panino_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburger_alle_erbe_ripieno_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburgere_alle_erbe_ripieno_2_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburgere_alle_erbe_ripieno_2_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburgere_alle_erbe_ripieno_2_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburger_erbe_no_brand_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburger_erbe_no_brand_strip_16-18.jpg"
+      ]
+    ]
   },
   {
     "id": 6749092888902,

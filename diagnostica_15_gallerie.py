@@ -71,7 +71,9 @@ def diagnose(online=False):
             causes[category] += 1
             print("DIAGNOSI:",category,"|",info,
                   f"| foto_numerate={len(parser.photos)} strip={len(parser.strips)}"
-                  f" | passi_fonte={len(raw)} somiglianze={matches} metodo={method}",
+                  f" | passi_fonte={len(raw)} somiglianze={matches} metodo={method}"
+                  f" | strip_intervalli={sorted(set((x,y) for x,y,_ in parser.strips))[:35]}"
+                  f" | numeri_foto={sorted(parser.photos)[:35]}",
                   flush=True)
         except Exception as exc:
             causes["errore_fonte"] += 1

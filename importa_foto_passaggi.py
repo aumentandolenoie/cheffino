@@ -242,7 +242,8 @@ def should_recheck(rec, now=None, retry_days=7):
         return True
 
 
-def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=None, retry_days=7):
+def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=None, retry_days=7,
+        published_only=False, force=False, published_path=Path('data/catalogo_pubblicato.json')):
     path = Path(catalog_path)
     catalog = json.loads(path.read_text(encoding='utf-8'))
     if not isinstance(catalog, list):
@@ -250,9 +251,21 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
     if policy is None:
         policy = robots_policy()
 
+    published = None
+    if published_only:
+        published_file = Path(published_path)
+        if not published_file.exists():
+            raise ValueError('Catalogo pubblicato assente: non eseguo recupero generico')
+        published_data = json.loads(published_file.read_text(encoding='utf-8'))
+        if not isinstance(published_data, list):
+            raise ValueError('Catalogo pubblicato non valido')
+        published = {(r.get('id'), r.get('url')) for r in published_data if isinstance(r, dict)}
+
     pending = [r for r in catalog if r.get('source') == 'GialloZafferano' and
                r.get('url') and r.get('steps') and
-               should_recheck(r, retry_days=retry_days)]
+               (published is None or (r.get('id'), r.get('url')) in published) and
+               (missing_photos(r) if force and published_only else
+                should_recheck(r, retry_days=retry_days))]
     # Copertine mancanti prima di gallerie mancanti, poi ricette già pubblicate.
     pending.sort(key=lambda r: (bool(valid_image(r.get('image_url'), r.get('url') or BASE)),
                                 not missing_photos(r),
@@ -340,6 +353,9 @@ if __name__ == '__main__':
     cli.add_argument('--limit', type=int, default=25)
     cli.add_argument('--delay', type=float, default=2.5)
     cli.add_argument('--retry-days', type=int, default=7)
+    cli.add_argument('--published-only', action='store_true', help='Controlla solo schede gia pubblicate')
+    cli.add_argument('--force', action='store_true', help='Ritenta immediatamente le schede incomplete pubblicate')
     args = cli.parse_args()
     if args.retry_days < 1: cli.error('--retry-days deve essere >= 1')
-    run(limit=args.limit, delay=args.delay, retry_days=args.retry_days)
+    run(limit=args.limit, delay=args.delay, retry_days=args.retry_days,
+        published_only=args.published_only, force=args.force)

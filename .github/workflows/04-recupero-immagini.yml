@@ -23,7 +23,7 @@ jobs:
       - name: Controlla e recupera foto originali
         run: |
           python controlla_integrita_catalogo.py --apply
-          python importa_foto_passaggi.py --limit 35 --delay 2.5 --retry-days 7
+          python importa_foto_passaggi.py --limit 35 --delay 2.5 --retry-days 7 --published-only --force
           python controlla_integrita_catalogo.py --apply
           python audit_immagini.py --limit 10 > /tmp/cheffino-audit-immagini.log
           tail -n 1 /tmp/cheffino-audit-immagini.log

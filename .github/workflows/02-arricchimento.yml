@@ -1,7 +1,5 @@
 name: "Cheffino 02 - Arricchimento"
 on:
-  schedule:
-    - cron: '15 8 * * 2,4'
   workflow_dispatch:
 permissions:
   contents: write

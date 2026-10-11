@@ -42,3 +42,21 @@ Disattivare la schedulazione del vecchio workflow `aggiorna-catalogo.yml`
 nella cartella `.github/workflows/`; eseguire la prova completa dei tre
 workflow e confrontare lo snapshot con il catalogo corrente; solo dopo
 migrare il backend allo snapshot verificato. Non eliminare i dati storici.
+
+## Collaudo in sola lettura sul catalogo reale (11 ottobre 2026)
+Eseguito via workflow di test della pull request, senza alterare main o Render:
+- 21 test Python superati, compilazione Python riuscita.
+- 388 schede totali; 132 visibili nel catalogo corrente.
+- 132 schede nello snapshot candidato; 0 perdite e 0 aggiunte.
+- 256 schede restano in revisione, senza pubblicazione forzata.
+- Audit offline: 185 schede senza foto passaggi; 8 senza copertina;
+  1 con URL copertina non ammesso.
+- Primo collaudo aveva rilevato 8 schede storiche prive di copertina
+  che sarebbero scomparse. Compatibilità corretta e protezione testata:
+  queste schede restano visibili, mentre le nuove importazioni
+  approvate devono avere almeno un URL HTTPS per la copertina.
+
+**Non sono ancora state testate le tre esecuzioni complete con rete.**
+Lo snapshot in CI si trova solo nella directory temporanea del runner e
+non è stato attivato dal backend. I controlli HTTP sulla raggiungibilità
+delle copertine non sono stati eseguiti in questa prova offline.

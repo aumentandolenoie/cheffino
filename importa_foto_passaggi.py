@@ -1,6 +1,6 @@
 """Arricchisce il catalogo Cheffino con immagini ORIGINALI indicate dalle pagine GialloZafferano.
 
-Versione 9:
+Versione 10:
 - recupera l'immagine principale da JSON-LD Recipe e, se assente, da og:image.
 - continua a supportare foto numerate classiche (alt 'Titolo ricetta - N').
 - aggiunge il supporto ai file 'strip_1-3.jpg' / 'strip_4-6.jpg' ecc.,
@@ -27,7 +27,7 @@ from pulisci_procedimenti import clean_steps, candidates
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
-IMAGE_VERSION = 9
+IMAGE_VERSION = 10
 
 
 def normalize(s):
@@ -145,13 +145,22 @@ def associate_numbered(parser, source_steps, count):
     keys = sorted(photo)
     if source_steps:
         hits = candidates(source_steps)
-        if hits and [h[3] for h in hits] == list(range(1, len(hits) + 1)):
+        selected = [(idx, n) for idx, _a, _b, n in hits if n in photo]
+        numbers = [n for _idx, n in selected]
+        # La fonte puo' omettere immagini numerate; non inventiamo le mancanti.
+        # Occorre una mappatura crescente, senza duplicati e con copertura
+        # significativa per escludere falsi positivi (es. quantita').
+        if (len(selected) >= 3 and
+                numbers == sorted(set(numbers)) and
+                all(0 <= idx < count for idx, _n in selected) and
+                len(selected) >= max(3, int(len(photo) * 0.70))):
             blocks = [[] for _ in range(count)]
-            for idx, _a, _b, num in hits:
-                if num in photo:
-                    blocks[idx].append(photo[num])
+            for idx, num in selected:
+                blocks[idx].append(photo[num])
             if any(blocks):
                 return blocks
+    # Solo procedimenti con un'immagine per blocco oppure triplette perfette
+    # consentono l'abbinamento posizionale.
     if keys == list(range(1, len(keys) + 1)):
         if len(keys) == count:
             return [[photo[i + 1]] for i in range(count)]
@@ -160,39 +169,44 @@ def associate_numbered(parser, source_steps, count):
     return []
 
 
-
 def associate_strips(parser, source_steps, count):
-    """Ogni strip 1-3 e' un'immagine composta che appartiene a UN blocco di testo.
+    """Abbina soltanto strisce con intervalli numerici certificabili.
 
-    Se esistono numeri nel testo, accertiamo che i tre riferimenti appartengano
-    tutti allo stesso blocco. In alternativa richiediamo che le strip siano
-    complete e ordinate: una per blocco, senza buchi o sovrapposizioni.
+    GZ può includere più formati (JPEG/WebP o risoluzioni) di una
+    stessa strip: scegliamo un solo URL per intervallo, senza
+    richiedere tutte le strisce della procedura.
     """
-    strips = sorted(set(parser.strips), key=lambda x: (x[0], x[1], x[2]))
+    strips_by_range = {}
+    for start, end, url in sorted(parser.strips, key=lambda x: (x[0],x[1],x[2])):
+        if 1 <= start <= end <= 120 and end - start <= 2:
+            strips_by_range.setdefault((start, end), url)
+    strips = [(a,b,u) for (a,b),u in sorted(strips_by_range.items())]
     if not strips or count < 1:
         return []
     ref_step = {}
     if source_steps:
         hits = candidates(source_steps)
         numbers = [h[3] for h in hits]
-        if numbers == list(range(1, len(numbers) + 1)):
+        if len(numbers) >= 3 and numbers == sorted(set(numbers)):
             ref_step = {number: step for step, _a, _b, number in hits}
     blocks = [[] for _ in range(count)]
     if ref_step:
         for start, end, url in strips:
             matched = {ref_step.get(n) for n in range(start, end + 1)}
             if None in matched or len(matched) != 1:
-                return []
+                continue
             idx = matched.pop()
-            if not 0 <= idx < count or blocks[idx]:
-                return []
-            blocks[idx].append(url)
-        return blocks if any(blocks) else []
+            if 0 <= idx < count and not blocks[idx]:
+                blocks[idx].append(url)
+        if any(blocks):
+            return blocks
+    # In assenza di riferimenti numerici affidabili, soltanto la
+    # copertura continua di un gruppo per ciascun blocco e' sicura.
     if len(strips) != count:
         return []
     next_no = 1
     for idx, (start, end, url) in enumerate(strips):
-        if start != next_no or end < start or end - start > 2:
+        if start != next_no:
             return []
         blocks[idx].append(url)
         next_no = end + 1
@@ -356,7 +370,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
         if delay:
             time.sleep(delay)
 
-    print(f'Immagini v9: controllate={checked}; foto_principali_aggiunte={main_added}; '
+    print(f'Immagini v10: controllate={checked}; foto_principali_aggiunte={main_added}; '
           f'ricette_con_foto_passaggi_aggiunte={step_added}; con_strip={strips_used}; '
           f'con_numerate={numbered_used}; senza_abbinamento={no_match}; '
           f'bloccate={blocked}; errori={errors}; rimanenti={max(0, len(pending) - checked)}', flush=True)

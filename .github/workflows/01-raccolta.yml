@@ -1,7 +1,5 @@
 name: "Cheffino 01 - Raccolta fonti"
 on:
-  schedule:
-    - cron: '15 7 * * 1'
   workflow_dispatch:
 permissions:
   contents: write

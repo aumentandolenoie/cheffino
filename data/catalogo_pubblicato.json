@@ -245,6 +245,85 @@
     ]
   },
   {
+    "id": 5,
+    "name": "Pasta al pomodoro e basilico",
+    "emoji": "🍅",
+    "style": "Classici italiani",
+    "type": "Primo",
+    "time": 35,
+    "ingredients_display": [
+      "Pasta",
+      "Polpa di pomodoro",
+      "Basilico",
+      "Aglio",
+      "Olio d’oliva"
+    ],
+    "source": "GialloZafferano Blog — Allacciate il grembiule",
+    "url": "https://blog.giallozafferano.it/allacciateilgrembiule/pasta-pomodoro-basilico/",
+    "image_url": "https://blog.giallozafferano.it/allacciateilgrembiule/wp-content/uploads/2026/05/pasta-pomodoro-e-basilico3-720x480.jpg",
+    "servings": 4,
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fats": null,
+    "cost": "Economico",
+    "ingredients": [
+      [
+        "Pasta",
+        360,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        200,
+        "g"
+      ],
+      [
+        "Polpa di pomodoro",
+        200,
+        "ml"
+      ],
+      [
+        "Olio extravergine di oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Basilico",
+        5,
+        "foglie"
+      ],
+      [
+        "Aglio",
+        1,
+        "spicchio"
+      ]
+    ],
+    "steps": [
+      "Taglia i pomodorini e cuocili in padella con olio extravergine d'oliva e aglio.",
+      "Dopo qualche minuto aggiungi la polpa di pomodoro e il basilico; prosegui la cottura del sugo.",
+      "Cuoci la pasta in acqua salata, scolala al dente nel sugo, saltala con poca acqua di cottura e servi con basilico fresco."
+    ],
+    "steps_precedenti": [
+      "Dividi i pomodorini e mettili in padella con aglio e un filo d’olio.",
+      "Cuoci i pomodorini per 5–10 minuti; aggiungi polpa di pomodoro e basilico e prosegui per circa 10 minuti.",
+      "Lessa la pasta in acqua salata e scolala al dente.",
+      "Salta la pasta nel sugo con poca acqua di cottura e completa con basilico fresco."
+    ],
+    "step_images": [
+      [
+        "https://blog.giallozafferano.it/allacciateilgrembiule/wp-content/uploads/2026/05/pasta-pomodoro-basilico-2-720x184.jpg"
+      ],
+      [
+        "https://blog.giallozafferano.it/allacciateilgrembiule/wp-content/uploads/2026/05/pasta-pomodoro-basilico-3-720x184.jpg"
+      ],
+      [
+        "https://blog.giallozafferano.it/allacciateilgrembiule/wp-content/uploads/2026/05/pasta-pomodoro-basilico-4-720x184.jpg"
+      ]
+    ],
+    "images_import_version": 10
+  },
+  {
     "id": 24,
     "name": "Pasta e ceci cremosa",
     "emoji": "🍲",

@@ -26,8 +26,9 @@ jobs:
           python classifica_catalogo.py
           python valida_catalogo.py
           python controlla_integrita_catalogo.py
+          if [ -f data/catalogo_pubblicato.json ]; then cp data/catalogo_pubblicato.json /tmp/cheffino_snapshot_precedente.json; fi
           python pubblica_catalogo.py
-          python verifica_snapshot.py
+          python verifica_snapshot.py --previous /tmp/cheffino_snapshot_precedente.json
           python -m json.tool data/catalogo_pubblicato.json > /dev/null
       - name: Salva snapshot pubblicato
         run: |

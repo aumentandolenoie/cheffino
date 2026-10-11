@@ -1,0 +1,39 @@
+name: "Cheffino 05 - Ripristino copertina storica"
+on:
+  push:
+    paths:
+      - '.github/workflows/05-copertina-storica.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cheffino-catalogo-scrittura
+  cancel-in-progress: false
+jobs:
+  ripristino:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verifica fotografia originale e correggi entrambi i cataloghi
+        run: |
+          python ripara_foto_storica.py
+          python diagnostica_foto_api.py
+          python -m json.tool data/catalogo.json > /dev/null
+          python -m json.tool data/catalogo_pubblicato.json > /dev/null
+      - name: Salva correzione verificata
+        run: |
+          if git diff --quiet -- data/catalogo.json data/catalogo_pubblicato.json; then
+            echo 'Nessuna correzione necessaria.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/catalogo.json data/catalogo_pubblicato.json
+          git commit -m 'Catalogo: ripristina copertina originale ricetta storica'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

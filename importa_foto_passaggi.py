@@ -1,6 +1,6 @@
 """Arricchisce il catalogo Cheffino con immagini ORIGINALI indicate dalle pagine GialloZafferano.
 
-Versione 10:
+Versione 11:
 - recupera l'immagine principale da JSON-LD Recipe e, se assente, da og:image.
 - continua a supportare foto numerate classiche (alt 'Titolo ricetta - N').
 - aggiunge il supporto ai file 'strip_1-3.jpg' / 'strip_4-6.jpg' ecc.,
@@ -27,7 +27,7 @@ from pulisci_procedimenti import clean_steps, candidates
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
-IMAGE_VERSION = 10
+IMAGE_VERSION = 11
 
 
 def normalize(s):
@@ -191,6 +191,20 @@ def associate_strips(parser, source_steps, count):
             ref_step = {number: step for step, _a, _b, number in hits}
     blocks = [[] for _ in range(count)]
     if ref_step:
+        # Riferimenti che attraversano più blocchi: ad es. foto 1 e 2
+        # nel primo passaggio, foto 3 nel secondo. Una strip e' composta
+        # da parti separate: memorizziamo il ritaglio #part=N per
+        # collocare *solo* quella parte nel blocco giusto.
+        available = {n for a,b,_ in strips for n in range(a,b+1)}
+        covered = available.intersection(ref_step)
+        if len(covered) >= 3 and len(covered) >= len(available)*0.7:
+            for start,end,url in strips:
+                for n in range(start,end+1):
+                    step = ref_step.get(n)
+                    if step is not None and 0 <= step < count:
+                        blocks[step].append(url + "#part=" + str(n-start))
+            if any(blocks):
+                return blocks
         for start, end, url in strips:
             matched = {ref_step.get(n) for n in range(start, end + 1)}
             if None in matched or len(matched) != 1:
@@ -370,7 +384,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
         if delay:
             time.sleep(delay)
 
-    print(f'Immagini v10: controllate={checked}; foto_principali_aggiunte={main_added}; '
+    print(f'Immagini v11: controllate={checked}; foto_principali_aggiunte={main_added}; '
           f'ricette_con_foto_passaggi_aggiunte={step_added}; con_strip={strips_used}; '
           f'con_numerate={numbered_used}; senza_abbinamento={no_match}; '
           f'bloccate={blocked}; errori={errors}; rimanenti={max(0, len(pending) - checked)}', flush=True)

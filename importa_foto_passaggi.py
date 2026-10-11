@@ -23,6 +23,7 @@ from urllib.robotparser import RobotFileParser
 
 from app.catalog import parse_recipe
 from pulisci_procedimenti import clean_steps, candidates
+from app.photo_policy import certified_source_absence
 
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
@@ -289,9 +290,19 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
         if not isinstance(published_data, list):
             raise ValueError('Catalogo pubblicato non valido')
         published = {(r.get('id'), r.get('url')) for r in published_data if isinstance(r, dict)}
+        # Non abbandonare le schede sospese: continuano a essere il nostro
+        # obiettivo di recupero, senza toccare le altre ricette in revisione.
+        review_manifest = Path('data/revisioni_foto_pubblicazione.json')
+        if review_manifest.exists():
+            review_items = json.loads(review_manifest.read_text(encoding='utf-8'))
+            if not isinstance(review_items, list):
+                raise ValueError('Manifest revisione foto non valido')
+            published.update((r.get('id'),r.get('url')) for r in review_items
+                             if isinstance(r,dict) and r.get('id') is not None and r.get('url'))
 
     pending = [r for r in catalog if r.get('source') == 'GialloZafferano' and
                r.get('url') and r.get('steps') and
+               not certified_source_absence(r) and
                (published is None or (r.get('id'), r.get('url')) in published) and
                (missing_photos(r) if force and published_only else
                 should_recheck(r, retry_days=retry_days))]

@@ -28,6 +28,7 @@ jobs:
           python controlla_integrita_catalogo.py --apply
           python importa_foto_passaggi.py --limit 40 --delay 2.5
           python controlla_integrita_catalogo.py --apply
+          python audit_immagini.py --online --limit 12
           python classifica_catalogo.py
           python diagnostica_quantita.py --limit 20
           python verifica_catalogo.py

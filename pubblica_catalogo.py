@@ -11,6 +11,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 from controlla_integrita_catalogo import image_id
+from app.photo_policy import publishable_step_photos
 
 SOURCE = Path("data/catalogo.json")
 TARGET = Path("data/catalogo_pubblicato.json")
@@ -44,6 +45,8 @@ def eligible(rec):
                     step_id = image_id(url)
                     if step_id and step_id != cover_id:
                         return False, "foto_di_altra_ricetta"
+    if not publishable_step_photos(rec):
+        return False, "foto_passaggi_non_verificate"
     return True, "ok"
 
 

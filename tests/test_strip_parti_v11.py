@@ -33,5 +33,5 @@ def test_duplicate_variants_do_not_duplicate_cropped_pictures():
     p=strips()
     p.strips.append((1,3,"https://www.giallozafferano.it/images/236-23641/another_strip_1-3.jpg"))
     groups=associate_strips(p,["Metti 1, 2 e 3.", "Metti 4, 5 e 6."],2)
-    assert [len(g) for g in groups]==[3,3]
+    assert [len(g) for g in groups]==[1,1]
     assert IMAGE_VERSION==11

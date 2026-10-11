@@ -31,6 +31,9 @@ jobs:
           python valida_catalogo.py
           python certifica_assenza_foto_fonte.py --apply --auto --limit 10 --delay 2.5
           python controlla_integrita_catalogo.py
+          # La galleria puo' mancare davvero nella fonte. Certifichiamo
+          # esclusivamente i casi con riscontri verificabili prima di pubblicare.
+          python certifica_assenza_foto_fonte.py --auto --apply --limit 10 --delay 2.5
           if [ -f data/catalogo_pubblicato.json ]; then cp data/catalogo_pubblicato.json /tmp/cheffino_snapshot_precedente.json; fi
           python pubblica_catalogo.py
           python verifica_snapshot.py --previous /tmp/cheffino_snapshot_precedente.json --approved-photo-review data/revisioni_foto_pubblicazione.json

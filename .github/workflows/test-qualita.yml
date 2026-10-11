@@ -60,6 +60,8 @@ jobs:
           python pubblica_catalogo.py --target /tmp/catalogo_pubblicato_test.json
           python verifica_snapshot.py --snapshot /tmp/catalogo_pubblicato_test.json --approved-photo-review data/revisioni_foto_pubblicazione.json
           python -m json.tool /tmp/catalogo_pubblicato_test.json > /dev/null
+      - name: Diagnosi delle quattro schede residue (senza modificare dati)
+        run: python diagnostica_ultime_quattro.py
       - name: Conferma foto storica dal sito originale (sola lettura)
         run: python ripara_foto_storica.py --dry-run
       - name: Simula ripristino dei procedimenti originali pubblicati (sola lettura)

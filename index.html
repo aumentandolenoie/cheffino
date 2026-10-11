@@ -292,7 +292,12 @@ function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;genera
 function showRecipe(id){const r=getRecipe(id),d=recipeDetailData(r),people=peopleCount();
  const metric=(title,val)=>`<div class="detailmetric"><span>${title}</span><b>${val}</b></div>`;
  const mac=(klass,title,key)=>`<div class="detailmacro ${klass}"><span>${title}</span><b>${typeof d?.[key]==='number'?d[key].toLocaleString('it-IT')+' g':'n.d.'}</b></div>`;
- const steps=d?`<ol class="detailsteps">${d.steps.map((x,i)=>{const imgs=Array.isArray(d.stepImages?.[i])?d.stepImages[i]:[];const prev=Array.isArray(d.stepImages?.[i-1])?d.stepImages[i-1]:null;const repeated=prev&&JSON.stringify(prev)===JSON.stringify(imgs);return `<li><div>${safe(x)}</div>${imgs.length&&!repeated?`<div class="step-photo-grid">${imgs.map((url,j)=>`<img src="${safe(url)}" alt="${safe(r.name)} - foto passaggio ${i+1}.${j+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`).join('')}</div>`:''}</li>`}).join('')}</ol>`:'<p class="hint">Procedimento non ancora verificato per questa ricetta. Nessun passaggio viene inventato.</p>';
+ const steps=d?`<ol class="detailsteps">${d.steps.map((x,i)=>{
+   const images=Array.isArray(d.stepImages?.[i])?[...new Set(d.stepImages[i])]:[];
+   return `<li><div>${safe(x)}</div>${images.length?`<div class="step-photo-grid">${images.map((url,j)=>
+     `<img src="${safe(url)}" alt="${safe(r.name)} - foto passaggio ${i+1}.${j+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer" style="aspect-ratio:auto;object-fit:contain;height:auto" onerror="this.remove()">`).join('')}</div>`:''}</li>`;
+ }).join('')}</ol>`:'<p class="hint">Procedimento non ancora verificato per questa ricetta. Nessun passaggio viene inventato.</p>';
+
  modal(`<div class="modalhead"><h2 style="margin:0">${safe(r.name)}</h2><button class="close" onclick="closeModal()">✕</button></div>
  <div class="detailhero">${d?.image?`<img src="${safe(d.image)}" alt="${safe(r.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.nextElementSibling.style.display='block'">`:''}<span class="foodart" style="${d?.image?'display:none':''}">${r.emoji}</span>${!d?.image?'<small>Foto non ancora verificata</small>':''}</div>
  <div class="detailmetrics">${metric('Persone',people)}${metric('Tempo',d?.minutes?d.minutes+' min':'n.d.')}${metric('Calorie',d?.kcal?d.kcal+' kcal/porz.':'n.d.')}${metric('Costo',d?.cost||'n.d.')}</div>
@@ -370,7 +375,7 @@ async function caricaCatalogoServer(){
    sourcedDetails[entry.id]={source:entry.source,url:entry.url,
     servings:entry.servings||null,minutes:entry.time??null,kcal:entry.kcal??null,
     cost:entry.cost??null,protein:entry.protein??null,carbs:entry.carbs??null,fats:entry.fats??null,
-    image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps,stepImages:entry.step_images||[]};
+    image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps,stepImages:entry.step_images_display||entry.step_images||[]};
   }
   // Elimina solo i riferimenti a vecchie demo ormai inesistenti.
   const validIds=new Set(recipeData.map(x=>x.id));
@@ -396,3 +401,4 @@ render();
 caricaCatalogoServer();
 
 </script></body></html>
+

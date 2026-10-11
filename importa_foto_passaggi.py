@@ -1,13 +1,7 @@
-"""Arricchisce il catalogo Cheffino con immagini ORIGINALI indicate dalle pagine GialloZafferano.
+"""One media pipeline: source-owned blocks, legacy fallback, conservative merge.
 
-Versione 10:
-- recupera l'immagine principale da JSON-LD Recipe e, se assente, da og:image.
-- continua a supportare foto numerate classiche (alt 'Titolo ricetta - N').
-- aggiunge il supporto ai file 'strip_1-3.jpg' / 'strip_4-6.jpg' ecc.,
-  frequenti su GialloZafferano, associando la stessa striscia ai passaggi coperti.
-  Il frontend evita di mostrarla in duplicato sui passaggi consecutivi.
-- ritenta schede precedentemente controllate senza immagini o con versioni precedenti.
-- non cambia ingredienti, procedimenti, classificazioni o approvazioni.
+Run --dry-run --report report.json to compare without writing. Existing
+verified galleries are retained; unknown extraction never proves absence.
 """
 import argparse
 from difflib import SequenceMatcher
@@ -28,7 +22,7 @@ from app.photo_policy import certified_source_absence
 CATALOG = Path('data/catalogo.json')
 BASE = 'https://ricette.giallozafferano.it'
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
-IMAGE_VERSION = 10
+IMAGE_VERSION = 11
 
 
 def normalize(s):
@@ -226,8 +220,27 @@ def associate_steps(parser, source_steps, count):
 
 
 def robots_policy():
-    req = Request(BASE + '/robots.txt', headers={'User-Agent': UA})
+    return SourcePolicies()
+
+
+class SourcePolicies:
+    def __init__(self):
+        self.policies = {}
+
+    def can_fetch(self, agent, url):
+        host = urlparse(url).hostname
+        if host not in ('ricette.giallozafferano.it', 'blog.giallozafferano.it'):
+            return False
+        if host not in self.policies:
+            self.policies[host] = read_robots('https://' + host)
+        return self.policies[host].can_fetch(agent, url)
+
+
+def read_robots(origin):
+    req = Request(origin + '/robots.txt', headers={'User-Agent': UA})
     with urlopen(req, timeout=25) as response:
+        if urlparse(response.geturl()).hostname != urlparse(origin).hostname:
+            raise ValueError('Redirect robots fuori fonte')
         raw = response.read(512001)
     if len(raw) > 512000:
         raise ValueError('robots.txt troppo grande')
@@ -240,7 +253,7 @@ def robots_policy():
 def fetch_html(url):
     req = Request(url, headers={'User-Agent': UA, 'Accept': 'text/html'})
     with urlopen(req, timeout=25) as response:
-        if urlparse(response.geturl()).hostname != 'ricette.giallozafferano.it':
+        if urlparse(response.geturl()).hostname != urlparse(url).hostname:
             raise ValueError('Redirect fuori dal dominio previsto')
         body = response.read(4_000_001)
     if len(body) > 4_000_000:
@@ -256,7 +269,7 @@ def missing_photos(rec):
 
 
 def should_recheck(rec, now=None, retry_days=7):
-    if rec.get('images_import_version', 0) < IMAGE_VERSION:
+    if rec.get('media_extraction_version', rec.get('images_import_version', 0)) < IMAGE_VERSION:
         return True
     if not missing_photos(rec):
         return False
@@ -273,7 +286,8 @@ def should_recheck(rec, now=None, retry_days=7):
 
 
 def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=None, retry_days=7,
-        published_only=False, force=False, published_path=Path('data/catalogo_pubblicato.json')):
+        published_only=False, force=False, published_path=Path('data/catalogo_pubblicato.json'),
+        dry_run=False, report_path=None, recipe_ids=None):
     path = Path(catalog_path)
     catalog = json.loads(path.read_text(encoding='utf-8'))
     if not isinstance(catalog, list):
@@ -300,13 +314,22 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
             published.update((r.get('id'),r.get('url')) for r in review_items
                              if isinstance(r,dict) and r.get('id') is not None and r.get('url'))
 
-    pending = [r for r in catalog if r.get('source') == 'GialloZafferano' and
+    pending = [r for r in catalog if 'giallozafferano' in str(r.get('source', '')).lower() and
                r.get('url') and r.get('steps') and
-               not certified_source_absence(r) and
+               (not certified_source_absence(r) or missing_photos(r) and not valid_image(r.get('image_url'), r.get('url'))) and
                (published is None or (r.get('id'), r.get('url')) in published) and
                (missing_photos(r) if force and published_only else
                 should_recheck(r, retry_days=retry_days))]
     # Copertine mancanti prima di gallerie mancanti, poi ricette già pubblicate.
+    if recipe_ids is not None:
+        wanted = set(recipe_ids)
+        # Explicit comparison includes verified records, but remains read-only.
+        if not dry_run:
+            raise ValueError('--recipe-id richiede --dry-run')
+        pending = [r for r in catalog if r.get('id') in wanted and r.get('url') and r.get('steps')
+                   and (published is None or (r.get('id'), r.get('url')) in published)]
+        if {r['id'] for r in pending} != wanted:
+            raise ValueError('ID richiesti assenti dal catalogo selezionato')
     pending.sort(key=lambda r: (bool(valid_image(r.get('image_url'), r.get('url') or BASE)),
                                 not missing_photos(r),
                                 not bool(r.get('validazione_automatica', {}).get('approved')),
@@ -315,76 +338,97 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
 
     checked = main_added = step_added = blocked = errors = no_match = 0
     strips_used = numbered_used = 0
+    report = []
     for rec in pending:
         if checked >= limit:
             break
         url = rec['url']
-        if urlparse(url).hostname != 'ricette.giallozafferano.it':
+        if urlparse(url).hostname not in ('ricette.giallozafferano.it', 'blog.giallozafferano.it'):
             continue
         if not policy.can_fetch(UA, url):
             blocked += 1
             continue
         try:
             html = fetcher(url)
-            parser = ImagesHTML(rec.get('name', ''), url)
-            parser.feed(html)
-            main = None
-            try:
-                main = valid_image(parse_recipe(html, url).get('image_url'), url)
-            except ValueError:
-                pass
-            main = main or parser.og_image
-            # Un valore presente ma fuori dal dominio immagini consentito non e' una copertina valida.
+            from app.recipe_media import extract_media
+            from app.photo_policy import has_step_gallery
+            from controlla_integrita_catalogo import image_id
+            media = extract_media(html, url, rec.get('name', ''), rec['steps'])
+            main = media['cover']
             if main and not valid_image(rec.get('image_url'), url):
                 rec['image_url'] = main
                 main_added += 1
-
-            if not rec.get('step_images') or any(re.search(r'[_-]strip[_-]?\d{1,3}-\d{1,3}\.', u, re.I) for group in (rec.get('step_images') or []) if isinstance(group, list) for u in group if isinstance(u, str)):
+            groups, method = media['groups'], media['method']
+            # Only fall back after the source recipe identity was established.
+            # Numbered legacy mapping is secondary to explicit block ownership.
+            if not any(groups) and main and media.get('reason') != 'foreign_image':
+                parser = ImagesHTML(rec.get('name', ''), url)
+                parser.feed(html)
                 raw = original_steps(html, url, rec['steps'])
                 groups, method = associate_steps(parser, raw, len(rec['steps'])) if raw is not None else ([], None)
-                if groups:
-                    # Guard against cross-recipe association: a GZ recipe photo ID,
-                    # when present, must equal the ID of the recipe's cover photo.
-                    from controlla_integrita_catalogo import image_id
-                    cover_id = image_id(rec.get('image_url') or main)
-                    foreign_ids = {image_id(u) for group in groups for u in group}
-                    foreign_ids.discard(None)
-                    if cover_id and any(v != cover_id for v in foreign_ids):
-                        print(f"Foto sospette scartate: {rec['name']} | id_copertina={cover_id} | id_passaggi={sorted(foreign_ids)}")
-                        groups = []
-                if groups:
-                    rec['step_images'] = groups
-                    if raw:
-                        rec['steps_raw'] = raw
-                        rec['steps_clean'] = list(rec['steps'])
-                    step_added += 1
-                    if method == 'strip':
-                        strips_used += 1
-                    elif method == 'numbered':
-                        numbered_used += 1
-                    print(f"Foto passaggi associate ({method}): {rec['name']} | {sum(map(len, groups))} immagini / {len(groups)} blocchi")
-                else:
-                    no_match += 1
-                    reason = 'no_usable_step_photos'
-                    numbered = len(parser.photos)
-                    strips = len(parser.strips)
-                    print(f"Foto non abbinabili: {rec['name']} | motivo={reason} | foto_numerate={numbered} | foto_strip={strips} | passaggi={len(rec['steps'])} | immagine_principale={'si' if rec.get('image_url') else 'no'}")
-
-            rec['images_import_version'] = IMAGE_VERSION
+            cover_id = image_id(rec.get('image_url'))
+            if cover_id and any(image_id(u) not in (None, cover_id) for group in groups for u in group):
+                groups, method = [], None
+                media['reason'] = 'foreign_image'
+            previous = rec.get('step_images') or []
+            had_gallery = has_step_gallery(rec)
+            # Existing verified galleries are never replaced by a new inference.
+            if groups and any(groups) and not had_gallery:
+                rec['step_images'] = groups
+                rec.pop('step_photo_source_evidence', None)
+                rec['step_media_blocks'] = [
+                    {'text': text, 'images': group,
+                     'section': media['blocks'][i]['section'] if method == media['method'] and media['blocks'] else ''}
+                    for i, (text, group) in enumerate(zip(rec['steps'], groups))]
+                step_added += 1
+            elif not had_gallery:
+                no_match += 1
+            status = ('complete' if groups and all(groups) else
+                      'partial' if any(groups) else 'unknown')
+            # Absence needs a recognized complete source page and independent
+            # negative checks. An HTTP error or unfamiliar template cannot pass.
+            if not had_gallery and not any(groups) and main and not media.get('reason') and urlparse(url).hostname == 'ricette.giallozafferano.it':
+                from certifica_assenza_foto_fonte import absence_verified, VERSION as PROOF_VERSION
+                source_id = image_id(main)
+                recognized = 'gz-content-recipe' in html and '</html>' in html.lower()
+                if source_id and recognized and absence_verified(html, url, rec['name'], source_id):
+                    rec['step_photo_source_evidence'] = {
+                        'status': 'verified_absent', 'source_url': url,
+                        'recipe_image_id': source_id,
+                        'verified_at': datetime.now(timezone.utc).isoformat(),
+                        'method': PROOF_VERSION}
+                    status = 'verified_absent'
+            evidence = {'status': status, 'source_url': url,
+                        'source_hash': media['source_hash'], 'method': method,
+                        'checked_at': datetime.now(timezone.utc).isoformat(),
+                        'existing_preserved': had_gallery,
+                        'candidate_differs': had_gallery and groups != previous,
+                        'reason': media.get('reason')}
+            rec['media_extraction'] = evidence
+            report.append({'id': rec.get('id'), 'name': rec.get('name'), **evidence})
+            if not had_gallery:
+                rec['images_import_version'] = IMAGE_VERSION
+            rec['media_extraction_version'] = IMAGE_VERSION
             rec['step_images_checked_at'] = datetime.now(timezone.utc).isoformat()
             checked += 1
-            path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+            if not dry_run:
+                temporary = path.with_suffix('.media-tmp')
+                temporary.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+                temporary.replace(path)
         except Exception as exc:
             checked += 1
             errors += 1
+            report.append({'id': rec.get('id'), 'status': 'fetch_failed', 'error': str(exc)})
             print(f'Errore recupero immagini: {rec.get("name")}: {exc}')
         if delay:
             time.sleep(delay)
 
-    print(f'Immagini v10: controllate={checked}; foto_principali_aggiunte={main_added}; '
+    print(f'Immagini v{IMAGE_VERSION}: controllate={checked}; foto_principali_aggiunte={main_added}; '
           f'ricette_con_foto_passaggi_aggiunte={step_added}; con_strip={strips_used}; '
           f'con_numerate={numbered_used}; senza_abbinamento={no_match}; '
           f'bloccate={blocked}; errori={errors}; rimanenti={max(0, len(pending) - checked)}', flush=True)
+    if report_path:
+        Path(report_path).write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     return main_added, step_added
 
 
@@ -394,8 +438,12 @@ if __name__ == '__main__':
     cli.add_argument('--delay', type=float, default=2.5)
     cli.add_argument('--retry-days', type=int, default=7)
     cli.add_argument('--published-only', action='store_true', help='Controlla solo schede gia pubblicate')
+    cli.add_argument('--dry-run', action='store_true', help='Confronta senza modificare il catalogo')
+    cli.add_argument('--recipe-id', action='append', type=int, help='ID da confrontare in sola lettura (ripetibile)')
+    cli.add_argument('--report', type=Path, help='Report JSON dei risultati e delle differenze')
     cli.add_argument('--force', action='store_true', help='Ritenta immediatamente le schede incomplete pubblicate')
     args = cli.parse_args()
     if args.retry_days < 1: cli.error('--retry-days deve essere >= 1')
     run(limit=args.limit, delay=args.delay, retry_days=args.retry_days,
-        published_only=args.published_only, force=args.force)
+        published_only=args.published_only, force=args.force, dry_run=args.dry_run, report_path=args.report, recipe_ids=args.recipe_id)
+

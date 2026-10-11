@@ -116,9 +116,6 @@
 .step-photo-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;margin:12px 0 16px}
 .step-photo-grid img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:11px;background:var(--surface2);border:1px solid var(--line)}
 @media(max-width:430px){.step-photo-grid{gap:5px}.step-photo-grid img{border-radius:8px}}
-.step-strip-window{position:relative;overflow:hidden;aspect-ratio:4/3;border-radius:11px;background:var(--surface2);border:1px solid var(--line)}
-.step-photo-grid .step-strip-window img{position:absolute;left:0;top:0;width:300%;max-width:none;height:100%;aspect-ratio:auto;object-fit:fill;border:0;border-radius:0;transform:translateX(var(--strip-shift))}
-@media(max-width:430px){.step-strip-window{border-radius:8px}}
 </style></head>
 <body><div class="app" id="app"><header class="topbar"><div class="brand"><div class="logo">👨‍🍳</div>Cheffino</div><div class="topright"><button class="btn" onclick="openSettings()">⚙ Preferenze</button></div></header><main class="wrap" id="main"></main></div><div id="modalRoot"></div><input id="cheffinoBackupInput" type="file" accept="application/json,.json" style="display:none" onchange="importCheffinoBackup(this)">
 <script>
@@ -296,38 +293,10 @@ function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;genera
 function showRecipe(id){const r=getRecipe(id),d=recipeDetailData(r),people=peopleCount();
  const metric=(title,val)=>`<div class="detailmetric"><span>${title}</span><b>${val}</b></div>`;
  const mac=(klass,title,key)=>`<div class="detailmacro ${klass}"><span>${title}</span><b>${typeof d?.[key]==='number'?d[key].toLocaleString('it-IT')+' g':'n.d.'}</b></div>`;
- const stripPattern=/(?:^|[_-])strip[_-]?(\d{1,3})-(\d{1,3})\.(?:jpe?g|png|webp)(?:\?|$)/i;
- const collected=new Map();
- // Compatibile anche con i cataloghi V5: una strip ripetuta sui passi 1,2,3
- // viene ricollocata sul PRIMO blocco di testo, mostrando tutte e tre le foto.
- (d?.stepImages||[]).forEach((urls,idx)=>{
-   if(!Array.isArray(urls))return;
-   urls.forEach(url=>{
-     if(typeof url!=='string')return;
-     const m=url.match(stripPattern);
-     if(m){
-       const start=Number(m[1]),end=Number(m[2]);
-       let target=idx;
-       // Le strip GZ sono normalmente triplette: 1-3,4-6,7-9...
-       // Ricollocazione vale anche se salvate con la vecchia V5.
-       if((d?.imageVersion||0)<10 && start>=1 && end>=start && end-start<=2)target=Math.floor((start-1)/3);
-       if(target>=0&&target<(d?.steps?.length||0)){
-         const images=collected.get(target)||[];
-         if(!images.some(x=>x.url===url))images.push({url,start,end,strip:true});
-         collected.set(target,images);
-       }
-     }else{
-       const images=collected.get(idx)||[];
-       if(!images.some(x=>x.url===url))images.push({url,strip:false});
-       collected.set(idx,images);
-     }
-   });
- });
  const steps=d?`<ol class="detailsteps">${d.steps.map((x,i)=>{
-   const images=collected.get(i)||[];
-   return `<li><div>${safe(x)}</div>${images.length?`<div class="step-photo-grid">${images.map((photo,j)=>photo.strip?
-     Array.from({length:photo.end-photo.start+1},(_,part)=>`<span class="step-strip-window"><img src="${safe(photo.url)}" alt="${safe(r.name)} - foto ${photo.start+part}" loading="lazy" decoding="async" referrerpolicy="no-referrer" style="--strip-shift:-${(part*100/3).toFixed(6)}%" onerror="this.parentElement.remove()"></span>`).join(''):
-     `<img src="${safe(photo.url)}" alt="${safe(r.name)} - foto passaggio ${i+1}.${j+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`).join('')}</div>`:''}</li>`;
+   const images=Array.isArray(d.stepImages?.[i])?[...new Set(d.stepImages[i])]:[];
+   return `<li><div>${safe(x)}</div>${images.length?`<div class="step-photo-grid">${images.map((url,j)=>
+     `<img src="${safe(url)}" alt="${safe(r.name)} - foto passaggio ${i+1}.${j+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer" style="aspect-ratio:auto;object-fit:contain;height:auto" onerror="this.remove()">`).join('')}</div>`:''}</li>`;
  }).join('')}</ol>`:'<p class="hint">Procedimento non ancora verificato per questa ricetta. Nessun passaggio viene inventato.</p>';
 
  modal(`<div class="modalhead"><h2 style="margin:0">${safe(r.name)}</h2><button class="close" onclick="closeModal()">✕</button></div>
@@ -408,7 +377,7 @@ async function caricaCatalogoServer(){
    sourcedDetails[entry.id]={source:entry.source,url:entry.url,
     servings:entry.servings||null,minutes:entry.time??null,kcal:entry.kcal??null,
     cost:entry.cost??null,protein:entry.protein??null,carbs:entry.carbs??null,fats:entry.fats??null,
-    image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps,stepImages:entry.step_images||[],imageVersion:entry.images_import_version||0};
+    image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps,stepImages:entry.step_images_display||entry.step_images||[],imageVersion:entry.images_import_version||0};
   }
   // Elimina solo i riferimenti a vecchie demo ormai inesistenti.
   const validIds=new Set(recipeData.map(x=>x.id));
@@ -434,3 +403,4 @@ render();
 caricaCatalogoServer();
 
 </script></body></html>
+

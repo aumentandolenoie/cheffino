@@ -41,9 +41,15 @@ def choose_cover(html,title,url,expected_id):
     # Immagine di copertina grande, non icona o galleria passaggi.
     main=[u for u in matching if "images/" in u and "/images/ricette/" not in u
           and "_780x520" in urlparse(u).path]
-    if len(set(main))!=1:
-        raise ValueError("Copertina visibile con ID corretto non univoca: "+str(matching[:8]))
-    return main[0]
+    if len(set(main))==1:
+        return main[0]
+    # Alcune pagine GZ visualizzano soltanto la copertina 450x300.
+    # Non costruiamo varianti 780x520 che potrebbero non esistere.
+    fallback=[u for u in matching if "/images/ricette/" not in u and
+              "_450x300" in urlparse(u).path]
+    if len(set(fallback))==1:
+        return fallback[0]
+    raise ValueError("Copertina visibile con ID corretto non univoca: "+str(matching[:8]))
 
 def plan(raw=RAW,pub=PUB,fetcher=fetch_html,policy=None):
     full=json.loads(Path(raw).read_text(encoding="utf-8"))

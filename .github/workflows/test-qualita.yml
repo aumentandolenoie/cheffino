@@ -64,6 +64,8 @@ jobs:
         run: python diagnostica_ultime_quattro.py
       - name: Galleria hamburger vegetariano verificata sulla fonte (sola lettura)
         run: python recupera_hamburger_vegetariano.py
+      - name: Verifica tre foto di preparazione nel blog originale (sola lettura)
+        run: python recupera_foto_blog_pomodoro.py
       - name: Conferma foto storica dal sito originale (sola lettura)
         run: python ripara_foto_storica.py --dry-run
       - name: Simula ripristino dei procedimenti originali pubblicati (sola lettura)

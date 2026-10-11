@@ -4,6 +4,7 @@ on:
     paths:
       - 'data/catalogo_pubblicato.json'
       - '.github/workflows/test-qualita.yml'
+      - 'tests/**'
   pull_request:
   workflow_dispatch:
 permissions:

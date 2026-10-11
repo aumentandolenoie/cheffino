@@ -226,7 +226,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-ceci-cremosa.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/236-23677/Pasta-e-ceci-cremosa_650x433_wm.jpg",
     "servings": 4,
     "kcal": 863.5,
     "protein": 41.3,
@@ -292,7 +292,8 @@
       "Frulla i ceci messi da parte e rimetti la crema nella pentola quando la pasta è cotta.",
       "Spegni il fuoco e manteca con Grana Padano e olio, poi servi."
     ],
-    "step_images_checked_at": "2026-10-10T13:43:05.429070+00:00"
+    "step_images_checked_at": "2026-10-11T12:04:11.090778+00:00",
+    "images_import_version": 8
   },
   {
     "id": 25,
@@ -312,7 +313,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Vellutata-di-zucca.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/22-2215/Vellutata-di-zucca_650x433_wm.jpg",
     "servings": 4,
     "kcal": 488,
     "protein": 8.2,
@@ -377,7 +378,8 @@
       "Cuoci fino a rendere morbida la zucca, poi frulla il composto e unisci la panna.",
       "Regola sale, pepe e noce moscata e servi con nocciole e rosmarino come indicato nella ricetta originale."
     ],
-    "step_images_checked_at": "2026-10-10T13:43:08.058012+00:00"
+    "step_images_checked_at": "2026-10-11T12:04:28.147780+00:00",
+    "images_import_version": 8
   },
   {
     "id": 26,
@@ -397,7 +399,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pollo-al-limone.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/196-19689/Pollo-al-limone_650x433_wm.jpg",
     "servings": 4,
     "kcal": 254.2,
     "protein": null,
@@ -472,7 +474,8 @@
       "Prepara il condimento a base di limone, acqua, amido, zucchero e salsa di soia.",
       "Completa la cottura del pollo nella salsa; consulta i passaggi illustrati nella fonte per i tempi esatti."
     ],
-    "step_images_checked_at": "2026-10-10T13:43:10.680906+00:00"
+    "step_images_checked_at": "2026-10-11T12:04:25.409304+00:00",
+    "images_import_version": 8
   },
   {
     "id": 27,
@@ -490,7 +493,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-zucchine.html",
-    "image_url": "https://www.giallozafferano.com/images/226-22692/pasta-and-zucchini_1200x800.jpg",
+    "image_url": "https://www.giallozafferano.it/images/166-16633/Pasta-e-zucchine_650x433_wm.jpg",
     "servings": 4,
     "kcal": 356.6,
     "protein": 12.5,
@@ -540,7 +543,8 @@
       "Aggiungi un poco di acqua calda e il basilico, togliendo l’aglio.",
       "Cuoci la pasta al dente, completa la cottura in padella con le zucchine e poca acqua di cottura."
     ],
-    "step_images_checked_at": "2026-10-10T14:00:32.073224+00:00"
+    "step_images_checked_at": "2026-10-11T12:04:20.093758+00:00",
+    "images_import_version": 8
   },
   {
     "id": 28,
@@ -558,7 +562,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-patate.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/ricette/167/16758/foto_hd/hd650x433_wm.jpg",
     "servings": 4,
     "kcal": 444.6,
     "protein": 12.2,
@@ -613,7 +617,8 @@
       "Aggiungi le patate e cuocile, versando gradualmente acqua calda.",
       "Lessa la pasta e termina la cottura con le patate; aggiungi timo e olio a crudo."
     ],
-    "step_images_checked_at": "2026-10-10T14:00:34.789713+00:00"
+    "step_images_checked_at": "2026-10-11T12:04:14.798233+00:00",
+    "images_import_version": 8
   },
   {
     "id": 29,
@@ -631,7 +636,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-alla-sorrentina.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/192-19253/Pasta-alla-sorrentina_650x433_wm.jpg",
     "servings": 4,
     "kcal": 568.9,
     "protein": 25.3,
@@ -686,7 +691,8 @@
       "Amalgama pasta e salsa, poi disponi pasta, mozzarella e Parmigiano a strati in pirofila.",
       "Gratina brevemente in forno caldo fino a sciogliere la mozzarella."
     ],
-    "step_images_checked_at": "2026-10-10T14:00:37.470753+00:00"
+    "step_images_checked_at": "2026-10-11T12:04:08.397240+00:00",
+    "images_import_version": 8
   },
   {
     "id": 30,
@@ -704,7 +710,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-zucchine-e-zafferano.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/293-29398/Pasta-zucchine-e-zafferano_650x433_wm.jpg",
     "servings": 4,
     "kcal": 376,
     "protein": 14.8,
@@ -754,7 +760,8 @@
       "Versa la pasta scolata nelle zucchine, unisci lo zafferano e poca acqua della pasta.",
       "Manteca con Grana e termina con menta fresca."
     ],
-    "step_images_checked_at": "2026-10-10T14:00:40.055204+00:00"
+    "step_images_checked_at": "2026-10-11T12:04:22.734009+00:00",
+    "images_import_version": 8
   },
   {
     "id": 31,
@@ -772,7 +779,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-ricotta.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/168-16864/Pasta-e-ricotta_650x433_wm.jpg",
     "servings": 4,
     "kcal": 551.3,
     "protein": 23.8,
@@ -822,7 +829,8 @@
       "Allunga il condimento con poca acqua della pasta se necessario.",
       "Scola i fusilli al dente e amalgamali con la crema di ricotta."
     ],
-    "step_images_checked_at": "2026-10-10T14:00:42.735419+00:00"
+    "step_images_checked_at": "2026-10-11T12:04:17.454253+00:00",
+    "images_import_version": 8
   },
   {
     "id": 42270105876548,
@@ -8204,8 +8212,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:05:18.128437+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:00.195662+00:00"
   },
   {
     "id": 157512128901781,
@@ -8292,8 +8300,8 @@
       "validation_version": 1
     },
     "step_images": [],
-    "images_import_version": 0,
-    "step_images_checked_at": "2026-10-10T14:20:56.299207+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:04:54.844387+00:00"
   },
   {
     "id": 240182235946326,
@@ -16244,8 +16252,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:30.028010+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:20.013035+00:00"
   },
   {
     "id": 139550664659020,
@@ -22684,8 +22692,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:38.216410+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:04:46.886819+00:00"
   },
   {
     "id": 55652435307175,
@@ -24096,8 +24104,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:16.002149+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:04:38.923677+00:00"
   },
   {
     "id": 236893490771622,
@@ -24447,8 +24455,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:00.340617+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:17.396881+00:00"
   },
   {
     "id": 12288124989647,
@@ -32524,8 +32532,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:35.090266+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:04:44.225123+00:00"
   },
   {
     "id": 39116646995969,
@@ -35318,8 +35326,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:07.167652+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:04:30.863144+00:00"
   },
   {
     "id": 132208820724896,
@@ -40607,8 +40615,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:12.667673+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:04:36.248538+00:00"
   },
   {
     "id": 157146087951858,
@@ -44051,8 +44059,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:09.969617+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:04:33.557240+00:00"
   },
   {
     "id": 6749092888902,
@@ -44928,8 +44936,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:32.400153+00:00"
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:04:41.581522+00:00"
   },
   {
     "id": 177595636769878,
@@ -48585,7 +48593,78 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/176/17659/bocconcini-di-pollo-allo-zafferano_27.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare i bocconcini di pollo allo zafferano iniziate dal contorno di asparagi: eliminate l’estremità più coriacea del gambo, sia per gli asparagi bianchi 1 che per quelli verdi 2 , e tagliate il resto a fettine diagonali 3 .",
+      "Mondate e affettate sottilmente lo scalogno 4 . Scaldate un filo d’olio in una padella, poi aggiungete lo scalogno 5 e gli asparagi 6 .",
+      "Salate 7 e pepate, poi versate l’acqua 8 e cuocete a fiamma media per 7-8 minuti. Una volta cotti, spegnete il fuoco e tenete da parte 9 .",
+      "Passate al pollo: dividete il petto di pollo a metà 10 e tagliatelo prima a strisce 11 e poi a cubetti di 1,5-2 cm 12 , rimuovendo eventuali cartilagini e nervature.",
+      "Trasferite i cubetti in una pirofila e infarinateli 13 , poi eliminate la farina in eccesso con un colino 14 . Tagliate il peperoncino dolce a rondelle 15 e affettate sottilmente gli spicchi di aglio.",
+      "Scaldate un filo d’olio in un’altra padella, poi aggiungete l’aglio e il peperoncino 16 e lasciate soffriggere per un paio di minuti. Unite il pollo 17 e fatelo rosolare 18 .",
+      "Bagnate con circa 100 g di acqua 19 e cuocete a fiamma media. Nel frattempo versate lo zafferano in una ciotolina a parte con circa 20 g di acqua tiepida 20 e mescolate per scioglierlo 21 .",
+      "Aggiungete il composto nella padella 22 , salate e mescolate bene 23 . Proseguite la cottura: il pollo dovrà cuocere per una decina di minuti in totale. Intanto, in un’altra ciotolina, sciogliete la fecola nei restanti 20 g di acqua 24 .",
+      "Versate anche il composto di fecola nella padella 25 e mescolate per amalgamare il tutto 26 . Spegnete il fuoco e servite subito i vostri bocconcini di pollo allo zafferano con contorno di asparagi 27 !"
+    ],
+    "steps_clean": [
+      "Per preparare i bocconcini di pollo allo zafferano iniziate dal contorno di asparagi: eliminate l’estremità più coriacea del gambo, sia per gli asparagi bianchi che per quelli verdi, e tagliate il resto a fettine diagonali.",
+      "Mondate e affettate sottilmente lo scalogno. Scaldate un filo d’olio in una padella, poi aggiungete lo scalogno e gli asparagi.",
+      "Salate e pepate, poi versate l’acqua e cuocete a fiamma media per 7-8 minuti. Una volta cotti, spegnete il fuoco e tenete da parte.",
+      "Passate al pollo: dividete il petto di pollo a metà e tagliatelo prima a strisce e poi a cubetti di 1,5-2 cm, rimuovendo eventuali cartilagini e nervature.",
+      "Trasferite i cubetti in una pirofila e infarinateli, poi eliminate la farina in eccesso con un colino. Tagliate il peperoncino dolce a rondelle e affettate sottilmente gli spicchi di aglio.",
+      "Scaldate un filo d’olio in un’altra padella, poi aggiungete l’aglio e il peperoncino e lasciate soffriggere per un paio di minuti. Unite il pollo e fatelo rosolare.",
+      "Bagnate con circa 100 g di acqua e cuocete a fiamma media. Nel frattempo versate lo zafferano in una ciotolina a parte con circa 20 g di acqua tiepida e mescolate per scioglierlo.",
+      "Aggiungete il composto nella padella, salate e mescolate bene. Proseguite la cottura: il pollo dovrà cuocere per una decina di minuti in totale. Intanto, in un’altra ciotolina, sciogliete la fecola nei restanti 20 g di acqua.",
+      "Versate anche il composto di fecola nella padella e mescolate per amalgamare il tutto. Spegnete il fuoco e servite subito i vostri bocconcini di pollo allo zafferano con contorno di asparagi!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:14.732956+00:00"
   },
   {
     "id": 248388847737722,
@@ -50896,7 +50975,40 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19171/19171_bocconcini_di_pane_con_tonno_e_avocado_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19171/19171_bocconcini_di_pane_con_tonno_e_avocado_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19171/19171_bocconcini_di_pane_tonno_e_avocado_def_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19171/19171_bocconcini_di_pane_con_tonno_e_avocado_mod_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/191/19171/19171_bocconcini_di_pane_tonno_e_avocado_def_strip_13-15.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per realizzare i bocconcini di pane con tonno e avocado tagliate a fette sottili l’asiago 1 , poi tagliate a metà l’avocado, eliminate il nocciolo interno 2 e con un cucchiaino estraete la polpa 3 .",
+      "Tagliatela a fettine 4 . Prendete le baguette e dividetele a metà 5 ; conditeli con un filo di olio di oliva 6 .",
+      "Tostate il pane su una griglia calda per 2 minuti dalla parte della mollica 7 e 1 minuto circa dalla parte esterna 8 . Trasferite su un tagliere (o piatto da portata), e spalmate una delle due metà con la senape 9 ,",
+      "adagiate sopra le fettine di formaggio e distribuite sopra i bocconcini di tonno sgocciolato 10 . Insaporite con i pomodori sott’olio scolati 11 e le fettine di avocado 12 ,",
+      "richiudete con l’altra metà del filoncino 13 e tagliate diagonalmente in tre parti uguali il filoncino farcito 14 , servite subito i vostri bocconcini di pane con tonno e avocado 15 ."
+    ],
+    "steps_clean": [
+      "Per realizzare i bocconcini di pane con tonno e avocado tagliate a fette sottili l’asiago, poi tagliate a metà l’avocado, eliminate il nocciolo interno e con un cucchiaino estraete la polpa.",
+      "Tagliatela a fettine. Prendete le baguette e dividetele a metà; conditeli con un filo di olio di oliva.",
+      "Tostate il pane su una griglia calda per 2 minuti dalla parte della mollica e 1 minuto circa dalla parte esterna. Trasferite su un tagliere (o piatto da portata), e spalmate una delle due metà con la senape,",
+      "adagiate sopra le fettine di formaggio e distribuite sopra i bocconcini di tonno sgocciolato. Insaporite con i pomodori sott’olio scolati e le fettine di avocado,",
+      "richiudete con l’altra metà del filoncino e tagliate diagonalmente in tre parti uguali il filoncino farcito, servite subito i vostri bocconcini di pane con tonno e avocado."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:12.101571+00:00"
   },
   {
     "id": 243666308474191,
@@ -51389,7 +51501,45 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19835/19835_bocconcini_di_merluzzo_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19835/19835_bocconcini_di_merluzzo_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19835/19835_bocconcini_di_merluzzo_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19835/19835_bocconcini_di_merluzzo_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19835/19835_bocconcini_di_merluzzo_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/198/19835/19835_bocconcini_di_merluzzo_strip_16-18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare i bocconcini di merluzzo e speck come prima cosa preparate il trito di erbe aromatiche 1 e unitelo in una ciotola insieme alla mollica sbriciolata 2 . Aggiungete poi la scorza di limone grattugiata 3 e mescolate il tutto.",
+      "Prendete i filetti di merluzzo e tagliateli prima a falde 4 e poi a cubetti, non troppo piccoli 5 . Versate un filo d'olio in un tegame, scaldatelo e unite il merluzzo 6 . Lasciatelo rosolare su entrambi i lati per un totale di 5 minuti, girandoli con delicatezza.",
+      "In ultimo salate 7 e trasferite in un piatto 8 . Passate poi i cubetti di merluzzo nella panatura 9",
+      "in modo da coprirli interamente 10 . Distendete le fette di speck su un tagliere e adagiate ciascun bocconcino all'inizio di una delle fette 11 . Arrotolate in modo da ottenere un involtino 12 .",
+      "Fate lo stesso anche per gli altri 13 e disponeteli all'interno di una pirofila 14 . Cuocete in forno statico preriscaldato a 180° per 10 minuti. Poi sfornate 15 e lasciate raffreddare.",
+      "Sistemate su un piatto delle foglie di lattuga e una ciotolina, trasferite poi anche i bocconcini 16 e riempite la ciotolina con la maionese 17 . I vostri bocconcini di merluzzo e speck sono pronti da servire 18 !"
+    ],
+    "steps_clean": [
+      "Per preparare i bocconcini di merluzzo e speck come prima cosa preparate il trito di erbe aromatiche e unitelo in una ciotola insieme alla mollica sbriciolata. Aggiungete poi la scorza di limone grattugiata e mescolate il tutto.",
+      "Prendete i filetti di merluzzo e tagliateli prima a falde e poi a cubetti, non troppo piccoli. Versate un filo d'olio in un tegame, scaldatelo e unite il merluzzo. Lasciatelo rosolare su entrambi i lati per un totale di 5 minuti, girandoli con delicatezza.",
+      "In ultimo salate e trasferite in un piatto. Passate poi i cubetti di merluzzo nella panatura",
+      "in modo da coprirli interamente. Distendete le fette di speck su un tagliere e adagiate ciascun bocconcino all'inizio di una delle fette. Arrotolate in modo da ottenere un involtino.",
+      "Fate lo stesso anche per gli altri e disponeteli all'interno di una pirofila. Cuocete in forno statico preriscaldato a 180° per 10 minuti. Poi sfornate e lasciate raffreddare.",
+      "Sistemate su un piatto delle foglie di lattuga e una ciotolina, trasferite poi anche i bocconcini e riempite la ciotolina con la maionese. I vostri bocconcini di merluzzo e speck sono pronti da servire!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:09.243758+00:00"
   },
   {
     "id": 9715430271518,
@@ -52057,7 +52207,60 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/208/20873/20873_blinis_di_mais_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/208/20873/20873_blinis_di_mais_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/208/20873/20873_blinis_vipiteno_corretti_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/208/20873/20873_blinis_vipiteno_corretti_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/208/20873/20873_blinis_vipiteno_corretti_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/208/20873/20873_blinis_vipiteno_corretti_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/208/20873/20873_blinis_vipiteno_ultime_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/208/20873/20873_blinis_vipiteno_ultime_strip_22-24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/208/20873/20873_blinis_vipiteno_ultime_strip_25-27.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare i blinis di mais con skyr, avocado e pomodorini al forno versate in una ciotola la farina di mais e quella 00 1 , unite il lievito istantaneo 2 e versate il latte a filo mescolando con una frusta 3 .",
+      "Dividete il tuorlo dall'albume e versate il tuorlo nell'impasto 4 . Mescolate e unite il sale 5 e l'olio 6 mescolando per far incorporare tutti gli ingredienti.",
+      "Coprite con pellicola 7 e lasciate a temperatura di 26° per circa 90 minuti. Nel frattempo occupatevi dei pomodorini: prendete i grappoli senza staccare i pomodorini e lavate tutto sotto acqua corrente. Sistemateli su una teglia foderata con carta da forno, condite con l’olio 8 e l'origano secco 9 .",
+      "Aggiungete anche del sale a piacere e infornate in forno statico già caldo a 200° per 40 minuti. Trascorso il tempo di cottura sfornate i pomodorini e lasciate raffreddare 10 . Montate con le fruste elettriche a neve l'albume tenuto da parte insieme ad altri 35 g di albume (11 e 12).",
+      "Prendete l’impasto riposato e versate poco per volta gli albumi montati dal basso verso l’alto 13 . Una volta pronto l'impasto 14 , cuocete i blinis: scaldate e ungete con pochissimo olio una padella piatta (potete aiutarvi con carta da cucina per spargere l'olio sulla superficie). Versate qualche mestolo di impasto per creare dei dischetti di circa 6 cm di diametro 15 e cuocete a fuoco medio-basso.",
+      "Una volta che la base sarà dorata, girateli delicatamente 16 per cuocerli anche dall'altro lato 17 . Proseguite in questo modo con tutti e una volta cotti poneteli su un piatto da portata 18 . Con queste dosi otterrete circa 20 blinis.",
+      "Dividete a metà un avocado, eliminate il nocciolo 19 . Pelate l'avocado 20 e poi dividete la polpa a dadini 21 .",
+      "Versate in una ciotola e spremete il succo di un limone filtrando con un colino 22 ; questo impedirà che la polpa di avocado si ossidi. Condite con un filo d'olio 23 e pepe bianco a piacere. Potete decorare ciascun blinis di mais con un cucchiaio di skyr 24 ,",
+      "dadini di avocado 25 e pomodorini arrosto 26 . I vostri blinis di mais con skyr, avocado e pomodorini arrosto sono pronti per essere serviti 27 ."
+    ],
+    "steps_clean": [
+      "Per preparare i blinis di mais con skyr, avocado e pomodorini al forno versate in una ciotola la farina di mais e quella 00 1 , unite il lievito istantaneo 2 e versate il latte a filo mescolando con una frusta 3 .",
+      "Dividete il tuorlo dall'albume e versate il tuorlo nell'impasto 4 . Mescolate e unite il sale 5 e l'olio 6 mescolando per far incorporare tutti gli ingredienti.",
+      "Coprite con pellicola 7 e lasciate a temperatura di 26° per circa 90 minuti. Nel frattempo occupatevi dei pomodorini: prendete i grappoli senza staccare i pomodorini e lavate tutto sotto acqua corrente. Sistemateli su una teglia foderata con carta da forno, condite con l’olio 8 e l'origano secco 9 .",
+      "Aggiungete anche del sale a piacere e infornate in forno statico già caldo a 200° per 40 minuti. Trascorso il tempo di cottura sfornate i pomodorini e lasciate raffreddare 10 . Montate con le fruste elettriche a neve l'albume tenuto da parte insieme ad altri 35 g di albume (11 e 12).",
+      "Prendete l’impasto riposato e versate poco per volta gli albumi montati dal basso verso l’alto 13 . Una volta pronto l'impasto 14 , cuocete i blinis: scaldate e ungete con pochissimo olio una padella piatta (potete aiutarvi con carta da cucina per spargere l'olio sulla superficie). Versate qualche mestolo di impasto per creare dei dischetti di circa 6 cm di diametro 15 e cuocete a fuoco medio-basso.",
+      "Una volta che la base sarà dorata, girateli delicatamente 16 per cuocerli anche dall'altro lato 17 . Proseguite in questo modo con tutti e una volta cotti poneteli su un piatto da portata 18 . Con queste dosi otterrete circa 20 blinis.",
+      "Dividete a metà un avocado, eliminate il nocciolo 19 . Pelate l'avocado 20 e poi dividete la polpa a dadini 21 .",
+      "Versate in una ciotola e spremete il succo di un limone filtrando con un colino 22 ; questo impedirà che la polpa di avocado si ossidi. Condite con un filo d'olio 23 e pepe bianco a piacere. Potete decorare ciascun blinis di mais con un cucchiaio di skyr 24 ,",
+      "dadini di avocado 25 e pomodorini arrosto 26 . I vostri blinis di mais con skyr, avocado e pomodorini arrosto sono pronti per essere serviti 27 ."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:05.592393+00:00"
   },
   {
     "id": 237252137321149,
@@ -52198,7 +52401,78 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/292/29232/focaccia-pomodorini-e-olive-con-bimby_27.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la focaccia pomodorini e olive con Bimby mettete nel boccale il lievito di birra 1 , lo zucchero 2 e 100 g di acqua 3 . Sciogliete il lievito per 2 minuti a 37° impostando la velocità 2.",
+      "Aggiungete 50 g di farina 00 4 e amalgamate per un minuto a velocità 3. Lasciate riposare all'interno del boccale per 10 minuti. Unite il resto delle farine e versate anche gli altri 200 g di acqua 5 , quindi impastate con la funzione spiga per 2 minuti. A questo punto aggiungete i 10 g di sale 6 .",
+      "Versate i 35 g di olio extravergine di oliva 7 e impastate nuovamente con la funzione spiga per 2 minuti 8 9 .",
+      "Trasferite l'impasto sul piano da lavoro infarinato 10 e formate una palla liscia e omogenea 11 . Nel frattempo rivestite il recipiente del Varoma con un foglio di carta forno 12 .",
+      "Versate un filo di olio 13 . Trasferite l'impasto nel recipiente del Varoma 14 e chiudete con il coperchio 15 .",
+      "Mettete nel boccale 250 g di acqua 16 e il succo di limone, chiudete con il coperchio e posizionate sopra il Varoma 17 . Impostate il programma della fermentazione per 2 ore a 37°. Ora lavate i pomodorini e tagliateli a metà, tenendoli da parte 18 .",
+      "Una volta completata la lievitazione, togliete con attenzione il Varoma 19 . Versate l'impasto in uno stampo oliato del diametro di 32 cm e stendetelo con le mani 20 . Con i polpastrelli pressate l'impasto per creare dei fori 21 .",
+      "Sistemate sopra i pomodorini premendo leggermente 22 , poi fate la stessa cosa anche con le olive 23 . Salate la superficie e condite con un giro abbondante di olio 24 .",
+      "Completate con una spolverata di origano secco 25 . Lasciate lievitare per 30 minuti in un luogo senza correnti d'aria 26 . Trascorsi i 30 minuti, cuocete in forno già caldo a 200° per 45 minuti. Una volta trascorso il tempo di cottura, sfornate 27 e lasciate intiepidire prima di gustare la vostra focaccia pomodorini e olive con Bimby®!"
+    ],
+    "steps_clean": [
+      "Per preparare la focaccia pomodorini e olive con Bimby mettete nel boccale il lievito di birra, lo zucchero e 100 g di acqua. Sciogliete il lievito per 2 minuti a 37° impostando la velocità 2.",
+      "Aggiungete 50 g di farina 00 4 e amalgamate per un minuto a velocità 3. Lasciate riposare all'interno del boccale per 10 minuti. Unite il resto delle farine e versate anche gli altri 200 g di acqua 5 , quindi impastate con la funzione spiga per 2 minuti. A questo punto aggiungete i 10 g di sale 6 .",
+      "Versate i 35 g di olio extravergine di oliva 7 e impastate nuovamente con la funzione spiga per 2 minuti 8 9 .",
+      "Trasferite l'impasto sul piano da lavoro infarinato 10 e formate una palla liscia e omogenea 11 . Nel frattempo rivestite il recipiente del Varoma con un foglio di carta forno 12 .",
+      "Versate un filo di olio 13 . Trasferite l'impasto nel recipiente del Varoma 14 e chiudete con il coperchio 15 .",
+      "Mettete nel boccale 250 g di acqua 16 e il succo di limone, chiudete con il coperchio e posizionate sopra il Varoma 17 . Impostate il programma della fermentazione per 2 ore a 37°. Ora lavate i pomodorini e tagliateli a metà, tenendoli da parte 18 .",
+      "Una volta completata la lievitazione, togliete con attenzione il Varoma 19 . Versate l'impasto in uno stampo oliato del diametro di 32 cm e stendetelo con le mani 20 . Con i polpastrelli pressate l'impasto per creare dei fori 21 .",
+      "Sistemate sopra i pomodorini premendo leggermente 22 , poi fate la stessa cosa anche con le olive 23 . Salate la superficie e condite con un giro abbondante di olio 24 .",
+      "Completate con una spolverata di origano secco 25 . Lasciate lievitare per 30 minuti in un luogo senza correnti d'aria 26 . Trascorsi i 30 minuti, cuocete in forno già caldo a 200° per 45 minuti. Una volta trascorso il tempo di cottura, sfornate 27 e lasciate intiepidire prima di gustare la vostra focaccia pomodorini e olive con Bimby®!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:43.488934+00:00"
   },
   {
     "id": 56216802979980,
@@ -52630,7 +52904,45 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/219/21905/21905_blinis_blogger_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/219/21905/21905_blinis_blogger_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/219/21905/21905_blinis_blogger_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/219/21905/21905_blinis_ok_ultima_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/219/21905/21905_blinis_blogger_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/219/21905/21905_blinis_blogger_strip_16-18.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare i blinis di grano saraceno con tonno affumicato, versate lo yogurt e l’uovo in una ciotola e mescolateli con una frusta 1 , aggiungete farina di grano saraceno 2 e la fecola 3 ; continuate a mescolare.",
+      "Aggiustate di sale 4 , versate il latte a filo 5 mescolate ancora, aggiungete il lievito instanteo 6 e amalgamate il tutto un’ultima volta.",
+      "In una padella fate sciogliere con un pezzetto di burro 7 quindi versate 3-4 mestolini di impasto (circa 6 cm di diametro) in base all'ampiezza della padella 8 . Dopo circa 1 minuto girate i blinis per cuocere dall'altro lato 9 , iniziando dal primo versato. Cuoceteli ancora per un minuto o poco più. Con le dosi indicate otterrete circa 18 pezzi.",
+      "Man a mano che saranno pronti, adagiateli su un piatto da portata 10 . Passate alla farcitura: in una ciotola versate il caprino e l'erba cipollina tritata (tenete da parte due steli per la decorazione finale) 11 . Unite l'olio, il succo di lime 12 ;",
+      "aggiustate di sale 13 , mescolate 14 . Sbucciate un pezzo del lime e tagliate la scorza a fettine sottili 15 .",
+      "Riprendete i blinis e spalmate ciascuno con la crema di formaggio 16 adagiate le fettine di tonno affumicato 17 e decorate con la scorza di lime tagliata a listarelle e un po’ di erba cipollina 18 . I blinis di grano saraceno con tonno affumicato sono pronti 18 ."
+    ],
+    "steps_clean": [
+      "Per preparare i blinis di grano saraceno con tonno affumicato, versate lo yogurt e l’uovo in una ciotola e mescolateli con una frusta, aggiungete farina di grano saraceno e la fecola; continuate a mescolare.",
+      "Aggiustate di sale, versate il latte a filo mescolate ancora, aggiungete il lievito instanteo e amalgamate il tutto un’ultima volta.",
+      "In una padella fate sciogliere con un pezzetto di burro quindi versate 3-4 mestolini di impasto (circa 6 cm di diametro) in base all'ampiezza della padella. Dopo circa 1 minuto girate i blinis per cuocere dall'altro lato, iniziando dal primo versato. Cuoceteli ancora per un minuto o poco più. Con le dosi indicate otterrete circa 18 pezzi.",
+      "Man a mano che saranno pronti, adagiateli su un piatto da portata. Passate alla farcitura: in una ciotola versate il caprino e l'erba cipollina tritata (tenete da parte due steli per la decorazione finale). Unite l'olio, il succo di lime;",
+      "aggiustate di sale, mescolate. Sbucciate un pezzo del lime e tagliate la scorza a fettine sottili.",
+      "Riprendete i blinis e spalmate ciascuno con la crema di formaggio adagiate le fettine di tonno affumicato e decorate con la scorza di lime tagliata a listarelle e un po’ di erba cipollina. I blinis di grano saraceno con tonno affumicato sono pronti 18."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:02.879821+00:00"
   },
   {
     "id": 241367404629547,
@@ -52746,7 +53058,9 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:40.749844+00:00"
   },
   {
     "id": 115009007825672,
@@ -53359,7 +53673,55 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16667/16667_focaccia_integrale_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16667/16667_focaccia_integrale_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16667/16667_focaccia_integrale_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16667/16667_focaccia_integrale_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16667/16667_focaccia_integrale_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16667/16667_focaccia_integrale_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16667/16667_focaccia_integrale_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16667/16667_focaccia_integrale_strip_22-24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la focaccia integrale iniziate a setacciare la farina manitoba all'interno della ciotola della planetaria 1 . Unite poi la farina integrale 2 e il lievito di birra disidratato 3 .",
+      "Aggiungete anche il miele 4 e azionate la macchina dotata di frusta a foglia a velocità bassa. Versate l'acqua (a temperatura ambiente) a filo 5 fino ad ottenere un composto omogeneo 6 . Poi cambiate la frusta a foglia con quella a gancio e continuate a lavorare l'impasto per 5 minuti.",
+      "Aggiungete il sale fino 7 e l'olio 8 continuando a lavorare l'impasto sempre a velocità moderata per altri 5 minuti. Quindi arrestate la planetaria 9",
+      "e aiutandovi con un tarocco trasferite l'impasto su un piano di lavoro leggermente unto 10 ; sempre con il tarocco date delle pieghe di rinforzo 11 portando la pasta esterna verso il centro. Cercate di dare al composto una forma sferica, essendo molto idratato non riuscirete a lavorarlo solo con le mani, ma sarà necessario utilizzare il tarocco in queste fasi. Vi suggeriamo di non aggiungere altra farina in questa fase per evitare di compromettere la consistenza dell'impasto. Poi trasferitelo all'interno di una ciotola capiente 12",
+      "e coprite con della pellicola trasparente 13 . Lasciate lievitare in forno spento solo con la luce accesa per circa 3 ore e mezza fino a che l'impasto non avrà raddoppiato di volume, poi sempre utilizzando il tarocco trasferitelo nuovamente su un piano di lavoro leggermente unto 14 . Date ancora delle pieghe di rinforzo 15",
+      "e trasferite l'impasto all'interno di una teglia rettangolare 35x28 cm 16 , leggermente unta, sempre aiutandovi con il tarocco.  Ungetevi leggermente le mani e allargate l'impasto spingendolo delicatamente verso l'esterno 17 fino a ricoprire l'intera superficie della teglia 18 .",
+      "Lasciate riposare per 5/10 minuti dopodichè con le punta delle dita create i classici fori 19 , spingendo i polpastrelli all'interno della focaccia. Cospargete la vostra focaccia integrale con l'olio 20 e il sale grosso 21 .",
+      "Aggiungete i rametti di rosmarino 22 e cuocete in forno statico preriscaldato a 220° per 40 minuti (non vi consigliamo la cottura in forno ventilato). Una volta cotta sfornate la focaccia integrale 23 e servitela come preferite 24 !"
+    ],
+    "steps_clean": [
+      "Per preparare la focaccia integrale iniziate a setacciare la farina manitoba all'interno della ciotola della planetaria. Unite poi la farina integrale e il lievito di birra disidratato.",
+      "Aggiungete anche il miele e azionate la macchina dotata di frusta a foglia a velocità bassa. Versate l'acqua (a temperatura ambiente) a filo fino ad ottenere un composto omogeneo. Poi cambiate la frusta a foglia con quella a gancio e continuate a lavorare l'impasto per 5 minuti.",
+      "Aggiungete il sale fino e l'olio continuando a lavorare l'impasto sempre a velocità moderata per altri 5 minuti. Quindi arrestate la planetaria",
+      "e aiutandovi con un tarocco trasferite l'impasto su un piano di lavoro leggermente unto; sempre con il tarocco date delle pieghe di rinforzo portando la pasta esterna verso il centro. Cercate di dare al composto una forma sferica, essendo molto idratato non riuscirete a lavorarlo solo con le mani, ma sarà necessario utilizzare il tarocco in queste fasi. Vi suggeriamo di non aggiungere altra farina in questa fase per evitare di compromettere la consistenza dell'impasto. Poi trasferitelo all'interno di una ciotola capiente",
+      "e coprite con della pellicola trasparente. Lasciate lievitare in forno spento solo con la luce accesa per circa 3 ore e mezza fino a che l'impasto non avrà raddoppiato di volume, poi sempre utilizzando il tarocco trasferitelo nuovamente su un piano di lavoro leggermente unto. Date ancora delle pieghe di rinforzo",
+      "e trasferite l'impasto all'interno di una teglia rettangolare 35x28 cm, leggermente unta, sempre aiutandovi con il tarocco.  Ungetevi leggermente le mani e allargate l'impasto spingendolo delicatamente verso l'esterno fino a ricoprire l'intera superficie della teglia.",
+      "Lasciate riposare per 5/10 minuti dopodichè con le punta delle dita create i classici fori, spingendo i polpastrelli all'interno della focaccia. Cospargete la vostra focaccia integrale con l'olio e il sale grosso.",
+      "Aggiungete i rametti di rosmarino e cuocete in forno statico preriscaldato a 220° per 40 minuti (non vi consigliamo la cottura in forno ventilato). Una volta cotta sfornate la focaccia integrale e servitela come preferite!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:33.396138+00:00"
   },
   {
     "id": 58233962807291,
@@ -53840,7 +54202,65 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/212/21259/21259_bicchierini_caponata_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/212/21259/21259_bicchierini_caponata_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/212/21259/21259_bicchierini_caponata_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/212/21259/21259_bicchierini_caponata_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/212/21259/21259_bicchierini_caponata_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/212/21259/21259_bicchierini_caponata_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/212/21259/21259_bicchierini_caponata_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/212/21259/21259_bicchierini_caponata_strip_22-24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/212/21259/21259_bicchierini_caponata_strip_25-27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/212/21259/21259_bicchierini_caponata_strip_28-30.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare i bicchierini di caponata con tonno e tzatziki cominciate dalla caponata. Tagliate il cappello della melanzana, affettatela 1 e ottenete dei cubetti di 1 cm 2 . Scaldate una padella con dell’olio e friggete i cubetti per circa 5 minuti, mescolando di tanto in tanto 3 .",
+      "Non appena saranno abbrustoliti scolateli su carta assorbente 4 . Nella stessa padella poi versate ancora un giro d’olio e scaldate insieme agli spicchi d’aglio, il cipollotto mondato e affettato sottilmente 5 , i pomodorini datterino divisi a metà 6 .",
+      "Condite con sale e pepe 7 e zucchero di canna 8 . Mescolate e lasciate sciogliere lo zucchero, dopodiché sfumate con l’aceto. Lasciate cuocere a fuoco dolce per 5 minuti 9 .",
+      "Nel frattempo tritate al coltello i capperi dissalati, le olive verde denocciolate; tenete un attimo da parte 10 . Fate lo stesso con mandorle e pinoli 11 e tostateli poi in un’altra padella, facendo molta attenzione a non bruciarli 12 .",
+      "Mettete anche questi da parte e infine occupatevi del sedano. Pelatelo superficialmente con un pelapatate, per eliminare i filamenti 13 . Infine tagliate a rondelle 14 . A questo punto i pomodorini dovrebbero essere cotti, spegnete il fornello, scartate l’aglio 15 ,",
+      "e unite i cubetti di melanzane 16 . Aggiungete anche il sedano 17 , olive e capperi sminuzzati 18 ,",
+      "mescolate e lasciate intiepidire 19 . Nel frattempo occupatevi del tonno. Tagliatelo a striscioline 20 e poi a cubetti molto piccoli 21 .",
+      "Radunate i pezzetti in una ciotola e grattugiate la scorza di limone 22 , il sale in fiocchi e mescolate 23 . Passate allo tzatziki. In un recipiente versate lo yogurt greco, il basilico spezzettato a mano, il succo di limone 24 .",
+      "Versate anche 2/3 del mix di mandorle e pistacchi tostati 25 . Poi affettate sottilmente il cetriolo, tagliate in 4 parte le fettine, ottenendo così 4 triangoli 26 e unite al composto. Mescolate delicatamente 27 .",
+      "Ecco avete tutto pronto, passate alla composizione. Sul fondo di un bicchiere versate prima la caponata, poi il tonno 28 , lo yogurt greco e un po’ del mix di frutta secca tostata 29 . Continuate così con tutti gli altri e i vostri bicchierini di caponata con tonno e tzatziki sono pronti per essere serviti con un bel ciuffetto di basilico 30 !"
+    ],
+    "steps_clean": [
+      "Per preparare i bicchierini di caponata con tonno e tzatziki cominciate dalla caponata. Tagliate il cappello della melanzana, affettatela e ottenete dei cubetti di 1 cm. Scaldate una padella con dell’olio e friggete i cubetti per circa 5 minuti, mescolando di tanto in tanto.",
+      "Non appena saranno abbrustoliti scolateli su carta assorbente. Nella stessa padella poi versate ancora un giro d’olio e scaldate insieme agli spicchi d’aglio, il cipollotto mondato e affettato sottilmente, i pomodorini datterino divisi a metà.",
+      "Condite con sale e pepe e zucchero di canna. Mescolate e lasciate sciogliere lo zucchero, dopodiché sfumate con l’aceto. Lasciate cuocere a fuoco dolce per 5 minuti.",
+      "Nel frattempo tritate al coltello i capperi dissalati, le olive verde denocciolate; tenete un attimo da parte. Fate lo stesso con mandorle e pinoli e tostateli poi in un’altra padella, facendo molta attenzione a non bruciarli.",
+      "Mettete anche questi da parte e infine occupatevi del sedano. Pelatelo superficialmente con un pelapatate, per eliminare i filamenti. Infine tagliate a rondelle. A questo punto i pomodorini dovrebbero essere cotti, spegnete il fornello, scartate l’aglio,",
+      "e unite i cubetti di melanzane. Aggiungete anche il sedano, olive e capperi sminuzzati,",
+      "mescolate e lasciate intiepidire. Nel frattempo occupatevi del tonno. Tagliatelo a striscioline e poi a cubetti molto piccoli.",
+      "Radunate i pezzetti in una ciotola e grattugiate la scorza di limone, il sale in fiocchi e mescolate. Passate allo tzatziki. In un recipiente versate lo yogurt greco, il basilico spezzettato a mano, il succo di limone.",
+      "Versate anche 2/3 del mix di mandorle e pistacchi tostati. Poi affettate sottilmente il cetriolo, tagliate in 4 parte le fettine, ottenendo così 4 triangoli e unite al composto. Mescolate delicatamente.",
+      "Ecco avete tutto pronto, passate alla composizione. Sul fondo di un bicchiere versate prima la caponata, poi il tonno, lo yogurt greco e un po’ del mix di frutta secca tostata. Continuate così con tutti gli altri e i vostri bicchierini di caponata con tonno e tzatziki sono pronti per essere serviti con un bel ciuffetto di basilico!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:04:57.504470+00:00"
   },
   {
     "id": 57690796494915,
@@ -53955,7 +54375,50 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/226/22640/22640_focaccia_integrale_con_lievito_madre_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/226/22640/22640_focaccia_integrale_con_lievito_madre_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/226/22640/22640_focaccia_integrale_con_lievito_madre_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/226/22640/22640_focaccia_integrale_con_lievito_madre_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/226/22640/22640_focaccia_integrale_con_lievito_madre_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/226/22640/22640_focaccia_integrale_con_lievito_madre_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/226/22640/22640_focaccia_integrale_con_lievito_madre_strip_19-21.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la focaccia integrale con lievito madre, versate la farina integrale e la farina manitoba nella ciotola di una planetaria munita di gancio 1 , aggiungete il lievito madre già rinfrescato nelle 24 ore precedenti 2 e l’acqua 3 e azionate per ottenere un impasto liscio.",
+      "Ora unite il sale 4 e l’olio 5 e lavorate il tutto per circa 10 minuti fino a che non saranno stati completamente assorbiti. Quando l’impasto risulterà liscio e ben incordato versatelo su un piano di lavoro infarinato 6 .",
+      "Pirlate l’impasto facendolo girare fra le vostre mani per ottenere una forma sferica regolare 7 , poi trasferitelo in una ciotola. A questo punto iniziate a fare la prima piega, sollevando un lembo dell’impasto 8 e portandolo verso il centro 9 .",
+      "Ruotate la ciotola, prendete un altro lembo dell’impasto 10 e portatelo al centro 11 , poi ruotate nuovamente la ciotola e ripetete l’operazione per altre 2 volte, per un totale di 4 pieghe. Coprite la ciotola con un canovaccio e lasciate riposare l’impasto per 15 minuti, dopodiché ripetete le 4 pieghe. Coprite ancora la ciotola e fate riposare per altri 15 minuti, prima di effettuare altre 4 pieghe per la terza e ultima volta. A questo punto coprite la ciotola con pellicola 12 e lasciate lievitare a temperatura ambiente, lontano da correnti d’aria, per 6 ore. Trascorso questo tempo, riponete la ciotola in frigorifero e lasciate maturare l’impasto per 18 ore.",
+      "Trascorso il tempo di maturazione, rimuovete l’impasto dal frigorifero 13 e stendetelo con le mani in una teglia di 35x28 cm ben oliata 14 . Coprite la teglia con pellicola e lasciate lievitare a temperatura ambiente per altre 2 ore 15 .",
+      "Nel frattempo preparate l’emulsione versando l’olio e l’acqua in una ciotolina 16 e mescolando con una forchetta. Una volta lievitata, imprimete i buchi sulla focaccia premendo i polpastrelli nell’impasto; se dovesse risultare faticoso potete ungervi le mani con l’olio 17 . Versate l’emulsione distribuendola su tutta la superficie 18 .",
+      "In ultimo cospargete con rosmarino 19 e sale grosso a piacere 20 . Cuocete in forno statico preriscaldato a 210° per circa 30 minuti. Una volta pronta, gustate la vostra focaccia integrale con lievito madre ancora calda oppure lasciatela raffreddare su una gratella 21 !"
+    ],
+    "steps_clean": [
+      "Per preparare la focaccia integrale con lievito madre, versate la farina integrale e la farina manitoba nella ciotola di una planetaria munita di gancio, aggiungete il lievito madre già rinfrescato nelle 24 ore precedenti e l’acqua e azionate per ottenere un impasto liscio.",
+      "Ora unite il sale e l’olio e lavorate il tutto per circa 10 minuti fino a che non saranno stati completamente assorbiti. Quando l’impasto risulterà liscio e ben incordato versatelo su un piano di lavoro infarinato.",
+      "Pirlate l’impasto facendolo girare fra le vostre mani per ottenere una forma sferica regolare, poi trasferitelo in una ciotola. A questo punto iniziate a fare la prima piega, sollevando un lembo dell’impasto e portandolo verso il centro.",
+      "Ruotate la ciotola, prendete un altro lembo dell’impasto e portatelo al centro, poi ruotate nuovamente la ciotola e ripetete l’operazione per altre 2 volte, per un totale di 4 pieghe. Coprite la ciotola con un canovaccio e lasciate riposare l’impasto per 15 minuti, dopodiché ripetete le 4 pieghe. Coprite ancora la ciotola e fate riposare per altri 15 minuti, prima di effettuare altre 4 pieghe per la terza e ultima volta. A questo punto coprite la ciotola con pellicola e lasciate lievitare a temperatura ambiente, lontano da correnti d’aria, per 6 ore. Trascorso questo tempo, riponete la ciotola in frigorifero e lasciate maturare l’impasto per 18 ore.",
+      "Trascorso il tempo di maturazione, rimuovete l’impasto dal frigorifero e stendetelo con le mani in una teglia di 35x28 cm ben oliata. Coprite la teglia con pellicola e lasciate lievitare a temperatura ambiente per altre 2 ore.",
+      "Nel frattempo preparate l’emulsione versando l’olio e l’acqua in una ciotolina e mescolando con una forchetta. Una volta lievitata, imprimete i buchi sulla focaccia premendo i polpastrelli nell’impasto; se dovesse risultare faticoso potete ungervi le mani con l’olio. Versate l’emulsione distribuendola su tutta la superficie.",
+      "In ultimo cospargete con rosmarino e sale grosso a piacere. Cuocete in forno statico preriscaldato a 210° per circa 30 minuti. Una volta pronta, gustate la vostra focaccia integrale con lievito madre ancora calda oppure lasciatela raffreddare su una gratella!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:37.073346+00:00"
   },
   {
     "id": 219771994501514,
@@ -54427,7 +54890,65 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15725/15725_bavette_polpo_gamberi_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15725/15725_bavette_polpo_gamberi_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15725/15725_bavette_polpo_gamberi_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15725/15725_bavette_polpo_gamberi_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15725/15725_bavette_polpo_gamberi_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15725/15725_bavette_polpo_gamberi_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15725/15725_bavette_polpo_gamberi_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15725/15725_bavette_polpo_gamberi_no_pack_strip_22-24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15725/15725_bavette_polpo_gamberi_strip_25-27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/157/15725/15725_bavette_polpo_gamberi_strip_28-30.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per prepara le bavette con polpo e gamberi, per prima cosa mettete a cuocere il polpo. Ponete sul fuoco, una pentola capiente colma di acqua, salata e portatela a bollore. Nel frattempo pulite il polpo , rivoltando e svuotando la testa, togliendo il dente posto al centro dei tentacoli con un coltellino 1 ed eliminando gli occhi 2 ; sciacquatelo molto bene sotto l’acqua fredda corrente 3 .",
+      "Non appena l’acqua comincerà a bollire, immergete ed estraete i tentacoli per alcune volte fino a che non si arricceranno (4-5) (saranno molto più belli da vedere una volta impiattati) e poi immergete finalmente tutto il polpo. Aggiungete all’acqua anche gli aromi: l'alloro, le bacche di ginepro, lo spicchio d’aglio leggermente schiacciato e il pepe rosa in grani 6 . Coprite la pentola con il coperchio, abbassate il fuoco al minimo (l’acqua dovrà appena sobbollire) e lasciate cuocere così per 40 minuti.",
+      "Nel frattempo eliminate le teste e i carapaci dei gamberi 7 e tenete da parte la carne. Preparate un  fumetto con il quale cuocerete le bavette rendendole estremamente saporite. Mettete in una pentola il burro e fatelo sciogliere, quindi aggiungete l’aglio, la cipolla e il porro tagliati sottilmente, lasciate rosolare e unite gli scarti dei crostacei, ricordandovi di schiacciare bene le teste per far fuoriuscire la parte saporita dei gamberi. Sfumate con il vino bianco 8 (oppure con il brandy o il cognac) e poi unite i pomodorini (facoltativi), l’acqua bollente, il prezzemolo, l’erba cipollina, il pepe e il sale, e versate 500 g di acqua 9 .",
+      "Lasciate cuocere a fuoco basso fino a ridurre il liquido della metà, poi frullate il tutto 10 e filtrate con un colino a maglie strette 11 . Avete ottenuto il vostro fumetto di crostacei 12 .",
+      "Una volta cotto, lasciate intiepidire il polpo all’interno della sua acqua di cottura, quindi scolatelo (13-14) e tagliatelo a pezzetti 15 .",
+      "Quindi tagliate anche i pomodorini in 4 16 . In una padella fate rosolare l’aglio, e il peperoncino privato dei semi e tagliato a listarelle, con l’olio extravergine di oliva 17 , poi aggiungete i pomodorini e il sale 18 ;",
+      "lasciate cuocere per circa 10 minuti, quindi spegnete il fuoco, eliminate l’aglio 19 , unite il polpo 20 e il prezzemolo tritato finemente 21 .",
+      "Nel frattempo mettete a scaldare in un tegame capiente una parte della bisque (22-23), unite le bavette 24 (che dovranno stare comodamente sdraiate e dovete riuscire a mescolarle agevolmente).",
+      "Coprite a filo con il fumetto bollente 25 . Mescolate continuamente per non farle attaccare, aggiungete poco a poco il fumetto caldo fino a portarle a 3 minuti dalla cottura 26 (se finiste il fumetto prima della fine della cottura della pasta, potreste utilizzare dell’acqua calda o del brodo vegetale leggero). Nel frattempo tagliate a metà i gamberi nel senso della lunghezza 27 (se sono più piccoli potete anche lasciarli interi).",
+      "Una volta che le vostre bavette saranno quasi arrivate a cottura, unite il sugo di pomodorini e polpo 28 , i gamberi 29 (se sono più piccoli potete anche lasciarli interi), il prezzemolo tritato e il pepe macinato. Terminate la cottura e servite le vostre bavette con polpo e gamberi ancora calde 30 ."
+    ],
+    "steps_clean": [
+      "Per prepara le bavette con polpo e gamberi, per prima cosa mettete a cuocere il polpo. Ponete sul fuoco, una pentola capiente colma di acqua, salata e portatela a bollore. Nel frattempo pulite il polpo, rivoltando e svuotando la testa, togliendo il dente posto al centro dei tentacoli con un coltellino ed eliminando gli occhi; sciacquatelo molto bene sotto l’acqua fredda corrente.",
+      "Non appena l’acqua comincerà a bollire, immergete ed estraete i tentacoli per alcune volte fino a che non si arricceranno (4-5) (saranno molto più belli da vedere una volta impiattati) e poi immergete finalmente tutto il polpo. Aggiungete all’acqua anche gli aromi: l'alloro, le bacche di ginepro, lo spicchio d’aglio leggermente schiacciato e il pepe rosa in grani 6 . Coprite la pentola con il coperchio, abbassate il fuoco al minimo (l’acqua dovrà appena sobbollire) e lasciate cuocere così per 40 minuti.",
+      "Nel frattempo eliminate le teste e i carapaci dei gamberi 7 e tenete da parte la carne. Preparate un  fumetto con il quale cuocerete le bavette rendendole estremamente saporite. Mettete in una pentola il burro e fatelo sciogliere, quindi aggiungete l’aglio, la cipolla e il porro tagliati sottilmente, lasciate rosolare e unite gli scarti dei crostacei, ricordandovi di schiacciare bene le teste per far fuoriuscire la parte saporita dei gamberi. Sfumate con il vino bianco 8 (oppure con il brandy o il cognac) e poi unite i pomodorini (facoltativi), l’acqua bollente, il prezzemolo, l’erba cipollina, il pepe e il sale, e versate 500 g di acqua 9 .",
+      "Lasciate cuocere a fuoco basso fino a ridurre il liquido della metà, poi frullate il tutto 10 e filtrate con un colino a maglie strette 11 . Avete ottenuto il vostro fumetto di crostacei 12 .",
+      "Una volta cotto, lasciate intiepidire il polpo all’interno della sua acqua di cottura, quindi scolatelo (13-14) e tagliatelo a pezzetti 15 .",
+      "Quindi tagliate anche i pomodorini in 16. In una padella fate rosolare l’aglio, e il peperoncino privato dei semi e tagliato a listarelle, con l’olio extravergine di oliva 17, poi aggiungete i pomodorini e il sale 18;",
+      "lasciate cuocere per circa 10 minuti, quindi spegnete il fuoco, eliminate l’aglio 19 , unite il polpo 20 e il prezzemolo tritato finemente 21 .",
+      "Nel frattempo mettete a scaldare in un tegame capiente una parte della bisque (22-23), unite le bavette 24 (che dovranno stare comodamente sdraiate e dovete riuscire a mescolarle agevolmente).",
+      "Coprite a filo con il fumetto bollente 25 . Mescolate continuamente per non farle attaccare, aggiungete poco a poco il fumetto caldo fino a portarle a 3 minuti dalla cottura 26 (se finiste il fumetto prima della fine della cottura della pasta, potreste utilizzare dell’acqua calda o del brodo vegetale leggero). Nel frattempo tagliate a metà i gamberi nel senso della lunghezza 27 (se sono più piccoli potete anche lasciarli interi).",
+      "Una volta che le vostre bavette saranno quasi arrivate a cottura, unite il sugo di pomodorini e polpo 28 , i gamberi 29 (se sono più piccoli potete anche lasciarli interi), il prezzemolo tritato e il pepe macinato. Terminate la cottura e servite le vostre bavette con polpo e gamberi ancora calde 30 ."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:04:52.186209+00:00"
   },
   {
     "id": 1055449142313,
@@ -55234,7 +55755,106 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_30.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_31.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_32.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_33.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_34.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_35.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_36.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_37.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_38.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25726/focaccia-farcita-con-cime-di-rapa-e-salsiccia_39.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la focaccia ripiena con cime di rapa e salsiccia partite dall’impasto. In una ciotola unite le farine 1 , il lievito di birra secco 2 e l’acqua 3 , versata poco alla volta per valutare l'assorbimento delle farine e calibrarne il dosaggio se necessario. Unite in questa fase anche il sale.",
+      "Mescolate bene in ciotola con una forchetta 4 , poi trasferite l’impasto sul banco da lavoro e impastate bene fino a che non sarà ben incordato 5 . A questo punto aggiungete in tre volte l’olio 6 , continuando sempre ad impastare.",
+      "Continuate ad impastare facendo delle pieghe, lavorate per almeno 5 minuti e, quando sarà liscio ed omogeneo,  e poi provate a sollevarlo, se rimarrà elastico e non si staccherà significa che è pronto 7 . Mettete l’impasto a lievitare in una ciotola leggermente oliata, coprendo con pellicola 8 , per 2 ore circa (o comunque fino al raddoppio del volume) a temperatura ambiente. Nel frattempo occupatevi del ripieno. Come prima cosa dovrete pulire le cime di rapa, eliminando tutti i gambi 9 .",
+      "Una volta ottenute tutte le foglie 10 , lavatele bene e lasciatele scolare. Mettete a scaldare in una padella antiaderente un filo d’olio con l'aglio e il peperoncino 11 . Quando avranno rilasciato il loro sapore toglieteli 12 .",
+      "Aggiungete le cime di rapa 13 , mescolate e coprite con un coperchio. Cuocete per circa 10 minuti sino a che non saranno appassite. Salatele 14 e trasferitele in una ciotola per farle intiepidire 15 .",
+      "Ora passate alla salsiccia. Incidetela ed eliminate il budello 16 . Sgranatela grossolanamente con le mani 17 . Nella stessa padella in cui avete cotto le cime, aggiungete un filo d'olio, accedente il fuoco e unite la salsiccia 18 .",
+      "Rosolate a fiamma alta per 6-7 minuti mescolando di tanto in tanto 19 . Nel frattempo tritate le cime di rapa 20 e trasferitele nuovamente in ciotola. Aggiungete anche la salsiccia ben rosolata 21 .",
+      "Mescolate bene 22 e tenete da parte. Quando l’impasto sarà ben lievitato 23  trasferitelo sul bancone e dividetelo in due, utilizzando un tarocco 24 .",
+      "Una volta ottenute due porzioni uguali lavoratele leggermente per ottenere delle sfere 25 . Prendetene una, tenendo l'altra ben coperta, schiacciatela leggermente con le mani 26 , poi stendetela con un mattarello e un pizzico di farina 27 .",
+      "Cercate di ottenere un rettangolo grande quanto la teglia (37x25 cm) 28 . Se la pasta si ritrae durante la stesura significa che l'avete lavorata troppo. Lasciatela riposare per qualche minuto ben coperta. A questo punto ungete leggermente la teglia 29 e trasferite all'interno un rettangolo, in modo da coprire l'intera superficie, facendolo arrivare ai bordi schiacciando un po' con le dita 30 .",
+      "Versate il ripieno al centro e allargatelo in modo da lasciare un paio di cm di bordo libero 31 . Aggiungete sopra il provolone grattugiato 32 . Stendete anche la seconda porzione di impasto come fatto in precedenza e posizionatela sopra 33 .",
+      "Pressate i bordi con le dita per farli aderire bene tra di loro 34 . Poi rigirateli facendo dei piccoli pizzichi in modo da creare un motivo decorativo 36 . Cospargete la superficie della focaccia con olio evo e spennellatela con cura 36 .",
+      "Fate dei fori con la forbice 37 38 , in modo che il ripieno possa cuocere bene. Cuocete in forno statico preriscaldato a 180° per 60 minuti. Quando la focaccia sarà ben dorata potrete sfornarla 39 e servirla calda o tiepida."
+    ],
+    "steps_clean": [
+      "Per preparare la focaccia ripiena con cime di rapa e salsiccia partite dall’impasto. In una ciotola unite le farine, il lievito di birra secco e l’acqua, versata poco alla volta per valutare l'assorbimento delle farine e calibrarne il dosaggio se necessario. Unite in questa fase anche il sale.",
+      "Mescolate bene in ciotola con una forchetta, poi trasferite l’impasto sul banco da lavoro e impastate bene fino a che non sarà ben incordato. A questo punto aggiungete in tre volte l’olio, continuando sempre ad impastare.",
+      "Continuate ad impastare facendo delle pieghe, lavorate per almeno 5 minuti e, quando sarà liscio ed omogeneo,  e poi provate a sollevarlo, se rimarrà elastico e non si staccherà significa che è pronto. Mettete l’impasto a lievitare in una ciotola leggermente oliata, coprendo con pellicola, per 2 ore circa (o comunque fino al raddoppio del volume) a temperatura ambiente. Nel frattempo occupatevi del ripieno. Come prima cosa dovrete pulire le cime di rapa, eliminando tutti i gambi.",
+      "Una volta ottenute tutte le foglie, lavatele bene e lasciatele scolare. Mettete a scaldare in una padella antiaderente un filo d’olio con l'aglio e il peperoncino. Quando avranno rilasciato il loro sapore toglieteli.",
+      "Aggiungete le cime di rapa, mescolate e coprite con un coperchio. Cuocete per circa 10 minuti sino a che non saranno appassite. Salatele e trasferitele in una ciotola per farle intiepidire.",
+      "Ora passate alla salsiccia. Incidetela ed eliminate il budello. Sgranatela grossolanamente con le mani. Nella stessa padella in cui avete cotto le cime, aggiungete un filo d'olio, accedente il fuoco e unite la salsiccia.",
+      "Rosolate a fiamma alta per 6-7 minuti mescolando di tanto in tanto. Nel frattempo tritate le cime di rapa e trasferitele nuovamente in ciotola. Aggiungete anche la salsiccia ben rosolata.",
+      "Mescolate bene e tenete da parte. Quando l’impasto sarà ben lievitato  trasferitelo sul bancone e dividetelo in due, utilizzando un tarocco.",
+      "Una volta ottenute due porzioni uguali lavoratele leggermente per ottenere delle sfere. Prendetene una, tenendo l'altra ben coperta, schiacciatela leggermente con le mani, poi stendetela con un mattarello e un pizzico di farina.",
+      "Cercate di ottenere un rettangolo grande quanto la teglia (37x25 cm). Se la pasta si ritrae durante la stesura significa che l'avete lavorata troppo. Lasciatela riposare per qualche minuto ben coperta. A questo punto ungete leggermente la teglia e trasferite all'interno un rettangolo, in modo da coprire l'intera superficie, facendolo arrivare ai bordi schiacciando un po' con le dita.",
+      "Versate il ripieno al centro e allargatelo in modo da lasciare un paio di cm di bordo libero. Aggiungete sopra il provolone grattugiato. Stendete anche la seconda porzione di impasto come fatto in precedenza e posizionatela sopra.",
+      "Pressate i bordi con le dita per farli aderire bene tra di loro. Poi rigirateli facendo dei piccoli pizzichi in modo da creare un motivo decorativo 36. Cospargete la superficie della focaccia con olio evo e spennellatela con cura 36.",
+      "Fate dei fori con la forbice 37 38 , in modo che il ripieno possa cuocere bene. Cuocete in forno statico preriscaldato a 180° per 60 minuti. Quando la focaccia sarà ben dorata potrete sfornarla 39 e servirla calda o tiepida."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:30.704524+00:00"
   },
   {
     "id": 201126293183850,
@@ -55573,7 +56193,60 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/216/21667/21667_barchette_baccala_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/216/21667/21667_barchette_baccala_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/216/21667/21667_barchette_baccala_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/216/21667/21667_barchette_baccala_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/216/21667/21667_barchette_baccala_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/216/21667/21667_barchette_baccala_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/216/21667/21667_barchette_baccala_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/216/21667/21667_barchette_baccala_strip_22-24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/216/21667/21667_barchette_baccala_strip_25-27.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare le barchette con baccalà mantecato cominciate proprio da quest’ultimo. Eliminate la pelle dal baccalà utilizzando un coltello sottile e a lama liscia 1 . Tagliate a tocchetti grossi e fate attenzione che non siano presenti delle lische 2 . Quindi in una padella in cui avrete fatto un giro d’olio versate i pezzi di baccalà, lasciate insaporire qualche istante 3",
+      "prima di cucinarlo a fuoco dolce, coperto con il coperchio per 15 minuti, 4 . Trascorso il tempo trasferite il baccalà in un pentolino in cui avrete versato il latte 5 e lasciate cuocere a fuoco dolce mescolando di continuo: in questo modo potrete ottenere l’effetto mantecato, ovvero cremoso 6 . Ci vorranno circa 30 minuti.",
+      "Lasciate intiepidire il composto e poi versatelo nel mixer 7 , quindi frullate fino ad ottenere una purea quanto più liscia è possibile. Riponete in frigorifero, coprendo con della pellicola, per almeno 3 ore 8 . Nel frattempo preparate la pasta brisè. Nel mixer versate il pepe, gli aghi di rosmarino 9",
+      "e 50 grammi, presi dalla quantità totale 10 . Azionate il robot e quando tutto sarà ridotto in polvere ricongiungete alla quantità totale di farina e mescolate. Quindi versate in una ciotola con il burro freddo a tocchetti 11 , unite il sale 12 .",
+      "Cominciate ad impastare il tutto con la punta delle dita e lavorando in fretta, eviterete così che il composto si scaldi troppo 13 . Non appena otterrete le briciole aggiungete l’acqua ghiacciata e continuate a impastare 14 . Poi trasferite il composto sul piano d’appoggio e lavorate qualche istante per compattare 15 .",
+      "Avvolgi il panetto nella pellicola trasparente 16 e lascia riposare in frigorifero per almeno 2 ore. Recuperate l’impasto e battetelo qualche istante con il matterello prima di tirarlo su una spianatoia leggermente infarinata 17 , dovrete ottenere una sfoglia spessa un millimetro 18 .",
+      "Ritagliate la pasta utilizzando la formina 19 ottenendo barchette. Sistemate l’impasto tagliato all’interno degli stampini, con gli avanzi create un bordino tutto intorno e poi bucherellate la base con una forchetta 20 . Disponete nel mezzo 10 foglietti di carta forno 21",
+      "e delle piccole sfere di ceramica 22 in questo modo potrete procedere con la cottura alla cieca. Cuocete in forno statico, già caldo a 180°, per circa 30 minuti. Togliete le sfere e la carta forno e infornate per altri 5 minuti, il tempo necessario per far colorire la brisè, prima di far intiepidire e staccare dagli stampini le barchette; lasciatele freddare su una gratella 23 . Farcite con il baccalà mantecato versandolo a cucchiaiate 24",
+      "e guarnite con delle zeste di limone tagliate al coltello 25 . Aggiungete anche qualche ciuffetto di aneto fresco, un goccio d’olio a crudo e una grattata di pepe nero 26 . Le barchette con baccalà mantecato sono pronte, buon appetito 27 !"
+    ],
+    "steps_clean": [
+      "Per preparare le barchette con baccalà mantecato cominciate proprio da quest’ultimo. Eliminate la pelle dal baccalà utilizzando un coltello sottile e a lama liscia. Tagliate a tocchetti grossi e fate attenzione che non siano presenti delle lische. Quindi in una padella in cui avrete fatto un giro d’olio versate i pezzi di baccalà, lasciate insaporire qualche istante",
+      "prima di cucinarlo a fuoco dolce, coperto con il coperchio per 15 minuti, 4 . Trascorso il tempo trasferite il baccalà in un pentolino in cui avrete versato il latte 5 e lasciate cuocere a fuoco dolce mescolando di continuo: in questo modo potrete ottenere l’effetto mantecato, ovvero cremoso 6 . Ci vorranno circa 30 minuti.",
+      "Lasciate intiepidire il composto e poi versatelo nel mixer 7 , quindi frullate fino ad ottenere una purea quanto più liscia è possibile. Riponete in frigorifero, coprendo con della pellicola, per almeno 3 ore 8 . Nel frattempo preparate la pasta brisè. Nel mixer versate il pepe, gli aghi di rosmarino 9",
+      "e 50 grammi, presi dalla quantità totale 10 . Azionate il robot e quando tutto sarà ridotto in polvere ricongiungete alla quantità totale di farina e mescolate. Quindi versate in una ciotola con il burro freddo a tocchetti 11 , unite il sale 12 .",
+      "Cominciate ad impastare il tutto con la punta delle dita e lavorando in fretta, eviterete così che il composto si scaldi troppo 13 . Non appena otterrete le briciole aggiungete l’acqua ghiacciata e continuate a impastare 14 . Poi trasferite il composto sul piano d’appoggio e lavorate qualche istante per compattare 15 .",
+      "Avvolgi il panetto nella pellicola trasparente 16 e lascia riposare in frigorifero per almeno 2 ore. Recuperate l’impasto e battetelo qualche istante con il matterello prima di tirarlo su una spianatoia leggermente infarinata 17 , dovrete ottenere una sfoglia spessa un millimetro 18 .",
+      "Ritagliate la pasta utilizzando la formina 19 ottenendo barchette. Sistemate l’impasto tagliato all’interno degli stampini, con gli avanzi create un bordino tutto intorno e poi bucherellate la base con una forchetta 20 . Disponete nel mezzo 10 foglietti di carta forno 21",
+      "e delle piccole sfere di ceramica 22 in questo modo potrete procedere con la cottura alla cieca. Cuocete in forno statico, già caldo a 180°, per circa 30 minuti. Togliete le sfere e la carta forno e infornate per altri 5 minuti, il tempo necessario per far colorire la brisè, prima di far intiepidire e staccare dagli stampini le barchette; lasciatele freddare su una gratella 23 . Farcite con il baccalà mantecato versandolo a cucchiaiate 24",
+      "e guarnite con delle zeste di limone tagliate al coltello 25 . Aggiungete anche qualche ciuffetto di aneto fresco, un goccio d’olio a crudo e una grattata di pepe nero 26 . Le barchette con baccalà mantecato sono pronte, buon appetito 27 !"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:04:49.518915+00:00"
   },
   {
     "id": 202397028270484,
@@ -55710,7 +56383,85 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/257/25746/focaccia-dolce_30.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la focaccia dolce in una ciotola versate la farina manitoba, lo zucchero 1 e l'acqua 2 . Aggiungete il lievito di birra sbriciolato 3 .",
+      "Versate anche l'uovo leggermente sbattuto 4 e iniziate ad impastare con il gancio. Aggiungete il latte 5 e continuate ad impastare sino ad ottenere un composto omogeneo 6 .",
+      "Unite ora gli aromi: scorza d'arancia grattugiata 7 e i semi che avrete estratto dal baccello di vaniglia 8 . Lavorate per 7-8 minuti sino a che l'impasto non sarà liscio in prima velocità. Aggiungete ora una parte del burro 9 .",
+      "Portate la macchina a velocità 2 e continuate a lavorare sino a che non sarà ben assorbito  10 ; aggiungete il sale 11 , terminate con il burro e lavorate sino a che non sarà ben assorbito. Trasferite il composto su un piano leggermente infarinato 12 .",
+      "Date all'impasto una forma sferica 13 e copritelo con la pellicola 14 . Lasciatelo riposare così per circa 10 minuti. Poi appiattite l'impasto e fate una piega a 3, portando prima uno dei lembi verso il centro 15 e poi l'altro a richiudere in modo da ottenere un bauletto.",
+      "Trasferite l'impasto in una ciotola leggermente unta con la chiusura rivolta verso il basso 16 , coprite con pellicola 17 e lasciate lievitare per 1 ora a temperatura ambiente 18 , lontano da correnti d'aria.",
+      "Ora ungete una teglia grande 30x40 cm con 30-40 g di olio. Riprendete l'impasto e schiacciatelo con le mani 19 , poi stendetelo con un mattarello 20 sino ad ottenere un rettangolo della stessa grandezza della teglia. Adagiate l'impasto all'interno e allargatelo delicatamente con le mani 21 .",
+      "Dovrà ricoprire l'intera superficie; se tende a ritirarsi aspettate qualche minuto e poi tiratelo nuovamente 22 . Coprite con pellicola 23 e lasciate lievitare ancora per un'ora a temperatura ambiente. Spolverizzate ora la superficie con poca farina 24 .",
+      "Imprimete i classici buchi con i polpastrelli, escludendo il pollice e il mignolo, avendo cura di tenere il palmo della mano il più in basso possibile rispetto alla superficie, in modo tale da imprimere bene i buchi; lasciate un po’ di spazio tra un buco e l’altro  25 . Versate ora 100 g di acqua al centro della focaccia 26 e ruotate la teglia in modo da farla penetrare in tutti i buchi. Lasciate lievitare ancora per un'ora a temperatura ambiente, senza coprire con pellicola, o se vi piace più soffice e alta anche un'ora a mezza. Cuocete in forno statico preriscaldato a 190° per 20-25 minuti, posizionando la teglia sul ripiano in basso. Una volta cotta, sfornate la focaccia 27 .",
+      "Trasferite la focaccia su un tagliere e inumidite la superficie con un pennello bagnato 28 . Spolverizzate con lo zucchero 29 e smuovetela per togliere quello in eccesso. Lasciate intiepidire e gustate la vostra focaccia dolce 30 !"
+    ],
+    "steps_clean": [
+      "Per preparare la focaccia dolce in una ciotola versate la farina manitoba, lo zucchero e l'acqua. Aggiungete il lievito di birra sbriciolato.",
+      "Versate anche l'uovo leggermente sbattuto e iniziate ad impastare con il gancio. Aggiungete il latte e continuate ad impastare sino ad ottenere un composto omogeneo.",
+      "Unite ora gli aromi: scorza d'arancia grattugiata e i semi che avrete estratto dal baccello di vaniglia. Lavorate per 7-8 minuti sino a che l'impasto non sarà liscio in prima velocità. Aggiungete ora una parte del burro.",
+      "Portate la macchina a velocità 2 e continuate a lavorare sino a che non sarà ben assorbito; aggiungete il sale, terminate con il burro e lavorate sino a che non sarà ben assorbito. Trasferite il composto su un piano leggermente infarinato.",
+      "Date all'impasto una forma sferica e copritelo con la pellicola. Lasciatelo riposare così per circa 10 minuti. Poi appiattite l'impasto e fate una piega a 3, portando prima uno dei lembi verso il centro e poi l'altro a richiudere in modo da ottenere un bauletto.",
+      "Trasferite l'impasto in una ciotola leggermente unta con la chiusura rivolta verso il basso, coprite con pellicola e lasciate lievitare per 1 ora a temperatura ambiente, lontano da correnti d'aria.",
+      "Ora ungete una teglia grande 30x40 cm con 30-40 g di olio. Riprendete l'impasto e schiacciatelo con le mani, poi stendetelo con un mattarello sino ad ottenere un rettangolo della stessa grandezza della teglia. Adagiate l'impasto all'interno e allargatelo delicatamente con le mani.",
+      "Dovrà ricoprire l'intera superficie; se tende a ritirarsi aspettate qualche minuto e poi tiratelo nuovamente. Coprite con pellicola e lasciate lievitare ancora per un'ora a temperatura ambiente. Spolverizzate ora la superficie con poca farina.",
+      "Imprimete i classici buchi con i polpastrelli, escludendo il pollice e il mignolo, avendo cura di tenere il palmo della mano il più in basso possibile rispetto alla superficie, in modo tale da imprimere bene i buchi; lasciate un po’ di spazio tra un buco e l’altro. Versate ora 100 g di acqua al centro della focaccia e ruotate la teglia in modo da farla penetrare in tutti i buchi. Lasciate lievitare ancora per un'ora a temperatura ambiente, senza coprire con pellicola, o se vi piace più soffice e alta anche un'ora a mezza. Cuocete in forno statico preriscaldato a 190° per 20-25 minuti, posizionando la teglia sul ripiano in basso. Una volta cotta, sfornate la focaccia.",
+      "Trasferite la focaccia su un tagliere e inumidite la superficie con un pennello bagnato. Spolverizzate con lo zucchero e smuovetela per togliere quello in eccesso. Lasciate intiepidire e gustate la vostra focaccia dolce!"
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:28.062004+00:00"
   },
   {
     "id": 190429649764300,
@@ -56102,7 +56853,60 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/220/22039/22039_focaccia_di_semola_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/220/22039/22039_focaccia_di_semola_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/220/22039/22039_focaccia_di_semola_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/220/22039/22039_focaccia_di_semola_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/220/22039/22039_focaccia_di_semola_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/220/22039/22039_focaccia_di_semola_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/220/22039/22039_focaccia_di_semola_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/220/22039/22039_focaccia_di_semola_strip_22-24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/220/22039/22039_focaccia_di_semola_strip_25-27.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la focaccia versate in planetaria il lievito madre liquido già rinfrescato da almeno 5 ore insieme a metà della dose di acqua 1 . Fate partire la planetaria con il gancio e versate a cucchiaiate la farina 2 e la semola 3 .",
+      "Aggiungete poco alla volta l'acqua restante e quando starà per esaurirsi aggiungete anche il sale 4 . Unite l'acqua rimasta 5 e lasciate lavorare ancora la planetaria 6 . In totale dovrà girare per 10 minuti in prima velocità e altri 5 minuti in seconda velocità.",
+      "Quando l'impasto sarà ben incordato trasferitelo su un piano, dategli delle pieghe 7 e pirlatelo 8 . Quindi, dopo aver dato una forma sferica, trasferitelo in una ciotola 9",
+      "Coprite con pellicola 10 e lasciate lievitare un'ora a temperatura ambiente, lontano da correnti d'aria. Dopo un'ora trasferite in frigorifero e lasciate maturare per 18 ore 11 , poi trasferitelo su un piano leggermente unto 12 .",
+      "A questo punto 13  dividetelo in due panetti da circa 900 g 14 . Ungete due teglie da 35x28 cm 15 .",
+      "Adagiate un panetto d'impasto all'interno di ciascuna teglia 16 e aspettate 30 minuti. Nel frattempo preparate la salamoia unendo in una ciotolina olio, acqua 17 e sale 18 .",
+      "Mescolate con una forchetta per creare l'emulsione 19 , quindi iniziate a stendere ciascuna focaccia con le mani 20 . Se l'impasto dovesse fare resistenza lasciate riposare la focaccia ancora alcuni minuti e poi continuate a stenderla. Condite le due focacce con i pomodori secchi 21 ,",
+      "le alici 22 e l'origano fresco 23 . Lasciate lievitare ancora per 30 minuti. Versate la salamoia dividendola sulle due focacce 24 .",
+      "Realizzate poi i tipici buchi utilizzando le 3 dita centrali della mano 25 26 . Cuocete in forno statico preriscaldato a 210° per 30 minuti, poi azionate la modalità ventilata e cuocete per altri 5 minuti sempre a 210°. Sfornate la focaccia 27 e servitela ancora calda, altrimenti lasciatela raffreddare su una gratella."
+    ],
+    "steps_clean": [
+      "Per preparare la focaccia versate in planetaria il lievito madre liquido già rinfrescato da almeno 5 ore insieme a metà della dose di acqua. Fate partire la planetaria con il gancio e versate a cucchiaiate la farina e la semola.",
+      "Aggiungete poco alla volta l'acqua restante e quando starà per esaurirsi aggiungete anche il sale. Unite l'acqua rimasta e lasciate lavorare ancora la planetaria. In totale dovrà girare per 10 minuti in prima velocità e altri 5 minuti in seconda velocità.",
+      "Quando l'impasto sarà ben incordato trasferitelo su un piano, dategli delle pieghe e pirlatelo. Quindi, dopo aver dato una forma sferica, trasferitelo in una ciotola",
+      "Coprite con pellicola e lasciate lievitare un'ora a temperatura ambiente, lontano da correnti d'aria. Dopo un'ora trasferite in frigorifero e lasciate maturare per 18 ore, poi trasferitelo su un piano leggermente unto.",
+      "A questo punto  dividetelo in due panetti da circa 900 g. Ungete due teglie da 35x28 cm.",
+      "Adagiate un panetto d'impasto all'interno di ciascuna teglia e aspettate 30 minuti. Nel frattempo preparate la salamoia unendo in una ciotolina olio, acqua e sale.",
+      "Mescolate con una forchetta per creare l'emulsione, quindi iniziate a stendere ciascuna focaccia con le mani. Se l'impasto dovesse fare resistenza lasciate riposare la focaccia ancora alcuni minuti e poi continuate a stenderla. Condite le due focacce con i pomodori secchi,",
+      "le alici e l'origano fresco. Lasciate lievitare ancora per 30 minuti. Versate la salamoia dividendola sulle due focacce.",
+      "Realizzate poi i tipici buchi utilizzando le 3 dita centrali della mano 26. Cuocete in forno statico preriscaldato a 210° per 30 minuti, poi azionate la modalità ventilata e cuocete per altri 5 minuti sempre a 210°. Sfornate la focaccia 27 e servitela ancora calda, altrimenti lasciatela raffreddare su una gratella."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:25.383903+00:00"
   },
   {
     "id": 279137066215984,
@@ -56493,6 +57297,49 @@
       "dietary_verified": [],
       "allergen_verified": false,
       "validation_version": 1
-    }
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15156/15156_focaccia_di_patate_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15156/15156_focaccia_di_patate_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15156/15156_focaccia_patate_ok_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15156/15156_focaccia_patate_ok_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15156/15156_focaccia_patate_ok_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15156/15156_focaccia_di_patate_penultima_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15156/15156_focaccia_patate_ok_strip_19-21.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la focaccia di patate, iniziate cuocendo le patate in pentola a pressione per circa 15 minuti 1 (se le lessate in una normale pentola ci vorrà almeno mezz'ora), poi pelatele 2 e passatele raccogliendo la purea in una ciotola 3 . Lasciatele raffreddare,",
+      "intanto nella tazza di una planetaria versate la farina setacciata, il lievito disidratato e il malto 4 , poi aggiungete anche il sale sui bordi 5 e le patate oramai fredde 6 . Potete utilizzare anche il lievito di birra fresco: in questo caso la dose da usare è 21 g. Il malto, invece, può essere sostituito dalla stessa quantità di miele.",
+      "Quindi montate la foglia K 7 , versate l'olio 8 e iniziate ad impastare. Unite a filo l'acqua a temperatura ambiente 9 e quando tutti gli ingredienti si saranno amalgamati,",
+      "sostituite la foglia con il gancio 10 . Lavorate ancora 5 minuti, quindi arrestate la planetaria 11 e trasferite l'impasto su un piano di lavoro leggermente oleato 12 . Lavoratelo con il tarocco perchè risulterà piuttosto appiccicoso, dategli una forma ovale",
+      "e ponetelo in una ciotola leggermente oleata 13 ; coprite con pellicola e ponete a lievitare in forno spento con luce accesa o coprite con una copertina di lana (dovrà mantenersi tra i 28-30°), fino al raddoppiamento del suo volume 14 : ci vorranno circa 2 ore. Oleate una teglia in alluminio di 28 cm di diametro; una volta lievitato, riprendete l'impasto 15",
+      "stendetelo leggeremnte in un disco, quindi finite di stendere l'impasto all'interno della teglia spandendolo uniformemente per tutta la superficie; realizzate dei forellini con una leggera pressione delle dita 16 . Quindi condite la focaccia di patate con un emulsione di acqua e olio e il rosmarino (17-18).",
+      "Per ultimo condite con il fior di sale (o il sale grosso), distribuendolo in maniera omogenea 19 . Fate ancora lievitare per 30 minuti coperto con pellicola, dopodichè cuocete la focaccia in forno statico preriscaldato a 200° per 20 minuti (se forno ventilato a 180° per circa 10 minuti, controllando che la base sia cotta prima di estrarre la focaccia, sollevandola). Una volta cotta e ben dorata in superficie, sfornatela 20 e fatela intiepidire quindi servitela tagliata a tranci 21 da sola o per accompagnare salumi e formaggi."
+    ],
+    "steps_clean": [
+      "Per preparare la focaccia di patate, iniziate cuocendo le patate in pentola a pressione per circa 15 minuti (se le lessate in una normale pentola ci vorrà almeno mezz'ora), poi pelatele e passatele raccogliendo la purea in una ciotola. Lasciatele raffreddare,",
+      "intanto nella tazza di una planetaria versate la farina setacciata, il lievito disidratato e il malto, poi aggiungete anche il sale sui bordi e le patate oramai fredde. Potete utilizzare anche il lievito di birra fresco: in questo caso la dose da usare è 21 g. Il malto, invece, può essere sostituito dalla stessa quantità di miele.",
+      "Quindi montate la foglia K, versate l'olio e iniziate ad impastare. Unite a filo l'acqua a temperatura ambiente e quando tutti gli ingredienti si saranno amalgamati,",
+      "sostituite la foglia con il gancio. Lavorate ancora 5 minuti, quindi arrestate la planetaria e trasferite l'impasto su un piano di lavoro leggermente oleato. Lavoratelo con il tarocco perchè risulterà piuttosto appiccicoso, dategli una forma ovale",
+      "e ponetelo in una ciotola leggermente oleata; coprite con pellicola e ponete a lievitare in forno spento con luce accesa o coprite con una copertina di lana (dovrà mantenersi tra i 28-30°), fino al raddoppiamento del suo volume: ci vorranno circa 2 ore. Oleate una teglia in alluminio di 28 cm di diametro; una volta lievitato, riprendete l'impasto",
+      "stendetelo leggeremnte in un disco, quindi finite di stendere l'impasto all'interno della teglia spandendolo uniformemente per tutta la superficie; realizzate dei forellini con una leggera pressione delle dita. Quindi condite la focaccia di patate con un emulsione di acqua e olio e il rosmarino (17-18).",
+      "Per ultimo condite con il fior di sale (o il sale grosso), distribuendolo in maniera omogenea 19 . Fate ancora lievitare per 30 minuti coperto con pellicola, dopodichè cuocete la focaccia in forno statico preriscaldato a 200° per 20 minuti (se forno ventilato a 180° per circa 10 minuti, controllando che la base sia cotta prima di estrarre la focaccia, sollevandola). Una volta cotta e ben dorata in superficie, sfornatela 20 e fatela intiepidire quindi servitela tagliata a tranci 21 da sola o per accompagnare salumi e formaggi."
+    ],
+    "images_import_version": 8,
+    "step_images_checked_at": "2026-10-11T12:05:22.684568+00:00"
   }
 ]

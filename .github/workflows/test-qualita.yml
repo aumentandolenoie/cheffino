@@ -1,5 +1,9 @@
 name: Cheffino - Test qualita
 on:
+  push:
+    paths:
+      - 'data/catalogo_pubblicato.json'
+      - '.github/workflows/test-qualita.yml'
   pull_request:
   workflow_dispatch:
 permissions:

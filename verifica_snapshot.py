@@ -16,7 +16,7 @@ def current_visible(rec):
             bool(rec.get("source")) and isinstance(rec.get("ingredients"), list) and
             len(rec["ingredients"]) > 0)
 
-def compare(source, snapshot):
+def compare(source, snapshot, previous=None):
     source_data=json.loads(Path(source).read_text(encoding="utf-8"))
     published=json.loads(Path(snapshot).read_text(encoding="utf-8"))
     if not isinstance(source_data,list) or not isinstance(published,list):
@@ -31,6 +31,16 @@ def compare(source, snapshot):
     if extra:
         for rec in extra[:20]:
             print(f"NUOVA DA ESAMINARE: {rec.get('name')} | id={rec.get('id')}")
+    if previous is not None and Path(previous).exists():
+        past = json.loads(Path(previous).read_text(encoding="utf-8"))
+        if not isinstance(past, list):
+            raise ValueError("Snapshot precedente non valido")
+        old_published = {rec.get("id"): rec for rec in past}
+        lost_previous = [rec for rid, rec in old_published.items() if rid not in new]
+        if lost_previous:
+            for rec in lost_previous[:20]:
+                print(f"PERDITA SNAPSHOT PRECEDENTE: {rec.get('name')} | id={rec.get('id')}")
+            raise ValueError("Snapshot nuovo rimuove ricette già pubblicate: arresto per verifica")
     if missing:
         raise ValueError("Snapshot non sicuro: ricette precedentemente visibili scomparse. Nessuna pubblicazione automatica.")
     return len(old),len(new)
@@ -39,5 +49,6 @@ if __name__=="__main__":
     parser=argparse.ArgumentParser()
     parser.add_argument("--source",type=Path,default=Path("data/catalogo.json"))
     parser.add_argument("--snapshot",type=Path,default=Path("data/catalogo_pubblicato.json"))
+    parser.add_argument("--previous",type=Path,default=None)
     args=parser.parse_args()
-    compare(args.source,args.snapshot)
+    compare(args.source,args.snapshot,args.previous)

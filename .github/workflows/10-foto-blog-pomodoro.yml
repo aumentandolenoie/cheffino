@@ -28,7 +28,7 @@ jobs:
         run: |
           python recupera_foto_blog_pomodoro.py --apply
           # Soltanto DOPO che le tre foto sono verificate rimuovi la sospensione.
-          python -c 'import json,pathlib; p=pathlib.Path("data/revisioni_foto_pubblicazione.json"); a=json.loads(p.read_text()); a=[x for x in a if x.get("id")!=5]; p.write_text(json.dumps(a,ensure_ascii=False,indent=2)+"\\n")'
+          python -c 'import json,pathlib; p=pathlib.Path("data/revisioni_foto_pubblicazione.json"); a=json.loads(p.read_text()); a=[x for x in a if x.get("id")!=5]; p.write_text(json.dumps(a,ensure_ascii=False,indent=2)+chr(10))'
           python controlla_integrita_catalogo.py
           python pubblica_catalogo.py
           python verifica_snapshot.py --previous /tmp/snapshot_pre_blog.json --approved-photo-review data/revisioni_foto_pubblicazione.json

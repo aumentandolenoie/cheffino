@@ -41,6 +41,11 @@ def patch(path, dry_run=False):
     p = Path(path)
     records = json.loads(p.read_text(encoding="utf-8"))
     targets = [r for r in records if r.get("id") == ID and r.get("url") == PAGE]
+    if not targets and p.name == "catalogo_pubblicato.json":
+        # La ricetta può essere sospesa dal piano mentre si verificano le
+        # fotografie dei passaggi: resta conservata nel catalogo grezzo.
+        print(f"Ricetta ID 5 in revisione: assente dallo snapshot {path}")
+        return False
     if len(targets) != 1:
         raise ValueError(f"Scheda ID 5 con URL esatto non trovata in {path}")
     rec = targets[0]

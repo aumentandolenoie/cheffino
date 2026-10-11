@@ -35,3 +35,13 @@ def test_prevent_empty_overwrite(tmp_path):
     else:
         raise AssertionError("Expected ValueError")
     assert target.read_text()=="previous"
+
+def test_keep_legacy_recipe_without_cover():
+    # Le schede storiche possono essere visibili pur senza immagine.
+    rec = sample(id=5, image_url=None, validazione_automatica=None)
+    assert eligible(rec) == (True, "ok")
+
+
+def test_imported_approved_recipe_still_requires_cover():
+    rec = sample(image_url=None)
+    assert eligible(rec) == (False, "copertina_assente")

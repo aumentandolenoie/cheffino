@@ -14369,6 +14369,143 @@
     "step_images_checked_at": "2026-10-11T10:54:56.044861+00:00"
   },
   {
+    "id": 182532426058049,
+    "name": "Hamburger vegetariano autunnale",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 70,
+    "ingredients_display": [
+      "Funghi champignon 300 g",
+      "Patate 200 g",
+      "Parmigiano Reggiano DOP 120 g",
+      "Uova (2 medie) 110 g",
+      "Pangrattato 80 g",
+      "Aglio 1 spicchio",
+      "Prezzemolo 10 g",
+      "Olio extravergine d'oliva 30 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Hamburger-vegetariano-autunnale.html",
+    "image_url": "https://www.giallozafferano.it/images/342-34213/Hamburger-vegetariano-autunnale_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 333.8,
+    "protein": null,
+    "carbs": 22.7,
+    "fats": 18.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Funghi champignon",
+        300.0,
+        "g"
+      ],
+      [
+        "Patate",
+        200.0,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP",
+        120.0,
+        "g"
+      ],
+      [
+        "Uova (2 medie)",
+        110.0,
+        "g"
+      ],
+      [
+        "Pangrattato",
+        80.0,
+        "g"
+      ],
+      [
+        "Aglio",
+        1.0,
+        "spicchio"
+      ],
+      [
+        "Prezzemolo",
+        10.0,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30.0,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'hamburger vegetariano autunnale per prima cosa lessate le patate partendo da acqua fredda per circa 30 minuti dal bollore, o finché saranno abbastanza morbide da poterle infilzare facilmente con una forchetta. Nel frattempo tritate l'aglio 1, poi passate alla pulizia dei funghi: rimuovete la base e strofinate delicatamente con della carta assorbente inumidita.",
+      "Affettate sottilmente gli champignon e spostatevi ai fornelli. In una padella scaldate un filo d'olio con l'aglio, poi aggiungete funghi e un pizzico di sale. Aromatizzate con il prezzemolo tritato e saltate i funghi per circa 5 minuti. Una volta cotti, tritate i funghi al coltello.",
+      "A questo punto le patate saranno cotte: pelatele 7 e schiacciatele in una ciotola 8 . Unite i funghi tritati al coltello 9 .",
+      "Aggiungete anche il formaggio grattugiato 10 , le uova 11 e del prezzemolo tritato 12 .",
+      "In ultimo versate il pangrattato e regolate di sale e di pepe 13 . Impastate bene per amalgamare il tutto 14 e dividete l'impasto in 4 porzioni 15 . Schiacciatele fra i palmi delle mani per formare i burger.",
+      "Trasferite i burger in una teglia foderata con carta forno leggermente unta di olio 16 , poi condite anche la superficie e cuocete in forno statico preriscaldato a 200° per circa 20 minuti 17 . I vostri hamburger vegetariani autunnali sono pronti per essere gustati 18 !"
+    ],
+    "needs_review": false,
+    "imported_at": "2026-10-10T16:34:03.134044+00:00",
+    "repaired_at": "2026-10-10T16:34:47.788492+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T13:53:53.564307+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/hamburger-vegetariano-autunnale_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/hamburger-vegetariano-autunnale_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/hamburger-vegetariano-autunnale_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/34213_hamburger-vegetariano-autunnale_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/34213_hamburger-vegetariano-autunnale_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/34213_hamburger-vegetariano-autunnale_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/34213_hamburger-vegetariano-autunnale_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/34213_hamburger-vegetariano-autunnale_strip_16-18.jpg"
+      ]
+    ]
+  },
+  {
     "id": 125842797061379,
     "name": "Pasta con crema di scarola e nduja",
     "emoji": "🍽️",

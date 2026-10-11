@@ -42022,7 +42022,29 @@
       "validation_version": 1
     },
     "images_import_version": 10,
-    "step_images_checked_at": "2026-10-11T13:53:53.564307+00:00"
+    "step_images_checked_at": "2026-10-11T13:53:53.564307+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/hamburger-vegetariano-autunnale_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/hamburger-vegetariano-autunnale_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/hamburger-vegetariano-autunnale_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/34213_hamburger-vegetariano-autunnale_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/34213_hamburger-vegetariano-autunnale_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/34213_hamburger-vegetariano-autunnale_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/34213_hamburger-vegetariano-autunnale_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/342/34213/34213_hamburger-vegetariano-autunnale_strip_16-18.jpg"
+      ]
+    ]
   },
   {
     "id": 157146087951858,

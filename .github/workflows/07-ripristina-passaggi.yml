@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - '.github/workflows/07-ripristina-passaggi.yml'
+      - 'ripristina_passaggi_storici.py'
   workflow_dispatch:
 permissions:
   contents: write

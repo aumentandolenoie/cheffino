@@ -25,7 +25,11 @@ def eligible(rec):
     if isinstance(verdict, dict) and verdict.get("approved") is not True:
         return False, "validazione_non_approvata"
     image = rec.get("image_url")
-    if not isinstance(image, str) or urlparse(image).scheme != "https" or not urlparse(image).hostname:
+    has_cover = isinstance(image, str) and urlparse(image).scheme == "https" and bool(urlparse(image).hostname)
+    # Compatibilita' con le schede storiche gia' visibili nell'app:
+    # non eliminarle da uno snapshot per una copertina assente.
+    # Le nuove importazioni validate richiedono comunque la copertina.
+    if not has_cover and isinstance(verdict, dict):
         return False, "copertina_assente"
     if isinstance(verdict, dict):
         if not isinstance(rec.get("steps"), list) or not rec["steps"]:

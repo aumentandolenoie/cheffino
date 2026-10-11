@@ -83,7 +83,8 @@
       "Scolate la pasta un minuto prima del tempo indicato in confezione e versatela in padella, unite anche la crema di ricotta e mescolate per amalgamare gli ingredienti.",
       "Aggiungete il Grana Padano grattugiato, un mestolo di acqua di cottura della pasta, mescolate e impiattate. Completate con qualche foglia di basilico e la vostra pasta zucchine e ricotta è pronta per essere servita"
     ],
-    "step_images_checked_at": "2026-10-10T13:42:59.438014+00:00",
+    "step_images_checked_at": "2026-10-11T12:51:53.997822+00:00",
+    "images_import_version": 10,
     "steps_precedenti": [
       "Taglia le zucchine a dadini e trita lo scalogno.",
       "Fai appassire lo scalogno con olio e poca acqua, poi cuoci le zucchine per pochi minuti.",
@@ -145,8 +146,7 @@
         "https://ricette.giallozafferano.it/images/ricette/282/28200/pasta-zucchine-e-ricotta_21.jpg"
       ]
     ],
-    "image_url_precedente": "https://ricette.giallozafferano.it/images/ricette/282/28200/pasta-zucchine-e-ricotta_16.jpg",
-    "images_import_version": 10
+    "image_url_precedente": "https://ricette.giallozafferano.it/images/ricette/282/28200/pasta-zucchine-e-ricotta_16.jpg"
   },
   {
     "id": 4,
@@ -207,7 +207,7 @@
       "Rompete le uova in una ciotola, poi aggiungete il Parmigiano Reggiano grattugiato, un pizzico di pepe nero e un pizzico di sale. Sbattere le uova con le fruste, o con una forchetta, fino a che tuorli e albumi non saranno completamente amalgamati. Aggiungete gli spinaci al composto di uova e mescolate velocemente.",
       "Scaldate un giro di olio extravergine di oliva nella stessa padella in cui avete cotto gli spinaci, versate il composto di uova e cuocete con coperchio a fuoco dolce per una decina di minuti. Quando la superficie della frittata comincerà a solidificarsi, girate la frittata, aiutandovi con un piatto piano, un coperchio o una spatola larga. Continuate la cottura per altri 5 minuti circa o il tempo necessario per dorare la frittata. Servite la frittata di spinaci ancora calda."
     ],
-    "step_images_checked_at": "2026-10-10T16:36:16.401348+00:00",
+    "step_images_checked_at": "2026-10-11T12:51:48.563788+00:00",
     "images_import_version": 10,
     "steps_precedenti": [
       "Lava e pulisci gli spinaci, eliminando i gambi più duri. Falli saltare in padella con olio, poi lasciali intiepidire, strizzali e tritali.",
@@ -245,68 +245,6 @@
     ]
   },
   {
-    "id": 5,
-    "name": "Pasta al pomodoro e basilico",
-    "emoji": "🍅",
-    "style": "Classici italiani",
-    "type": "Primo",
-    "time": 35,
-    "ingredients_display": [
-      "Pasta",
-      "Polpa di pomodoro",
-      "Basilico",
-      "Aglio",
-      "Olio d’oliva"
-    ],
-    "source": "GialloZafferano Blog — Allacciate il grembiule",
-    "url": "https://blog.giallozafferano.it/allacciateilgrembiule/pasta-pomodoro-basilico/",
-    "image_url": "https://blog.giallozafferano.it/allacciateilgrembiule/wp-content/uploads/2026/05/pasta-pomodoro-e-basilico3-720x480.jpg",
-    "servings": 4,
-    "kcal": null,
-    "protein": null,
-    "carbs": null,
-    "fats": null,
-    "cost": "Economico",
-    "ingredients": [
-      [
-        "Pasta",
-        360,
-        "g"
-      ],
-      [
-        "Pomodorini ciliegino",
-        200,
-        "g"
-      ],
-      [
-        "Polpa di pomodoro",
-        200,
-        "ml"
-      ],
-      [
-        "Olio extravergine di oliva",
-        null,
-        "q.b."
-      ],
-      [
-        "Basilico",
-        5,
-        "foglie"
-      ],
-      [
-        "Aglio",
-        1,
-        "spicchio"
-      ]
-    ],
-    "steps": [
-      "Dividi i pomodorini e mettili in padella con aglio e un filo d’olio.",
-      "Cuoci i pomodorini per 5–10 minuti; aggiungi polpa di pomodoro e basilico e prosegui per circa 10 minuti.",
-      "Lessa la pasta in acqua salata e scolala al dente.",
-      "Salta la pasta nel sugo con poca acqua di cottura e completa con basilico fresco."
-    ]
-  },
-  {
     "id": 24,
     "name": "Pasta e ceci cremosa",
     "emoji": "🍲",
@@ -324,7 +262,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-ceci-cremosa.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/236-23677/Pasta-e-ceci-cremosa_650x433_wm.jpg",
     "servings": 4,
     "kcal": 863.5,
     "protein": 41.3,
@@ -391,7 +329,8 @@
       "Nel frattempo riprendete i ceci che avete messo da parte e frullateli con un mixer a immersione per ridurli in crema. Trascorso il tempo di cottura della pasta versate la crema di ceci nella pentola e mescolate bene per amalgamarla.",
       "Ora spegnete il fuoco e mantecate con un giro abbondante di olio e il Grana Padano DOP grattugiato. Mescolate il tutto e servite subito la vostra pasta e ceci cremosa, completando i piatti con un filo di olio a crudo, una macinata di pepe e qualche fogliolina di salvia!"
     ],
-    "step_images_checked_at": "2026-10-10T13:43:05.429070+00:00",
+    "step_images_checked_at": "2026-10-11T12:51:56.757282+00:00",
+    "images_import_version": 10,
     "steps_precedenti": [
       "Trita lo scalogno e fallo ammorbidire in pentola con olio e salvia; unisci il concentrato di pomodoro.",
       "Aggiungi i ceci sgocciolati, copri appena con acqua, regola di sale e pepe e cuoci dolcemente per circa 20 minuti.",
@@ -446,8 +385,7 @@
         "https://ricette.giallozafferano.it/images/ricette/236/23677/pasta-e-ceci-cremosa_17.jpg",
         "https://ricette.giallozafferano.it/images/ricette/236/23677/pasta-e-ceci-cremosa_18.jpg"
       ]
-    ],
-    "images_import_version": 10
+    ]
   },
   {
     "id": 25,
@@ -467,7 +405,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Vellutata-di-zucca.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/22-2215/Vellutata-di-zucca_650x433_wm.jpg",
     "servings": 4,
     "kcal": 488,
     "protein": 8.2,
@@ -535,7 +473,8 @@
       "Versate le nocciole in una padella insieme al rosmarino e a un filo d'olio e tostate per qualche minuto.",
       "Guarnite i piatti con la panna tenuta da parte, mescolate leggermente e completate con le nocciole tostate e qualche aghetto di rosmarino: la vostra vellutata di zucca è pronta per essere servita!"
     ],
-    "step_images_checked_at": "2026-10-10T13:43:08.058012+00:00",
+    "step_images_checked_at": "2026-10-11T12:52:13.124812+00:00",
+    "images_import_version": 10,
     "steps_precedenti": [
       "Pulisci la zucca e tagliala a pezzi; affetta i porri.",
       "Fai insaporire i porri in olio, aggiungi la zucca e versa il brodo vegetale.",
@@ -588,8 +527,7 @@
         "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_20.jpg",
         "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_21.jpg"
       ]
-    ],
-    "images_import_version": 10
+    ]
   },
   {
     "id": 26,
@@ -687,7 +625,8 @@
       "Nella stessa padella in cui avete rosolato il pollo versate il liquido ottenuto 16 , lasciate addensare per 1 minuto mescolando con la frusta 17 e versate anche il pollo 18 .",
       "Mescolate lentamente e lasciate andare sul fuoco per 3-4 minuti. A fine cottura profumate con la scorza di limone 19 , timo 20 e origano fresco. Servite il pollo al limone ben caldo 21 ."
     ],
-    "step_images_checked_at": "2026-10-10T13:43:10.680906+00:00",
+    "step_images_checked_at": "2026-10-11T12:52:10.414710+00:00",
+    "images_import_version": 10,
     "steps_precedenti": [
       "Grattugia la scorza del limone e spremi il succo, filtrandolo.",
       "Prepara il pollo con farina e aromi e fallo cuocere in padella, secondo le indicazioni della fonte.",
@@ -749,8 +688,7 @@
         "https://ricette.giallozafferano.it/images/ricette/235/23580/draft-pollo-al-limone_21.jpg"
       ]
     ],
-    "image_url_precedente": null,
-    "images_import_version": 10
+    "image_url_precedente": "https://www.giallozafferano.it/images/196-19689/Pollo-al-limone_650x433_wm.jpg"
   },
   {
     "id": 27,
@@ -768,7 +706,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-zucchine.html",
-    "image_url": "https://www.giallozafferano.com/images/226-22692/pasta-and-zucchini_1200x800.jpg",
+    "image_url": "https://www.giallozafferano.it/images/166-16633/Pasta-e-zucchine_650x433_wm.jpg",
     "servings": 4,
     "kcal": 356.6,
     "protein": 12.5,
@@ -819,7 +757,8 @@
       "Trasferite i fusilli nella padella con le zucchine e proseguite la cottura per un paio di minuti, aiutandovi con poca acqua di cottura della pasta per regolare la cremosità. Mescolate per amalgamare bene la pasta al condimento, dovrà risultare cremosa e ben legata.",
       "In ultimo mantecate con un filo d’olio. Impiattate e completate con una macinata di pepe e qualche fogliolina di basilico. La vostra pasta e zucchine è pronta per essere servita!"
     ],
-    "step_images_checked_at": "2026-10-10T14:00:32.073224+00:00",
+    "step_images_checked_at": "2026-10-11T12:52:04.955249+00:00",
+    "images_import_version": 10,
     "steps_precedenti": [
       "Grattugia le zucchine e insaporisci olio e aglio in padella.",
       "Unisci le zucchine, sala e pepa; cuoci mescolando per circa cinque minuti.",
@@ -866,8 +805,7 @@
         "https://ricette.giallozafferano.it/images/ricette/166/16633/pasta-e-zucchine_14.jpg",
         "https://ricette.giallozafferano.it/images/ricette/166/16633/pasta-e-zucchine_15.jpg"
       ]
-    ],
-    "images_import_version": 10
+    ]
   },
   {
     "id": 28,
@@ -885,7 +823,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-patate.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/ricette/167/16758/foto_hd/hd650x433_wm.jpg",
     "servings": 4,
     "kcal": 444.6,
     "protein": 12.2,
@@ -941,7 +879,8 @@
       "e aggiungendo un mestolo di acqua bollente alla volta quando necessario; ci vorranno circa 20 minuti. Quando le patate sono quasi cotte, aggiustate di sale e di pepe. Nel frattempo l'acqua per cuocere la pasta sarà arrivata a bollore, quindi cuocetela, poi scolatela al dente direttamente nel tegame con le patate,",
       "mescolate bene e finite la cottura aggiungendo un po’ di acqua di cottura della pasta al bisogno: unendo pasta e patate nello stesso tegame si creerà una deliziosa cremina grazie all’amido rilasciato dalla pasta e dalle patate. In ultimo, insaporite con qualche fogliolina di timo e pepe a piacere, spegnete il fuoco e condite con un filo di olio extravergine a crudo. La vostra pasta e patate è pronta per essere gustata ancora calda!"
     ],
-    "step_images_checked_at": "2026-10-10T14:00:34.789713+00:00",
+    "step_images_checked_at": "2026-10-11T12:51:59.476750+00:00",
+    "images_import_version": 10,
     "steps_precedenti": [
       "Sbuccia le patate e tagliale a piccoli cubi.",
       "Fai rosolare lo scalogno tritato con olio e rosmarino.",
@@ -978,8 +917,7 @@
       [
         "https://ricette.giallozafferano.it/images/ricette/167/16758/16758_pasta_e_patate_strip_13-15.jpg"
       ]
-    ],
-    "images_import_version": 10
+    ]
   },
   {
     "id": 29,
@@ -997,7 +935,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-alla-sorrentina.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/192-19253/Pasta-alla-sorrentina_650x433_wm.jpg",
     "servings": 4,
     "kcal": 568.9,
     "protein": 25.3,
@@ -1053,7 +991,8 @@
       "sullo stesso poi aggiungete metà dei cubetti di mozzarella e spolverizzate con un po’ di Parmigiano. Ricoprite con la pasta restante,",
       "poi aggiungete la mozzarella ed infine ricoprite con il Parmigiano 14. Ripassate in forno con la modalità grill impostata per circa 5 minuti, fino a che la pasta non risulterà ben gratinata e la mozzarella fusa (se non avete il grill potete mettere la teglia sul ripiano più alto e accendere il forno alla massima potenza, facendo però attenzione che non bruci!). Guarnite la vostra pasta alla sorrentina, con del basilico fresco e portate subito in tavola 15!"
     ],
-    "step_images_checked_at": "2026-10-10T14:00:37.470753+00:00",
+    "step_images_checked_at": "2026-10-11T12:51:51.292680+00:00",
+    "images_import_version": 10,
     "steps_precedenti": [
       "Cuoci la passata con olio, aglio e basilico a fuoco dolce per circa mezz’ora.",
       "Cuoci i fusilli al dente e taglia a cubetti la mozzarella.",
@@ -1090,8 +1029,7 @@
       [
         "https://ricette.giallozafferano.it/images/ricette/192/19253/17016_pasta_alla_sorrentina_strip_13-15.jpg"
       ]
-    ],
-    "images_import_version": 10
+    ]
   },
   {
     "id": 30,
@@ -1109,7 +1047,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-zucchine-e-zafferano.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/293-29398/Pasta-zucchine-e-zafferano_650x433_wm.jpg",
     "servings": 4,
     "kcal": 376,
     "protein": 14.8,
@@ -1161,7 +1099,8 @@
       "Unite ancora un mestolino di acqua di cottura e un filo d'olio. Saltate bene il tutto e in ultimo mantecate con il Grana grattugiato.",
       "Saltate ancora una volta e impiattate. Decorate con le foglioline di menta fresca e servite subito la vostra pasta zucchine e zafferano ben calda!"
     ],
-    "step_images_checked_at": "2026-10-10T14:00:40.055204+00:00",
+    "step_images_checked_at": "2026-10-11T12:52:07.665236+00:00",
+    "images_import_version": 10,
     "steps_precedenti": [
       "Taglia le zucchine a cubetti e saltale in padella con olio finché sono morbide.",
       "Cuoci la pasta; sciogli lo zafferano in poca acqua tiepida.",
@@ -1215,8 +1154,7 @@
         "https://ricette.giallozafferano.it/images/ricette/293/29398/pasta-zucchine-e-zafferano_17.jpg",
         "https://ricette.giallozafferano.it/images/ricette/293/29398/pasta-zucchine-e-zafferano_18.jpg"
       ]
-    ],
-    "images_import_version": 10
+    ]
   },
   {
     "id": 31,
@@ -1234,7 +1172,7 @@
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-ricotta.html",
-    "image_url": null,
+    "image_url": "https://www.giallozafferano.it/images/168-16864/Pasta-e-ricotta_650x433_wm.jpg",
     "servings": 4,
     "kcal": 551.3,
     "protein": 23.8,
@@ -1284,7 +1222,8 @@
       "Aggiungete le foglioline di timo, mescolate ancora, e infine aggiustate di sale e pepe.",
       "Scolate la pasta al dente, conservando un po’ della sua acqua di cottura, e versatela direttamente nella ciotola con il composto di ricotta; mescolate bene per amalgamare la pasta al condimento, allungandolo con un mestolo di acqua di cottura, se necessario: la vostra cremosissima pasta e ricotta è pronta per essere servita!"
     ],
-    "step_images_checked_at": "2026-10-10T14:00:42.735419+00:00",
+    "step_images_checked_at": "2026-10-11T12:52:02.255662+00:00",
+    "images_import_version": 10,
     "steps_precedenti": [
       "Fai cuocere i fusilli in abbondante acqua salata.",
       "Lavora la ricotta con Parmigiano, panna, timo e pepe per ottenere una crema.",
@@ -1316,8 +1255,7 @@
       [
         "https://ricette.giallozafferano.it/images/ricette/168/16864/16864_pasta_e_ricotta_strip_10-12.jpg"
       ]
-    ],
-    "images_import_version": 10
+    ]
   },
   {
     "id": 42270105876548,
@@ -8117,8 +8055,45 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:38.216410+00:00"
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T12:49:15.928978+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_1-3.jpg"
+      ],
+      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_13-15.jpg"
+      ],
+      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_19-21.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con le zucche iniziate tagliando a fette di 1 cm di spessore la zucca 1 , poi eliminate con un coltello la buccia 2 e tagliate ciascuna fetta a bastoncini di 2 cm di spessore dai quali ricaverete dei triangolini 3 .",
+      "Lavate e spuntate le zucchine, quindi tagliatele a rondelle di mezzo centimetro di spessore 4 , prendete ciascuna rondella e intagliatela incidendo due triangolini distanziati (5-6),",
+      "estraete i triangolini e otterrete la forma di una simpatica zucca 7 . Ripetete lo steso procedimento con le carote: pelatele, spuntate quindi tagliatele a rondelle di mezzo centimetro 8 , intagliate con un coltello i triangolini 9",
+      "estraeteli 10 per avere le vostre zucche arancioni 11 . Intanto ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta. In una padella scaldate l’olio di oliva, quindi versate i triangolini di zucca 12",
+      "insaporite con lo spicchio di aglio intero (potete ometterlo se non lo preferite) 13 e il rosmarino 14 , lasciate rosolare per 2-3 minuti, quindi unite anche le carote 15",
+      "e le zucchine 16 , salate a piacere poi sfumate con un mestolo di acqua di cottura della pasta 17 e cuocete per circa 8 minuti a fuoco basso, a fine cottura eliminate l’aglio con una pinza da cucina. Quando l’acqua per la cottura bollirà, versate le mini penne rigate 18",
+      "Cuocete la pasta per 6 minuti o il tempo riportato sulla confezione, quindi scolatela direttamente nella padella con il condimento 19 , insaporite con il Parmigiano grattugiato 20 e servite subito la pasta con le zucche 21 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con le zucche iniziate tagliando a fette di 1 cm di spessore la zucca, poi eliminate con un coltello la buccia e tagliate ciascuna fetta a bastoncini di 2 cm di spessore dai quali ricaverete dei triangolini.",
+      "Lavate e spuntate le zucchine, quindi tagliatele a rondelle di mezzo centimetro di spessore, prendete ciascuna rondella e intagliatela incidendo due triangolini distanziati (5-6),",
+      "estraete i triangolini e otterrete la forma di una simpatica zucca 7 . Ripetete lo steso procedimento con le carote: pelatele, spuntate quindi tagliatele a rondelle di mezzo centimetro 8 , intagliate con un coltello i triangolini 9",
+      "estraeteli 10 per avere le vostre zucche arancioni 11 . Intanto ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta. In una padella scaldate l’olio di oliva, quindi versate i triangolini di zucca 12",
+      "insaporite con lo spicchio di aglio intero (potete ometterlo se non lo preferite) 13 e il rosmarino 14 , lasciate rosolare per 2-3 minuti, quindi unite anche le carote 15",
+      "e le zucchine 16 , salate a piacere poi sfumate con un mestolo di acqua di cottura della pasta 17 e cuocete per circa 8 minuti a fuoco basso, a fine cottura eliminate l’aglio con una pinza da cucina. Quando l’acqua per la cottura bollirà, versate le mini penne rigate 18",
+      "Cuocete la pasta per 6 minuti o il tempo riportato sulla confezione, quindi scolatela direttamente nella padella con il condimento 19 , insaporite con il Parmigiano grattugiato 20 e servite subito la pasta con le zucche 21 !"
+    ]
   },
   {
     "id": 246013308824331,
@@ -8453,8 +8428,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:16.002149+00:00",
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T12:51:45.868273+00:00",
     "step_photo_source_evidence": {
       "status": "verified_absent",
       "source_url": "https://ricette.giallozafferano.it/Insalata-di-farro-alla-greca.html",
@@ -10889,8 +10864,65 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:35.090266+00:00"
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T12:49:13.242588+00:00",
+    "step_images": [
+      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_8.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con datterini, capperi e burrata iniziate lavando e tagliando i pomodorini a metà, nel senso della lunghezza 1 , disponeteli su una teglia foderata con carta da forno 2 , con il lato tagliato rivolto verso l’alto. Condite con abbondante olio extravergine d'oliva 3 .",
+      "Cospargete con origano 4 , sale 5 e zucchero 6 . Infornate in forno statico preriscaldato a 200° per circa 30-40 minuti: a fine cottura dovranno risultare caramellati, appassiti e ben abbrustoliti.",
+      "Per i capperi: sciacquateli sotto acqua corrente per eliminare il sale in eccesso, tamponateli così da eliminare più acqua possibile. In un pentolino dai bordi alti scaldate l’olio di semi a 175°. Friggete i capperi per qualche minuto 7 e scolate su carta assorbente, non appena risulteranno ben croccanti 8 9 .",
+      "Intanto i pomodorini saranno cotti: prelevatene circa 3/4 del totale, versateli in un bicchiere alto, unite acqua 10 e 2 cucchiai di olio extravergine d'oliva 11 e frullate 12 .",
+      "La consistenza finale deve essere una crema 13 , da passare poi al setaccio 14 . La coulis di datterini è pronta 15 .",
+      "Mettete a cuocere i pennoni 16 , da scolare 3 minuti prima del termine della cottura. Intanto in una padella ampia versate l'olio extravergine d'oliva, l'aglio scamiciato e le acciughe 17 . Fatele sciogliere mescolando, poi rimuovete l'aglio 18 .",
+      "Potete versare poi la coulis e mescolare, quindi scolare i pennoni 19 , aggiungere acqua di cottura al bisogno 20 e terminare così la cottura dei pennoni. Una volta pronti spegnete il fuoco, aromatizzate con la scorza grattugiata del limone 21 . Potete unire a filo anche poco olio.",
+      "Servite la pasta in un bel piatto da portata disponendo in ordine sparso i pomodorini datterino tenuti da parte 22 e la stracciatella di burrata 23 . Terminate sbriciolando i capperi fritti 24 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con datterini, capperi e burrata iniziate lavando e tagliando i pomodorini a metà, nel senso della lunghezza, disponeteli su una teglia foderata con carta da forno, con il lato tagliato rivolto verso l’alto. Condite con abbondante olio extravergine d'oliva.",
+      "Cospargete con origano, sale e zucchero. Infornate in forno statico preriscaldato a 200° per circa 30-40 minuti: a fine cottura dovranno risultare caramellati, appassiti e ben abbrustoliti.",
+      "Per i capperi: sciacquateli sotto acqua corrente per eliminare il sale in eccesso, tamponateli così da eliminare più acqua possibile. In un pentolino dai bordi alti scaldate l’olio di semi a 175°. Friggete i capperi per qualche minuto e scolate su carta assorbente, non appena risulteranno ben croccanti 9.",
+      "Intanto i pomodorini saranno cotti: prelevatene circa 3/4 del totale, versateli in un bicchiere alto, unite acqua 10 e 2 cucchiai di olio extravergine d'oliva 11 e frullate 12 .",
+      "La consistenza finale deve essere una crema 13 , da passare poi al setaccio 14 . La coulis di datterini è pronta 15 .",
+      "Mettete a cuocere i pennoni 16 , da scolare 3 minuti prima del termine della cottura. Intanto in una padella ampia versate l'olio extravergine d'oliva, l'aglio scamiciato e le acciughe 17 . Fatele sciogliere mescolando, poi rimuovete l'aglio 18 .",
+      "Potete versare poi la coulis e mescolare, quindi scolare i pennoni 19 , aggiungere acqua di cottura al bisogno 20 e terminare così la cottura dei pennoni. Una volta pronti spegnete il fuoco, aromatizzate con la scorza grattugiata del limone 21 . Potete unire a filo anche poco olio.",
+      "Servite la pasta in un bel piatto da portata disponendo in ordine sparso i pomodorini datterino tenuti da parte 22 e la stracciatella di burrata 23 . Terminate sbriciolando i capperi fritti 24 !"
+    ]
   },
   {
     "id": 233253240341196,
@@ -11630,168 +11662,6 @@
     ],
     "images_import_version": 6,
     "step_images_checked_at": "2026-10-10T17:00:44.921809+00:00"
-  },
-  {
-    "id": 74528043300452,
-    "name": "Brodo di prosciutto crudo, merluzzo sfogliato con pane croccante e rapanelli",
-    "emoji": "🍽️",
-    "style": "Da classificare",
-    "type": "Secondo",
-    "time": 140,
-    "ingredients_display": [
-      "Filetto di merluzzo 2 tranci 600 g",
-      "Sale fino q.b.",
-      "Prosciutto crudo 15 mesi di stagionatura (a fette spesse) 600 g",
-      "Scalogno 200 g",
-      "Olio extravergine d'oliva 20 g",
-      "Acqua fredda 1,1 l",
-      "Acqua 200 g",
-      "Prezzemolo solo foglie 150 g",
-      "Amido di mais (maizena) 37 g",
-      "Olio di semi di arachide 50 g",
-      "Burro 25 g",
-      "Ravanelli grosso 1",
-      "Aceto di vino rosso 200 g",
-      "Acqua 200 g",
-      "Sale fino 16 g"
-    ],
-    "source": "GialloZafferano",
-    "url": "https://ricette.giallozafferano.it/Brodo-di-prosciutto-crudo-merluzzo-sfogliato-con-pane-croccante-e-rapanelli.html",
-    "image_url": "https://www.giallozafferano.it/images/185-18593/Brodo-di-prosciutto-crudo-merluzzo-sfogliato-con-pane-croccante-e-rapanelli_650x433_wm.jpg",
-    "servings": 4,
-    "kcal": 28.4,
-    "protein": null,
-    "carbs": 0.8,
-    "fats": 1.5,
-    "cost": null,
-    "ingredients": [
-      [
-        "Filetto di merluzzo 2 tranci",
-        600.0,
-        "g"
-      ],
-      [
-        "Sale fino",
-        null,
-        "q.b."
-      ],
-      [
-        "Prosciutto crudo 15 mesi di stagionatura (a fette spesse)",
-        600.0,
-        "g"
-      ],
-      [
-        "Scalogno",
-        200.0,
-        "g"
-      ],
-      [
-        "Olio extravergine d'oliva",
-        20.0,
-        "g"
-      ],
-      [
-        "Acqua fredda",
-        1.1,
-        "l"
-      ],
-      [
-        "Acqua",
-        200.0,
-        "g"
-      ],
-      [
-        "Prezzemolo solo foglie",
-        150.0,
-        "g"
-      ],
-      [
-        "Amido di mais (maizena)",
-        37.0,
-        "g"
-      ],
-      [
-        "Olio di semi di arachide",
-        50.0,
-        "g"
-      ],
-      [
-        "Burro",
-        25.0,
-        "g"
-      ],
-      [
-        "Ravanelli grosso",
-        1,
-        "pezzi"
-      ],
-      [
-        "Aceto di vino rosso",
-        200.0,
-        "g"
-      ],
-      [
-        "Acqua",
-        200.0,
-        "g"
-      ],
-      [
-        "Sale fino",
-        16.0,
-        "g"
-      ]
-    ],
-    "steps": [
-      "Iniziate a realizzare il brodo di prosciutto. Prendete le fette di prosciutto un po' spesse e posizionatele una sopra all'altra. Poi utilizzando un coltello affilato tagliatele a julienne. Proseguite così fino a terminare il prosciutto. Dovrete ottenere un taglio regolare che permetterà di ottenere una rosolatura uniforme che darà maggiore sapore al brodo. Tenete da parte il prosciutto e occupatevi degli scalogni. Per prima cosa pelateli (2-3),",
-      "poi tagliateli prima a metà 4 e poi a fette sottili regolari per il lato più lungo 5 . A questo punto scaldate una casseruola, aggiungete un filo d'olio che servirà a dare un po' di grassezza 6 .",
-      "Quando l'olio sarà ben caldo unite il prosciutto 7 e lasciatelo rosolare mescolando spesso 8 , fino a che assaggiandolo non risulterà ben croccante. Questa fase è molto importante perchè estrae il gusto del prosciutto e anche la sapidità, infatti al brodo non bisognerà aggiungere sale. Quando il prosciutto sarà ben arrostito unite anche gli scalogni 9",
-      "e mescolando sempre lasciateli brasare insieme. Quando avrete ottenuto una rosolatura uniforme 10 potrete aggiungere l'acqua fredda 11 . Alzate la fiamma e all'inizio optate per una bollitura a fiamma molto alta 12 che aiuta a sprigionare le impurità. Poi abbassate la fiamma e proseguite la cottura per altri 45 minuti. In questo caso la bollitura lenta serve ad ottenere un brodo più chiaro e più limpido.",
-      "Passato il tempo necessario 13 ponete una carta alimentare dalla trama sottile sopra ad un colino. In alternativa potete utilizzare una garza ad uso alimentare. Utilizzando un mestolo prelevate solo la parte liquida, tenendo da parte il prosciutto e lo scalogno che serviranno successivamente, e versatela all'interno del colino 14 per filtrarla. Non appena ottenuto tutto il brodo 15 riponetelo in frigorifero per le successive 24 ore e nel frattempo realizzate la polvere di prosciutto.",
-      "Trascorse le 24 ore riprendete il brodo. Potrete notare che la parte scura liquida sarà rimasta in basso, mentre il grasso sarà affiorato in superficie 16 . Utilizzando un mestolo eliminate quindi la parte grassa 17 , fino ad ottenere un brodo limpido, completamente sgrassato 18 .",
-      "Nel frattempo che il brodo raffreddi completamente in frigorifero occupatevi della polvere di prosciutto. Prendete quello che avevate tenuto da parte insieme allo scalogno e trasferitelo su una leccarda foderata con carta forno. Poi utilizzando un mestolo e un tarocco allargatelo (1-2) in modo da disporlo su tutta la teglia e non sovrapporre i vari pezzi. Questa fase è molto importante perchè più il prosciutto è ben distribuito più allargandosi si essiccherà in maniera uniforme. Cuocete in forno statico preriscaldato a 70° nel ripiano centrale. Trascorse le 24 ore estraete la teglia dal forno. Noterete subito che prosciutto e scalogno risulteranno ben essiccati.",
-      "Aspettate qualche istante, poi trasferiteli all'interno del contenitore di un mixer dotato di lame e frullate fino ad ottenere una polvere molto sottile. Trasferite in una ciotolina e tenete da parte.",
-      "A questo punto occupatevi della cottura del rapanello. Come prima cosa versate in un pentolino piuttosto piccolo l'aceto, l'acqua e il sale. Portate ad ebollizione.",
-      "Nel frattempo sciacquate il ravanello e tagliate la parte verde delle foglie. Non appena il liquido avrà raggiunto il bollore inserite il rapanello nell'acqua di cottura, in modo che sia completamente ricoperto, e lasciatelo cuocere per 20 minuti. Trascorso questo tempo lasciatelo raffreddare all'interno dell'acqua di cottura per altri 20 minuti.",
-      "Trasferitelo poi su un tagliere e tagliatelo prima a metà e poi ancora a metà, in modo da ricavare 4 spicchi.",
-      "Prelevate solo le foglie del prezzemolo, fino ad ottenerne 150 grammi (1-2). Nel frattempo mettete sul fuoco un tegame colmo d'acqua leggermente salata e non appena inizierà a bollire immergete il prezzemolo 3 .",
-      "Aspettate 30 secondi quindi scolatelo 4 . Una volta cotto peserà 75 grammi. Poi lasciatelo intiepidire, strizzatelo 4 e sistematelo in un contenitore dai bordi alti  5 . Frullatelo con un mixer ad immersione 6",
-      "fino ad ottenere una crema liscia. Nel frattempo fondete il burro. Aggiungete l'olio di semi, l'acqua,",
-      "l'amido di mais e il burro. Frullate di nuovo con il mixer ad immersione lentamente,",
-      "per circa 5-6 minuti fino ad ottenere una crema liscia e vellutata. A questo punto punto scaldate una padella da circa 28 cm sul fuoco e versate un mestolo del composto (14-15).",
-      "Lasciate cuocere, come se fosse una crespella, per circa 15 minuti a fiamma media, senza mai girarla. Dovrà sobbollire 16 fino a che l'acqua sarà completamente evaporata e il composto risulterà croccante 17 . Sollevate il disco dalla padella e lasciatelo sgocciolare 18 ,",
-      "poi trasferitelo su un tagliere 19 e utilizzando un coppapasta da 8 cm ricavate delle cialde più piccole (20-21). Ne otterrete circa 12.",
-      "Quando tutto sarà pronto occupatevi del merluzzo. Dividete i tranci di merluzzo in 4 pezzi. Poi prendete una vaporiera, posizionate sotto dell'acqua calda e un pizzico di sale. Adagiate su il cestello e posizionate i 4 filetti di merluzzo. Coprite col coperchio",
-      "e lasciate cuocere il merluzzo per 6-7 minuti fino a che non sarà bianco e morbido. A questo punto posizionatelo sul tagliere e utilizzando un coltello ed uno stecchino sfogliatelo (5-6).",
-      "Non appena tutte le preparazioni saranno pronte non vi resta che assemblare il piatto. Scaldate leggermente il brodo 1 . Nel frattempo posizionate al centro di ogni piatto 1/4 del merluzzo ad effetto ventaglio (2-3).",
-      "Spolverizzate poi con la polvere di prosciutto facendo una linea al centro (4-5). Posizionate anche 1/4 di rapanello al centro 6",
-      "e la cialdina sopra al rapanello 7 . Terminate versando il brodo di prosciutto 8 e servite subito 9 ."
-    ],
-    "needs_review": false,
-    "imported_at": "2026-10-10T16:08:50.934335+00:00",
-    "repaired_at": "2026-10-10T16:09:44.216210+00:00",
-    "classificazione_automatica": {
-      "tipo_proposto": "Secondo",
-      "esito": "candidato",
-      "criterio": "nome",
-      "porzioni_presenti": true,
-      "ingredienti_quantificati": true,
-      "procedimento_presente": true,
-      "dati_completi": true
-    },
-    "validazione_automatica": {
-      "approved": true,
-      "reasons": [],
-      "type": "Secondo",
-      "tools": [
-        "Forno",
-        "Fornelli"
-      ],
-      "dietary_verified": [],
-      "allergen_verified": false,
-      "validation_version": 1
-    },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:07.167652+00:00"
   },
   {
     "id": 41094496099502,
@@ -14499,121 +14369,6 @@
     "step_images_checked_at": "2026-10-11T10:54:56.044861+00:00"
   },
   {
-    "id": 182532426058049,
-    "name": "Hamburger vegetariano autunnale",
-    "emoji": "🍽️",
-    "style": "Da classificare",
-    "type": "Secondo",
-    "time": 70,
-    "ingredients_display": [
-      "Funghi champignon 300 g",
-      "Patate 200 g",
-      "Parmigiano Reggiano DOP 120 g",
-      "Uova (2 medie) 110 g",
-      "Pangrattato 80 g",
-      "Aglio 1 spicchio",
-      "Prezzemolo 10 g",
-      "Olio extravergine d'oliva 30 g",
-      "Sale fino q.b.",
-      "Pepe nero q.b."
-    ],
-    "source": "GialloZafferano",
-    "url": "https://ricette.giallozafferano.it/Hamburger-vegetariano-autunnale.html",
-    "image_url": "https://www.giallozafferano.it/images/342-34213/Hamburger-vegetariano-autunnale_650x433_wm.jpg",
-    "servings": 4,
-    "kcal": 333.8,
-    "protein": null,
-    "carbs": 22.7,
-    "fats": 18.6,
-    "cost": null,
-    "ingredients": [
-      [
-        "Funghi champignon",
-        300.0,
-        "g"
-      ],
-      [
-        "Patate",
-        200.0,
-        "g"
-      ],
-      [
-        "Parmigiano Reggiano DOP",
-        120.0,
-        "g"
-      ],
-      [
-        "Uova (2 medie)",
-        110.0,
-        "g"
-      ],
-      [
-        "Pangrattato",
-        80.0,
-        "g"
-      ],
-      [
-        "Aglio",
-        1.0,
-        "spicchio"
-      ],
-      [
-        "Prezzemolo",
-        10.0,
-        "g"
-      ],
-      [
-        "Olio extravergine d'oliva",
-        30.0,
-        "g"
-      ],
-      [
-        "Sale fino",
-        null,
-        "q.b."
-      ],
-      [
-        "Pepe nero",
-        null,
-        "q.b."
-      ]
-    ],
-    "steps": [
-      "Per preparare l'hamburger vegetariano autunnale per prima cosa lessate le patate partendo da acqua fredda per circa 30 minuti dal bollore, o finché saranno abbastanza morbide da poterle infilzare facilmente con una forchetta. Nel frattempo tritate l'aglio 1, poi passate alla pulizia dei funghi: rimuovete la base e strofinate delicatamente con della carta assorbente inumidita.",
-      "Affettate sottilmente gli champignon e spostatevi ai fornelli. In una padella scaldate un filo d'olio con l'aglio, poi aggiungete funghi e un pizzico di sale. Aromatizzate con il prezzemolo tritato e saltate i funghi per circa 5 minuti. Una volta cotti, tritate i funghi al coltello.",
-      "A questo punto le patate saranno cotte: pelatele 7 e schiacciatele in una ciotola 8 . Unite i funghi tritati al coltello 9 .",
-      "Aggiungete anche il formaggio grattugiato 10 , le uova 11 e del prezzemolo tritato 12 .",
-      "In ultimo versate il pangrattato e regolate di sale e di pepe 13 . Impastate bene per amalgamare il tutto 14 e dividete l'impasto in 4 porzioni 15 . Schiacciatele fra i palmi delle mani per formare i burger.",
-      "Trasferite i burger in una teglia foderata con carta forno leggermente unta di olio 16 , poi condite anche la superficie e cuocete in forno statico preriscaldato a 200° per circa 20 minuti 17 . I vostri hamburger vegetariani autunnali sono pronti per essere gustati 18 !"
-    ],
-    "needs_review": false,
-    "imported_at": "2026-10-10T16:34:03.134044+00:00",
-    "repaired_at": "2026-10-10T16:34:47.788492+00:00",
-    "classificazione_automatica": {
-      "tipo_proposto": "Secondo",
-      "esito": "candidato",
-      "criterio": "nome",
-      "porzioni_presenti": true,
-      "ingredienti_quantificati": true,
-      "procedimento_presente": true,
-      "dati_completi": true
-    },
-    "validazione_automatica": {
-      "approved": true,
-      "reasons": [],
-      "type": "Secondo",
-      "tools": [
-        "Forno",
-        "Fornelli"
-      ],
-      "dietary_verified": [],
-      "allergen_verified": false,
-      "validation_version": 1
-    },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:12.667673+00:00"
-  },
-  {
     "id": 125842797061379,
     "name": "Pasta con crema di scarola e nduja",
     "emoji": "🍽️",
@@ -16572,229 +16327,6 @@
     "step_images_checked_at": "2026-10-11T10:54:47.232718+00:00"
   },
   {
-    "id": 149444968096049,
-    "name": "Hamburger alle erbe aromatiche con verdure miste e patatine",
-    "emoji": "🍽️",
-    "style": "Da classificare",
-    "type": "Secondo",
-    "time": 115,
-    "ingredients_display": [
-      "Farina 65 g",
-      "Lievito di birra secco 1 g",
-      "Acqua 50 g",
-      "Latte (tiepido) 70 g",
-      "Farina 00 200 g",
-      "Zucchero 7,5 g",
-      "Malto 10 g",
-      "Burro 15 g",
-      "Olio extravergine d'oliva 15 g",
-      "Sale fino 6 g",
-      "Lievito di birra secco 1,5 g",
-      "Acqua 50 g",
-      "Cavolo cappuccio rosso 100 g",
-      "Fagiolini 200 g",
-      "Carote 200 g",
-      "Zucchine 200 g",
-      "Acqua 50 g",
-      "Manzo macinato 400 g",
-      "Sale fino q.b.",
-      "Pepe nero q.b.",
-      "Aneto q.b.",
-      "Erba cipollina q.b.",
-      "Patate 300 g",
-      "Olio di semi di arachide 500 g",
-      "Ketchup 140 g",
-      "Semi di sesamo q.b.",
-      "Uova (per spennellare) 1"
-    ],
-    "source": "GialloZafferano",
-    "url": "https://ricette.giallozafferano.it/Hamburger-alle-erbe-aromatiche-con-verdure-miste-e-patatine.html",
-    "image_url": "https://www.giallozafferano.it/images/154-15458/Hamburger-alle-erbe-aromatiche-con-verdure-miste-e-patatine_650x433_wm.jpg",
-    "servings": 4,
-    "kcal": 1776.5,
-    "protein": null,
-    "carbs": 94.0,
-    "fats": 143.0,
-    "cost": null,
-    "ingredients": [
-      [
-        "Farina",
-        65.0,
-        "g"
-      ],
-      [
-        "Lievito di birra secco",
-        1.0,
-        "g"
-      ],
-      [
-        "Acqua",
-        50.0,
-        "g"
-      ],
-      [
-        "Latte (tiepido)",
-        70.0,
-        "g"
-      ],
-      [
-        "Farina 00",
-        200.0,
-        "g"
-      ],
-      [
-        "Zucchero",
-        7.5,
-        "g"
-      ],
-      [
-        "Malto",
-        10.0,
-        "g"
-      ],
-      [
-        "Burro",
-        15.0,
-        "g"
-      ],
-      [
-        "Olio extravergine d'oliva",
-        15.0,
-        "g"
-      ],
-      [
-        "Sale fino",
-        6.0,
-        "g"
-      ],
-      [
-        "Lievito di birra secco",
-        1.5,
-        "g"
-      ],
-      [
-        "Acqua",
-        50.0,
-        "g"
-      ],
-      [
-        "Cavolo cappuccio rosso",
-        100.0,
-        "g"
-      ],
-      [
-        "Fagiolini",
-        200.0,
-        "g"
-      ],
-      [
-        "Carote",
-        200.0,
-        "g"
-      ],
-      [
-        "Zucchine",
-        200.0,
-        "g"
-      ],
-      [
-        "Acqua",
-        50.0,
-        "g"
-      ],
-      [
-        "Manzo macinato",
-        400.0,
-        "g"
-      ],
-      [
-        "Sale fino",
-        null,
-        "q.b."
-      ],
-      [
-        "Pepe nero",
-        null,
-        "q.b."
-      ],
-      [
-        "Aneto",
-        null,
-        "q.b."
-      ],
-      [
-        "Erba cipollina",
-        null,
-        "q.b."
-      ],
-      [
-        "Patate",
-        300.0,
-        "g"
-      ],
-      [
-        "Olio di semi di arachide",
-        500.0,
-        "g"
-      ],
-      [
-        "Ketchup",
-        140.0,
-        "g"
-      ],
-      [
-        "Semi di sesamo",
-        null,
-        "q.b."
-      ],
-      [
-        "Uova (per spennellare)",
-        1,
-        "pezzi"
-      ]
-    ],
-    "steps": [
-      "Per preparare gli hamburger aromatici con verdure miste e patatine iniziate dai panini. Cominciate con la preparazione della biga: prendete una ciotola capiente e setacciate la farina ed il lievito. Aggiungete l’acqua poca alla volta ed impastate energicamente con le mani per amalgamare tutti gli ingredienti fino ad ottenere un impasto liscio. Date all’impasto una forma sferica, coprite con pellicola alimentare trasparente e lasciate riposare per almeno 3-4 ore, in forno spento con luce accesa.",
-      "Quindi procedete con l'impasto: in una planetaria setacciate la farina, il lievito disidratato, ed aggiungete lo zucchero semolato e il malto. Azionate la planetaria con la foglia a velocità media. Quindi versate il latte a temperatura ambiente e l’acqua a filo a temperatura ambiente. Quando i liquidi si saranno assorbiti, versate poco per volta la biga che sarà lievitata. Continuate ad impastare per circa 3 o 4 minuti finchè l’impasto risulterà omogeneo.",
-      "A questo punto togliete la foglia della planetaria e montate il gancio. Fate andare la planetaria e intanto versate il sale e lavorate l’impasto per circa 3 minuti a velocità media. Continuando ad impastare versate l’olio a filo ed il burro leggermente ammorbidito un pezzetto alla volta, aspettando che si sia assorbito prima di procedere con un altro pzzetto. Dovrete un impasto elastico e omogeno.",
-      "Poi trasferite l’impasto su una spianatoia. Stendetelo leggermente con le mani quindi ripiegatelo fino a congiungere le estremità. Ripetete l’operazione per un paio di volte. Quindi date all’impasto la forma sferica e mettetelo a riposare in una ciotola coperto da pellicola alimentare trasparente per almeno 2 ore in forno spento con luce accesa (ad una temperatura di 28-30°).",
-      "Dopodichè prendete l’impasto, riponetelo in una spianatoia e dividetelo in 4 parti da circa 130 g l’una. Lavorate ciascun pezzo fino a formare delle palline. Quindi prendete una leccarda e, dopo averla imburrata, adagiate le palline che avete formato ben distanziate tra loro. Lasciateli così lievitare per circa ora.",
-      "Trascorso il tempo di lievitazione spennellatele con un uovo e decorate con i semi di sesamo: infornate in forno statico preriscaldato a 190°C per 20 minuti (o a forno ventilato per a 160°C per 10 minuti, in questo caso potete provare la cottura di 1 panino per regolarvi meglio su tempi e temperatura). Quindi estraete dal forno i panini e lasciate riposare a temperatura ambiente per farli raffreddare. I panini sono pronti per essere tagliati a metà e farciti!",
-      "Procedete ora con la preparazione del contorno di accompagnamento. Lavate bene tutte le verdure sotto acqua corrente, poi prendete il cavolo e incidetelo con un coltellino per togliere la parte più coriacea che eliminerete e tagliatelo alla julienne 1. Riempite una ciotola d’acqua e versatevi il cavolo fino a quando non vi servirà per farcire. Pelate le carote e tagliatele a julienne. Spuntate le zucchine e tagliate anch'esse a julienne, quindi spuntate anche i fagiolini. In un'ampia padella antiaderente versate l’olio a filo, scaldate e aggiungete le carote. Lasciate cuocere le carote a fuoco vivace per 4 minuti.",
-      "unite poi le zucchine e i fagiolini nella padella. Saltate le verdure ancora qualche minuto e aggiungeteci infine l’acqua. Coprite quindi la padella con coperchio e fate cuocere per 10 minuti a fuoco moderato. Passate ora alla preparazione degli hamburger alle erbe aromatiche. Su un tagliere tritate finemente aneto ed erba cipollina aiutandovi con un coltello.",
-      "In una ciotola ponete la carne ed unite il trito di aneto ed erba cipollina. Aggiustate di sale e pepe. Aiutandovi con una forchetta o se preferite con le mani amalgamate bene gli ingredienti. Quindi prendete un coppa pasta dal diametro di 13 cm riponete all’interno il trito di carne ottenuto. Ripetete l’operazione in modo da ottenere 4 hamburger da circa 110 g l’uno.",
-      "Prendete quindi una griglia, ungetela leggermente con un filo di olio per evitare che gli hamburger si attacchino e scaldatela. Cuocete gli hamburger sulla griglia, ciascun lato per circa 3 o 4 minuti. Gli hamburger sono ora pronti per comporre il panino. Prendete i panini che avete preparato in precedenza e tagliateli a metà seguendo la linea orizzontale. Scolate il cavolo cappuccio che avete messo nella ciotola con l’acqua. Aiutandovi con delle pinze da cucina riponete un po’ di cavolo sulla parte inferiore del panino. Quindi adagiate l'hamburger aiutandovi con una paletta",
-      "condite con il ketchup a piacere e aggiungete un ulteriore strato di cavolo cappuccio sopra all’hamburger. Ultimate il vostro panino adagiando l’altra metà del pane sopra. Per ultimare il vostro piatto prendete le patate, lavatele sotto abbondante acqua, privatele della buccia e tagliatele seguendo il lato lungo in modo da ottenere delle fettine non troppo sottili da cui ricaverete i classici bastoncini.  Poi prendete un tegame dai bordi alti, versatevi l’olio e portate a bollore. Asciugate le patate. Quando l'olio avrà raggiunto la temperatura di 180°C versatevi le patate.",
-      "Friggetele fino alla doratura, e scolatele aiutandovi con una schiumarola, quindi conditele con un pizzico di sale a piacere. Infine adagiate le patatine fritte a fianco al panino con l’hamburger. Aggiungete anche le verdure a julienne e preparatevi a gustare la vostra creazione in compagnia di amici e familiari!"
-    ],
-    "needs_review": false,
-    "imported_at": "2026-10-10T16:45:27.420076+00:00",
-    "repaired_at": "2026-10-10T16:46:10.690307+00:00",
-    "classificazione_automatica": {
-      "tipo_proposto": "Secondo",
-      "esito": "candidato",
-      "criterio": "nome",
-      "porzioni_presenti": true,
-      "ingredienti_quantificati": true,
-      "procedimento_presente": true,
-      "dati_completi": true
-    },
-    "validazione_automatica": {
-      "approved": true,
-      "reasons": [],
-      "type": "Secondo",
-      "tools": [
-        "Forno",
-        "Fornelli"
-      ],
-      "dietary_verified": [],
-      "allergen_verified": false,
-      "validation_version": 1
-    },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:09.969617+00:00"
-  },
-  {
     "id": 91873638387471,
     "name": "Pasta con crema di porri brasati, nocciole e finocchietto",
     "emoji": "🍽️",
@@ -16901,8 +16433,62 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:32.400153+00:00"
+    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-11T12:49:10.492803+00:00",
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_9.jpg"
+      ],
+      [],
+      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_24.jpg"
+      ]
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con crema di porri brasati, nocciole e finocchietto, come prima cosa pulite i porri: eliminate la parte verde 1 e la base, poi divideteli a metà per il lungo 2 e condite con olio 3 .",
+      "Salate 4 e distribuite il condimento su tutta la superficie con le mani 5 . Adagiate i porri su una piastra ben calda 6 .",
+      "Lasciate abbrustolire bene i porri da ambo i lati 7 , ci vorranno circa 10 minuti. Quando si saranno ammorbiditi trasferiteli in una teglia 8 , coprite con pellicola e lasciateli riposare per 10 minuti 9 ; in questo continueranno ad ammorbidirsi grazie al loro stesso vapore.",
+      "Nel frattempo versate le nocciole in una padella già calda 10 e tostatele per qualche minuto, facendo attenzione a non bruciarle 11 . Tritate grossolanamente le nocciole al coltello 12 .",
+      "Riprendete i porri brasati e metteteli in un boccale 10 , poi aggiungete pochissima acqua 11 e frullate con un mixer a immersione fino ad ottenere una crema liscia e omogenea 12 . Tenete da parte.",
+      "Cuocete gli spaghetti in abbondante acqua bollente salata 16 . Scolate la pasta 2 minuti prima della fine della cottura e trasferiteli in una padella 17 , poi versate un mestolo dell'acqua di cottura 18 .",
+      "Unite la crema di porri 19 e portate a cottura. Spegnete il fuoco, versate un filo d'olio 20 , pepate 21 e mantecate.",
+      "Impiattate gli spaghetti 22 , poi completate con le nocciole tritate 23 e il finocchietto selvatico. La pasta con crema di porri brasati, nocciole e finocchietto è pronta per essere servita 24 !"
+    ],
+    "steps_clean": [
+      "Per preparare la pasta con crema di porri brasati, nocciole e finocchietto, come prima cosa pulite i porri: eliminate la parte verde e la base, poi divideteli a metà per il lungo e condite con olio.",
+      "Salate e distribuite il condimento su tutta la superficie con le mani. Adagiate i porri su una piastra ben calda.",
+      "Lasciate abbrustolire bene i porri da ambo i lati, ci vorranno circa 10 minuti. Quando si saranno ammorbiditi trasferiteli in una teglia, coprite con pellicola e lasciateli riposare per 10 minuti; in questo continueranno ad ammorbidirsi grazie al loro stesso vapore.",
+      "Nel frattempo versate le nocciole in una padella già calda e tostatele per qualche minuto, facendo attenzione a non bruciarle. Tritate grossolanamente le nocciole al coltello.",
+      "Riprendete i porri brasati e metteteli in un boccale 10 , poi aggiungete pochissima acqua 11 e frullate con un mixer a immersione fino ad ottenere una crema liscia e omogenea 12 . Tenete da parte.",
+      "Cuocete gli spaghetti in abbondante acqua bollente salata 16 . Scolate la pasta 2 minuti prima della fine della cottura e trasferiteli in una padella 17 , poi versate un mestolo dell'acqua di cottura 18 .",
+      "Unite la crema di porri 19 e portate a cottura. Spegnete il fuoco, versate un filo d'olio 20 , pepate 21 e mantecate.",
+      "Impiattate gli spaghetti 22 , poi completate con le nocciole tritate 23 e il finocchietto selvatico. La pasta con crema di porri brasati, nocciole e finocchietto è pronta per essere servita 24 !"
+    ]
   },
   {
     "id": 77488052534077,

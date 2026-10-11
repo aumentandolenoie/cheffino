@@ -1,5 +1,8 @@
 name: "Cheffino 03 - Verifica e pubblicazione"
 on:
+  push:
+    paths:
+      - '.github/workflows/03-pubblicazione.yml'
   schedule:
     - cron: '15 10 * * 3,5'
   workflow_dispatch:

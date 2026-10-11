@@ -112,23 +112,27 @@
   }
 }
 /* Gallerie fotografiche dei passaggi, solo se abbinate con certezza */
-.detailsteps li{margin-bottom:18px}
+.catalog-results{display:grid;gap:9px;max-height:49vh;overflow:auto;margin-top:10px}.catalog-result{display:flex;align-items:center;gap:12px;width:100%;text-align:left;background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:13px;padding:9px}.catalog-result:hover{border-color:var(--green)}.catalog-photo{display:grid;place-items:center;flex:none;width:70px;height:62px;background:var(--surface2);border-radius:9px;overflow:hidden;font-size:27px}.catalog-photo img{width:100%;height:100%;object-fit:cover}.catalog-copy{flex:1;min-width:0}.catalog-copy strong{display:block;overflow-wrap:anywhere;font-size:14px}.catalog-copy small{display:block;color:var(--muted);font-size:12px;margin-top:5px}@media(max-width:510px){.topright .search-trigger span,.topright .settings-trigger span{display:none}.topright .btn{padding:9px 12px}}.detailsteps li{margin-bottom:18px}
 .step-photo-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;margin:12px 0 16px}
 .step-photo-grid img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:11px;background:var(--surface2);border:1px solid var(--line)}
 @media(max-width:430px){.step-photo-grid{gap:5px}.step-photo-grid img{border-radius:8px}}
 </style></head>
-<body><div class="app" id="app"><header class="topbar"><div class="brand"><div class="logo">👨‍🍳</div>Cheffino</div><div class="topright"><button class="btn" onclick="openSettings()">⚙ Preferenze</button></div></header><main class="wrap" id="main"></main></div><div id="modalRoot"></div><input id="cheffinoBackupInput" type="file" accept="application/json,.json" style="display:none" onchange="importCheffinoBackup(this)">
+<body><div class="app" id="app"><header class="topbar"><div class="brand"><div class="logo">👨‍🍳</div>Cheffino</div><div class="topright"><button class="btn search-trigger" onclick="openRecipeSearch()" aria-label="Cerca ricette">⌕ <span>Cerca ricette</span></button><button class="btn settings-trigger" onclick="openSettings()" aria-label="Preferenze">⚙ <span>Preferenze</span></button></div></header><main class="wrap" id="main"></main></div><div id="modalRoot"></div><input id="cheffinoBackupInput" type="file" accept="application/json,.json" style="display:none" onchange="importCheffinoBackup(this)">
 <script>
 const supermarkets=['Aldi','Alì','Bennet','Carrefour','Conad','Coop','Dec','Despar','Dodecà','Esselunga','Eurospin','Famila','Il Gigante','Lidl','MD','PAM','Penny','Sole365','Tigros'];
 const ingredients=['Aglio','Albicocche','Anacardi','Arance','Asparagi','Avena','Avocado','Basilico','Bietole','Broccoli','Burro','Cacao','Carciofi','Carne bovina','Carne di maiale','Carote','Cavolfiore','Ceci','Ciliegie','Cipolla','Cipollotto','Cocco','Cozze','Cous cous','Crescenza','Curry','Farina','Farina di mais','Fagioli','Fagiolini','Farro','Feta','Finocchi','Formaggio','Funghi','Gamberi','Gnocchi','Grana','Insalata','Kefir','Lattuga','Latte','Lenticchie','Limone','Mais','Mandorle','Manzo','Melanzane','Mele','Merluzzo','Miele','Mirtilli','Mozzarella','Noci','Olio d’oliva','Olive','Orzo','Pancetta','Pane','Panna','Parmigiano','Patate','Peperoncino','Peperoni','Pere','Pesce spada','Piselli','Pistacchi','Pollo','Pomodori','Porri','Prosciutto cotto','Prosciutto crudo','Quinoa','Radicchio','Riso','Ricotta','Rucola','Salmone','Salsiccia','Sedano','Seitan','Semi di chia','Spinaci','Stracchino','Tacchino','Tofu','Tonno','Uova','Uva','Yogurt','Zafferano','Zenzero','Zucchine','Zucca','Zuppa pronta','Pasta','Pasta integrale','Piadine','Pesto','Pane grattugiato','Pangrattato','Passata di pomodoro','Pecorino','Panna vegetale','Latte di soia','Latte di avena','Tempeh','Edamame','Quorn','Sgombro','Orata','Branzino','Calamari','Seppie','Vongole','Ricotta senza lattosio','Yogurt senza lattosio','Pane senza glutine','Pasta senza glutine','Cioccolato fondente','Datteri','Fichi','Fragole','Lamponi','Melone','Ananas','Banane','Pompelmo','Cachi','Cavolo cappuccio','Cavolo nero','Cavolini di Bruxelles','Rape','Ravanelli','Barbabietole','Patate dolci','Cime di rapa','Fave','Lupini','Soia','Farina di ceci','Polenta','Bulgur','Noodles','Salsa di soia','Aceto balsamico','Senape','Maionese','Ketchup','Olive nere','Capperi','Acciughe','Ricotta salata','Scamorza','Provola','Fontina','Gorgonzola','Taleggio','Pecorino romano','Bresaola','Speck','Mortadella','Wurstel','Fesa di tacchino','Cosce di pollo','Petto di pollo','Lombo di maiale','Vitello','Agnello','Seitan','Burger vegetali'];
 // Catalogo esclusivamente da fonti: niente ricette demo o fallback incorporati.
 const recipeData=[];
 const sourcedDetails={};
+const catalogBrowse=[];
+let recipeSearchQuery='';
+let recipeSearchFilter='all';
 let catalogLoading=true;
 let catalogError='';
+let catalogTotal=0;
 function peopleCount(){return Math.max(1,parseInt(state.people,10)||1)}
 function recipeDetailData(r){return sourcedDetails[r.id]||null}
-function ingredientRows(r,checkboxes=false){const d=recipeDetailData(r);if(!d)return '<p class="hint">Grammature non verificate: non è corretto inventarle per questa ricetta.</p>'+r.ings.map(x=>`<div class="ingredientrow">${checkboxes?'<input type="checkbox">':'•'} <span>${safe(x)}</span><strong style="margin-left:auto">Da verificare</strong></div>`).join('');const factor=peopleCount()/d.servings;return d.ingredients.map(([name,q,u])=>{const qty=q===null?'q.b.':(q*factor).toLocaleString('it-IT',{maximumFractionDigits:2})+' '+u;return `<label class="ingredientrow detailrow">${checkboxes?'<input type="checkbox">':'<span>•</span>'}<span style="flex:1">${safe(name)}</span><strong>${safe(qty)}</strong></label>`}).join('')}
+function ingredientRows(r,checkboxes=false){const d=recipeDetailData(r);if(!d)return '<p class="hint">Grammature non verificate: non è corretto inventarle per questa ricetta.</p>'+r.ings.map(x=>`<div class="ingredientrow">${checkboxes?'<input type="checkbox">':'•'} <span>${safe(x)}</span><strong style="margin-left:auto">Da verificare</strong></div>`).join('');const factor=Number(d.servings)>0?peopleCount()/Number(d.servings):null;return d.ingredients.map(([name,q,u])=>{const qty=q===null?(u==='q.b.'?'q.b.':'Da verificare'):(typeof q==='number'&&Number.isFinite(q)&&factor!==null?(q*factor).toLocaleString('it-IT',{maximumFractionDigits:2})+' '+(u||''):'Da verificare');return `<label class="ingredientrow detailrow">${checkboxes?'<input type="checkbox">':'<span>•</span>'}<span style="flex:1">${safe(name)}</span><strong>${safe(qty)}</strong></label>`}).join('')}
 const days=['Lunedì','Martedì','Mercoledì','Giovedì','Venerdì','Sabato','Domenica'];const dayShort=['Lun','Mar','Mer','Gio','Ven','Sab','Dom'];
 const defaults={step:0,stores:[],budget:'60',people:'2',meals:'both',diet:['Nessuna'],kitchen:['Fornelli','Forno'],styles:['Veloci e facili','Classici italiani'],avoid:[],lunch:[],dinner:[],types:[],likes:[],dislikes:[],swipeIndex:0,plan:{},favorites:[],planGeneration:0,view:'onboard',tab:'Pranzo'};
 let ingredientPanelOpen=false;
@@ -173,7 +177,7 @@ function filteredRecipes(options={}){
 // Gli stili sono preferenze per il piano, non un catalogo chiuso.
 function planRecipes(){return filteredRecipes({relaxStyles:true}).filter(r=>!!recipeDetailData(r))}
 function tinderRecipes(){return filteredRecipes({relaxStyles:true}).filter(r=>!!recipeDetailData(r))}
-function getRecipe(id){return recipeData.find(r=>r.id===id)||null}
+function getRecipe(id){return recipeData.find(r=>r.id===id)||catalogBrowse.find(r=>r.id===id)||null}
 function planHasDuplicates(){const ids=Object.values(state.plan||{});return new Set(ids).size!==ids.length}
 function render(){if(catalogLoading){document.getElementById('main').innerHTML='<section class="panel"><h2>Caricamento catalogo ricette…</h2><p>Sto leggendo le ricette con fonte dal server.</p></section>';return;}if(state.view==='home'&&(planHasDuplicates()||requestedSlots().some(k=>state.plan[k]===undefined&&state.planMissing===undefined))){generateWeeklyPlan()}persist();const main=document.getElementById('main');if(state.view==='home'){renderHome(main);return}if(state.view==='swipe'){renderSwipe(main);return}renderOnboard(main)}
 const stepTitles=['Dove fai la spesa?','Quanto vuoi spendere?','Per quante persone cucini?','Quali pasti vuoi organizzare?','Le tue esigenze alimentari','La tua cucina','Che tipo di ricette preferisci?','Quando mangi a casa?','Come vuoi comporre i pasti?'];
@@ -289,16 +293,16 @@ function replaceRecipe(day,meal){
 }
 
 function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;generateWeeklyPlan();render()}
-function showRecipe(id){const r=getRecipe(id),d=recipeDetailData(r),people=peopleCount();
+function showRecipe(id,fromSearch=false){const r=getRecipe(id);if(!r)return;const d=recipeDetailData(r),people=peopleCount();
  const metric=(title,val)=>`<div class="detailmetric"><span>${title}</span><b>${val}</b></div>`;
  const mac=(klass,title,key)=>`<div class="detailmacro ${klass}"><span>${title}</span><b>${typeof d?.[key]==='number'?d[key].toLocaleString('it-IT')+' g':'n.d.'}</b></div>`;
- const steps=d?`<ol class="detailsteps">${d.steps.map((x,i)=>{
+ const steps=d?.steps?.length?`<ol class="detailsteps">${d.steps.map((x,i)=>{
    const images=Array.isArray(d.stepImages?.[i])?[...new Set(d.stepImages[i])]:[];
    return `<li><div>${safe(x)}</div>${images.length?`<div class="step-photo-grid">${images.map((url,j)=>
      `<img src="${safe(url)}" alt="${safe(r.name)} - foto passaggio ${i+1}.${j+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer" style="aspect-ratio:auto;object-fit:contain;height:auto" onerror="this.remove()">`).join('')}</div>`:''}</li>`;
  }).join('')}</ol>`:'<p class="hint">Procedimento non ancora verificato per questa ricetta. Nessun passaggio viene inventato.</p>';
 
- modal(`<div class="modalhead"><h2 style="margin:0">${safe(r.name)}</h2><button class="close" onclick="closeModal()">✕</button></div>
+ modal(`<div class="modalhead"><h2 style="margin:0">${safe(r.name)}</h2><button class="close" onclick="${fromSearch?'openRecipeSearch()':'closeModal()'}">${fromSearch?'← Ricerca':'✕'}</button></div>${r.review?'<div class="notice">Scheda in revisione: informazioni e immagini potrebbero essere incomplete. Non entra nel piano settimanale.</div>':''}
  <div class="detailhero">${d?.image?`<img src="${safe(d.image)}" alt="${safe(r.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.nextElementSibling.style.display='block'">`:''}<span class="foodart" style="${d?.image?'display:none':''}">${r.emoji}</span>${!d?.image?'<small>Foto non ancora verificata</small>':''}</div>
  <div class="detailmetrics">${metric('Persone',people)}${metric('Tempo',d?.minutes?d.minutes+' min':'n.d.')}${metric('Calorie',d?.kcal?d.kcal+' kcal/porz.':'n.d.')}${metric('Costo',d?.cost||'n.d.')}</div>
  <div class="detailmacros">${mac('protein','Proteine','protein')}${mac('carbs','Carboidrati','carbs')}${mac('fats','Grassi','fats')}</div>
@@ -326,6 +330,37 @@ function exportShoppingList(){
  if(missing.length)csv.push('"Ricette senza quantità verificate";"'+missing.join(', ').replaceAll('"','""')+'";;');
  const blob=new Blob(['\ufeff'+csv.join('\r\n')],{type:'text/csv;charset=utf-8'});
  const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='cheffino-lista-spesa.csv';document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
+}
+function normalizeRecipeQuery(t){return String(t??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim()}
+function openRecipeSearch(){
+ modal(`<div class="modalhead"><div><div class="eyebrow">Catalogo completo</div><h2 style="margin:0">Cerca una ricetta</h2></div><button class="close" onclick="closeModal()">✕</button></div>
+ <p class="hint">Sono incluse anche le ricette in revisione, senza modificarne l'idoneità al piano.</p>
+ <label class="hint" for="recipeCatalogQuery">Nome ricetta o ID</label><input id="recipeCatalogQuery" class="search" type="search" placeholder="Es. carbonara" value="${safe(recipeSearchQuery)}" oninput="recipeSearchQuery=this.value;renderRecipeSearchResults()">
+ <label class="hint" for="recipeCatalogFilter">Filtro</label><select class="search" id="recipeCatalogFilter" onchange="recipeSearchFilter=this.value;renderRecipeSearchResults()">
+ ${[['all','Tutte le ricette'],['ready','Disponibili per il piano'],['review','In revisione'],['no-cover','Senza copertina'],['no-steps','Senza foto passaggi'],['partial','Galleria parziale']].map(([v,label])=>`<option value="${v}" ${recipeSearchFilter===v?'selected':''}>${label}</option>`).join('')}</select><div id="recipeSearchResults" aria-live="polite"></div>`);
+ renderRecipeSearchResults();document.getElementById('recipeCatalogQuery')?.focus();
+}
+function renderRecipeSearchResults(){
+ const target=document.getElementById('recipeSearchResults');if(!target)return;
+ if(catalogLoading){target.innerHTML='<p class="hint">Caricamento catalogo…</p>';return}
+ if(catalogError){target.innerHTML='<p class="hint">Catalogo non disponibile.</p>';return}
+ const q=normalizeRecipeQuery(recipeSearchQuery);
+ const matches=catalogBrowse.filter(r=>{
+  const d=recipeDetailData(r),groups=d?.stepImages||[],photos=groups.filter(g=>Array.isArray(g)&&g.length).length;
+  if(q&&!normalizeRecipeQuery(r.name).includes(q)&&!String(r.id).includes(q))return false;
+  if(recipeSearchFilter==='ready')return !r.review;
+  if(recipeSearchFilter==='review')return r.review;
+  if(recipeSearchFilter==='no-cover')return !d?.image;
+  if(recipeSearchFilter==='no-steps')return photos===0&&!d?.photoAbsent;
+  if(recipeSearchFilter==='partial')return photos>0&&photos<(d?.steps?.length||0);
+  return true;
+ });
+ target.innerHTML=`<p class="hint">${matches.length} ${matches.length===1?'ricetta trovata':'ricette trovate'}${matches.length>60?' · Affina la ricerca per vedere le altre':''}</p>
+ <div class="catalog-results">${matches.slice(0,60).map(r=>{
+  const d=recipeDetailData(r),n=(d?.stepImages||[]).filter(g=>Array.isArray(g)&&g.length).length;
+  const condition=d?.photoAbsent?'Fonte senza foto verificata':`${n}/${d?.steps?.length||0} passaggi con foto`;
+  return `<button class="catalog-result" onclick="showRecipe(${r.id},true)"><span class="catalog-photo">${d?.image?`<img src="${safe(d.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">`:'🍽️'}</span><span class="catalog-copy"><strong>${safe(r.name)}</strong><small>${r.review?'In revisione':'Disponibile'} · ${safe(condition)}</small></span><span aria-hidden="true">→</span></button>`;
+ }).join('')||'<div class="empty">Nessuna ricetta trovata. Modifica ricerca o filtro.</div>'}</div>`;
 }
 function modal(html){document.getElementById('modalRoot').innerHTML=`<div class="overlay" onclick="if(event.target===this)closeModal()"><div class="modal">${html}</div></div>`}function closeModal(){document.getElementById('modalRoot').innerHTML=''}
 const flyerLinks={'Aldi':'https://www.aldi.it/','Alì':'https://www.alisupermercati.it/','Bennet':'https://www.bennet.com/','Carrefour':'https://www.carrefour.it/','Conad':'https://www.conad.it/','Coop':'https://www.coop.it/','Dec':'https://www.dec.it/','Despar':'https://www.despar.it/','Dodecà':'https://www.dodeca.it/','Esselunga':'https://www.esselunga.it/','Eurospin':'https://www.eurospin.it/','Famila':'https://www.famila.it/','Il Gigante':'https://www.ilgigante.net/','Lidl':'https://www.lidl.it/','MD':'https://www.mdspa.it/','PAM':'https://www.pampanorama.it/','Penny':'https://www.penny.it/','Sole365':'https://www.sole365.it/','Tigros':'https://www.tigros.it/'};
@@ -359,23 +394,28 @@ async function caricaCatalogoServer(){
   if(!response.ok)throw new Error('HTTP '+response.status);
   const payload=await response.json();
   if(!Array.isArray(payload.recipes))throw new Error('Formato catalogo non valido');
+  catalogTotal=payload.recipes.length;
   recipeData.length=0;
+  catalogBrowse.length=0;
   Object.keys(sourcedDetails).forEach(id=>delete sourcedDetails[id]);
   for(const entry of payload.recipes){
-   // Il server può conservare schede in revisione: non proporle ancora.
-   if(entry.needs_review || entry.validazione_automatica?.approved===false)continue;
-   if(typeof entry.id!=='number'||!entry.name||!entry.url||!/^https:\/\//.test(entry.url)||!entry.source||!Array.isArray(entry.ingredients)||!entry.ingredients.length)continue;
-   if(!Array.isArray(entry.steps)||!entry.steps.length)continue;
-   recipeData.push({id:entry.id,name:entry.name,emoji:entry.emoji||'🍽️',
+   if(typeof entry.id!=='number'||!entry.name||!entry.url||!/^https:\/\//.test(entry.url)||!entry.source)continue;
+   const ingredients=Array.isArray(entry.ingredients)?entry.ingredients:[];
+   const steps=Array.isArray(entry.steps)?entry.steps:[];
+   const review=Boolean(entry.needs_review||entry.validazione_automatica?.approved===false||!ingredients.length||!steps.length);
+   const item={id:entry.id,name:entry.name,emoji:entry.emoji||'🍽️',
     time:entry.time??null,kcal:entry.kcal??null,
-    ings:entry.ingredients.map(x=>Array.isArray(x)?x[0]:'').filter(Boolean),
+    ings:ingredients.map(x=>Array.isArray(x)?x[0]:'').filter(Boolean),
     style:entry.style||'Da classificare',type:entry.type||'Piatto unico',
     autoValidated:!!entry.validazione_automatica?.approved,
-    requiredTools:entry.validazione_automatica?.tools||[]});
+    requiredTools:entry.validazione_automatica?.tools||[],review};
+   catalogBrowse.push(item);
    sourcedDetails[entry.id]={source:entry.source,url:entry.url,
     servings:entry.servings||null,minutes:entry.time??null,kcal:entry.kcal??null,
     cost:entry.cost??null,protein:entry.protein??null,carbs:entry.carbs??null,fats:entry.fats??null,
-    image:entry.image_url||null,ingredients:entry.ingredients,steps:entry.steps,stepImages:entry.step_images_display||entry.step_images||[]};
+    image:entry.image_url||null,ingredients,steps,stepImages:entry.step_images_display||entry.step_images||[],
+    photoAbsent:entry.step_photo_source_evidence?.status==='verified_absent'};
+   if(!review)recipeData.push(item);
   }
   // Elimina solo i riferimenti a vecchie demo ormai inesistenti.
   const validIds=new Set(recipeData.map(x=>x.id));

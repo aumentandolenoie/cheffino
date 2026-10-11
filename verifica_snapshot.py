@@ -10,7 +10,12 @@ from pathlib import Path
 from app.photo_policy import publishable_step_photos
 
 def current_visible(rec):
-    if rec.get("needs_review") or rec.get("validazione_automatica", {}).get("approved") is False:
+    verdict=rec.get("validazione_automatica")
+    if rec.get("needs_review") or (isinstance(verdict,dict) and verdict.get("approved") is False):
+        return False
+    # Una nuova ricetta con approvazione formale ma senza galleria o
+    # prova della fonte non e' visibile sotto le nuove regole.
+    if isinstance(verdict,dict) and not publishable_step_photos(rec):
         return False
     return (isinstance(rec.get("id"), int) and bool(rec.get("name")) and
             isinstance(rec.get("url"), str) and rec["url"].startswith("https://") and

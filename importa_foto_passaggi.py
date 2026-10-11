@@ -221,7 +221,7 @@ def fetch_html(url):
 
 def missing_photos(rec):
     groups = rec.get('step_images')
-    return not rec.get('image_url') or not (isinstance(groups, list) and
+    return not valid_image(rec.get('image_url'), rec.get('url') or BASE) or not (isinstance(groups, list) and
         any(isinstance(group, list) and group for group in groups))
 
 
@@ -254,7 +254,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
                r.get('url') and r.get('steps') and
                should_recheck(r, retry_days=retry_days)]
     # Copertine mancanti prima di gallerie mancanti, poi ricette già pubblicate.
-    pending.sort(key=lambda r: (bool(valid_image(r.get('image_url'), r.get('url','https://ricette.giallozafferano.it/'))),
+    pending.sort(key=lambda r: (bool(valid_image(r.get('image_url'), r.get('url') or BASE)),
                                 not missing_photos(r),
                                 not bool(r.get('validazione_automatica', {}).get('approved')),
                                 not (not r.get('image_url') or not any(r.get('step_images') or [])),

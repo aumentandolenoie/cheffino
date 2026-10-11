@@ -1,5 +1,8 @@
 name: "Cheffino 04 - Recupero immagini"
 on:
+  push:
+    paths:
+      - '.github/workflows/04-recupero-immagini.yml'
   schedule:
     - cron: '20 9 * * *'
   workflow_dispatch:

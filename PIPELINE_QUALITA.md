@@ -1,80 +1,92 @@
-# Cheffino: revisione del flusso dati (ramo sperimentale)
+# Cheffino — pipeline catalogo e immagini
 
-## Stato e sicurezza
-Questa modifica viene realizzata su un ramo separato e non modifica il deploy corrente.
-La versione di produzione legge ancora `data/catalogo.json` attraverso
-`app/public_catalog.py`. Il nuovo file `data/catalogo_pubblicato.json`
-è uno snapshot separato: NON diventa il catalogo live finché il backend
-non viene migrato e testato esplicitamente.
+## Quattro workflow
 
-## Tre workflow
-- **01 Raccolta**: scopre 10 nuove fonti alla settimana, salva in revisione.
-- **02 Arricchimento**: due volte a settimana tenta riparazioni e recupero immagini,
-  esegue due volte il controllo integrità (prima e dopo l'importazione).
-- **03 Verifica/pubblicazione**: due volte a settimana esegue pytest,
-  riclassifica, valida, ricontrolla identità fotografica e genera snapshot separato.
+1. `01-raccolta.yml`: acquisizione manuale di nuove ricette, sempre in revisione.
+2. `02-arricchimento.yml`: recupero fotografico e audit giornalieri delle ricette
+   già pubblicate; completamento degli altri dati solo con l'opzione manuale
+   `completa_dati`. Nessuna approvazione automatica aggiuntiva.
+3. `03-pubblicazione.yml`: validazione, test e creazione dello snapshot; non
+   effettua una seconda estrazione né una seconda certificazione delle foto.
+4. `test-qualita.yml`: test e audit locali su PR/push; confronto con fonti reali
+   in sola lettura sulle PR e quando eseguito manualmente. Il report è un artifact Actions.
 
-Tutti usano lo stesso gruppo di concorrenza per evitare scritture simultanee.
-Le pianificazioni sono sfalsate. Nessun workflow è sicuro contro una modifica
-concorrente effettuata manualmente durante l'esecuzione: valutare protezione branch.
+Le scritture operative condividono il gruppo di concorrenza
+`cheffino-catalogo-scrittura`. Lo snapshot è prodotto dal solo workflow 03.
+Gli script monouso delle riparazioni concluse sono recuperabili nella storia Git;
+le foto già recuperate restano nei cataloghi. `ripristina_passaggi_storici.py`
+rimane disponibile come migrazione esplicita, con i relativi test, e non viene
+eseguito periodicamente.
 
-## Limiti ancora aperti (non dichiarare risolti)
-- `ripara_catalogo.py` ora ritenta dopo sette giorni le schede incomplete e
-  preserva le quantità già normalizzate se il testo della fonte non cambia.
-- `valida_catalogo.py` non controlla HTTP 200 delle copertine.
-- `controlla_integrita_catalogo.py` riconosce soltanto alcuni URL foto:
-  ID sconosciuto non implica corrispondenza verificata.
-- `importa_foto_passaggi.py` ora ritenta dopo sette giorni le immagini mancanti,
-  e non associa gallerie ai procedimenti che divergono dalla fonte.
-- `audit_immagini.py` esamina problemi di copertina/galleria e può verificare un
-  campione limitato di URL HTTP (`--online --limit 12`). Non modifica schede;
-  un errore HTTP potrebbe dipendere da anti-hotlink o altri limiti di rete.
-- Per la pubblicazione definitiva servono ancora controlli più completi sulle
-  immagini e una prova end-to-end dei workflow.
-- Non si certificano allergie/intolleranze, calorie o costi.
-- Non serve trasferire immagini di GialloZafferano nel repository.
-- `aggiorna-catalogo.yml` alla radice è un duplicato NON eseguito da Actions.
-- `index.html` alla radice NON è servito da `app/main.py`.
-- `data/ricette.sqlite3` è usato dagli import manuali, non dalla API live.
+## Motore immagini
 
-## Passaggio successivo prima del merge
-Disattivare la schedulazione del vecchio workflow `aggiorna-catalogo.yml`
-nella cartella `.github/workflows/`; eseguire la prova completa dei tre
-workflow e confrontare lo snapshot con il catalogo corrente; solo dopo
-migrare il backend allo snapshot verificato. Non eliminare i dati storici.
+`app/recipe_media.py` legge immagini associate a `HowToStep` e conserva le sezioni
+`HowToSection`. Per HTML supportato integra le immagini dei contenitori espliciti
+`gz-content-recipe-step`, `wprm-recipe-instruction` o `HowToStep`, solo quando il
+loro testo corrisponde ai blocchi della ricetta nello stesso ordine. Non associa
+immagini semplicemente perché vicine al testo. `<picture>`, lazy loading e
+`srcset` sono normalizzati a un URL per elemento. Le strisce restano intere;
+nessuna suddivisione in tre pannelli è presunta dal frontend.
 
-## Collaudo in sola lettura sul catalogo reale (11 ottobre 2026)
-Eseguito via workflow di test della pull request, senza alterare main o Render:
-- 21 test Python superati, compilazione Python riuscita.
-- 388 schede totali; 132 visibili nel catalogo corrente.
-- 132 schede nello snapshot candidato; 0 perdite e 0 aggiunte.
-- 256 schede restano in revisione, senza pubblicazione forzata.
-- Audit offline: 185 schede senza foto passaggi; 8 senza copertina;
-  1 con URL copertina non ammesso.
-- Primo collaudo aveva rilevato 8 schede storiche prive di copertina
-  che sarebbero scomparse. Compatibilità corretta e protezione testata:
-  queste schede restano visibili, mentre le nuove importazioni
-  approvate devono avere almeno un URL HTTPS per la copertina.
+`importa_foto_passaggi.py` è l'unico comando periodico per copertine, gallerie,
+confronto e certificazione. Usa un solo HTML per ricetta e una cache delle regole
+robots per origine. Il precedente riconoscimento numerato/strip è conservato
+come fallback controllato, non come prima scelta. I blog senza dati Recipe o
+senza associazione esplicita restano non verificati: non esiste un parser
+universale garantito.
 
-**Non sono ancora state testate le tre esecuzioni complete con rete.**
-Lo snapshot in CI si trova solo nella directory temporanea del runner e
-non è stato attivato dal backend. I controlli HTTP sulla raggiungibilità
-delle copertine non sono stati eseguiti in questa prova offline.
+L'estrazione annota stato, URL fonte, hash HTML, metodo, data e differenze rispetto
+alla galleria esistente. Gli stati sono `complete`, `partial`, `unknown`,
+`verified_absent`; gli errori di acquisizione sono `fetch_failed` nel report.
+`partial` indica che solo alcuni blocchi hanno immagini, non necessariamente
+che la fonte debba averne altre. Il report non sostituisce le regole editoriali.
 
-## Prova integrata con rete reale (11 ottobre 2026)
-Esecuzione GitHub Actions su runner temporaneo, senza commit né push:
-- Raccolta: 2 ricette nuove, totale temporaneo 390.
-- Riparazione: 2 schede rilette, 0 errori e 0 ancora incomplete tra le rilette.
-- Foto: 2 gallerie dei passaggi recuperate (strisce), 0 errori.
-- Controllo online di 3 copertine: 2 OK e 1 URL non ammesso.
-- Snapshot simulato dopo validazione: 133 ricette visibili su 390,
-  0 perdite rispetto alle 133 visibili nel catalogo temporaneo.
-- Entrambi i job CI (`test` e `prova-rete`) superati.
-- Il nuovo test limitato comprende chiamate esterne reali rispettando
-  robots.txt; non equivale ancora a un giro schedulato completo.
-- Il primo test rete aveva evidenziato un errore nel conteggio
-  `candidates` del riparatore, corretto e riverificato nel secondo run.
+Una galleria esistente non viene sostituita automaticamente. La versione della
+vecchia associazione rimane intatta; `media_extraction_version` identifica il
+nuovo controllo. La compatibilità delle strisce precedenti alla V10 è applicata
+nell'API (`step_images_display`), mantenendo la precedente posizione visibile.
+Il frontend mostra gruppi già pronti senza interpretare i nomi dei file.
 
-Nessun aggiornamento di produzione: main, Render e il catalogo persistente
-restano invariati. La PR resta in bozza finché non saranno pianificati
-il rollout e l'adozione del catalogo pubblicato da parte del backend.
+L'API aggiorna le fotografie dallo staging soltanto se il procedimento coincide
+con quello dello snapshot pubblicato e il numero dei gruppi è coerente.
+Ingredienti, approvazioni e testi pubblicati restano autoritativi nello snapshot.
+
+## Assenza verificata
+
+Nessun risultato del parser, errore HTTP, pagina incompleta o formato sconosciuto
+può certificare assenza. Il controllo richiede una pagina completa, una ricetta
+identificata e blocchi riconosciuti corrispondenti al testo, senza media nei
+blocchi, immagini strutturate o segnali delle gallerie originali. Le attestazioni
+esistenti restano valide secondo `app/photo_policy.py`. L'audit distingue queste
+assenze dalle foto da recuperare.
+
+## Comandi
+
+```bash
+# Confronto limitato, nessuna scrittura nei cataloghi
+python importa_foto_passaggi.py --published-only --limit 35 --dry-run --report /tmp/confronto-media.json
+
+# Recupero ordinario delle ricette già pubblicate
+python importa_foto_passaggi.py --published-only --limit 35 --report /tmp/media.json
+
+# Test e controllo locale
+python -m pytest -q
+python controlla_integrita_catalogo.py
+python diagnostica_foto_api.py
+```
+
+Il confronto rispetta versione e intervallo dei tentativi. `--force` insieme a
+`--published-only` ritenta immediatamente le sole schede incomplete. I casi
+ambigui sono segnalati; la correzione delle associazioni esistenti richiede un
+confronto con la fonte, non un semplice cambio della versione.
+
+## Validazione della migrazione
+
+I test coprono immagini strutturate, sezioni con numeri ripetuti, immagini HTML
+senza numerazione, picture/srcset, gallerie parziali, collage interi, identità
+errata, ordine diverso, fonti non leggibili, assenza certificata e conservazione
+delle foto del catalogo pubblicato. I cataloghi non sono modificati dal refactor.
+I test sintetici non dimostrano da soli la copertura di ogni template reale:
+prima di applicare nuove associazioni va esaminato anche il confronto Actions
+con le fonti live. Usare `--recipe-id ID` (ripetibile, solo con `--dry-run`)
+per confrontare anche ricette già controllate. Un report vuoto o composto da errori non prova equivalenza.

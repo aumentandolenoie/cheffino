@@ -10,6 +10,8 @@ HEAD='''<script type="application/ld+json">{
 "recipeInstructions":[{"@type":"HowToStep","text":"Mescola il farro."}]
 }</script>'''
 
+HEAD='<html>'+HEAD+'<div class="gz-content-recipe-step"><p>Mescola il farro.</p></div></html>'
+
 def test_real_absence_needs_actual_page_and_no_step_photos():
     assert absence_verified(HEAD,URL,"Insalata di farro alla greca",ID)
     assert VERSION.startswith("gz-full-html")
@@ -29,3 +31,4 @@ def test_refuse_source_with_wrong_recipe():
 def test_refuse_numbered_gallery():
     page=HEAD+'<img alt="Insalata di farro alla greca - 1" src="/images/ricette/222/22290/a_1.jpg">'
     assert not absence_verified(page,URL,"Insalata di farro alla greca",ID)
+

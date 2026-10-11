@@ -12,6 +12,7 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
 
 from controlla_integrita_catalogo import image_id
+from app.photo_policy import certified_source_absence
 
 SOURCE = Path("data/catalogo.json")
 USER_AGENT = "CheffinoPersonalProject/0.1 (image link audit)"
@@ -37,7 +38,8 @@ def inspect_record(rec):
         problems.append("copertina_url_non_ammesso")
     groups = rec.get("step_images")
     if not isinstance(groups, list) or not any(isinstance(g, list) and g for g in groups):
-        problems.append("foto_passaggi_mancanti")
+        if not certified_source_absence(rec):
+            problems.append("foto_passaggi_mancanti")
     else:
         main_id = image_id(main)
         step_urls = [u for group in groups if isinstance(group, list) for u in group]
@@ -110,3 +112,4 @@ if __name__ == "__main__":
     if not 1 <= opts.limit <= 100:
         cli.error("--limit deve essere tra 1 e 100")
     audit(opts.file, opts.limit, opts.online)
+

@@ -49,7 +49,9 @@ def _refresh_photo_fields(approved, latest):
     if _trusted_photo(main):
         result["image_url"] = main
     groups = latest.get("step_images")
-    if (isinstance(groups, list) and groups and
+    if (latest.get("steps") == approved.get("steps") and
+            isinstance(groups, list) and groups and
+            len(groups) == len(approved.get("steps") or []) and
             all(isinstance(g, list) and all(_trusted_photo(u) for u in g)
                 for g in groups)):
         cover_id = image_id(result.get("image_url"))
@@ -93,7 +95,10 @@ def public_catalog():
                 pending["needs_review"] = True
                 merged.append(pending)
         records = merged
+    from app.recipe_media import display_groups
+    records = [dict(r, step_images_display=display_groups(r)) for r in records]
     return sorted(records, key=lambda r: (
         0 if "giallozafferano" in r.get("source", "").lower() else 1,
         r.get("name", ""),
     ))
+

@@ -1,6 +1,13 @@
 name: "Cheffino 02 - Arricchimento"
 on:
+  schedule:
+    - cron: '20 9 * * *'
   workflow_dispatch:
+    inputs:
+      completa_dati:
+        description: 'Completa anche ingredienti e altri dati (oltre alle immagini)'
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -8,6 +15,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   arricchimento:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
@@ -15,7 +23,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Completa ricette e immagini senza approvare
+      - name: Completa dati solo su richiesta
+        if: github.event_name == 'workflow_dispatch' && inputs.completa_dati
         run: |
           python classifica_catalogo.py
           python ripara_catalogo.py --limit 30 --delay 2.5
@@ -24,12 +33,30 @@ jobs:
           python recupera_quantita_mirate.py
           python pulisci_procedimenti.py
           python controlla_integrita_catalogo.py --apply
-          python controlla_integrita_catalogo.py --apply
           python audit_immagini.py --online --limit 12
           python classifica_catalogo.py
           python diagnostica_quantita.py --limit 20
           python verifica_catalogo.py
           python -m json.tool data/catalogo.json > /dev/null
+      - name: Immagini per blocchi e audit del catalogo pubblicato
+        run: |
+          python importa_foto_passaggi.py --published-only --limit 35 --delay 2.5 --report /tmp/cheffino-media.json
+          python controlla_integrita_catalogo.py
+          python audit_immagini.py --limit 10
+          OFFSET=$(( (10#$(date -u +%j) % 7) * 20 ))
+          python diagnostica_foto_api.py --online --offset "$OFFSET" --limit 20 --delay 1 > /tmp/cheffino-audit.txt
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: media-report
+          path: /tmp/cheffino-*.json
+          retention-days: 30
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: media-audit
+          path: /tmp/cheffino-audit.txt
+          retention-days: 30
       - name: Salva dati arricchiti
         run: |
           if git diff --quiet -- data/catalogo.json; then exit 0; fi
@@ -39,3 +66,4 @@ jobs:
           git commit -m 'Catalogo in lavorazione: arricchimento fonti e foto'
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
+

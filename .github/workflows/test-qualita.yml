@@ -2,6 +2,9 @@ name: Cheffino - Test qualita
 on:
   push:
     paths:
+      - '**.py'
+      - 'frontend/**'
+      - 'index.html'
       - 'data/catalogo_pubblicato.json'
       - '.github/workflows/test-qualita.yml'
   pull_request:
@@ -29,61 +32,22 @@ jobs:
           python pubblica_catalogo.py --target /tmp/cheffino-snapshot-candidato.json
           python verifica_snapshot.py --snapshot /tmp/cheffino-snapshot-candidato.json --approved-photo-review data/revisioni_foto_pubblicazione.json
 
-  prova-rete:
+  confronto-fonti:
+    if: github.event_name == 'workflow_dispatch' || github.event_name == 'pull_request'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Raccolta limitata da sito reale (solo runner)
-        run: |
-          python aggiorna_catalogo.py --limit 2 --delay 2.5
-          python -m json.tool data/catalogo.json > /dev/null
-      - name: Arricchimento e immagini limitati (solo runner)
-        run: |
-          python classifica_catalogo.py
-          python ripara_catalogo.py --limit 2 --delay 2.5
-          python recupera_quantita_esplicite.py
-          python recupera_ingredienti_fonte.py
-          python recupera_quantita_mirate.py
-          python pulisci_procedimenti.py
-          python controlla_integrita_catalogo.py --apply
-          python importa_foto_passaggi.py --limit 2 --delay 2.5
-          python controlla_integrita_catalogo.py --apply
-          python audit_immagini.py --online --limit 3 | tail -n 6
-      - name: Validazione, snapshot e confronto sul runner
-        run: |
-          python classifica_catalogo.py
-          python valida_catalogo.py
-          python pubblica_catalogo.py --target /tmp/catalogo_pubblicato_test.json
-          python verifica_snapshot.py --snapshot /tmp/catalogo_pubblicato_test.json --approved-photo-review data/revisioni_foto_pubblicazione.json
-          python -m json.tool /tmp/catalogo_pubblicato_test.json > /dev/null
-      - name: Diagnosi delle quattro schede residue (senza modificare dati)
-        run: python diagnostica_ultime_quattro.py
-      - name: Galleria hamburger vegetariano verificata sulla fonte (sola lettura)
-        run: python recupera_hamburger_vegetariano.py
-      - name: Verifica tre foto di preparazione nel blog originale (sola lettura)
-        run: python recupera_foto_blog_pomodoro.py
-      - name: Verifica doppia sequenza fotografica hamburger alle erbe
-        run: python recupera_hamburger_erbe.py
-      - name: Confronta i 23 passaggi del brodo con 23 fotografie originali
-        run: python diagnostica_brodo_foto.py
-      - name: Verifica associazione finale brodo in sola lettura
-        run: python recupera_brodo_foto.py
-      - name: Conferma foto storica dal sito originale (sola lettura)
-        run: python ripara_foto_storica.py --dry-run
-      - name: Simula ripristino dei procedimenti originali pubblicati (sola lettura)
-        run: python ripristina_passaggi_storici.py
-      - name: Evidenze originali delle sette ricette (sola lettura)
-        run: python diagnostica_ultime_sette.py
-      - name: Simula recupero sicuro di due ricette senza modifiche
-        run: python recupera_due_ricette_residue.py
-      - name: Simula certificazione di assenza nella fonte originale
-        run: python certifica_assenza_foto_fonte.py
-      - name: Verifica nessuna pubblicazione
-        run: |
-          git diff --exit-code -- data/catalogo_pubblicato.json
-          test -z "$(git status --porcelain -- data/catalogo_pubblicato.json)"
-          echo 'Snapshot persistente non modificato; nessun commit/push.'
+      - name: Confronta estrattore con fonti reali senza scrivere cataloghi
+        run: python importa_foto_passaggi.py --published-only --limit 35 --delay 2.5 --dry-run --recipe-id 5 --recipe-id 211658408928202 --recipe-id 74528043300452 --recipe-id 182532426058049 --recipe-id 149444968096049 --report /tmp/confronto-media.json
+      - name: Verifica cataloghi immutati
+        run: git diff --exit-code -- data/catalogo.json data/catalogo_pubblicato.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: confronto-media
+          path: /tmp/confronto-media.json
+          retention-days: 30

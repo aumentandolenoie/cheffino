@@ -24,6 +24,8 @@ HTML='''<script type="application/ld+json">{
 "recipeInstructions":[{"@type":"HowToStep","text":"Mescola"}]
 }</script>'''
 
+HTML='<html>'+HTML+'<div class="gz-content-recipe-step"><p>Mescola</p></div></html>'
+
 def test_auto_certifies_only_approved_without_real_step_photos(tmp_path):
     raw=tmp_path/"raw.json";pub=tmp_path/"pub.json"
     raw.write_text(json.dumps([recipe(1),recipe(2,False),recipe(3,True,True)]),encoding="utf-8")
@@ -48,3 +50,4 @@ def test_auto_rejects_mismatched_cover_identity(tmp_path):
     rows,_,ids=plan(raw,pub,fetcher=lambda url:HTML,policy=Permit(),auto=True,delay=0)
     assert ids==[]
     assert not certified_source_absence(rows[0])
+

@@ -53,8 +53,24 @@ def structured_step_images(html):
     return False
 
 def absence_verified(html,url,title,recipe_id):
+    # Never certify an incomplete response or an unrecognized procedure.
+    from app.recipe_media import Document, is_step, text_key
+    if '</html>' not in html.lower():
+        return False
+    document=Document();document.feed(html)
+    blocks=[n for n in document.root.walk() if is_step(n)]
+    if not blocks or any(n.tag in ('img','source','video','iframe')
+                         for block in blocks for n in block.walk()):
+        return False
     parsed=parse_recipe(html,url)
     if parsed.get("name")!=title or not parsed.get("steps"):
+        return False
+    source_steps=parsed.get('steps',[])
+    texts=[]
+    for block in blocks:
+        paragraphs=[n for n in block.walk() if n.tag=='p']
+        texts.append(' '.join(n.text() for n in paragraphs) if paragraphs else block.text())
+    if len(texts)!=len(source_steps) or any(text_key(a)!=text_key(b) for a,b in zip(texts,source_steps)):
         return False
     gallery=ImagesHTML(title,url);gallery.feed(html)
     if gallery.photos or gallery.strips:
@@ -165,3 +181,4 @@ if __name__=="__main__":
     if not 1<=args.limit<=35 or not 0<=args.delay<=10:
         p.error("limit 1..35 e delay 0..10")
     run(args.apply,auto=args.auto,limit=args.limit,delay=args.delay)
+

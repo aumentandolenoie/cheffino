@@ -552,8 +552,8 @@
       "Versate le nocciole in una padella insieme al rosmarino e a un filo d'olio e tostate per qualche minuto.",
       "Guarnite i piatti con la panna tenuta da parte, mescolate leggermente e completate con le nocciole tostate e qualche aghetto di rosmarino: la vostra vellutata di zucca è pronta per essere servita!"
     ],
-    "step_images_checked_at": "2026-10-11T12:52:13.124812+00:00",
-    "images_import_version": 10,
+    "step_images_checked_at": "2026-10-12T19:08:14.883265+00:00",
+    "images_import_version": 12,
     "steps_precedenti": [
       "Pulisci la zucca e tagliala a pezzi; affetta i porri.",
       "Fai insaporire i porri in olio, aggiungi la zucca e versa il brodo vegetale.",
@@ -579,8 +579,12 @@
       "Guarnite i piatti con la panna tenuta da parte, mescolate leggermente e completate con le nocciole tostate e qualche aghetto di rosmarino: la vostra vellutata di zucca è pronta per essere servita!"
     ],
     "step_images": [
-      [],
-      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/22/2215/2215_vellutata-di-zucca_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/22/2215/2215_vellutata-di-zucca_strip_4-6.jpg"
+      ],
       [
         "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_7.jpg",
         "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_8.jpg",
@@ -606,7 +610,82 @@
         "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_20.jpg",
         "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_21.jpg"
       ]
-    ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per realizzare la vellutata di zucca per prima cosa pulite la zucca e riducete 1 kg di polpa a cubetti, poi tagliate il porro a rondelle.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/2215_vellutata-di-zucca_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Scaldate l’olio in una casseruola capiente, aggiungete il porro e fatelo soffriggere per qualche minuto a fuoco medio-basso, mescolando per non farlo bruciare. Se necessario potete aggiungere un mestolo di brodo caldo.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/2215_vellutata-di-zucca_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Quando il porro sarà ben rosolato, unite la zucca e mescolate per qualche minuto per farla insaporire, poi coprite con il brodo caldo. Portate a cottura la zucca mescolando spesso, ci vorranno circa 25-30 minuti.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_7.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_8.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Quando la zucca risulterà molto morbida e quasi sfatta regolate di sale e di pepe, poi aromatizzate con la noce moscata. A questo punto aggiungete quasi tutta la panna, tenendone da parte un po' per la decorazione finale.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_10.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_11.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Frullate con un mixer a immersione per amalgamare; dovrà risultare liscia e vellutata. Tritate grossolanamente le nocciole con il coltello.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_13.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_14.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate le nocciole in una padella insieme al rosmarino e a un filo d'olio e tostate per qualche minuto.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_16.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_17.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Guarnite i piatti con la panna tenuta da parte, mescolate leggermente e completate con le nocciole tostate e qualche aghetto di rosmarino: la vostra vellutata di zucca è pronta per essere servita!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_19.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_20.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/22/2215/vellutata-di-zucca_21.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Vellutata-di-zucca.html",
+      "source_hash": "3c0a753875fc81ec0f65ff5ba26da10c850a614fa3d99bf1cffd84c05a3b5fcb",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:14.883250+00:00",
+      "existing_preserved": true,
+      "candidate_differs": true,
+      "updated": true,
+      "steps_filled": 2,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 26,
@@ -9089,8 +9168,22 @@
         "https://ricette.giallozafferano.it/images/ricette/229/22910/baccala-mantecato-alla-veneziana_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-11T10:54:32.056347+00:00",
-    "images_import_version": 7
+    "step_images_checked_at": "2026-10-12T19:08:23.787033+00:00",
+    "images_import_version": 7,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Baccala-mantecato-alla-veneziana.html",
+      "source_hash": "34b62621d4e39aa5e70d5fbbdb4d19d2a27f00b78bcce208095178a514142e26",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:23.787018+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 275941352617638,
@@ -9235,8 +9328,22 @@
         "https://ricette.giallozafferano.it/images/ricette/198/19841/baccala-in-umido_18.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-11T10:54:29.394711+00:00",
-    "images_import_version": 7
+    "step_images_checked_at": "2026-10-12T19:08:21.014734+00:00",
+    "images_import_version": 7,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Baccala-in-umido.html",
+      "source_hash": "ed9fa18f32e0fbe06b03dcb57775fb6248ff48ce41220ac6399e195dfeea8b39",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:21.014717+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 149339473991213,
@@ -9370,7 +9477,7 @@
       "validation_version": 1
     },
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:51:11.120395+00:00",
+    "step_images_checked_at": "2026-10-12T19:08:17.759938+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/172/17296/17296_baccal_alla_livornese_strip_1-3.jpg"
@@ -9416,7 +9523,21 @@
       "quindi versate il sugo nel tegame con il baccalà, coprite con il coperchio e lasciate cuocere a fuoco dolce per circa 20 minuti, se mescolate fatelo con molta delicatezza per non sfaldare il baccalà. Intanto pelate le patate",
       "e tagliatele a cubetti. Trascorsi i 20 minuti di cottura del baccalà, aggiungete anche le patate, coprite con il coperchio e proseguite la cottura per altri 20 minuti, sempre facendo attenzione a rimestare per non sfaldare troppo il baccalà.",
       "Lavate e tritate il ciuffo di prezzemolo, una volta che il baccalà sarà cotto, spegnete il fuoco e aromatizzate con il prezzemolo tritato. Servite il vostro baccalà alla livornese ben caldo."
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Baccala-alla-livornese.html",
+      "source_hash": "32c461195ae84485e2b8c76f44f42cff25acdeefdcc2df7ec7241fb945190108",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:17.759922+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 177798028193126,
@@ -12417,8 +12538,22 @@
         "https://ricette.giallozafferano.it/images/ricette/167/16737/cosce-di-pollo-al-forno_12.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-11T10:55:27.688335+00:00",
-    "images_import_version": 7
+    "step_images_checked_at": "2026-10-12T19:09:28.386475+00:00",
+    "images_import_version": 7,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Cosce-di-pollo-al-forno.html",
+      "source_hash": "ebf5d95c9d0415134df72cd9e4e6f58c614dce4e4b1e0c9a6811a798e0392844",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:28.386460+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 274823696561498,
@@ -20346,7 +20481,7 @@
       "validation_version": 1
     },
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:55:25.007768+00:00",
+    "step_images_checked_at": "2026-10-12T19:09:25.504967+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/161/16172/16172_cestini_patate_e_salmone_strip_1-3.jpg"
@@ -20387,7 +20522,21 @@
       "Tagliate il salmone a striscioline e quindi a cubetti di circa 1 cm di lato. Scaldate l’olio in una padella antiaderente e fate rosolare l’aglio. Scottate il salmone per circa 2-3 minuti, fino a che non farà una leggera crosticina in superficie. Salate e pepate. Infine togliete l’aglio e lasciate intiepidire il salmone, se preferite riponendolo in una ciotola.",
       "A questo punto i vostri cestini di patate saranno pronti: estraeteli dal forno e lasciateli raffreddare. Quando saranno a temperatura ambiente sformateli e adagiateli su un piatto. Riempiteli con la crema di formaggio.",
       "Decorate con dei cubetti di salmone e delle foglioline di menta. I vostri cestini di patate ripiene di salmone sono pronti da portare in tavola!"
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Cestini-di-patate-ripiene-di-salmone.html",
+      "source_hash": "12158f69754476ebd4694f1a23d1020ea324501543798a8b40b94e1e6df1e982",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:25.504950+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 67605578037869,
@@ -22136,7 +22285,7 @@
       "validation_version": 1
     },
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:55:21.798365+00:00",
+    "step_images_checked_at": "2026-10-12T19:09:22.610797+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/157/15715/15715_caserecce_al_sugo_di_merluzzo_zucchine_e_olive_ner_strip_1-3.jpg"
@@ -22177,7 +22326,21 @@
       "e pepe, cuocendo per 8-10 minuti. Aggiungete infine il merluzzo, che farete cuocere per 2-3 minuti, e le olive",
       "mescolando molto delicatamente perchè la carne non si sfaldi. Fate cuocere la pasta in una pentola con abbondante acqua bollente salata, scolatela e versatela direttamente nel condimento,",
       "mischiando per insaporire il tutto. Spegnete, completate aggiungendo il prezzemolo tritato, infine servite le vostre casarecce al sugo di merluzzo, zucchine e olive nere."
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Caserecce-al-sugo-di-merluzzo-zucchine-e-olive-nere.html",
+      "source_hash": "175ab17ddca2c861c13eac5eb8445b30c7e7c60f5a39b62be8884dbbd99689c2",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:22.610779+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 158312095387123,
@@ -23878,13 +24041,15 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 10,
-    "step_images_checked_at": "2026-10-11T12:49:15.928978+00:00",
+    "images_import_version": 12,
+    "step_images_checked_at": "2026-10-12T19:08:12.089711+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_1-3.jpg"
       ],
-      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_4-6.jpg"
+      ],
       [
         "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_7-9.jpg"
       ],
@@ -23894,7 +24059,9 @@
       [
         "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_13-15.jpg"
       ],
-      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_16-18no_pack.jpg"
+      ],
       [
         "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_19-21.jpg"
       ]
@@ -23916,7 +24083,72 @@
       "insaporite con lo spicchio di aglio intero (potete ometterlo se non lo preferite) 13 e il rosmarino 14 , lasciate rosolare per 2-3 minuti, quindi unite anche le carote 15",
       "e le zucchine 16 , salate a piacere poi sfumate con un mestolo di acqua di cottura della pasta 17 e cuocete per circa 8 minuti a fuoco basso, a fine cottura eliminate l’aglio con una pinza da cucina. Quando l’acqua per la cottura bollirà, versate le mini penne rigate 18",
       "Cuocete la pasta per 6 minuti o il tempo riportato sulla confezione, quindi scolatela direttamente nella padella con il condimento 19 , insaporite con il Parmigiano grattugiato 20 e servite subito la pasta con le zucche 21 !"
-    ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare la pasta con le zucche iniziate tagliando a fette di 1 cm di spessore la zucca, poi eliminate con un coltello la buccia e tagliate ciascuna fetta a bastoncini di 2 cm di spessore dai quali ricaverete dei triangolini.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Lavate e spuntate le zucchine, quindi tagliatele a rondelle di mezzo centimetro di spessore, prendete ciascuna rondella e intagliatela incidendo due triangolini distanziati (5-6),",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "estraete i triangolini e otterrete la forma di una simpatica zucca 7 . Ripetete lo steso procedimento con le carote: pelatele, spuntate quindi tagliatele a rondelle di mezzo centimetro 8 , intagliate con un coltello i triangolini 9",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "estraeteli 10 per avere le vostre zucche arancioni 11 . Intanto ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta. In una padella scaldate l’olio di oliva, quindi versate i triangolini di zucca 12",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "insaporite con lo spicchio di aglio intero (potete ometterlo se non lo preferite) 13 e il rosmarino 14 , lasciate rosolare per 2-3 minuti, quindi unite anche le carote 15",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "e le zucchine 16 , salate a piacere poi sfumate con un mestolo di acqua di cottura della pasta 17 e cuocete per circa 8 minuti a fuoco basso, a fine cottura eliminate l’aglio con una pinza da cucina. Quando l’acqua per la cottura bollirà, versate le mini penne rigate 18",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_16-18no_pack.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Cuocete la pasta per 6 minuti o il tempo riportato sulla confezione, quindi scolatela direttamente nella padella con il condimento 19 , insaporite con il Parmigiano grattugiato 20 e servite subito la pasta con le zucche 21 !",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/171/17174/17174_pasta_con_le_zucche_strip_19-21.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-le-zucche.html",
+      "source_hash": "4a95971a4fb295d61e305c4216236e0200f39ecf5d7ce3445b9c205e3263eb5b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:12.089695+00:00",
+      "existing_preserved": true,
+      "candidate_differs": true,
+      "updated": true,
+      "steps_filled": 2,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 55652435307175,
@@ -25623,7 +25855,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:41.828494+00:00",
+    "step_images_checked_at": "2026-10-12T19:08:09.188138+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_1-3.jpg"
@@ -25657,7 +25889,21 @@
       "e la verza tagliata a listarelle, salate e pepate a piacere e cuocete a fuoco vivace per circa 10 minuti, mescolando di tanto in tanto. Ora aggiungete i tocchetti di trota nella padella, mescolate",
       "e sfumate con il vino bianco, lasciandolo evaporare completamente. In ultimo, unite i pomodori a cubetti, aggiustate di sale e pepe e cuocete per 5-6 minuti mescolando di tanto in tanto, dopodiché spegnete il fuoco.",
       "Nel frattempo mettete a lessare le farfalle nel tegame con acqua bollente salata a piacere. Scolate la pasta al dente e versatela nella padella insieme al condimento, mescolate per amalgamare il tutto e servite la vostra pasta con la trota ben calda!"
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-la-trota.html",
+      "source_hash": "9640f748f624e8ec2a8f760f51e8fe58e3395da7c0b2efcba9efbc1e966b0dae",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:09.188116+00:00",
+      "existing_preserved": true,
+      "candidate_differs": true,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "partial",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 186241012322651,
@@ -28666,7 +28912,21 @@
       "Una volta cotte, sfornate e cospargete con il Parmigiano Reggiano DOP grattugiato 11. Le vostre carote arrosto sono pronte per essere servite 12!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:55:16.248439+00:00"
+    "step_images_checked_at": "2026-10-12T19:09:16.866164+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Carote-arrosto.html",
+      "source_hash": "846c8e3c771b82fbe561b22bbc0eac9689bbf847afb8c50ebb89f0615ac15c61",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:16.866146+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 91606204057379,
@@ -29288,7 +29548,21 @@
       "Aggiungete i pistacchi in ciotola e mescolate per amalgamare tutti gli ingredienti. Foderate con carta forno una teglia e versate qui le carote cercando di distribuirle in modo omogeneo così da facilitare la cottura. Cuocete in forno statico preriscaldato a 220° per 30 minuti. A cottura ultimata sfornate le vostre carote arrostite e lasciatele intiepidire prima di servirle."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:55:18.960536+00:00"
+    "step_images_checked_at": "2026-10-12T19:09:19.743364+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Carote-arrosto-con-pistacchi.html",
+      "source_hash": "41da016b311240d519aa8fdb2d03e1e76eda4060ffa4e44bc3152194f1535a2c",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:19.743351+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 127641610388941,
@@ -30399,7 +30673,21 @@
       "Scolate la pasta al dente e versatela nella padella con il salmone, accendete il fuoco moderato e mescolate brevemente aggiungendo un mestolo dell’acqua di cottura. A questo punto togliete la padella dal fuoco e versate il composto di uova e Pecorino, mescolando velocemente e bene, aggiungendo al bisogno altra acqua di cottura. Insaporite con un’altra macinata di pepe e servite subito la vostra carbonara di salmone!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:55:13.481400+00:00"
+    "step_images_checked_at": "2026-10-12T19:09:14.152589+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Carbonara-di-salmone.html",
+      "source_hash": "23b586361f48117d3c93938ec8ac28d6cd1dcc2db807999d411908424d261a2f",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:14.152574+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 193659859317810,
@@ -32342,7 +32630,21 @@
       "Cuocete per 15 minuti a fuoco moderato. Una volta pronta, aggiustate di sale, insaporite con pepe a piacere e servite subito la vostra caponata di pesce spada!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:55:10.826877+00:00"
+    "step_images_checked_at": "2026-10-12T19:09:11.407420+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Caponata-di-pesce-spada.html",
+      "source_hash": "cd3576168750091e709c945b6a8e79e87db4487bf5f5cd0deea586b855adc7ac",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:11.407406+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 167285177530428,
@@ -33898,10 +34200,12 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 10,
-    "step_images_checked_at": "2026-10-11T12:49:13.242588+00:00",
+    "images_import_version": 12,
+    "step_images_checked_at": "2026-10-12T19:08:06.311436+00:00",
     "step_images": [
-      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/236/23641/23641_pasta-con-datterini-capperi-stracciatella_strip_1-3.jpg"
+      ],
       [
         "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_4.jpg",
         "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_5.jpg",
@@ -33956,7 +34260,92 @@
       "Mettete a cuocere i pennoni 16 , da scolare 3 minuti prima del termine della cottura. Intanto in una padella ampia versate l'olio extravergine d'oliva, l'aglio scamiciato e le acciughe 17 . Fatele sciogliere mescolando, poi rimuovete l'aglio 18 .",
       "Potete versare poi la coulis e mescolare, quindi scolare i pennoni 19 , aggiungere acqua di cottura al bisogno 20 e terminare così la cottura dei pennoni. Una volta pronti spegnete il fuoco, aromatizzate con la scorza grattugiata del limone 21 . Potete unire a filo anche poco olio.",
       "Servite la pasta in un bel piatto da portata disponendo in ordine sparso i pomodorini datterino tenuti da parte 22 e la stracciatella di burrata 23 . Terminate sbriciolando i capperi fritti 24 !"
-    ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare la pasta con datterini, capperi e burrata iniziate lavando e tagliando i pomodorini a metà, nel senso della lunghezza, disponeteli su una teglia foderata con carta da forno, con il lato tagliato rivolto verso l’alto. Condite con abbondante olio extravergine d'oliva.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/23641_pasta-con-datterini-capperi-stracciatella_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Cospargete con origano, sale e zucchero. Infornate in forno statico preriscaldato a 200° per circa 30-40 minuti: a fine cottura dovranno risultare caramellati, appassiti e ben abbrustoliti.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_4.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_5.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Per i capperi: sciacquateli sotto acqua corrente per eliminare il sale in eccesso, tamponateli così da eliminare più acqua possibile. In un pentolino dai bordi alti scaldate l’olio di semi a 175°. Friggete i capperi per qualche minuto e scolate su carta assorbente, non appena risulteranno ben croccanti 9.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_7.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_8.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Intanto i pomodorini saranno cotti: prelevatene circa 3/4 del totale, versateli in un bicchiere alto, unite acqua 10 e 2 cucchiai di olio extravergine d'oliva 11 e frullate 12 .",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_10.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_11.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "La consistenza finale deve essere una crema 13 , da passare poi al setaccio 14 . La coulis di datterini è pronta 15 .",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_13.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_14.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Mettete a cuocere i pennoni 16 , da scolare 3 minuti prima del termine della cottura. Intanto in una padella ampia versate l'olio extravergine d'oliva, l'aglio scamiciato e le acciughe 17 . Fatele sciogliere mescolando, poi rimuovete l'aglio 18 .",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_16.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_17.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Potete versare poi la coulis e mescolare, quindi scolare i pennoni 19 , aggiungere acqua di cottura al bisogno 20 e terminare così la cottura dei pennoni. Una volta pronti spegnete il fuoco, aromatizzate con la scorza grattugiata del limone 21 . Potete unire a filo anche poco olio.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_19.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_20.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_21.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Servite la pasta in un bel piatto da portata disponendo in ordine sparso i pomodorini datterino tenuti da parte 22 e la stracciatella di burrata 23 . Terminate sbriciolando i capperi fritti 24 !",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_22.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_23.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/236/23641/pasta-con-datterini-capperi-stracciatella_24.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-datterini-capperi-stracciatella.html",
+      "source_hash": "d68801c85820dc1fb8145822f82cff57df3a33f49c85bed5206d4a40e2f4361d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:06.311422+00:00",
+      "existing_preserved": true,
+      "candidate_differs": true,
+      "updated": true,
+      "steps_filled": 1,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 39116646995969,
@@ -36750,7 +37139,7 @@
       "validation_version": 1
     },
     "images_import_version": 10,
-    "step_images_checked_at": "2026-10-11T13:53:48.169230+00:00",
+    "step_images_checked_at": "2026-10-12T19:09:08.489157+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/185/18593/18593_brodo_strip_1-3.jpg"
@@ -36821,7 +37210,21 @@
       [
         "https://ricette.giallozafferano.it/images/ricette/185/18593/18593_composizione_strip_7-9.jpg"
       ]
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Brodo-di-prosciutto-crudo-merluzzo-sfogliato-con-pane-croccante-e-rapanelli.html",
+      "source_hash": "3998eead6415688c4ac578063083d9635ed240b4c7c0cb0c8706b2b80d9a21e2",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:08.489140+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 132208820724896,
@@ -37452,7 +37855,21 @@
       "Spennellate generosamente la superficie del pesce con la salsa 28 , ricoprendolo in modo uniforme 29 , guarnite con foglioline di timo. Il branzino in padella con zucchine al salto è pronto per essere servito  30 ."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:55:08.029336+00:00"
+    "step_images_checked_at": "2026-10-12T19:09:05.603834+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Branzino-in-padella-con-zucchine-al-salto.html",
+      "source_hash": "64bfdfcd5848d1e37e1fc8cd5fb1ae994b66b30cb186759d4cae7a9ed7ebcfdc",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:05.603819+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 17551067374128,
@@ -38026,7 +38443,21 @@
       "Cuocete per 7 minuti, o comunque fino a che il branzino sarà cotto e i pomodorini succosi 19. Poco prima di servire insaporite con il pepe nero. Il branzino in friggitrice ad aria è pronto per essere servito."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:55:04.819534+00:00"
+    "step_images_checked_at": "2026-10-12T19:09:02.870868+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Branzino-in-friggitrice-ad-aria.html",
+      "source_hash": "06bffbfb03403264070724d6de4ace048c48dcfde0bc372755fa75907086732a",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:02.870854+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 142162933486665,
@@ -39303,7 +39734,21 @@
       "Salate pepate e insaporite i filetti di branzino con le foglioline di timo fresco. Spegnete il fuoco e a parte in un’altra padella tostate i pinoli per 2-3 minuti a fuoco medio. Servite il filetto di branzino alla ligure con le olive e guarnite con i pinoli tostati!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:55:02.029064+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:59.453772+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Branzino-alla-ligure.html",
+      "source_hash": "63d436837509ad4b989fc9a5f758c61dba731d22da98bff8ab355a365503acb4",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:59.453760+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 256995603765743,
@@ -40761,7 +41206,21 @@
       "Quando il pesce sarà cotto trasferitelo in un piatto 25 , conditelo con l'olio appena preparato 26 e servitelo 27 ."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:59.216790+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:56.555965+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Branzino-al-vapore-con-verdure-di-stagione.html",
+      "source_hash": "341598aad3f1de5eb6dec7eb179ef958d040117f6bfa9a0414cdc6fe705355ce",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:56.555951+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 235564027726443,
@@ -41995,7 +42454,21 @@
       "Adagiate il pesce su un foglio di carta di alluminio e richiudete nuovamente il branzino dentro di essa, sigillando nuovamente bene le estremità per evitare che si aprano in cottura: infornate in forno statico preriscaldato a 200°C per 25 minuti (se non disponete di un forno statico optate per una cottura in forno ventilato preriscaldato a 180°C per 15 minuti). Il vostro branzino al cartoccio con agrumi e melagrana è ora pronto per essere portato in tavola e gustato 18!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:56.044861+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:53.319820+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Branzino-al-cartoccio-con-agrumi-e-melograno.html",
+      "source_hash": "606f8035bc3e0a8dc6da6d7fe46760497b81c8fcf5f64325f1907ac7c15dae2e",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:53.319806+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 182532426058049,
@@ -43314,7 +43787,21 @@
       "Versate anche la marinatura 34 e lasciate cuocere 1 minuto per lato i vostri filetti 35 . La cottura del branzino deve essere molto rapida per non rovinare le sue pregiate carni. Ora impiattate il vostro branzino agli agrumi con patate novelle al rosmarino e zucchine prezzemolate e servite ancora caldo 36 !"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:53.187500+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:50.435881+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Branzino-agli-agrumi-con-patate-novelle-al-rosmarino-e-zucchine-prezzemolate.html",
+      "source_hash": "b245701208afbe9a3d7235595b9ec705cd70b6934fe1ede8ba3adf6af15c129b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:50.435869+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 179969798987771,
@@ -44204,7 +44691,21 @@
       "Una vola cotti metteteli su carta assorbente per eliminare l’olio in eccesso e conditeli con un pizzico di sale. I vostri hamburger di verdure sono pronti per essere gustati: accompagnateli ad esempio con la rucola e una salsa allo yogurt."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:47:04.758739+00:00"
+    "step_images_checked_at": "2026-10-12T19:09:36.810127+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Hamburger-di-verdure.html",
+      "source_hash": "b4fb3e6a527bf80e7fd8d39d637209d6b760c61b77f265c5644250f84786c8a2",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:36.810114+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 31697594691861,
@@ -44709,7 +45210,21 @@
       "Proseguite con le Pepite di salmone e il pane croccante. Terminate la decorazione con le fettine di limone e i semi di papavero. I bowl di salmone, avocado e croccante di pane sono pronti per essere serviti."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:50.028370+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:47.536960+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Bowl-di-salmone-avocado-e-croccante-di-pane.html",
+      "source_hash": "1a1864e6f9edb308310b5427441481f3f03a9941e2da86343aaeaeb02dd83b0d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:47.536947+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 79156429561544,
@@ -45353,7 +45868,21 @@
       "Una volta cotte le bombette di pollo cacio e pepe, sfornatele e servitele ben calde con la salsa di pecorino 18."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:47.232718+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:44.659601+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Bombette-di-pollo-cacio-e-pepe.html",
+      "source_hash": "4c91b10b7f05b8610b4b6151aab437429ef7c77b60220855b998a44d9a104106",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:44.659587+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 149444968096049,
@@ -45576,7 +46105,7 @@
       "validation_version": 1
     },
     "images_import_version": 10,
-    "step_images_checked_at": "2026-10-11T13:53:50.870725+00:00",
+    "step_images_checked_at": "2026-10-12T19:09:34.047643+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburger_alle_erbe_panino_strip_1-3.jpg"
@@ -45614,7 +46143,21 @@
       [
         "https://ricette.giallozafferano.it/images/ricette/154/15458/15458_hamburger_erbe_no_brand_strip_16-18.jpg"
       ]
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Hamburger-alle-erbe-aromatiche-con-verdure-miste-e-patatine.html",
+      "source_hash": "eedad5a422cee9a3d47ee8f34be63cbae9c7cd88ad752ef5a2131c7073475396",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:34.047631+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 6749092888902,
@@ -46540,8 +47083,8 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "images_import_version": 10,
-    "step_images_checked_at": "2026-10-11T12:49:10.492803+00:00",
+    "images_import_version": 12,
+    "step_images_checked_at": "2026-10-12T19:08:03.525472+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_1.jpg",
@@ -46558,8 +47101,12 @@
         "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_8.jpg",
         "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_9.jpg"
       ],
-      [],
-      [],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/29780_pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/297/29780/29780_pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_strip_13-15.jpg"
+      ],
       [
         "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_16.jpg",
         "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_17.jpg",
@@ -46595,7 +47142,91 @@
       "Cuocete gli spaghetti in abbondante acqua bollente salata 16 . Scolate la pasta 2 minuti prima della fine della cottura e trasferiteli in una padella 17 , poi versate un mestolo dell'acqua di cottura 18 .",
       "Unite la crema di porri 19 e portate a cottura. Spegnete il fuoco, versate un filo d'olio 20 , pepate 21 e mantecate.",
       "Impiattate gli spaghetti 22 , poi completate con le nocciole tritate 23 e il finocchietto selvatico. La pasta con crema di porri brasati, nocciole e finocchietto è pronta per essere servita 24 !"
-    ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare la pasta con crema di porri brasati, nocciole e finocchietto, come prima cosa pulite i porri: eliminate la parte verde e la base, poi divideteli a metà per il lungo e condite con olio.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_1.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_2.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Salate e distribuite il condimento su tutta la superficie con le mani. Adagiate i porri su una piastra ben calda.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_4.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_5.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Lasciate abbrustolire bene i porri da ambo i lati, ci vorranno circa 10 minuti. Quando si saranno ammorbiditi trasferiteli in una teglia, coprite con pellicola e lasciateli riposare per 10 minuti; in questo continueranno ad ammorbidirsi grazie al loro stesso vapore.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_7.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_8.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Nel frattempo versate le nocciole in una padella già calda e tostatele per qualche minuto, facendo attenzione a non bruciarle. Tritate grossolanamente le nocciole al coltello.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/29780_pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Riprendete i porri brasati e metteteli in un boccale 10 , poi aggiungete pochissima acqua 11 e frullate con un mixer a immersione fino ad ottenere una crema liscia e omogenea 12 . Tenete da parte.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/29780_pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Cuocete gli spaghetti in abbondante acqua bollente salata 16 . Scolate la pasta 2 minuti prima della fine della cottura e trasferiteli in una padella 17 , poi versate un mestolo dell'acqua di cottura 18 .",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_16.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_17.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Unite la crema di porri 19 e portate a cottura. Spegnete il fuoco, versate un filo d'olio 20 , pepate 21 e mantecate.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_19.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_20.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_21.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Impiattate gli spaghetti 22 , poi completate con le nocciole tritate 23 e il finocchietto selvatico. La pasta con crema di porri brasati, nocciole e finocchietto è pronta per essere servita 24 !",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_22.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_23.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/297/29780/pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto_24.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-porri-brasati-nocciole-e-finocchietto.html",
+      "source_hash": "f968ef6b372e52e507727036fd8b6e3799e339bf716e57208aaffa4373c006e3",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:03.525458+00:00",
+      "existing_preserved": true,
+      "candidate_differs": true,
+      "updated": true,
+      "steps_filled": 2,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 177595636769878,
@@ -49712,7 +50343,21 @@
       "Versate la salsa nella padella e mescolate a fuoco dolce per qualche secondo, giusto il tempo di amalgamarla. I vostri bocconcini di pollo con yogurt e curcuma sono pronti per essere serviti!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:44.565059+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:41.431218+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Bocconcini-di-pollo-con-yogurt-e-curcuma.html",
+      "source_hash": "2b0a3a3e1868e5ade1d40be5f47120800a0b7ff800dbdd89e0be99bf4a05ac72",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:41.431206+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 117314097695797,
@@ -51053,7 +51698,21 @@
       "Mescolate bene 13 e proseguite la cottura a fuoco medio per altri 10 minuti 14 , finché il pollo sarà morbido e il fondo leggermente ristretto. Eliminate l’aglio e servite il pollo alla mediterranea ben caldo, con il suo sughetto saporito 15 ."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:41.882431+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:38.654827+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Bocconcini-di-pollo-alla-mediterranea.html",
+      "source_hash": "248d41bdfde8cb9d4ed5442842b020f691a2d8b982ce23c3018dc8f16eec37da",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:38.654813+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 53874902859664,
@@ -51742,7 +52401,21 @@
       "Ora potete versare nel tegame anche l’uva cotta 16 , mescolate e cuocete a fuoco moderato finché non si addenserà la salsina 17 . Servite i bocconcini di pollo all’uva ben caldi 18 ."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:39.085444+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:35.738950+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Bocconcini-di-pollo-all-uva.html",
+      "source_hash": "e6f3592c25b6121aeb8f97b6acaf57fa0d66b014fb5602e3d93142a97fd67740",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:35.738934+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 138833412661599,
@@ -52365,7 +53038,21 @@
       "Aggiungete il prezzemolo 22 e mescolate delicatamente 23 , condite con un filo di olio extravergine d’oliva a crudo e, se lo gradite, aggiungete una macinata di pepe. Distribuite i bocconcini di pesce spada alla mediterranea nei piatti e completate con i frutti di cappero tenuti da parte 24 ."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:35.861051+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:32.857936+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Bocconcini-di-pesce-spada-alla-mediterranea.html",
+      "source_hash": "bf238580030f7f59b2367c332507333149f0156a87f5c4bd2b4879554625075b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:32.857921+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 93819021071662,
@@ -54231,7 +54918,21 @@
       "Aggiungete i pomodorini arrostiti e guarnite con qualche fogliolina di basilico. Servite subito la vostra pasta con crema di melanzane e ricotta salata!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:29.290507+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:00.281158+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-melanzane-e-ricotta-salata.html",
+      "source_hash": "a9209a3dff1fc620af27260dfe571ad346484058291089c8ac419124e0ff77cc",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:00.281135+00:00",
+      "existing_preserved": true,
+      "candidate_differs": true,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "partial",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 57170497254616,
@@ -55735,7 +56436,21 @@
       "Aromatizzate con una grattugiata di scorza di lime 16 e qualche rametto di aneto fresco 17 . I vostri bicchierini salati al salmone, crema di formaggio e crumble alle erbe sono pronti da servire 18 ."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:04.367072+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:29.971045+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe.html",
+      "source_hash": "09f129babb7983f2d5349fd3c151972ff2329368ac525cf52f070bd49d5c576c",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:29.971029+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 211010872267136,
@@ -57417,7 +58132,21 @@
       "Ricoprite la superficie con le cipolle rimaste, bagnandola con il loro fondo di cottura. Condite con un filo d'olio e inumidite con poca acqua, poi insaporite con sale e abbondante origano secco 31 .  Bucherellate la superficie con la forchetta facendo attenzione a non bucare lo strato inferiore. Cuocete in forno statico a 180° per 40-45 minuti. Sfornate e lasciate intiepidire la focaccia farcita con cipolle e pomodorini 32 , poi tagliatela con le forbici e servitela a quadratini 33 !"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:21.088435+00:00"
+    "step_images_checked_at": "2026-10-12T19:09:31.120142+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Focaccia-farcita-con-cipolle-e-pomodorini.html",
+      "source_hash": "d58fa4fc83aa6438faa3084bb7298a48fca7ce46cc392003a14ec8eb3ace70b0",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:09:31.120120+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 15773693968514,
@@ -57671,7 +58400,21 @@
       "Consumate la pasta appena pronta; se dovesse avanzare, conservatela in frigorifero per un giorno al massimo. La crema di fagioli si conserva in frigo per un paio di giorni."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:26.389700+00:00"
+    "step_images_checked_at": "2026-10-12T19:07:57.404333+00:00",
+    "media_extraction": {
+      "status": "partial",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-fagioli-e-funghi.html",
+      "source_hash": "bc26dc02118cb419746ccff2c5dc2c61677ad01f9a3c871566f4e47b641e39d8",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:07:57.404307+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "partial",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 71113014880676,
@@ -57857,7 +58600,21 @@
       "A cottura ultimata, scolate i bastoncini su carta assorbente. Insaporite i bastoncini di salmone con la scorza di limone e serviteli ben caldi con la crema di funghi."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:18.425432+00:00"
+    "step_images_checked_at": "2026-10-12T19:08:27.059217+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Bastoncini-di-salmone-con-crema-di-funghi-alle-erbe.html",
+      "source_hash": "e17ca9766850f9c9e23b858e5ab259a28677f0adda9c4b517cbebc2dae7b6735",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-12T19:08:27.059201+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 125698241327341,

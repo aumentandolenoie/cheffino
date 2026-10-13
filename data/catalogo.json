@@ -6020,8 +6020,22 @@
         "https://ricette.giallozafferano.it/images/ricette/366/36681/panino-al-salame-con-crema-di-provolone-e-melanzane_18.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T15:46:25.248590+00:00",
-    "images_import_version": 6
+    "step_images_checked_at": "2026-10-13T17:00:43.751998+00:00",
+    "images_import_version": 6,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Panino-al-salame-con-crema-di-provolone-e-melanzane.html",
+      "source_hash": "d5fd980478892709c984c25c8abd4ca48057fceef00051eef6541e0833b68487",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:43.751978+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 195906486229640,
@@ -6516,8 +6530,22 @@
         "https://ricette.giallozafferano.it/images/ricette/292/29297/minestra-di-riso-con-legumi_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T15:46:22.613092+00:00",
-    "images_import_version": 6
+    "step_images_checked_at": "2026-10-13T17:00:41.046021+00:00",
+    "images_import_version": 6,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Minestra-di-riso-con-legumi.html",
+      "source_hash": "8d8439ae2f08a79c25bd5db60f8d7fe274d4749c6169e0b66f66f1e6fe4fc89d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:41.045999+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 90872653943460,
@@ -6709,7 +6737,21 @@
       "Completate con un filo d’olio extravergine d’oliva e mescolate. Distribuite la minestra autunnale nei piatti e terminate con le castagne sbriciolate. Servite la vostra zuppa ben calda."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:11.449682+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:38.290921+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Minestra-autunnale.html",
+      "source_hash": "ce24b500156ef1a81c7084f992dbf240f7ca141a4528d738930aa8a50bb00570",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:38.290899+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 103398610939236,
@@ -7130,7 +7172,21 @@
       "Scolate i malfatti e trasferiteli nella padella con il burro 22 . Fateli insaporire brevemente 23 , poi impiattate e irrorate con il fondo di cottura. Servite subito i vostri malfatti al cavolo nero, completando con formaggio grattugiato a piacere 24 !"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:08.655749+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:35.593595+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Malfatti-al-cavolo-nero.html",
+      "source_hash": "3f581e50c8487a5a5f98a357301f5acea3d5cc79fb52acb6ded290155cb89435",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:35.593573+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 34575136027975,
@@ -12697,7 +12753,21 @@
       "Aggiungete un filo d'olio e dell'erba cipollina tritata. Mescolate il tutto e conservate in frigorifero fino al momento di servire l'insalata."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:39.125434+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:32.882592+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-polpo-con-finocchi-e-arance.html",
+      "source_hash": "7c6c7ff2d93da276e19783ffa20caf8101a44dd2b9a26322f9bf263ff875144b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:32.882579+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 216751349649532,
@@ -20657,7 +20727,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:36.472081+00:00",
+    "step_images_checked_at": "2026-10-13T17:00:29.642810+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/225/22511/22511_insalata_di_farro_invernale_strip_1-3.jpg"
@@ -20698,7 +20768,21 @@
       "Quando il farro sarà cotto, scolatelo e versatelo in una ciotola. Condite il farro con un filo d’olio, mescolate e aggiungete sia i cavoletti che i funghi, dopo aver rimosso l’aglio da entrambi.",
       "Unite anche il formaggio e il prosciutto, poi pepate a piacere.",
       "In ultimo aggiungete le carote e mescolate bene il tutto. La vostra insalata di farro invernale è pronta per essere gustata!"
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-farro-invernale.html",
+      "source_hash": "43db96f2b5913cbd7bab2c27923d947358131f977b6993b618cb6e1d31df5ed1",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:29.642791+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 16165683372660,
@@ -21326,7 +21410,21 @@
       "Unite il farro alle verdure, mescolate bene. Coprite la ciotola con pellicola e poi fate raffreddare in frigorifero per almeno un’ora. Distribuite l'insalata di farro fredda in ciotoline individuali e servite accompagnando con un cucchiaio di salsa allo yogurt e basilico."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:52.351018+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:26.886241+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-farro-fredda.html",
+      "source_hash": "0dedb247823917fd7054a68654c6dbc90257883b5e94fa90005443b97f9ef0bd",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:26.886219+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 191956037861526,
@@ -21874,7 +21972,21 @@
       "Proseguite incorporando anche i broccoli 13 e il gorgonzola a dadini 14 . Mescolate e portate in tavola l’insalata di farro e broccoli 15 ."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:33.099437+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:24.125050+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-farro-e-broccoli.html",
+      "source_hash": "7643dfab9e88e84f2b21d15b9043041b44d2ca289a2e6aea2b61b3e202700aec",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:24.125029+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 139399827862918,
@@ -22170,7 +22282,21 @@
       "Unite anche le melanzane, spargendole su tutta la superficie. Cuocete in forno preriscaldato a 240 gradi, con la modalità grill, per 10 minuti nel ripiano alto del forno 17. Sfornatela quando sarà ben gratinata e servitela calda o tiepida."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:27.941917+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:46.463465+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-melanzane-al-forno.html",
+      "source_hash": "298d5d960a3886d2c2b454651ae588222d1a174bfe3303e18f61e70ca068b35e",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:46.463445+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 261127131530602,
@@ -23107,7 +23233,21 @@
       "Con l'aiuto di 2 cucchiai formate delle quenelle di ricotta e adagiatele sul farro. Completate con qualche fogliolina di maggiorana e la vostra insalata di farro con zucchine e ricotta è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:30.456204+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:21.401603+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-farro-con-zucchine-e-ricotta.html",
+      "source_hash": "238ebe2419e7bfa1105640ee46a6e11af1c8d66e4d9b49b24f6cd40d36541333",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:21.401583+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 159273327475684,
@@ -23774,7 +23914,21 @@
       "e i gherigli di noci spezzettati grossolanamente 16 . Grattugiate la scorza di 1 limone non trattato 17 e del basilico fresco. se volete potete anche aggiungere un filo d'olio e mescolare il tutto. La vostra insalata di farro con verdure è pronta per essere gustata 18 !"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:27.826380+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:18.565494+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-farro-con-verdure.html",
+      "source_hash": "112763b0f59ab4890944976db1461d40c96e26c909a879d344f3c73318f2f675",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:18.565476+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 97958431403574,
@@ -38029,7 +38183,21 @@
       "Mescolate bene 13 . A questo punto 14 conservata l'insalata di orzo in frigo per almeno due ore prima di servirla 15 ."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:22.257317+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:15.731193+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-d-orzo-con-pomodorini-mais-e-olive.html",
+      "source_hash": "eea8b261224ba4a7c424bd40646f8f4b8e81ed19117ee089318177e1450a78b9",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:15.731172+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 186253245726855,
@@ -41008,7 +41176,21 @@
       "Mantecate la pasta sul fuoco medio. Poi aggiungete anche il Parmigiano Reggiano DOP e mescolate. Impiattate e servite la pasta con crema di zucca e guanciale con del prezzemolo fresco."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:39.550760+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:47.796957+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucca-e-guanciale.html",
+      "source_hash": "7b9fc5e8513a508b439647456b8c881f0ea63a468735bec366f89286f23e5435",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:47.796935+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 257093682063338,
@@ -41670,7 +41852,21 @@
       "Scolate le linguine al dente e versatele direttamente nella crema di verdure. Saltatele per bene, terminate la cottura e aggiungete il trito di nocciole. Impiattate e servite."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:36.853368+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:45.064838+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-verdure-al-forno.html",
+      "source_hash": "2ea37cfa0130202db4abcff32471b133a8b0ff19a52b7f9df6017df6f6968833",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:45.064816+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 91925680236961,
@@ -42316,7 +42512,21 @@
       "Impiattate 19 condendo con abbondante crema di spinaci 20 , poi completate con le listarelle di guanciale. La vostra pasta con crema di spinaci e guanciale croccante è pronta per essere servita 21 !"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:44.411853+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:41.816361+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-spinaci-e-guanciale-croccante.html",
+      "source_hash": "10407295a038c735966fe941ff39dba7d48a13d0a94ab508f7b410d18b5c3a94",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:41.816338+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 164146948695378,
@@ -42583,7 +42793,7 @@
       "validation_version": 1
     },
     "images_import_version": 10,
-    "step_images_checked_at": "2026-10-11T13:53:53.564307+00:00",
+    "step_images_checked_at": "2026-10-13T17:00:12.903318+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/342/34213/hamburger-vegetariano-autunnale_1.jpg",
@@ -42605,7 +42815,21 @@
       [
         "https://ricette.giallozafferano.it/images/ricette/342/34213/34213_hamburger-vegetariano-autunnale_strip_16-18.jpg"
       ]
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Hamburger-vegetariano-autunnale.html",
+      "source_hash": "eefac30af3db798a126197116c64a66ad601f9d982b7a5a4da8525052e096805",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:12.903298+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 157146087951858,
@@ -42880,7 +43104,21 @@
       "Distribuite la pasta nei piatti e completate con la nduja tagliata a cubetti 16 e il Parmigiano Reggiano DOP 36 mesi in scaglie 17 . Servite subito ben calda 18 ."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:41.775096+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:39.006083+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-scarola-e-nduja.html",
+      "source_hash": "8128049df505329490bdccd8eefbb883dcf188b88105cdd79f29d53258c25f9b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:39.006064+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 44241281340907,
@@ -43215,7 +43453,21 @@
       "Adagiate gli hamburger in una friggitrice ad aria aiutandovi con la carta forno (noi abbiamo utilizzato una friggitrice con una capacità di 6 litri), poi rimuovetela. Cuocete 2 hamburger per volta a 200° per 10 minuti, girandoli a metà cottura. I vostri hamburger in friggitrice ad aria sono pronti per essere gustati come preferite!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:16.988399+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:10.179035+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Hamburger-in-friggitrice-ad-aria.html",
+      "source_hash": "7352e4a9fff1a401a64f4eb0275447203277c0c44bc712a3976bff474c3bd20b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:10.179015+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 92831019828370,
@@ -43552,7 +43804,21 @@
       "Conditele con la crema di salmone preparata in precedenza e le zucchine saltate. Mescolate per insaporire e servite la pasta con crema di salmone e zucchine e salmone ben calda."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:34.047468+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:35.874638+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-salmone-e-zucchine.html",
+      "source_hash": "8398c0be84769aa3d39ef8b7fd9ac865a3becfdff66d00525686b35dfa1a75a1",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:35.874619+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 48459148750444,
@@ -44308,7 +44574,21 @@
       "Cuoceteli al dente, poi scolateli, trasferiteli nella ciotola con il condimento e mescolate bene. Impiattate aggiungendo i pomodorini tenuti da parte e il basilico."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:30.293014+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:30.353587+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-ricotta-e-pomodorini-arrosto.html",
+      "source_hash": "96bf227214d63b23303a30cec347b7acecfc3c4f6e431591c7c893f4a542dcbd",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:30.353565+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 7464757882078,
@@ -45065,7 +45345,21 @@
       "Trasferite nuovamente il tutto all'interno della padella in cui avete cotto le fave 16 , lasciate scaldare un attimo, in modo da insaporire il tutto 16 . Trasferite nei piatti da portata decorando con le fave tenute da parte e qualche fogliolina di maggiorana 17 . La pasta crema di ricotta e fave è pronta, servitela subito 18 ."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:27.616078+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:27.660938+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-ricotta-e-fave.html",
+      "source_hash": "dd4f029f0f1cd65414deb99cb7e3473eaa7a425af20d42ab3626815f18aba32d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:27.660919+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 61210801895997,
@@ -45705,7 +45999,21 @@
       "Unite il condimento di asparagi e pistacchi avendo cura di tenerne da parte un pochino per guarnire ciascun piatto da portata 19 . Mescolate per insaporire; se dovesse risultare asciutta aggiungete altra acqua di cottura a vostra discrezione. Servite subito la pasta con crema di ricotta, asparagi e pistacchi distribuendo sul piatto il condimento tenuto da parte (20-21)."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:46:45.811808+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:33.073214+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-ricotta-asparagi-e-pistacchi.html",
+      "source_hash": "2e113053e0e774f2dbcb0a73bd92faf7b5721044d06a5038ed689527716a2a68",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:33.073193+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 159049626155993,
@@ -48524,7 +48832,21 @@
       "Aggiungete i piselli rimasti e saltate la pasta per un paio di minuti a fuoco medio. Impiattate e decorate con il guanciale croccante, poi servitela subito!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:53:00.516405+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:24.927379+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-piselli-e-guanciale.html",
+      "source_hash": "ce6019a14012491d5f6f24479ad1256846b254a8d74e34c522ba289044c02203",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:24.927357+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 134863099855228,
@@ -49044,7 +49366,21 @@
       "Mantecate il tempo di amalgamare bene la pasta 16 , poi trasferite nei piatti da portata e aromatizzate con ancora qualche fogliolina di basilico fresca 17 . La vostra pasta con crema di peperoni è pronta per essere servita 18 !"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:52:55.191030+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:07.645299+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-peperoni.html",
+      "source_hash": "421201b6a048d57cedc962e6329c888f2818ce9447ebe509defe8eb607b55596",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:07.645281+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 249247179491464,
@@ -49607,7 +49943,21 @@
       "Unite la ricotta 16 e saltate il tutto giusto il tempo di amalgamare il condimento 17 . Servite la pasta con crema di peperoni e ricotta ben calda 18 ."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:52:57.852488+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:18.942358+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-peperoni-e-ricotta.html",
+      "source_hash": "475b152b50de36953eb634023ed68364ebed3add2cabcba9159f9fc2dc1dbc21",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:18.942336+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 55667784366094,
@@ -50217,7 +50567,21 @@
       "Versate la pasta. Adagiate sopra la pasta una fetta di formaggio per ciascuna cocotte e passate in forno già caldo, in modalità grill per 1 minuto. Sfornate e insaporite con il pepe. La pasta con crema di peperoni e formaggio è pronta, gustatela calda!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:22.152034+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:16.200237+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-peperoni-e-formaggio.html",
+      "source_hash": "1aa62cd32e72b5110a7162c67ae42d2dfa86b03b8beb9067df2b8f30d60903b3",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:16.200216+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 159479421491873,
@@ -50832,7 +51196,21 @@
       "Pepate 16 e versate un filo d'olio di oliva 17 . Servite la pasta con crema di peperoni e Taleggio ben calda 18 ."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:19.457614+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:13.360309+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-peperoni-e-Taleggio.html",
+      "source_hash": "f9fd62c3bde0d6e49172a953525112c782bb90e167cf6db8e06f74b0791c3f4c",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:13.360286+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 148335034655699,
@@ -51544,7 +51922,21 @@
       "Mescolate bene il tutto 19 e impiattate. Aggiungete i pezzetti di peperone, del finocchietto 20 e servite la vostra pasta con crema di peperoni, caciotta e tonno 21 !"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:24.841490+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:22.192916+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-peperoni-caciotta-e-tonno.html",
+      "source_hash": "a3275770a5c3eac7e87d511fde0fddd5c8e25d517e28f43f7522b5cc736e6f45",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:22.192895+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 101676584248196,
@@ -52251,7 +52643,21 @@
       "Unite le olive, poi pepate e mantecate con un filo d'olio, mescolando ancora. Impiattate e completate con le mandorle a lamelle e qualche fogliolina di basilico. La vostra pasta con crema di peperoni arrosto e mandorle è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:16.782329+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:10.542205+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-peperoni-arrosto-olive-e-mandorle.html",
+      "source_hash": "757dc6300ebab991e7f9f2bce3beff4637158db6f2857554afb7268bc60692b1",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:10.542183+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 271740595978114,
@@ -53595,7 +54001,21 @@
       "Completate con la fonduta di brie, il guanciale tritato e l’erba cipollina. La vostra pasta con brie, patate e guanciale è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:14.120522+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:04.907020+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-patate-brie-e-guanciale.html",
+      "source_hash": "032e81fedb324dbb01de830138ed9da0342afc9fd50e596aad42889f8f91bc31",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:04.907000+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 97618653410404,
@@ -54172,7 +54592,21 @@
       "Impiattate e aggiungete le nocciole tagliate grossolanamente, qualche fogliolina di timo e una macinata di pepe rosa. La vostra pasta con crema di parmigiano e salsiccia è pronta per essere servita ben calda."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:18.660999+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:49.687631+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-parmigiano-e-salsiccia.html",
+      "source_hash": "9131d97df048359f995ce81d8bb386f4ee0554e5758df066aab654ae2fc90e82",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:49.687615+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 219376424027883,
@@ -55656,7 +56090,21 @@
       "Amalgamate bene e spegnete il fuoco, poi completate con un filo d’olio a crudo e altro basilico fresco. Impiattate e guarnite con i pomodorini, le melanzane tenute da parte e ancora qualche fogliolina di basilico. La vostra pasta con crema di melanzane e pomodorini è pronta per essere servita!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:26.647323+00:00"
+    "step_images_checked_at": "2026-10-13T17:01:01.696488+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-melanzane-e-pomodorini.html",
+      "source_hash": "cd2c0db9a8c26667e6d32799dd053ec87e6c2286993cdc7cd0195ea9e3be8c86",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:01:01.696473+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 260831753740936,
@@ -56274,7 +56722,21 @@
       "Mantecate in padella con altra acqua di cottura 28 , quanto basta perché risulti cremosa 29 . Completate il piatto con il pesce spada e le melanzane che avete tenuto da parte e guarnite con foglie di basilico fresco. La vostra pasta con crema di melanzane e pesce spada è pronta per essere servita 30 !"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:23.974052+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:58.844639+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-melanzane-e-pesce-spada.html",
+      "source_hash": "7fd9da0b9caf46fbffdd1b131c4e12d459c644e70af0079565391fc54ba6fd7b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:58.844616+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 144685133639820,
@@ -56922,7 +57384,21 @@
       "Impiattate e completate con qualche goccia di olio al basilico e i pinoli tostati. La vostra pasta con crema di melanzane al forno e nduja è pronta per essere servita!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:21.306978+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:56.132827+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-melanzane-al-forno-e-nduja.html",
+      "source_hash": "05456154042e3f0237083efeef8280770d4878456d442c553642eaff90554820",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:56.132804+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 205107299780999,
@@ -60268,7 +60744,21 @@
       "In ultimo pepate, condite con un filo d’olio e aggiustate di sale. Aggiungete una parte del guanciale nella padella, mescolate bene e impiattate. Guarnite i piatti col guanciale restante e servite la vostra pasta con crema di ceci e guanciale ben calda!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:54:23.749706+00:00"
+    "step_images_checked_at": "2026-10-13T17:00:52.888094+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-ceci-e-guanciale.html",
+      "source_hash": "bd4936d9f5e3d8fbaac3b219a850a167caa672f763a0d119bf55d7c082625f0f",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-13T17:00:52.888073+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 146768740893534,

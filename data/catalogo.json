@@ -16820,7 +16820,21 @@
       "Scolateli poi con una schiumarola direttamente nella padella con il pesce 13 . Aggiungete un po’ di pepe a piacere 14 e servite subito la pasta con pesce spada e zucchine ben calda 15 !"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:52.029421+00:00"
+    "step_images_checked_at": "2026-10-14T14:35:14.626322+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-pesce-spada-e-zucchine.html",
+      "source_hash": "32037f6ea3e7c54e99b967ef49ceb9aecdb7476f8b33e7da34da79a86abb6881",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:35:14.626302+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 10702932925065,
@@ -17319,7 +17333,21 @@
       "Mescolate per bene, infine guarnite con altre foglioline di menta e un filo di olio di oliva. Servite subito la vostra pasta con pesce spada e fave!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:05:01.916434+00:00"
+    "step_images_checked_at": "2026-10-14T14:35:10.751141+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-pesce-spada-e-fave.html",
+      "source_hash": "48f2426ab92de99fc58ca19d8ebfc70409a418d22bc6b0f40a6b803211ba9c59",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:35:10.751125+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 144370730723180,
@@ -18370,7 +18398,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:53.569878+00:00",
+    "step_images_checked_at": "2026-10-14T14:35:07.462345+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/233/23352/23352_pasta_con_peperoni_salsiccia_e_feta_strip_1-3.jpg"
@@ -18411,7 +18439,21 @@
       "Ottenete una crema liscia e tenete da parte. Sbriciolate al coltello, o anche con le mani per un effetto più rustico, la feta e tornate ai fornelli. Tuffate i rigatoni nell'acqua bollente e salata da scolare al dente.",
       "Versare nuovamente la salsiccia nella padella, scaldate e quando la pasta sarà cotta scolatela direttamente nel condimento. Aggiungete la crema di peperoni.",
       "Allungate con un mestolo di acqua di cottura e saltate a fuoco vivace per un paio di minuti. Spegnete il fuoco e terminate con la feta sbriciolata. Ecco pronta la vostra pasta con peperoni, salsiccia e feta."
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-peperoni-salsiccia-e-feta.html",
+      "source_hash": "8700a5731a81685c5c14e5ccf65b04f1a89b4e1c95f4d3fb7f28984eeadb9fb0",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:35:07.462326+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 95116560499391,
@@ -19064,7 +19106,21 @@
       "Impiattate e completate con del pecorino grattugiato. La vostra pasta con pancetta è pronta per essere servita!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:49.238154+00:00"
+    "step_images_checked_at": "2026-10-14T14:35:04.555498+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-pancetta.html",
+      "source_hash": "6363f8cb7ba82c2563e3fff86aa8b383f1a88f6a3bcf7e594c59e898029b1061",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:35:04.555477+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 31086828838792,
@@ -19776,7 +19832,21 @@
       "Impiattate e completate con i pomodorini tenuti da parte e qualche fogliolina di menta. La vostra pasta con ombrina, zucchine trombetta e pomodorini gialli è pronta per essere servita!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:46.398948+00:00"
+    "step_images_checked_at": "2026-10-14T14:35:01.770441+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-ombrina-zucchine-trombetta-e-pomodorini-gialli.html",
+      "source_hash": "6b50b06f74631649b85e25bc0e06da48c9e943adc63e740ce28255ed67aae459",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:35:01.770423+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 109683226445367,
@@ -20411,7 +20481,21 @@
       "Impiattate con la stracciatella frullata e gustate subito la pasta con nduja, mazzancolle e stracciatella."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:50.886153+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:58.982891+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-nduja-mazzancolle-e-stracciatella.html",
+      "source_hash": "67e4d8f77246711e8dfcb4c499581c1cfe2c290bd185fe9478b9cd9c68b552c0",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:58.982871+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 199672550739260,
@@ -21012,7 +21096,21 @@
       "Profumate con qualche fogliolina di menta fresca e completate con il Parmigiano Reggiano grattugiato. Servite subito la vostra pasta con melanzane in bianco cremosa ben calda!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:43.727195+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:56.135491+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-melanzane-in-bianco-cremosa.html",
+      "source_hash": "74826c0ccf9293ab250ac8fc5d8ab28be4673bca9874e76a8b3ec8e280f5a48b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:56.135472+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 77080104431803,
@@ -21625,7 +21723,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:48.246912+00:00",
+    "step_images_checked_at": "2026-10-14T14:34:53.399207+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/213/21388/21388_mezze_maniche_melanzane_grana_strip_1-3.jpg"
@@ -21661,7 +21759,21 @@
       "Sfornate la vostra cialda di Grana Padano DOP 10 e lasciatela intiepidire. Non appena la pasta sarà pronta scolatela in una ciotola ampia 11 e conditela con olio di oliva 12 .",
       "Insaporite con foglie di basilico fresco 13 , dei pomodori secchi sott’olio ben scolati 14 e le olive 15 .",
       "Incorporate anche le melanzane fritte e insaporite con un cucchiaio di Grana Padano DOP grattugiato 16 . Prendete al cialda e spezzatela per ottenere dei pezzi grossolani 17 . Guarnite con le sfoglie di Grana Padano DOP la pasta e gustatela tiepida 18 ."
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-melanzane-e-cialde-di-Grana-Padano.html",
+      "source_hash": "2df5af10c4e8f5d901c616bc3daa9200ffb98c116854f809d38a70a088a5b729",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:53.399190+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 46968945886641,
@@ -22899,7 +23011,21 @@
       "Aggiungete ancora sughetto e prezzemolo tritato a piacere. La vostra pasta con mazzancolle è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:44.548066+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:50.197036+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-mazzancolle.html",
+      "source_hash": "32d41b97c3df7899cc0e8bcd94bc77609e240cbf597378250b23eb219451adcc",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:50.197021+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 161880508581250,
@@ -23598,7 +23724,21 @@
       "Mescolate, spegnete il fuoco e una volta che la pasta sarà pronta, scolatela direttamente nel tegame con i pomodorini e le lenticchie. Mantecate per insaporire, quindi servite adagiando nel piatto prima la crema di cavoletti di Bruxelles e poi posizionate sopra la pasta. La pasta con lenticchie e cavoletti è pronta da gustare!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:41.041477+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:47.185116+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-lenticchie-e-cavoletti.html",
+      "source_hash": "976646221e47be0a419a1e6779227d132f7a15df9cd1c8c4c965e3e23c52df77",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:47.185097+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 226507466299036,
@@ -25516,7 +25656,21 @@
       "quando saranno al dente scolateli direttamente nella padella con il condimento di polpettine: amalgamate bene la pasta con il condimento, basteranno pochi istanti. Quindi spegnete il fuoco e impiattate la vostra pasta con polpettine di pesce da gustare ben calda!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:04:59.256073+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:44.416866+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-le-polpettine-di-pesce.html",
+      "source_hash": "8d032bb3b9fab5bea277d843d35492ced0f4c17c3dc5c5191ac0f091fbdd6bdf",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:44.416852+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 21053765819425,
@@ -26596,7 +26750,21 @@
       "mescolate e infine impiattate guarnendo con le rondelle di ravanelli 16 e aromatizzate con un pizzico di pepe nero. Ecco pronta la vostra pasta con i ravanelli: non vi resta che servirla ben calda."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:01:02.182777+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:41.189653+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-i-ravanelli.html",
+      "source_hash": "27d23150b464744ca7c1cdc6037abd285a9932457c3b8c7cda99c2ba43fd3b03",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:41.189635+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 227763886813888,
@@ -27219,7 +27387,21 @@
       "Impiattate e completate con un filo d’olio a crudo e altro prezzemolo a piacere. La vostra pasta con i funghi è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:39.120018+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:37.921037+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-i-funghi.html",
+      "source_hash": "36c117f5455add92690375cccf96f4f4b5c688a1a3d0936556bf237113784916",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:37.921018+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 218027136323427,
@@ -28938,7 +29120,21 @@
       "Allungate con un mestolo di acqua di cottura e saltate la pasta qualche istante per amalgamare i sapori. Servite subito la vostra pasta con funghi e fagioli."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:36.274631+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:35.176925+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-funghi-e-fagioli.html",
+      "source_hash": "b63ff62c26b8a3c84d456f7aebda3b726acaa52e0688f3d017e1eaa83a0ecd8b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:35.176906+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 158486475660857,
@@ -29594,7 +29790,21 @@
       "Impiattate la pasta e completate ogni piatto aggiungendo il pane aromatico croccante, una grattugiata di scorza di limone e i tocchetti di gamberi, servite subito in tavola la pasta con pesto di friggitelli e crudo di gamberi."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:33.583472+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:32.369556+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-friggitelli-e-crudo-di-gamberi.html",
+      "source_hash": "d74aac2333d9c670deef84c4b13c2dcaa1bbab57471b50a1ef6c012cd71dffa6",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:32.369538+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 174929307255030,
@@ -30120,7 +30330,21 @@
       "Servite le linguine ben calde guarnendo il piatto con i fiori di zucca saltati insieme ai pomodori secchi 19 e briciole di feta 20 , infine pepate a piacere. Le bavette con fiori di zucca e feta sono pronte per essere gustate 21 ."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:30.782779+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:29.630541+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-fiori-di-zucca-e-feta.html",
+      "source_hash": "44fb9c8eda31c563148474f4d33e1a64875350cef247116f6fe2c18be82eb4ae",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:29.630522+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 80566357096493,
@@ -31252,7 +31476,21 @@
       "Guarnite con i filetti di alici rimasti, irrorate con il sughetto e servite subito la vostra pasta con fiori di zucca e alici."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:04:56.600921+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:26.882964+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-fiori-di-zucca-e-alici.html",
+      "source_hash": "14ebe63358e56d8b3ef1e45d19d629462e800049821ad27d0cdb83e7b1b4f055",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:26.882947+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 204422253309482,
@@ -31830,7 +32068,21 @@
       "Distribuitela uniformemente con un cucchiaio e spolverizzate con i restanti 20 g di Parmigiano Reggiano DOP grattugiato, poi condite con un filo d’olio. Cuocete in forno ventilato preriscaldato a 180° per 30 minuti fino a quando la superficie sarà bella dorata. Sfornate e gustate la vostra pasta con feta e spinaci al forno."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:03.343266+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:24.132914+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-feta-e-spinaci-al-forno.html",
+      "source_hash": "b2ea6f08d4c7d6190430b8575ccf1495d692ac135575c6cc8d422021215a57ea",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:24.132896+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 135714182692130,
@@ -32576,7 +32828,21 @@
       "Mescolate tutto per amlgamare i sapori e sbriciolare la feta. Per finire completate con l’origano secco a piacere. Servite subito la pasta con feta e pomodorini al forno."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T15:46:00.657212+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:20.864663+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-feta-e-pomodorini-al-forno.html",
+      "source_hash": "fdfa8b1d8fdb41bac4e59ee15ce1e8b2379c32729dc252023aa4e8f7f01f9763",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:20.864645+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 256617625722367,
@@ -33196,7 +33462,21 @@
       "Insaporite con il formaggio grattugiato e aromatizzate con foglioline di timo fresco. Mescolate per amalgamare bene gli ingredienti e servite la pasta con fave e piselli ben calda."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:58.951389+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:18.092966+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-fave-e-piselli.html",
+      "source_hash": "be3064fc58e2ee8f2ac5275d042410e36ec9080dc1f5dd3c54b2e861c654a0ad",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:18.092946+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 204312457497656,
@@ -33834,7 +34114,21 @@
       "Impiattate e completate con un giro d'olio a crudo d'oliva, prezzemolo tritato e una grattata di pepe nero. La vostra pasta con fagioli cozze e pecorino è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:56.237937+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:14.873823+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-fagioli-cozze-e-pecorino.html",
+      "source_hash": "9a7c7b57c8d895780292379e04dcb576744229f53d6716ec87156db6b3d90918",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:14.873800+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 259577929666702,
@@ -35125,7 +35419,21 @@
       "A questo punto potete unire le listarelle di prosciutto, insaporite con il caciocavallo grattugiato e foglioline di timo, servite subito la pasta con prosciutto crudo e zucchine gialle."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:50.295580+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:08.673597+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucchine-gialle-e-prosciutto.html",
+      "source_hash": "30e3c275c0c37d259f9c7a1296cf96e4c3355e99f104bfde6cc103e30b6211c6",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:08.673577+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 113852959941997,
@@ -35891,7 +36199,21 @@
       "Unite quindi le zucchine a rondelle e gli scampi, per finire tritate le foglioline di prezzemolo da aggiungere alla pasta, mescolate il tutto e servite la pasta con crema di zucchine e scampi ben calda."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:47.609788+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:05.509873+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucchine-e-scampi.html",
+      "source_hash": "38121fa4c8cb18bac4bd2ab13158047006996f27a9709473cb8436d82f640010",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:05.509852+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 30755118167041,
@@ -36507,7 +36829,21 @@
       "Mescolate e regolate di sale e pepe. Quando la pasta risulta ben amalgamata distribuitela nei piatti e guarnite con ciuffetti di crema di quartirolo e una manciata di mandorle tostate. La vostra pasta con crema di zucchine e quartirolo è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:04:53.966606+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:02.550809+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucchine-e-quartirolo.html",
+      "source_hash": "65433b755dd11f59ffe6c9d10888a7c7342472e3f56b7c1fd26739019ea48b90",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:02.550787+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 97549844567355,
@@ -37131,7 +37467,21 @@
       "Guarnite con pinoli a piacere, scorza di limone grattugiata e qualche altra fogliolina di menta. La vostra pasta con crema di zucchine e caprino al limone e curcuma è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:44.921809+00:00"
+    "step_images_checked_at": "2026-10-14T14:33:59.790834+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucchine-e-caprino-al-limone-e-curcuma.html",
+      "source_hash": "b247d8b49744ceef1949f0a1dbb3435514018fd0dfc449bed98718e1af4eb15d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:33:59.790813+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 74528043300452,
@@ -37779,7 +38129,21 @@
       "Mescolate per amalgamare la pasta al condimento. Completate il piatto con un cucchiaio di burrata a crudo e servite la vostra pasta con crema di zucchine e burrata!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:10:49.459603+00:00"
+    "step_images_checked_at": "2026-10-14T14:33:57.045412+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucchine-e-burrata.html",
+      "source_hash": "bbc83beeb5390f2f11d4017937fb0c61fb5ea1532583798f51c493e49cade28b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:33:57.045391+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 194598711569175,
@@ -38459,7 +38823,21 @@
       "Servite la pasta con crema di zucchine, acciughe e pangrattato 22 completando con il condimento 23 e il pangrattato croccante al limone 24 ."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:10:52.265753+00:00"
+    "step_images_checked_at": "2026-10-14T14:34:11.986001+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucchine-acciughe-e-pangrattato.html",
+      "source_hash": "9102093aeb38bc7301212770bae88b3f2fc2c77858f2bf6e834fd335c08f939f",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:34:11.985981+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 264384205059200,
@@ -39066,7 +39444,21 @@
       "Aggiungete il cavolo nero 22 e un filo d'olio 23 . Terminate la cottura della pasta aggiungendo altra acqua se necessario. Quando sarà pronta impiattate, ultimate con lo speck croccante 24 e se vi piace con una macinata di pepe. Il piatto è pronto per essere servito ben caldo."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:10:46.821985+00:00"
+    "step_images_checked_at": "2026-10-14T14:33:54.275438+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucca-speck-e-cavolo-nero.html",
+      "source_hash": "1814218f8b3dffa602dfcd057bde597a74b1900af2460f0bccfcac8615d00ff5",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:33:54.275419+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 16666848943196,
@@ -39770,7 +40162,21 @@
       "Impiattate e guarnite con la polvere di cavolo nero, aiutandovi con un colino, e il porro fritto. La vostra pasta con crema di zucca e taleggio è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:10:43.532702+00:00"
+    "step_images_checked_at": "2026-10-14T14:33:51.416440+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucca-e-taleggio.html",
+      "source_hash": "4dbd8e1f42a1bfc5403574bf5e16197ff572fa1764c9cb0d42760ec6cd3d27cd",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:33:51.416417+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 258871100439943,
@@ -40424,7 +40830,21 @@
       "Scolate la pasta al dente nella padella con la crema di zucca e aggiungete un altro mestolo di acqua di cottura 22 . Mantecate finché la crema non diventa avvolgente e la pasta perfettamente legata 23 . Impiattate creando un nido di pasta e completate con il polpo croccante e qualche fogliolina di timo fresco. La vostra pasta con crema di zucca e polpo è pronta per essere servita 24 !"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T17:00:42.234016+00:00"
+    "step_images_checked_at": "2026-10-14T14:33:48.679281+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucca-e-polpo.html",
+      "source_hash": "47b8d8df5dec17f95af531923fc0eb18498e562c32a716443df5cabe7ca8b863",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:33:48.679264+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 10984452865124,
@@ -41012,7 +41432,21 @@
       "Poiggiate sopra i tentacoli di polpo, decorate con i piselli tentuti da parte e il pepe rosa. Servite il polpo tiepido o caldo."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:49.687632+00:00"
+    "step_images_checked_at": "2026-10-14T14:35:29.531594+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Polpo-su-crema-di-piselli-e-patate.html",
+      "source_hash": "12db10758f85e6407f575ae4553c5f08eb059a9468fc6db0b97a65bc32d5346d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:35:29.531574+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 163709856498958,
@@ -42354,7 +42788,21 @@
       "Quindi spolverizzate il tutto con una macinata di pepe e poi sollevate il polpo spostandolo sul tagliere, tagliatelo a pezzi della grandezza che preferite e servite con il suo sugo. Il vostro polpo in umido è pronto: buon appetito."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:57.496721+00:00"
+    "step_images_checked_at": "2026-10-14T14:35:26.801999+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Polpo-in-umido.html",
+      "source_hash": "a884e1eb2263048c8a77d29e199370099ad3d90893769774d65155f60b139775",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:35:26.801978+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 27275286374158,
@@ -43672,7 +44120,21 @@
       "Completate on un cucchiaio di salsa e qualche foglia di basilico. Il polpo fritto gourmet è pronto per essere gustato."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:35:47.049683+00:00"
+    "step_images_checked_at": "2026-10-14T14:35:24.048703+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Polpo-fritto-gourmet.html",
+      "source_hash": "e72c576e36de488ff84f771c80ead637dbe67d64ce8553ea10cc5c306cb82b1e",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:35:24.048683+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 109636743609017,
@@ -44417,7 +44879,21 @@
       "Coprite con il coperchio e lasciate andare a fuoco dolce per circa 35 minuti. Di tanto in tanto ricordate di mescolare e di assicurarvi che il fondo non sia diventato troppo asciutto, nel caso basterà bagnare con un po' d'acqua di cottura del polpo. A fine cottura impiattate il vostro polpo e fagioli in umido e servite con un giro d'olio a crudo e una bella macinata di pepe."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:46:48.685456+00:00"
+    "step_images_checked_at": "2026-10-14T14:35:20.787731+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Polpo-e-fagioli-in-umido.html",
+      "source_hash": "3ee6b2512b6481ad99fe0475b94970e0256f5ff9370c9209393c314ca5c1f34c",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:35:20.787716+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 65162597382183,
@@ -52494,7 +52970,21 @@
       "Quando anche la polenta e il polpo saranno pronti, rimuovete il mazzetto di erbette da quest’ultimo e ponete una porzione di erbette e un’abbondante cucchiaiata di polenta in un piatto da portata. Adagiate infine sulla polenta un po’ di polpo con il sugo di cottura: la vostra polenta con polpo in umido ed erbette è pronta per essere servita."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:50:54.794584+00:00"
+    "step_images_checked_at": "2026-10-14T14:35:17.917579+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Polenta-con-polpo-in-umido-ed-erbette-saltate.html",
+      "source_hash": "4c712d6786f50714d388cf09d3ccef8dee38aa8a89c9ea83e366adeb93312f3b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-14T14:35:17.917560+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 52646043131026,

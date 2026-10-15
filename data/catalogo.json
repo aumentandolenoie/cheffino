@@ -83,7 +83,7 @@
       "Scolate la pasta un minuto prima del tempo indicato in confezione e versatela in padella, unite anche la crema di ricotta e mescolate per amalgamare gli ingredienti.",
       "Aggiungete il Grana Padano grattugiato, un mestolo di acqua di cottura della pasta, mescolate e impiattate. Completate con qualche foglia di basilico e la vostra pasta zucchine e ricotta è pronta per essere servita"
     ],
-    "step_images_checked_at": "2026-10-11T12:51:53.997822+00:00",
+    "step_images_checked_at": "2026-10-15T14:14:31.016225+00:00",
     "images_import_version": 10,
     "steps_precedenti": [
       "Taglia le zucchine a dadini e trita lo scalogno.",
@@ -146,7 +146,21 @@
         "https://ricette.giallozafferano.it/images/ricette/282/28200/pasta-zucchine-e-ricotta_21.jpg"
       ]
     ],
-    "image_url_precedente": "https://ricette.giallozafferano.it/images/ricette/282/28200/pasta-zucchine-e-ricotta_16.jpg"
+    "image_url_precedente": "https://ricette.giallozafferano.it/images/ricette/282/28200/pasta-zucchine-e-ricotta_16.jpg",
+    "media_extraction": {
+      "status": "unknown",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-zucchine-e-ricotta.html",
+      "source_hash": "0e1822137e4f86abc597d70aec7f636546c04e7b7ec727bd1a7504f70812e3f6",
+      "method": null,
+      "checked_at": "2026-10-15T14:14:31.016217+00:00",
+      "existing_preserved": true,
+      "candidate_differs": true,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": "source_identity_changed"
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 4,
@@ -207,7 +221,7 @@
       "Rompete le uova in una ciotola, poi aggiungete il Parmigiano Reggiano grattugiato, un pizzico di pepe nero e un pizzico di sale. Sbattere le uova con le fruste, o con una forchetta, fino a che tuorli e albumi non saranno completamente amalgamati. Aggiungete gli spinaci al composto di uova e mescolate velocemente.",
       "Scaldate un giro di olio extravergine di oliva nella stessa padella in cui avete cotto gli spinaci, versate il composto di uova e cuocete con coperchio a fuoco dolce per una decina di minuti. Quando la superficie della frittata comincerà a solidificarsi, girate la frittata, aiutandovi con un piatto piano, un coperchio o una spatola larga. Continuate la cottura per altri 5 minuti circa o il tempo necessario per dorare la frittata. Servite la frittata di spinaci ancora calda."
     ],
-    "step_images_checked_at": "2026-10-11T12:51:48.563788+00:00",
+    "step_images_checked_at": "2026-10-15T14:14:19.585265+00:00",
     "images_import_version": 10,
     "steps_precedenti": [
       "Lava e pulisci gli spinaci, eliminando i gambi più duri. Falli saltare in padella con olio, poi lasciali intiepidire, strizzali e tritali.",
@@ -242,7 +256,21 @@
         "https://ricette.giallozafferano.it/images/ricette/268/26898/frittata-di-spianci_8.jpg",
         "https://ricette.giallozafferano.it/images/ricette/268/26898/frittata-di-spianci_9.jpg"
       ]
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Frittata-di-spinaci.html",
+      "source_hash": "a2fa5ff65423ccaec8b0fbfa59788cb03a8cfa646c9f54e5a2b28a5a4e86e99a",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:19.585243+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 5,
@@ -321,7 +349,22 @@
         "https://blog.giallozafferano.it/allacciateilgrembiule/wp-content/uploads/2026/05/pasta-pomodoro-basilico-4-720x184.jpg"
       ]
     ],
-    "images_import_version": 10
+    "images_import_version": 10,
+    "media_extraction": {
+      "status": "unknown",
+      "source_url": "https://blog.giallozafferano.it/allacciateilgrembiule/pasta-pomodoro-basilico/",
+      "source_hash": "35411a310d3d5bfb637b8d963870e9d3bc332225dfb03b7a129cc6e43dd33a3c",
+      "method": null,
+      "checked_at": "2026-10-15T14:14:25.079762+00:00",
+      "existing_preserved": true,
+      "candidate_differs": true,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": "source_identity_changed"
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-10-15T14:14:25.079770+00:00"
   },
   {
     "id": 24,
@@ -408,7 +451,7 @@
       "Nel frattempo riprendete i ceci che avete messo da parte e frullateli con un mixer a immersione per ridurli in crema. Trascorso il tempo di cottura della pasta versate la crema di ceci nella pentola e mescolate bene per amalgamarla.",
       "Ora spegnete il fuoco e mantecate con un giro abbondante di olio e il Grana Padano DOP grattugiato. Mescolate il tutto e servite subito la vostra pasta e ceci cremosa, completando i piatti con un filo di olio a crudo, una macinata di pepe e qualche fogliolina di salvia!"
     ],
-    "step_images_checked_at": "2026-10-11T12:51:56.757282+00:00",
+    "step_images_checked_at": "2026-10-15T14:14:34.362314+00:00",
     "images_import_version": 10,
     "steps_precedenti": [
       "Trita lo scalogno e fallo ammorbidire in pentola con olio e salvia; unisci il concentrato di pomodoro.",
@@ -464,7 +507,21 @@
         "https://ricette.giallozafferano.it/images/ricette/236/23677/pasta-e-ceci-cremosa_17.jpg",
         "https://ricette.giallozafferano.it/images/ricette/236/23677/pasta-e-ceci-cremosa_18.jpg"
       ]
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-e-ceci-cremosa.html",
+      "source_hash": "8411fb095a4bb53df450c8be67d28bfc61cd05f9dffe567fc2dfe51fd9330789",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:34.362294+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 25,
@@ -783,7 +840,7 @@
       "Nella stessa padella in cui avete rosolato il pollo versate il liquido ottenuto 16 , lasciate addensare per 1 minuto mescolando con la frusta 17 e versate anche il pollo 18 .",
       "Mescolate lentamente e lasciate andare sul fuoco per 3-4 minuti. A fine cottura profumate con la scorza di limone 19 , timo 20 e origano fresco. Servite il pollo al limone ben caldo 21 ."
     ],
-    "step_images_checked_at": "2026-10-11T12:52:10.414710+00:00",
+    "step_images_checked_at": "2026-10-15T14:14:48.433593+00:00",
     "images_import_version": 10,
     "steps_precedenti": [
       "Grattugia la scorza del limone e spremi il succo, filtrandolo.",
@@ -846,7 +903,21 @@
         "https://ricette.giallozafferano.it/images/ricette/235/23580/draft-pollo-al-limone_21.jpg"
       ]
     ],
-    "image_url_precedente": "https://www.giallozafferano.it/images/196-19689/Pollo-al-limone_650x433_wm.jpg"
+    "image_url_precedente": "https://www.giallozafferano.it/images/196-19689/Pollo-al-limone_650x433_wm.jpg",
+    "media_extraction": {
+      "status": "unknown",
+      "source_url": "https://ricette.giallozafferano.it/Pollo-al-limone.html",
+      "source_hash": "78c4305da20abdd9d34aa91a004d97d1424956ac0e3930acdabd88416d36f221",
+      "method": null,
+      "checked_at": "2026-10-15T14:14:48.433572+00:00",
+      "existing_preserved": true,
+      "candidate_differs": true,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": "foreign_image"
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 27,
@@ -915,7 +986,7 @@
       "Trasferite i fusilli nella padella con le zucchine e proseguite la cottura per un paio di minuti, aiutandovi con poca acqua di cottura della pasta per regolare la cremosità. Mescolate per amalgamare bene la pasta al condimento, dovrà risultare cremosa e ben legata.",
       "In ultimo mantecate con un filo d’olio. Impiattate e completate con una macinata di pepe e qualche fogliolina di basilico. La vostra pasta e zucchine è pronta per essere servita!"
     ],
-    "step_images_checked_at": "2026-10-11T12:52:04.955249+00:00",
+    "step_images_checked_at": "2026-10-15T14:14:42.679896+00:00",
     "images_import_version": 10,
     "steps_precedenti": [
       "Grattugia le zucchine e insaporisci olio e aglio in padella.",
@@ -963,7 +1034,21 @@
         "https://ricette.giallozafferano.it/images/ricette/166/16633/pasta-e-zucchine_14.jpg",
         "https://ricette.giallozafferano.it/images/ricette/166/16633/pasta-e-zucchine_15.jpg"
       ]
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-e-zucchine.html",
+      "source_hash": "c297ba4a8b545d5ddcf9eebee52998329fea7d6e62672b0844f759acaf6e4f0c",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:42.679877+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 28,
@@ -1037,7 +1122,7 @@
       "e aggiungendo un mestolo di acqua bollente alla volta quando necessario; ci vorranno circa 20 minuti. Quando le patate sono quasi cotte, aggiustate di sale e di pepe. Nel frattempo l'acqua per cuocere la pasta sarà arrivata a bollore, quindi cuocetela, poi scolatela al dente direttamente nel tegame con le patate,",
       "mescolate bene e finite la cottura aggiungendo un po’ di acqua di cottura della pasta al bisogno: unendo pasta e patate nello stesso tegame si creerà una deliziosa cremina grazie all’amido rilasciato dalla pasta e dalle patate. In ultimo, insaporite con qualche fogliolina di timo e pepe a piacere, spegnete il fuoco e condite con un filo di olio extravergine a crudo. La vostra pasta e patate è pronta per essere gustata ancora calda!"
     ],
-    "step_images_checked_at": "2026-10-11T12:51:59.476750+00:00",
+    "step_images_checked_at": "2026-10-15T14:14:37.138260+00:00",
     "images_import_version": 10,
     "steps_precedenti": [
       "Sbuccia le patate e tagliale a piccoli cubi.",
@@ -1075,7 +1160,21 @@
       [
         "https://ricette.giallozafferano.it/images/ricette/167/16758/16758_pasta_e_patate_strip_13-15.jpg"
       ]
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-e-patate.html",
+      "source_hash": "4ac5f5dabfa01819e3521ad1841c09fc1ed1d1e0a81e6d5a5a38965cc5992c29",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:37.138238+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 29,
@@ -1149,7 +1248,7 @@
       "sullo stesso poi aggiungete metà dei cubetti di mozzarella e spolverizzate con un po’ di Parmigiano. Ricoprite con la pasta restante,",
       "poi aggiungete la mozzarella ed infine ricoprite con il Parmigiano 14. Ripassate in forno con la modalità grill impostata per circa 5 minuti, fino a che la pasta non risulterà ben gratinata e la mozzarella fusa (se non avete il grill potete mettere la teglia sul ripiano più alto e accendere il forno alla massima potenza, facendo però attenzione che non bruci!). Guarnite la vostra pasta alla sorrentina, con del basilico fresco e portate subito in tavola 15!"
     ],
-    "step_images_checked_at": "2026-10-11T12:51:51.292680+00:00",
+    "step_images_checked_at": "2026-10-15T14:14:28.078551+00:00",
     "images_import_version": 10,
     "steps_precedenti": [
       "Cuoci la passata con olio, aglio e basilico a fuoco dolce per circa mezz’ora.",
@@ -1187,7 +1286,21 @@
       [
         "https://ricette.giallozafferano.it/images/ricette/192/19253/17016_pasta_alla_sorrentina_strip_13-15.jpg"
       ]
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-alla-sorrentina.html",
+      "source_hash": "dba1f2dabfa2d73c23c644cbf787583202eb22001cd57af507c8702af3449d33",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:28.078531+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 30,
@@ -1257,7 +1370,7 @@
       "Unite ancora un mestolino di acqua di cottura e un filo d'olio. Saltate bene il tutto e in ultimo mantecate con il Grana grattugiato.",
       "Saltate ancora una volta e impiattate. Decorate con le foglioline di menta fresca e servite subito la vostra pasta zucchine e zafferano ben calda!"
     ],
-    "step_images_checked_at": "2026-10-11T12:52:07.665236+00:00",
+    "step_images_checked_at": "2026-10-15T14:14:45.648729+00:00",
     "images_import_version": 10,
     "steps_precedenti": [
       "Taglia le zucchine a cubetti e saltale in padella con olio finché sono morbide.",
@@ -1312,7 +1425,21 @@
         "https://ricette.giallozafferano.it/images/ricette/293/29398/pasta-zucchine-e-zafferano_17.jpg",
         "https://ricette.giallozafferano.it/images/ricette/293/29398/pasta-zucchine-e-zafferano_18.jpg"
       ]
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-zucchine-e-zafferano.html",
+      "source_hash": "bdc93ede5d637451223c6efe5de144be5453b3a8eae327944624d3ebfc5aec52",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:45.648708+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 31,
@@ -1380,7 +1507,7 @@
       "Aggiungete le foglioline di timo, mescolate ancora, e infine aggiustate di sale e pepe.",
       "Scolate la pasta al dente, conservando un po’ della sua acqua di cottura, e versatela direttamente nella ciotola con il composto di ricotta; mescolate bene per amalgamare la pasta al condimento, allungandolo con un mestolo di acqua di cottura, se necessario: la vostra cremosissima pasta e ricotta è pronta per essere servita!"
     ],
-    "step_images_checked_at": "2026-10-11T12:52:02.255662+00:00",
+    "step_images_checked_at": "2026-10-15T14:14:39.908688+00:00",
     "images_import_version": 10,
     "steps_precedenti": [
       "Fai cuocere i fusilli in abbondante acqua salata.",
@@ -1413,7 +1540,21 @@
       [
         "https://ricette.giallozafferano.it/images/ricette/168/16864/16864_pasta_e_ricotta_strip_10-12.jpg"
       ]
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-e-ricotta.html",
+      "source_hash": "69f7ccd5d2ac0ac783a246f54a1fa485fc402e3c7d1d816598b107bca4ca804f",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:39.908669+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 42270105876548,
@@ -1558,7 +1699,21 @@
         "https://ricette.giallozafferano.it/images/ricette/307/30725/zuppa-di-zucca-e-lenticchie_18.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:00:45.336932+00:00"
+    "step_images_checked_at": "2026-10-15T14:14:07.727483+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-di-zucca-e-lenticchie.html",
+      "source_hash": "0be6dc64abed5f0c0a8c4836e04849e1e04a9beda3d40f782d53f4c697f695de",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:07.727461+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 271954833842137,
@@ -1850,7 +2005,21 @@
         "https://ricette.giallozafferano.it/images/ricette/366/36684/zuppa-di-lenticchie-con-curcuma-e-zenzero_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:09:00.012286+00:00"
+    "step_images_checked_at": "2026-10-15T14:13:44.246493+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-di-lenticchie-con-curcuma-e-zenzero.html",
+      "source_hash": "5f959850c7781c3391e27503c38a3b43cb1ec9795135b6153c19a17785c865c8",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:13:44.246471+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 126218907648864,
@@ -2143,7 +2312,7 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T15:47:02.219191+00:00",
+    "step_images_checked_at": "2026-10-15T14:13:41.434898+00:00",
     "images_import_version": 6,
     "step_images": [
       [
@@ -2190,7 +2359,21 @@
       "Trascorso il tempo di cottura, le verdure risulteranno tenere; eliminate il rametto di erbe aromatiche, salate e pepate a piacere, quindi tenete in caldo. Affettale il filone di pane, adagiate le fettine su una leccarda rivestita con carta da forno,",
       "insaporite con olio di oliva, un pizzico di sale e aghetti di rosmarino, quindi fate tostare il pane fino a dorarlo in forno statico preriscaldato a 240° in modalità grill per 3-4 minuti.",
       "Ora ponete i gherigli di noci in una padella ben calda (potete lasciarle intere oppure sbriciolarle grossolanamente), tostatele per 3 minuti per dorarle agitando la padella per non farle bruciare, quindi unitele alla zuppa. Servite la zuppa autunnale calda accompagnandola con i crostini di pane tostato."
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-autunnale.html",
+      "source_hash": "857386d224363ded79ef5258a9af0b441a3851b96d84eb251fc0fd644bfbaf16",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:13:41.434877+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 171021698363776,
@@ -2952,8 +3135,22 @@
         "https://ricette.giallozafferano.it/images/ricette/295/29579/torta-salata-pere-e-gorgonzola_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T15:46:58.966635+00:00",
-    "images_import_version": 6
+    "step_images_checked_at": "2026-10-15T14:13:38.455399+00:00",
+    "images_import_version": 6,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Torta-salata-pere-e-gorgonzola.html",
+      "source_hash": "95e95d947b1a7c53a443c616c3edb726c7b2c08e37a9586e7eb0ac49abb3dad3",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:13:38.455378+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 1681453928818,
@@ -4724,8 +4921,22 @@
         "https://ricette.giallozafferano.it/images/ricette/249/24970/sgombro-in-padella_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T15:46:56.320933+00:00",
-    "images_import_version": 6
+    "step_images_checked_at": "2026-10-15T14:13:35.421630+00:00",
+    "images_import_version": 6,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Sgombro-in-padella.html",
+      "source_hash": "b0f697dd68d617368ae14e0f9d2ff9938faa860efea6b44911a22c2dfee4425a",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:13:35.421605+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 120172866436140,
@@ -5032,7 +5243,21 @@
       "Ponete i cartocci su una leccarda rivestita con carta forno e cuocete in forno statico preriscaldato a 200° per 20 minuti. A cottura ultimata sfornate i vostri sgombri al cartoccio e serviteli ben caldi."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:05:04.565316+00:00"
+    "step_images_checked_at": "2026-10-15T14:13:32.658886+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Sgombro-al-cartoccio.html",
+      "source_hash": "81d7689050dc91484a3570d41723f65177d128dd324ba5c578f815e5c7f53d8e",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:13:32.658865+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 256369329813562,
@@ -10533,7 +10758,7 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T16:05:15.102371+00:00",
+    "step_images_checked_at": "2026-10-15T14:14:16.649603+00:00",
     "images_import_version": 6,
     "step_images": [
       [
@@ -10575,7 +10800,21 @@
       "Imburrate una teglia 30x20cm e foderatela con carta da forno 13 , trasferite l’impasto nella teglia 14 e livellatelo in superficie con il dorso di un cucchiaio per compattarlo al meglio 15 .",
       "Cuocete il composto in forno statico preriscaldato a 180° per 35 minuti. A cottura ultimata, sfornate il composto e lasciatelo raffreddare 16 , poi rovesciate la teglia su un tagliere per sformare il panetto 17 . Tagliatelo prima striscioline 18",
       "e poi a cubetti di circa  1x1 cm (19-20). Versate il brodo caldo in un piatto, aggiungete i cubetti di semolino e servite la vostra zuppa imperiale 21 ."
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-imperiale.html",
+      "source_hash": "296bff8cfb8c4d27804da53266d93019fad276147590f06e465bfffcb9b77c91",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:16.649583+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 103362004279734,
@@ -10657,7 +10896,7 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T16:05:12.459555+00:00",
+    "step_images_checked_at": "2026-10-15T14:14:13.660148+00:00",
     "images_import_version": 6,
     "step_images": [
       [
@@ -10689,7 +10928,21 @@
       "Poi prendete una pirofila dal bordo alto che misuri circa 20x20 cm e adagiate sul fondo le fettine di pane, in modo da non lasciare spazi vuoti. Ora distribuite sopra uno strato di formaggi grattugiati in modo da ricoprire interamente le fette.",
       "Proseguite con un altro strato di pane, uno di formaggio e poi ancora pane. Dovrete realizzare 4 strati in totale. Sull’ultimo strato di pane versate il brodo di carne a filo, bucherellando il pane con i rebbi della forchetta così che il liquido possa essere assorbito meglio. Con il dorso di un cucchiaio pressate il pane in superficie, in modo da inumidirlo bene.",
       "Aspettate un paio di minuti per far assorbire bene il brodo, poi distribuite sopra il resto del formaggio, coprendo interamente. Insaporite con un'altra spolverata di pepe e cuocete in forno già caldo a 200° per 30 minuti, o finché non si creerà in superficie una crosticina dorata. A cottura ultimata, sfornate, lasciate riposare qualche minuto e poi servite la zuppa gallurese ben calda."
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-gallurese.html",
+      "source_hash": "cded49396bbfeb6313cf68719b43544d2234ad08fb7ffdd9b5cf7a04eb8633cf",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:13.660123+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 59285397777100,
@@ -10867,7 +11120,21 @@
       "Verso fine cottura unite i fagioli interi rimasti 22 , mescolate e aggiustate di sale 23 e pepe. Trasferite nei piatti da portata e servite la zuppa frantoiana insieme a fette di pane e un giro di olio extravergine d'oliva a crudo 24"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:51:08.339107+00:00"
+    "step_images_checked_at": "2026-10-15T14:14:10.701033+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-frantoiana.html",
+      "source_hash": "1202a44dee0d648e5492e90bf7ef81e55463ecbf98b88612f64f6e8512bb5a3b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:10.701012+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 122333987910733,
@@ -10988,8 +11255,22 @@
         "https://ricette.giallozafferano.it/images/ricette/366/36639/zuppa-di-zucca-e-fagioli_15.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T16:05:09.806098+00:00",
-    "images_import_version": 6
+    "step_images_checked_at": "2026-10-15T14:14:04.956813+00:00",
+    "images_import_version": 6,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-di-zucca-e-fagioli.html",
+      "source_hash": "457915e17894181bd6e671e689139ba0139b1cab7110984493187224610e130c",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:04.956794+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 116426078695065,
@@ -11384,7 +11665,21 @@
       "Profumate con il rosmarino tritato 10 . Portate a cottura il riso aggiungete brodo se necessario,mescolando spesso 11 . Servite la zuppa di riso e ceci calda 12 ."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:51:05.686260+00:00"
+    "step_images_checked_at": "2026-10-15T14:14:01.970737+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-di-riso-e-ceci.html",
+      "source_hash": "92a4a5d2cd6c7ed8ff951988afab8a3562a9c2aea41e92456cfacf9b2f76874f",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:14:01.970720+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 19216972943873,
@@ -11559,8 +11854,22 @@
         "https://ricette.giallozafferano.it/images/ricette/366/36644/zuppa-di-rana-pescatrice_24.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T16:05:07.191295+00:00",
-    "images_import_version": 6
+    "step_images_checked_at": "2026-10-15T14:13:59.216166+00:00",
+    "images_import_version": 6,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-di-rana-pescatrice.html",
+      "source_hash": "71fdd9b841e59c0ce1031c48da0db69e820fd99f7f99c3fce1034cc4edc8ee11",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:13:59.216149+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 48518277466931,
@@ -11708,7 +12017,21 @@
       "Cuocete a fiamma media per 2 minuti, rigirando spesso per evitare che si brucino. A pochi minuti dalla fine della cottura frullate, con un frullatore ad immersione, circa metà degli ingredienti per ottenere una zuppa ancora più corposa. Impiattate la zuppa e completate con il pane abbrustolito. La vostra zuppa di porri è pronta per essere servita."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:51:02.986918+00:00"
+    "step_images_checked_at": "2026-10-15T14:13:56.292899+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-di-porri.html",
+      "source_hash": "4c01ab46fa2dc2c36457bf020669802d4b5aa8ccbb6035726eff7602f6da0791",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:13:56.292880+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 93997394744767,
@@ -11802,7 +12125,7 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T15:47:07.850765+00:00",
+    "step_images_checked_at": "2026-10-15T14:13:50.148215+00:00",
     "images_import_version": 6,
     "step_images": [
       [
@@ -11834,7 +12157,21 @@
       "Unite poi le foglie di basilico, salate e date un’ultima mescolate prima di coprire con un coperchio lasciando cuocere, a fiamma bassa, per almeno 35 minuti.",
       "Trascorso il tempo eliminate il basilico e l’aglio, poi utilizzando un mixer ad immersione frullate i pomodori in modo da ottenere una purea liscia. Lasciate cuocere ancora per 25-30 minuti così da farla asciugare e restringere un po’; poi spegnete il fuoco e lasciatela intiepidire a temperatura ambiente.",
       "A questo punto la vostra zuppa di pomodoro sarà pronta, noi abbiamo scelto di servirla nelle ciotoline e di guarnirla con della panna fresca. Se volete farlo anche voi è davvero molto semplice, basterà versare un pò di panna sulla zuppa e con un cucchiaio formare una spirale. Infine date un tocco di colore e profumo in più alla vostra zuppa di pomodoro aggiungendo una fogliolina di basilico e servite."
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-di-pomodoro.html",
+      "source_hash": "82b7672265fe1678994e523e0524beb50e149f6c924f6dca6fa7bf8b56a9bdc6",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:13:50.148194+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 224153607055441,
@@ -11996,7 +12333,21 @@
       "Unite anche il concentrato di pomodoro. A fine cottura condite con un filo di olio a crudo e una macinata di pepe nero. La vostra zuppa di pomodoro e ceci con bulgur è pronta per essere servita ben calda!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-11T10:51:00.288865+00:00"
+    "step_images_checked_at": "2026-10-15T14:13:53.157939+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-di-pomodoro-e-ceci-con-bulgur.html",
+      "source_hash": "80f15db2c274e6d0a0a06b66569c4b4b555ad67a8549e62b3be794e123d2f976",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:13:53.157906+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 173962377170710,
@@ -12128,7 +12479,7 @@
       "allergen_verified": false,
       "validation_version": 1
     },
-    "step_images_checked_at": "2026-10-10T15:47:04.961616+00:00",
+    "step_images_checked_at": "2026-10-15T14:13:47.145555+00:00",
     "images_import_version": 6,
     "step_images": [
       [
@@ -12170,7 +12521,21 @@
       "e poi frullate il tutto con un frullatore ad immersione. Aggiungete un po’ d’acqua al bisogno fino ad ottenere una vellutata liscia della consistenza che preferite.",
       "Tenete la zuppa da parte e passate a fare i crostini. Affettate il pane sottilmente. Aggiungete un goccio d’olio insieme ad un pizzico di sale, di pepe e di origano. Infornate, sempre in forno statico preriscaldato a 220° per 7-8 minuti, il tempo necessario a dorare il pane.",
       "È arrivato il momento della composizione del piatto. Tagliate a piccoli cubetti i restanti 100 g di mozzarella, servirà per decorare. Poi nei piatti da portata versate un po’ di zuppa e immergete il pane tostato. Guarnite il tutto con i cubetti di mozzarella, le foglioline di basilico, un pizzico di paprika e un filo d’olio. Ecco pronta la zuppa di pomodori arrosto e mozzarella."
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-di-pomodori-arrosto-e-mozzarella.html",
+      "source_hash": "8b3bf56c2a36d02ce338289a6d303222f6f59f2308e48b3c7c68938591f6e681",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-10-15T14:13:47.145535+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 21569966455552,

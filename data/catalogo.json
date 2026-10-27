@@ -26528,7 +26528,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-20T14:22:28.021376+00:00",
+    "step_images_checked_at": "2026-10-27T15:25:40.167856+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/167/16741/16741_pasta_con_la_trota_strip_1-3.jpg"
@@ -26566,9 +26566,9 @@
     "media_extraction": {
       "status": "complete",
       "source_url": "https://ricette.giallozafferano.it/Pasta-con-la-trota.html",
-      "source_hash": "1dfce2afefc158c87afd4162353172b06366792c9776f0d71c5d161634c77cda",
+      "source_hash": "153f5b84d90739061efa948ae8382af5f6be085592ccd7d335d3cc8ea95e558a",
       "method": "jsonld-dom-blocks",
-      "checked_at": "2026-10-20T14:22:28.021349+00:00",
+      "checked_at": "2026-10-27T15:25:40.167828+00:00",
       "existing_preserved": true,
       "candidate_differs": true,
       "updated": false,
@@ -56207,13 +56207,13 @@
       "Aggiungete i pomodorini arrostiti e guarnite con qualche fogliolina di basilico. Servite subito la vostra pasta con crema di melanzane e ricotta salata!"
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-20T14:22:24.799886+00:00",
+    "step_images_checked_at": "2026-10-27T15:25:36.770037+00:00",
     "media_extraction": {
       "status": "complete",
       "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-melanzane-e-ricotta-salata.html",
-      "source_hash": "a355754975a81de0de412a985983e1bb0b82adb24d2a21b01c2bb8cd96859c60",
+      "source_hash": "86fb2293594dc27a8cfea305dadc55b818df96c5a817a8eec7c2bda913ceacaf",
       "method": "jsonld-dom-blocks",
-      "checked_at": "2026-10-20T14:22:24.799858+00:00",
+      "checked_at": "2026-10-27T15:25:36.770011+00:00",
       "existing_preserved": true,
       "candidate_differs": true,
       "updated": false,
@@ -59731,13 +59731,13 @@
       "Consumate la pasta appena pronta; se dovesse avanzare, conservatela in frigorifero per un giorno al massimo. La crema di fagioli si conserva in frigo per un paio di giorni."
     ],
     "images_import_version": 7,
-    "step_images_checked_at": "2026-10-20T14:22:22.088427+00:00",
+    "step_images_checked_at": "2026-10-27T15:25:34.008807+00:00",
     "media_extraction": {
       "status": "partial",
       "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-fagioli-e-funghi.html",
-      "source_hash": "0dc62cf4604561d439268fbf3c827ca2c4691a0b64b7532506be67535dd97097",
+      "source_hash": "1cbb94c32c51af0b3e32ff026c62477865d764953626c1655f5b4a6d7ca70aab",
       "method": "jsonld-dom-blocks",
-      "checked_at": "2026-10-20T14:22:22.088400+00:00",
+      "checked_at": "2026-10-27T15:25:34.008778+00:00",
       "existing_preserved": true,
       "candidate_differs": false,
       "updated": false,

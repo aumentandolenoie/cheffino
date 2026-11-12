@@ -31052,8 +31052,8 @@
     "imported_at": "2026-10-10T15:25:17.438802+00:00",
     "repaired_at": "2026-10-10T15:25:54.077592+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Secondo",
-      "esito": "candidato",
+      "tipo_proposto": "Contorno",
+      "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
@@ -31717,8 +31717,8 @@
     "imported_at": "2026-10-10T15:25:27.731182+00:00",
     "repaired_at": "2026-10-10T15:25:59.219733+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Secondo",
-      "esito": "candidato",
+      "tipo_proposto": "Contorno",
+      "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,

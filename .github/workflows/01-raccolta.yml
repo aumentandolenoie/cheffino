@@ -20,13 +20,15 @@ jobs:
       - name: Acquisisci nuove ricette (sempre in revisione)
         run: |
           python aggiorna_catalogo.py --limit 10 --delay 2.5
+          python normalizza_catalogo.py
+          python classifica_catalogo.py
           python -m json.tool data/catalogo.json > /dev/null
       - name: Salva catalogo in lavorazione
         run: |
-          if git diff --quiet -- data/catalogo.json; then exit 0; fi
+          if git diff --quiet -- data/catalogo.json data/catalogo_pubblicato.json; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/catalogo.json
+          git add data/catalogo.json data/catalogo_pubblicato.json
           git commit -m 'Catalogo in lavorazione: nuove fonti'
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"

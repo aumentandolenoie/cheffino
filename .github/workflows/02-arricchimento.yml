@@ -32,6 +32,7 @@ jobs:
           python recupera_ingredienti_fonte.py
           python recupera_quantita_mirate.py
           python pulisci_procedimenti.py
+          python normalizza_catalogo.py
           python controlla_integrita_catalogo.py --apply
           python audit_immagini.py --online --limit 12
           python classifica_catalogo.py
@@ -40,30 +41,36 @@ jobs:
           python -m json.tool data/catalogo.json > /dev/null
       - name: Immagini per blocchi e audit del catalogo pubblicato
         run: |
+          # Pubblicate + approvate in attesa di foto (vedi importa_foto_passaggi.py)
           python importa_foto_passaggi.py --published-only --limit 35 --delay 2.5 --report /tmp/cheffino-media.json
+          python normalizza_catalogo.py
           python controlla_integrita_catalogo.py
           python audit_immagini.py --limit 10
+          python audit_ricette.py --report /tmp/cheffino-audit-ricette.json
           OFFSET=$(( (10#$(date -u +%j) % 7) * 20 ))
           python diagnostica_foto_api.py --online --offset "$OFFSET" --limit 20 --delay 1 > /tmp/cheffino-audit.txt
-      - uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: media-report
-          path: /tmp/cheffino-*.json
-          retention-days: 30
-      - uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: media-audit
-          path: /tmp/cheffino-audit.txt
-          retention-days: 30
+      # Il salvataggio precede il caricamento dei report: un errore di quota
+      # degli artifact non deve più impedire il commit dei dati recuperati.
       - name: Salva dati arricchiti
         run: |
-          if git diff --quiet -- data/catalogo.json; then exit 0; fi
+          if git diff --quiet -- data/catalogo.json data/catalogo_pubblicato.json; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/catalogo.json
+          git add data/catalogo.json data/catalogo_pubblicato.json
           git commit -m 'Catalogo in lavorazione: arricchimento fonti e foto'
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
-
+      - uses: actions/upload-artifact@v4
+        if: always()
+        continue-on-error: true
+        with:
+          name: media-report
+          path: /tmp/cheffino-*.json
+          retention-days: 5
+      - uses: actions/upload-artifact@v4
+        if: always()
+        continue-on-error: true
+        with:
+          name: media-audit
+          path: /tmp/cheffino-audit.txt
+          retention-days: 5

@@ -7,11 +7,16 @@
     "type": "Primo",
     "time": 25,
     "ingredients_display": [
-      "Pasta",
-      "Zucchine",
-      "Ricotta",
-      "Aglio",
-      "Olio d’oliva"
+      "Fusilli 320 g",
+      "Ricotta vaccina 240 g",
+      "Zucchine 500 g",
+      "Scalogno 1 pz",
+      "Basilico 6 foglie",
+      "Grana Padano 50 g",
+      "Scorza di limone q.b.",
+      "Olio extravergine di oliva q.b.",
+      "Sale q.b.",
+      "Pepe nero q.b."
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-zucchine-e-ricotta.html",
@@ -170,10 +175,12 @@
     "type": "Secondo",
     "time": 35,
     "ingredients_display": [
-      "Uova",
-      "Spinaci",
-      "Parmigiano",
-      "Olio d’oliva"
+      "Uova 6 pz",
+      "Spinaci 350 g",
+      "Parmigiano Reggiano 50 g",
+      "Olio extravergine di oliva 5 cucchiai",
+      "Sale q.b.",
+      "Pepe nero q.b."
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Frittata-di-spinaci.html",
@@ -217,9 +224,9 @@
       ]
     ],
     "steps": [
-      "Per preparare la frittata di spinaci per prima cosa lavate e pulite gli spinaci eliminando i gambi più duri. Fate soffriggere in padella (consigliamo una padella da 20-22 cm di diametro che servirà anche per cuocere la frittata) uno spicchio di aglio in camicia con un giro d'olio per un paio di minuti. Aggiungete gli spinaci e fateli saltare per una decina di minuti. Salate leggermente gli spinaci, spegnete il fuoco, togliete lo spicchio d'aglio e lasciateli intiepidire. Quindi scolateli, strizzateli con cura e tritateli al coltello.",
+      "Per preparare la frittata di spinaci per prima cosa lavate e pulite gli spinaci eliminando i gambi più duri. Fate soffriggere in padella (consigliamo una padella da 20-22 cm di diametro che servirà anche per cuocere la frittata) uno spicchio di aglio in camicia con un giro d'olio per un paio di minuti. Aggiungete gli spinaci e fateli saltare per una decina di minuti. Salate leggermente gli spinaci, spegnete il fuoco, togliete lo spicchio d'aglio e lasciateli intiepidire. Quindi scolateli, strizzateli con cura e tritateli al coltello.",
       "Rompete le uova in una ciotola, poi aggiungete il Parmigiano Reggiano grattugiato, un pizzico di pepe nero e un pizzico di sale. Sbattere le uova con le fruste, o con una forchetta, fino a che tuorli e albumi non saranno completamente amalgamati. Aggiungete gli spinaci al composto di uova e mescolate velocemente.",
-      "Scaldate un giro di olio extravergine di oliva nella stessa padella in cui avete cotto gli spinaci, versate il composto di uova e cuocete con coperchio a fuoco dolce per una decina di minuti. Quando la superficie della frittata comincerà a solidificarsi, girate la frittata, aiutandovi con un piatto piano, un coperchio o una spatola larga. Continuate la cottura per altri 5 minuti circa o il tempo necessario per dorare la frittata. Servite la frittata di spinaci ancora calda."
+      "Scaldate un giro di olio extravergine di oliva nella stessa padella in cui avete cotto gli spinaci, versate il composto di uova e cuocete con coperchio a fuoco dolce per una decina di minuti. Quando la superficie della frittata comincerà a solidificarsi, girate la frittata, aiutandovi con un piatto piano, un coperchio o una spatola larga. Continuate la cottura per altri 5 minuti circa o il tempo necessario per dorare la frittata. Servite la frittata di spinaci ancora calda."
     ],
     "step_images_checked_at": "2026-10-15T14:14:19.585265+00:00",
     "images_import_version": 10,
@@ -280,11 +287,12 @@
     "type": "Primo",
     "time": 35,
     "ingredients_display": [
-      "Pasta",
-      "Polpa di pomodoro",
-      "Basilico",
-      "Aglio",
-      "Olio d’oliva"
+      "Pasta 360 g",
+      "Pomodorini ciliegino 200 g",
+      "Polpa di pomodoro 200 ml",
+      "Olio extravergine di oliva q.b.",
+      "Basilico 5 foglie",
+      "Aglio 1 spicchio"
     ],
     "source": "GialloZafferano Blog — Allacciate il grembiule",
     "url": "https://blog.giallozafferano.it/allacciateilgrembiule/pasta-pomodoro-basilico/",
@@ -374,13 +382,16 @@
     "type": "Primo",
     "time": 40,
     "ingredients_display": [
-      "Pasta",
-      "Ceci",
-      "Scalogno",
-      "Concentrato di pomodoro",
-      "Salvia",
-      "Grana",
-      "Olio d’oliva"
+      "Ditalini 250 g",
+      "Ceci precotti sgocciolati 500 g",
+      "Scalogno 1 pz",
+      "Concentrato di pomodoro 1 cucchiaio",
+      "Salvia q.b.",
+      "Acqua q.b.",
+      "Olio extravergine di oliva q.b.",
+      "Sale q.b.",
+      "Pepe q.b.",
+      "Grana Padano 70 g"
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-ceci-cremosa.html",
@@ -531,13 +542,16 @@
     "type": "Primo",
     "time": 50,
     "ingredients_display": [
-      "Zucca",
-      "Porri",
-      "Brodo vegetale",
-      "Panna",
-      "Nocciole",
-      "Rosmarino",
-      "Olio d’oliva"
+      "Zucca delica da pulire 1500 g",
+      "Porri 150 g",
+      "Brodo vegetale 800 g",
+      "Panna fresca liquida 100 g",
+      "Olio extravergine di oliva q.b.",
+      "Sale q.b.",
+      "Pepe q.b.",
+      "Noce moscata 1 pizzico",
+      "Nocciole spellate 80 g",
+      "Rosmarino 2 rametti"
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Vellutata-di-zucca.html",
@@ -604,7 +618,7 @@
       "Per realizzare la vellutata di zucca per prima cosa pulite la zucca e riducete 1 kg di polpa a cubetti, poi tagliate il porro a rondelle.",
       "Scaldate l’olio in una casseruola capiente, aggiungete il porro e fatelo soffriggere per qualche minuto a fuoco medio-basso, mescolando per non farlo bruciare. Se necessario potete aggiungere un mestolo di brodo caldo.",
       "Quando il porro sarà ben rosolato, unite la zucca e mescolate per qualche minuto per farla insaporire, poi coprite con il brodo caldo. Portate a cottura la zucca mescolando spesso, ci vorranno circa 25-30 minuti.",
-      "Quando la zucca risulterà molto morbida e quasi sfatta regolate di sale e di pepe, poi aromatizzate con la noce moscata. A questo punto aggiungete quasi tutta la panna, tenendone da parte un po' per la decorazione finale.",
+      "Quando la zucca risulterà molto morbida e quasi sfatta regolate di sale e di pepe, poi aromatizzate con la noce moscata. A questo punto aggiungete quasi tutta la panna, tenendone da parte un po' per la decorazione finale.",
       "Frullate con un mixer a immersione per amalgamare; dovrà risultare liscia e vellutata. Tritate grossolanamente le nocciole con il coltello.",
       "Versate le nocciole in una padella insieme al rosmarino e a un filo d'olio e tostate per qualche minuto.",
       "Guarnite i piatti con la panna tenuta da parte, mescolate leggermente e completate con le nocciole tostate e qualche aghetto di rosmarino: la vostra vellutata di zucca è pronta per essere servita!"
@@ -752,13 +766,18 @@
     "type": "Secondo",
     "time": null,
     "ingredients_display": [
-      "Pollo",
-      "Farina",
-      "Limone",
-      "Amido di mais",
-      "Zucchero",
-      "Salsa di soia",
-      "Olio d’oliva"
+      "Petto di pollo 600 g",
+      "Farina 00 q.b.",
+      "Olio extravergine di oliva q.b.",
+      "Origano q.b.",
+      "Timo q.b.",
+      "Scorza di limone 1 pz",
+      "Succo di limone 100 g",
+      "Acqua 200 g",
+      "Amido di mais 20 g",
+      "Zucchero 10 g",
+      "Sale q.b.",
+      "Salsa di soia 10 g"
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pollo-al-limone.html",
@@ -834,11 +853,11 @@
     "steps": [
       "Per realizzare il pollo al limone per prima cosa grattugiate la scorza del limone e spremetene il succo e filtratelo.",
       "Occupatevi poi della pulizia del petto di pollo: dividete a metà il petto, eliminate le parti più grasse e tagliatelo prima a striscioline poi a bocconcini più piccoli.",
-      "Ora passate il pollo nella farina e mescolate per farla aderire (8. Ponete un tegame sul fuoco, versate l’olio di oliva 9 e scaldatelo;",
-      "quando sarà ben caldo versate i bocconcini di pollo 10 e lasciateli dorare a fiamma media per circa 5 minuti, rigirandoli di tanto in tanto 11 fino a quando saranno ben rosolati. Toglietele dal fuoco e tenetele da parte. Preparate la salsa:in una ciotola versate l'amido e l'acqua 12 .",
-      "Unite anche lo zucchero 13 , la salsa di soia 14 e il succo di limone 15 .",
-      "Nella stessa padella in cui avete rosolato il pollo versate il liquido ottenuto 16 , lasciate addensare per 1 minuto mescolando con la frusta 17 e versate anche il pollo 18 .",
-      "Mescolate lentamente e lasciate andare sul fuoco per 3-4 minuti. A fine cottura profumate con la scorza di limone 19 , timo 20 e origano fresco. Servite il pollo al limone ben caldo 21 ."
+      "Ora passate il pollo nella farina e mescolate per farla aderire. Ponete un tegame sul fuoco, versate l’olio di oliva e scaldatelo;",
+      "quando sarà ben caldo versate i bocconcini di pollo e lasciateli dorare a fiamma media per circa 5 minuti, rigirandoli di tanto in tanto fino a quando saranno ben rosolati. Toglietele dal fuoco e tenetele da parte. Preparate la salsa:in una ciotola versate l'amido e l'acqua.",
+      "Unite anche lo zucchero, la salsa di soia e il succo di limone.",
+      "Nella stessa padella in cui avete rosolato il pollo versate il liquido ottenuto, lasciate addensare per 1 minuto mescolando con la frusta e versate anche il pollo.",
+      "Mescolate lentamente e lasciate andare sul fuoco per 3-4 minuti. A fine cottura profumate con la scorza di limone, timo e origano fresco. Servite il pollo al limone ben caldo."
     ],
     "step_images_checked_at": "2026-10-15T14:14:48.433593+00:00",
     "images_import_version": 10,
@@ -927,11 +946,13 @@
     "type": "Primo",
     "time": 20,
     "ingredients_display": [
-      "Pasta",
-      "Zucchine",
-      "Aglio",
-      "Basilico",
-      "Olio d’oliva"
+      "Fusilli 320 g",
+      "Zucchine 650 g",
+      "Aglio 1 spicchio",
+      "Basilico q.b.",
+      "Olio extravergine di oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-zucchine.html",
@@ -1058,11 +1079,14 @@
     "type": "Primo",
     "time": 45,
     "ingredients_display": [
-      "Pasta",
-      "Patate",
-      "Scalogno",
-      "Rosmarino",
-      "Olio d’oliva"
+      "Pipe rigate 250 g",
+      "Patate gialle 700 g",
+      "Scalogno 40 g",
+      "Olio extravergine di oliva 30 g",
+      "Timo q.b.",
+      "Rosmarino q.b.",
+      "Sale q.b.",
+      "Pepe q.b."
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-patate.html",
@@ -1184,11 +1208,14 @@
     "type": "Primo",
     "time": 60,
     "ingredients_display": [
-      "Pasta",
-      "Passata di pomodoro",
-      "Mozzarella",
-      "Parmigiano",
-      "Basilico"
+      "Fusilli 320 g",
+      "Passata di pomodoro 500 g",
+      "Mozzarella 125 g",
+      "Olio extravergine di oliva 30 g",
+      "Aglio 1 spicchio",
+      "Basilico q.b.",
+      "Sale q.b.",
+      "Parmigiano Reggiano 65 g"
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-alla-sorrentina.html",
@@ -1246,7 +1273,7 @@
       "A questo punto coprite col coperchio e lasciate cuocere per 30 minuti a fuoco dolce. A fine cottura ricordate di eliminare lo spicchio d’aglio. Ponete sul fuoco a scaldare una pentola colma d'acqua che servirà per la cottura della pasta e intanto occupatevi di tagliare a cubetti la mozzarella. Quando l'acqua avrà raggiunto il bollore cuocete la pasta.",
       "e scolatela al dente, direttamente nel sugo; mescolate per amalgamare. Versate circa metà della pasta in una pirofila da 25 cm di diametro, così da fare un primo strato",
       "sullo stesso poi aggiungete metà dei cubetti di mozzarella e spolverizzate con un po’ di Parmigiano. Ricoprite con la pasta restante,",
-      "poi aggiungete la mozzarella ed infine ricoprite con il Parmigiano 14. Ripassate in forno con la modalità grill impostata per circa 5 minuti, fino a che la pasta non risulterà ben gratinata e la mozzarella fusa (se non avete il grill potete mettere la teglia sul ripiano più alto e accendere il forno alla massima potenza, facendo però attenzione che non bruci!). Guarnite la vostra pasta alla sorrentina, con del basilico fresco e portate subito in tavola 15!"
+      "poi aggiungete la mozzarella ed infine ricoprite con il Parmigiano. Ripassate in forno con la modalità grill impostata per circa 5 minuti, fino a che la pasta non risulterà ben gratinata e la mozzarella fusa (se non avete il grill potete mettere la teglia sul ripiano più alto e accendere il forno alla massima potenza, facendo però attenzione che non bruci!). Guarnite la vostra pasta alla sorrentina, con del basilico fresco e portate subito in tavola!"
     ],
     "step_images_checked_at": "2026-10-15T14:14:28.078551+00:00",
     "images_import_version": 10,
@@ -1310,11 +1337,13 @@
     "type": "Primo",
     "time": 30,
     "ingredients_display": [
-      "Pasta",
-      "Zucchine",
-      "Zafferano",
-      "Grana",
-      "Olio d’oliva"
+      "Pipe rigate 320 g",
+      "Zucchine 500 g",
+      "Zafferano 0,3 g",
+      "Grana Padano 30 g",
+      "Menta q.b.",
+      "Olio extravergine di oliva q.b.",
+      "Sale q.b."
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-zucchine-e-zafferano.html",
@@ -1449,11 +1478,13 @@
     "type": "Primo",
     "time": 25,
     "ingredients_display": [
-      "Pasta",
-      "Ricotta",
-      "Parmigiano",
-      "Panna",
-      "Timo"
+      "Fusilli 320 g",
+      "Ricotta vaccina 350 g",
+      "Parmigiano Reggiano 70 g",
+      "Panna fresca liquida 70 g",
+      "Sale q.b.",
+      "Pepe q.b.",
+      "Timo q.b."
     ],
     "source": "GialloZafferano",
     "url": "https://ricette.giallozafferano.it/Pasta-e-ricotta.html",
@@ -1639,7 +1670,7 @@
     "steps": [
       "Per preparare la zuppa di zucca e lenticchie, per prima cosa realizzate il brodo vegetale e tenetelo in caldo. Intanto pulite la zucca: dividetela a metà ed eliminate i semi e i filamenti interni. Rimuovete la buccia con un coltello affilato, poi tagliate la polpa a fette spesse.",
       "Infine, riducetela a piccoli cubetti regolari. Dedicatevi al cavolo nero: staccate le foglie dal gambo centrale e tritatele grossolanamente con un coltello.",
-      "In una casseruola capiente scaldate un filo d’olio extravergine d’oliva con uno spicchio d’aglio a pezzetti e lo scalogno tritato grossolanamente. Lasciate soffriggere dolcemente per 4-5 minuti. Unite lo scalogno a pezzi 8, poi aggiungete la zucca.",
+      "In una casseruola capiente scaldate un filo d’olio extravergine d’oliva con uno spicchio d’aglio a pezzetti e lo scalogno tritato grossolanamente. Lasciate soffriggere dolcemente per 4-5 minuti. Unite lo scalogno a pezzi, poi aggiungete la zucca.",
       "Salate e versate un mestolo di brodo vegetale caldo, coprite con il coperchio e portate a bollore; ci vorranno circa 10 minuti.",
       "A questo punto unite il cavolo nero, mescolate e versate ancora un po’ di brodo per permettere alle foglie di stufarsi lentamente. Aggiungete subito dopo anche le lenticchie rosse precedentemente sciacquate. Allungate con un altro mestolo di brodo, mescolate e cuocete per circa 15-20 minuti, o finché tutte le verdure non saranno morbide.",
       "Per dare corpo e una consistenza più cremosa, incorporate un cucchiaio di farina di ceci. Continuate la cottura ancora per qualche minuto, mescolando bene: vedrete che la zuppa diventerà densa e vellutata. Quando è pronta, servite la zuppa di zucca e lenticchie calda in una ciotola, completando con un filo d’olio a crudo e, se gradite, una macinata di pepe nero!"
@@ -2477,11 +2508,11 @@
     ],
     "steps": [
       "Per realizzare lo sgombro al cartoccio per prima cosa occupatevi della pulizia degli sgombri: incidete il ventre con un coltello ed eviscerate il pesce, poi sciacquatelo sotto l’acqua corrente per ripulirlo.",
-      "Ora lavate le verdure e mondatele: spuntate il sedano e riducetelo a dadini, poi tagliate le melanzane a fette e ricavate dei dadini. Eliminate i semini interni e il picciolo del peperone",
+      "Ora lavate le verdure e mondatele: spuntate il sedano e riducetelo a dadini, poi tagliate le melanzane a fette e ricavate dei dadini. Eliminate i semini interni e il picciolo del peperone",
       "e tagliatelo prima a listarelle e poi a cubetti. Infine riducete a dadini anche i pomodori. Trasferite tutte le verdure tagliate in una ciotola, profumate con foglioline di basilico fresco",
       "e condite con olio, sale e pepe. Ora adagiate ciascuno sgombro pulito su un foglio di carta forno di circa 35x31 cm, riempite la pancia dello sgombro con un cucchiaio di verdure e poi distribuite il resto intorno al pesce (abbiate cura di usare per ciascuno sgombro circa ¼ delle verdure preparate in precedenza).",
-      "Condite il pesce con un filo di olio di oliva. Lavate il limone e tagliatelo a fette sottili, poi adagiate 3 fette di limone sopra ogni sgombro.",
-      "Ora richiudete il cartoccio sollevando i lembi di carta forno e sovrapponendoli sopra al pesce, poi sigillate bene ripiegando i lati.",
+      "Condite il pesce con un filo di olio di oliva. Lavate il limone e tagliatelo a fette sottili, poi adagiate 3 fette di limone sopra ogni sgombro.",
+      "Ora richiudete il cartoccio sollevando i lembi di carta forno e sovrapponendoli sopra al pesce, poi sigillate bene ripiegando i lati.",
       "Ponete i cartocci su una leccarda rivestita con carta forno e cuocete in forno statico preriscaldato a 200° per 20 minuti. A cottura ultimata sfornate i vostri sgombri al cartoccio e serviteli ben caldi."
     ],
     "needs_review": false,
@@ -2809,7 +2840,7 @@
       "Per preparare la minestra di riso con legumi lavate e tagliate a brunoise le verdure per il soffritto, ovvero sedano, carota e cipolla. Pelate le patate e tagliatele cubetti di circa 2 cm. In una casseruola versate l’olio e il trito per il soffritto.",
       "Stufate a fuoco dolce per circa 10 minuti, poi aggiungete le patate e mescolate.",
       "Unite anche la passata di pomodoro e i legumi. Cuocete per un paio di minuti, poi versate l'acqua.",
-      "Coprite con un coperchio e cuocete a fuoco medio per 20 minuti. Trascorso il tempo di cottura, versate il riso e mescolate, poi aggiustate di sale. Coprite con il coperchio e lasciate andare sul fuoco per altri 10 minuti, mescolando ogni tanto.",
+      "Coprite con un coperchio e cuocete a fuoco medio per 20 minuti. Trascorso il tempo di cottura, versate il riso e mescolate, poi aggiustate di sale. Coprite con il coperchio e lasciate andare sul fuoco per altri 10 minuti, mescolando ogni tanto.",
       "Trascorsi i 10 minuti, servite la vostra minestra di riso con legumi completando con una spolverata di pepe nero, un filo d'olio e qualche fogliolina di timo!"
     ],
     "needs_review": false,
@@ -3098,7 +3129,7 @@
       "Farina 00 200 g",
       "Parmigiano Reggiano DOP 120 g",
       "Pangrattato 80 g",
-      "Cipolle &frac12;",
+      "Cipolle ½",
       "Uova 2",
       "Burro 20 g",
       "Noce moscata q.b.",
@@ -3189,9 +3220,9 @@
       "Unite il cavolo nero tritato, salate e saltate a fiamma medio-alta per circa 5 minuti, fino a quando il liquido si sarà asciugato. Spegnete il fuoco e lasciate intiepidire. Intanto in una ciotola versate la farina, il Parmigiano Reggiano grattugiato e il pangrattato.",
       "Aggiungete anche la ricotta, le uova, un pizzico di sale e di noce moscata.",
       "Unite il cavolo nero intiepidito e amalgamate il tutto con un mestolo Trasferite il composto sul piano di lavoro e continuate a impastare con le mani fino ad ottenere una consistenza omogenea, ma non troppo.",
-      "Ora prelevate 20 g di impasto per volta e modellatelo fra le mani per dare una forma cilindrica. Adagiate man mano i malfatti su un vassoio foderato con carta forno; con queste dosi ne otterrete circa 60 18.",
-      "Portate a bollore una pentola di acqua salata. Nel frattempo mettete il burro in una padella 19 , aggiungete le foglie di salvia 20 e fatelo sciogliere a fuoco dolce fino a diventare color nocciola. Tuffate nell’acqua bollente pochi malfatti per volta, calcolando 4-5 minuti dal momento in cui vengono a galla 21 .",
-      "Scolate i malfatti e trasferiteli nella padella con il burro 22 . Fateli insaporire brevemente 23 , poi impiattate e irrorate con il fondo di cottura. Servite subito i vostri malfatti al cavolo nero, completando con formaggio grattugiato a piacere 24 !"
+      "Ora prelevate 20 g di impasto per volta e modellatelo fra le mani per dare una forma cilindrica. Adagiate man mano i malfatti su un vassoio foderato con carta forno; con queste dosi ne otterrete circa 60.",
+      "Portate a bollore una pentola di acqua salata. Nel frattempo mettete il burro in una padella, aggiungete le foglie di salvia e fatelo sciogliere a fuoco dolce fino a diventare color nocciola. Tuffate nell’acqua bollente pochi malfatti per volta, calcolando 4-5 minuti dal momento in cui vengono a galla.",
+      "Scolate i malfatti e trasferiteli nella padella con il burro. Fateli insaporire brevemente, poi impiattate e irrorate con il fondo di cottura. Servite subito i vostri malfatti al cavolo nero, completando con formaggio grattugiato a piacere!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T12:25:28.924807+00:00",
@@ -3362,7 +3393,7 @@
       "Per prearare il baccalà mantecato alla veneziata vi servirà lo stoccafisso (noi lo abbiamo preso già ammollato), sciacquatelo comunque più volte sotto acqua corrente fredda ed eliminate le lische estraendole con una pinzetta. Questo passaggio risulta più semplice con lo stoccafisso crudo. Tagliate lo stoccafisso a pezzi grandi, ponetelo in un tegame alto, preferibilmente in acciaio.",
       "Aggiungete l'alloro e versate acqua fredda fino a coprirlo. Dal momento in cui bolle, calcolate altri 30 minuti di cottura. Durante la cottura, togliete la schiuma.",
       "Quando il baccalà inizierà a sfaldarsi sarà ora di scolarlo. Trasferitelo nella ciotola della planetaria, montate la frusta e azionate a velocità medio-bassa.",
-      "Versate a filo l’olio di semi mentre la planetaria è in azione, poi aggiungete sale e pepe macinato a piacere. Dopodiché aumentate la velocità e continuate a lavorare il composto fino ad ottenere una crema. Ci vorranno circa 10 minuti in tutto in planetaria. Formate le quenelle aiutandovi con 2 cucchiai.",
+      "Versate a filo l’olio di semi mentre la planetaria è in azione, poi aggiungete sale e pepe macinato a piacere. Dopodiché aumentate la velocità e continuate a lavorare il composto fino ad ottenere una crema. Ci vorranno circa 10 minuti in tutto in planetaria. Formate le quenelle aiutandovi con 2 cucchiai.",
       "Adagiate le quenelle su crostini di pane tostato oppure su crostini di polenta. Insaporite con prezzemolo fresco tritato e ancora pepe macinato a piacere. Il baccalà mantecato alla veneziana è pronto per essere gustato!"
     ],
     "needs_review": false,
@@ -3514,11 +3545,11 @@
     ],
     "steps": [
       "Per preparare il baccalà in umido tagliate la cipolla bionda a julienne. Versate un filo di olio extravergine d’oliva in un tegame, unite la cipolla, salate e lasciate stufare a fuoco dolce per circa 10 minuti.",
-      "Versate quindi la polpa fine di pomodoro e proseguite la cottura per circa 20-30 minuti, fino a quando il sugo si sarà ben ristretto. Nel frattempo tagliate il baccalà a pezzi di circa 2 cm, asciugateli con cura e passateli nella farina 00 6.",
-      "Dovrete ricoprirli uniformemente 7 . Versate un filo di olio extravergine d’oliva in una padella e adagiatevi i pezzi di baccalà infarinati 8 . Salate 9 e cuocete a fuoco medio per circa 5 minuti.",
-      "Il baccalà deve risultare leggermente dorato 10 . Nel frattempo il sugo si sarà ristretto 11 . Trasferite il baccalà nel tegame con il sugo e unite i capperi precedentemente dissalati 12 .",
-      "Insaporite con le olive taggiasche 13 , coprite con il coperchio 14 e proseguite la cottura per altri 5-10 minuti, in modo che il baccalà si insaporisca nel sugo 15 .",
-      "A fine cottura aggiungete l’origano secco 16 . Impiattate il baccalà insieme al suo sugo 17 , quindi ultimate con altro origano secco 18 e una macinata di pepe nero."
+      "Versate quindi la polpa fine di pomodoro e proseguite la cottura per circa 20-30 minuti, fino a quando il sugo si sarà ben ristretto. Nel frattempo tagliate il baccalà a pezzi di circa 2 cm, asciugateli con cura e passateli nella farina 00.",
+      "Dovrete ricoprirli uniformemente. Versate un filo di olio extravergine d’oliva in una padella e adagiatevi i pezzi di baccalà infarinati. Salate e cuocete a fuoco medio per circa 5 minuti.",
+      "Il baccalà deve risultare leggermente dorato. Nel frattempo il sugo si sarà ristretto. Trasferite il baccalà nel tegame con il sugo e unite i capperi precedentemente dissalati.",
+      "Insaporite con le olive taggiasche, coprite con il coperchio e proseguite la cottura per altri 5-10 minuti, in modo che il baccalà si insaporisca nel sugo.",
+      "A fine cottura aggiungete l’origano secco. Impiattate il baccalà insieme al suo sugo, quindi ultimate con altro origano secco e una macinata di pepe nero."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T12:26:10.636421+00:00",
@@ -3850,12 +3881,12 @@
     ],
     "steps": [
       "Per realizzare la zuppa imperiale iniziate dalla preparazione del brodo di carne: lavate e pelate le verdure e ponetele in un tegame capiente e dai bordi alti con l’olio. Aromatizzate con i grani di pepe in grani ed i chiodi di garofano. Aggiungete la carne e coprite con 3L di acqua, lasciate cuocere così a fuoco medio-alto per circa 2 ore, fino a far ridurre il brodo di circa la metà. Quindi aggiungete il restante litro di acqua e lasciate cuocere per ancora un'ora a fuoco basso. A fine cottura filtrate il brodo con un colino a maglie strette.",
-      "Conservate la carne e le verdure per il lesso e salate il brodo. Ora occupatevi dell’impasto: in un pentolino sciogliete a fuoco dolce il burro e tenetelo da parte (5-6).",
-      "In una ciotola versate il semolino e il Parmigiano grattugiato 7 , unite le uova sbattute 8 , il burro fuso 9 , il sale,",
-      "aromatizzate con la noce moscata grattugiata 10 e mescolate il tutto con una frusta 11 per amalgamare gli ingredienti 12 .",
-      "Imburrate una teglia 30x20cm e foderatela con carta da forno 13 , trasferite l’impasto nella teglia 14 e livellatelo in superficie con il dorso di un cucchiaio per compattarlo al meglio 15 .",
-      "Cuocete il composto in forno statico preriscaldato a 180° per 35 minuti. A cottura ultimata, sfornate il composto e lasciatelo raffreddare 16 , poi rovesciate la teglia su un tagliere per sformare il panetto 17 . Tagliatelo prima striscioline 18",
-      "e poi a cubetti di circa  1x1 cm (19-20). Versate il brodo caldo in un piatto, aggiungete i cubetti di semolino e servite la vostra zuppa imperiale 21 ."
+      "Conservate la carne e le verdure per il lesso e salate il brodo. Ora occupatevi dell’impasto: in un pentolino sciogliete a fuoco dolce il burro e tenetelo da parte.",
+      "In una ciotola versate il semolino e il Parmigiano grattugiato, unite le uova sbattute, il burro fuso, il sale,",
+      "aromatizzate con la noce moscata grattugiata e mescolate il tutto con una frusta per amalgamare gli ingredienti.",
+      "Imburrate una teglia 30x20cm e foderatela con carta da forno, trasferite l’impasto nella teglia e livellatelo in superficie con il dorso di un cucchiaio per compattarlo al meglio.",
+      "Cuocete il composto in forno statico preriscaldato a 180° per 35 minuti. A cottura ultimata, sfornate il composto e lasciatelo raffreddare, poi rovesciate la teglia su un tagliere per sformare il panetto. Tagliatelo prima striscioline",
+      "e poi a cubetti di circa 1x1 cm. Versate il brodo caldo in un piatto, aggiungete i cubetti di semolino e servite la vostra zuppa imperiale."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T13:58:50.367726+00:00",
@@ -4148,14 +4179,14 @@
       ]
     ],
     "steps": [
-      "Per preparare la zuppa frantoiana per prima cosa realizzate il passato di fagioli: sgranate i fagioli 1 , ne otterrete così 250 g circa. Tritate grossolanamente una costa di sedano, una carota e una cipolla e riuniteli in una casseruola capiente 3 .",
-      "Versate anche i fagioli borlotti. Coprite con acqua fredda 5 , circa 1,2 litri, e portate a bollore. Cuocete a fiamma bassa, tenendo semicoperto 6 , fino a quando saranno teneri.",
-      "Ci vorrà circa mezz'ora 7 . Nel frattempo mondate e tritate la seconda cipolla 8 , pelate e tagliate a cubetti la zucca 9 .",
-      "Pelate e tagliate a cubetti anche le patate 1 e la carota restante. Eliminate la costa centrale del cavolo nero 11 e fatelo a pezzetti 12 .",
-      "In una pentola capiente preparate un soffritto con l'olio extravergine d'oliva 13 e la cipolla tritata 14 e aggiungete le verdure a tocchetti 15 .",
-      "Unite anche il cavolo 16 . Fate rosolare qualche minuto. Intanto prelevate un po' di fagioli cotti 17 e teneteli da parte. Frullate il resto insieme alle verdure e la loro acqua con cui sono stati cotti per ottenere una crema omogenea 18 .",
-      "Unite il passato di fagioli alla zuppa 19 , mescolate e cuocete per circa 40-50 minuti con il coperchio 20 , fino a quando le verdure saranno tenere, unendo circa 500 g di acqua 21 . Al bisogno aggiungetene durante la cottura.",
-      "Verso fine cottura unite i fagioli interi rimasti 22 , mescolate e aggiustate di sale 23 e pepe. Trasferite nei piatti da portata e servite la zuppa frantoiana insieme a fette di pane e un giro di olio extravergine d'oliva a crudo 24"
+      "Per preparare la zuppa frantoiana per prima cosa realizzate il passato di fagioli: sgranate i fagioli, ne otterrete così 250 g circa. Tritate grossolanamente una costa di sedano, una carota e una cipolla e riuniteli in una casseruola capiente.",
+      "Versate anche i fagioli borlotti. Coprite con acqua fredda, circa 1,2 litri, e portate a bollore. Cuocete a fiamma bassa, tenendo semicoperto, fino a quando saranno teneri.",
+      "Ci vorrà circa mezz'ora. Nel frattempo mondate e tritate la seconda cipolla, pelate e tagliate a cubetti la zucca.",
+      "Pelate e tagliate a cubetti anche le patate 1 e la carota restante. Eliminate la costa centrale del cavolo nero e fatelo a pezzetti.",
+      "In una pentola capiente preparate un soffritto con l'olio extravergine d'oliva e la cipolla tritata e aggiungete le verdure a tocchetti.",
+      "Unite anche il cavolo. Fate rosolare qualche minuto. Intanto prelevate un po' di fagioli cotti e teneteli da parte. Frullate il resto insieme alle verdure e la loro acqua con cui sono stati cotti per ottenere una crema omogenea.",
+      "Unite il passato di fagioli alla zuppa, mescolate e cuocete per circa 40-50 minuti con il coperchio, fino a quando le verdure saranno tenere, unendo circa 500 g di acqua. Al bisogno aggiungetene durante la cottura.",
+      "Verso fine cottura unite i fagioli interi rimasti, mescolate e aggiustate di sale e pepe. Trasferite nei piatti da portata e servite la zuppa frantoiana insieme a fette di pane e un giro di olio extravergine d'oliva a crudo"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T13:58:55.659323+00:00",
@@ -4325,8 +4356,8 @@
       "Per preparare la zuppa di zucca e fagioli, per prima cosa pulite la zucca, tagliatela a fette e rimuovete la buccia, poi riducete la polpa a dadini.",
       "Mondate la cipolla e tritatela grossolanamente. Versate la cipolla e la zucca in una pentola con l’olio caldo.",
       "Rosolate per 5 minuti, poi aggiungete il brodo vegetale. Lasciate sobbollire a fuoco medio-basso fino a quando la zucca si sarà ammorbidita, ci vorranno circa 20-25 minuti. Una volta cotta, togliete la pentola dal fuoco e frullate una parte della zucca.",
-      "Unite i fagioli precotti e scolati e mescolate bene. Infine regolate di sale 12 e aggiustate la densità aggiungendo eventualmente altro brodo vegetale.",
-      "Impiattate e completate con un filo d’olio 13 e una macinata di pepe 14 . La vostra zuppa di zucca e fagioli è pronta per essere servita 15 !"
+      "Unite i fagioli precotti e scolati e mescolate bene. Infine regolate di sale e aggiustate la densità aggiungendo eventualmente altro brodo vegetale.",
+      "Impiattate e completate con un filo d’olio e una macinata di pepe. La vostra zuppa di zucca e fagioli è pronta per essere servita!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T13:58:58.256051+00:00",
@@ -4488,10 +4519,10 @@
       ]
     ],
     "steps": [
-      "per realizzare la zuppa di riso e ceci per prima cosa occupatevi della pulizia dei funghi: tagliate la base del gambo e eliminate i resdiui di terra con un panno inumidito. Tagliate a fettine i funghi e teneteli da parte 2 . Mondate cipolla e carote e tritatele 2 .  Scaldate un giro d'olio in padella 3 .",
-      "Soffriggete quindi la carota cipolla e agli a fuoco medio basso 4 . Unite i funghi 5 e fate cuocere per un paio di minuti. Aggiungete i ceci 6 e  mescolate.",
-      "Coprite con il brodo caldo 7 . Raggiunto il bollore aggiungete il riso 8 , amalgamate e insaporite con il sale, il pepe e il curry 9 .",
-      "Profumate con il rosmarino tritato 10 . Portate a cottura il riso aggiungete brodo se necessario,mescolando spesso 11 . Servite la zuppa di riso e ceci calda 12 ."
+      "per realizzare la zuppa di riso e ceci per prima cosa occupatevi della pulizia dei funghi: tagliate la base del gambo e eliminate i resdiui di terra con un panno inumidito. Tagliate a fettine i funghi e teneteli da parte. Mondate cipolla e carote e tritatele. Scaldate un giro d'olio in padella.",
+      "Soffriggete quindi la carota cipolla e agli a fuoco medio basso. Unite i funghi e fate cuocere per un paio di minuti. Aggiungete i ceci e mescolate.",
+      "Coprite con il brodo caldo. Raggiunto il bollore aggiungete il riso, amalgamate e insaporite con il sale, il pepe e il curry.",
+      "Profumate con il rosmarino tritato. Portate a cottura il riso aggiungete brodo se necessario,mescolando spesso. Servite la zuppa di riso e ceci calda."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T13:59:07.177108+00:00",
@@ -5071,7 +5102,7 @@
       "Pomodori pelati 380 g",
       "Ceci precotti 140 g",
       "Carote 3",
-      "Scalogno &frac12;",
+      "Scalogno ½",
       "Concentrato di pomodoro 30 g",
       "Paprika dolce 5 g",
       "Salvia 6 foglie",
@@ -5158,7 +5189,7 @@
       ]
     ],
     "steps": [
-      "Per preparare la zuppa di pomodoro e ceci con bulgur, per prima cosa mondate e tritate lo scalogno, poi pelate e tagliate le carote a fettine sottili. In un tegame soffriggete lo scalogno con un filo d’olio per 2-3 minuti,",
+      "Per preparare la zuppa di pomodoro e ceci con bulgur, per prima cosa mondate e tritate lo scalogno, poi pelate e tagliate le carote a fettine sottili. In un tegame soffriggete lo scalogno con un filo d’olio per 2-3 minuti,",
       "poi aggiungete le carote e cuocete per altri 3 minuti, aiutandovi con poca acqua. Ora versate i pomodori pelati e schiacciateli con un cucchiaio di legno. Aggiustate di sale e pepe e cuocete a fuoco medio per circa 5 minuti.",
       "A questo punto unite anche i ceci sgocciolati e le erbe aromatiche, mescolate bene, chiudete con il coperchio e cuocete per circa 10 minuti, aggiungendo al bisogno altra acqua per evitare che si bruci.",
       "Trascorso questo tempo versate il bulgur direttamente nel tegame, mescolate bene e unite anche la paprika. Proseguite la cottura per altri 30 minuti aggiungendo sempre poca acqua per volta.",
@@ -5336,11 +5367,11 @@
     "steps": [
       "Per preparare la zuppa di pomodori arrosto e mozzarella cominciate lavando i pomodorini. Asciugateli e tagliateli a metà nel senso della lunghezza. Poi disponeteli a faccia in giù su una leccarda foderata con carta forno.",
       "Cospargete con circa 40 grammi d’olio, regolate di sale e pepe, poi aromatizzate con origano secco e paprika.",
-      "Ecco pronti i vostri pomodorini da cuocere. Vanno sul ripiano medio-alto del forno già caldo a 220°, in modalità statica per 40-45 minuti. A fine cottura risulteranno arrostiti e succosi. Raccogliete il foglio di carta forno e traferite i pomodorini in una ciotola e lasciate intiepidire.",
+      "Ecco pronti i vostri pomodorini da cuocere. Vanno sul ripiano medio-alto del forno già caldo a 220°, in modalità statica per 40-45 minuti. A fine cottura risulteranno arrostiti e succosi. Raccogliete il foglio di carta forno e traferite i pomodorini in una ciotola e lasciate intiepidire.",
       "Nel frattempo passate alla mozzarella, prendetene 200 grammi dal totale e ottenete dei pezzi grossi. Raccogliete il tutto in una ciotolina, anche il siero che fuoriesce, e poi versate il tutto nel recipiente coi pomodori. Aggiungete delle foglioline di basilico",
       "e poi frullate il tutto con un frullatore ad immersione. Aggiungete un po’ d’acqua al bisogno fino ad ottenere una vellutata liscia della consistenza che preferite.",
       "Tenete la zuppa da parte e passate a fare i crostini. Affettate il pane sottilmente. Aggiungete un goccio d’olio insieme ad un pizzico di sale, di pepe e di origano. Infornate, sempre in forno statico preriscaldato a 220° per 7-8 minuti, il tempo necessario a dorare il pane.",
-      "È arrivato il momento della composizione del piatto. Tagliate a piccoli cubetti i restanti 100 g di mozzarella, servirà per decorare. Poi nei piatti da portata versate un po’ di zuppa e immergete il pane tostato. Guarnite il tutto con i cubetti di mozzarella, le foglioline di basilico, un pizzico di paprika e un filo d’olio. Ecco pronta la zuppa di pomodori arrosto e mozzarella."
+      "È arrivato il momento della composizione del piatto. Tagliate a piccoli cubetti i restanti 100 g di mozzarella, servirà per decorare. Poi nei piatti da portata versate un po’ di zuppa e immergete il pane tostato. Guarnite il tutto con i cubetti di mozzarella, le foglioline di basilico, un pizzico di paprika e un filo d’olio. Ecco pronta la zuppa di pomodori arrosto e mozzarella."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T13:59:20.812882+00:00",
@@ -5493,9 +5524,9 @@
     ],
     "steps": [
       "Per preparare le cosce di pollo al forno trasferite i fusi in pirofila e conditeli con olio, sale e pepe. Sbucciate le patate.",
-      "Tagliatele in 8 spicchi, adagiatele su teglia rivestita con carta forno e conditele con olio, sale e pepe. Adagiate le cosce di pollo.",
-      "Aromatizzate con timo e rosmarino. In ultimo una spolverata di paprika piccante.",
-      "Cuocete in forno statico preriscaldato a 230° per 40 minuti. Passati 20 minuti girate le cosce di pollo e rimestate le patate per una cottura omogenea. Trascorsi 40 minuti mescolate ancora le patate con una marisa e cuocete per altri 5 minuti sempre a 230° ma passando in modalità ventilata. Servite subito le vostre cosce di pollo al forno!"
+      "Tagliatele in 8 spicchi, adagiatele su teglia rivestita con carta forno e conditele con olio, sale e pepe. Adagiate le cosce di pollo.",
+      "Aromatizzate con timo e rosmarino. In ultimo una spolverata di paprika piccante.",
+      "Cuocete in forno statico preriscaldato a 230° per 40 minuti. Passati 20 minuti girate le cosce di pollo e rimestate le patate per una cottura omogenea. Trascorsi 40 minuti mescolate ancora le patate con una marisa e cuocete per altri 5 minuti sempre a 230° ma passando in modalità ventilata. Servite subito le vostre cosce di pollo al forno!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T14:07:24.037555+00:00",
@@ -5801,8 +5832,8 @@
       "Per realizzare la pasta con pesce spada e zucchine mettete a bollire abbondante acqua i un tegame e quando bollirà salatela; nel frattempo lavate e spuntate le zucchine, poi riducetele a julienne con una grattugia con i fori larghi, poi pulite le fette di pesce spada: eliminate la striscia di pelle laterale quindi tagliate la polpa prima a listarelle",
       "poi a piccoli cubetti di circa 1 cm. In una padella scaldate l’olio di oliva extravergine con lo spicchio di aglio intero, poi unite i bocconcini di pesce spada",
       "fate rosolare per 1 minuto mescolando, poi sfumate con il vino bianco, lasciate evaporare per qualche istante e poi incorporate le zucchine tagliate a julienne salate, pepate e cuocete per 4-5 minuti mescolando di tanto in tanto. Quindi spegnete il fuoco e profumate con le foglioline di timo fresco,",
-      "eliminate con una pinza da cucina lo spicchio di aglio e profumate con la scorza grattugiata del limone. Lessate i fusilli nel tegame con acqua salata portata a bollore per circa 11 minuti o quanto riportato sulla confezione 12; dovranno essere al dente.",
-      "Scolateli poi con una schiumarola direttamente nella padella con il pesce 13 . Aggiungete un po’ di pepe a piacere 14 e servite subito la pasta con pesce spada e zucchine ben calda 15 !"
+      "eliminate con una pinza da cucina lo spicchio di aglio e profumate con la scorza grattugiata del limone. Lessate i fusilli nel tegame con acqua salata portata a bollore per circa 11 minuti o quanto riportato sulla confezione; dovranno essere al dente.",
+      "Scolateli poi con una schiumarola direttamente nella padella con il pesce. Aggiungete un po’ di pepe a piacere e servite subito la pasta con pesce spada e zucchine ben calda!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T14:19:05.024634+00:00",
@@ -5951,10 +5982,10 @@
     ],
     "steps": [
       "Per realizzare la pasta con pesce spada e fave per prima cosa sgranate le fave e raccoglietele in una ciotolina. Sbollentate le fave in acqua bollente per un paio di minuti, poi scolatele poi direttamente in una ciotola riempita con acqua fredda.",
-      "Ora eliminate la scorza più esterna da ogni fava e tenetele da parte. Ponete sul fuoco una pentola colma di acqua salata e portate al bollore, servirà per la cottura della pasta. Nel frattempo occupatevi del pesce spada: eliminate la pelle e tagliate la polpa a cubetti regolari così da ottenere una cottura omogenea.",
+      "Ora eliminate la scorza più esterna da ogni fava e tenetele da parte. Ponete sul fuoco una pentola colma di acqua salata e portate al bollore, servirà per la cottura della pasta. Nel frattempo occupatevi del pesce spada: eliminate la pelle e tagliate la polpa a cubetti regolari così da ottenere una cottura omogenea.",
       "In un tegame scaldate l’olio di oliva con lo spicchio di aglio, poi aggiungete il pesce spada a cubetti e lasciate rosolare a fuoco vivace mescolando spesso; ci vorranno circa 8 minuti. Intanto cuocete la pasta lasciandola indietro di cottura di un paio di minuti rispetto al tempo indicato sulla confezione. Intanto insaporite il pesce con la scorza grattugiata del limone.",
-      "Salate, pepate e aromatizzate con le foglioline di menta fresca. Quando il pesce spada sarà giunto a cottura e risulterà dorato, spegnete il fuoco e unite la fave.",
-      "Eliminate lo spicchio di aglio e scolate la pasta direttamente nella padella. Versate un mestolo di acqua di cottura e saltate il tutto per un paio di minuti.",
+      "Salate, pepate e aromatizzate con le foglioline di menta fresca. Quando il pesce spada sarà giunto a cottura e risulterà dorato, spegnete il fuoco e unite la fave.",
+      "Eliminate lo spicchio di aglio e scolate la pasta direttamente nella padella. Versate un mestolo di acqua di cottura e saltate il tutto per un paio di minuti.",
       "Mescolate per bene, infine guarnite con altre foglioline di menta e un filo di olio di oliva. Servite subito la vostra pasta con pesce spada e fave!"
     ],
     "needs_review": false,
@@ -6214,7 +6245,7 @@
       "Tagliatelle all'uovo 250 g",
       "Pancetta (tesa) 200 g",
       "Pomodorini ciliegino 200 g",
-      "Cipolle &frac12;",
+      "Cipolle ½",
       "Burro 20 g",
       "Parmigiano Reggiano DOP (da grattugiare) 50 g",
       "Pecorino (da grattugiare) q.b.",
@@ -6674,7 +6705,7 @@
       ]
     ],
     "steps": [
-      "Per preparare la pasta con nduja, mazzancolle e stracciatella in una padella versate olio, aglio e i gambi di prezzemolo. Scaldate la padella e fate rosolare per un paio di minuti, poi  unite le mazzancolle. Cuocete sul fuoco per 3-4 minuti, poi salate.",
+      "Per preparare la pasta con nduja, mazzancolle e stracciatella in una padella versate olio, aglio e i gambi di prezzemolo. Scaldate la padella e fate rosolare per un paio di minuti, poi unite le mazzancolle. Cuocete sul fuoco per 3-4 minuti, poi salate.",
       "Insaporite con il pepe e sfumate con il vino bianco. Lasciate evaporare l’alcol.",
       "Togliete le mazzancolle e tenetele da parte. Eliminate anche l’aglio e i gambi di prezzemolo.",
       "Versate la nduja nella padella con il fondo di cottura. Nel frattempo portate a bollore l'acqua salata e cuocete la pasta.",
@@ -7394,7 +7425,7 @@
       "Per preparare l'insalata di farro fredda portate a bollore in una pentola dell’acqua leggermente salata e fate cuocere il farro per il tempo indicato sulla confezione. Lavate e tritate le foglie di basilico, versate lo yogurt in una ciotolina, aggiungete un pizzico di sale e un cucchiaio di olio.",
       "Insaporite con le foglie di basilico spezzettat. Mescolate bene, coprite la ciotolina con un foglio di pellicola e ponetela in frigorifero. Nel frattempo, lavate il peperone, tagliatelo in 2 e privatelo del picciolo, dei filamenti e dei semini.",
       "Riducetelo a dadini e mettetelo in una ciotola. Tagliate a metà le olive e unitele ai peperoni. Scolate i ceci, uniteli ai peperoni.",
-      "Condite il tutto con un pizzico di sale e 2 cucchiai di olio e mescolate.  Scolate il farro, passatelo sotto l’acqua corrente per interrompere la cottura.",
+      "Condite il tutto con un pizzico di sale e 2 cucchiai di olio e mescolate. Scolate il farro, passatelo sotto l’acqua corrente per interrompere la cottura.",
       "Unite il farro alle verdure, mescolate bene. Coprite la ciotola con pellicola e poi fate raffreddare in frigorifero per almeno un’ora. Distribuite l'insalata di farro fredda in ciotoline individuali e servite accompagnando con un cucchiaio di salsa allo yogurt e basilico."
     ],
     "needs_review": false,
@@ -7553,12 +7584,12 @@
       ]
     ],
     "steps": [
-      "Per realizzare le mezze maniche con melanzane e cialde di Grana Padano per prima cosa lavate e asciugate le melanzane, quindi tagliatele prima e fette spesse e poi a bastoncini, quindi riducetele a cubetti di 1 cm circa 1 . Ponete sul fuoco un tegame con l’olio di semi e portatelo a 170°, friggete le melanzane per un paio di minuti o fino a quando non saranno dorate, poi scolatele con la schiumarola 3 .",
-      "Adagiate le melanzane fritte su un vassoio rivestito con carta assorbente in modo da asciugare l’olio in eccesso 4 . Intanto ponete sul fuoco un tegame colmo di acqua e portate al bollore, servirà per la cottura della pasta. Rivestite con carta forno una teglia e distribuite 60 g di Grana Padano DOP grattugiato con un cucchiaino 5 in modo da creare uno strato omogeneo 6 .",
-      "Condite con pepe macinato 7 8 e cuocete in forno ventilato preriscaldato a 170° per 10 minuti. Nel frattempo cuocete la pasta per il tempo riportato sulla confezione 9 .",
-      "Sfornate la vostra cialda di Grana Padano DOP 10 e lasciatela intiepidire. Non appena la pasta sarà pronta scolatela in una ciotola ampia 11 e conditela con olio di oliva 12 .",
-      "Insaporite con foglie di basilico fresco 13 , dei pomodori secchi sott’olio ben scolati 14 e le olive 15 .",
-      "Incorporate anche le melanzane fritte e insaporite con un cucchiaio di Grana Padano DOP grattugiato 16 . Prendete al cialda e spezzatela per ottenere dei pezzi grossolani 17 . Guarnite con le sfoglie di Grana Padano DOP la pasta e gustatela tiepida 18 ."
+      "Per realizzare le mezze maniche con melanzane e cialde di Grana Padano per prima cosa lavate e asciugate le melanzane, quindi tagliatele prima e fette spesse e poi a bastoncini, quindi riducetele a cubetti di 1 cm circa 1. Ponete sul fuoco un tegame con l’olio di semi e portatelo a 170°, friggete le melanzane per un paio di minuti o fino a quando non saranno dorate, poi scolatele con la schiumarola.",
+      "Adagiate le melanzane fritte su un vassoio rivestito con carta assorbente in modo da asciugare l’olio in eccesso. Intanto ponete sul fuoco un tegame colmo di acqua e portate al bollore, servirà per la cottura della pasta. Rivestite con carta forno una teglia e distribuite 60 g di Grana Padano DOP grattugiato con un cucchiaino in modo da creare uno strato omogeneo.",
+      "Condite con pepe macinato e cuocete in forno ventilato preriscaldato a 170° per 10 minuti. Nel frattempo cuocete la pasta per il tempo riportato sulla confezione.",
+      "Sfornate la vostra cialda di Grana Padano DOP e lasciatela intiepidire. Non appena la pasta sarà pronta scolatela in una ciotola ampia e conditela con olio di oliva.",
+      "Insaporite con foglie di basilico fresco, dei pomodori secchi sott’olio ben scolati e le olive.",
+      "Incorporate anche le melanzane fritte e insaporite con un cucchiaio di Grana Padano DOP grattugiato. Prendete al cialda e spezzatela per ottenere dei pezzi grossolani. Guarnite con le sfoglie di Grana Padano DOP la pasta e gustatela tiepida."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T14:36:12.022704+00:00",
@@ -7700,11 +7731,11 @@
       ]
     ],
     "steps": [
-      "Per preparare l’insalata di farro e broccoli ponete sul fuoco una pentola colma di acqua da salare a bollore prima di aggiungere il farro 1 . Cuocete per circa 15 minuti o secondo i tempi indicati sulla confezione. Intanto pulite i broccoli: staccate le cimette e lessatele per 10 minuti 3 .",
-      "Una volta cotti i broccoli, potete scolarli 4 . Poneteli su un tagliere e tagliateli a pezzetti piccoli 5 . Scolate dall’olio i pomodori secchi e tagliate anche questi a piccoli pezzetti 6 .",
-      "Riducete a cubetti il gorgonzola 7 , tritate grossolanamente i gherigli di noci 8 e affettate a rondelle le olive snocciolate 9 .",
-      "Nel frattempo il farro sarà giunto cottura, scolatelo bene 10 e trasferitelo in una ciotola capiente. Ora tutto è pronto per comporre l’insalata: condite con olio 11 e versate qui i pomodori secchi, le noci e le olive 12 .",
-      "Proseguite incorporando anche i broccoli 13 e il gorgonzola a dadini 14 . Mescolate e portate in tavola l’insalata di farro e broccoli 15 ."
+      "Per preparare l’insalata di farro e broccoli ponete sul fuoco una pentola colma di acqua da salare a bollore prima di aggiungere il farro. Cuocete per circa 15 minuti o secondo i tempi indicati sulla confezione. Intanto pulite i broccoli: staccate le cimette e lessatele per 10 minuti.",
+      "Una volta cotti i broccoli, potete scolarli. Poneteli su un tagliere e tagliateli a pezzetti piccoli. Scolate dall’olio i pomodori secchi e tagliate anche questi a piccoli pezzetti.",
+      "Riducete a cubetti il gorgonzola, tritate grossolanamente i gherigli di noci e affettate a rondelle le olive snocciolate.",
+      "Nel frattempo il farro sarà giunto cottura, scolatelo bene e trasferitelo in una ciotola capiente. Ora tutto è pronto per comporre l’insalata: condite con olio e versate qui i pomodori secchi, le noci e le olive.",
+      "Proseguite incorporando anche i broccoli e il gorgonzola a dadini. Mescolate e portate in tavola l’insalata di farro e broccoli."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T14:36:17.495962+00:00",
@@ -7857,7 +7888,7 @@
       "Aggiungete le foglie di basilico e lasciate cuocere a fiamma bassa per 15 minuti circa, quindi eliminate l'aglio. Nel frattempo buttate la pasta in acqua bollente e salata, lasciatela cuocere per il tempo indicato sulla confezione. Tagliate la mozzarella a cubetti di circa 1 cm.",
       "Scolate la pasta al dente e trasferitela direttamente nella pentola del sugo di pomodoro e mescolate. Unite le melanzane tenendone da parte qualcuna per la gratinatura e aggiungete anche la mozzarella, tenendone da parte circa 50 g. Mescolate bene il tutto.",
       "Versate la pasta in una pirofila, coprite con la mozzarella rimasta e il Grana Padano DOP grattugiato.",
-      "Unite anche le melanzane, spargendole su tutta la superficie. Cuocete in forno preriscaldato a 240 gradi, con la modalità grill, per 10 minuti nel ripiano alto del forno 17. Sfornatela quando sarà ben gratinata e servitela calda o tiepida."
+      "Unite anche le melanzane, spargendole su tutta la superficie. Cuocete in forno preriscaldato a 240 gradi, con la modalità grill, per 10 minuti nel ripiano alto del forno. Sfornatela quando sarà ben gratinata e servitela calda o tiepida."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T14:36:22.974552+00:00",
@@ -8597,13 +8628,13 @@
       ]
     ],
     "steps": [
-      "Per realizzare la pasta con lenticchie e cavoletti per prima cosa sciacquate le lenticchie, poi versatele in abbondante acqua; portatele a bollore e lessatele per 5 minuti. Intanto mondate lo scalogno e tagliatelo a spicchi",
+      "Per realizzare la pasta con lenticchie e cavoletti per prima cosa sciacquate le lenticchie, poi versatele in abbondante acqua; portatele a bollore e lessatele per 5 minuti. Intanto mondate lo scalogno e tagliatelo a spicchi",
       "Lavate i pomodorini e divideteli a metà; non appena le lenticchie saranno pronte, scolatele e tenetele da parte. Tritate al coltello il timo e il rosmarino e tenete da parte anche le erbe aromatiche.",
-      "Portate a bollore dell'acqua in un pentolino; intanto sfogliate i cavoletti per eliminare le foglie più esterne, tagliate il torsolo alla base. Lessate anche questi per 10 minuti. Intanto portate a bollore l'acqua in un'altra pentola e salate quando bollirà:  servirà per la cottura della pasta. Una volta cotti i cavoletti di Bruxelles, scolateli conservando dell'acqua di cottura e versateli nel bicchiere di un mixer,",
+      "Portate a bollore dell'acqua in un pentolino; intanto sfogliate i cavoletti per eliminare le foglie più esterne, tagliate il torsolo alla base. Lessate anche questi per 10 minuti. Intanto portate a bollore l'acqua in un'altra pentola e salate quando bollirà: servirà per la cottura della pasta. Una volta cotti i cavoletti di Bruxelles, scolateli conservando dell'acqua di cottura e versateli nel bicchiere di un mixer,",
       "aggiungete la panna fresca liquida e un mestolo di acqua di cottura dei cavoletti, frullate tutto per ottenere una crema poi salate e pepate.",
       "Ora cuocete la pasta per circa 10 minuti o il tempo indicato sulla confezione. In un tegame versate un filo di olio di oliva, lo scalogno e i pomodorini, profumate con il trito di erbe aromatiche preparato in precedenza.",
       "Saltate per un minuto e poi versate le lenticchie, salate e cuocete per circa 5 minuti. Aggiungete quindi le olive taggiasche denocciolate e scolate dell'olio di conservazione.",
-      "Mescolate, spegnete il fuoco e una volta che la pasta sarà pronta, scolatela direttamente nel tegame con i pomodorini e le lenticchie. Mantecate per insaporire, quindi servite adagiando nel piatto prima la crema di cavoletti di Bruxelles e poi posizionate sopra la pasta. La pasta con lenticchie e cavoletti è pronta da gustare!"
+      "Mescolate, spegnete il fuoco e una volta che la pasta sarà pronta, scolatela direttamente nel tegame con i pomodorini e le lenticchie. Mantecate per insaporire, quindi servite adagiando nel piatto prima la crema di cavoletti di Bruxelles e poi posizionate sopra la pasta. La pasta con lenticchie e cavoletti è pronta da gustare!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T14:36:45.650316+00:00",
@@ -8770,9 +8801,9 @@
       "Per preparare l'insalata di farro con verdure, in un tegame capiente portate a bollore l'acqua e salatela a piacere, quindi versate il farro e fatelo bollire per il tempo indicato sulla confezione (circa una ventina di minuti). Intanto preparate il condimento: lavate e tagliate a quarti i pomodori ciliegino (potete prelevare i semini se non li gradite).",
       "Poi tagliate la provola a dadini; lavate e staccate dal tronco principale del broccolo le cimette e tagliatele a metà.",
       "Spuntate i fagiolini quindi scottateli in un tegame e procedete allo stesso modo anche con le cimette di broccoli in un tegame a parte. Basteranno pochi minuti perchè le verdure dovranno rimanere croccanti.",
-      "Quando il farro sarà cotto, scolatelo e passatelo rapidamente sotto l'acqua corrente fredda (10-11). Quindi versatelo in una ciotola e unite i pomodorini 12",
-      "aggiungete anche le verdure scolate e fatte intiepidire: i fagiolini tagliati a pezzetti 13 e le cimette 14 . Quindi versate anche la provola a dadini 15 .",
-      "e i gherigli di noci spezzettati grossolanamente 16 . Grattugiate la scorza di 1 limone non trattato 17 e del basilico fresco. se volete potete anche aggiungere un filo d'olio e mescolare il tutto. La vostra insalata di farro con verdure è pronta per essere gustata 18 !"
+      "Quando il farro sarà cotto, scolatelo e passatelo rapidamente sotto l'acqua corrente fredda. Quindi versatelo in una ciotola e unite i pomodorini",
+      "aggiungete anche le verdure scolate e fatte intiepidire: i fagiolini tagliati a pezzetti e le cimette. Quindi versate anche la provola a dadini.",
+      "e i gherigli di noci spezzettati grossolanamente. Grattugiate la scorza di 1 limone non trattato e del basilico fresco. se volete potete anche aggiungere un filo d'olio e mescolare il tutto. La vostra insalata di farro con verdure è pronta per essere gustata!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T14:36:51.419329+00:00",
@@ -8926,12 +8957,12 @@
     ],
     "steps": [
       "Per preparare la pasta con le zucche iniziate tagliando a fette di 1 cm di spessore la zucca, poi eliminate con un coltello la buccia e tagliate ciascuna fetta a bastoncini di 2 cm di spessore dai quali ricaverete dei triangolini.",
-      "Lavate e spuntate le zucchine, quindi tagliatele a rondelle di mezzo centimetro di spessore, prendete ciascuna rondella e intagliatela incidendo due triangolini distanziati (5-6),",
-      "estraete i triangolini e otterrete la forma di una simpatica zucca 7 . Ripetete lo steso procedimento con le carote: pelatele, spuntate quindi tagliatele a rondelle di mezzo centimetro 8 , intagliate con un coltello i triangolini 9",
-      "estraeteli 10 per avere le vostre zucche arancioni 11 . Intanto ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta. In una padella scaldate l’olio di oliva, quindi versate i triangolini di zucca 12",
-      "insaporite con lo spicchio di aglio intero (potete ometterlo se non lo preferite) 13 e il rosmarino 14 , lasciate rosolare per 2-3 minuti, quindi unite anche le carote 15",
-      "e le zucchine 16 , salate a piacere poi sfumate con un mestolo di acqua di cottura della pasta 17 e cuocete per circa 8 minuti a fuoco basso, a fine cottura eliminate l’aglio con una pinza da cucina. Quando l’acqua per la cottura bollirà, versate le mini penne rigate 18",
-      "Cuocete la pasta per 6 minuti o il tempo riportato sulla confezione, quindi scolatela direttamente nella padella con il condimento 19 , insaporite con il Parmigiano grattugiato 20 e servite subito la pasta con le zucche 21 !"
+      "Lavate e spuntate le zucchine, quindi tagliatele a rondelle di mezzo centimetro di spessore, prendete ciascuna rondella e intagliatela incidendo due triangolini distanziati,",
+      "estraete i triangolini e otterrete la forma di una simpatica zucca. Ripetete lo steso procedimento con le carote: pelatele, spuntate quindi tagliatele a rondelle di mezzo centimetro, intagliate con un coltello i triangolini",
+      "estraeteli per avere le vostre zucche arancioni. Intanto ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta. In una padella scaldate l’olio di oliva, quindi versate i triangolini di zucca",
+      "insaporite con lo spicchio di aglio intero (potete ometterlo se non lo preferite) e il rosmarino, lasciate rosolare per 2-3 minuti, quindi unite anche le carote",
+      "e le zucchine, salate a piacere poi sfumate con un mestolo di acqua di cottura della pasta e cuocete per circa 8 minuti a fuoco basso, a fine cottura eliminate l’aglio con una pinza da cucina. Quando l’acqua per la cottura bollirà, versate le mini penne rigate",
+      "Cuocete la pasta per 6 minuti o il tempo riportato sulla confezione, quindi scolatela direttamente nella padella con il condimento, insaporite con il Parmigiano grattugiato e servite subito la pasta con le zucche!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T14:36:57.186022+00:00",
@@ -9382,10 +9413,10 @@
       ]
     ],
     "steps": [
-      "Per preparare l'insalata di farro alla greca iniziate cuocendo il farro perlato. Versatelo in una pentola d'acqua bollente e salata e quando sarà al dente scolatelo. Passatelo velocemente sotto l'acqua corrente fredda per fermarne la cottura",
-      "Dopodiché trasferitelo in una ciotola, irrorate con un filo d'olio, mescolate e fate intiepidire. Intanto mondate la cipolla e tagliatela finemente.",
-      "Versatela in una ciotola con acqua e ghiaccio, così diventerà croccante e perderà parte del suo sapore acre. Dopo aver sciacquato i capperi abbondantemente sotto acqua corrente per rimuovere il sale in eccesso, tritateli al coltello insieme alle olive nere denocciolate.",
-      "Lavate e asciugate i pomodorini e poi tagliateli in 4 parti.  Versate nella ciotola del farro ingredienti: i pomodori, le olive e i capperi tritati,",
+      "Per preparare l'insalata di farro alla greca iniziate cuocendo il farro perlato. Versatelo in una pentola d'acqua bollente e salata e quando sarà al dente scolatelo. Passatelo velocemente sotto l'acqua corrente fredda per fermarne la cottura",
+      "Dopodiché trasferitelo in una ciotola, irrorate con un filo d'olio, mescolate e fate intiepidire. Intanto mondate la cipolla e tagliatela finemente.",
+      "Versatela in una ciotola con acqua e ghiaccio, così diventerà croccante e perderà parte del suo sapore acre. Dopo aver sciacquato i capperi abbondantemente sotto acqua corrente per rimuovere il sale in eccesso, tritateli al coltello insieme alle olive nere denocciolate.",
+      "Lavate e asciugate i pomodorini e poi tagliateli in 4 parti. Versate nella ciotola del farro ingredienti: i pomodori, le olive e i capperi tritati,",
       "le cipolle affettate e scolate e sbriciolate la feta a mano versandola nell'insalata. Poi aggiungete i filetti di tonno sgocciolati,",
       "un pizzico di sale e la scorza di limone grattugiata, infine il basilico spezzettato a mano e date una bella mescolata. Ed ecco pronta la vostra insalata di farro alla greca, buon appetito."
     ],
@@ -9659,12 +9690,12 @@
       ]
     ],
     "steps": [
-      "Per preparare la pasta con i ravanelli per prima cosa tagliate via le foglie di ravanelli che vi serviranno per realizzare la crema (serviranno circa 30 g di foglie), sciacquatele e asciugatele, infine versatele nel boccale di un mixer. Poi aggiungete la panna fresca,",
+      "Per preparare la pasta con i ravanelli per prima cosa tagliate via le foglie di ravanelli che vi serviranno per realizzare la crema (serviranno circa 30 g di foglie), sciacquatele e asciugatele, infine versatele nel boccale di un mixer. Poi aggiungete la panna fresca,",
       "il Parmigiano grattugiato, le mandorle pelate e l’olio.",
-      "Quindi inserite il mixer e frullate il tutto. Ottenuta questa crema, tenetela in disparte. Mettete sul fuoco una pentola con l’acqua salata, servirà per la cottura della pasta. Pulite anche i ravanelli e tagliateli a rondelle sottili circa 3 mm, teneteli da parte.",
+      "Quindi inserite il mixer e frullate il tutto. Ottenuta questa crema, tenetela in disparte. Mettete sul fuoco una pentola con l’acqua salata, servirà per la cottura della pasta. Pulite anche i ravanelli e tagliateli a rondelle sottili circa 3 mm, teneteli da parte.",
       "Cuocete le tagliatelle e non appena mancheranno circa 2 minuti dalla fine della cottura, indicata sulla confezione, versate la crema in padella e unite un mestolo d’acqua della pasta. Poi profumate con il basilico spezzettato a mano e lasciate scaldare a fuoco medio basso per alcuni istanti.",
       "Quindi scolate la pasta nel pesto e mescolate aggiungendo altra acqua al bisogno per risottare la pasta fino ad ultimarne la cottura. A fine cottura versate un ultimo giro d’olio,",
-      "mescolate e infine impiattate guarnendo con le rondelle di ravanelli 16 e aromatizzate con un pizzico di pepe nero. Ecco pronta la vostra pasta con i ravanelli: non vi resta che servirla ben calda."
+      "mescolate e infine impiattate guarnendo con le rondelle di ravanelli e aromatizzate con un pizzico di pepe nero. Ecco pronta la vostra pasta con i ravanelli: non vi resta che servirla ben calda."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T14:47:58.325298+00:00",
@@ -9979,9 +10010,9 @@
       ]
     ],
     "steps": [
-      "Per realizzare la pasta con funghi e fagioli per prima cosa ponete sul fuoco un tegame colmo di acqua salate e portate al bollore, servirà per la cottura della pasta. Nel frattempo occupatevi del condimento: affettate sottilmente la parte chiara del cipollotto dopo aver eliminato le foglie più esterne. Ora occupatevi della pulizia dei funghi: eliminate la base del gambo e con un panno leggermente inumidito tamponateli per eliminare eventuali residui di terra, quindi affettateli sottilmente. Versate un filo di olio di oliva in un tegame, aggiungete il cipollotto",
-      "e lasciate rosolare a fuoco dolce per 2-3 minuti, poi aromatizzate con il rosmarino sfogliato. A questo punto aggiungete anche la pancetta e i funghi cuocete 5-6 minuti",
-      "poi versate anche i fagioli precotti e aggiungete 20 g di acqua. Proseguite la cottura per altri 5 minuti e nel frattempo cuocete la pasta al dente e poi scolatela direttamente nel condimento.",
+      "Per realizzare la pasta con funghi e fagioli per prima cosa ponete sul fuoco un tegame colmo di acqua salate e portate al bollore, servirà per la cottura della pasta. Nel frattempo occupatevi del condimento: affettate sottilmente la parte chiara del cipollotto dopo aver eliminato le foglie più esterne. Ora occupatevi della pulizia dei funghi: eliminate la base del gambo e con un panno leggermente inumidito tamponateli per eliminare eventuali residui di terra, quindi affettateli sottilmente. Versate un filo di olio di oliva in un tegame, aggiungete il cipollotto",
+      "e lasciate rosolare a fuoco dolce per 2-3 minuti, poi aromatizzate con il rosmarino sfogliato. A questo punto aggiungete anche la pancetta e i funghi cuocete 5-6 minuti",
+      "poi versate anche i fagioli precotti e aggiungete 20 g di acqua. Proseguite la cottura per altri 5 minuti e nel frattempo cuocete la pasta al dente e poi scolatela direttamente nel condimento.",
       "Allungate con un mestolo di acqua di cottura e saltate la pasta qualche istante per amalgamare i sapori. Servite subito la vostra pasta con funghi e fagioli."
     ],
     "needs_review": false,
@@ -10116,7 +10147,7 @@
       "Per preparare le carote arrosto, iniziate pelando le carote con un pelapatate, poi eliminate le estremità e tagliatele a pezzi regolari. Dividetele quindi a metà nel senso della lunghezza.",
       "Tagliate ulteriormente ogni metà per il lungo per ricavare dei bastoncini. Tritate grossolanamente le mandorle con un coltello. Ungete una teglia con un filo d’olio extravergine d’oliva.",
       "Disponete le carote cercando di non sovrapporle e conditele con un altro filo d’olio. Aggiungete qualche noce di burro a pezzettini e profumate con foglie di salvia spezzettate, poi salate. Cuocete in forno ventilato preriscaldato a 200°C per 15 minuti. A questo punto, sfornate e aggiungete le mandorle tritate. Proseguite la cottura per altri 10 minuti.",
-      "Una volta cotte, sfornate e cospargete con il Parmigiano Reggiano DOP grattugiato 11. Le vostre carote arrosto sono pronte per essere servite 12!"
+      "Una volta cotte, sfornate e cospargete con il Parmigiano Reggiano DOP grattugiato. Le vostre carote arrosto sono pronte per essere servite!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T15:25:17.438802+00:00",
@@ -10315,7 +10346,7 @@
       ]
     ],
     "steps": [
-      "Per preparare la pasta con friggitelli e  crudo di gamberi, tagliate il pane a pezzi, mettetelo nel mixer e frullatelo fino a quando non otterrete una consistenza grossolana.",
+      "Per preparare la pasta con friggitelli e crudo di gamberi, tagliate il pane a pezzi, mettetelo nel mixer e frullatelo fino a quando non otterrete una consistenza grossolana.",
       "Tagliate a lamelle 20 g di mandorle. Spuntate i friggitelli, divideteli a metà ed eliminate i semini interni.",
       "Tagliateli a pezzettini e teneteli da parte. Scaldate in una padella un filo d'olio insieme all'aglio schiacciato e al peperoncino aperto a metà, poi aggiungete il pane.",
       "Versate anche le mandorle a lamelle. Regolate di sale e saltate il tutto a fuoco medio per circa sette o otto minuti, così da rendere il pane croccante e tostare leggermente le mandorle. Una volta pronto, togliete l'aglio e il peperoncino dal composto e tenete questo pane aromatico da parte.",
@@ -10653,9 +10684,9 @@
       "Lavate e riducete a cubetti anche il pomodoro. Spuntate il porro e affettatelo. Intanto cuocete le linguine al dente, tenendole indietro di un paio di minuti rispetto ai tempi indicati sulla confezione.",
       "Realizzate il pesto: nel bicchiere di un mixer versate il basilico, i porri, i pomodori e l’olio.",
       "Frullate tutto con il mixer ad immersione, così da ottenere un composto omogeneo, insaporite con il formaggio grattugiato e salate, mescolate e tenete da parte.",
-      "In una padella scaldate un filo d’olio e saltate i pomodori secchi con i fiori di zucca per 1 minuto (13-14), spegnete e teneteli da parte, serviranno per guarnire il piatto. Nella stessa padella versate il pesto 15",
-      "e scolate qui la pasta 16 , versate un mestolo di acqua di cottura 17 , mescolate e saltate la pasta pochissimi istanti a fuoco medio. A cottura ultimata, condite con un filo di olio 18 .",
-      "Servite le linguine ben calde guarnendo il piatto con i fiori di zucca saltati insieme ai pomodori secchi 19 e briciole di feta 20 , infine pepate a piacere. Le bavette con fiori di zucca e feta sono pronte per essere gustate 21 ."
+      "In una padella scaldate un filo d’olio e saltate i pomodori secchi con i fiori di zucca per 1 minuto, spegnete e teneteli da parte, serviranno per guarnire il piatto. Nella stessa padella versate il pesto",
+      "e scolate qui la pasta, versate un mestolo di acqua di cottura, mescolate e saltate la pasta pochissimi istanti a fuoco medio. A cottura ultimata, condite con un filo di olio.",
+      "Servite le linguine ben calde guarnendo il piatto con i fiori di zucca saltati insieme ai pomodori secchi e briciole di feta, infine pepate a piacere. Le bavette con fiori di zucca e feta sono pronte per essere gustate."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T15:25:35.655772+00:00",
@@ -10816,7 +10847,7 @@
       "Per preparare la carbonara di salmone, per prima cosa mettete a bollire una pentola d’acqua per cuocere la pasta. Eliminate la pelle dal filetto di salmone e tagliatelo a cubetti di circa 2 cm per lato. Scaldate l’olio in una padella con lo spicchio d’aglio, poi aggiungete i cubetti di salmone e fateli saltare a fiamma vivace per 2-3 minuti.",
       "Regolate di sale, rimuovete l’aglio dalla padella e tenete da parte. Nel frattempo l’acqua sarà arrivata a bollore, quindi salate e versate gli spaghetti. Mentre la pasta cuoce, mettete l’uovo e i tuorli in una ciotola e sbatteteli con una forchetta.",
       "Aggiungete il formaggio grattugiato e il pepe macinato a piacere, poi mescolate ancora per amalgamare il tutto.",
-      "Scolate la pasta al dente e versatela nella padella con il salmone, accendete il fuoco moderato e mescolate brevemente aggiungendo un mestolo dell’acqua di cottura. A questo punto togliete la padella dal fuoco e versate il composto di uova e Pecorino, mescolando velocemente e bene, aggiungendo al bisogno altra acqua di cottura. Insaporite con un’altra macinata di pepe e servite subito la vostra carbonara di salmone!"
+      "Scolate la pasta al dente e versatela nella padella con il salmone, accendete il fuoco moderato e mescolate brevemente aggiungendo un mestolo dell’acqua di cottura. A questo punto togliete la padella dal fuoco e versate il composto di uova e Pecorino, mescolando velocemente e bene, aggiungendo al bisogno altra acqua di cottura. Insaporite con un’altra macinata di pepe e servite subito la vostra carbonara di salmone!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T15:44:13.237408+00:00",
@@ -10963,7 +10994,7 @@
       "Nel frattempo occupatevi del condimento: in una padella versate un filo d’olio extravergine d’oliva, l'aglio, la scorza di limone e metà delle alici previste nella ricetta.",
       "Lasciate soffriggere a fuoco dolce per pochi minuti, giusto il tempo di sciogliere le alici, quindi sfumate con il vino bianco. Lasciate evaporare l'alcol e poi unite i fiori di zucca (tenete da parte una piccola manciata da aggiungere alla fine). Regolate di sale e pepe e cuocete per circa 2 minuti. Rimuovete l'aglio dalla padella.",
       "Scolate la pasta al dente tenendo da parte un po’ di acqua di cottura, trasferitela nella padella con il condimento e portatela a cottura mescolando continuamente. Se necessario, aggiungete un po’ di acqua di cottura per mantenere il fondo cremoso. A questo punto unite altri 3 filetti di alici.",
-      "Incorporate anche i restanti fiori di zucca e mescolate delicatamente per circa un minuto per lasciare insaporire il tutto. Infine, mantecate la pasta con un filo d’olio a crudo e distribuite le linguine nei piatti.",
+      "Incorporate anche i restanti fiori di zucca e mescolate delicatamente per circa un minuto per lasciare insaporire il tutto. Infine, mantecate la pasta con un filo d’olio a crudo e distribuite le linguine nei piatti.",
       "Guarnite con i filetti di alici rimasti, irrorate con il sughetto e servite subito la vostra pasta con fiori di zucca e alici."
     ],
     "needs_review": false,
@@ -11275,9 +11306,9 @@
     ],
     "steps": [
       "Per preparare la pasta con feta e pomodorini al forno mettete in una teglia la feta intera, versate i pomodorini lavati e asciugati e insaporite con le foglioline di basilico fresco.",
-      "Irrorate il tutto con olio di oliva e insaporite con pepe nero. Cuocete in forno ventilato preriscaldato a 200° per 25 minuti. Nel frattempo ponete una pentola con acqua sul fuoco e, quando raggiungerà il bollore, salate e lessate la pasta al dente.",
+      "Irrorate il tutto con olio di oliva e insaporite con pepe nero. Cuocete in forno ventilato preriscaldato a 200° per 25 minuti. Nel frattempo ponete una pentola con acqua sul fuoco e, quando raggiungerà il bollore, salate e lessate la pasta al dente.",
       "Intanto sfornate la teglia, scolate qui la pasta e unite le olive denocciolate.",
-      "Mescolate tutto per amlgamare i sapori e sbriciolare la feta. Per finire completate con l’origano secco a piacere. Servite subito la pasta con feta e pomodorini al forno."
+      "Mescolate tutto per amlgamare i sapori e sbriciolare la feta. Per finire completate con l’origano secco a piacere. Servite subito la pasta con feta e pomodorini al forno."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T15:44:44.738635+00:00",
@@ -11467,7 +11498,7 @@
     "steps": [
       "Per preparare la caponata di pesce spada spuntate le melanzane e tagliatele prima a fette di 1 cm e poi a cubetti. Affettate anche le coste di sedano.",
       "Infine mondate e affettate la cipolla. In un pentolino scaldate l'olio di semi fino alla temperatura di 175°, poi immergete le melanzane a cubetti. Friggete fino a doratura, per circa 2-3 minuti, quindi scolate le melanzane.",
-      "Trasferite le melanzane fritte su un vassoio rivestito con carta assorbente, così da asciugare l'olio in eccesso. Tagliate il pesce spada a cubetti di un paio di cm. Scaldate l'olio in una padella.",
+      "Trasferite le melanzane fritte su un vassoio rivestito con carta assorbente, così da asciugare l'olio in eccesso. Tagliate il pesce spada a cubetti di un paio di cm. Scaldate l'olio in una padella.",
       "Aggiungete le cipolle affettate e lasciate soffriggere a fuoco dolce per qualche minuto, poi versate i pelati e salate.",
       "Unite anche i capperi dissalati, le olive verdi e il sedano affettato.",
       "Ora versate l'aceto, lo zucchero e le foglie del basilico.",
@@ -12027,12 +12058,12 @@
     "steps": [
       "Per preparare la pasta con datterini, capperi e burrata iniziate lavando e tagliando i pomodorini a metà, nel senso della lunghezza, disponeteli su una teglia foderata con carta da forno, con il lato tagliato rivolto verso l’alto. Condite con abbondante olio extravergine d'oliva.",
       "Cospargete con origano, sale e zucchero. Infornate in forno statico preriscaldato a 200° per circa 30-40 minuti: a fine cottura dovranno risultare caramellati, appassiti e ben abbrustoliti.",
-      "Per i capperi: sciacquateli sotto acqua corrente per eliminare il sale in eccesso, tamponateli così da eliminare più acqua possibile. In un pentolino dai bordi alti scaldate l’olio di semi a 175°. Friggete i capperi per qualche minuto e scolate su carta assorbente, non appena risulteranno ben croccanti 9.",
-      "Intanto i pomodorini saranno cotti: prelevatene circa 3/4 del totale, versateli in un bicchiere alto, unite acqua 10 e 2 cucchiai di olio extravergine d'oliva 11 e frullate 12 .",
-      "La consistenza finale deve essere una crema 13 , da passare poi al setaccio 14 . La coulis di datterini è pronta 15 .",
-      "Mettete a cuocere i pennoni 16 , da scolare 3 minuti prima del termine della cottura. Intanto in una padella ampia versate l'olio extravergine d'oliva, l'aglio scamiciato e le acciughe 17 . Fatele sciogliere mescolando, poi rimuovete l'aglio 18 .",
-      "Potete versare poi la coulis e mescolare, quindi scolare i pennoni 19 , aggiungere acqua di cottura al bisogno 20 e terminare così la cottura dei pennoni. Una volta pronti spegnete il fuoco, aromatizzate con la scorza grattugiata del limone 21 . Potete unire a filo anche poco olio.",
-      "Servite la pasta in un bel piatto da portata disponendo in ordine sparso i pomodorini datterino tenuti da parte 22 e la stracciatella di burrata 23 . Terminate sbriciolando i capperi fritti 24 !"
+      "Per i capperi: sciacquateli sotto acqua corrente per eliminare il sale in eccesso, tamponateli così da eliminare più acqua possibile. In un pentolino dai bordi alti scaldate l’olio di semi a 175°. Friggete i capperi per qualche minuto e scolate su carta assorbente, non appena risulteranno ben croccanti.",
+      "Intanto i pomodorini saranno cotti: prelevatene circa 3/4 del totale, versateli in un bicchiere alto, unite acqua e 2 cucchiai di olio extravergine d'oliva e frullate.",
+      "La consistenza finale deve essere una crema, da passare poi al setaccio. La coulis di datterini è pronta.",
+      "Mettete a cuocere i pennoni, da scolare 3 minuti prima del termine della cottura. Intanto in una padella ampia versate l'olio extravergine d'oliva, l'aglio scamiciato e le acciughe. Fatele sciogliere mescolando, poi rimuovete l'aglio.",
+      "Potete versare poi la coulis e mescolare, quindi scolare i pennoni, aggiungere acqua di cottura al bisogno e terminare così la cottura dei pennoni. Una volta pronti spegnete il fuoco, aromatizzate con la scorza grattugiata del limone. Potete unire a filo anche poco olio.",
+      "Servite la pasta in un bel piatto da portata disponendo in ordine sparso i pomodorini datterino tenuti da parte e la stracciatella di burrata. Terminate sbriciolando i capperi fritti!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:03:16.752774+00:00",
@@ -13111,29 +13142,29 @@
       ]
     ],
     "steps": [
-      "Iniziate a realizzare il brodo di prosciutto. Prendete le fette di prosciutto un po' spesse e posizionatele una sopra all'altra. Poi utilizzando un coltello affilato tagliatele a julienne. Proseguite così fino a terminare il prosciutto. Dovrete ottenere un taglio regolare che permetterà di ottenere una rosolatura uniforme che darà maggiore sapore al brodo. Tenete da parte il prosciutto e occupatevi degli scalogni. Per prima cosa pelateli (2-3),",
-      "poi tagliateli prima a metà 4 e poi a fette sottili regolari per il lato più lungo 5 . A questo punto scaldate una casseruola, aggiungete un filo d'olio che servirà a dare un po' di grassezza 6 .",
-      "Quando l'olio sarà ben caldo unite il prosciutto 7 e lasciatelo rosolare mescolando spesso 8 , fino a che assaggiandolo non risulterà ben croccante. Questa fase è molto importante perchè estrae il gusto del prosciutto e anche la sapidità, infatti al brodo non bisognerà aggiungere sale. Quando il prosciutto sarà ben arrostito unite anche gli scalogni 9",
-      "e mescolando sempre lasciateli brasare insieme. Quando avrete ottenuto una rosolatura uniforme 10 potrete aggiungere l'acqua fredda 11 . Alzate la fiamma e all'inizio optate per una bollitura a fiamma molto alta 12 che aiuta a sprigionare le impurità. Poi abbassate la fiamma e proseguite la cottura per altri 45 minuti. In questo caso la bollitura lenta serve ad ottenere un brodo più chiaro e più limpido.",
-      "Passato il tempo necessario 13 ponete una carta alimentare dalla trama sottile sopra ad un colino. In alternativa potete utilizzare una garza ad uso alimentare. Utilizzando un mestolo prelevate solo la parte liquida, tenendo da parte il prosciutto e lo scalogno che serviranno successivamente, e versatela all'interno del colino 14 per filtrarla. Non appena ottenuto tutto il brodo 15 riponetelo in frigorifero per le successive 24 ore e nel frattempo realizzate la polvere di prosciutto.",
-      "Trascorse le 24 ore riprendete il brodo. Potrete notare che la parte scura liquida sarà rimasta in basso, mentre il grasso sarà affiorato in superficie 16 . Utilizzando un mestolo eliminate quindi la parte grassa 17 , fino ad ottenere un brodo limpido, completamente sgrassato 18 .",
-      "Nel frattempo che il brodo raffreddi completamente in frigorifero occupatevi della polvere di prosciutto. Prendete quello che avevate tenuto da parte insieme allo scalogno e trasferitelo su una leccarda foderata con carta forno. Poi utilizzando un mestolo e un tarocco allargatelo (1-2) in modo da disporlo su tutta la teglia e non sovrapporre i vari pezzi. Questa fase è molto importante perchè più il prosciutto è ben distribuito più allargandosi si essiccherà in maniera uniforme. Cuocete in forno statico preriscaldato a 70° nel ripiano centrale. Trascorse le 24 ore estraete la teglia dal forno. Noterete subito che prosciutto e scalogno risulteranno ben essiccati.",
+      "Iniziate a realizzare il brodo di prosciutto. Prendete le fette di prosciutto un po' spesse e posizionatele una sopra all'altra. Poi utilizzando un coltello affilato tagliatele a julienne. Proseguite così fino a terminare il prosciutto. Dovrete ottenere un taglio regolare che permetterà di ottenere una rosolatura uniforme che darà maggiore sapore al brodo. Tenete da parte il prosciutto e occupatevi degli scalogni. Per prima cosa pelateli,",
+      "poi tagliateli prima a metà e poi a fette sottili regolari per il lato più lungo. A questo punto scaldate una casseruola, aggiungete un filo d'olio che servirà a dare un po' di grassezza.",
+      "Quando l'olio sarà ben caldo unite il prosciutto e lasciatelo rosolare mescolando spesso, fino a che assaggiandolo non risulterà ben croccante. Questa fase è molto importante perchè estrae il gusto del prosciutto e anche la sapidità, infatti al brodo non bisognerà aggiungere sale. Quando il prosciutto sarà ben arrostito unite anche gli scalogni",
+      "e mescolando sempre lasciateli brasare insieme. Quando avrete ottenuto una rosolatura uniforme 10 potrete aggiungere l'acqua fredda. Alzate la fiamma e all'inizio optate per una bollitura a fiamma molto alta che aiuta a sprigionare le impurità. Poi abbassate la fiamma e proseguite la cottura per altri 45 minuti. In questo caso la bollitura lenta serve ad ottenere un brodo più chiaro e più limpido.",
+      "Passato il tempo necessario 13 ponete una carta alimentare dalla trama sottile sopra ad un colino. In alternativa potete utilizzare una garza ad uso alimentare. Utilizzando un mestolo prelevate solo la parte liquida, tenendo da parte il prosciutto e lo scalogno che serviranno successivamente, e versatela all'interno del colino per filtrarla. Non appena ottenuto tutto il brodo 15 riponetelo in frigorifero per le successive 24 ore e nel frattempo realizzate la polvere di prosciutto.",
+      "Trascorse le 24 ore riprendete il brodo. Potrete notare che la parte scura liquida sarà rimasta in basso, mentre il grasso sarà affiorato in superficie. Utilizzando un mestolo eliminate quindi la parte grassa, fino ad ottenere un brodo limpido, completamente sgrassato.",
+      "Nel frattempo che il brodo raffreddi completamente in frigorifero occupatevi della polvere di prosciutto. Prendete quello che avevate tenuto da parte insieme allo scalogno e trasferitelo su una leccarda foderata con carta forno. Poi utilizzando un mestolo e un tarocco allargatelo in modo da disporlo su tutta la teglia e non sovrapporre i vari pezzi. Questa fase è molto importante perchè più il prosciutto è ben distribuito più allargandosi si essiccherà in maniera uniforme. Cuocete in forno statico preriscaldato a 70° nel ripiano centrale. Trascorse le 24 ore estraete la teglia dal forno. Noterete subito che prosciutto e scalogno risulteranno ben essiccati.",
       "Aspettate qualche istante, poi trasferiteli all'interno del contenitore di un mixer dotato di lame e frullate fino ad ottenere una polvere molto sottile. Trasferite in una ciotolina e tenete da parte.",
       "A questo punto occupatevi della cottura del rapanello. Come prima cosa versate in un pentolino piuttosto piccolo l'aceto, l'acqua e il sale. Portate ad ebollizione.",
       "Nel frattempo sciacquate il ravanello e tagliate la parte verde delle foglie. Non appena il liquido avrà raggiunto il bollore inserite il rapanello nell'acqua di cottura, in modo che sia completamente ricoperto, e lasciatelo cuocere per 20 minuti. Trascorso questo tempo lasciatelo raffreddare all'interno dell'acqua di cottura per altri 20 minuti.",
       "Trasferitelo poi su un tagliere e tagliatelo prima a metà e poi ancora a metà, in modo da ricavare 4 spicchi.",
-      "Prelevate solo le foglie del prezzemolo, fino ad ottenerne 150 grammi (1-2). Nel frattempo mettete sul fuoco un tegame colmo d'acqua leggermente salata e non appena inizierà a bollire immergete il prezzemolo 3 .",
-      "Aspettate 30 secondi quindi scolatelo 4 . Una volta cotto peserà 75 grammi. Poi lasciatelo intiepidire, strizzatelo 4 e sistematelo in un contenitore dai bordi alti  5 . Frullatelo con un mixer ad immersione 6",
-      "fino ad ottenere una crema liscia. Nel frattempo fondete il burro. Aggiungete l'olio di semi, l'acqua,",
+      "Prelevate solo le foglie del prezzemolo, fino ad ottenerne 150 grammi. Nel frattempo mettete sul fuoco un tegame colmo d'acqua leggermente salata e non appena inizierà a bollire immergete il prezzemolo.",
+      "Aspettate 30 secondi quindi scolatelo. Una volta cotto peserà 75 grammi. Poi lasciatelo intiepidire, strizzatelo e sistematelo in un contenitore dai bordi alti. Frullatelo con un mixer ad immersione",
+      "fino ad ottenere una crema liscia. Nel frattempo fondete il burro. Aggiungete l'olio di semi, l'acqua,",
       "l'amido di mais e il burro. Frullate di nuovo con il mixer ad immersione lentamente,",
-      "per circa 5-6 minuti fino ad ottenere una crema liscia e vellutata. A questo punto punto scaldate una padella da circa 28 cm sul fuoco e versate un mestolo del composto (14-15).",
-      "Lasciate cuocere, come se fosse una crespella, per circa 15 minuti a fiamma media, senza mai girarla. Dovrà sobbollire 16 fino a che l'acqua sarà completamente evaporata e il composto risulterà croccante 17 . Sollevate il disco dalla padella e lasciatelo sgocciolare 18 ,",
-      "poi trasferitelo su un tagliere 19 e utilizzando un coppapasta da 8 cm ricavate delle cialde più piccole (20-21). Ne otterrete circa 12.",
+      "per circa 5-6 minuti fino ad ottenere una crema liscia e vellutata. A questo punto punto scaldate una padella da circa 28 cm sul fuoco e versate un mestolo del composto.",
+      "Lasciate cuocere, come se fosse una crespella, per circa 15 minuti a fiamma media, senza mai girarla. Dovrà sobbollire fino a che l'acqua sarà completamente evaporata e il composto risulterà croccante. Sollevate il disco dalla padella e lasciatelo sgocciolare,",
+      "poi trasferitelo su un tagliere e utilizzando un coppapasta da 8 cm ricavate delle cialde più piccole. Ne otterrete circa 12.",
       "Quando tutto sarà pronto occupatevi del merluzzo. Dividete i tranci di merluzzo in 4 pezzi. Poi prendete una vaporiera, posizionate sotto dell'acqua calda e un pizzico di sale. Adagiate su il cestello e posizionate i 4 filetti di merluzzo. Coprite col coperchio",
-      "e lasciate cuocere il merluzzo per 6-7 minuti fino a che non sarà bianco e morbido. A questo punto posizionatelo sul tagliere e utilizzando un coltello ed uno stecchino sfogliatelo (5-6).",
-      "Non appena tutte le preparazioni saranno pronte non vi resta che assemblare il piatto. Scaldate leggermente il brodo 1 . Nel frattempo posizionate al centro di ogni piatto 1/4 del merluzzo ad effetto ventaglio (2-3).",
-      "Spolverizzate poi con la polvere di prosciutto facendo una linea al centro (4-5). Posizionate anche 1/4 di rapanello al centro 6",
-      "e la cialdina sopra al rapanello 7 . Terminate versando il brodo di prosciutto 8 e servite subito 9 ."
+      "e lasciate cuocere il merluzzo per 6-7 minuti fino a che non sarà bianco e morbido. A questo punto posizionatelo sul tagliere e utilizzando un coltello ed uno stecchino sfogliatelo.",
+      "Non appena tutte le preparazioni saranno pronte non vi resta che assemblare il piatto. Scaldate leggermente il brodo. Nel frattempo posizionate al centro di ogni piatto 1/4 del merluzzo ad effetto ventaglio.",
+      "Spolverizzate poi con la polvere di prosciutto facendo una linea al centro. Posizionate anche 1/4 di rapanello al centro",
+      "e la cialdina sopra al rapanello. Terminate versando il brodo di prosciutto e servite subito."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:08:50.934335+00:00",
@@ -13526,16 +13557,16 @@
       ]
     ],
     "steps": [
-      "Per iniziare dedicatevi alla pulizia del branzino: prima eliminate le squame raschiando la pelle con l'apposito attrezzo o il dorso di un coltello, procedendo dalla coda verso la testa 1 . Poi, con le forbici, rimuovete le pinne laterali e dorsali 2 3 , quindi incidete l’addome per estrarre le interiora.",
-      "Tagliate via la testa 4 e aprite il pesce a libro 5 facendo scorrere il coltello lungo la lisca centrale, quindi staccate delicatamente la spina dorsale e le lische principali 6 .",
-      "Rifilate il filetto eliminando la parte più sottile e grassa della pancia 7 per ottenere una superficie omogenea. A questo punto condite il branzino aperto con un filo d’olio 9 e sale. Tenetelo da parte mentre preparate la salsa. Tritate il prezzemolo 9 .",
-      "Sbucciate e tritate anche lo spicchio d'aglio 10 . In un bicchiere dosatore versate l’olio extravergine d’oliva, l’aceto di vino bianco 11 e il succo di limone 12 .",
-      "Unite l’aglio tritato 13 , il prezzemolo finemente tritato 14 e l’origano secco 15 .",
-      "Aggiungete il sale 16 e frullate tutto con un mixer a immersione 17 fino a ottenere una salsa verde cremosa e omogenea 18 .",
-      "Passate quindi alle zucchine: tagliatele a rondelle sottili 19 e scaldate una padella con olio e uno spicchio d’aglio. Quando l’aglio sarà dorato, aggiungete le zucchine 20 e saltatele a fiamma vivace per 5-7 minuti, per farle dorare bene. Insaporitele con sale e pepe macinato al momento 21 .",
-      "Completate con foglie di menta tritata a fuoco spento 22 . Scaldate ora una padella con un filo d’olio e adagiate il branzino con la pelle rivolta verso il basso 23 . Premete leggermente con una spatola 24 per far aderire bene la pelle. Cuocete per 8-10 minuti, in base alla grandezza del pesce.",
-      "Lasciate cuocere fino a ottenere una croccante doratura, poi girate il branzino, spegnete il fuoco e lasciatelo cuocere ancora 5 minuti 25 , così da garantire una cottura delicata. Componete il piatto: disponete le zucchine al salto sul fondo del piatto da portata 26 e adagiate sopra il branzino ben dorato 27 .",
-      "Spennellate generosamente la superficie del pesce con la salsa 28 , ricoprendolo in modo uniforme 29 , guarnite con foglioline di timo. Il branzino in padella con zucchine al salto è pronto per essere servito  30 ."
+      "Per iniziare dedicatevi alla pulizia del branzino: prima eliminate le squame raschiando la pelle con l'apposito attrezzo o il dorso di un coltello, procedendo dalla coda verso la testa. Poi, con le forbici, rimuovete le pinne laterali e dorsali, quindi incidete l’addome per estrarre le interiora.",
+      "Tagliate via la testa e aprite il pesce a libro facendo scorrere il coltello lungo la lisca centrale, quindi staccate delicatamente la spina dorsale e le lische principali.",
+      "Rifilate il filetto eliminando la parte più sottile e grassa della pancia per ottenere una superficie omogenea. A questo punto condite il branzino aperto con un filo d’olio e sale. Tenetelo da parte mentre preparate la salsa. Tritate il prezzemolo.",
+      "Sbucciate e tritate anche lo spicchio d'aglio. In un bicchiere dosatore versate l’olio extravergine d’oliva, l’aceto di vino bianco e il succo di limone.",
+      "Unite l’aglio tritato, il prezzemolo finemente tritato e l’origano secco.",
+      "Aggiungete il sale e frullate tutto con un mixer a immersione fino a ottenere una salsa verde cremosa e omogenea.",
+      "Passate quindi alle zucchine: tagliatele a rondelle sottili e scaldate una padella con olio e uno spicchio d’aglio. Quando l’aglio sarà dorato, aggiungete le zucchine e saltatele a fiamma vivace per 5-7 minuti, per farle dorare bene. Insaporitele con sale e pepe macinato al momento.",
+      "Completate con foglie di menta tritata a fuoco spento. Scaldate ora una padella con un filo d’olio e adagiate il branzino con la pelle rivolta verso il basso. Premete leggermente con una spatola per far aderire bene la pelle. Cuocete per 8-10 minuti, in base alla grandezza del pesce.",
+      "Lasciate cuocere fino a ottenere una croccante doratura, poi girate il branzino, spegnete il fuoco e lasciatelo cuocere ancora 5 minuti, così da garantire una cottura delicata. Componete il piatto: disponete le zucchine al salto sul fondo del piatto da portata e adagiate sopra il branzino ben dorato.",
+      "Spennellate generosamente la superficie del pesce con la salsa, ricoprendolo in modo uniforme, guarnite con foglioline di timo. Il branzino in padella con zucchine al salto è pronto per essere servito."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:09:02.837579+00:00",
@@ -13740,11 +13771,11 @@
       ]
     ],
     "steps": [
-      "Per preparare l'insalata d'orzo con pomodorini, mais e olive come prima cosa ponete sul fuoco una pentola colma d'acqua salata e portatela a bollore. Non appena inizierà a bollire versate l'orzo all'interno e cuocetelo per 40 minuti. Nel frattempo tritate grossolanamente le olive taggiasche denocciolate e tagliate in 4 i pomodorini, ben lavati.",
+      "Per preparare l'insalata d'orzo con pomodorini, mais e olive come prima cosa ponete sul fuoco una pentola colma d'acqua salata e portatela a bollore. Non appena inizierà a bollire versate l'orzo all'interno e cuocetelo per 40 minuti. Nel frattempo tritate grossolanamente le olive taggiasche denocciolate e tagliate in 4 i pomodorini, ben lavati.",
       "In una ciotola ampia versate quindi olive e pomodorini, aggiungete i ceci precotti ed il mais.",
-      "Non appena l'orzo sarà cotto scolatelo e raffreddatelo sotto l'acqua corrente. Unitelo nella ciotola con gli altri ingredienti. Tritate poi grossolanamente la rucola 8 e il basilico 9 .",
-      "Unite anche questi 10 . Condie con olio extravergine 11 e abbondante pepe nero 12 .",
-      "Mescolate bene 13 . A questo punto 14 conservata l'insalata di orzo in frigo per almeno due ore prima di servirla 15 ."
+      "Non appena l'orzo sarà cotto scolatelo e raffreddatelo sotto l'acqua corrente. Unitelo nella ciotola con gli altri ingredienti. Tritate poi grossolanamente la rucola e il basilico.",
+      "Unite anche questi. Condie con olio extravergine e abbondante pepe nero.",
+      "Mescolate bene. A questo punto 14 conservata l'insalata di orzo in frigo per almeno due ore prima di servirla."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:09:05.519519+00:00",
@@ -13896,8 +13927,8 @@
       "Aggiungete un mestolino di acqua di cottura della pasta, salate e frullate con il mixer a immersione.",
       "Dovete ottenere una crema liscia, regolando eventualmente la consistenza con altra acqua. Trasferite la crema nella padella con le restanti zucchine a cubetti. In una padella a parte tostate il pangrattato con l'olio per 2 -3 minuti.",
       "Profumate con la scorza di limone e tenete da parte il pangrattato. Ora cuocete i fusilloni per il tempo indicato sulla confezione.",
-      "Scolate la pasta direttamente nella padella con la crema di zucchine e mantecate per un minuto, aggiungendo poca acqua di cottura se necessario 21.",
-      "Servite la pasta con crema di zucchine, acciughe e pangrattato 22 completando con il condimento 23 e il pangrattato croccante al limone 24 ."
+      "Scolate la pasta direttamente nella padella con la crema di zucchine e mantecate per un minuto, aggiungendo poca acqua di cottura se necessario.",
+      "Servite la pasta con crema di zucchine, acciughe e pangrattato completando con il condimento e il pangrattato croccante al limone."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:09:11.428127+00:00",
@@ -14070,7 +14101,7 @@
       "Procuratevi una teglia adatta alla friggitrice ad aria (della capacità di 6 L) e adagiatevi 2 filetti conditi alla volta, oppure di più, in base alla capienza del vostro cestello. Schiacciate uno spicchio d'aglio e aggiungetelo in teglia.",
       "Tagliate i pomodorini datterini e conditeli in una ciotola con olio extravergine di oliva, sale e zucchero muscovado. Date una mescolata per far amalgamare bene gli ingredienti.",
       "Aggiungete 1/4 dei pomodori in teglia, cercando di non sovrapporli ai filetti. Ora impostate la temperatura della friggitrice ad aria a 170 gradi e inserite il cestello.",
-      "Cuocete per 7 minuti, o comunque fino a che il branzino sarà cotto e i pomodorini succosi 19. Poco prima di servire insaporite con il pepe nero. Il branzino in friggitrice ad aria è pronto per essere servito."
+      "Cuocete per 7 minuti, o comunque fino a che il branzino sarà cotto e i pomodorini succosi. Poco prima di servire insaporite con il pepe nero. Il branzino in friggitrice ad aria è pronto per essere servito."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:09:14.157498+00:00",
@@ -14242,14 +14273,14 @@
       ]
     ],
     "steps": [
-      "Per preparare la pasta con crema di zucca, speck e cavolo nero come prima cosa pulite la zucca privandola dei semi e della buccia. Tagliatela prima a fette e poi a pezzi grossolani, grandi un paio di cm 2 , dovrete ottenerne circa 400 g. Versate un giro d’olio in padella, unite l’aglio e i rametti di timo 3 .",
-      "Aggiungete la zucca e fatela rosolare a fiamma alta per qualche minuto. Poi aggiungete sale 4 , pepe e 2 mestoli d’acqua 5 . Abbassate la fiamma e coprite con un coperchio 6 .",
-      "Continuate la cottura per circa 15 min, fino a che la zucca non sarà morbida. A questo punto togliete l’aglio e il timo 7 . Trasferite la zucca in un contenitore alto e stretto 8 e aggiungete 100 gr di acqua calda 9 .",
-      "Frullate con un minipimer, fino ad ottenere una crema liscia 10 e tenetela da parte. Nel frattempo tagliate lo speck a fettine di circa 5mm e successivamente in striscioline sempre da 5mm 11 . Rosolatelo a fiamma alta nella stessa padella in cui avete cotto la zucca, aggiungendo se necessario un filo d’olio 12 .",
-      "Cuocete sino a che non sarà ben rosolato, poi spegnete il fuoco 13 . Sbollentate per 3 minuti le foglie di cavolo nero in acqua bollente e salata 13 , poi scolatelo utilizzando delle pinze 15 . Non gettate l'acqua servirà per la cottura della pasta.",
-      "Mentre l'acqua torna a bollore tagliate il cavolo nero in pezzi 16 . Buttate ora la pasta 17 e cuocetela al dente. Trasferite lo speck in una ciotolina 18 .",
-      "Non appena la pasta sarà pronta scolatela con delle pinze e trasferitela direttamente nel tegame dove avete cotto lo speck 19 . Aggiungete un paio di mestoli di acqua di cottura 20 e unite anche la crema alla zucca. Mescolate bene.",
-      "Aggiungete il cavolo nero 22 e un filo d'olio 23 . Terminate la cottura della pasta aggiungendo altra acqua se necessario. Quando sarà pronta impiattate, ultimate con lo speck croccante 24 e se vi piace con una macinata di pepe. Il piatto è pronto per essere servito ben caldo."
+      "Per preparare la pasta con crema di zucca, speck e cavolo nero come prima cosa pulite la zucca privandola dei semi e della buccia. Tagliatela prima a fette e poi a pezzi grossolani, grandi un paio di cm, dovrete ottenerne circa 400 g. Versate un giro d’olio in padella, unite l’aglio e i rametti di timo.",
+      "Aggiungete la zucca e fatela rosolare a fiamma alta per qualche minuto. Poi aggiungete sale, pepe e 2 mestoli d’acqua. Abbassate la fiamma e coprite con un coperchio.",
+      "Continuate la cottura per circa 15 min, fino a che la zucca non sarà morbida. A questo punto togliete l’aglio e il timo. Trasferite la zucca in un contenitore alto e stretto e aggiungete 100 gr di acqua calda.",
+      "Frullate con un minipimer, fino ad ottenere una crema liscia e tenetela da parte. Nel frattempo tagliate lo speck a fettine di circa 5mm e successivamente in striscioline sempre da 5mm. Rosolatelo a fiamma alta nella stessa padella in cui avete cotto la zucca, aggiungendo se necessario un filo d’olio.",
+      "Cuocete sino a che non sarà ben rosolato, poi spegnete il fuoco. Sbollentate per 3 minuti le foglie di cavolo nero in acqua bollente e salata, poi scolatelo utilizzando delle pinze. Non gettate l'acqua servirà per la cottura della pasta.",
+      "Mentre l'acqua torna a bollore tagliate il cavolo nero in pezzi. Buttate ora la pasta e cuocetela al dente. Trasferite lo speck in una ciotolina.",
+      "Non appena la pasta sarà pronta scolatela con delle pinze e trasferitela direttamente nel tegame dove avete cotto lo speck. Aggiungete un paio di mestoli di acqua di cottura e unite anche la crema alla zucca. Mescolate bene.",
+      "Aggiungete il cavolo nero e un filo d'olio. Terminate la cottura della pasta aggiungendo altra acqua se necessario. Quando sarà pronta impiattate, ultimate con lo speck croccante e se vi piace con una macinata di pepe. Il piatto è pronto per essere servito ben caldo."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:09:22.142014+00:00",
@@ -14435,7 +14466,7 @@
     ],
     "steps": [
       "Per preparare la pasta con crema di zucca e taleggio, iniziate dal cavolo nero: separate le foglie dai gambi, poi disponetele in una teglia foderata con carta forno, distanziandole leggermente fra loro. Cuocete in forno preriscaldato ventilato a 170° per 20 minuti. Nel frattempo occupatevi della zucca: pulitela dai semi e dai filamenti interni.",
-      "Tagliatela in parti 4, poi mettetela in una ciotola e coprite con pellicola. Cuocete in microonde per 5 minuti alla massima temperatura. Una volta cotta, prelevate la polpa con un cucchiaio.",
+      "Tagliatela in parti, poi mettetela in una ciotola e coprite con pellicola. Cuocete in microonde per 5 minuti alla massima temperatura. Una volta cotta, prelevate la polpa con un cucchiaio.",
       "Trasferite la polpa in un boccale, poi aggiungete l’acqua e il sale. Frullate con un mixer a immersione per ottenere una crema liscia e omogenea e tenete da parte.",
       "A questo punto il cavolo nero sarà cotto, le foglie dovranno risultare secche e asciutte. Inseritele in un macinaspezie e frullate per ottenere una polvere.",
       "Passate al porro: mondate il porro e affettatelo finemente. Scaldate l’olio di semi fino alla temperatura di 180° e friggete le rondelle di porro per un minuto circa, fino a doratura. Scolate e trasferite su carta assorbente o per fritti.",
@@ -14792,14 +14823,14 @@
       ]
     ],
     "steps": [
-      "Per preparare la pasta con crema di zucca e polpo, per prima cosa mettete a bollire una pentola d’acqua e immergete il polpo (già pulito) tenendolo per la testa, lasciandolo scivolare delicatamente nella pentola. Cuocete per circa 50 minuti finché non risulterà tenero. Nel frattempo pulite la zucca:  dividetela a metà ed eliminate i filamenti interni e la buccia; otterrete circa 400 g di polpa. Tagliate la polpa prima a fette e poi a cubetti piccoli, irregolari, così cuocerà più velocemente.",
+      "Per preparare la pasta con crema di zucca e polpo, per prima cosa mettete a bollire una pentola d’acqua e immergete il polpo (già pulito) tenendolo per la testa, lasciandolo scivolare delicatamente nella pentola. Cuocete per circa 50 minuti finché non risulterà tenero. Nel frattempo pulite la zucca: dividetela a metà ed eliminate i filamenti interni e la buccia; otterrete circa 400 g di polpa. Tagliate la polpa prima a fette e poi a cubetti piccoli, irregolari, così cuocerà più velocemente.",
       "In una padella versate un filo d’olio con uno spicchio d’aglio e qualche rametto di timo, lasciate insaporire e aggiungete la zucca. A questo punto salate e pepate.",
       "Mescolate e versate un po’ d’acqua calda per favorire la cottura. Dopo una decina di minuti, quando la polpa è morbida, rimuovete aglio e timo e trasferite la zucca in una ciotola. Frullatela con un mixer a immersione.",
       "Dovrete ottenere una crema liscia e omogenea. Nel frattempo il polpo sarà cotto, quindi ponetelo in una ciotola a intiepidire.",
       "Trasferite il polpo sul tagliere e dividete i tentacoli dal corpo. Tagliate tutte le parti a pezzetti di circa 2 cm, ottenendo bocconcini regolari. In una padella versate un filo d’olio con aglio e timo.",
       "Quando sono caldi, aggiungete i pezzi di polpo, salate e lasciate rosolare finché non risultano ben dorati. Una volta pronti, trasferiteli in un contenitore e teneteli da parte. Mettete sul fuoco una pentola colma di acqua salata e portate a bollore.",
-      "Cuocete qui gli spaghetti al dente. Ora riportate la crema di zucca nella padella dove avete rosolato il polpo e stemperate con un mestolo di acqua di cottura della pasta 21.",
-      "Scolate la pasta al dente nella padella con la crema di zucca e aggiungete un altro mestolo di acqua di cottura 22 . Mantecate finché la crema non diventa avvolgente e la pasta perfettamente legata 23 . Impiattate creando un nido di pasta e completate con il polpo croccante e qualche fogliolina di timo fresco. La vostra pasta con crema di zucca e polpo è pronta per essere servita 24 !"
+      "Cuocete qui gli spaghetti al dente. Ora riportate la crema di zucca nella padella dove avete rosolato il polpo e stemperate con un mestolo di acqua di cottura della pasta.",
+      "Scolate la pasta al dente nella padella con la crema di zucca e aggiungete un altro mestolo di acqua di cottura. Mantecate finché la crema non diventa avvolgente e la pasta perfettamente legata. Impiattate creando un nido di pasta e completate con il polpo croccante e qualche fogliolina di timo fresco. La vostra pasta con crema di zucca e polpo è pronta per essere servita!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:09:43.850786+00:00",
@@ -15115,7 +15146,7 @@
       "Cipolle rosse 1",
       "Parmigiano Reggiano DOP (da grattugiare) 70 g",
       "Prezzemolo q.b.",
-      "Acqua &frac12; bicchiere",
+      "Acqua ½ bicchiere",
       "Sale fino q.b.",
       "Olio extravergine d'oliva q.b."
     ],
@@ -15177,8 +15208,8 @@
     ],
     "steps": [
       "Per preparare la pasta con crema di zucca e guanciale per prima cosa mondate e affettate la cipolla. Pulite circa 500 g di zucca, ricavando 430 g di polpa da tagliare a dadini.",
-      "In una padella scaldate l’olio extra vergine d’oliva insieme alla cipolla, lasciate stufare, e quando la cipolla sarà morbida unite la zucca, lasciate insaporire a fuoco medio, poi salate e versate l'acqua.",
-      "Coprite con il coperchio e cuocete per circa 10 minuti a fuoco medio, mescolando di tanto in tanto. Quando la zucca sarà morbida, tarsferitene una parte in un boccale.",
+      "In una padella scaldate l’olio extra vergine d’oliva insieme alla cipolla, lasciate stufare, e quando la cipolla sarà morbida unite la zucca, lasciate insaporire a fuoco medio, poi salate e versate l'acqua.",
+      "Coprite con il coperchio e cuocete per circa 10 minuti a fuoco medio, mescolando di tanto in tanto. Quando la zucca sarà morbida, tarsferitene una parte in un boccale.",
       "Frullate con il mixer a immersione, così da ottenere una crema. Versate la crema ottenuta in padella e tenete da parte.",
       "Cuocete la pasta in acqua bollente salata. Tagliate a listarelle il guanciale, quindi fatelo dorare in padella leggermente scaldata, senza aggiunta di grassi: dovrà diventare croccante.",
       "Stemperate la crema con l'acqua di cottura della pasta, scolate qui le penne cotte e aggiungete il guanciale croccante.",
@@ -15378,9 +15409,9 @@
       "Prendete ora il peperone e tagliatelo a metà, privatelo di eventuali semi e filamenti. Ricavate dei bastoncini larghi un cm. Passate al sedano, utilizzando un pelapatate ricavate delle fettine sottili da una delle due coste.",
       "Tagliatele a metà e tenetele da parte. Prendete un'altra costa e tagliatela a losanghe, lunghe 3-4 cm. Pulite i piselli freschi, rimuovendoli dai bacelli.",
       "Trasferite il branzino su una teglia unta e condite l'interno con un pizzico di sale. Disponete sul fondo del branzino i bastoncini di peperone e le listarelle di sedano, alternandoli. Aggiungete anche le losanghe di sedano.",
-      "Posizionate all'interno anche i piselli. Aggiungete ancora un pizzico di sale e un filo d'olio. Cuocete nel forno con funzione vapore 100% a 100° per circa 15 minuti. Mentre il pesce cuoce preparate l’olio alle erbe. Nel bicchiere di un mixer mettete le erbe sfogliate 21.",
-      "Aggiungete l'olio 22 e frullate con un mixer ad immersione 23 , fino ad ottenere l'olio aromatizzato 24 .",
-      "Quando il pesce sarà cotto trasferitelo in un piatto 25 , conditelo con l'olio appena preparato 26 e servitelo 27 ."
+      "Posizionate all'interno anche i piselli. Aggiungete ancora un pizzico di sale e un filo d'olio. Cuocete nel forno con funzione vapore 100% a 100° per circa 15 minuti. Mentre il pesce cuoce preparate l’olio alle erbe. Nel bicchiere di un mixer mettete le erbe sfogliate.",
+      "Aggiungete l'olio e frullate con un mixer ad immersione, fino ad ottenere l'olio aromatizzato.",
+      "Quando il pesce sarà cotto trasferitelo in un piatto, conditelo con l'olio appena preparato e servitelo."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:33:38.418620+00:00",
@@ -15924,10 +15955,10 @@
       "Per preparare la pasta con crema di spinaci e guanciale croccante, come prima cosa fate insaporire lo spicchio d'aglio insieme all'olio in una padella capiente. Aggiungete poi gli spinaci e coprite con un coperchio. Cuocete per circa 5 minuti, poi salate.",
       "Proseguite la cottura ancora per qualche minuto senza coperchio per far evaporare bene il liquido, poi lasciate intiepidire. Trasferite quindi gli spinaci nel bicchiere di un mixer e unite il Parmigiano Reggiano grattugiato.",
       "Frullate con un mixer a immersione fino ad ottenere una crema liscia e omogenea. Tenete da parte. Mettete sul fuoco una pentola colma d'acqua per la cottura della pasta e salatela; non appena raggiungerà il bollore tuffate gli spaghetti.",
-      "Intanto che la pasta cuoce occupatevi del guanciale: tagliatelo a listarelle, poi versatelo in una padella calda 11 . Cuocete a fiamma media senza aggiungere grassi 11 . Quando risulterà ben dorato, scolatelo 12 .",
-      "Trasferite il guanciale su un vassoio con carta da cucina 13 . Versate la crema di spinaci nella stessa padella che avete utilizzato per la cottura degli spinaci 14 . Aggiungete un mestolino d'acqua di cottura della pasta e mescolate per diluirla 15 .",
-      "Scolate la pasta al dente e trasferitela direttamente nel condimento 16 . Se necessario aggiungete ancora un mestolino d'acqua 17 e saltate bene il tutto 18 .",
-      "Impiattate 19 condendo con abbondante crema di spinaci 20 , poi completate con le listarelle di guanciale. La vostra pasta con crema di spinaci e guanciale croccante è pronta per essere servita 21 !"
+      "Intanto che la pasta cuoce occupatevi del guanciale: tagliatelo a listarelle, poi versatelo in una padella calda. Cuocete a fiamma media senza aggiungere grassi. Quando risulterà ben dorato, scolatelo.",
+      "Trasferite il guanciale su un vassoio con carta da cucina. Versate la crema di spinaci nella stessa padella che avete utilizzato per la cottura degli spinaci. Aggiungete un mestolino d'acqua di cottura della pasta e mescolate per diluirla.",
+      "Scolate la pasta al dente e trasferitela direttamente nel condimento. Se necessario aggiungete ancora un mestolino d'acqua e saltate bene il tutto.",
+      "Impiattate condendo con abbondante crema di spinaci, poi completate con le listarelle di guanciale. La vostra pasta con crema di spinaci e guanciale croccante è pronta per essere servita!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:33:57.830127+00:00",
@@ -16098,7 +16129,7 @@
       "Ripetete l’operazione per entrambi i branzini che disporrete sul piano di lavoro. A questo punto preparate l'arancia: sbucciatela avendo cura di eliminare anche la parte bianca più amarognola, poi affettate la polpa in modo tale da eliminare anche la sottile pellicina che racchiude gli spicchi. Tenetela da parte. Salate l’interno del pesce e pepate.",
       "Cospargete la carne dei branzini con le foglioline di maggiorana e timo, accuratamente lavate e asciugate. Mondate l’aglio e dividetelo a metà: ponete le metà di spicchi nell'uno e nell'altro pesce, assieme agli spicchi di arancia.",
       "Dividete tra i due filetti anche i chicci di melagrana, sempre all'interno del pesce: il branzino è ora pronto per essere cucinato. Adagiate il branzino su un foglio di carta da forno e chiudetelo all’interno, arrotolandone le estremità per fissare la carta forno.",
-      "Adagiate il pesce su un foglio di carta di alluminio e richiudete nuovamente il branzino dentro di essa, sigillando nuovamente bene le estremità per evitare che si aprano in cottura: infornate in forno statico preriscaldato a 200°C per 25 minuti (se non disponete di un forno statico optate per una cottura in forno ventilato preriscaldato a 180°C per 15 minuti). Il vostro branzino al cartoccio con agrumi e melagrana è ora pronto per essere portato in tavola e gustato 18!"
+      "Adagiate il pesce su un foglio di carta di alluminio e richiudete nuovamente il branzino dentro di essa, sigillando nuovamente bene le estremità per evitare che si aprano in cottura: infornate in forno statico preriscaldato a 200°C per 25 minuti (se non disponete di un forno statico optate per una cottura in forno ventilato preriscaldato a 180°C per 15 minuti). Il vostro branzino al cartoccio con agrumi e melagrana è ora pronto per essere portato in tavola e gustato!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:34:00.498127+00:00",
@@ -16257,12 +16288,12 @@
       ]
     ],
     "steps": [
-      "Per preparare l'hamburger vegetariano autunnale per prima cosa lessate le patate partendo da acqua fredda per circa 30 minuti dal bollore, o finché saranno abbastanza morbide da poterle infilzare facilmente con una forchetta. Nel frattempo tritate l'aglio 1, poi passate alla pulizia dei funghi: rimuovete la base e strofinate delicatamente con della carta assorbente inumidita.",
+      "Per preparare l'hamburger vegetariano autunnale per prima cosa lessate le patate partendo da acqua fredda per circa 30 minuti dal bollore, o finché saranno abbastanza morbide da poterle infilzare facilmente con una forchetta. Nel frattempo tritate l'aglio, poi passate alla pulizia dei funghi: rimuovete la base e strofinate delicatamente con della carta assorbente inumidita.",
       "Affettate sottilmente gli champignon e spostatevi ai fornelli. In una padella scaldate un filo d'olio con l'aglio, poi aggiungete funghi e un pizzico di sale. Aromatizzate con il prezzemolo tritato e saltate i funghi per circa 5 minuti. Una volta cotti, tritate i funghi al coltello.",
-      "A questo punto le patate saranno cotte: pelatele 7 e schiacciatele in una ciotola 8 . Unite i funghi tritati al coltello 9 .",
-      "Aggiungete anche il formaggio grattugiato 10 , le uova 11 e del prezzemolo tritato 12 .",
-      "In ultimo versate il pangrattato e regolate di sale e di pepe 13 . Impastate bene per amalgamare il tutto 14 e dividete l'impasto in 4 porzioni 15 . Schiacciatele fra i palmi delle mani per formare i burger.",
-      "Trasferite i burger in una teglia foderata con carta forno leggermente unta di olio 16 , poi condite anche la superficie e cuocete in forno statico preriscaldato a 200° per circa 20 minuti 17 . I vostri hamburger vegetariani autunnali sono pronti per essere gustati 18 !"
+      "A questo punto le patate saranno cotte: pelatele e schiacciatele in una ciotola. Unite i funghi tritati al coltello.",
+      "Aggiungete anche il formaggio grattugiato, le uova e del prezzemolo tritato.",
+      "In ultimo versate il pangrattato e regolate di sale e di pepe. Impastate bene per amalgamare il tutto e dividete l'impasto in 4 porzioni. Schiacciatele fra i palmi delle mani per formare i burger.",
+      "Trasferite i burger in una teglia foderata con carta forno leggermente unta di olio, poi condite anche la superficie e cuocete in forno statico preriscaldato a 200° per circa 20 minuti. I vostri hamburger vegetariani autunnali sono pronti per essere gustati!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:34:03.134044+00:00",
@@ -16404,10 +16435,10 @@
     "steps": [
       "Per preparare la pasta con crema di scarola e nduja, come prima cosa lavate bene la scarola sotto l’acqua corrente, eliminate la parte finale del cespo e tagliatela grossolanamente. In una padella capiente versate l’olio insieme all’aglio e lasciate insaporire per qualche istante a fuoco medio. Aggiungete quindi la scarola, salate, pepate e cuocete a fuoco medio-alto per circa 10 minuti, mescolando di tanto in tanto, fino a quando risulterà ben appassita.",
       "Nel frattempo portate a bollore abbondante acqua salata in una pentola. Eliminate l'aglio e trasferite la scarola cotta nel bicchiere di un mixer; frullate il tutto insieme al basilico, poi unite 100 g di Parmigiano Reggiano DOP 36 mesi e frullate nuovamente sino ad ottenere una crema liscia e omogenea.",
-      "Versate la crema ottenuta nella stessa padella utilizzata per la scarola e tenetela da parte. Cuocete i fusilli nell'acqua che avrà raggiunto il bollore 8 e intanto occupatevi della nduja. Tagliatela prima a fette 9 .",
-      "Eliminate poi il budello 10 e tagliatela in ultimo a cubetti 11 . Realizzate le scaglie di Parmigiano Reggiano DOP 36 mesi con un pelapatate 12 , ve ne serviranno circa 40 g.",
-      "Scaldate la crema di scarola. Scolate la pasta al dente direttamente nel condimento 13 e mantecate per qualche minuto a fuoco medio, aggiungendo se necessario poca acqua di cottura e un filo d’olio 14 , fino a ottenere una consistenza cremosa 15 .",
-      "Distribuite la pasta nei piatti e completate con la nduja tagliata a cubetti 16 e il Parmigiano Reggiano DOP 36 mesi in scaglie 17 . Servite subito ben calda 18 ."
+      "Versate la crema ottenuta nella stessa padella utilizzata per la scarola e tenetela da parte. Cuocete i fusilli nell'acqua che avrà raggiunto il bollore e intanto occupatevi della nduja. Tagliatela prima a fette.",
+      "Eliminate poi il budello e tagliatela in ultimo a cubetti. Realizzate le scaglie di Parmigiano Reggiano DOP 36 mesi con un pelapatate, ve ne serviranno circa 40 g.",
+      "Scaldate la crema di scarola. Scolate la pasta al dente direttamente nel condimento e mantecate per qualche minuto a fuoco medio, aggiungendo se necessario poca acqua di cottura e un filo d’olio, fino a ottenere una consistenza cremosa.",
+      "Distribuite la pasta nei piatti e completate con la nduja tagliata a cubetti e il Parmigiano Reggiano DOP 36 mesi in scaglie. Servite subito ben calda."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:34:10.637064+00:00",
@@ -16556,7 +16587,7 @@
     "steps": [
       "Per realizzare gli hamburger in friggitrice ad aria unite la carne trita di manzo e di maiale in una ciotola, poi aggiungete il sale, il pepe e il Grana Padano DOP grattugiato.",
       "Unite anche il timo e mescolate con le mani per ottenere un impasto omogeneo. Posizionate un coppapasta del diametro di 9 cm su un foglio di carta forno e riempitelo con 120 g di impasto.",
-      "Compattate la carne con il dorso di un cucchiaio o con un batticarne, a seconda della consistenza che preferite. Sfilate delicatamente il coppapasta e procedete nello stesso modo per formare anche gli altri 3 hamburger. A questo punto tagliate la carta forno in quadrati per separare gli hamburger e maneggiarli più facilmente.",
+      "Compattate la carne con il dorso di un cucchiaio o con un batticarne, a seconda della consistenza che preferite. Sfilate delicatamente il coppapasta e procedete nello stesso modo per formare anche gli altri 3 hamburger. A questo punto tagliate la carta forno in quadrati per separare gli hamburger e maneggiarli più facilmente.",
       "Adagiate gli hamburger in una friggitrice ad aria aiutandovi con la carta forno (noi abbiamo utilizzato una friggitrice con una capacità di 6 litri), poi rimuovetela. Cuocete 2 hamburger per volta a 200° per 10 minuti, girandoli a metà cottura. I vostri hamburger in friggitrice ad aria sono pronti per essere gustati come preferite!"
     ],
     "needs_review": false,
@@ -16733,7 +16764,7 @@
       "Trasferitelo in un mixer, aggiungete l’olio e frullate fino ad ottenere una salsa non troppo densa. Per regolarvi con i dosaggi tenete conto che la dose di olio deve corrispondere al doppio della dose del liquido ristretto.",
       "Una volta freddo tagliate il polpo a pezzetti, passateli nella farina di riso e friggeteli nell'olio di arachide, a 180°C, per qualche minuto, dovranno diventare croccanti. Scolateli su della carta assorbente in modo da eliminare l’olio in eccesso.",
       "Adesso impiattate: sul fondo del piatto mettete la crema di zucchine, continuate con il polpo fritto e i pomodorini.",
-      "Completate on un cucchiaio di salsa e qualche foglia di basilico. Il polpo fritto gourmet è pronto per essere gustato."
+      "Completate on un cucchiaio di salsa e qualche foglia di basilico. Il polpo fritto gourmet è pronto per essere gustato."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:34:18.639106+00:00",
@@ -17120,18 +17151,18 @@
       ]
     ],
     "steps": [
-      "Per preparare il branzino agli agrumi con patate novelle al rosmarino e zucchine prezzemolate iniziate dalla pulizia del branzino. Prendete il branzino e desquamatelo: per questa operazione aiutatevi con l’apposito attrezzo strofinando più volte sul corpo del pesce passando dalla coda alla testa fino a che non sarà completamente squamato, in alternativa utilizzate la lama di un coltello. Potete effettuare questa operazione nel lavello oppure all'interno di un sacchetto di plastica per non spargere le squame sul piano da lavoro. Riponete quindi il branzino su un tagliere e, aiutandovi con delle forbici, praticate un taglio partendo dalla coda lungo tutto il ventre del branzino. Estraete le interiora.",
+      "Per preparare il branzino agli agrumi con patate novelle al rosmarino e zucchine prezzemolate iniziate dalla pulizia del branzino. Prendete il branzino e desquamatelo: per questa operazione aiutatevi con l’apposito attrezzo strofinando più volte sul corpo del pesce passando dalla coda alla testa fino a che non sarà completamente squamato, in alternativa utilizzate la lama di un coltello. Potete effettuare questa operazione nel lavello oppure all'interno di un sacchetto di plastica per non spargere le squame sul piano da lavoro. Riponete quindi il branzino su un tagliere e, aiutandovi con delle forbici, praticate un taglio partendo dalla coda lungo tutto il ventre del branzino. Estraete le interiora.",
       "Quindi sciacquate il pesce sotto l' acqua corrente ed utilizzando un coltello dalla lama affilata incidete il dorso del pesce praticando un taglio profondo dalla testa fino alla coda.Ora tagliate via il primo filetto e tenetelo da parte.",
-      "Ora tagliate via il primo filetto e tenetelo da parte. Tagliate via anche la testa del branzino inclinando diagonalmente la lama del coltello in corrispondenza delle branchie 7. Ricavate l'altro filetto tagliando dall'altezza della testa fino alla coda, quindi tagliate via la lisca centrale e quelle laterali. Aiutandovi con il coltello sollevatele leggermente ed eliminatele. Ripetete l'operazione anche per l'altro branzino e a questo punto avrete anche il secondo filetto.",
+      "Ora tagliate via il primo filetto e tenetelo da parte. Tagliate via anche la testa del branzino inclinando diagonalmente la lama del coltello in corrispondenza delle branchie. Ricavate l'altro filetto tagliando dall'altezza della testa fino alla coda, quindi tagliate via la lisca centrale e quelle laterali. Aiutandovi con il coltello sollevatele leggermente ed eliminatele. Ripetete l'operazione anche per l'altro branzino e a questo punto avrete anche il secondo filetto.",
       "Togliete le rimanenti lische con una pinzetta, passando delicatamente le dita sul filetto per individuarle. Tenete da parte e ripetete le operazioni di pulizia anche per il secondo branzino. Trasferite quindi i filetti in una pirofila bassa e capiente e grattugiate la scorza di un limone non trattato; poi salate e pepate.",
       "Dopodiché prendete arancia e limone e tagliateli a metà, spremeteli per ricavarne il succo (dovrete ricavarne circa 130 g) e filtratelo con un colino a maglie strette.",
       "Unite circa 20 g di olio extravergine al succo di arancia e limone, ed irrorate bene il branzino. Sciacquate il timo e unite le foglioline nella pirofila. Coprite la pirofila con pellicola alimentare trasparente e lasciate marinare per circa 15-20 minuti affinché il filetti assorbano il profumo degli agrumi.",
       "A questo punto procedete con la preparazione delle patate novelle al rosmarino. Sciacquate le patate, strofinando bene la buccia, per eliminare eventuali residui di terra. Tagliate le patate tutte a cubetti di circa 3 cm per consentire una cottura uniforme. Non è necessario privarle della buccia. Trasferitele in una ciotola ed irroratele con olio.",
       "Aggiustate di sale e mescolate il tutto. Prendete una leccarda e rivestitela con carta forno. Ora trasferitevi le patate, distribuendole su tutta la superficie. Aggiungete uno spicchio di aglio a pezzetti",
-      "e cospargete con qualche rametto di rosmarino (25-26). Infornate in forno ventilato preriscaldato a 220° per 20 minuti ( se utilizzate il forno statico cuocete a 240° per 25-30 minuti). Quando saranno cotte ed avranno formato una leggera crosticina dorata in superficie estraetele dal forno 27 e tenetele da parte.",
-      "A questo punto procedete con le zucchine: lavatele e spuntatele 28 . Tagliatele a cubotti di 3 cm di lunghezza in modo che abbiano forma simile alle patate 29 . Prendete una padella antiaderente dal fondo ampio, aggiungete un filo di olio e fate rosolare uno spicchio di aglio, sbucciato e intero 30 .",
-      "Fate saltare in padella le zucchine per circa 7-8 minuti 31 . Nel frattempo tritate finemente il prezzemolo e unitelo in padella solo al termine della cottura delle zucchine  32 . Tenete poi le zucchine da parte. Procedete quindi con la cottura dei filetti di branzino. Prendete una padella antiaderente, versate un filo di olio e scaldate a fuoco basso. Scolate i filetti di branzino (ma tenete da parte la marinatura) e adagiateli in padella 33 .",
-      "Versate anche la marinatura 34 e lasciate cuocere 1 minuto per lato i vostri filetti 35 . La cottura del branzino deve essere molto rapida per non rovinare le sue pregiate carni. Ora impiattate il vostro branzino agli agrumi con patate novelle al rosmarino e zucchine prezzemolate e servite ancora caldo 36 !"
+      "e cospargete con qualche rametto di rosmarino. Infornate in forno ventilato preriscaldato a 220° per 20 minuti (se utilizzate il forno statico cuocete a 240° per 25-30 minuti). Quando saranno cotte ed avranno formato una leggera crosticina dorata in superficie estraetele dal forno e tenetele da parte.",
+      "A questo punto procedete con le zucchine: lavatele e spuntatele. Tagliatele a cubotti di 3 cm di lunghezza in modo che abbiano forma simile alle patate. Prendete una padella antiaderente dal fondo ampio, aggiungete un filo di olio e fate rosolare uno spicchio di aglio, sbucciato e intero.",
+      "Fate saltare in padella le zucchine per circa 7-8 minuti. Nel frattempo tritate finemente il prezzemolo e unitelo in padella solo al termine della cottura delle zucchine. Tenete poi le zucchine da parte. Procedete quindi con la cottura dei filetti di branzino. Prendete una padella antiaderente, versate un filo di olio e scaldate a fuoco basso. Scolate i filetti di branzino (ma tenete da parte la marinatura) e adagiateli in padella.",
+      "Versate anche la marinatura e lasciate cuocere 1 minuto per lato i vostri filetti. La cottura del branzino deve essere molto rapida per non rovinare le sue pregiate carni. Ora impiattate il vostro branzino agli agrumi con patate novelle al rosmarino e zucchine prezzemolate e servite ancora caldo!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:44:49.743962+00:00",
@@ -17326,7 +17357,7 @@
       "Spostatevi ai fornelli e versate la cipolla in un giro d'olio all'interno di una pentola capiente. Lasciatela soffriggere e profumate con i rametti di rosmarino. Dopodiché unite i pezzetti di crosta di Grana Padano DOP tagliati,",
       "il polpo e il concentrato di pomodoro. Mescolate bene il tutto e bagnate con il vino bianco.",
       "Fate evaporare la parte alcolica (pochi istanti) dopodiché potrete aggiungere i fagioli e regolare a piacere di sale e di pepe. Bagnate con un po' d'acqua di cottura del polpo per proseguire la cottura.",
-      "Coprite con il coperchio e lasciate andare a fuoco dolce per circa 35 minuti. Di tanto in tanto ricordate di mescolare e di assicurarvi che il fondo non sia diventato troppo asciutto, nel caso basterà bagnare con un po' d'acqua di cottura del polpo. A fine cottura impiattate il vostro polpo e fagioli in umido e servite con un giro d'olio a crudo e una bella macinata di pepe."
+      "Coprite con il coperchio e lasciate andare a fuoco dolce per circa 35 minuti. Di tanto in tanto ricordate di mescolare e di assicurarvi che il fondo non sia diventato troppo asciutto, nel caso basterà bagnare con un po' d'acqua di cottura del polpo. A fine cottura impiattate il vostro polpo e fagioli in umido e servite con un giro d'olio a crudo e una bella macinata di pepe."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:44:55.075414+00:00",
@@ -17858,12 +17889,12 @@
       ]
     ],
     "steps": [
-      "Per preparare la pasta con crema di ricotta e fave come prima cosa mettete sul fuoco una pentola con abbondante acqua salata per cuocere la pasta. Sgranate le fave e trasferitele in un pentolino con dell’acqua. Portate il tutto al bollore e cuocete per altri 2 minuti; in questo modo le fave si ammorbidiranno e sarà più facile sbucciarle. A questo punto scolatele, trasferitele in un contenitore e lasciatele intiepidire.",
+      "Per preparare la pasta con crema di ricotta e fave come prima cosa mettete sul fuoco una pentola con abbondante acqua salata per cuocere la pasta. Sgranate le fave e trasferitele in un pentolino con dell’acqua. Portate il tutto al bollore e cuocete per altri 2 minuti; in questo modo le fave si ammorbidiranno e sarà più facile sbucciarle. A questo punto scolatele, trasferitele in un contenitore e lasciatele intiepidire.",
       "Aiutandovi con un coltellino sbucciate quindi le fave e raccoglietele in un'altra ciotolina. A questo punto buttate la pasta e cuocetela un paio di minuti in meno rispetto al tempo indicato sulla confezione.",
       "Tritare la cipolla finemente, mettete a scaldare un pò d’olio in una padella, unite la cipolla, aggiustate di sale, unite una macinata di pepe nero e fate dorare leggermente. Aggiungete le fave sbucciate,",
-      "mescolate e lasciare insaporire un minuto, spegnete il fuoco.  A questo punto trasferite la ricotta in una ciotola, aggiungete un mestolo di acqua di cottura e mescolate bene. Dovrete ottenere un composto liscio ed omogeneo. La quantità d'acqua andrà regolata in base alla tipologia di ricotta.",
-      "Appena le farfalle saranno cotte scolatele e trasferitele in una ciotola. Unite la crema di ricotta e mescolate. Aggiungete poi le fave, tenendone da parte qualcuna per la decorazione del piatto e mescolate nuovamente. Unite anche qualche fogliolina di maggiorana 15 e mescolate.",
-      "Trasferite nuovamente il tutto all'interno della padella in cui avete cotto le fave 16 , lasciate scaldare un attimo, in modo da insaporire il tutto 16 . Trasferite nei piatti da portata decorando con le fave tenute da parte e qualche fogliolina di maggiorana 17 . La pasta crema di ricotta e fave è pronta, servitela subito 18 ."
+      "mescolate e lasciare insaporire un minuto, spegnete il fuoco. A questo punto trasferite la ricotta in una ciotola, aggiungete un mestolo di acqua di cottura e mescolate bene. Dovrete ottenere un composto liscio ed omogeneo. La quantità d'acqua andrà regolata in base alla tipologia di ricotta.",
+      "Appena le farfalle saranno cotte scolatele e trasferitele in una ciotola. Unite la crema di ricotta e mescolate. Aggiungete poi le fave, tenendone da parte qualcuna per la decorazione del piatto e mescolate nuovamente. Unite anche qualche fogliolina di maggiorana e mescolate.",
+      "Trasferite nuovamente il tutto all'interno della padella in cui avete cotto le fave, lasciate scaldare un attimo, in modo da insaporire il tutto. Trasferite nei piatti da portata decorando con le fave tenute da parte e qualche fogliolina di maggiorana. La pasta crema di ricotta e fave è pronta, servitela subito."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:45:09.470483+00:00",
@@ -17953,7 +17984,7 @@
       "Riso Basmati 100 g",
       "Avocado 1",
       "Pane ai 3 farri 40 g",
-      "Limoni &frac12;",
+      "Limoni ½",
       "Olio extravergine d'oliva 20 g",
       "Semi di papavero q.b.",
       "Timo q.b.",
@@ -18024,9 +18055,9 @@
     "steps": [
       "Per realizzare i bowl di salmone, avocado e croccante di pane per prima cosa cuocete il riso basmati in acqua bollente per 10 minuti. Prendete il pane ai 3 farri e tagliatelo a cubetti di 1 cm. Ponete i cubetti di pane su una teglia rivestita con carta forno, irrorateli con 10 g di olio di oliva e cuocete in forno ventilato preriscaldato a 190° per 10 minuti.",
       "Quando i crostini saranno dorati, sfornateli e lasciateli intiepidire. Scaldate 10 g di olio di oliva in padella, aggiungete il salmone e insaporite con sale, pepe e timo a piacere.",
-      "Cuocete per circa 6 minuti, girando delicatamente i bocconcini di salmone e dorarli su tutti i lati. Dividete a metà l'avocado ed eliminate il nocciolo, poi rimuovete delicatamente la buccia con le mani avendo cura di lasciare la polpa intera. Tagliate la polpa prima a fette, poi a striscioline e infine a cubetti.",
+      "Cuocete per circa 6 minuti, girando delicatamente i bocconcini di salmone e dorarli su tutti i lati. Dividete a metà l'avocado ed eliminate il nocciolo, poi rimuovete delicatamente la buccia con le mani avendo cura di lasciare la polpa intera. Tagliate la polpa prima a fette, poi a striscioline e infine a cubetti.",
       "Nel frattempo il riso sarà pronto, scolatelo in una ciotola e versatelo nei bowl. Pelate a vivo mezzo limone e riducetelo a fette. Aggiungete l'avocado accanto al riso.",
-      "Proseguite con le Pepite di salmone e il pane croccante. Terminate la decorazione con le fettine di limone e i semi di papavero. I bowl di salmone, avocado e croccante di pane sono pronti per essere serviti."
+      "Proseguite con le Pepite di salmone e il pane croccante. Terminate la decorazione con le fettine di limone e i semi di papavero. I bowl di salmone, avocado e croccante di pane sono pronti per essere serviti."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:45:12.298272+00:00",
@@ -18187,13 +18218,13 @@
       ]
     ],
     "steps": [
-      "Per realizzare la pasta con crema di ricotta, asparagi e pistacchi per prima cosa occupatevi della pulizia degli asparagi : pelateli lasciando però le punte intatte e provandoli della parte inferiore bianca 2 , che è quella più coriacea. Tagliateli a rondelle trasversali 3",
-      "e dividete a metà le punte nel senso della lunghezza 4 . Ponete sul fuoco un tegame colmo di acqua salata che servirà per cuocere la pasta. In una padella capiente scaldate l’olio di oliva con uno spicchio di aglio 5 , non appena inizia a soffriggere aggiungete gli asparagi 6",
-      "e i pistacchi 7 , cuocete a fiamma media per 5 minuti, mescolando spesso. Quindi salate, pepate 8 , eliminate lo spicchio d’aglio 9 e tenete da parte.",
-      "Intanto cuocete la pasta in acqua bollente per il tempo riportato sulla confezione. Proseguite con il condimento: in una brocca (o un bicchiere alto da mixer) versate la ricotta, la panna fresca liquida 11 , frullate il composto con un mixer ad immersione 12 ,",
-      "dopodiché aggiungete un paio di mestoli di acqua di cottura della pasta 13 per rendere la crema più liscia e vellutata. Salate, pepate e insaporite con la noce moscata 14 . Per finire aromatizzate con il prezzemolo fresco tritato 15 .",
-      "Mescolate la crema 16 e versatela in un tegame ampio, aggiungete altri 2 mestoli di acqua di cottura della pasta 17 ; poi scolate direttamente nel tegame la pasta 18 .",
-      "Unite il condimento di asparagi e pistacchi avendo cura di tenerne da parte un pochino per guarnire ciascun piatto da portata 19 . Mescolate per insaporire; se dovesse risultare asciutta aggiungete altra acqua di cottura a vostra discrezione. Servite subito la pasta con crema di ricotta, asparagi e pistacchi distribuendo sul piatto il condimento tenuto da parte (20-21)."
+      "Per realizzare la pasta con crema di ricotta, asparagi e pistacchi per prima cosa occupatevi della pulizia degli asparagi: pelateli lasciando però le punte intatte e provandoli della parte inferiore bianca, che è quella più coriacea. Tagliateli a rondelle trasversali",
+      "e dividete a metà le punte nel senso della lunghezza. Ponete sul fuoco un tegame colmo di acqua salata che servirà per cuocere la pasta. In una padella capiente scaldate l’olio di oliva con uno spicchio di aglio, non appena inizia a soffriggere aggiungete gli asparagi",
+      "e i pistacchi, cuocete a fiamma media per 5 minuti, mescolando spesso. Quindi salate, pepate, eliminate lo spicchio d’aglio e tenete da parte.",
+      "Intanto cuocete la pasta in acqua bollente per il tempo riportato sulla confezione. Proseguite con il condimento: in una brocca (o un bicchiere alto da mixer) versate la ricotta, la panna fresca liquida, frullate il composto con un mixer ad immersione,",
+      "dopodiché aggiungete un paio di mestoli di acqua di cottura della pasta per rendere la crema più liscia e vellutata. Salate, pepate e insaporite con la noce moscata. Per finire aromatizzate con il prezzemolo fresco tritato.",
+      "Mescolate la crema e versatela in un tegame ampio, aggiungete altri 2 mestoli di acqua di cottura della pasta; poi scolate direttamente nel tegame la pasta.",
+      "Unite il condimento di asparagi e pistacchi avendo cura di tenerne da parte un pochino per guarnire ciascun piatto da portata. Mescolate per insaporire; se dovesse risultare asciutta aggiungete altra acqua di cottura a vostra discrezione. Servite subito la pasta con crema di ricotta, asparagi e pistacchi distribuendo sul piatto il condimento tenuto da parte."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:45:21.750273+00:00",
@@ -18361,8 +18392,8 @@
       "Prendete una fettina di pollo, salate e pepate da entrambi i lati. Farcite al centro con crca 5 g di pecorino e una spolverata di origano.",
       "Ripiegate i lembi laterali verso l'interno e avvolgete la fettina per creare l'involtino. Con queste dosi ne otterrete 12. Passate gli involtini nei taralli sbriciolati.",
       "Adagiateli su una teglia rivestita con carta forno, pepate e condite con un giro d'olio. Cuocete in forno ventilato preriscaldato a 200° per circa 20 minuti, girando le bombette a metà cottura. Mentre le bombette sono nel forno occupatevi della salsa: in un pentolino tostate del pepe nero già tritato per qualche minuto, una volta tostato il pepe, versate l’acqua e spegnete il fuoco.",
-      "Versate il pecorino grattugiato in un boccale e aggiungete l’acqua ormai tiepida,  frullate con un mixer a immersione per ottenete una salsa liscia.",
-      "Una volta cotte le bombette di pollo cacio e pepe, sfornatele e servitele ben calde con la salsa di pecorino 18."
+      "Versate il pecorino grattugiato in un boccale e aggiungete l’acqua ormai tiepida, frullate con un mixer a immersione per ottenete una salsa liscia.",
+      "Una volta cotte le bombette di pollo cacio e pepe, sfornatele e servitele ben calde con la salsa di pecorino."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:45:24.592306+00:00",
@@ -18642,11 +18673,11 @@
       "Poi trasferite l’impasto su una spianatoia. Stendetelo leggermente con le mani quindi ripiegatelo fino a congiungere le estremità. Ripetete l’operazione per un paio di volte. Quindi date all’impasto la forma sferica e mettetelo a riposare in una ciotola coperto da pellicola alimentare trasparente per almeno 2 ore in forno spento con luce accesa (ad una temperatura di 28-30°).",
       "Dopodichè prendete l’impasto, riponetelo in una spianatoia e dividetelo in 4 parti da circa 130 g l’una. Lavorate ciascun pezzo fino a formare delle palline. Quindi prendete una leccarda e, dopo averla imburrata, adagiate le palline che avete formato ben distanziate tra loro. Lasciateli così lievitare per circa ora.",
       "Trascorso il tempo di lievitazione spennellatele con un uovo e decorate con i semi di sesamo: infornate in forno statico preriscaldato a 190°C per 20 minuti (o a forno ventilato per a 160°C per 10 minuti, in questo caso potete provare la cottura di 1 panino per regolarvi meglio su tempi e temperatura). Quindi estraete dal forno i panini e lasciate riposare a temperatura ambiente per farli raffreddare. I panini sono pronti per essere tagliati a metà e farciti!",
-      "Procedete ora con la preparazione del contorno di accompagnamento. Lavate bene tutte le verdure sotto acqua corrente, poi prendete il cavolo e incidetelo con un coltellino per togliere la parte più coriacea che eliminerete e tagliatelo alla julienne 1. Riempite una ciotola d’acqua e versatevi il cavolo fino a quando non vi servirà per farcire. Pelate le carote e tagliatele a julienne. Spuntate le zucchine e tagliate anch'esse a julienne, quindi spuntate anche i fagiolini. In un'ampia padella antiaderente versate l’olio a filo, scaldate e aggiungete le carote. Lasciate cuocere le carote a fuoco vivace per 4 minuti.",
+      "Procedete ora con la preparazione del contorno di accompagnamento. Lavate bene tutte le verdure sotto acqua corrente, poi prendete il cavolo e incidetelo con un coltellino per togliere la parte più coriacea che eliminerete e tagliatelo alla julienne. Riempite una ciotola d’acqua e versatevi il cavolo fino a quando non vi servirà per farcire. Pelate le carote e tagliatele a julienne. Spuntate le zucchine e tagliate anch'esse a julienne, quindi spuntate anche i fagiolini. In un'ampia padella antiaderente versate l’olio a filo, scaldate e aggiungete le carote. Lasciate cuocere le carote a fuoco vivace per 4 minuti.",
       "unite poi le zucchine e i fagiolini nella padella. Saltate le verdure ancora qualche minuto e aggiungeteci infine l’acqua. Coprite quindi la padella con coperchio e fate cuocere per 10 minuti a fuoco moderato. Passate ora alla preparazione degli hamburger alle erbe aromatiche. Su un tagliere tritate finemente aneto ed erba cipollina aiutandovi con un coltello.",
       "In una ciotola ponete la carne ed unite il trito di aneto ed erba cipollina. Aggiustate di sale e pepe. Aiutandovi con una forchetta o se preferite con le mani amalgamate bene gli ingredienti. Quindi prendete un coppa pasta dal diametro di 13 cm riponete all’interno il trito di carne ottenuto. Ripetete l’operazione in modo da ottenere 4 hamburger da circa 110 g l’uno.",
       "Prendete quindi una griglia, ungetela leggermente con un filo di olio per evitare che gli hamburger si attacchino e scaldatela. Cuocete gli hamburger sulla griglia, ciascun lato per circa 3 o 4 minuti. Gli hamburger sono ora pronti per comporre il panino. Prendete i panini che avete preparato in precedenza e tagliateli a metà seguendo la linea orizzontale. Scolate il cavolo cappuccio che avete messo nella ciotola con l’acqua. Aiutandovi con delle pinze da cucina riponete un po’ di cavolo sulla parte inferiore del panino. Quindi adagiate l'hamburger aiutandovi con una paletta",
-      "condite con il ketchup a piacere e aggiungete un ulteriore strato di cavolo cappuccio sopra all’hamburger. Ultimate il vostro panino adagiando l’altra metà del pane sopra. Per ultimare il vostro piatto prendete le patate, lavatele sotto abbondante acqua, privatele della buccia e tagliatele seguendo il lato lungo in modo da ottenere delle fettine non troppo sottili da cui ricaverete i classici bastoncini.  Poi prendete un tegame dai bordi alti, versatevi l’olio e portate a bollore. Asciugate le patate. Quando l'olio avrà raggiunto la temperatura di 180°C versatevi le patate.",
+      "condite con il ketchup a piacere e aggiungete un ulteriore strato di cavolo cappuccio sopra all’hamburger. Ultimate il vostro panino adagiando l’altra metà del pane sopra. Per ultimare il vostro piatto prendete le patate, lavatele sotto abbondante acqua, privatele della buccia e tagliatele seguendo il lato lungo in modo da ottenere delle fettine non troppo sottili da cui ricaverete i classici bastoncini. Poi prendete un tegame dai bordi alti, versatevi l’olio e portate a bollore. Asciugate le patate. Quando l'olio avrà raggiunto la temperatura di 180°C versatevi le patate.",
       "Friggetele fino alla doratura, e scolatele aiutandovi con una schiumarola, quindi conditele con un pizzico di sale a piacere. Infine adagiate le patatine fritte a fianco al panino con l’hamburger. Aggiungete anche le verdure a julienne e preparatevi a gustare la vostra creazione in compagnia di amici e familiari!"
     ],
     "needs_review": false,
@@ -18807,10 +18838,10 @@
       "Salate e distribuite il condimento su tutta la superficie con le mani. Adagiate i porri su una piastra ben calda.",
       "Lasciate abbrustolire bene i porri da ambo i lati, ci vorranno circa 10 minuti. Quando si saranno ammorbiditi trasferiteli in una teglia, coprite con pellicola e lasciateli riposare per 10 minuti; in questo continueranno ad ammorbidirsi grazie al loro stesso vapore.",
       "Nel frattempo versate le nocciole in una padella già calda e tostatele per qualche minuto, facendo attenzione a non bruciarle. Tritate grossolanamente le nocciole al coltello.",
-      "Riprendete i porri brasati e metteteli in un boccale 10 , poi aggiungete pochissima acqua 11 e frullate con un mixer a immersione fino ad ottenere una crema liscia e omogenea 12 . Tenete da parte.",
-      "Cuocete gli spaghetti in abbondante acqua bollente salata 16 . Scolate la pasta 2 minuti prima della fine della cottura e trasferiteli in una padella 17 , poi versate un mestolo dell'acqua di cottura 18 .",
-      "Unite la crema di porri 19 e portate a cottura. Spegnete il fuoco, versate un filo d'olio 20 , pepate 21 e mantecate.",
-      "Impiattate gli spaghetti 22 , poi completate con le nocciole tritate 23 e il finocchietto selvatico. La pasta con crema di porri brasati, nocciole e finocchietto è pronta per essere servita 24 !"
+      "Riprendete i porri brasati e metteteli in un boccale, poi aggiungete pochissima acqua e frullate con un mixer a immersione fino ad ottenere una crema liscia e omogenea. Tenete da parte.",
+      "Cuocete gli spaghetti in abbondante acqua bollente salata. Scolate la pasta 2 minuti prima della fine della cottura e trasferiteli in una padella, poi versate un mestolo dell'acqua di cottura.",
+      "Unite la crema di porri e portate a cottura. Spegnete il fuoco, versate un filo d'olio, pepate e mantecate.",
+      "Impiattate gli spaghetti, poi completate con le nocciole tritate e il finocchietto selvatico. La pasta con crema di porri brasati, nocciole e finocchietto è pronta per essere servita!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:45:43.744655+00:00",
@@ -19045,10 +19076,10 @@
     "steps": [
       "Per preparare la pasta con crema di piselli e guanciale, iniziate proprio da quest'ultimo. Tagliatelo prima a fette, poi da queste ricavate delle listarelle sottili. Versate quindi il guanciale in una padella calda,",
       "e lasciatelo cuocere per 5 minuti a fiamma media mescolando di tanto in tanto. Nel frattempo eliminate la parte esterna del porro e tagliatelo a rondelle. Quando il guanciale sarà ben dorato scolatelo.",
-      "Trasferitelo su un piatto rivestito con carta assorbente e tenetelo da parte. Nella stessa padella versate il porro tagliato a rondelle e cuocetelo a fuoco medio per circa 5 min sino a farlo passire e dorare. Ponete sul fuoco una pentola, colma d'acqua, salata a piacere, che servirà per la cottura della pasta. Non appena inizierà a bollire versate all'interno i piselli e lasciate cuocere per un paio di minuti.",
-      "Utilizzando una schiumarola prelevate i piselli e immergeteli in una ciotola con acqua molto fredda. Tenete da parte la pentola con l'acqua, servirà per la cottura della pasta. Scolate nuovamente i piselli;  tenetene da parte 1/3 e versarte gli altri in un contenitore alto.",
+      "Trasferitelo su un piatto rivestito con carta assorbente e tenetelo da parte. Nella stessa padella versate il porro tagliato a rondelle e cuocetelo a fuoco medio per circa 5 min sino a farlo passire e dorare. Ponete sul fuoco una pentola, colma d'acqua, salata a piacere, che servirà per la cottura della pasta. Non appena inizierà a bollire versate all'interno i piselli e lasciate cuocere per un paio di minuti.",
+      "Utilizzando una schiumarola prelevate i piselli e immergeteli in una ciotola con acqua molto fredda. Tenete da parte la pentola con l'acqua, servirà per la cottura della pasta. Scolate nuovamente i piselli; tenetene da parte 1/3 e versarte gli altri in un contenitore alto.",
       "Aggiungete il porro saltato in padella, un mestolo di acqua di cottura e frullate con un mixer a immersione sino ad ottenere una crema.",
-      "Aggiungete alla crema un filo d’olio evo, mescolate e tenetela da parte. Portate nuovamente l'acqua a bollore e versate la pasta all'interno Nel frattempo versate la crema di piselli e porro nella padella, aggiungete un mestolo di acqua di cottura,",
+      "Aggiungete alla crema un filo d’olio evo, mescolate e tenetela da parte. Portate nuovamente l'acqua a bollore e versate la pasta all'interno Nel frattempo versate la crema di piselli e porro nella padella, aggiungete un mestolo di acqua di cottura,",
       "regolate di sale e aggiungete del pepe nero. Quando la pasta sarà al dente scolatela e versatela in padella. Aggiungete il guanciale croccante, tenedone da parte un po' per la decorazione.",
       "Aggiungete i piselli rimasti e saltate la pasta per un paio di minuti a fuoco medio. Impiattate e decorate con il guanciale croccante, poi servitela subito!"
     ],
@@ -19224,11 +19255,11 @@
     ],
     "steps": [
       "Per preparare la pasta con crema di peperoni, mettete a bollire l'acqua della pasta e salatela. Nel frattempo lavate i peperoni, rimuovete la calotta, tagliateli per il senso della lunghezza ed eliminate i semini interni, quindi riduceteli a cubetti.",
-      "Tagliate grossolanamente il pomodoro ramato. Versate un filo d’olio in una casseruola e fate soffriggere gli spicchi di aglio. Aggiungete i cubetti di peperone.",
-      "Unite anche il pomodoro, salate e poi aromatizzate con il pepe e le foglie di basilico. Cuocete a fuoco medio-alto per circa 15 minuti mescolando di tanto in tanto.",
-      "Quando i peperoni saranno cotti, versate la pasta nell'acqua che intanto sarà arrivata a bollore e cuocetela al dente. Intanto versate i peperoni cotti col pomodoro in un contenitore alto 11 , eliminando l'aglio, e frullate tutto con il mixer a immersione 12 .",
-      "Trasferite la crema ottenuta nella padella in cui avete cotto i peperoni 13 , accendete il fuoco basso, unite un mestolo di acqua di cottura della pasta 14 e poi, una volta cotta al dente, scolate la pasta direttamente nella crema di peperoni 15 .",
-      "Mantecate il tempo di amalgamare bene la pasta 16 , poi trasferite nei piatti da portata e aromatizzate con ancora qualche fogliolina di basilico fresca 17 . La vostra pasta con crema di peperoni è pronta per essere servita 18 !"
+      "Tagliate grossolanamente il pomodoro ramato. Versate un filo d’olio in una casseruola e fate soffriggere gli spicchi di aglio. Aggiungete i cubetti di peperone.",
+      "Unite anche il pomodoro, salate e poi aromatizzate con il pepe e le foglie di basilico. Cuocete a fuoco medio-alto per circa 15 minuti mescolando di tanto in tanto.",
+      "Quando i peperoni saranno cotti, versate la pasta nell'acqua che intanto sarà arrivata a bollore e cuocetela al dente. Intanto versate i peperoni cotti col pomodoro in un contenitore alto, eliminando l'aglio, e frullate tutto con il mixer a immersione.",
+      "Trasferite la crema ottenuta nella padella in cui avete cotto i peperoni, accendete il fuoco basso, unite un mestolo di acqua di cottura della pasta e poi, una volta cotta al dente, scolate la pasta direttamente nella crema di peperoni.",
+      "Mantecate il tempo di amalgamare bene la pasta, poi trasferite nei piatti da portata e aromatizzate con ancora qualche fogliolina di basilico fresca. La vostra pasta con crema di peperoni è pronta per essere servita!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:51:38.512746+00:00",
@@ -19375,12 +19406,12 @@
       ]
     ],
     "steps": [
-      "Per realizzare la pasta con crema di peperoni e ricotta per prima cosa lavate i peperoni, eliminate la calotta superiore con il piccioli, divideteli a metà ed estraete i semini interni, quindi tagliateli a listarelle 2 . Lavate e tagliate a metà i pomodorini 3 .",
-      "In una padella scaldate un filo di olio di oliva con uno spicchio di aglio per 2-3 minuti a fuoco dolce 4 . Versate i peperoni e i pomodorini 5 , salate, coprite con il coperchio 6 e cuocete per 10 minuti. Ponete sul fuoco un tegame colmo di acqua salata e portate al bollore.",
-      "A cottura ultimata, eliminate l'aglio 7 e tenete da parte. Cuocete la pasta al dente 8 . Intanto schiacciate bene con una forchetta la ricotta 9 .",
-      "Versate i peperoni e i pomodori in un bicchiere alto 10 , aggiungete le foglie di basilico 11 e frullate con un mixer a immersione 12 .",
-      "Dovete ottenere una crema omogenea 13 . Versate la crema nella padella usata per la cottura delle verdure 14 , scolate qui anche la pasta 15 .",
-      "Unite la ricotta 16 e saltate il tutto giusto il tempo di amalgamare il condimento 17 . Servite la pasta con crema di peperoni e ricotta ben calda 18 ."
+      "Per realizzare la pasta con crema di peperoni e ricotta per prima cosa lavate i peperoni, eliminate la calotta superiore con il piccioli, divideteli a metà ed estraete i semini interni, quindi tagliateli a listarelle. Lavate e tagliate a metà i pomodorini.",
+      "In una padella scaldate un filo di olio di oliva con uno spicchio di aglio per 2-3 minuti a fuoco dolce. Versate i peperoni e i pomodorini, salate, coprite con il coperchio e cuocete per 10 minuti. Ponete sul fuoco un tegame colmo di acqua salata e portate al bollore.",
+      "A cottura ultimata, eliminate l'aglio e tenete da parte. Cuocete la pasta al dente. Intanto schiacciate bene con una forchetta la ricotta.",
+      "Versate i peperoni e i pomodori in un bicchiere alto, aggiungete le foglie di basilico e frullate con un mixer a immersione.",
+      "Dovete ottenere una crema omogenea. Versate la crema nella padella usata per la cottura delle verdure, scolate qui anche la pasta.",
+      "Unite la ricotta e saltate il tutto giusto il tempo di amalgamare il condimento. Servite la pasta con crema di peperoni e ricotta ben calda."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:51:50.239257+00:00",
@@ -19483,7 +19514,7 @@
       "Scalogno 1",
       "Panna fresca liquida 200 g",
       "Acqua 150 g",
-      "Paprika dolce &frac12; cucchiaino",
+      "Paprika dolce ½ cucchiaino",
       "Fusilli 320 g",
       "Olio extravergine d'oliva q.b.",
       "Sale fino q.b.",
@@ -19557,13 +19588,13 @@
       ]
     ],
     "steps": [
-      "Per realizzare la pasta con crema di peperoni e formaggio, mondate e affettate sottilmente lo scalogno. Lavate i peperoni, divideteli a metà, eliminate i semini interni e il picciolo. Riduceteli a pezzetti di circa 3 cm.",
+      "Per realizzare la pasta con crema di peperoni e formaggio, mondate e affettate sottilmente lo scalogno. Lavate i peperoni, divideteli a metà, eliminate i semini interni e il picciolo. Riduceteli a pezzetti di circa 3 cm.",
       "Versate in padella lo scalogno, un filo di olio, rosolate per un paio di minuti. Aggiungete i peperoni al soffritto di scalogno.",
-      "Coprite con l’acqua e insaporite con la paprika, lasciate cuocere a fuoco medio per 10 minuti. Una volta cotti,",
+      "Coprite con l’acqua e insaporite con la paprika, lasciate cuocere a fuoco medio per 10 minuti. Una volta cotti,",
       "trasferite tutto in un bicchiere alto e frullate con un mixer a immersione fino a ottenere una crema omogenea. Versate la crema di peperoni in una pentola capiente,",
-      "aggiungete la panna fresca, il timo e aggiustate di pepe e sale. Tenete da parte al caldo. Nel frattempo cuocete anche i fusilli in acqua salata bollente.",
-      "Scolate i fusilli al dente e trasferiteli nella pentola con la crema di peperoni, mescolate per insaporire. Ungete con olio 4 mini cocotte monoporzioni.",
-      "Versate la pasta. Adagiate sopra la pasta una fetta di formaggio per ciascuna cocotte e passate in forno già caldo, in modalità grill per 1 minuto. Sfornate e insaporite con il pepe. La pasta con crema di peperoni e formaggio è pronta, gustatela calda!"
+      "aggiungete la panna fresca, il timo e aggiustate di pepe e sale. Tenete da parte al caldo. Nel frattempo cuocete anche i fusilli in acqua salata bollente.",
+      "Scolate i fusilli al dente e trasferiteli nella pentola con la crema di peperoni, mescolate per insaporire. Ungete con olio 4 mini cocotte monoporzioni.",
+      "Versate la pasta. Adagiate sopra la pasta una fetta di formaggio per ciascuna cocotte e passate in forno già caldo, in modalità grill per 1 minuto. Sfornate e insaporite con il pepe. La pasta con crema di peperoni e formaggio è pronta, gustatela calda!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:52:01.305474+00:00",
@@ -19731,7 +19762,7 @@
     ],
     "steps": [
       "Per preparare i bocconcini di pollo con yogurt e curcuma, per prima cosa pulite il petto di pollo da eventuali cartilagini e ossicini e tagliatelo a cubetti di egual misura. Trasferite il pollo in un contenitore, aggiungete il sale e la farina e mescolate bene per ricoprire la carne in modo uniforme.",
-      "Eliminate la farina in eccesso con un colino e passate alla cottura. Scaldate l’olio in una padella, versate i pinoli e tostateli per qualche minuto a fiamma vivace 5. Quando i pinoli si saranno dorati, aggiungete i bocconcini di pollo infarinati, mescolate e lasciateli rosolare per qualche minuto sempre a fuoco vivace,",
+      "Eliminate la farina in eccesso con un colino e passate alla cottura. Scaldate l’olio in una padella, versate i pinoli e tostateli per qualche minuto a fiamma vivace. Quando i pinoli si saranno dorati, aggiungete i bocconcini di pollo infarinati, mescolate e lasciateli rosolare per qualche minuto sempre a fuoco vivace,",
       "poi sfumate con l’acqua. Nel frattempo preparate la salsa: unite la curcuma allo yogurt in una ciotola e mescolate bene il composto.",
       "Versate la salsa nella padella e mescolate a fuoco dolce per qualche secondo, giusto il tempo di amalgamarla. I vostri bocconcini di pollo con yogurt e curcuma sono pronti per essere serviti!"
     ],
@@ -19864,12 +19895,12 @@
       ]
     ],
     "steps": [
-      "Per preparare la pasta con crema di peperoni e Taleggio per prima cosa lavate i peperoni. Adagiateli su una teglia rivestita con carta forno e  cuocete in forno caldo a 220 ° per 30-35 minuti. Dopo circa 20 minuti girate i peperoni. Una volta pronti trasferiteli in una ciotola.",
-      "Coprite con pellicola e tenete da parte a intiepidire, questo passaggio permetterà di sfilare la buccia più facilmente. Ponete sul fuoco l'acqua per cuocere la pasta, da salare a bollore. Tagliate il Taleggio D.O.P. a fette 5 e poi a piccoli cubetti 6 .",
-      "Cuocete gli spaghetti al dente 7 . Intanto togliete la buccia ai peperoni ancora tiepidi 8 e versateli in una brocca alta 9 .",
-      "Aggiungete anche la maggiorana fresca 10 e frullate 11 poi versate anche il Taleggio D.O.P. a cubetti (tenendone da parte una manciata per la decorazione dei piatti).",
-      "Frullate nuovamente 13 per amalgamare 14 . Una volta che la pasta sarà cotta scolatela e conditela con la crema di peperoni 15 .",
-      "Pepate 16 e versate un filo d'olio di oliva 17 . Servite la pasta con crema di peperoni e Taleggio ben calda 18 ."
+      "Per preparare la pasta con crema di peperoni e Taleggio per prima cosa lavate i peperoni. Adagiateli su una teglia rivestita con carta forno e cuocete in forno caldo a 220 ° per 30-35 minuti. Dopo circa 20 minuti girate i peperoni. Una volta pronti trasferiteli in una ciotola.",
+      "Coprite con pellicola e tenete da parte a intiepidire, questo passaggio permetterà di sfilare la buccia più facilmente. Ponete sul fuoco l'acqua per cuocere la pasta, da salare a bollore. Tagliate il Taleggio D.O.P. a fette e poi a piccoli cubetti.",
+      "Cuocete gli spaghetti al dente. Intanto togliete la buccia ai peperoni ancora tiepidi e versateli in una brocca alta.",
+      "Aggiungete anche la maggiorana fresca e frullate poi versate anche il Taleggio D.O.P. a cubetti (tenendone da parte una manciata per la decorazione dei piatti).",
+      "Frullate nuovamente per amalgamare. Una volta che la pasta sarà cotta scolatela e conditela con la crema di peperoni.",
+      "Pepate e versate un filo d'olio di oliva. Servite la pasta con crema di peperoni e Taleggio ben calda."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:58:19.458920+00:00",
@@ -20035,13 +20066,13 @@
       ]
     ],
     "steps": [
-      "Per preparare la pasta con crema di peperoni, caciotta e tonno come prima cosa mondate il peperone eliminando la calotta i semi e i filamenti interni. Tagliare il peperone prima a listarelle e poi in pezzi di circa 3 cm. In totale ne ricaverete circa 350 g. Da questi tenetene da parte circa 30 g che serviranno per la decorazione finale del piatto.",
-      "Ora mettete sul fuoco una pentola colma d'acqua salata, che servirà per la cottura della pasta. Versate un filo d'olio in una padella, aggiungete lo spicchio d’aglio schiacciato e lasciate rosolare per un paio di minuti. Aggiungete i pezzetti di peperone, salate 6 e lasciate a cuocere a fuoco medio per circa 10 minuti senza coperchio. I peperoni dovranno risultare cotti e ben bruniti.",
-      "Non appena l'acqua avrà raggiunto il bollore buttate la pasta 7 . Eliminate l’aglio dai peperoni e trasferiteli in un bicchiere alto 8  e aggiungete 50 g di olio evo 9 .",
-      "Unite anche un rametto di finocchietto 10 e frullate con un mixer ad immersione sino ad ottenere una crema il più liscia possibile 11 . Grattugiate grossolanamente la caciotta 12 e non appena la pasta sarà cotta scolatela, raffreddatela sotto l'acqua corrente e trasferite in una ciotola.",
-      "Riprendete il peperone tenuto da parte e tagliatelo finemente 13 . Versate nella ciotola con la pasta la crema di peperoni 14 e mescolate 15 .",
-      "Sfilacciate con le mani il tonno ben sgocciolato 16 e unitelo alla pasta 17 . Aggiungete la caciotta morbida grattugiata 18 .",
-      "Mescolate bene il tutto 19 e impiattate. Aggiungete i pezzetti di peperone, del finocchietto 20 e servite la vostra pasta con crema di peperoni, caciotta e tonno 21 !"
+      "Per preparare la pasta con crema di peperoni, caciotta e tonno come prima cosa mondate il peperone eliminando la calotta i semi e i filamenti interni. Tagliare il peperone prima a listarelle e poi in pezzi di circa 3 cm. In totale ne ricaverete circa 350 g. Da questi tenetene da parte circa 30 g che serviranno per la decorazione finale del piatto.",
+      "Ora mettete sul fuoco una pentola colma d'acqua salata, che servirà per la cottura della pasta. Versate un filo d'olio in una padella, aggiungete lo spicchio d’aglio schiacciato e lasciate rosolare per un paio di minuti. Aggiungete i pezzetti di peperone, salate e lasciate a cuocere a fuoco medio per circa 10 minuti senza coperchio. I peperoni dovranno risultare cotti e ben bruniti.",
+      "Non appena l'acqua avrà raggiunto il bollore buttate la pasta. Eliminate l’aglio dai peperoni e trasferiteli in un bicchiere alto e aggiungete 50 g di olio evo.",
+      "Unite anche un rametto di finocchietto e frullate con un mixer ad immersione sino ad ottenere una crema il più liscia possibile. Grattugiate grossolanamente la caciotta e non appena la pasta sarà cotta scolatela, raffreddatela sotto l'acqua corrente e trasferite in una ciotola.",
+      "Riprendete il peperone tenuto da parte e tagliatelo finemente. Versate nella ciotola con la pasta la crema di peperoni e mescolate.",
+      "Sfilacciate con le mani il tonno ben sgocciolato e unitelo alla pasta. Aggiungete la caciotta morbida grattugiata.",
+      "Mescolate bene il tutto e impiattate. Aggiungete i pezzetti di peperone, del finocchietto e servite la vostra pasta con crema di peperoni, caciotta e tonno!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:58:30.247258+00:00",
@@ -20220,10 +20251,10 @@
     ],
     "steps": [
       "Per preparare il pollo alla mediterranea, iniziate tagliando il petto di pollo a bocconcini regolari di circa 2-3 cm. Teneteli da parte e lavate i pomodorini sotto acqua corrente, asciugateli e divideteli a metà. Dissalate i capperi sotto acqua fresca e schiacciate leggermente lo spicchio d’aglio.",
-      "Versate l’olio in una padella capiente, aggiungete l’aglio 3 e lasciatelo insaporire per un minuto a fuoco medio. Unite i bocconcini di pollo 5 e rosolateli per circa 5-6 minuti, mescolando spesso, fino a quando saranno ben dorati su tutti i lati. Salate 6 .",
-      "Sfumate con il vino bianco 7 e lasciate evaporare completamente la parte alcolica per circa 2 minuti. Aggiungete i pomodorini 8 e le olive taggiasche 9 .",
-      "Unite anche i capperi 10 , del pepe nero macinato 11 e un po' di origano secco 12 .",
-      "Mescolate bene 13 e proseguite la cottura a fuoco medio per altri 10 minuti 14 , finché il pollo sarà morbido e il fondo leggermente ristretto. Eliminate l’aglio e servite il pollo alla mediterranea ben caldo, con il suo sughetto saporito 15 ."
+      "Versate l’olio in una padella capiente, aggiungete l’aglio e lasciatelo insaporire per un minuto a fuoco medio. Unite i bocconcini di pollo e rosolateli per circa 5-6 minuti, mescolando spesso, fino a quando saranno ben dorati su tutti i lati. Salate.",
+      "Sfumate con il vino bianco e lasciate evaporare completamente la parte alcolica per circa 2 minuti. Aggiungete i pomodorini e le olive taggiasche.",
+      "Unite anche i capperi, del pepe nero macinato e un po' di origano secco.",
+      "Mescolate bene e proseguite la cottura a fuoco medio per altri 10 minuti, finché il pollo sarà morbido e il fondo leggermente ristretto. Eliminate l’aglio e servite il pollo alla mediterranea ben caldo, con il suo sughetto saporito."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:58:33.967029+00:00",
@@ -20774,12 +20805,12 @@
       ]
     ],
     "steps": [
-      "Per realizzare i bocconcini di pollo all’uva per prima cosa lavate bene gli acini d’uva, poi versate in una padella un filo di olio, aggiungete l’uva 1 , coprite con il coperchio e cuocete per 5 minuti a fuoco dolce. Trascorso questo tempo 3 spegnete il fuoco e tenete da parte.",
-      "Ora prendete il petto di pollo e tagliatelo prima a metà 4 e poi a tocchetti 5 . Sfogliato il porro delle parti più esterne, tagliate la base e poi affettatelo finemente 6 .",
-      "In una pentola capiente scaldate un filo di olio di oliva, versate il porro 7 e lasciatelo rosolare a fuoco basso finché non sarà morbido, ci vorranno almeno 5 minuti. A questo punto unite anche i bocconcini di pollo 8 e alzate la fiamma. Insaporite con lo zenzero grattugiato 9",
-      "e mescolate 10 . Quando il pollo sarà ben rosolato da tutti i lati, profumate con le foglioline di timo 11 , salate 12 ,",
-      "pepate 13 e sfumate con il marsala 14 . Lasciate evaporare il vino e poi aggiungete l’amido di mais 15 che renderà cremosa la preparazione.",
-      "Ora potete versare nel tegame anche l’uva cotta 16 , mescolate e cuocete a fuoco moderato finché non si addenserà la salsina 17 . Servite i bocconcini di pollo all’uva ben caldi 18 ."
+      "Per realizzare i bocconcini di pollo all’uva per prima cosa lavate bene gli acini d’uva, poi versate in una padella un filo di olio, aggiungete l’uva, coprite con il coperchio e cuocete per 5 minuti a fuoco dolce. Trascorso questo tempo 3 spegnete il fuoco e tenete da parte.",
+      "Ora prendete il petto di pollo e tagliatelo prima a metà e poi a tocchetti. Sfogliato il porro delle parti più esterne, tagliate la base e poi affettatelo finemente.",
+      "In una pentola capiente scaldate un filo di olio di oliva, versate il porro e lasciatelo rosolare a fuoco basso finché non sarà morbido, ci vorranno almeno 5 minuti. A questo punto unite anche i bocconcini di pollo e alzate la fiamma. Insaporite con lo zenzero grattugiato",
+      "e mescolate. Quando il pollo sarà ben rosolato da tutti i lati, profumate con le foglioline di timo, salate,",
+      "pepate e sfumate con il marsala. Lasciate evaporare il vino e poi aggiungete l’amido di mais che renderà cremosa la preparazione.",
+      "Ora potete versare nel tegame anche l’uva cotta, mescolate e cuocete a fuoco moderato finché non si addenserà la salsina. Servite i bocconcini di pollo all’uva ben caldi."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:58:44.599880+00:00",
@@ -20966,10 +20997,10 @@
       "Lavate i pomodorini ciliegino e divideteli a metà. Versate 2 cucchiai di olio extravergine d’oliva in una padella ampia e fatelo scaldare. Aggiungete lo spicchio d’aglio schiacciato, il peperoncino e i gambi del prezzemolo, tenendo da parte le foglie per completare il piatto. Lasciate insaporire il fondo per 1-2 minuti, facendo attenzione a non bruciare l’aglio. Unite le melanzane e cuocete a fuoco medio per 6-8 minuti, mescolando di tanto in tanto.",
       "Aggiungete i peperoni e proseguite la cottura per altri 4-6 minuti, quindi aggiungete i pomodorini e regolate di sale.",
       "Versate il vino bianco secco e lasciate evaporare la parte alcolica. Abbassate quindi la fiamma, coprite la padella con il coperchio e lasciate proseguire dolcemente la cottura delle verdure per altri 5-6 minuti. Nel frattempo occupatevi del pesce spada. Eliminate la pelle e l’eventuale parte centrale più dura, quindi tamponate accuratamente il filetto per asciugarlo. Tagliatelo a bocconcini di circa 2-3 cm e trasferite in una ciotola.",
-      "Salate leggermente i bocconcini e passateli nella farina 00 13 14 , eliminando quella in eccesso aiutandovi con un colino 15 .",
-      "Aggiungete nella padella i filetti di alici sott’olio 16 e lasciateli sciogliere nel fondo di cottura a fiamma bassa. Unite quindi i bocconcini di pesce spada infarinati 17 , poi coprite nuovamente 18 e cuocete per circa 4-5 minuti, fino a quando il pesce spada risulterà opaco e morbido all’interno.",
-      "Nel frattempo tritate finemente le foglie del prezzemolo 19 e tagliate a metà i frutti di cappero 20 . Controllate spesso la cottura del pesce e assicuratevi che il fondo rimanga sufficientemente umido: se dovesse restringersi troppo, aggiungete poca acqua calda. Mescolate sempre delicatamente per non romperlo. Togliete la padella dal fuoco e aggiungete circa due terzi dei frutti di cappero 21 .",
-      "Aggiungete il prezzemolo 22 e mescolate delicatamente 23 , condite con un filo di olio extravergine d’oliva a crudo e, se lo gradite, aggiungete una macinata di pepe. Distribuite i bocconcini di pesce spada alla mediterranea nei piatti e completate con i frutti di cappero tenuti da parte 24 ."
+      "Salate leggermente i bocconcini e passateli nella farina 00, eliminando quella in eccesso aiutandovi con un colino.",
+      "Aggiungete nella padella i filetti di alici sott’olio e lasciateli sciogliere nel fondo di cottura a fiamma bassa. Unite quindi i bocconcini di pesce spada infarinati, poi coprite nuovamente e cuocete per circa 4-5 minuti, fino a quando il pesce spada risulterà opaco e morbido all’interno.",
+      "Nel frattempo tritate finemente le foglie del prezzemolo e tagliate a metà i frutti di cappero. Controllate spesso la cottura del pesce e assicuratevi che il fondo rimanga sufficientemente umido: se dovesse restringersi troppo, aggiungete poca acqua calda. Mescolate sempre delicatamente per non romperlo. Togliete la padella dal fuoco e aggiungete circa due terzi dei frutti di cappero.",
+      "Aggiungete il prezzemolo e mescolate delicatamente, condite con un filo di olio extravergine d’oliva a crudo e, se lo gradite, aggiungete una macinata di pepe. Distribuite i bocconcini di pesce spada alla mediterranea nei piatti e completate con i frutti di cappero tenuti da parte."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T16:58:55.324082+00:00",
@@ -21366,12 +21397,12 @@
       ]
     ],
     "steps": [
-      "Per preparare la pasta con crema di parmigiano e salsiccia iniziate togliendo la pelle dalla salsiccia dopodiché sgranatela in una ciotola. Scaldate un filo d'olio profumandolo con uno spicchio d'aglio.",
-      "Versatela in padella e lasciatela rosolare con il rametto di timo, sale e pepe. Mescolate di tanto in tanto e quando sarà ben abbrustolita togliete l'aglio.",
+      "Per preparare la pasta con crema di parmigiano e salsiccia iniziate togliendo la pelle dalla salsiccia dopodiché sgranatela in una ciotola. Scaldate un filo d'olio profumandolo con uno spicchio d'aglio.",
+      "Versatela in padella e lasciatela rosolare con il rametto di timo, sale e pepe. Mescolate di tanto in tanto e quando sarà ben abbrustolita togliete l'aglio.",
       "Intanto buttate la pasta in acqua bollente e salata e preparate subito la crema di parmigiano mettendo a scaldare la panna in un pentolino. Quando si sarà intiepidita aggiungete il parmigiano.",
       "A fiamma spenta mescolate con una frusta finché non avrete ottenuto una salsa liscia. Quando mancano un paio di minuti alla fine della cottura della pasta, scolatela nella padella con la salsiccia.",
       "Aggiungete un mestolo d’acqua di cottura. Proseguite la cottura per un minuto circa e poi aggiungete la crema di parmigiano: continuate a mescolare finché non avrà terminato la cottura.",
-      "Impiattate e aggiungete le nocciole tagliate grossolanamente, qualche fogliolina di timo e una macinata di pepe rosa. La vostra pasta con crema di parmigiano e salsiccia è pronta per essere servita ben calda."
+      "Impiattate e aggiungete le nocciole tagliate grossolanamente, qualche fogliolina di timo e una macinata di pepe rosa. La vostra pasta con crema di parmigiano e salsiccia è pronta per essere servita ben calda."
     ],
     "needs_review": false,
     "imported_at": "2026-10-11T10:48:25.165304+00:00",
@@ -21924,16 +21955,16 @@
       ]
     ],
     "steps": [
-      "Per realizzare la pasta con crema di melanzane e pesce spada per prima cosa mondate e tritate finemente la cipolla. Tagliate le melanzane prima a fette 2 e poi a dadini di 1 cm 3 .",
-      "In una padella versate l’olio 4 e la cipolla tritata 5 . Stufate la cipolla a fuoco dolce per circa 10 minuti, finché non sarà morbida e trasparente 6 .",
-      "Una volta che la cipolla sarà ben stufata, aggiungete le melanzane e mescolate 7 . Ora unite anche la passata di pomodoro 8 , sciacquate la caraffa e allungate il sugo con poca acqua 9 .",
-      "Aggiustate di sale 10 , pepe 11 e profumate con le foglie di basilico 12 .",
-      "Continuate a cuocere le melanzane per circa 10 minuti versando un mestolo di acqua calda 13 . Mettete da parte 2-3 cucchiai di melanzane e trasferite il resto in una brocca 14 , poi frullate con il mixer a immersione per ottenere una crema 15 . Tenetela da parte.",
-      "Eliminate la pelle dal pesce spada 16 , poi tagliatelo prima a strisce 17 e poi a cubetti piccoli 18 .",
-      "In una padella scaldate l’olio con l’aglio, poi versate i cubetti di pesce spada 19 e saltate a fuoco vivace per 2 minuti. Sfumate con il vino bianco 20 , lasciate evaporare e togliete l’aglio 21 .",
-      "Intanto cuocete la pasta al dente in abbondante acqua salata 22 . Una volta cotto, trasferite il pesce spada in una ciotola 23 e, nella stessa padella, versate la crema di melanzane preparata precedentemente 24 .",
-      "Aggiungete i capperi 25 e un mestolo di acqua di cottura della pasta 26 . Scolate la pasta al dente direttamente nel sugo 27 .",
-      "Mantecate in padella con altra acqua di cottura 28 , quanto basta perché risulti cremosa 29 . Completate il piatto con il pesce spada e le melanzane che avete tenuto da parte e guarnite con foglie di basilico fresco. La vostra pasta con crema di melanzane e pesce spada è pronta per essere servita 30 !"
+      "Per realizzare la pasta con crema di melanzane e pesce spada per prima cosa mondate e tritate finemente la cipolla. Tagliate le melanzane prima a fette e poi a dadini di 1 cm.",
+      "In una padella versate l’olio e la cipolla tritata. Stufate la cipolla a fuoco dolce per circa 10 minuti, finché non sarà morbida e trasparente.",
+      "Una volta che la cipolla sarà ben stufata, aggiungete le melanzane e mescolate. Ora unite anche la passata di pomodoro, sciacquate la caraffa e allungate il sugo con poca acqua.",
+      "Aggiustate di sale, pepe e profumate con le foglie di basilico.",
+      "Continuate a cuocere le melanzane per circa 10 minuti versando un mestolo di acqua calda. Mettete da parte 2-3 cucchiai di melanzane e trasferite il resto in una brocca, poi frullate con il mixer a immersione per ottenere una crema. Tenetela da parte.",
+      "Eliminate la pelle dal pesce spada, poi tagliatelo prima a strisce e poi a cubetti piccoli.",
+      "In una padella scaldate l’olio con l’aglio, poi versate i cubetti di pesce spada e saltate a fuoco vivace per 2 minuti. Sfumate con il vino bianco, lasciate evaporare e togliete l’aglio.",
+      "Intanto cuocete la pasta al dente in abbondante acqua salata. Una volta cotto, trasferite il pesce spada in una ciotola e, nella stessa padella, versate la crema di melanzane preparata precedentemente.",
+      "Aggiungete i capperi e un mestolo di acqua di cottura della pasta. Scolate la pasta al dente direttamente nel sugo.",
+      "Mantecate in padella con altra acqua di cottura, quanto basta perché risulti cremosa. Completate il piatto con il pesce spada e le melanzane che avete tenuto da parte e guarnite con foglie di basilico fresco. La vostra pasta con crema di melanzane e pesce spada è pronta per essere servita!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-11T10:49:00.733765+00:00",
@@ -22135,9 +22166,9 @@
       "Per preparare i bicchierini salati al salmone, crema di formaggio e crumble alle erbe iniziate mettendo nel mixer il formaggio grattugiato, poi aggiungete la farina e il rosmarino fresco.",
       "Salate e aggiungete il burro freddo a tocchetti. Lavorate a intermittenza fino a ottenere un composto dalla consistenza granulosa, simile a grosse briciole.",
       "Trasferite l’impasto su una teglia rivestita di carta forno e cuocetelo in forno statico preriscaldato a 180°C per 15 minuti, o finché risulterà dorato e fragrante. Nel frattempo, ricavate dalle fette di salmone una tartare, tagliandole finemente con un coltello ben affilato. Quando il crumble sarà cotto, sfornatelo e lasciatelo raffreddare.",
-      "Spezzettatelo con le mani per ottenere dei pezzetti irregolari. A questo punto potete comporre i vostri bicchierini: mettete alla base circa 20 g di crumble per porzione (11–12).",
-      "Con un cucchiaio aggiungete sopra il formaggio spalmabile Philadelphia 13 14 . Completate la preparazione disponendo in superficie la tartare di salmone affumicato e le mandorle a lamelle tostate 15 .",
-      "Aromatizzate con una grattugiata di scorza di lime 16 e qualche rametto di aneto fresco 17 . I vostri bicchierini salati al salmone, crema di formaggio e crumble alle erbe sono pronti da servire 18 ."
+      "Spezzettatelo con le mani per ottenere dei pezzetti irregolari. A questo punto potete comporre i vostri bicchierini: mettete alla base circa 20 g di crumble per porzione.",
+      "Con un cucchiaio aggiungete sopra il formaggio spalmabile Philadelphia. Completate la preparazione disponendo in superficie la tartare di salmone affumicato e le mandorle a lamelle tostate.",
+      "Aromatizzate con una grattugiata di scorza di lime e qualche rametto di aneto fresco. I vostri bicchierini salati al salmone, crema di formaggio e crumble alle erbe sono pronti da servire."
     ],
     "needs_review": false,
     "imported_at": "2026-10-11T10:49:03.522472+00:00",
@@ -22513,17 +22544,17 @@
       ]
     ],
     "steps": [
-      "Per preparare la focaccia farcita con cipolle e pomodorini mescolate insieme la semola 1 e la farina 00 2 . In una ciotola a parte sbriciolate il lievito fresco 3 .",
-      "Versate 320 g di acqua tiepida e mescolate con le mani per sciogliere il lievito 4 . Incorporate la miscela appena ottenuta nelle farine 5 e impastate a mano vigorosamente, sollevando e pressando con le nocche l'impasto finché non avrà assorbito bene il liquido; dovrà risultare morbido e soffice 6 .",
-      "Aggiungete il sale 7 e l'olio 8 e proseguite ad impastare a mano 9 .",
-      "Dovrete ottenere un panetto liscio e omogeneo 10 , copritelo con pellicola e ponetelo a lievitare nel forno spento con la luce accesa per 2 ore 11 . Nel frattempo occupatevi della farcitura: mondate e affettate le cipolle dorate 12 .",
-      "Fate lo stesso con le cipolle rosse 13 . Scaldate un giro d'olio abbondante in una casseruola 14 , poi aggiungete le cipolle 15 .",
-      "Salate subito 16 , in questo modo le cipolle rilasceranno in cottura la loro acqua e non si bruceranno, quindi unite i pomodorini interi e versate 320 g di acqua calda 17 . Mescolate bene, coprite con il coperchio 18 e cuocete a fiamma alta per 4-5 minuti, poi abbassate la fiamma al minimo e lasciate stufare le cipolle per circa 30-40 minuti.",
-      "Le cipolle dovranno risultare morbide e trasparenti 19 . A questo punto oleate un foglio di carta forno e adagiatelo su una teglia rettangolare che misura 28x35 cm 20 . Recuperate l'impasto lievitato e spolerizzatelo con poca farina 21 .",
-      "Allargatelo con le mani sulla spianatoia 22 , poi stendetelo con il mattarello per creare una forma rettangolare e sottile 23 , più grande della dimensione della teglia. Arrotolate la pasta sul mattarello e srotolatela sulla teglia. Passate il mattarello sul bordo per ritagliare il bordo in eccesso 24 .",
-      "Tenete da parte la pasta avanzata del bordo 25 e farcite la focaccia con gran parte delle cipolle stufate e intiepidite 26 , tenendone da parte 3-4 cucchiai per farcire la superficie. Ora stendete nuovamente con il mattarello la pasta avanzata 27 .",
-      "Ricreate una sfoglia rettangolare come la prima 28 e adagiatela sulla teglia per ricoprire la focaccia con un secondo strato 29 . Sigillate tutto il bordo premendo con le dita per non far uscire il ripieno in cottura 30 .",
-      "Ricoprite la superficie con le cipolle rimaste, bagnandola con il loro fondo di cottura. Condite con un filo d'olio e inumidite con poca acqua, poi insaporite con sale e abbondante origano secco 31 .  Bucherellate la superficie con la forchetta facendo attenzione a non bucare lo strato inferiore. Cuocete in forno statico a 180° per 40-45 minuti. Sfornate e lasciate intiepidire la focaccia farcita con cipolle e pomodorini 32 , poi tagliatela con le forbici e servitela a quadratini 33 !"
+      "Per preparare la focaccia farcita con cipolle e pomodorini mescolate insieme la semola e la farina 00. In una ciotola a parte sbriciolate il lievito fresco.",
+      "Versate 320 g di acqua tiepida e mescolate con le mani per sciogliere il lievito. Incorporate la miscela appena ottenuta nelle farine e impastate a mano vigorosamente, sollevando e pressando con le nocche l'impasto finché non avrà assorbito bene il liquido; dovrà risultare morbido e soffice.",
+      "Aggiungete il sale e l'olio e proseguite ad impastare a mano.",
+      "Dovrete ottenere un panetto liscio e omogeneo, copritelo con pellicola e ponetelo a lievitare nel forno spento con la luce accesa per 2 ore. Nel frattempo occupatevi della farcitura: mondate e affettate le cipolle dorate.",
+      "Fate lo stesso con le cipolle rosse. Scaldate un giro d'olio abbondante in una casseruola, poi aggiungete le cipolle.",
+      "Salate subito, in questo modo le cipolle rilasceranno in cottura la loro acqua e non si bruceranno, quindi unite i pomodorini interi e versate 320 g di acqua calda. Mescolate bene, coprite con il coperchio e cuocete a fiamma alta per 4-5 minuti, poi abbassate la fiamma al minimo e lasciate stufare le cipolle per circa 30-40 minuti.",
+      "Le cipolle dovranno risultare morbide e trasparenti. A questo punto oleate un foglio di carta forno e adagiatelo su una teglia rettangolare che misura 28x35 cm. Recuperate l'impasto lievitato e spolerizzatelo con poca farina.",
+      "Allargatelo con le mani sulla spianatoia, poi stendetelo con il mattarello per creare una forma rettangolare e sottile, più grande della dimensione della teglia. Arrotolate la pasta sul mattarello e srotolatela sulla teglia. Passate il mattarello sul bordo per ritagliare il bordo in eccesso.",
+      "Tenete da parte la pasta avanzata del bordo e farcite la focaccia con gran parte delle cipolle stufate e intiepidite, tenendone da parte 3-4 cucchiai per farcire la superficie. Ora stendete nuovamente con il mattarello la pasta avanzata.",
+      "Ricreate una sfoglia rettangolare come la prima e adagiatela sulla teglia per ricoprire la focaccia con un secondo strato. Sigillate tutto il bordo premendo con le dita per non far uscire il ripieno in cottura.",
+      "Ricoprite la superficie con le cipolle rimaste, bagnandola con il loro fondo di cottura. Condite con un filo d'olio e inumidite con poca acqua, poi insaporite con sale e abbondante origano secco. Bucherellate la superficie con la forchetta facendo attenzione a non bucare lo strato inferiore. Cuocete in forno statico a 180° per 40-45 minuti. Sfornate e lasciate intiepidire la focaccia farcita con cipolle e pomodorini, poi tagliatela con le forbici e servitela a quadratini!"
     ],
     "needs_review": false,
     "imported_at": "2026-10-11T10:52:45.755763+00:00",

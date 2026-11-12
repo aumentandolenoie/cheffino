@@ -4,6 +4,7 @@ Run --dry-run --report report.json to compare without writing. Existing
 verified galleries are retained; unknown extraction never proves absence.
 """
 import argparse
+import copy
 from difflib import SequenceMatcher
 import json
 import re
@@ -251,14 +252,9 @@ def read_robots(origin):
 
 
 def fetch_html(url):
-    req = Request(url, headers={'User-Agent': UA, 'Accept': 'text/html'})
-    with urlopen(req, timeout=25) as response:
-        if urlparse(response.geturl()).hostname != urlparse(url).hostname:
-            raise ValueError('Redirect fuori dal dominio previsto')
-        body = response.read(4_000_001)
-    if len(body) > 4_000_000:
-        raise ValueError('Pagina troppo grande')
-    return body.decode('utf-8', 'replace')
+    """HTML della fonte con nuovi tentativi sugli errori temporanei (vedi app/rete.py)."""
+    from app.rete import fetch_text
+    return fetch_text(url)
 
 
 
@@ -320,6 +316,12 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
                 raise ValueError('Manifest revisione foto non valido')
             published.update((r.get('id'),r.get('url')) for r in review_items
                              if isinstance(r,dict) and r.get('id') is not None and r.get('url'))
+        # Le schede già approvate dalla validazione ma non ancora pubblicate
+        # attendono proprio le foto dei passaggi: senza includerle qui non
+        # potrebbero mai entrare nello snapshot (requisito di pubblicazione).
+        published.update((r.get('id'), r.get('url')) for r in catalog
+                         if isinstance(r, dict) and r.get('needs_review') is False and
+                         (r.get('validazione_automatica') or {}).get('approved') is True)
 
     pending = [r for r in catalog if 'giallozafferano' in str(r.get('source', '')).lower() and
                r.get('url') and r.get('steps') and
@@ -344,6 +346,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
                                 str(r.get('name', ''))))
 
     checked = main_added = step_added = blocked = errors = no_match = 0
+    consecutive_transient = 0
     strips_used = numbered_used = steps_filled_total = 0
     report = []
     for rec in pending:
@@ -355,6 +358,7 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
         if not policy.can_fetch(UA, url):
             blocked += 1
             continue
+        original = copy.deepcopy(rec)
         try:
             html = fetcher(url)
             from app.recipe_media import extract_media
@@ -455,10 +459,21 @@ def run(catalog_path=CATALOG, limit=25, delay=2.5, fetcher=fetch_html, policy=No
                 temporary.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
                 temporary.replace(path)
         except Exception as exc:
+            # Nessuna modifica parziale: la scheda torna esattamente com'era.
+            rec.clear()
+            rec.update(original)
             checked += 1
             errors += 1
-            report.append({'id': rec.get('id'), 'status': 'fetch_failed', 'error': str(exc)})
+            transient = bool(getattr(exc, 'transient', False))
+            consecutive_transient = consecutive_transient + 1 if transient else 0
+            report.append({'id': rec.get('id'), 'status': 'fetch_failed', 'error': str(exc),
+                           'transient': transient})
             print(f'Errore recupero immagini: {rec.get("name")}: {exc}')
+            if consecutive_transient >= 4:
+                print('Errori temporanei ripetuti: sito non disponibile o limitazione in corso, arresto prudenziale.', flush=True)
+                break
+        else:
+            consecutive_transient = 0
         if delay:
             time.sleep(delay)
 

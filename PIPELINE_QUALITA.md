@@ -90,3 +90,33 @@ I test sintetici non dimostrano da soli la copertura di ogni template reale:
 prima di applicare nuove associazioni va esaminato anche il confronto Actions
 con le fonti live. Usare `--recipe-id ID` (ripetibile, solo con `--dry-run`)
 per confrontare anche ricette già controllate. Un report vuoto o composto da errori non prova equivalenza.
+
+## Affidabilità v13 (novembre 2026)
+
+- **Un solo parser ingredienti** (`app/ingredienti.py`), usato da importazione,
+  riparazione e normalizzazione: entità HTML decodificate (`&frac12;` → `½`),
+  unità normalizzate, conteggi senza unità accettati solo se plausibili (< 20)
+  e non derivati (succo, scorza, farina...). Nessuna quantità inventata.
+- **Un solo costruttore di schede** (`app.catalog.build_record`): le ricette
+  importate hanno subito porzioni, tempi, quantità e passaggi puliti, invece di
+  restare «da fonte» fino a una riparazione manuale.
+- **Parser JSON-LD robusto**: sezioni `HowToSection` con `@type` in lista,
+  istruzioni in un'unica stringa, immagini `ImageObject`, JSON con virgole
+  finali o caratteri di controllo, alias dei valori nutrizionali.
+- **Rete** (`app/rete.py`): charset dalla risposta, nuovi tentativi con attesa
+  crescente su 429/5xx/timeout, nessun nuovo tentativo su 403/404 o redirect
+  esterni. Gli errori temporanei non lasciano modifiche parziali e, se ripetuti,
+  fermano il lotto.
+- **Pulizia passaggi v2** (`pulisci_procedimenti.py`): i numeri delle foto sono
+  riconosciuti dai nomi file delle immagini del blocco (`_7.jpg`, `strip_7-9`) o
+  da catene crescenti con buchi; gestisce `(8.` e `(5-6)`. Dosi, tempi e misure
+  restano intatti. La v1 lasciava riferimenti come «l'acqua 12 .» in 49 ricette
+  pubblicate.
+- **Recupero foto**: con `--published-only` include anche le schede già
+  approvate ma non pubblicate, che altrimenti non potevano mai ricevere le foto
+  richieste per la pubblicazione.
+- `normalizza_catalogo.py`: correzioni offline e idempotenti su catalogo e
+  snapshot insieme. `audit_ricette.py`: controllo completo, anche `--online`
+  per confrontare le schede con la pagina originale.
+- Workflow: il salvataggio dei dati avviene prima del caricamento dei report;
+  un errore di quota degli artifact non blocca più il commit.

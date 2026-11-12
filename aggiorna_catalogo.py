@@ -17,7 +17,8 @@ from urllib.error import HTTPError, URLError
 from xml.etree import ElementTree as ET
 from urllib.robotparser import RobotFileParser
 
-from app.catalog import fetch_recipe
+from app.catalog import fetch_recipe, build_record, normalize_url
+from app.rete import FetchError
 from app.public_catalog import CATALOG
 
 BASE = 'https://ricette.giallozafferano.it'
@@ -28,15 +29,29 @@ MAX_XML_BYTES = 12_000_000
 MAX_DISCOVERED_URLS = 6000
 
 
-def fetch_xml(url):
-    req = Request(url, headers={'User-Agent': UA, 'Accept': 'application/xml,text/xml'})
-    with urlopen(req, timeout=25) as resp:
-        final = resp.geturl()
-        if urlparse(final).hostname != 'ricette.giallozafferano.it':
-            raise ValueError('Sitemap reindirizzata fuori dal dominio consentito')
-        data = resp.read(MAX_XML_BYTES + 1)
+def fetch_xml(url, attempts=3):
+    """Sitemap XML con nuovi tentativi sugli errori temporanei (429/5xx/rete)."""
+    for attempt in range(1, attempts + 1):
+        try:
+            req = Request(url, headers={'User-Agent': UA, 'Accept': 'application/xml,text/xml'})
+            with urlopen(req, timeout=25) as resp:
+                final = resp.geturl()
+                if urlparse(final).hostname != 'ricette.giallozafferano.it':
+                    raise ValueError('Sitemap reindirizzata fuori dal dominio consentito')
+                data = resp.read(MAX_XML_BYTES + 1)
+            break
+        except HTTPError as exc:
+            if exc.code not in (429, 500, 502, 503, 504) or attempt == attempts:
+                raise
+        except (URLError, TimeoutError, ConnectionError):
+            if attempt == attempts:
+                raise
+        time.sleep(4 * attempt)
     if len(data) > MAX_XML_BYTES:
         raise ValueError('Sitemap troppo grande: arresto prudenziale')
+    if data[:2] == b'\x1f\x8b':
+        import gzip
+        data = gzip.decompress(data)
     return ET.fromstring(data)
 
 
@@ -160,30 +175,17 @@ def diversify_urls(urls, week=None):
     return result
 
 
-def val(v):
-    if not isinstance(v, str): return None
-    m = re.search(r'(\d+(?:[.,]\d+)?)', v)
-    return float(m.group(1).replace(',', '.')) if m else None
+def convert(raw, existing=None):
+    """Scheda completa (porzioni, tempi, quantità interpretate) e sempre in revisione."""
+    return build_record(raw, existing)
 
 
-def convert(raw):
-    url = raw['url']
-    return {
-        'id': int(hashlib.sha256(url.encode()).hexdigest()[:12], 16) + 10000,
-        'name': raw['name'], 'emoji': '🍽️', 'style': 'Da classificare',
-        'type': 'Da classificare', 'time': None,
-        'ingredients_display': raw['ingredients'],
-        'source': 'GialloZafferano', 'url': url,
-        'image_url': raw.get('image_url'), 'servings': None,
-        'kcal': val(raw.get('nutrition', {}).get('calories')),
-        'protein': val(raw.get('nutrition', {}).get('proteinContent')),
-        'carbs': val(raw.get('nutrition', {}).get('carbohydrateContent')),
-        'fats': val(raw.get('nutrition', {}).get('fatContent')),
-        'cost': None,
-        'ingredients': [[x, None, 'da fonte'] for x in raw['ingredients']],
-        'steps': raw['steps'], 'needs_review': True,
-        'imported_at': datetime.now(timezone.utc).isoformat(),
-    }
+def save_catalog(path, catalog):
+    """Scrittura atomica: un'interruzione non lascia mai un JSON troncato."""
+    path = Path(path)
+    temporary = path.with_suffix('.import-tmp')
+    temporary.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    temporary.replace(path)
 
 
 def load_robots():
@@ -223,17 +225,19 @@ def run(limit=20, delay=2.5, discoverer=discover_urls, fetcher=fetch_recipe,
         raise RuntimeError('La sitemap non è consentita dalle regole robots.txt rilevate. Importazione interrotta.')
     catalog = json.loads(Path(catalog_path).read_text(encoding='utf-8'))
     if not isinstance(catalog, list): raise ValueError('Catalogo JSON non valido')
-    known = {r['url'] for r in catalog if r.get('url')}
-    candidates = diversify_urls(discoverer())
+    known = {normalize_url(r['url']) for r in catalog if r.get('url')}
+    known_names = {str(r.get('name', '')).casefold().strip() for r in catalog}
+    candidates = list(dict.fromkeys(normalize_url(u) for u in diversify_urls(discoverer())))
     print(f'URL candidati: {len(candidates)}; gia presenti nel catalogo: {len(known)}', flush=True)
     imported = 0
     failed = 0
     already = 0
     robots_blocked = 0
+    transient = 0
+    duplicates = 0
     for url in candidates:
-        if imported >= limit or failed >= 12: break
-        # Evita dessert/bevande evidenti già dall'URL, senza escludere
-        # ricette ambigue che saranno valutate dal classificatore.
+        if imported >= limit or failed >= 12 or transient >= 5:
+            break
         if url in known:
             already += 1
             continue
@@ -242,25 +246,43 @@ def run(limit=20, delay=2.5, discoverer=discover_urls, fetcher=fetch_recipe,
             continue
         try:
             raw = fetcher(url)
+            raw = dict(raw, url=normalize_url(raw.get('url') or url))
             if len(raw.get('ingredients', [])) < 2 or not raw.get('steps') or not raw.get('name'):
                 print(f'Scheda incompleta, saltata: {url}')
                 failed += 1
                 continue
+            if raw['url'] in known or raw['name'].casefold().strip() in known_names:
+                # Stessa ricetta raggiunta da un URL diverso (redirect o alias).
+                duplicates += 1
+                known.add(url)
+                continue
             catalog.append(convert(raw))
-            known.add(url)
+            known.update({url, raw['url']})
+            known_names.add(raw['name'].casefold().strip())
             imported += 1
             print(f'Importata (in revisione): {raw["name"]}')
-            # Commit state even if a later request fails.
-            Path(catalog_path).write_text(json.dumps(catalog, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+            # Salvataggio atomico dopo ogni scheda: un errore successivo non perde il lavoro.
+            save_catalog(catalog_path, catalog)
+        except FetchError as exc:
+            if exc.transient:
+                transient += 1
+                print(f'Errore temporaneo {url}: {exc} (ritentata alla prossima esecuzione)')
+            else:
+                failed += 1
+                print(f'Importazione non riuscita {url}: {exc}')
         except Exception as exc:
             failed += 1
             print(f'Importazione non riuscita {url}: {exc}')
-        if delay and imported < limit: time.sleep(delay)
-    print(f'Riepilogo filtri: gia_presenti={already}, robots_bloccati={robots_blocked}, fallite_incomplete={failed}', flush=True)
+        if delay and imported < limit:
+            time.sleep(delay)
+    if transient >= 5:
+        print('Troppi errori temporanei consecutivi: sito lento o limitazione in corso, arresto prudenziale.', flush=True)
+    print(f'Riepilogo filtri: gia_presenti={already}, duplicati={duplicates}, robots_bloccati={robots_blocked}, '
+          f'fallite_incomplete={failed}, errori_temporanei={transient}', flush=True)
     print(f'Nuove ricette: {imported}; fallite/incomplete: {failed}; totale catalogo: {len(catalog)}', flush=True)
     if imported == 0 and robots_blocked > 0 and already == 0 and failed == 0:
         raise RuntimeError('Tutte le ricette candidate sono vietate dal robots.txt verificato; nessuna importazione effettuata.')
-    if imported == 0 and failed > 0:
+    if imported == 0 and failed > 0 and transient == 0:
         raise RuntimeError('Nessuna ricetta importata: tutte le estrazioni tentate sono fallite o incomplete. Consultare i log sopra.')
     return imported
 

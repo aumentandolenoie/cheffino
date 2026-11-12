@@ -19,19 +19,27 @@ DESSERT = ('torta ', 'tortine', 'tortino dolce', 'biscott', 'crostat', 'muffin',
            'crema pasticcera', 'dolce ', 'dolcett', 'frollin', 'nutella',
            'marmellata', 'granola', 'porridge', 'cicciopancake', 'cookies', 'waffle', 'crepes dolci',
            'rotolo al tè matcha', 'polvorones', 'zuppa inglese', 'zucchette di halloween',
-           'zucchette di pasta sfoglia', 'tortine di zucca')
+           'zucchette di pasta sfoglia', 'tortine di zucca', 'cake', 'profiteroles',
+           'pumpkin pie', 'popcorn al caramello', 'insalata di frutta')
 DRINKS = ('latte ', 'matcha latte', 'golden milk', 'gingerbread latte',
           'pumpkin spice latte', 'cioccolatte', 'frullato', 'smoothie', 'bevanda ')
-CONDIMENTS = ('besciamella', 'salsa ', 'maionese', 'pesto ', 'crema pasticcera')
-SIDE = ('contorno', 'patate al forno', 'verdure grigliate', 'insalata verde')
+# Condimenti solo se il titolo INIZIA con il condimento: «Pasta con pesto di...»
+# o «Burger ... con maionese» sono piatti, non salse.
+CONDIMENTS = ('besciamella', 'salsa ', 'maionese', 'pesto ', 'crema pasticcera', 'ragù ', 'sugo ')
+SIDE = ('contorno', 'patate al forno', 'verdure grigliate', 'insalata verde', 'carote arrosto',
+        'cavolfiore arrosto', 'patate arrosto', 'zucca arrosto', 'finocchi arrosto', 'purè', 'pure di ')
 FIRST = ('pasta ', 'spaghetti', 'fusilli', 'penne ', 'rigatoni', 'risotto',
          'riso alla', 'gnocchi', 'lasagne', 'lasagna', 'ravioli', 'tortelli',
          'tortellini', 'tagliatelle', 'orecchiette', 'carbonara', 'amatriciana',
-         'malfatti ', 'casarecce', 'conchiglioni', 'paccheri', 'mezze maniche', 'linguine', 'bucatini', 'trofie', 'cavatelli')
+         'malfatti ', 'casarecce', 'conchiglioni', 'paccheri', 'mezze maniche', 'linguine', 'bucatini', 'trofie', 'cavatelli',
+         'busiate', 'cappellacci', 'plin ', 'pizzoccheri', 'agnolotti', 'fettuccine', 'pappardelle',
+         'tagliolini', 'strozzapreti', 'cannelloni', 'orzotto', 'farrotto', 'bavette')
 SECOND = ('frittata', 'pollo ', 'petto di pollo', 'tacchino ', 'merluzzo',
           'salmone', 'orata ', 'branzino', 'hamburger', 'polpette',
           'scaloppine', 'arrosto', 'bistecca', 'spezzatino', 'omelette',
-          'sgombro', 'baccalà', 'pesce spada', 'tonno in padella', 'filetti di ', 'cosce di pollo', 'carrè di maiale', 'arrosto di ', 'polpo ', 'orata al ', 'seppie ', 'calamari ')
+          'sgombro', 'baccalà', 'pesce spada', 'tonno in padella', 'filetti di ', 'cosce di pollo', 'carrè di maiale', 'arrosto di ', 'polpo ', 'orata al ', 'seppie ', 'calamari ',
+          'braciole', 'bocconcini di vitello', 'bocconcini di manzo', 'bocconcini di maiale', 'pulled pork',
+          'pulled chicken', 'straccetti di', 'polipetti', 'pomodori ripieni di carne')
 ONE_DISH = ('zuppa', 'minestra', 'minestrone', 'vellutata', 'insalatona', 'insalata di riso', 'insalata di pasta', 'insalata d’orzo', "insalata d'orzo", 'insalata di farro',
             'bowl', 'cous cous', 'couscous', 'poke', 'piatto unico',
             'fagioli in umido', 'lenticchie in umido', 'pizza ', 'panino ',
@@ -47,7 +55,7 @@ def classify(name):
         return 'Bevanda', 'escluso', 'nome'
     if any(t in n for t in DESSERT):
         return 'Dolce o colazione', 'escluso', 'nome'
-    if any(t in n for t in CONDIMENTS):
+    if any(n.startswith(t) or n == t.strip() for t in CONDIMENTS):
         return 'Condimento', 'escluso', 'nome'
     if any(t in n for t in SIDE):
         return 'Contorno', 'escluso', 'nome'

@@ -52,19 +52,11 @@ def parse_duration(value):
 
 
 def parse_ingredient(text):
-    """Restituisce [nome, quantità, unità] o None se ambiguo.
-    Mantiene il testo originale in ingredients_display.
+    """Restituisce [nome, quantità, unità]; delega al parser unico app/ingredienti.py.
+    Il testo originale resta in ingredients_display.
     """
-    s = re.sub(r'\s+', ' ', str(text)).strip()
-    if not s: return None
-    qb = re.match(r'^(.*?)\s+q\.?\s*b\.?$', s, re.I)
-    if qb and qb.group(1).strip(): return [qb.group(1).strip(), None, 'q.b.']
-    # Formati pubblicati: 'Filetti di sgombro 600 g', 'Aglio 1 spicchio'.
-    m = re.match(r'^(.*?)\s+(\d+(?:[.,]\d+)?)\s*(kg|g|mg|ml|l|cl|spicchio|spicchi|cucchiai?|cucchiaini?|pezzi?|fette?|rametti?|foglie?|uova?)\s*$', s, re.I)
-    if m and m.group(1).strip():
-        return [m.group(1).strip(), number(m.group(2)), m.group(3).lower()]
-    # Se manca un'unità di misura inequivocabile, non indovinare.
-    return [s, None, 'da verificare']
+    from app.ingredienti import parse_ingredient as parse
+    return parse(text)
 
 
 def numeric_nutrition(value):
@@ -99,7 +91,12 @@ def enrich(rec, raw):
     for target, source in [('kcal','calories'), ('protein','proteinContent'),
                            ('carbs','carbohydrateContent'), ('fats','fatContent')]:
         revised[target] = numeric_nutrition(nut.get(source)) if nut.get(source) else rec.get(target)
-    revised['steps'] = raw.get('steps') or rec.get('steps')
+    if raw.get('steps'):
+        from pulisci_procedimenti import clean_steps
+        revised['steps_raw'] = list(raw['steps'])
+        revised['steps'], _ = clean_steps(list(raw['steps']), rec.get('step_images'))
+    else:
+        revised['steps'] = rec.get('steps')
     revised['image_url'] = raw.get('image_url') or rec.get('image_url')
     revised['needs_review'] = True
     revised['repaired_at'] = datetime.now(timezone.utc).isoformat()

@@ -31,14 +31,21 @@ def _allowed_photo_review(path, source_records):
     data={r.get("id"):r for r in source_records}
     allowed=set()
     reasons={"galleria_presente_nella_fonte_non_abbinata",
-             "foto_nel_corpo_del_blog_non_ancora_abbinate"}
+             "foto_nel_corpo_del_blog_non_ancora_abbinate",
+             "non_piatto_principale"}
+    from classifica_catalogo import classify
     for item in manual:
         if not isinstance(item,dict) or item.get("reason") not in reasons:
             raise ValueError("Motivo della sospensione non riconosciuto")
         rid=item.get("id")
         rec=data.get(rid)
-        if (rid in allowed or not rec or rec.get("url")!=item.get("url")
-                or publishable_step_photos(rec)):
+        if rid in allowed or not rec or rec.get("url")!=item.get("url"):
+            raise ValueError("Sospensione non valida: "+str(rid))
+        if item["reason"]=="non_piatto_principale":
+            # Ritiro documentato di un contorno/dolce pubblicato per errore come piatto.
+            if classify(rec.get("name",""))[1]!="escluso":
+                raise ValueError("Ritiro non giustificato dalla classificazione: "+str(rid))
+        elif publishable_step_photos(rec):
             raise ValueError("Sospensione fotografica non valida: "+str(rid))
         allowed.add(rid)
     return allowed

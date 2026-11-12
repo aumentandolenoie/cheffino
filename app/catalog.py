@@ -28,41 +28,93 @@ def recipe_nodes(item):
         if isinstance(typ,str): typ=[typ]
         if 'Recipe' in typ or any(str(t).endswith('/Recipe') for t in typ): yield item
         for child in item.get('@graph',[]): yield from recipe_nodes(child)
+        # Alcuni siti annidano la ricetta in mainEntity / mainEntityOfPage.
+        for key in ('mainEntity','mainEntityOfPage'):
+            if isinstance(item.get(key),(dict,list)): yield from recipe_nodes(item[key])
+
+
+def _types(v):
+    typ=v.get('@type',[]) if isinstance(v,dict) else []
+    return [typ] if isinstance(typ,str) else [str(t) for t in typ or []]
+
 
 def text_value(v):
-    if isinstance(v,str): return v.strip()
-    if isinstance(v,dict): return str(v.get('text') or v.get('name') or '').strip()
+    from app.ingredienti import clean_text
+    if isinstance(v,str): return clean_text(v)
+    if isinstance(v,dict): return clean_text(v.get('text') or v.get('name') or '')
     return ''
+
+
+def load_json_ld(script):
+    """JSON-LD tollerante: commenti HTML/CDATA, caratteri di controllo, virgole finali."""
+    raw=script.strip()
+    raw=re.sub(r'^\s*(?:<!--|<!\[CDATA\[)|(?:-->|\]\]>)\s*$','',raw)
+    for candidate in (raw, re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]',' ',raw)):
+        try: return json.loads(candidate)
+        except json.JSONDecodeError: pass
+    try: return json.loads(re.sub(r',\s*([}\]])',r'\1',re.sub(r'[\x00-\x1f]',' ',raw)))
+    except json.JSONDecodeError: return None
+
+
+def _image(img):
+    if isinstance(img,list):
+        for x in img:
+            if u:=_image(x): return u
+        return None
+    if isinstance(img,dict): img=img.get('url') or img.get('contentUrl')
+    return img.strip() if isinstance(img,str) and img.strip() else None
+
+
+def _steps(value):
+    steps=[]
+    def add(v):
+        if isinstance(v,list):
+            for x in v: add(x)
+        elif isinstance(v,dict):
+            if any(t.endswith('HowToSection') for t in _types(v)) or (
+                    'itemListElement' in v and not v.get('text')):
+                add(v.get('itemListElement',[]))
+            else:
+                s=text_value(v)
+                if s: steps.append(s)
+        elif isinstance(v,str):
+            # Istruzioni in un'unica stringa: un paragrafo per riga.
+            for line in re.split(r'(?:\r?\n)+|<br\s*/?>',v):
+                s=text_value(line)
+                if s: steps.append(s)
+    add(value)
+    return steps
+
+
+NUTRITION_KEYS={'calories':('calories',),'proteinContent':('proteinContent','protein'),
+                'carbohydrateContent':('carbohydrateContent','carbohydrate'),
+                'fatContent':('fatContent','fat')}
+
 
 def parse_recipe(html,url):
     p=JsonLdParser(); p.feed(html)
     for script in p.scripts:
-        try: roots=json.loads(script)
-        except json.JSONDecodeError: continue
+        roots=load_json_ld(script)
+        if roots is None: continue
         for node in recipe_nodes(roots):
             name=text_value(node.get('name'))
-            ingredients=[text_value(x) for x in node.get('recipeIngredient',[]) if text_value(x)]
+            raw_ing=node.get('recipeIngredient') or node.get('ingredients') or []
+            if isinstance(raw_ing,str): raw_ing=[raw_ing]
+            ingredients=[text_value(x) for x in raw_ing if text_value(x)]
             if not name or not ingredients: continue
-            steps=[]
-            def add_step(v):
-                if isinstance(v,list):
-                    for x in v: add_step(x)
-                elif isinstance(v,dict):
-                    typ=v.get('@type','')
-                    if typ=='HowToSection': add_step(v.get('itemListElement',[]))
-                    else:
-                        s=text_value(v)
-                        if s: steps.append(s)
-                elif isinstance(v,str) and v.strip(): steps.append(v.strip())
-            add_step(node.get('recipeInstructions',[]))
-            img=node.get('image'); img=img[0] if isinstance(img,list) and img else img
-            if isinstance(img,dict): img=img.get('url') or img.get('contentUrl')
+            steps=_steps(node.get('recipeInstructions',[]))
             nutrition=node.get('nutrition') if isinstance(node.get('nutrition'),dict) else {}
+            nut={}
+            for key,aliases in NUTRITION_KEYS.items():
+                for alias in aliases:
+                    if nutrition.get(alias) not in (None,''):
+                        nut[key]=nutrition[alias]; break
             yield_info=node.get('recipeYield')
-            return {'name':name,'url':url,'source':urlparse(url).hostname,'image_url':img if isinstance(img,str) else None,
+            if isinstance(yield_info,list): yield_info=next((x for x in yield_info if x),None)
+            return {'name':name,'url':url,'source':urlparse(url).hostname,'image_url':_image(node.get('image')),
                     'ingredients':ingredients,'steps':steps,'yield_text':str(yield_info) if yield_info else None,
                     'prep_time':node.get('prepTime'),'cook_time':node.get('cookTime'),'total_time':node.get('totalTime'),
-                    'nutrition':{k:nutrition.get(k) for k in ('calories','proteinContent','carbohydrateContent','fatContent') if nutrition.get(k)},
+                    'nutrition':nut,
                     'imported_at':datetime.now(timezone.utc).isoformat()}
     raise ValueError('Nessuna ricetta completa in formato JSON-LD: nessun dato inserito.')
 
@@ -71,14 +123,55 @@ def validate_url(url):
     if p.scheme!='https' or not p.hostname or not any(p.hostname==d or p.hostname.endswith('.'+d) for d in ALLOWED):
         raise ValueError('URL non consentito: usare una pagina HTTPS dei siti supportati.')
 
-def fetch_recipe(url):
+
+def normalize_url(url):
+    """Forma canonica per confronti: https, host minuscolo, niente query/frammento."""
+    p=urlparse(str(url or '').strip())
+    host=(p.hostname or '').lower()
+    path=re.sub(r'/{2,}','/',p.path or '/')
+    return f'https://{host}{path}' if host else str(url or '')
+
+
+def fetch_recipe(url, fetcher=None):
     validate_url(url)
-    req=Request(url,headers={'User-Agent':'CheffinoPersonalProject/0.1 (manual import; contact owner for requests)','Accept':'text/html'})
-    with urlopen(req,timeout=18) as response:
-        if urlparse(response.geturl()).hostname != urlparse(url).hostname:
-            validate_url(response.geturl())
-        html=response.read(3_000_000).decode('utf-8','replace')
+    from app.rete import fetch_text
+    html=(fetcher or fetch_text)(url)
     return parse_recipe(html,url)
+
+
+SOURCE_NAMES={'ricette.giallozafferano.it':'GialloZafferano','www.giallozafferano.it':'GialloZafferano',
+              'blog.giallozafferano.it':'GialloZafferano Blog','cookist.it':'Cookist','www.cookist.it':'Cookist'}
+
+
+def build_record(raw, existing=None):
+    """Scheda di catalogo completa da una ricetta letta dalla fonte.
+
+    Unico costruttore per importazione automatica (aggiorna_catalogo.py) e
+    manuale (importa_ricetta.py): porzioni, tempi e quantità sono interpretati
+    subito, senza inventare valori. La scheda resta sempre in revisione.
+    """
+    import hashlib
+    from app.ingredienti import parse_ingredient
+    from ripara_catalogo import parse_servings, parse_duration, numeric_nutrition
+    from pulisci_procedimenti import clean_steps
+    url=normalize_url(raw['url'])
+    nut=raw.get('nutrition') or {}
+    total=parse_duration(raw.get('total_time')) or (
+        (parse_duration(raw.get('prep_time')) or 0)+(parse_duration(raw.get('cook_time')) or 0)) or None
+    steps,_=clean_steps(list(raw.get('steps') or []))
+    rec={'id':existing['id'] if existing else int(hashlib.sha256(url.encode()).hexdigest()[:12],16)+10000,
+         'name':raw['name'],'emoji':'🍽️','style':'Da classificare','type':'Da classificare',
+         'time':total,'ingredients_display':list(raw['ingredients']),
+         'source':SOURCE_NAMES.get(urlparse(url).hostname or '', urlparse(url).hostname),
+         'url':url,'image_url':raw.get('image_url'),'servings':parse_servings(raw.get('yield_text')),
+         'kcal':numeric_nutrition(nut.get('calories')) if nut.get('calories') else None,
+         'protein':numeric_nutrition(nut.get('proteinContent')) if nut.get('proteinContent') else None,
+         'carbs':numeric_nutrition(nut.get('carbohydrateContent')) if nut.get('carbohydrateContent') else None,
+         'fats':numeric_nutrition(nut.get('fatContent')) if nut.get('fatContent') else None,
+         'cost':None,'ingredients':[parse_ingredient(x) for x in raw['ingredients']],
+         'steps':steps,'steps_raw':list(raw.get('steps') or []),'needs_review':True,
+         'imported_at':raw.get('imported_at') or datetime.now(timezone.utc).isoformat()}
+    return rec
 
 def connect():
     DB.parent.mkdir(parents=True,exist_ok=True)

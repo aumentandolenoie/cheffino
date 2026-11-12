@@ -1751,7 +1751,7 @@
     "name": "Zuppa di lenticchie",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 65,
     "ingredients_display": [
       "Lenticchie secche 250 g",
@@ -1869,7 +1869,7 @@
       "Versate i crostini su una teglia, condite con sale, pepe, olio e origano fresco.Tostate il pane in forno preriscaldato a 200° in modalità ventilata per 8 minuti. Lavate e tagliate a metà i pomdorini.",
       "Aggiungete quindi i pomodorini e proseguite la cottura per una decina di minuti. Controllate di aver raggiunto il grado di cottura adatto ai vostri gusti, regolate di sale e pepe e togliete dal fuoco, lasciate riposare qualche minuto. Servite la zuppa di lenticchie ben calda aggiungendo un filo d'olio a crudo, una grattata di pepe e i crostini di pane."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:45:33.101948+00:00",
     "repaired_at": "2026-10-10T12:26:18.603233+00:00",
     "classificazione_automatica": {
@@ -1877,15 +1877,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Forno",
@@ -2057,7 +2055,7 @@
     "name": "Zuppa di farro e lenticchie",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 80,
     "ingredients_display": [
       "Lenticchie secche 250 g",
@@ -2140,7 +2138,7 @@
       "Aggiustate di sale. Unite anche il farro e fate cuocere per 30 minuti. Se necessario versate altra acqua di cottura delle lenticchie.",
       "Impiattate e completate con un giro d’olio e una spolverata di pepe. La zuppa di farro e lenticchie è pronta per essere gustata"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:45:38.391986+00:00",
     "repaired_at": "2026-10-10T12:26:23.883689+00:00",
     "classificazione_automatica": {
@@ -2148,15 +2146,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Fornelli"
@@ -2647,15 +2643,14 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Dolce o colazione",
       "tools": [
@@ -2802,7 +2797,7 @@
     "name": "Tortelli di zucca alla mantovana",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 110,
     "ingredients_display": [
       "Farina 00 450 g",
@@ -2935,7 +2930,7 @@
       "Intanto sciogliete il burro nella stessa padella in cui avete tostato le mandorle. Scolate i tortelli nella padella con il burro e profumate con il timo. Unite anche dell'acqua di cottura della pasta per creare una salsina.",
       "Insaporite con il formaggio grattugiato e la scorza del limone. Servite i tortelli di zucca alla mantovana con le mandorle tostate."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:45:52.668135+00:00",
     "repaired_at": "2026-10-10T12:26:37.591509+00:00",
     "classificazione_automatica": {
@@ -2943,15 +2938,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Primo",
       "tools": [
         "Forno",
@@ -3420,15 +3413,14 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Dolce o colazione",
       "tools": [
@@ -3553,15 +3545,14 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Dolce o colazione",
       "tools": [
@@ -3700,15 +3691,14 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Dolce o colazione",
       "tools": [
@@ -4255,15 +4245,14 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Dolce o colazione",
       "tools": [
@@ -4514,7 +4503,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -4974,7 +4963,7 @@
     "name": "Sgombro con cime di rapa e nocciole",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 80,
     "ingredients_display": [
       "Sgombro 2",
@@ -5093,7 +5082,7 @@
       "Passate alle cime: scaldate un giro d'olio nella stessa padella in cui avete cotto lo sgombro 31 . Adagiate le cime 32 e rosolatele bene da entrambi i lati 32 , poi sfumate con un cucchiaio di succo di limone 33 .",
       "Adagiate anche le cime su carta assorbente e condite con un pizzico di sale 34 . Servite i filetti accompagnati con la salsa di nocciole 35 e le cime di rapa 36 ."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:56:32.495897+00:00",
     "repaired_at": "2026-10-10T12:32:49.351855+00:00",
     "classificazione_automatica": {
@@ -5101,15 +5090,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Forno",
@@ -5369,15 +5356,14 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Dolce o colazione",
       "tools": [
@@ -5533,7 +5519,7 @@
     "name": "Quiche con pere, salvia e fontina",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 80,
     "ingredients_display": [
       "Farina 00 200 g",
@@ -5648,7 +5634,7 @@
       "Bucherellate la base con una forchetta, poi inserite all’interno gli spicchi di pera e le fette di fontina.",
       "Versate il composto di tuorlo e panna e cuocete in forno statico preriscaldato a 180° per circa 40-45 minuti. Quando sarà bella dorata, sfornate e lasciate intiepidire prima di servire la vostra quiche con pere, salvia e fontina!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:56:43.116764+00:00",
     "repaired_at": "2026-10-10T12:33:18.523761+00:00",
     "classificazione_automatica": {
@@ -5656,15 +5642,13 @@
       "esito": "candidato",
       "criterio": "nome: preparazione salata",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Forno",
@@ -5893,15 +5877,14 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
         "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti",
         "attrezzatura_non_determinabile"
       ],
       "type": "Dolce o colazione",
@@ -6298,7 +6281,7 @@
     "name": "Mini pie salate di formaggio e mele",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 45,
     "ingredients_display": [
       "Pasta Sfoglia (2 rotoli rettangolari) 460 g",
@@ -6395,7 +6378,7 @@
       "A questo punto stendete il secondo rotolo di pasta sfoglia e ritagliate altri 4 dischi con lo stesso coppapasta di 10 cm di diametro, poi utilizzate un coltellino per praticare 3 tagli al centro, facendo attenzione a non incidere la sfoglia fino ai bordi. Adagiate il disco di sfoglia così intagliato su ogni tartelletta in modo da coprire il ripieno e premete con le dita lungo i bordi per sigillarlo.",
       "Sbattete il tuorlo con poco latte in una ciotolina e spennellate le mini pie con il composto ottenuto, poi cuocete in forno statico preriscaldato a 180° per 20-25 minuti, fino a quando non saranno belle dorate. Le vostre mini pie salate di formaggio e mele sono pronte per essere servite ancora tiepide!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:56:59.178647+00:00",
     "repaired_at": "2026-10-10T12:33:34.242231+00:00",
     "classificazione_automatica": {
@@ -6403,15 +6386,13 @@
       "esito": "candidato",
       "criterio": "nome: preparazione salata",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Forno"
@@ -6474,7 +6455,7 @@
     "name": "Minestra di riso e patate",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 55,
     "ingredients_display": [
       "Riso Carnaroli 320 g",
@@ -6568,7 +6549,7 @@
       "Quando le patate saranno cotte, unite il riso, portate a cottura seguendo i tempi indicati sulla confezione e aggiungendo il brodo al bisogno. La minestra di riso e patate è pronta.",
       "Servite la minestra calda, con un filo di olio, del Grana Padano a piacere e delle foglioline di basilico fresco."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T11:57:01.786279+00:00",
     "repaired_at": "2026-10-10T12:32:57.458196+00:00",
     "classificazione_automatica": {
@@ -6576,15 +6557,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Fornelli"
@@ -7571,7 +7550,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -7718,7 +7697,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -7840,7 +7819,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -7964,7 +7943,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -8134,7 +8113,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -8311,7 +8290,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -8935,7 +8914,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -9085,7 +9064,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -9251,7 +9230,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -9337,7 +9316,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -10111,15 +10090,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -10333,7 +10311,7 @@
     "name": "Zuppa svuotafrigo",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 70,
     "ingredients_display": [
       "Zucca napoletana 540 g",
@@ -10436,7 +10414,7 @@
       "Tostate i crostini finché non saranno ben dorati, poi teneteli da parte. Quando le verdure saranno cotte, frullate la zuppa con un mixer a immersione per ottenere una consistenza omogenea.",
       "Versate il passato di verdure nei piatti, aggiungete i crostini e condite con un filo d’olio a crudo: la vostra zuppa svuotafrigo è pronta per essere servita ben calda!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T13:58:42.458965+00:00",
     "repaired_at": "2026-10-10T13:59:24.214064+00:00",
     "classificazione_automatica": {
@@ -10444,15 +10422,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Fornelli"
@@ -10675,15 +10651,14 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Dolce o colazione",
       "tools": [
@@ -11308,7 +11283,7 @@
     "name": "Zuppa di verdure e bulgur",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 20,
     "ingredients_display": [
       "Bulgur 360 g",
@@ -11386,7 +11361,7 @@
       "Trascorso il tempo aggiustate di sale e frullate il tutto fino ad ottenere una crema. Versate il bulgur,",
       "versate anche l'acqua necessaria per cuocere il bulgur nelle modalità riportate sulla confezione, rendendo inizialmente il composto liquido. Mescolate di tanto in tanto e a fine cottura versate un filo d'olio. Ecco pronta la vostra zuppa di verdure e bulgur."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T13:59:01.314458+00:00",
     "repaired_at": "2026-10-10T13:59:42.499654+00:00",
     "classificazione_automatica": {
@@ -11394,15 +11369,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Fornelli"
@@ -11417,7 +11390,7 @@
     "name": "Zuppa di scarole e patate",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 80,
     "ingredients_display": [
       "Scarola 450 g",
@@ -11513,7 +11486,7 @@
       "Nel frattempo grattugiate il caciocavallo e non appena i crostoni saranno leggermente dorati utilizzatelo per ricoprirli. Rimettete in forno per altri 2-3 minuti,",
       "fino a che il formaggio non si sarà fuso. A questo punto anche la zuppa sarà pronta e potrete servirla accompagnandola con i crostoni al formaggio."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T13:59:04.027010+00:00",
     "repaired_at": "2026-10-10T13:59:45.082077+00:00",
     "classificazione_automatica": {
@@ -11521,15 +11494,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Forno",
@@ -12573,7 +12544,7 @@
     "name": "Zuppa di pollo e avocado",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 95,
     "ingredients_display": [
       "Petto di pollo 400 g",
@@ -12723,7 +12694,7 @@
       "Tagliate la polpa dell’avocado prima a fette e poi a dadini, e aggiungetela alla zuppa in cottura. Richiudete con il coperchio e lasciate cuocere la zuppa per almeno 50 minuti in tutto.",
       "Trascorso il tempo di cottura, rimuovete la zuppa dal fornello, poi lavate e tritate il coriandolo fresco. Dividete la zuppa nei piatti da portata e cospargetela con il coriandolo tritato: la vostra gustosa zuppa di pollo e avocado è pronta per essere servita!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T13:59:23.911919+00:00",
     "repaired_at": "2026-10-10T14:00:03.259731+00:00",
     "classificazione_automatica": {
@@ -12731,15 +12702,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Fornelli"
@@ -12846,22 +12815,21 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:07:21.391791+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Primo",
       "tools": [
         "Forno",
         "Fornelli"
@@ -13262,22 +13230,21 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:07:32.715674+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Primo",
       "tools": [
         "Fornelli"
       ],
@@ -13757,9 +13724,9 @@
     "imported_at": "2026-10-10T14:07:42.433224+00:00",
     "repaired_at": "2026-10-10T14:08:30.867074+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Contorno",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -13770,7 +13737,7 @@
       "reasons": [
         "non_candidato"
       ],
-      "type": "Da classificare",
+      "type": "Contorno",
       "tools": [
         "Fornelli"
       ],
@@ -13887,22 +13854,21 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:07:45.355916+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Primo",
       "tools": [
         "Forno",
         "Fornelli"
@@ -14087,9 +14053,9 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:07:48.268939+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
-      "criterio": "nome",
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -14102,7 +14068,7 @@
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Da classificare",
       "tools": [
         "Forno",
         "Fornelli"
@@ -14428,9 +14394,9 @@
     "imported_at": "2026-10-10T14:07:54.544093+00:00",
     "repaired_at": "2026-10-10T14:08:36.071498+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Contorno",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -14441,7 +14407,7 @@
       "reasons": [
         "non_candidato"
       ],
-      "type": "Da classificare",
+      "type": "Contorno",
       "tools": [
         "Fornelli"
       ],
@@ -14560,8 +14526,8 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:07:57.188041+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
@@ -14571,12 +14537,11 @@
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante",
         "attrezzatura_non_determinabile"
       ],
-      "type": "Condimento",
+      "type": "Primo",
       "tools": [],
       "dietary_verified": [],
       "allergen_verified": false,
@@ -14588,7 +14553,7 @@
     "name": "Coni con straccetti di manzo e verdure croccanti",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 45,
     "ingredients_display": [
       "Dischetti di pasta 16",
@@ -14678,25 +14643,22 @@
       "poi versate gli straccetti di carne fateli rosolare su tutti i lati per 2-3 minuti, salate, pepate e sfumate con l’aceto balsamico,",
       "lasciate evaporare e poi spegnete il fuoco.Tutto è pronto per farcire i coni: prendete un cono di pasta e riempite la cavità con verdure e straccetti, aiutandovi con una pinza da cucina. I vostri gustosi coni con straccetti di manzo e verdure croccanti sono pronti per essere serviti."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T14:07:59.943336+00:00",
     "repaired_at": "2026-10-10T14:08:38.675664+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
-      "type": "Da classificare",
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
       "tools": [
         "Forno",
         "Fornelli"
@@ -14976,9 +14938,9 @@
     "imported_at": "2026-10-10T14:08:05.854938+00:00",
     "repaired_at": "2026-10-10T14:08:43.883336+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Contorno",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -14989,7 +14951,7 @@
       "reasons": [
         "non_candidato"
       ],
-      "type": "Da classificare",
+      "type": "Contorno",
       "tools": [
         "Fornelli"
       ],
@@ -15102,22 +15064,21 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:08:08.610791+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Primo",
       "tools": [
         "Fornelli"
       ],
@@ -15131,7 +15092,7 @@
     "name": "Conchiglioni al forno con ragù di gamberi e nasello allo zafferano",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 85,
     "ingredients_display": [
       "Conchiglioni 300 g",
@@ -15279,7 +15240,7 @@
       "Farcite ad uno ad uno i conchiglioni con il ragù di gamberi e nasello e adagiateli sulla teglia, poi coprite con la besciamella.",
       "Spolverizzate con il formaggio grattugiato, condite con un filo d'olio extra vergine d'oliva e cuocete in forno statico a 190°C per 25 minuti, poi fai cuocere altri 10 minuti in modalità grill. A cottura ultimata, sfornate i conchiglioni e lasciateli intiepidire qualche istante prima di servirli."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T14:08:11.777641+00:00",
     "repaired_at": "2026-10-10T14:08:46.497431+00:00",
     "classificazione_automatica": {
@@ -15287,15 +15248,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Primo",
       "tools": [
         "Forno",
@@ -15616,9 +15575,9 @@
     "imported_at": "2026-10-10T14:08:17.206518+00:00",
     "repaired_at": "2026-10-10T14:08:51.704106+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Contorno",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -15629,7 +15588,7 @@
       "reasons": [
         "non_candidato"
       ],
-      "type": "Da classificare",
+      "type": "Contorno",
       "tools": [
         "Fornelli"
       ],
@@ -15781,8 +15740,8 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:08:20.038397+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
@@ -15792,11 +15751,10 @@
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Primo",
       "tools": [
         "Forno",
         "Fornelli"
@@ -16023,9 +15981,9 @@
     "imported_at": "2026-10-10T14:18:42.790380+00:00",
     "repaired_at": "2026-10-10T14:19:46.935319+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Contorno",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -16036,7 +15994,7 @@
       "reasons": [
         "non_candidato"
       ],
-      "type": "Da classificare",
+      "type": "Contorno",
       "tools": [
         "Fornelli"
       ],
@@ -16174,22 +16132,21 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:18:45.386403+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Primo",
       "tools": [
         "Fornelli"
       ],
@@ -16395,9 +16352,9 @@
     "imported_at": "2026-10-10T14:18:51.493695+00:00",
     "repaired_at": "2026-10-10T14:19:52.082219+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Contorno",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -16408,7 +16365,7 @@
       "reasons": [
         "non_candidato"
       ],
-      "type": "Da classificare",
+      "type": "Contorno",
       "tools": [
         "Fornelli"
       ],
@@ -16422,7 +16379,7 @@
     "name": "Pasta con pesci poveri",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 110,
     "ingredients_display": [
       "Spaghetti 320 g",
@@ -16554,7 +16511,7 @@
       "Dopo un paio di minuti unite le sarde, le alici e le triglie. A fine cottura aggiungete le canocchie, che cuoceranno in pochissimo tempo.",
       "Togliete la padella dal fuoco e profumate con il prezzemolo tritato, poi mantecate la pasta versando l’olio a filo mentre mescolate; in questo modo risulterà lucida e cremosa. Impiattate e servite subito la vostra pasta ai pesci poveri!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T14:18:54.218619+00:00",
     "repaired_at": "2026-10-10T14:19:31.304316+00:00",
     "classificazione_automatica": {
@@ -16562,15 +16519,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Primo",
       "tools": [
         "Fornelli"
@@ -16585,7 +16540,7 @@
     "name": "Club sandwich di pollo",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 45,
     "ingredients_display": [
       "Pane bianco in cassetta 3 fette",
@@ -16689,7 +16644,7 @@
       "Posizionate sul pomodoro la frittata. Coprite con una seconda fetta di pane, spalmate ancora un velo di salsa e aggiungete il bacon croccante.",
       "Posizionate sopra anche il petto di pollo con il formaggio fuso e richiudete il panino con un'altra fetta di pane. Dividete il sandwich a metà, in modo da ricavare 2 triangoli, e servite subito il vostro club sandwich di pollo!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T14:18:56.814994+00:00",
     "repaired_at": "2026-10-10T14:19:54.652328+00:00",
     "classificazione_automatica": {
@@ -16697,15 +16652,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Forno",
@@ -17517,11 +17470,11 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:19:10.178945+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
-      "criterio": "nome",
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -17532,7 +17485,7 @@
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Da classificare",
       "tools": [
         "Fornelli"
       ],
@@ -18119,9 +18072,9 @@
     "imported_at": "2026-10-10T14:19:20.686270+00:00",
     "repaired_at": "2026-10-10T14:20:07.544907+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -18132,7 +18085,7 @@
       "reasons": [
         "non_candidato"
       ],
-      "type": "Da classificare",
+      "type": "Dolce o colazione",
       "tools": [
         "Forno"
       ],
@@ -18367,7 +18320,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -18659,9 +18612,9 @@
     "imported_at": "2026-10-10T14:19:31.004248+00:00",
     "repaired_at": "2026-10-10T14:20:12.693785+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -18672,7 +18625,7 @@
       "reasons": [
         "non_candidato"
       ],
-      "type": "Da classificare",
+      "type": "Dolce o colazione",
       "tools": [
         "Forno"
       ],
@@ -19110,15 +19063,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -19301,9 +19253,9 @@
     "imported_at": "2026-10-10T14:27:05.537139+00:00",
     "repaired_at": "2026-10-10T14:28:13.587292+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -19312,10 +19264,9 @@
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "attrezzatura_non_determinabile"
       ],
-      "type": "Da classificare",
+      "type": "Secondo",
       "tools": [],
       "dietary_verified": [],
       "allergen_verified": false,
@@ -19621,15 +19572,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
         "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti",
         "attrezzatura_non_determinabile"
       ],
       "type": "Da classificare",
@@ -19826,15 +19776,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -19888,7 +19837,7 @@
     "name": "Pulled chicken",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 140,
     "ingredients_display": [
       "Pollo intero (eviscerato) 1,2 kg",
@@ -20023,24 +19972,22 @@
       "Condite il pollo sfilacciato con il fondo di cottura 25 e la salsa barbecue 26 , poi mescolate per far sì che la carne assorba bene tutti i sapori 27 .",
       "Siete pronti per comporre i vostri panini: adagiate un paio di foglie di insalata sulla base del pane, aggiungete una porzione abbondante di pulled chicken 28 e infine coprite con il coleslaw 29 . Richiudete con l’altra metà del panino e procedete nello stesso modo per assemblare anche gli altri 7. Il vostro pulled chicken è pronto per essere gustato 30 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T14:27:16.475329+00:00",
     "repaired_at": "2026-10-10T14:28:21.412971+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "non_candidato"
-      ],
-      "type": "Da classificare",
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
       "tools": [
         "Forno",
         "Fornelli"
@@ -20334,14 +20281,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "ingredienti_porzione_procedimento_incompleti",
         "attrezzatura_non_determinabile"
       ],
       "type": "Secondo",
@@ -20493,22 +20439,21 @@
     "imported_at": "2026-10-10T14:27:24.532066+00:00",
     "repaired_at": "2026-10-10T14:28:24.022300+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
         "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti",
         "attrezzatura_non_determinabile"
       ],
-      "type": "Da classificare",
+      "type": "Dolce o colazione",
       "tools": [],
       "dietary_verified": [],
       "allergen_verified": false,
@@ -20673,15 +20618,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -21331,15 +21275,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -22275,11 +22218,11 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:36:14.739962+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
+      "tipo_proposto": "Contorno",
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -22290,7 +22233,7 @@
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Contorno",
       "tools": [
         "Fornelli"
       ],
@@ -22615,15 +22558,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -23226,15 +23168,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -23931,9 +23872,9 @@
     "imported_at": "2026-10-10T14:36:42.435198+00:00",
     "repaired_at": "2026-10-10T14:37:36.722683+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -23944,7 +23885,7 @@
       "reasons": [
         "non_candidato"
       ],
-      "type": "Da classificare",
+      "type": "Dolce o colazione",
       "tools": [
         "Forno",
         "Fornelli"
@@ -24601,21 +24542,20 @@
     "imported_at": "2026-10-10T14:36:54.575341+00:00",
     "repaired_at": "2026-10-10T14:37:44.464248+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
-      "type": "Da classificare",
+      "type": "Dolce o colazione",
       "tools": [
         "Forno",
         "Fornelli"
@@ -25272,7 +25212,7 @@
     "name": "Pasta con le seppie",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 40,
     "ingredients_display": [
       "Paccheri 320 g",
@@ -25355,7 +25295,7 @@
       "Trascorso questo tempo il sughetto sarà pronto, eliminate lo spicchio d’aglio e i peperoncini, poi scolate i paccheri direttamente nella padella.",
       "Mescolate bene per amalgamare i sapori, aggiungendo se serve un po’ di acqua di cottura per ottenere una cremosità maggiore. Completate con il prezzemolo fresco tritato, mescolate ancora e servite la pasta con le seppie ben calda 18."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T14:47:24.404627+00:00",
     "repaired_at": "2026-10-10T14:48:17.440075+00:00",
     "classificazione_automatica": {
@@ -25363,15 +25303,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Primo",
       "tools": [
         "Fornelli"
@@ -25647,23 +25585,22 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:47:29.725876+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante",
         "attrezzatura_non_determinabile"
       ],
-      "type": "Condimento",
+      "type": "Piatto unico",
       "tools": [],
       "dietary_verified": [],
       "allergen_verified": false,
@@ -25812,15 +25749,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -26173,9 +26109,9 @@
     "needs_review": true,
     "imported_at": "2026-10-10T14:47:38.611866+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
-      "criterio": "nome",
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -26188,7 +26124,7 @@
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Da classificare",
       "tools": [
         "Forno"
       ],
@@ -27623,7 +27559,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -27804,7 +27740,7 @@
     "name": "Carpaccio di pesche e salmone",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 18,
     "ingredients_display": [
       "Salmone affumicato 320 g",
@@ -27925,7 +27861,7 @@
       "Completate con il succo di limone e lasciatele riposare per circa dieci minuti affinché si insaporiscano. Infine passate alla composizione del piatto: posizionate gli spicchi di pesca marinati sul fondo e adagiatevi sopra le fette di salmone affumicato.",
       "Decorate il tutto creando piccoli spuntoni di maionese al basilico e terminate con un giro del vostro olio verde, foglioline di rucola, foglie di basilico fresco e una manciata di grani di pepe rosa."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T14:48:11.925840+00:00",
     "repaired_at": "2026-10-10T14:48:35.694378+00:00",
     "classificazione_automatica": {
@@ -27933,15 +27869,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Fornelli"
@@ -28286,7 +28220,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -28310,7 +28244,7 @@
     "name": "Pasta con gamberoni",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 70,
     "ingredients_display": [
       "Spaghetti 320 g",
@@ -28448,7 +28382,7 @@
       "Nel frattempo l’acqua sarà arrivata a bollore, quindi salate e cuocete la pasta per metà del suo tempo di cottura, perché finirà di cuocere in padella. Nel frattempo filtrate il fumetto. Scolate la pasta molto al dente e trasferitela nella padella. Portate a cottura la pasta aggiungendo il fumetto poco per volta, come per un risotto. Una volta cotta, unite i gamberoni e aggiustate di sale e di pepe.",
       "Aromatizzate con prezzemolo tritato e scorza di limone grattugiata. La vostra pasta con gamberoni è pronta per essere servita 27!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T15:24:55.810355+00:00",
     "repaired_at": "2026-10-10T15:25:46.266964+00:00",
     "classificazione_automatica": {
@@ -28456,15 +28390,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Primo",
       "tools": [
         "Fornelli"
@@ -28552,11 +28484,11 @@
     "needs_review": true,
     "imported_at": "2026-10-10T15:24:58.816185+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
-      "criterio": "nome",
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -28568,7 +28500,7 @@
         "tempo_mancante",
         "attrezzatura_non_determinabile"
       ],
-      "type": "Condimento",
+      "type": "Da classificare",
       "tools": [],
       "dietary_verified": [],
       "allergen_verified": false,
@@ -28808,7 +28740,7 @@
     "name": "Pasta con gamberetti",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 110,
     "ingredients_display": [
       "Spaghetti 320 g",
@@ -28930,7 +28862,7 @@
       "Una volta che la pasta sarà cotta, aggiungete quasi tutti i gamberetti, il pepe, il prezzemolo tritato e un filo d'olio.",
       "Mantecate il tutto, poi impiattate e guarnite con i gamberetti tenuti da parte. La vostra pasta con gamberetti è pronta per essere gustata!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T15:25:04.059886+00:00",
     "repaired_at": "2026-10-10T15:25:48.829072+00:00",
     "classificazione_automatica": {
@@ -28938,15 +28870,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Primo",
       "tools": [
         "Fornelli"
@@ -29361,7 +29291,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -29600,7 +29530,7 @@
       "Disponete le carote cercando di non sovrapporle e conditele con un altro filo d’olio. Aggiungete qualche noce di burro a pezzettini e profumate con foglie di salvia spezzettate, poi salate. Cuocete in forno ventilato preriscaldato a 200°C per 15 minuti. A questo punto, sfornate e aggiungete le mandorle tritate. Proseguite la cottura per altri 10 minuti.",
       "Una volta cotte, sfornate e cospargete con il Parmigiano Reggiano DOP grattugiato. Le vostre carote arrosto sono pronte per essere servite!"
     ],
-    "needs_review": false,
+    "needs_review": true,
     "imported_at": "2026-10-10T15:25:17.438802+00:00",
     "repaired_at": "2026-10-10T15:25:54.077592+00:00",
     "classificazione_automatica": {
@@ -29613,9 +29543,11 @@
       "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": true,
-      "reasons": [],
-      "type": "Secondo",
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Contorno",
       "tools": [
         "Forno"
       ],
@@ -29940,7 +29872,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -30263,7 +30195,7 @@
       "Irroratele con olio di oliva e insaporite con il sale. Ora tritate grossolanamente i pistacchi con un coltello.",
       "Aggiungete i pistacchi in ciotola e mescolate per amalgamare tutti gli ingredienti. Foderate con carta forno una teglia e versate qui le carote cercando di distribuirle in modo omogeneo così da facilitare la cottura. Cuocete in forno statico preriscaldato a 220° per 30 minuti. A cottura ultimata sfornate le vostre carote arrostite e lasciatele intiepidire prima di servirle."
     ],
-    "needs_review": false,
+    "needs_review": true,
     "imported_at": "2026-10-10T15:25:27.731182+00:00",
     "repaired_at": "2026-10-10T15:25:59.219733+00:00",
     "classificazione_automatica": {
@@ -30276,9 +30208,11 @@
       "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": true,
-      "reasons": [],
-      "type": "Secondo",
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Contorno",
       "tools": [
         "Forno"
       ],
@@ -30540,7 +30474,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -30863,15 +30797,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -31184,7 +31117,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -31208,7 +31141,7 @@
     "name": "Pasta con fiori di zucca e bottarga",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 25,
     "ingredients_display": [
       "Spaghetti Senza Glutine 320 g",
@@ -31291,7 +31224,7 @@
       "Scolate la pasta direttamente nella padella in cui avete preparato il condimento e mantecate a fuoco basso, aggiungendo un mestolino d’acqua di cottura. Saltate la pasta a fuoco dolce, spegnete il fuoco, aggiungete un filo d’olio, la bottarga grattugiata (tenendone un po’ da parte per guarnire il piatto).",
       "Impiattate nei singoli piatti da portata, guarnite con un altro po' di bottarga e scorza di pompelmo non trattato grattugiata. Servite la vostra pasta con fiori di zucca e bottarga ben calda!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T15:25:46.027798+00:00",
     "repaired_at": "2026-10-10T15:26:04.348060+00:00",
     "classificazione_automatica": {
@@ -31299,15 +31232,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Primo",
       "tools": [
         "Fornelli"
@@ -31893,7 +31824,7 @@
     "name": "Carbonara di mare con gamberi",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 55,
     "ingredients_display": [
       "Spaghetti 320 g",
@@ -31997,7 +31928,7 @@
       "Versate in padella anche la crema di pecorino e tuorli e saltate per qualche minuto. Aggiungete quindi il tonno e il pesce spada e fate saltare per qualche altro minuto. Se serve potete aggiungere dell’acqua di cottura della pasta per rendere la pasta un po’ più cremosa.",
       "Impiattate e completate con la tartare di gamberi e una spolverata di bottarga. La vostra carbonara di mare con gamberi è pronta per essere gustata."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T15:44:24.246015+00:00",
     "repaired_at": "2026-10-10T15:45:12.782918+00:00",
     "classificazione_automatica": {
@@ -32005,15 +31936,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Primo",
       "tools": [
         "Fornelli"
@@ -32485,7 +32414,7 @@
     "name": "Cappellacci con gamberi e carciofi",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 120,
     "ingredients_display": [
       "Farina 00 300 g",
@@ -32636,25 +32565,22 @@
       "Ripiegate i due lembi verso il centro e unite le due estremità. Nel frattempo fate bollire l'acqua per la pasta. Trasferite il fumetto ristretto in una padella larga con un mestolo di acqua di cottura dei cappellacci. Lessate i cappellacci finché non risaliranno a galla, basteranno pochi minuti.",
       "Scolate i ravioli in padella con il condimento e saltateli brevemente, poi spegnete il fuoco e mantecate con un filo d'olio. Servite i vostri cappellacci con gamberi e carciofi profumando i piatti con foglioline di maggiorana fresca!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T15:44:36.656452+00:00",
     "repaired_at": "2026-10-10T15:45:39.087196+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
-      "type": "Da classificare",
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
       "tools": [
         "Fornelli"
       ],
@@ -33467,7 +33393,7 @@
     "name": "Insalata di calamari e patate",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 35,
     "ingredients_display": [
       "Calamari 300 g",
@@ -33551,7 +33477,7 @@
       "Mescolate in modo da emulsionare bene la salsa. Non appena le patate sono cotte scolatele per bene e trasferitele nella ciotola con i calamari. Versate poi anche la citronette.",
       "Mescolate bene il tutto per insaporire, poi impiattate e guarnite con scorza di limone grattugiata. L'insalata di calamari e patate è pronta da servire."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T15:44:50.028414+00:00",
     "repaired_at": "2026-10-10T15:45:46.982551+00:00",
     "classificazione_automatica": {
@@ -33559,15 +33485,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Fornelli"
@@ -33699,9 +33623,9 @@
     "imported_at": "2026-10-10T15:44:52.666409+00:00",
     "repaired_at": "2026-10-10T15:45:49.602778+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
@@ -33712,7 +33636,7 @@
       "reasons": [
         "non_candidato"
       ],
-      "type": "Da classificare",
+      "type": "Dolce o colazione",
       "tools": [
         "Forno",
         "Fornelli"
@@ -34899,15 +34823,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -35196,7 +35119,7 @@
     "name": "Busiate al ragù di tonno",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 80,
     "ingredients_display": [
       "Busiate 320 g",
@@ -35329,24 +35252,22 @@
       "Scolate le busiate molto al dente e trasferitele nella padella con il condimento. Terminate la cottura della pasta aiutandovi con un mestolo della sua acqua di cottura, mescolando bene per amalgamare il tutto.",
       "Impiattate e guarnite con abbondante muddica, poi completate il piatto con un filo di olio a crudo e qualche fogliolina di menta fresca: le vostre busiate al ragù di tonno sono pronte per essere servite!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:03:19.891561+00:00",
     "repaired_at": "2026-10-10T16:04:24.779183+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "non_candidato"
-      ],
-      "type": "Da classificare",
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
       "tools": [
         "Fornelli"
       ],
@@ -35510,15 +35431,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
         "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti",
         "attrezzatura_non_determinabile"
       ],
       "type": "Da classificare",
@@ -35836,7 +35756,7 @@
     "name": "Burrito di pollo con guacamole al lime",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 30,
     "ingredients_display": [
       "Tortillas 4",
@@ -35993,7 +35913,7 @@
       "Prendete il lembo alla base della tortilla e ripiegate anch’esso e proseguite avvolgendo il burrito su se stesso fino a sigillarlo. Eseguite le stesse operazioni per realizzare gli altri burrito! Dopodichè tagliate ciascuna delle 4 fette di cheddar rimaste in 3 strisce.",
       "Adagiate i burritos su una teglia rivestita di carta da forno e disponete su ciascuno 3 strisce di cheddar. Gratinate in forno statico preriscaldato a 250° per 3 minuti. Sfornate i vostri burritos e tagliateli a metà, prima di disporli sul piatto da portata e servite i vostri burritos di pollo ben caldi, accompagnati dal guacamole!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:03:30.653767+00:00",
     "repaired_at": "2026-10-10T16:04:09.250980+00:00",
     "classificazione_automatica": {
@@ -36001,15 +35921,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Forno",
@@ -36374,15 +36292,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -36732,22 +36649,21 @@
     "needs_review": true,
     "imported_at": "2026-10-10T16:03:42.228093+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Secondo",
       "tools": [
         "Fornelli"
       ],
@@ -36934,7 +36850,7 @@
     "name": "Pomodori ripieni di carne",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 65,
     "ingredients_display": [
       "Pomodori cuore di bue 6",
@@ -37011,24 +36927,22 @@
       "Sistemate i pomodori svuotati in una pirofila, salate l’interno e conditelo con un filo d’olio. Riempite i pomodori con il ripieno di carne fino all’orlo,",
       "copriteli con le calotte che avevate tenuto da parte, aggiungete un altro filo d’olio in superficie e cuocete in forno statico preriscaldato a 200° per 30 minuti, posizionando la pirofila sul ripiano in basso. Una volta cotti, i vostri pomodori ripieni di carne sono pronti per essere serviti ben caldi!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:03:47.467672+00:00",
     "repaired_at": "2026-10-10T16:04:40.306997+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "non_candidato"
-      ],
-      "type": "Da classificare",
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
       "tools": [
         "Forno",
         "Fornelli"
@@ -37328,11 +37242,11 @@
     "needs_review": true,
     "imported_at": "2026-10-10T16:03:52.679770+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
-      "criterio": "nome",
+      "tipo_proposto": "Da classificare",
+      "esito": "incerto",
+      "criterio": "nessuna regola affidabile",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -37343,7 +37257,7 @@
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Da classificare",
       "tools": [
         "Forno",
         "Fornelli"
@@ -39861,7 +39775,7 @@
     "name": "Branzino gratinato con pomodori, patate e zucchine",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 75,
     "ingredients_display": [
       "Filetti di branzino da pulire 4",
@@ -39990,7 +39904,7 @@
       "Continuate con le striscioline di zucchine e coprite il tutto con la panure. Completate con un filo d’olio.",
       "Una volta completata la stratificazione, cuocete in forno statico a 180°C per circa 15 minuti. Il vostro branzino gratinato con pomodori, patate e zucchine è pronto per essere servito caldo."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:09:24.789258+00:00",
     "repaired_at": "2026-10-10T16:10:00.419499+00:00",
     "classificazione_automatica": {
@@ -39998,15 +39912,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Forno",
@@ -40817,15 +40729,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
         "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti",
         "attrezzatura_non_determinabile"
       ],
       "type": "Da classificare",
@@ -41008,8 +40919,8 @@
     "needs_review": true,
     "imported_at": "2026-10-10T16:09:41.203422+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
@@ -41019,11 +40930,10 @@
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Secondo",
       "tools": [
         "Fornelli"
       ],
@@ -41578,15 +41488,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
         "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti",
         "attrezzatura_non_determinabile"
       ],
       "type": "Da classificare",
@@ -42703,7 +42612,7 @@
     "name": "Branzino al cartoccio",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 65,
     "ingredients_display": [
       "Branzino (spigola) 800 g",
@@ -42767,7 +42676,7 @@
       "Su un piano adagiate un foglio di carta di alluminio e sopra un altro di carta forno. Appoggiate qui il branzino e distribuite sui lati i pomodorini. Chiudete i due fogli uno sull'altro avendo cura di sigillare bene i lati. Cuocete in forno statico preriscaldato a 170 gradi per 30/35 minuti.",
       "Una volta cotto, sfornate il cartoccio, apritelo e pulite il pesce ancora caldo. prendete con la forchetta un lembo di pelle e sollevatelo per tirarlo via.Servite i filetti di branzino al cartoccio ancora caldi assieme al condimento a base di pomodorini, pinoli e olive."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:33:49.732737+00:00",
     "repaired_at": "2026-10-10T16:34:34.819846+00:00",
     "classificazione_automatica": {
@@ -42775,15 +42684,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Forno"
@@ -42841,7 +42748,7 @@
     "name": "Hamburger vegetariano",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 120,
     "ingredients_display": [
       "Ceci neri secchi 100 g",
@@ -42952,7 +42859,7 @@
       "Affettate i pomodori, poi prendete i panini divideteli a metà e scaldateli per qualche istante in padella, giusto il tempo di renderli più fragranti, con la parte della mollica rivolta verso il basso.",
       "A questo punto non vi resta che comporre il vostro hamburger vegetariano: ponete una foglia di lattuga sul fondo del panino, posizionate poi il burger vegetariano, le fettine di pomodoro salandole leggermente e richiudete con la calotta del panino. Servite i vostri burger vegetariani ancora caldi per gustare a pieno il loro sapore!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:33:52.342591+00:00",
     "repaired_at": "2026-10-10T16:34:37.405285+00:00",
     "classificazione_automatica": {
@@ -42960,15 +42867,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Fornelli"
@@ -43969,7 +43874,7 @@
     "name": "Branzino agropiccante",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 35,
     "ingredients_display": [
       "Branzino (spigola) eviscerato 1",
@@ -44080,7 +43985,7 @@
       "Trasferite il branzino sul piatto da portata e unite il mix di acqua e fecola alla salsa rimasta nella padella per farla addensare a fuoco lento.",
       "Per completare il piatto, versate la salsa densa 28 sopra il branzino e guarnite il tutto con i cipollotti tagliati a rondelle. Il branzino agropiccante è pronto per essere servito."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:34:13.390250+00:00",
     "repaired_at": "2026-10-10T16:34:55.552697+00:00",
     "classificazione_automatica": {
@@ -44088,15 +43993,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Fornelli"
@@ -45572,9 +45475,9 @@
     "imported_at": "2026-10-10T16:45:00.385021+00:00",
     "repaired_at": "2026-10-10T16:46:29.058037+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": false,
       "procedimento_presente": true,
@@ -45583,10 +45486,9 @@
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti"
       ],
-      "type": "Da classificare",
+      "type": "Secondo",
       "tools": [
         "Fornelli"
       ],
@@ -45864,7 +45766,7 @@
     "name": "Polpo alla piastra su crema di patate",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 175,
     "ingredients_display": [
       "Polpo (già pulito) 1,2 kg",
@@ -46055,7 +45957,7 @@
       "Quando i tentacoli saranno pronti 31 , potete assemblare gli ingredienti: tagliate i tentacoli a metà e spennellate i lati e la parte inferiore con la salsa barbecue 32 , poi ricoprite con il panko 33 che avrete precedentemente tostato nel burro e fatto asciugare su un canovaccio.",
       "Distribuite la crema di patate sul piatto aiutandovi con il dorso di un cucchiaio 34 e adagiatevi sopra i tentacoli così impanati 35 . Il vostro polpo alla piastra su crema di patate è pronto per essere servito 36 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:45:06.292232+00:00",
     "repaired_at": "2026-10-10T16:45:54.879663+00:00",
     "classificazione_automatica": {
@@ -46063,15 +45965,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Fornelli"
@@ -46397,7 +46297,7 @@
     "name": "Hamburger fatti in casa",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 20,
     "ingredients_display": [
       "Macinato di manzo 360 g",
@@ -46497,7 +46397,7 @@
       "Formate 2 hamburger aiutandovi sempre con il coppapasta e il batticarne. In ultimo grattugiate l’edamer con una grattugia a fori larghi.",
       "Aggiungete il formaggio alla ciotola con 330 g di carne, salate, pepate e mescolate con le mani, poi formate gli ultimi 2 hamburger sempre nello stesso modo. I vostri hamburger di carne fatti in casa sono pronti per essere cotti!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:45:14.958111+00:00",
     "repaired_at": "2026-10-10T16:46:02.775709+00:00",
     "classificazione_automatica": {
@@ -46505,15 +46405,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Forno"
@@ -46687,8 +46585,8 @@
     "needs_review": true,
     "imported_at": "2026-10-10T16:45:19.122312+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Condimento",
-      "esito": "escluso",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": false,
       "ingredienti_quantificati": false,
@@ -46698,11 +46596,10 @@
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
         "ingredienti_porzione_procedimento_incompleti",
         "tempo_mancante"
       ],
-      "type": "Condimento",
+      "type": "Secondo",
       "tools": [
         "Fornelli"
       ],
@@ -47505,7 +47402,7 @@
     "name": "Pasta con crema di porro, zafferano e salsiccia di Bra",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 40,
     "ingredients_display": [
       "Pasta dischi volanti 320 g",
@@ -47594,7 +47491,7 @@
       "Infine profumate con qualche fogliolina di timo. Cuocete la pasta in abbondante acqua bollente salata. Scolate la pasta al dente e trasferitela in padella, poi amalgamate il tutto.",
       "Spegnete il fuoco, aggiungete un filo d’olio e mantecate. Impiattate e completate con i peperoni cruschi sbriciolati grossolanamente con le mani, la salsiccia di Bra cruda a pezzetti e qualche fogliolina di timo. La pasta con crema di porro, zafferano e salsiccia di Bra è pronta per essere servita!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:45:32.759613+00:00",
     "repaired_at": "2026-10-10T16:46:15.945858+00:00",
     "classificazione_automatica": {
@@ -47602,15 +47499,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Primo",
       "tools": [
         "Fornelli"
@@ -47675,7 +47570,7 @@
     "name": "Bocconcini di vitello al limone",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 30,
     "ingredients_display": [
       "Vitello bocconcini 400 g",
@@ -47762,24 +47657,22 @@
       "Aggiungete i bocconcini di vitello e fate rosolare per bene. Sfumate con vino bianco e lasciate evaporare tutta la parte alcolica, a fiamma vivace. Regolate di sale.",
       "Aromatizzate con il pepe, e fate cuocere con coperchio a fuoco dolce per 8-10 minuti. Infine unite la salsa al limone e cuocete ancora per un paio di minuti. Mescolate continuamente per evitare che la crema si attacchi sul fondo; dovrete ottenere una consistenza densa e vellutata. I bocconcini di vitello al limone sono pronti, impiattate e servite con del prezzemolo fresco tritato!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:45:35.434761+00:00",
     "repaired_at": "2026-10-10T16:46:31.690556+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "non_candidato"
-      ],
-      "type": "Da classificare",
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
       "tools": [
         "Fornelli"
       ],
@@ -48047,7 +47940,7 @@
     "name": "Polpo alla greca",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 110,
     "ingredients_display": [
       "Polpo 700 g",
@@ -48130,7 +48023,7 @@
       "il vino rosso e regolate di sale e di pepe. Mescolate bene",
       "e proseguite la cottura a fuoco basso per un’ora coprendo con il coperchio. Trascorso il tempo assicuratevi che il fondo abbia assunto la consistenza desiderata, quindi spegnete e servite il vostro polpo alla greca."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:45:40.901924+00:00",
     "repaired_at": "2026-10-10T16:46:21.186223+00:00",
     "classificazione_automatica": {
@@ -48138,15 +48031,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Fornelli"
@@ -48940,7 +48831,7 @@
     "name": "Pasta con crema di piselli, taccole e ricotta salata",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 50,
     "ingredients_display": [
       "Pennotti rigati 320 g",
@@ -49023,7 +48914,7 @@
       "Nel frattempo cuocete la pasta in acqua bollente salata. Quando è al dente scolate direttamente nella padella con le taccole, unite la crema di piselli.",
       "Saltate per un paio di minuti. Impiattate guarnendo con qualche pisellino tenuto da parte, la ricotta salata grattugiata, la menta ed ecco pronta la vostra pasta con crema di piselli, taccole e ricotta salata."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:51:16.583939+00:00",
     "repaired_at": "2026-10-10T16:52:07.144500+00:00",
     "classificazione_automatica": {
@@ -49031,15 +48922,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Primo",
       "tools": [
         "Fornelli"
@@ -49092,7 +48981,7 @@
     "name": "Bocconcini di salmone con insalata al pompelmo",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 30,
     "ingredients_display": [
       "Salmone affumicato 200 g",
@@ -49158,7 +49047,7 @@
       "Dividete poi l'insalata in 4 vasetti di vetro (o in 4 ciotoline) e componete i bocconcini al salmone: disponete una fettina di salmone affumicato sul piano, adagiate sopra un pò di riso leggermente pressato con le mani e arrotolatelo in modo da creare un involtino.",
       "Fate la stessa operazione anche per gli altri, poi divideteli a metà con un coltello dalla lama molto tagliente e posizionatene 3 in ciascun vasetto. Condite con la salsina al pompelmo rimasta e servite i vostri bocconcini di salmone con insalata al pompelmo."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:51:19.381643+00:00",
     "repaired_at": "2026-10-10T16:52:09.773485+00:00",
     "classificazione_automatica": {
@@ -49166,15 +49055,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Fornelli"
@@ -49457,7 +49344,7 @@
     "name": "Polipetti in purgatorio",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 75,
     "ingredients_display": [
       "Polipetti 1 kg",
@@ -49520,24 +49407,22 @@
       "Chiudete con il coperchio e cuocete a fiamma media per 40 minuti. Nel frattempo tritate le foglie di prezzemolo tenute da parte. Trascorso questo tempo salate, pepate e aromatizzate con il prezzemolo, avendo cura di tenerne poco da parte per l'impiattamento.",
       "Proseguite la cottura per altri 20 minuti, questa volta senza coperchio. Impiattate e guarnite con il prezzemolo tenuto da parte. I vostri polipetti in purgatorio sono pronti per essere serviti!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:51:24.959287+00:00",
     "repaired_at": "2026-10-10T16:52:33.483053+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "non_candidato"
-      ],
-      "type": "Da classificare",
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
       "tools": [
         "Fornelli"
       ],
@@ -52089,7 +51974,7 @@
     "name": "Bocconcini di pollo allo zafferano",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 40,
     "ingredients_display": [
       "Petto di pollo 600 g",
@@ -52217,7 +52102,7 @@
       "Aggiungete il composto nella padella, salate e mescolate bene. Proseguite la cottura: il pollo dovrà cuocere per una decina di minuti in totale. Intanto, in un’altra ciotolina, sciogliete la fecola nei restanti 20 g di acqua.",
       "Versate anche il composto di fecola nella padella e mescolate per amalgamare il tutto. Spegnete il fuoco e servite subito i vostri bocconcini di pollo allo zafferano con contorno di asparagi!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-10T16:58:22.224025+00:00",
     "repaired_at": "2026-10-10T16:59:09.583755+00:00",
     "classificazione_automatica": {
@@ -52225,15 +52110,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Secondo",
       "tools": [
         "Fornelli"
@@ -52428,15 +52311,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -54980,15 +54862,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
         "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti",
         "attrezzatura_non_determinabile"
       ],
       "type": "Da classificare",
@@ -55887,7 +55768,7 @@
     "name": "Poke temaki wrap",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 22,
     "ingredients_display": [
       "Piadine arrotolabili 2",
@@ -56011,7 +55892,7 @@
       "Date alla piadina una forma conica 28 e inseritela in un bicchiere per aggiungere comodamente gli altri ingredienti, dopodiché versate all'interno del cono 1 cucchiaino di guacamole 29 . Togliete la pellicola alla ciotola con il tonno marinato 30 , date una rimestata",
       "e aggiungetelo alla piadina 31 , poi guarnite a piacere con della crescenza 32 e proseguite fino a terminare gli ingredienti. Il vostro poke temaki wrap è pronto per essere servito 33 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-11T10:48:34.199082+00:00",
     "repaired_at": "2026-10-11T10:49:21.495419+00:00",
     "classificazione_automatica": {
@@ -56019,15 +55900,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Fornelli"
@@ -56805,20 +56684,20 @@
     "imported_at": "2026-10-11T10:48:46.084518+00:00",
     "repaired_at": "2026-10-11T10:49:29.392344+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Piatto unico",
-      "esito": "candidato",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
-      "type": "Piatto unico",
+      "type": "Dolce o colazione",
       "tools": [
         "Forno"
       ],
@@ -57383,7 +57262,7 @@
       "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": false,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": false
     },
@@ -58076,20 +57955,20 @@
     "imported_at": "2026-10-11T10:49:09.840178+00:00",
     "repaired_at": "2026-10-11T10:49:39.897773+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Piatto unico",
-      "esito": "candidato",
+      "tipo_proposto": "Dolce o colazione",
+      "esito": "escluso",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
-      "type": "Piatto unico",
+      "type": "Dolce o colazione",
       "tools": [
         "Forno",
         "Microonde"
@@ -58686,7 +58565,7 @@
     "name": "Plin ripieni di ragù napoletano",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 440,
     "ingredients_display": [
       "Farina 00 400 g",
@@ -58820,24 +58699,22 @@
       "Pizzicate la sfoglia ai lati del ripieno per formare i plin, poi ritagliateli con una rotella dentellata prima per il verso della lunghezza 41 e poi per separarli l’uno dall’altro 42. Proseguite in questo modo fino ad esaurimento dell’impasto.",
       "Ora portate a bollore una pentola di acqua salata e cuocete i plin per un paio di minuti 43 . Scolate i ravioli direttamente sul tovagliolo che avrete posizionato su un piatto caldo 44 . Servite i vostri plin ripieni di ragù napoletano con il ragù tenuto da parte oppure con una salsa a base di panna e Parmigiano 45 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-11T10:52:37.307885+00:00",
     "repaired_at": "2026-10-11T10:53:56.499219+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "non_candidato"
-      ],
-      "type": "Da classificare",
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
       "tools": [
         "Fornelli"
       ],
@@ -58851,7 +58728,7 @@
     "name": "Pasta con crema di fave e cicoria",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 110,
     "ingredients_display": [
       "Penne Rigate Senza Glutine 320 g",
@@ -58978,7 +58855,7 @@
       "Cuocete la pasta in abbondante acqua salata bollente. Intanto scaldate di nuovo le cicorie, poi tenetene qualcuna da parte per la decorazione e versate all'interno della padella la crema di fave.",
       "Scolate la pasta al dente e trasferitela in padella, poi saltate il tutto per amalgamare bene e impiattate. Aggiungete sopra un po' di cicoria e abbondante mollica. La vostra pasta con crema di fave e cicoria è pronta per essere servita!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-11T10:52:40.542625+00:00",
     "repaired_at": "2026-10-11T10:53:25.101098+00:00",
     "classificazione_automatica": {
@@ -58986,15 +58863,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Primo",
       "tools": [
         "Fornelli"
@@ -59194,21 +59069,20 @@
     "imported_at": "2026-10-11T10:52:43.140156+00:00",
     "repaired_at": "2026-10-11T10:53:27.891990+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Secondo",
+      "tipo_proposto": "Primo",
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "ingredienti_porzione_procedimento_incompleti",
         "ingredienti_composti_non_identificati"
       ],
-      "type": "Secondo",
+      "type": "Primo",
       "tools": [
         "Fornelli"
       ],
@@ -59569,15 +59443,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -59983,7 +59856,7 @@
     "name": "Focaccia farcita con cime di rapa e salsiccia",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 90,
     "ingredients_display": [
       "Farina Manitoba 300 g",
@@ -60097,7 +59970,7 @@
       "Pressate i bordi con le dita per farli aderire bene tra di loro. Poi rigirateli facendo dei piccoli pizzichi in modo da creare un motivo decorativo. Cospargete la superficie della focaccia con olio evo e spennellatela con cura.",
       "Fate dei fori con la forbice, in modo che il ripieno possa cuocere bene. Cuocete in forno statico preriscaldato a 180° per 60 minuti. Quando la focaccia sarà ben dorata potrete sfornarla e servirla calda o tiepida."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-11T10:52:57.766149+00:00",
     "repaired_at": "2026-10-11T10:53:38.300742+00:00",
     "classificazione_automatica": {
@@ -60105,15 +59978,13 @@
       "esito": "candidato",
       "criterio": "nome",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "ingredienti_porzione_procedimento_incompleti"
-      ],
+      "approved": true,
+      "reasons": [],
       "type": "Piatto unico",
       "tools": [
         "Forno",
@@ -61291,15 +61162,14 @@
       "esito": "incerto",
       "criterio": "nessuna regola affidabile",
       "porzioni_presenti": true,
-      "ingredienti_quantificati": false,
+      "ingredienti_quantificati": true,
       "procedimento_presente": true,
-      "dati_completi": false
+      "dati_completi": true
     },
     "validazione_automatica": {
       "approved": false,
       "reasons": [
-        "non_candidato",
-        "ingredienti_porzione_procedimento_incompleti"
+        "non_candidato"
       ],
       "type": "Da classificare",
       "tools": [
@@ -61368,7 +61238,7 @@
     "name": "Pizzoccheri bianchi della Valtellina",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 40,
     "ingredients_display": [
       "Pangrattato 60 g",
@@ -61450,24 +61320,22 @@
       "Lasciate cadere l’impasto direttamente nell’acqua bollente, avendo cura di completare questa operazione piuttosto velocemente per evitare che i primi gnocchetti cuociano troppo. Nel frattempo sciogliete il burro in una padella capiente insieme alle foglie di salvia e agli spicchi di aglio schiacciati. Scolate i pizzoccheri non appena verranno a galla e trasferiteli insieme alle patate nella padella col condimento.",
       "Aggiungete il Valtellina Casera e fate saltare il tutto per qualche istante, in modo che il formaggio si fonda. Servite i vostri pizzoccheri bianchi ben caldi!"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "imported_at": "2026-10-11T10:53:19.235369+00:00",
     "repaired_at": "2026-10-11T10:54:12.118112+00:00",
     "classificazione_automatica": {
-      "tipo_proposto": "Da classificare",
-      "esito": "incerto",
-      "criterio": "nessuna regola affidabile",
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "nome",
       "porzioni_presenti": true,
       "ingredienti_quantificati": true,
       "procedimento_presente": true,
       "dati_completi": true
     },
     "validazione_automatica": {
-      "approved": false,
-      "reasons": [
-        "non_candidato"
-      ],
-      "type": "Da classificare",
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
       "tools": [
         "Fornelli"
       ],

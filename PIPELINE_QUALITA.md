@@ -120,3 +120,14 @@ per confrontare anche ricette già controllate. Un report vuoto o composto da er
   per confrontare le schede con la pagina originale.
 - Workflow: il salvataggio dei dati avviene prima del caricamento dei report;
   un errore di quota degli artifact non blocca più il commit.
+
+## Esigenze alimentari
+
+`app/diete.py` valuta ogni ricetta per Vegetariano, Vegano, Senza Glutine e
+Senza Lattosio a partire dagli ingredienti della fonte (più un controllo sul
+titolo e sul procedimento, per ingredienti citati solo nel testo). Esiti:
+`si`, `no`, `incerto` (prodotti la cui composizione dipende dalla marca: brodo
+pronto, salumi, cioccolato, pasta sfoglia...). L'API li espone nel campo
+`diete`; il piano include solo le ricette `si` per tutte le esigenze scelte.
+Scelte prudenti: Parmigiano e Grana contano come latticini; l'avena come
+glutine; i formaggi stagionati sono considerati vegetariani.

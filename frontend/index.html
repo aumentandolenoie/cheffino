@@ -142,18 +142,17 @@ function safe(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;'
 function countMeals(){return (state.meals==='lunch'?state.lunch.length:state.meals==='dinner'?state.dinner.length:state.lunch.length+state.dinner.length)}
 function chosenDays(){let a=[];if(state.meals!=='dinner')state.lunch.forEach(i=>{if(!a.includes(i))a.push(i)});if(state.meals!=='lunch')state.dinner.forEach(i=>{if(!a.includes(i))a.push(i)});return a.sort((a,b)=>a-b)}
 function filteredRecipes(options={}){
- const meat=['Pollo','Carne bovina','Tacchino','Salmone','Tonno','Merluzzo','Pesce spada','Carne di maiale','Salsiccia','Gamberi','Pancetta','Prosciutto cotto','Prosciutto crudo','Orata','Branzino','Calamari','Seppie','Vongole','Cozze','Sgombro','Acciughe','Bresaola','Speck','Mortadella','Wurstel','Vitello','Agnello','Cosce di pollo','Petto di pollo','Lombo di maiale'];
- const animal=['Uova','Formaggio','Grana','Ricotta','Feta','Mozzarella','Yogurt','Burro','Latte','Panna','Parmigiano','Pecorino','Crescenza','Stracchino','Scamorza','Provola','Fontina','Gorgonzola','Taleggio','Miele'];
- const gluten=['Pasta','Pasta integrale','Pane','Piadine','Cous cous','Gnocchi','Pane grattugiato','Pangrattato','Farro','Orzo','Bulgur','Bulgur','Noodles','Bulgur'];
- const dairy=['Ricotta','Formaggio','Grana','Feta','Mozzarella','Yogurt','Burro','Latte','Panna','Parmigiano','Pecorino','Crescenza','Stracchino','Scamorza','Provola','Fontina','Gorgonzola','Taleggio'];
  const diets=Array.isArray(state.diet)?state.diet:[state.diet];
  return recipeData.filter(r=>{
   // Le schede approvate automaticamente non certificano allergeni o diete.
   // In presenza di esigenze alimentari specifiche non mostrarle come sicure.
   if(r.autoValidated){
-   if(diets.some(d=>d!=='Nessuna'))return false;
    if(!r.requiredTools.length || r.requiredTools.some(t=>!state.kitchen.includes(t)))return false;
   }
+  // Esigenze alimentari: compatibilità calcolata dal server sugli ingredienti della fonte
+  // (app/diete.py). Entrano solo le ricette con esito «si»; le dubbie restano escluse.
+  const dietInfo=recipeDetailData(r)?.diets||{};
+  if(diets.some(d=>d!=='Nessuna'&&dietInfo[d]!=='si'))return false;
 
   if(r.ings.some(i=>state.avoid.includes(i)))return false;
    const sourceIngs=recipeDetailData(r)?.ingredients.map(i=>i[0].toLowerCase())||[];
@@ -163,10 +162,6 @@ function filteredRecipes(options={}){
      return ing===excluded || ing.startsWith(excluded+' ') || ing.endsWith(' '+excluded) || ing.includes(' '+excluded+' ');
    })))return false;
 
-  if(diets.includes('Vegano')&&(r.ings.some(i=>[...meat,...animal].includes(i))||sourceIngs.some(i=>/(pollo|uova|grana|parmigiano|panna|burro|latte|formaggio|miele|pesce|carne)/i.test(i))))return false;
-  if(diets.includes('Vegetariano')&&(r.ings.some(i=>meat.includes(i))||sourceIngs.some(i=>/(pollo|petto di pollo|pancetta|carne|salmone|tonno|merluzzo)/i.test(i))))return false;
-  if(diets.includes('Senza Glutine')&&(r.ings.some(i=>gluten.includes(i))||sourceIngs.some(i=>/(pasta|ditalini|farina 00|grano|pane)/i.test(i))))return false;
-  if(diets.includes('Senza Lattosio')&&(r.ings.some(i=>dairy.includes(i)&&!['Ricotta senza lattosio','Yogurt senza lattosio'].includes(i))||sourceIngs.some(i=>/(grana|parmigiano|panna|burro|latte|formaggio)/i.test(i))))return false;
   if(!options.relaxStyles&&state.styles.length&&!state.styles.includes(r.style))return false;
   if(state.types.length){const allowed=[];if(state.types.includes('Primo'))allowed.push('Primo');if(state.types.includes('Secondo'))allowed.push('Secondo');if(state.types.includes('Piatto Unico'))allowed.push('Piatto unico');if(state.types.includes('Primo e Secondo'))allowed.push('Primo','Secondo');if(!allowed.includes(r.type))return false;}
   if((r.name.toLowerCase().includes('forno')||r.name.toLowerCase().includes('al forno'))&&!state.kitchen.includes('Forno'))return false;
@@ -293,6 +288,14 @@ function replaceRecipe(day,meal){
 }
 
 function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;generateWeeklyPlan();render()}
+// Esigenze alimentari compatibili, dagli ingredienti della fonte (calcolo del server).
+function dietBadges(d){
+ if(!d||!d.diets)return '';
+ const ok=['Vegetariano','Vegano','Senza Glutine','Senza Lattosio'].filter(x=>d.diets[x]==='si');
+ const doubt=['Vegetariano','Vegano','Senza Glutine','Senza Lattosio'].filter(x=>d.diets[x]==='incerto');
+ if(!ok.length&&!doubt.length)return '';
+ return `<div class="notice">${ok.length?`✅ Adatta a: <b>${ok.map(safe).join(' · ')}</b>`:''}${ok.length&&doubt.length?'<br>':''}${doubt.length?`❔ Da verificare per: ${doubt.map(x=>`${safe(x)} (${(d.dietReasons?.[x]||[]).map(safe).join(', ')})`).join(' · ')}`:''}<br><small>Valutazione sugli ingredienti indicati dalla fonte: per allergie e celiachia controlla sempre etichette e contaminazioni.</small></div>`;
+}
 function showRecipe(id,fromSearch=false){const r=getRecipe(id);if(!r)return;const d=recipeDetailData(r),people=peopleCount();
  const metric=(title,val)=>`<div class="detailmetric"><span>${title}</span><b>${val}</b></div>`;
  const mac=(klass,title,key)=>`<div class="detailmacro ${klass}"><span>${title}</span><b>${typeof d?.[key]==='number'?d[key].toLocaleString('it-IT')+' g':'n.d.'}</b></div>`;
@@ -306,6 +309,7 @@ function showRecipe(id,fromSearch=false){const r=getRecipe(id);if(!r)return;cons
  <div class="detailhero">${d?.image?`<img src="${safe(d.image)}" alt="${safe(r.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none';this.nextElementSibling.style.display='block'">`:''}<span class="foodart" style="${d?.image?'display:none':''}">${r.emoji}</span>${!d?.image?'<small>Foto non ancora verificata</small>':''}</div>
  <div class="detailmetrics">${metric('Persone',people)}${metric('Tempo',d?.minutes?d.minutes+' min':'n.d.')}${metric('Calorie',d?.kcal?d.kcal+' kcal/porz.':'n.d.')}${metric('Costo',d?.cost||'n.d.')}</div>
  <div class="detailmacros">${mac('protein','Proteine','protein')}${mac('carbs','Carboidrati','carbs')}${mac('fats','Grassi','fats')}</div>
+ ${dietBadges(d)}
  <h3>Ingredienti per ${people} ${people===1?'persona':'persone'}</h3>${ingredientRows(r)}
  <h3>Preparazione passo per passo</h3>${steps}
  ${d?`<a class="sourcebtn" href="${d.url}" target="_blank" rel="noopener noreferrer">Fonte: ${safe(d.source)} ↗</a>`:'<div class="notice">Scheda non verificata: le informazioni dettagliate verranno mostrate solo dopo l’acquisizione da una fonte affidabile.</div>'}
@@ -414,7 +418,8 @@ async function caricaCatalogoServer(){
     servings:entry.servings||null,minutes:entry.time??null,kcal:entry.kcal??null,
     cost:entry.cost??null,protein:entry.protein??null,carbs:entry.carbs??null,fats:entry.fats??null,
     image:entry.image_url||null,ingredients,steps,stepImages:entry.step_images_display||entry.step_images||[],
-    photoAbsent:entry.step_photo_source_evidence?.status==='verified_absent'};
+    photoAbsent:entry.step_photo_source_evidence?.status==='verified_absent',
+    diets:entry.diete?.compatibilita||{},dietReasons:entry.diete?.motivi||{}};
    if(!review)recipeData.push(item);
   }
   // Elimina solo i riferimenti a vecchie demo ormai inesistenti.

@@ -2207,7 +2207,21 @@
         "https://ricette.giallozafferano.it/images/ricette/294/29489/zuppa-di-farro-e-lenticchie_18.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:09:02.796944+00:00"
+    "step_images_checked_at": "2026-11-13T17:16:25.280788+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Zuppa-di-farro-e-lenticchie.html",
+      "source_hash": "4b41c4fdf9ae639955d48f0fd0c560cb57860a9d8779a63fd854f4600ac3218b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:16:25.280773+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 131014755584784,
@@ -3040,7 +3054,21 @@
         "https://ricette.giallozafferano.it/images/ricette/366/36661/tortelli-di-zucca-alla-mantovana_42.jpg"
       ]
     ],
-    "step_images_checked_at": "2026-10-10T14:09:13.474556+00:00"
+    "step_images_checked_at": "2026-11-13T17:16:22.433399+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Tortelli-di-zucca-alla-mantovana.html",
+      "source_hash": "3a0e3e0bed48a843bf246399827a2f31d526abedb21de3811bdaff21fc5cb251",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:16:22.433377+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 212440586978112,
@@ -6782,7 +6810,21 @@
       "Sbattete il tuorlo con poco latte in una ciotolina e spennellate le mini pie con il composto ottenuto 22 , poi cuocete in forno statico preriscaldato a 180° per 20-25 minuti, fino a quando non saranno belle dorate 23 . Le vostre mini pie salate di formaggio e mele sono pronte per essere servite ancora tiepide 24 !"
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:43.632041+00:00"
+    "step_images_checked_at": "2026-11-13T17:16:10.976231+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Mini-pie-salate-di-formaggio-e-mele.html",
+      "source_hash": "60f8306bc2d230c4edc88092c907bd886122845cf16efbca3e7dc09527b8ab99",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:16:10.976211+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 275076523513603,
@@ -6948,7 +6990,21 @@
       "Servite la minestra calda, con un filo di olio, del Grana Padano a piacere e delle foglioline di basilico fresco."
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:40.414882+00:00"
+    "step_images_checked_at": "2026-11-13T17:16:08.292080+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Minestra-di-riso-e-patate.html",
+      "source_hash": "f3acaad7917968d8c2fd1967ef4a6e7cf7409a32f9edda1f169563d1e26db843",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:16:08.292062+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 22236432663090,
@@ -15432,7 +15488,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:38.180811+00:00",
+    "step_images_checked_at": "2026-11-13T17:15:54.277435+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/153/15314/15314_coni_manzo_e_verdure_buitoni_strip_1-3.jpg"
@@ -15473,7 +15529,21 @@
       "Tagliate il manzo a striscioline, infarinatele accuratamente poi eliminate la farina in eccesso con un colino. In un’altra padella scaldate 30 gr di olio di oliva,",
       "poi versate gli straccetti di carne fateli rosolare su tutti i lati per 2-3 minuti, salate, pepate e sfumate con l’aceto balsamico,",
       "lasciate evaporare e poi spegnete il fuoco.Tutto è pronto per farcire i coni: prendete un cono di pasta e riempite la cavità con verdure e straccetti, aiutandovi con una pinza da cucina. I vostri gustosi coni con straccetti di manzo e verdure croccanti sono pronti per essere serviti."
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Coni-con-straccetti-di-manzo-e-verdure-croccanti.html",
+      "source_hash": "58564ad2a320570a0f4540ef13c827535683aea076186ef6db266f6318182f07",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:15:54.277414+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 272556467712897,
@@ -16029,7 +16099,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:35.455888+00:00",
+    "step_images_checked_at": "2026-11-13T17:15:51.176929+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/199/19915/19915_conchiglioni_al_ragu_di_pesce_strip_1-3.jpg"
@@ -16090,7 +16160,21 @@
       "Spegnete il fuoco e fate raffreddare il ragù di gamberi e nasello. Ora cuocete la pasta molto al dente regolandovi in base al tempo di cottura riportato sulla confezione. In una teglia di 24 x 24 cm, versate sul fondo un mestolo di besciamella.",
       "Farcite ad uno ad uno i conchiglioni con il ragù di gamberi e nasello e adagiateli sulla teglia, poi coprite con la besciamella.",
       "Spolverizzate con il formaggio grattugiato, condite con un filo d'olio extra vergine d'oliva e cuocete in forno statico a 190°C per 25 minuti, poi fai cuocere altri 10 minuti in modalità grill. A cottura ultimata, sfornate i conchiglioni e lasciateli intiepidire qualche istante prima di servirli."
-    ]
+    ],
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Conchiglioni-al-forno-con-ragu-di-gamberi-e-nasello-allo-zafferano.html",
+      "source_hash": "afd220f6be8f82d329aadf2d1d3168253f0cae2af6ad3b8a2ed7258c445ffd98",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:15:51.176912+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 121947647805280,
@@ -35182,7 +35266,21 @@
       "Mescolate bene il tutto per insaporire, poi impiattate e guarnite con scorza di limone grattugiata. L'insalata di calamari e patate è pronta da servire."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:53:35.363388+00:00"
+    "step_images_checked_at": "2026-11-13T17:16:05.601257+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-calamari-e-patate.html",
+      "source_hash": "a6678d83142b8bd5c919d0c9fd963c12206e7ca16fccb322bbd403a49c6d21e8",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:16:05.601238+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 53087330070907,
@@ -44701,7 +44799,21 @@
       "A questo punto non vi resta che comporre il vostro hamburger vegetariano: ponete una foglia di lattuga sul fondo del panino, posizionate poi il burger vegetariano 28 , le fettine di pomodoro salandole leggermente e richiudete con la calotta del panino 29 . Servite i vostri burger vegetariani 30 ancora caldi per gustare a pieno il loro sapore!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:47:10.134921+00:00"
+    "step_images_checked_at": "2026-11-13T17:16:02.751751+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Hamburger-vegetariano.html",
+      "source_hash": "c92679aa360992c14f8f132dcfaecb1b47ff673bfb7c5fea215f96b9e4e25849",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:16:02.751727+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 203925751244445,
@@ -48426,7 +48538,21 @@
       "Aggiungete il formaggio alla ciotola con 330 g di carne 13 , salate, pepate e mescolate con le mani, poi formate gli ultimi 2 hamburger sempre nello stesso modo 14 . I vostri hamburger di carne fatti in casa sono pronti per essere cotti 15 !"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:47:07.445737+00:00"
+    "step_images_checked_at": "2026-11-13T17:15:59.940337+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Hamburger-di-carne-fatti-in-casa.html",
+      "source_hash": "c8b8a9a5853662dabc687c0c802433d2fee913a77324d6925e029d45a5c21372",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:15:59.940321+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 79441666774287,
@@ -49527,7 +49653,21 @@
       "Spegnete il fuoco, aggiungete un filo d’olio e mantecate. Impiattate e completate con i peperoni cruschi sbriciolati grossolanamente con le mani, la salsiccia di Bra cruda a pezzetti e qualche fogliolina di timo. La pasta con crema di porro, zafferano e salsiccia di Bra è pronta per essere servita!"
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:34:00.669127+00:00"
+    "step_images_checked_at": "2026-11-13T17:16:19.720826+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-porro-zafferano-e-salsiccia-di-Bra.html",
+      "source_hash": "8b4895da881ce013d8426a7aa0aaec8d8369508d365adcbd917b2d653d88984a",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:16:19.720807+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 247747163809603,
@@ -51032,7 +51172,21 @@
       "Saltate per un paio di minuti. Impiattate guarnendo con qualche pisellino tenuto da parte, la ricotta salata grattugiata, la menta ed ecco pronta la vostra pasta con crema di piselli, taccole e ricotta salata."
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:57.321700+00:00"
+    "step_images_checked_at": "2026-11-13T17:16:16.572380+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-piselli-taccole-e-ricotta-salata.html",
+      "source_hash": "dd1389f9ec92b605d59567276758eed287ce7dbfa3d38f18749261e05e0000af",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:16:16.572361+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 208443114754838,
@@ -61447,7 +61601,21 @@
       "Scolate la pasta al dente e trasferitela in padella 22 , poi saltate il tutto per amalgamare bene 23 e impiattate. Aggiungete sopra un po' di cicoria e abbondante mollica. La vostra pasta con crema di fave e cicoria è pronta per essere servita 24 !"
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:51.819213+00:00"
+    "step_images_checked_at": "2026-11-13T17:16:13.774288+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-fave-e-cicoria.html",
+      "source_hash": "bdda68aaaa5372950d85f6a08734e49de1d319c7daf322b5103f0a2cd8b3c7c9",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:16:13.774267+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 164437232850372,
@@ -62598,7 +62766,21 @@
       "Fate dei fori con la forbice 37 38 , in modo che il ripieno possa cuocere bene. Cuocete in forno statico preriscaldato a 180° per 60 minuti. Quando la focaccia sarà ben dorata potrete sfornarla 39 e servirla calda o tiepida."
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:05:30.704524+00:00"
+    "step_images_checked_at": "2026-11-13T17:15:57.116042+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Focaccia-farcita-con-cime-di-rapa-e-salsiccia.html",
+      "source_hash": "273a6a5d114273d942e30d26bdea749f57939671a6657373010f3c5a3c293c7c",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-13T17:15:57.116022+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 201126293183850,

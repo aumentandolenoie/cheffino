@@ -52,7 +52,7 @@ def candidates(steps):
 REF = re.compile(
     r'(?P<lead>[ \t\u00a0]*)(?P<open>\()?[ ]?(?P<a>\d{1,3})'
     r'(?:[ ]?[-\u2013][ ]?(?P<b>\d{1,3}))?[ ]?(?P<close>\))?'
-    r'(?=[ \t\u00a0]*(?:[.,;:!?)\u2026]|$)|[ \t\u00a0]+[^\W\d_]|[ \t\u00a0]+\d{1,3}\b(?![.,]\d))')
+    r'(?=[ \t\u00a0]*(?:[.,;:!?)\u2026]|$)|[ \t\u00a0]+\((?!\d)|[ \t\u00a0]+[^\W\d_]|[ \t\u00a0]+\d{1,3}\b(?![.,]\d))')
 # Parole che seguono un riferimento fotografico nel testo GZ.
 CONNECTORS = {
     'e', 'ed', 'poi', 'quindi', 'fino', 'finche', 'finché', 'sino', 'mentre', 'infine',

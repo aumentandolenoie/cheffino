@@ -84,6 +84,7 @@ CATEGORY_MAP = {
 }
 LEAVENED_MEALS = ('pizza', 'calzon', 'panino', 'panini', 'piadin', 'focaccia farcita', 'burger', 'sandwich', 'toast')
 SALAD_MIN_KCAL = 300
+ANTIPASTO_MIN_KCAL = 350
 
 
 def classify_record(rec):
@@ -93,6 +94,19 @@ def classify_record(rec):
     if not category:
         return classify(name)
     n = re.sub(r'\s+', ' ', str(name).casefold()).strip()
+    if category not in CATEGORY_MAP and ',' in category:
+        # «Pasta,Primi Piatti»: si usa la prima voce riconosciuta.
+        known = [c.strip() for c in category.split(',') if c.strip() in CATEGORY_MAP or c.strip() in ('lievitati', 'insalate')]
+        if known:
+            return classify_record(dict(rec, source_category=known[0]))
+    if category == 'antipasti':
+        # Antipasto sostanzioso (>= 350 kcal a porzione secondo la fonte) con un titolo da piatto:
+        # adatto come pasto leggero. Gli altri antipasti restano fuori dal piano.
+        typ, status, _ = classify(name)
+        kcal = rec.get('kcal')
+        if status == 'candidato' and isinstance(kcal, (int, float)) and kcal >= ANTIPASTO_MIN_KCAL:
+            return typ, status, f'categoria fonte: Antipasti, {kcal:g} kcal a porzione'
+        return 'Antipasto', 'escluso', 'categoria fonte: Antipasti'
     if category in CATEGORY_MAP:
         typ, status = CATEGORY_MAP[category]
         return typ, status, f'categoria fonte: {rec.get("source_category")}'

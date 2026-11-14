@@ -23,13 +23,16 @@ OVEN = re.compile(r'\b(?:forno|fornetto|inforn\w*|sforn\w*|gratin\w*)', re.I)
 STOVE = re.compile(r'\b(?:padell\w*|pentol\w*|tegam\w*|casseruol\w*|wok|bollit\w*|bollor\w*|bollent\w*|'
                    r'sbollent\w*|lessat\w*|lessa(?:te|re)\w*|rosolat\w*|rosola(?:te|re)\w*|'
                    r'soffrigg\w*|soffritt\w*|fuoco|fiamma|fornell\w*|piastra|bagnomaria|sobbollire|'
+                   r'bollire|vaporiera|'
                    r'friggete|friggere|frittura)', re.I)
 OVEN_ONLY = re.compile(r'\b(?:cuocete|cuocere|cottura)\b[^.]{0,40}\bforno', re.I)
 MICROWAVE = re.compile(r'\b(?:microonde)\b', re.I)
 AIRFRY = re.compile(r'\b(?:friggitrice ad aria)\b', re.I)
 NO_COOK = 'Nessuna cottura'
 # Words in ingredient names that are insufficiently resolved for allergy/diet claims
-UNCERTAIN_COMPOSITES = re.compile(r'\b(preparato|mix|salsa pronta|condimento pronto)\b', re.I)
+# Prodotti pronti di composizione ignota; le note fra parentesi non contano
+# («Fumetto di crostacei (preparato con gli scarti...)», «Pepe mix in grani»).
+UNCERTAIN_COMPOSITES = re.compile(r'\b(preparato (?:per|pronto)|preparato$|mix di|salsa pronta|condimento pronto)\b', re.I)
 
 
 def detect_tools(procedure, rec=None):
@@ -63,7 +66,7 @@ def validate(rec):
     tools = detect_tools(procedure, rec)
     if not tools: reasons.append('attrezzatura_non_determinabile')
     # All of the above only qualifies for a general/unrestricted meal; no allergy or dietary certification.
-    if any(UNCERTAIN_COMPOSITES.search(str(x[0])) for x in rec.get('ingredients',[]) if isinstance(x,list) and x):
+    if any(UNCERTAIN_COMPOSITES.search(re.sub(r'\([^)]*\)', ' ', str(x[0])).strip()) for x in rec.get('ingredients',[]) if isinstance(x,list) and x):
         reasons.append('ingredienti_composti_non_identificati')
     return {'approved': not reasons, 'reasons': reasons, 'type': typ, 'tools': tools,
             'dietary_verified': [], 'allergen_verified': False, 'validation_version': 1}

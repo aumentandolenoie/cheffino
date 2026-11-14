@@ -291,7 +291,7 @@
   },
   {
     "id": 5,
-    "name": "PASTA POMODORO BASILICO",
+    "name": "Pasta pomodoro basilico",
     "emoji": "🍅",
     "style": "Classici italiani",
     "type": "Primo",
@@ -315,34 +315,34 @@
     "cost": "Economico",
     "ingredients": [
       [
-        "360 g Pasta",
-        null,
-        "da verificare"
+        "Pasta",
+        360,
+        "g"
       ],
       [
-        "200 g Pomodorini ciliegino",
-        null,
-        "da verificare"
+        "Pomodorini ciliegino",
+        200,
+        "g"
       ],
       [
-        "200 ml polpa di pomodoro",
-        null,
-        "da verificare"
+        "polpa di pomodoro",
+        200,
+        "ml"
       ],
       [
         "olio extravergine d'oliva",
         null,
-        "da verificare"
+        "q.b."
       ],
       [
-        "5 foglie Basilico",
-        null,
-        "da verificare"
+        "Basilico",
+        5,
+        "foglie"
       ],
       [
-        "1 spicchio aglio",
-        null,
-        "da verificare"
+        "aglio",
+        1,
+        "spicchio"
       ]
     ],
     "steps": [
@@ -2438,7 +2438,7 @@
       "e per finire il mazzetto di erbe aromatiche, coprite le verdure con il brodo in modo che risultino completamente immerse nel liquido, quindi coprite con il coperchio e lasciate cuocere per circa 2 ore; mescolate di tanto in tanto.",
       "Trascorso il tempo di cottura, le verdure risulteranno tenere; eliminate il rametto di erbe aromatiche, salate e pepate a piacere, quindi tenete in caldo. Affettale il filone di pane, adagiate le fettine su una leccarda rivestita con carta da forno,",
       "insaporite con olio di oliva, un pizzico di sale e aghetti di rosmarino, quindi fate tostare il pane fino a dorarlo in forno statico preriscaldato a 240° in modalità grill per 3-4 minuti.",
-      "Ora ponete i gherigli di noci in una padella ben calda 22 (potete lasciarle intere oppure sbriciolarle grossolanamente), tostatele per 3 minuti per dorarle agitando la padella per non farle bruciare, quindi unitele alla zuppa. Servite la zuppa autunnale calda 24 accompagnandola con i crostini di pane tostato."
+      "Ora ponete i gherigli di noci in una padella ben calda (potete lasciarle intere oppure sbriciolarle grossolanamente), tostatele per 3 minuti per dorarle agitando la padella per non farle bruciare, quindi unitele alla zuppa. Servite la zuppa autunnale calda 24 accompagnandola con i crostini di pane tostato."
     ],
     "needs_review": false,
     "imported_at": "2026-10-10T11:45:41.556560+00:00",
@@ -7892,7 +7892,7 @@
       "Per preparare i mandarini di Halloween, tagliate la parte superiore dei mandarini e, con l’aiuto di un coltello e un cucchiaio, ricavate la polpa, facendo attenzione a non bucare il fondo.",
       "Tenete da parte i gusci privati della polpa. In un pentolino inserite la polpa e lo zucchero, lasciate cuocete a fuoco medio-basso per 30 minuti.",
       "Dovrete ottenere una purea omogenea. Se dovessero rimanere dei pezzi grossolani, potete frullare tutto con il mixer a immersione. Trasferite in una ciotola e lasciate raffreddare, poi farcite i mandarini con la purea ottenuta. Lasciateli rapprendere in frigorifero per 10 minuti.",
-      "Passate alla preparazione della ganache. Tritate finemente il cioccolato e fondetelo a bagnomaria 11 (o in microonde). Scaldate quindi la panna in un pentolino, deve arrivare a una temperatura di circa 80°.",
+      "Passate alla preparazione della ganache. Tritate finemente il cioccolato e fondetelo a bagnomaria (o in microonde). Scaldate quindi la panna in un pentolino, deve arrivare a una temperatura di circa 80°.",
       "Versate la panna calda nel cioccolato e mescolate per ottenere una crema omogenea. Lasciate rapprendere la ganache a temperatura ambiente o in frigo, mescolandola di tanto in tanto fin quando otterrete una consistenza tipo pomata. Ora sciogliete il cioccolato per la decorazione (in microonde o a bagnomaria), trasferitelo in un conetto di carta e disegnate le tipiche faccine sui mandarini.",
       "Ispiratevi alle classiche decorazioni della zucca per ottenere una resa simile. A questo punto farcite i mandarini con la ganache utilizzando un sac-à-poche con bocchetta stellata per creare un ciuffetto. I mandarini di Halloween sono pronti per la festa!"
     ],
@@ -10595,7 +10595,7 @@
     "steps": [
       "Per realizzare il baccalà alla livornese iniziate dalla preparazione del sugo: mondate e affettate le cipolle 1 scaldate un filo di olio di oliva in una padella, aggiungete lo spicchio di aglio intero sbucciato e le fettine di cipolle.",
       "Lasciate appassire per 3-4 minuti a fuoco dolce bagnando con poca acqua, quanto basta per non far asciugare troppo il soffritto. In una ciotola schiacciate i pelati, quindi versateli nel tegame con le cipolle",
-      "Coprite con il coperchio e cuocete a fuoco medio per circa 15 minuti. Nel frattempo cominciate a tagliare in tranci il baccalà dissalato cercando di ottenere pezzi della stessa grandezza 9 (se avete acquistato il baccalà sotto sale potete dissalarlo seguendo le nostre indicazioni nella scheda: come dissalare il baccalà ).",
+      "Coprite con il coperchio e cuocete a fuoco medio per circa 15 minuti. Nel frattempo cominciate a tagliare in tranci il baccalà dissalato cercando di ottenere pezzi della stessa grandezza (se avete acquistato il baccalà sotto sale potete dissalarlo seguendo le nostre indicazioni nella scheda: come dissalare il baccalà ).",
       "Infarinate accuratamente i tranci di baccalà, quindi scaldate un filo di olio in un tegame e adagiate il baccalà 11 facendolo rosolare su entrambi i lati per alcuni istanti girandolo con delicatezza, salate 12 pepate.",
       "Sfumate con il vino bianco e lasciate evaporare. Intanto il sugo sarà giunto a cottura, ora potete eliminare l'aglio,",
       "quindi versate il sugo nel tegame con il baccalà, coprite con il coperchio e lasciate cuocere a fuoco dolce per circa 20 minuti, se mescolate fatelo con molta delicatezza per non sfaldare il baccalà. Intanto pelate le patate",
@@ -13944,7 +13944,7 @@
       "poi pelate gli spicchi di aglio e tagliateli a metà per il lungo. Pelate le carote e tagliatele prima a bastoncini e poi a cubetti.",
       "Ora prendete i pomodori, rimuovete la buccia con uno spelucchino, poi tagliateli a metà e rimuovete il picciolo; dividete le metà a spicchi ed eliminate la polpa interna con i semini, poi tagliateli a fettine sottili.",
       "Sbucciate la patata e dividetela a metà prima trasversalmente, poi longitudinalmente, dopodiché tagliatela a fettine sottili.",
-      "Pelate lo zenzero con il pelaverdure e tagliate anch’esso a fettine sottili. Prendete uno dei lime, dividetelo in quarti e tagliateli a fettine sottili 15 (se non gradite il restrogusto amarognolo, potete utilizzare mezzo lime o solo qualche fettina in questa fase).",
+      "Pelate lo zenzero con il pelaverdure e tagliate anch’esso a fettine sottili. Prendete uno dei lime, dividetelo in quarti e tagliateli a fettine sottili (se non gradite il restrogusto amarognolo, potete utilizzare mezzo lime o solo qualche fettina in questa fase).",
       "Infine lavate il peperoncino rosso, dividetelo a metà per il lungo ed eliminate i semini interni, poi tagliatelo a pezzettini; fate la stessa cosa con il peperoncino verde. Unite tutte queste verdure in una ciotola capiente e tenete da parte.",
       "Ora potete occuparvi del pollo: tagliate il petto di pollo a striscioline di medio spessore, trasferitelo in una ciotola e aggiungete il succo spremuto dei due lime rimasti, i chiodi di garofano,",
       "le bacche di ginepro e la curcuma. Mescolate bene, coprite la ciotola con la pellicola e lasciate marinare in frigorifero per almeno 20 minuti.",
@@ -26742,7 +26742,7 @@
       ]
     ],
     "steps": [
-      "Per preparare l'insalata di farro con verdure, in un tegame capiente portate a bollore l'acqua e salatela a piacere, quindi versate il farro e fatelo bollire per il tempo indicato sulla confezione 2 (circa una ventina di minuti). Intanto preparate il condimento: lavate e tagliate a quarti i pomodori ciliegino 3 (potete prelevare i semini se non li gradite).",
+      "Per preparare l'insalata di farro con verdure, in un tegame capiente portate a bollore l'acqua e salatela a piacere, quindi versate il farro e fatelo bollire per il tempo indicato sulla confezione (circa una ventina di minuti). Intanto preparate il condimento: lavate e tagliate a quarti i pomodori ciliegino (potete prelevare i semini se non li gradite).",
       "Poi tagliate la provola a dadini; lavate e staccate dal tronco principale del broccolo le cimette e tagliatele a metà.",
       "Spuntate i fagiolini quindi scottateli in un tegame e procedete allo stesso modo anche con le cimette di broccoli in un tegame a parte. Basteranno pochi minuti perchè le verdure dovranno rimanere croccanti.",
       "Quando il farro sarà cotto, scolatelo e passatelo rapidamente sotto l'acqua corrente fredda. Quindi versatelo in una ciotola e unite i pomodorini",
@@ -28165,7 +28165,7 @@
       ]
     ],
     "steps": [
-      "Per preparare l'insalata di farro con pesto di erbe e primo sale mettete a bollire il farro 1 (questo istantaneo sarà pronto in circa 12 minuti), salate a fine cottura. Scolate e sciacquate con acqua fredda, versate in una ciotola e condite con un giro di olio.",
+      "Per preparare l'insalata di farro con pesto di erbe e primo sale mettete a bollire il farro (questo istantaneo sarà pronto in circa 12 minuti), salate a fine cottura. Scolate e sciacquate con acqua fredda, versate in una ciotola e condite con un giro di olio.",
       "Preparate il pesto versando nella ciotola del mixer il basilico, la maggiorana, l'erba cipollina e gli anacardi.",
       "Aggiungete il Pecorino, salate e versate l'olio.",
       "Azionate le lame per frullare il tutto. Versate il pesto nel farro e mescolate. Tagliate a cubetti il primosale.",
@@ -34961,7 +34961,7 @@
     "steps": [
       "Per preparare la pasta con fiori di zucca e alici, pulite delicatamente i fiori di zucca rimuovendo il pistillo interno, poi divideteli in petali più piccoli. Ponete sul fuoco una pentola colma di acqua salata e portatela a bollore. Cuocete le linguine per un paio di minuti in meno rispetto al tempo indicato sulla confezione.",
       "Nel frattempo occupatevi del condimento: in una padella versate un filo d’olio extravergine d’oliva, l'aglio, la scorza di limone e metà delle alici previste nella ricetta.",
-      "Lasciate soffriggere a fuoco dolce per pochi minuti, giusto il tempo di sciogliere le alici, quindi sfumate con il vino bianco. Lasciate evaporare l'alcol e poi unite i fiori di zucca 8 (tenete da parte una piccola manciata da aggiungere alla fine). Regolate di sale e pepe e cuocete per circa 2 minuti. Rimuovete l'aglio dalla padella.",
+      "Lasciate soffriggere a fuoco dolce per pochi minuti, giusto il tempo di sciogliere le alici, quindi sfumate con il vino bianco. Lasciate evaporare l'alcol e poi unite i fiori di zucca (tenete da parte una piccola manciata da aggiungere alla fine). Regolate di sale e pepe e cuocete per circa 2 minuti. Rimuovete l'aglio dalla padella.",
       "Scolate la pasta al dente tenendo da parte un po’ di acqua di cottura, trasferitela nella padella con il condimento e portatela a cottura mescolando continuamente. Se necessario, aggiungete un po’ di acqua di cottura per mantenere il fondo cremoso. A questo punto unite altri 3 filetti di alici.",
       "Incorporate anche i restanti fiori di zucca e mescolate delicatamente per circa un minuto per lasciare insaporire il tutto. Infine, mantecate la pasta con un filo d’olio a crudo e distribuite le linguine nei piatti.",
       "Guarnite con i filetti di alici rimasti, irrorate con il sughetto e servite subito la vostra pasta con fiori di zucca e alici."
@@ -37954,7 +37954,7 @@
       "e il parmigiano grattugiato. Frullate nuovamente, poi ponete la salsina in una ciotola e passate agli altri ingredienti della vostra Caesar salad. Tagliate la pancetta a fettine",
       "In una padella scaldate l’olio, quindi aggiungete la pancetta e fatela rosolare per 2-3 minuti finché non diventa croccante. Toglietela dal fuoco e ponetela ad asciugare su un piatto su cui avrete posto un foglio di carta assorbente. Passate al pollo: tagliatelo a striscioline",
       "E, senza aggiungere altro olio, aggiungetele nella padella in cui avete rosolato la pancetta. Fatelo dorare qualche minuto, quindi toglietelo dalla padella e mettetelo da parte in una pirofila.",
-      "Tagliate adesso il pane a dadini 16 (preferite pane congelato, più facile da tagliare). Aggiungete nella solita padella un filo d’olio, e versatevi i cubetti di pane. Conditeli con pepe, sale",
+      "Tagliate adesso il pane a dadini (preferite pane congelato, più facile da tagliare). Aggiungete nella solita padella un filo d’olio, e versatevi i cubetti di pane. Conditeli con pepe, sale",
       "aromatizzate con origano secco e fateli dorare finché non diventano croccanti. Toglieteli dal fuoco e tenete anch’essi da parte in una ciotola. Passate adesso alla composizione dei vostri finger food: lavate e sfogliate la lattuga baby, selezionando le 16 foglie più capienti da usare come barchetta.",
       "Riempite ogni foglia con una generosa dose di salsa, qualche straccetto di pollo, qualche dadino di pane dorato",
       "Infine aggiungete la pancetta croccante e un ultimo filo di salsa. Procedete così fino ad esaurire gli ingredienti: la vostra caesar salad di pollo su lattuga baby è pronta per essere gustata!"
@@ -39357,7 +39357,7 @@
       ]
     ],
     "steps": [
-      "Per preparare i vostri burritos di pollo con guacamole al lime, cominciate preparando il guacamole. Tagliate a metà l’avocado e rimuovete il nocciolo, quindi con un cucchiaio raccogliete la polpa staccandola dalla buccia 2 (per compiere questa operazione è indispensabile che l’avocado sia ben maturo), e ponetela in una ciotola. Spremete il lime",
+      "Per preparare i vostri burritos di pollo con guacamole al lime, cominciate preparando il guacamole. Tagliate a metà l’avocado e rimuovete il nocciolo, quindi con un cucchiaio raccogliete la polpa staccandola dalla buccia (per compiere questa operazione è indispensabile che l’avocado sia ben maturo), e ponetela in una ciotola. Spremete il lime",
       "E unite il succo alla polpa di avocado. Regolate di sale e pepe. Passate agli altri ingredienti per la salsa: tritate finemente lo scalogno",
       "e tagliate il pomodoro a dadini. Incidete il peperoncino verde sotto al picciolo e, capovolgendolo, svuotatelo dei semi.",
       "Tagliate quindi il peperoncino a listarelle e poi a piccoli dadini. Aggiungete nella ciotola dell’avocado lo scalogno, il pomodoro e il peperoncino tritato.",
@@ -40831,12 +40831,12 @@
       ]
     ],
     "steps": [
-      "Per preparare il burger di manzo con maionese di soia iniziate dalla preparazione di quest’ultima: in un recipiente stretto e dai bordi alti versate il tuorlo e unite la salsa di soia 2 (noi abbiamo usato la salsa di soia a basso contenuto di sale). A questo punto immergete il mixer e azionatelo, versando l'olio di semi a filo mentre il mixer lavora.",
+      "Per preparare il burger di manzo con maionese di soia iniziate dalla preparazione di quest’ultima: in un recipiente stretto e dai bordi alti versate il tuorlo e unite la salsa di soia (noi abbiamo usato la salsa di soia a basso contenuto di sale). A questo punto immergete il mixer e azionatelo, versando l'olio di semi a filo mentre il mixer lavora.",
       "Frullate bene gli ingredienti fino a ottenere una salsa omogenea. A questo punto la maionese di soia sarà pronta: trasferitela in una ciotolina e riponetela in frigorifero mentre vi dedicate al resto della preparazione. Prendete i pomodori, sciacquateli e asciugateli, quindi affettateli e tenete le fette da parte.",
       "Lavate anche l’insalata e asciugatela bene. Poi dividete le foglie a metà e tenete anch’esse da parte.",
       "Private il formaggio della crosticina esterna e tagliatelo in fettine della stessa dimensione del pane per hamburger. A questo punto tagliate i panini per hamburger a metà e scottateli per pochi minuti in una padella dal fondo ampio e antiaderente. Si dovrà ottenere una leggera crosticina nella parte che farete scottare in padella. Tenete anche il pane da parte.",
       "Procedete ora alla preparazione del burger: versate la carne trita in una ciotola, salate e pepate. Insaporite e massaggiate la carne con le mani. Appoggiate ora un foglio di carta da forno sopra un tagliere o un piano di lavoro; prendete 1 coppapasta di 11 cm di diametro e versate all'interno 200 g di carne trita, pressandola con il dorso di un cucchiaio.",
-      "Poi sfilate il coppapasta: dovrete ottenere un burger compatto 16 (se non avete un coppapasta della dimensione indicata potete creare il burger semplicemente mettendo insieme 200 g di carne, appiattendola e misurando il diametro con un metro). Ripetete l’operazione fino a terminare la carne. Quindi cuoceteli in una padella in cui avrete fatto scaldare leggermente l'olio: scottate la carte per circa 4 minuti da un lato; girateli dall'altro lato e adagiate una fetta di fontina su ciascun burger e cuocete sempre per circa 4 minuti: il formaggio dovrà fondersi.",
+      "Poi sfilate il coppapasta: dovrete ottenere un burger compatto (se non avete un coppapasta della dimensione indicata potete creare il burger semplicemente mettendo insieme 200 g di carne, appiattendola e misurando il diametro con un metro). Ripetete l’operazione fino a terminare la carne. Quindi cuoceteli in una padella in cui avrete fatto scaldare leggermente l'olio: scottate la carte per circa 4 minuti da un lato; girateli dall'altro lato e adagiate una fetta di fontina su ciascun burger e cuocete sempre per circa 4 minuti: il formaggio dovrà fondersi.",
       "Una volta pronta la carne, spalmate la maionese sulle tutte le metà dei panini, poi adagiate su quattro metà una fetta di lattuga e le fettine di pomodoro.",
       "Completate i burger di manzo con maionese di soia adagiando la carne e un’altra foglia di insalata. Richiudete il burger con le rispettive metà di panino. I vostri burger di manzo con maionese di soia sono ora pronti per essere assaporati!"
     ],
@@ -44494,10 +44494,10 @@
     ],
     "steps": [
       "Per preparare l'insalata di avocado, potete iniziare mettendo a scolare le olive taggiasche dall'olio di conservazione, poi preparate la citronette: prendete i peperoncini freschi (se preferite potete usare dei guanti da cucina, altrimenti ricordate di lavare molto bene le mani dopo averli puliti e affettati, per non rischiare di irritarvi), togliete il picciolo e apriteli per eliminare i semini interni. Quindi affettateli finemente",
-      "Spremete il succo di 1 limone, poi filtratelo e versatelo in un vasetto 6 (potete emulsionare la citronette anche in una piccola ciotola usando una frusta a mano o una forchetta)",
+      "Spremete il succo di 1 limone, poi filtratelo e versatelo in un vasetto (potete emulsionare la citronette anche in una piccola ciotola usando una frusta a mano o una forchetta)",
       "Versate anche 1 pizzico di sale, il pepe (opzionale) e il peperoncino fresco, quindi unite l'olio extravergine d'oliva.",
       "Chiudete e agitate il barattolino così da emulsionare il composto e la vostra citronette sarà pronta, versatela in una ciotola dove condirete l'insalata. Lavate e asciugate bene sia i pomodorini datterini che la rucola, quindi dividete i datterini a metà per il senso della lunghezza;",
-      "poi tagliate a metà e pelate l'avocado 13 (se molto maturo potete prelevare la polpa con un cucchiaio), riducete la polpa a dadini. Ora, versate nella ciotola in cui avevate posto la citronette le olive taggiasche",
+      "poi tagliate a metà e pelate l'avocado (se molto maturo potete prelevare la polpa con un cucchiaio), riducete la polpa a dadini. Ora, versate nella ciotola in cui avevate posto la citronette le olive taggiasche",
       "l'avocado e mescolate accuratamente in modo che l'avocado non si ossidi grazie al condimento con la citronette. Unite anche i pomodorini datterino",
       "poi la rucola e per finire la nota croccante: i semi di zucca; mescolate bene e la vostra insalata con avocado è pronta per essere gustata!"
     ],
@@ -53568,7 +53568,7 @@
       "e sbattete rapidamente con una frusta versando l'olio a filo per emulsionare meglio il composto. Condite con sale e pepe. Pelate poi a vivo l'altro pompelmo",
       "e tagliatelo prima a fette, poi a listarelle e in ultimo a piccoli cubetti.",
       "Sciacquate, asciugate e trasferite l'insalatina in una ciotola capiente, aggiungete i cubetti di pompelmo e mescolate. Condite con un po' di salsina al pompelmo che avevate preparato in precedenza (cercate di condire all'ultimo in modo che l'insalata non si appassisca) e mescolate nuovamente.",
-      "Dividete poi l'insalata in 4 vasetti di vetro 16 (o in 4 ciotoline) e componete i bocconcini al salmone: disponete una fettina di salmone affumicato sul piano, adagiate sopra un pò di riso leggermente pressato con le mani e arrotolatelo in modo da creare un involtino.",
+      "Dividete poi l'insalata in 4 vasetti di vetro (o in 4 ciotoline) e componete i bocconcini al salmone: disponete una fettina di salmone affumicato sul piano, adagiate sopra un pò di riso leggermente pressato con le mani e arrotolatelo in modo da creare un involtino.",
       "Fate la stessa operazione anche per gli altri, poi divideteli a metà con un coltello dalla lama molto tagliente e posizionatene 3 in ciascun vasetto. Condite con la salsina al pompelmo rimasta e servite i vostri bocconcini di salmone con insalata al pompelmo."
     ],
     "needs_review": false,
@@ -63824,7 +63824,7 @@
       "Disossate e sfilacciate la carne con le mani, poi mettetela nuovamente nel tegame con il sugo e proseguite la cottura per altre 3 ore a fuoco medio-basso. Durante la cottura potete spennellare i bordi con poca acqua per eliminare la crosticina che tenderà a formarsi.",
       "Intanto potete dedicarvi alla pasta fresca: sistemate la farina a fontana sul piano di lavoro, poi versate al centro i tuorli. Aggiungete il sale e l’olio e iniziate a incorporare gli ingredienti con le mani.",
       "Continuate a lavorare il composto fino ad ottenere un panetto liscio e omogeneo. Avvolgete l’impasto nella pellicola e lasciate riposare in frigorifero per circa un’ora, un’ora e mezza.",
-      "Trascorso il tempo di cottura del ragù, trasferitelo in un tritacarne e passatelo per 2 volte 26 (in alternativa potete utilizzare un frullatore a bassa velocità). Tenete da parte circa metà del ragù che vi servirà per condire i plin, e mettete il resto in una ciotola. Aggiungete il basilico tagliato a julienne.",
+      "Trascorso il tempo di cottura del ragù, trasferitelo in un tritacarne e passatelo per 2 volte (in alternativa potete utilizzare un frullatore a bassa velocità). Tenete da parte circa metà del ragù che vi servirà per condire i plin, e mettete il resto in una ciotola. Aggiungete il basilico tagliato a julienne.",
       "Unite anche il Parmigiano Reggiano grattugiato e mescolate bene per ottenere un composto omogeneo. Trasferitelo in un sac-à-poche e tenete da parte.",
       "Riprendete l’impasto della pasta fresca dal frigorifero e dividetelo in porzioni più piccole. Stendete una porzione per volta avendo cura di tenere il resto coperto. Spolverizzate l’impasto con poca farina e passatelo nella macchina tirapasta partendo dallo spessore più largo.",
       "Ripiegate la sfoglia per rinforzarla e passatela nuovamente nella macchina riducendo man mano lo spessore fino ad arrivare a quello più sottile. Adagiate la sfoglia su piano di lavoro e spremete il ripieno per tutta la lunghezza.",
@@ -64458,15 +64458,15 @@
     ],
     "steps": [
       "Per prepara le bavette con polpo e gamberi, per prima cosa mettete a cuocere il polpo. Ponete sul fuoco, una pentola capiente colma di acqua, salata e portatela a bollore. Nel frattempo pulite il polpo, rivoltando e svuotando la testa, togliendo il dente posto al centro dei tentacoli con un coltellino ed eliminando gli occhi; sciacquatelo molto bene sotto l’acqua fredda corrente.",
-      "Non appena l’acqua comincerà a bollire, immergete ed estraete i tentacoli per alcune volte fino a che non si arricceranno (4-5) (saranno molto più belli da vedere una volta impiattati) e poi immergete finalmente tutto il polpo. Aggiungete all’acqua anche gli aromi: l'alloro, le bacche di ginepro, lo spicchio d’aglio leggermente schiacciato e il pepe rosa in grani. Coprite la pentola con il coperchio, abbassate il fuoco al minimo (l’acqua dovrà appena sobbollire) e lasciate cuocere così per 40 minuti.",
-      "Nel frattempo eliminate le teste e i carapaci dei gamberi e tenete da parte la carne. Preparate un fumetto con il quale cuocerete le bavette rendendole estremamente saporite. Mettete in una pentola il burro e fatelo sciogliere, quindi aggiungete l’aglio, la cipolla e il porro tagliati sottilmente, lasciate rosolare e unite gli scarti dei crostacei, ricordandovi di schiacciare bene le teste per far fuoriuscire la parte saporita dei gamberi. Sfumate con il vino bianco 8 (oppure con il brandy o il cognac) e poi unite i pomodorini (facoltativi), l’acqua bollente, il prezzemolo, l’erba cipollina, il pepe e il sale, e versate 500 g di acqua.",
+      "Non appena l’acqua comincerà a bollire, immergete ed estraete i tentacoli per alcune volte fino a che non si arricceranno (saranno molto più belli da vedere una volta impiattati) e poi immergete finalmente tutto il polpo. Aggiungete all’acqua anche gli aromi: l'alloro, le bacche di ginepro, lo spicchio d’aglio leggermente schiacciato e il pepe rosa in grani. Coprite la pentola con il coperchio, abbassate il fuoco al minimo (l’acqua dovrà appena sobbollire) e lasciate cuocere così per 40 minuti.",
+      "Nel frattempo eliminate le teste e i carapaci dei gamberi e tenete da parte la carne. Preparate un fumetto con il quale cuocerete le bavette rendendole estremamente saporite. Mettete in una pentola il burro e fatelo sciogliere, quindi aggiungete l’aglio, la cipolla e il porro tagliati sottilmente, lasciate rosolare e unite gli scarti dei crostacei, ricordandovi di schiacciare bene le teste per far fuoriuscire la parte saporita dei gamberi. Sfumate con il vino bianco (oppure con il brandy o il cognac) e poi unite i pomodorini (facoltativi), l’acqua bollente, il prezzemolo, l’erba cipollina, il pepe e il sale, e versate 500 g di acqua.",
       "Lasciate cuocere a fuoco basso fino a ridurre il liquido della metà, poi frullate il tutto e filtrate con un colino a maglie strette. Avete ottenuto il vostro fumetto di crostacei.",
       "Una volta cotto, lasciate intiepidire il polpo all’interno della sua acqua di cottura, quindi scolatelo e tagliatelo a pezzetti.",
       "Quindi tagliate anche i pomodorini in 4. In una padella fate rosolare l’aglio, e il peperoncino privato dei semi e tagliato a listarelle, con l’olio extravergine di oliva, poi aggiungete i pomodorini e il sale;",
       "lasciate cuocere per circa 10 minuti, quindi spegnete il fuoco, eliminate l’aglio, unite il polpo e il prezzemolo tritato finemente.",
-      "Nel frattempo mettete a scaldare in un tegame capiente una parte della bisque, unite le bavette 24 (che dovranno stare comodamente sdraiate e dovete riuscire a mescolarle agevolmente).",
-      "Coprite a filo con il fumetto bollente. Mescolate continuamente per non farle attaccare, aggiungete poco a poco il fumetto caldo fino a portarle a 3 minuti dalla cottura 26 (se finiste il fumetto prima della fine della cottura della pasta, potreste utilizzare dell’acqua calda o del brodo vegetale leggero). Nel frattempo tagliate a metà i gamberi nel senso della lunghezza 27 (se sono più piccoli potete anche lasciarli interi).",
-      "Una volta che le vostre bavette saranno quasi arrivate a cottura, unite il sugo di pomodorini e polpo, i gamberi 29 (se sono più piccoli potete anche lasciarli interi), il prezzemolo tritato e il pepe macinato. Terminate la cottura e servite le vostre bavette con polpo e gamberi ancora calde."
+      "Nel frattempo mettete a scaldare in un tegame capiente una parte della bisque, unite le bavette (che dovranno stare comodamente sdraiate e dovete riuscire a mescolarle agevolmente).",
+      "Coprite a filo con il fumetto bollente. Mescolate continuamente per non farle attaccare, aggiungete poco a poco il fumetto caldo fino a portarle a 3 minuti dalla cottura (se finiste il fumetto prima della fine della cottura della pasta, potreste utilizzare dell’acqua calda o del brodo vegetale leggero). Nel frattempo tagliate a metà i gamberi nel senso della lunghezza (se sono più piccoli potete anche lasciarli interi).",
+      "Una volta che le vostre bavette saranno quasi arrivate a cottura, unite il sugo di pomodorini e polpo, i gamberi (se sono più piccoli potete anche lasciarli interi), il prezzemolo tritato e il pepe macinato. Terminate la cottura e servite le vostre bavette con polpo e gamberi ancora calde."
     ],
     "needs_review": true,
     "imported_at": "2026-10-11T10:52:43.140156+00:00",
@@ -67241,7 +67241,7 @@
       ]
     ],
     "steps": [
-      "Per preparare la focaccia di patate, iniziate cuocendo le patate in pentola a pressione per circa 15 minuti 1 (se le lessate in una normale pentola ci vorrà almeno mezz'ora), poi pelatele e passatele raccogliendo la purea in una ciotola. Lasciatele raffreddare,",
+      "Per preparare la focaccia di patate, iniziate cuocendo le patate in pentola a pressione per circa 15 minuti (se le lessate in una normale pentola ci vorrà almeno mezz'ora), poi pelatele e passatele raccogliendo la purea in una ciotola. Lasciatele raffreddare,",
       "intanto nella tazza di una planetaria versate la farina setacciata, il lievito disidratato e il malto, poi aggiungete anche il sale sui bordi e le patate oramai fredde. Potete utilizzare anche il lievito di birra fresco: in questo caso la dose da usare è 21 g. Il malto, invece, può essere sostituito dalla stessa quantità di miele.",
       "Quindi montate la foglia K, versate l'olio e iniziate ad impastare. Unite a filo l'acqua a temperatura ambiente e quando tutti gli ingredienti si saranno amalgamati,",
       "sostituite la foglia con il gancio. Lavorate ancora 5 minuti, quindi arrestate la planetaria e trasferite l'impasto su un piano di lavoro leggermente oleato. Lavoratelo con il tarocco perchè risulterà piuttosto appiccicoso, dategli una forma ovale",

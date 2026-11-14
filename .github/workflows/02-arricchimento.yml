@@ -8,6 +8,9 @@ on:
         description: 'Completa anche ingredienti e altri dati (oltre alle immagini)'
         type: boolean
         default: false
+      lotto_fonte:
+        description: 'Quante schede rileggere dalla fonte (sincronizzazione)'
+        default: '40'
 permissions:
   contents: write
 concurrency:
@@ -17,7 +20,7 @@ jobs:
   arricchimento:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -39,6 +42,8 @@ jobs:
           python diagnostica_quantita.py --limit 20
           python verifica_catalogo.py
           python -m json.tool data/catalogo.json > /dev/null
+      - name: Sincronizza schede con la fonte
+        run: python sincronizza_fonte.py --limit "${{ inputs.lotto_fonte || '40' }}" --delay 2.5
       - name: Immagini per blocchi e audit del catalogo pubblicato
         run: |
           # Pubblicate + approvate in attesa di foto (vedi importa_foto_passaggi.py)

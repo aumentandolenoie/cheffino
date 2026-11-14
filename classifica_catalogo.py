@@ -68,6 +68,49 @@ def classify(name):
     return 'Da classificare', 'incerto', 'nessuna regola affidabile'
 
 
+# Categoria dichiarata dalla fonte (JSON-LD recipeCategory di GialloZafferano):
+# più affidabile del titolo, che resta il criterio di riserva.
+CATEGORY_MAP = {
+    'primi piatti': ('Primo', 'candidato'), 'primi': ('Primo', 'candidato'),
+    'secondi piatti': ('Secondo', 'candidato'), 'secondi': ('Secondo', 'candidato'),
+    'piatti unici': ('Piatto unico', 'candidato'), 'piatto unico': ('Piatto unico', 'candidato'),
+    'torte salate': ('Piatto unico', 'candidato'),
+    'dolci': ('Dolce o colazione', 'escluso'), 'dessert': ('Dolce o colazione', 'escluso'),
+    'bevande': ('Bevanda', 'escluso'), 'cocktail': ('Bevanda', 'escluso'),
+    'salse e sughi': ('Condimento', 'escluso'), 'salse': ('Condimento', 'escluso'),
+    'contorni': ('Contorno', 'escluso'), 'antipasti': ('Antipasto', 'escluso'),
+    'marmellate e conserve': ('Conserva', 'escluso'), 'preparazioni di base': ('Preparazione di base', 'escluso'),
+    'finger food': ('Antipasto', 'escluso'), 'aperitivi': ('Antipasto', 'escluso'),
+}
+LEAVENED_MEALS = ('pizza', 'calzon', 'panino', 'panini', 'piadin', 'focaccia farcita', 'burger', 'sandwich', 'toast')
+SALAD_MIN_KCAL = 300
+
+
+def classify_record(rec):
+    """Classificazione con la categoria della fonte, se nota; altrimenti dal titolo."""
+    name = rec.get('name', '')
+    category = re.sub(r'\s+', ' ', str(rec.get('source_category') or '').casefold()).strip()
+    if not category:
+        return classify(name)
+    n = re.sub(r'\s+', ' ', str(name).casefold()).strip()
+    if category in CATEGORY_MAP:
+        typ, status = CATEGORY_MAP[category]
+        return typ, status, f'categoria fonte: {rec.get("source_category")}'
+    if category == 'lievitati':
+        if any(t in n for t in LEAVENED_MEALS):
+            return 'Piatto unico', 'candidato', 'categoria fonte: Lievitati (pizza/panino)'
+        return 'Lievitato', 'escluso', 'categoria fonte: Lievitati'
+    if category == 'insalate':
+        typ, status, _ = classify(name)
+        if status == 'candidato':
+            return typ, status, 'categoria fonte: Insalate + titolo'
+        kcal = rec.get('kcal')
+        if isinstance(kcal, (int, float)) and kcal >= SALAD_MIN_KCAL:
+            return 'Piatto unico', 'candidato', f'categoria fonte: Insalate, {kcal:g} kcal a porzione'
+        return 'Contorno', 'escluso', 'categoria fonte: Insalate leggera'
+    return classify(name)
+
+
 def assess(record):
     ings = record.get('ingredients')
     steps = record.get('steps')
@@ -96,7 +139,7 @@ def process(path, dry_run=False):
             stats['preesistenti'] += 1
             continue
         inspected += 1
-        typ, status, reason = classify(rec.get('name', ''))
+        typ, status, reason = classify_record(rec)
         qa = assess(rec)
         classification = {'tipo_proposto':typ, 'esito':status, 'criterio':reason, **qa}
         if rec.get('classificazione_automatica') != classification:

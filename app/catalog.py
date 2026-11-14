@@ -91,6 +91,12 @@ NUTRITION_KEYS={'calories':('calories',),'proteinContent':('proteinContent','pro
                 'fatContent':('fatContent','fat')}
 
 
+def source_cost(html):
+    """«Costo: Basso» dalla scheda GialloZafferano (indicazione della fonte, non un prezzo)."""
+    m=re.search(r'Costo:\s*(?:<[^>]+>\s*)*([A-Za-zàèéìòù ]{3,20}?)\s*<',html)
+    return m.group(1).strip() if m else None
+
+
 def parse_recipe(html,url):
     p=JsonLdParser(); p.feed(html)
     for script in p.scripts:
@@ -115,6 +121,8 @@ def parse_recipe(html,url):
                     'ingredients':ingredients,'steps':steps,'yield_text':str(yield_info) if yield_info else None,
                     'prep_time':node.get('prepTime'),'cook_time':node.get('cookTime'),'total_time':node.get('totalTime'),
                     'nutrition':nut,
+                    'category':text_value(node.get('recipeCategory')[0] if isinstance(node.get('recipeCategory'),list) and node.get('recipeCategory') else node.get('recipeCategory')) or None,
+                    'cost_text':source_cost(html),
                     'imported_at':datetime.now(timezone.utc).isoformat()}
     raise ValueError('Nessuna ricetta completa in formato JSON-LD: nessun dato inserito.')
 
@@ -170,6 +178,7 @@ def build_record(raw, existing=None):
          'fats':numeric_nutrition(nut.get('fatContent')) if nut.get('fatContent') else None,
          'cost':None,'ingredients':[parse_ingredient(x) for x in raw['ingredients']],
          'steps':steps,'steps_raw':list(raw.get('steps') or []),'needs_review':True,
+         'source_category':raw.get('category'),'source_cost':raw.get('cost_text'),
          'imported_at':raw.get('imported_at') or datetime.now(timezone.utc).isoformat()}
     return rec
 

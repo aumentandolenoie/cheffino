@@ -33,7 +33,7 @@ def _allowed_photo_review(path, source_records):
     reasons={"galleria_presente_nella_fonte_non_abbinata",
              "foto_nel_corpo_del_blog_non_ancora_abbinate",
              "non_piatto_principale"}
-    from classifica_catalogo import classify
+    from classifica_catalogo import classify_record
     for item in manual:
         if not isinstance(item,dict) or item.get("reason") not in reasons:
             raise ValueError("Motivo della sospensione non riconosciuto")
@@ -43,7 +43,7 @@ def _allowed_photo_review(path, source_records):
             raise ValueError("Sospensione non valida: "+str(rid))
         if item["reason"]=="non_piatto_principale":
             # Ritiro documentato di un contorno/dolce pubblicato per errore come piatto.
-            if classify(rec.get("name",""))[1]!="escluso":
+            if classify_record(rec)[1]!="escluso":
                 raise ValueError("Ritiro non giustificato dalla classificazione: "+str(rid))
         elif publishable_step_photos(rec):
             raise ValueError("Sospensione fotografica non valida: "+str(rid))
@@ -74,6 +74,17 @@ def compare(source, snapshot, previous=None, approved_photo_review=None):
             raise ValueError("Snapshot precedente non valido")
         old_published = {rec.get("id"): rec for rec in past}
         lost_previous = [rec for rid, rec in old_published.items() if rid not in new]
+        # Ritiro automatico ammesso solo quando la categoria dichiarata dalla fonte
+        # esclude la ricetta dal piano (es. «Contorni», «Antipasti», «Dolci»).
+        from classifica_catalogo import classify_record
+        by_source={r.get("id"):r for r in source_data}
+        for rec in lost_previous:
+            current=by_source.get(rec.get("id"))
+            if current and rec.get("id") not in allowed:
+                typ,status,reason=classify_record(current)
+                if status=="escluso" and reason.startswith("categoria fonte"):
+                    allowed.add(rec.get("id"))
+                    print(f"RITIRATA PER CATEGORIA DELLA FONTE: {rec.get('name')} | id={rec.get('id')} | {reason}")
         lost_unauthorized=[rec for rec in lost_previous if rec.get("id") not in allowed]
         if lost_unauthorized:
             for rec in lost_unauthorized[:20]:

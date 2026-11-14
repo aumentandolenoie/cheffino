@@ -9,21 +9,47 @@ import re
 from collections import Counter
 from pathlib import Path
 
-from classifica_catalogo import classify, assess
+from classifica_catalogo import classify_record, assess
 
 DEFAULT = Path('data/catalogo.json')
 ALLOWED_TYPES = {'Primo', 'Secondo', 'Piatto unico'}
 # Require all components of a meal and unambiguous equipment; do not certify diets.
-OVEN = re.compile(r'\b(forno|infornat|cuocete in forno|forno ventilato|forno statico)\b', re.I)
-STOVE = re.compile(r'\b(padella|pentola|tegame|casseruola|bollit|lessat|rosolat|saltat|soffrigg|fuoco|fornello)\b', re.I)
-MICROWAVE = re.compile(r'\b(microonde)\b', re.I)
-AIRFRY = re.compile(r'\b(friggitrice ad aria)\b', re.I)
+# Attrezzatura dal procedimento. Le radici («infornat», «rosolat») devono poter
+# proseguire («infornate», «rosolatelo»): la v1 usava \b anche dopo la radice e
+# riconosceva solo le parole esatte, lasciando 41 ricette senza attrezzatura.
+OVEN = re.compile(r'\b(?:forno|fornetto|inforn\w*|sforn\w*|gratin\w*)', re.I)
+# Solo parole inequivocabili: «cottura», «cuocete», «tostate», «vapore», «griglia»
+# compaiono anche nelle ricette al forno e non bastano per richiedere i fornelli.
+STOVE = re.compile(r'\b(?:padell\w*|pentol\w*|tegam\w*|casseruol\w*|wok|bollit\w*|bollor\w*|bollent\w*|'
+                   r'sbollent\w*|lessat\w*|lessa(?:te|re)\w*|rosolat\w*|rosola(?:te|re)\w*|'
+                   r'soffrigg\w*|soffritt\w*|fuoco|fiamma|fornell\w*|piastra|bagnomaria|sobbollire|'
+                   r'friggete|friggere|frittura)', re.I)
+OVEN_ONLY = re.compile(r'\b(?:cuocete|cuocere|cottura)\b[^.]{0,40}\bforno', re.I)
+MICROWAVE = re.compile(r'\b(?:microonde)\b', re.I)
+AIRFRY = re.compile(r'\b(?:friggitrice ad aria)\b', re.I)
+NO_COOK = 'Nessuna cottura'
 # Words in ingredient names that are insufficiently resolved for allergy/diet claims
 UNCERTAIN_COMPOSITES = re.compile(r'\b(preparato|mix|salsa pronta|condimento pronto)\b', re.I)
 
 
+def detect_tools(procedure, rec=None):
+    """Forno / Fornelli / Microonde / Friggitrice ad aria; «Nessuna cottura» se la
+    fonte dichiara cottura assente (cookTime 0) e il testo non cita alcuna cottura."""
+    tools = []
+    airfry = AIRFRY.search(procedure)
+    if OVEN.search(procedure): tools.append('Forno')
+    # «cuocete in forno» non implica i fornelli; la friggitrice ad aria nemmeno.
+    stove_text = AIRFRY.sub(' ', OVEN_ONLY.sub(' ', procedure))
+    if STOVE.search(stove_text): tools.append('Fornelli')
+    if MICROWAVE.search(procedure): tools.append('Microonde')
+    if airfry: tools.append('Friggitrice ad aria')
+    if not tools and rec is not None and rec.get('source_cook_minutes') == 0:
+        tools.append(NO_COOK)
+    return tools
+
+
 def validate(rec):
-    typ, kind, _ = classify(rec.get('name', ''))
+    typ, kind, _ = classify_record(rec)
     qa = assess(rec)
     reasons = []
     if kind != 'candidato' or typ not in ALLOWED_TYPES: reasons.append('non_candidato')
@@ -34,9 +60,7 @@ def validate(rec):
     if not rec.get('image_url', '').startswith('https://'): reasons.append('immagine_mancante')
     steps = rec.get('steps') or []
     procedure = ' '.join(s for s in steps if isinstance(s,str))
-    tools = []
-    for pattern, name in ((OVEN,'Forno'),(STOVE,'Fornelli'),(MICROWAVE,'Microonde'),(AIRFRY,'Friggitrice ad aria')):
-        if pattern.search(procedure): tools.append(name)
+    tools = detect_tools(procedure, rec)
     if not tools: reasons.append('attrezzatura_non_determinabile')
     # All of the above only qualifies for a general/unrestricted meal; no allergy or dietary certification.
     if any(UNCERTAIN_COMPOSITES.search(str(x[0])) for x in rec.get('ingredients',[]) if isinstance(x,list) and x):

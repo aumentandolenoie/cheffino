@@ -147,7 +147,8 @@ function filteredRecipes(options={}){
   // Le schede approvate automaticamente non certificano allergeni o diete.
   // In presenza di esigenze alimentari specifiche non mostrarle come sicure.
   if(r.autoValidated){
-   if(!r.requiredTools.length || r.requiredTools.some(t=>!state.kitchen.includes(t)))return false;
+   // «Nessuna cottura» (crudi, insalate): nessuna attrezzatura richiesta.
+   if(!r.requiredTools.length || r.requiredTools.some(t=>t!=='Nessuna cottura'&&!state.kitchen.includes(t)))return false;
   }
   // Esigenze alimentari: compatibilità calcolata dal server sugli ingredienti della fonte
   // (app/diete.py). Entrano solo le ricette con esito «si»; le dubbie restano escluse.
@@ -165,7 +166,7 @@ function filteredRecipes(options={}){
   if(!options.relaxStyles&&state.styles.length&&!state.styles.includes(r.style))return false;
   if(state.types.length){const allowed=[];if(state.types.includes('Primo'))allowed.push('Primo');if(state.types.includes('Secondo'))allowed.push('Secondo');if(state.types.includes('Piatto Unico'))allowed.push('Piatto unico');if(state.types.includes('Primo e Secondo'))allowed.push('Primo','Secondo');if(!allowed.includes(r.type))return false;}
   if((r.name.toLowerCase().includes('forno')||r.name.toLowerCase().includes('al forno'))&&!state.kitchen.includes('Forno'))return false;
-  if(!state.kitchen.length)return false;
+  if(!state.kitchen.length&&!(r.requiredTools?.length&&r.requiredTools.every(t=>t==='Nessuna cottura')))return false;
   return true;
  });
 }
@@ -289,6 +290,12 @@ function replaceRecipe(day,meal){
 
 function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;generateWeeklyPlan();render()}
 // Esigenze alimentari compatibili, dagli ingredienti della fonte (calcolo del server).
+// Unità che la fonte non indica e che sono state dedotte (sempre dichiarato).
+function deducedNote(d){
+ if(!d||!d.deduced||!d.deduced.length)return '';
+ const unit=u=>u==='pezzi'?'':' '+u;
+ return `<div class="notice">ℹ️ Unità non indicate dalla fonte, interpretate: ${d.deduced.map(x=>`«${safe(x.testo_fonte)}» → ${safe(String(x.interpretato?.[1]).replace('.',','))}${safe(unit(x.interpretato?.[2]))}`).join(' · ')}</div>`;
+}
 function dietBadges(d){
  if(!d||!d.diets)return '';
  const ok=['Vegetariano','Vegano','Senza Glutine','Senza Lattosio'].filter(x=>d.diets[x]==='si');
@@ -310,6 +317,7 @@ function showRecipe(id,fromSearch=false){const r=getRecipe(id);if(!r)return;cons
  <div class="detailmetrics">${metric('Persone',people)}${metric('Tempo',d?.minutes?d.minutes+' min':'n.d.')}${metric('Calorie',d?.kcal?d.kcal+' kcal/porz.':'n.d.')}${metric('Costo',d?.cost||'n.d.')}</div>
  <div class="detailmacros">${mac('protein','Proteine','protein')}${mac('carbs','Carboidrati','carbs')}${mac('fats','Grassi','fats')}</div>
  ${dietBadges(d)}
+ ${deducedNote(d)}
  <h3>Ingredienti per ${people} ${people===1?'persona':'persone'}</h3>${ingredientRows(r)}
  <h3>Preparazione passo per passo</h3>${steps}
  ${d?`<a class="sourcebtn" href="${d.url}" target="_blank" rel="noopener noreferrer">Fonte: ${safe(d.source)} ↗</a>`:'<div class="notice">Scheda non verificata: le informazioni dettagliate verranno mostrate solo dopo l’acquisizione da una fonte affidabile.</div>'}
@@ -419,7 +427,7 @@ async function caricaCatalogoServer(){
     cost:entry.cost??null,protein:entry.protein??null,carbs:entry.carbs??null,fats:entry.fats??null,
     image:entry.image_url||null,ingredients,steps,stepImages:entry.step_images_display||entry.step_images||[],
     photoAbsent:entry.step_photo_source_evidence?.status==='verified_absent',
-    diets:entry.diete?.compatibilita||{},dietReasons:entry.diete?.motivi||{}};
+    diets:entry.diete?.compatibilita||{},dietReasons:entry.diete?.motivi||{},deduced:entry.quantita_dedotte||[]};
    if(!review)recipeData.push(item);
   }
   // Elimina solo i riferimenti a vecchie demo ormai inesistenti.

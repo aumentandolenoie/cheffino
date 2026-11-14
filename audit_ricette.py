@@ -22,7 +22,7 @@ from urllib.parse import urlparse
 
 from app.ingredienti import clean_text, is_resolved
 from app.photo_policy import safe_photo
-from classifica_catalogo import classify
+from classifica_catalogo import classify_record
 from controlla_integrita_catalogo import image_id
 from pulisci_procedimenti import find_photo_refs
 
@@ -112,12 +112,15 @@ def check_record(rec, published=False):
         if empty:
             warnings.append(f'galleria_parziale({empty}/{len(groups)})')
 
+    if rec.get('quantita_dedotte'):
+        warnings.append(f'unita_dedotte({len(rec["quantita_dedotte"])})')
     kcal = rec.get('kcal')
     if kcal is None:
         warnings.append('kcal_assenti')
     elif not 30 <= kcal <= 2500:
         warnings.append(f'kcal_anomale({kcal})')
-    for field in ('protein', 'carbs', 'fats'):
+    # GialloZafferano non pubblica le proteine: nessun avviso per un dato che la fonte non ha.
+    for field in ('carbs', 'fats'):
         if rec.get(field) is None:
             warnings.append(f'{field}_assenti')
     if all(isinstance(rec.get(f), (int, float)) for f in ('protein', 'carbs', 'fats')) and kcal:
@@ -126,7 +129,7 @@ def check_record(rec, published=False):
             warnings.append('macro_incoerenti_con_kcal')
 
     if published:
-        typ, status, _ = classify(name or '')
+        typ, status, _ = classify_record(rec)
         if status == 'escluso' or rec.get('type') not in PLAN_TYPES:
             errors.append(f'tipo_non_adatto_al_piano({rec.get("type")}/{typ})')
     return errors, warnings

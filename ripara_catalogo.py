@@ -14,7 +14,7 @@ from urllib.robotparser import RobotFileParser
 from urllib.request import Request, urlopen
 
 from app.catalog import fetch_recipe
-from classifica_catalogo import classify, assess
+from classifica_catalogo import classify, classify_record, assess
 
 CATALOG = Path('data/catalogo.json')
 UA = 'CheffinoPersonalProject/0.1 (weekly recipe discovery; respects robots.txt)'
@@ -151,7 +151,7 @@ def main():
     for idx, rec in enumerate(catalog):
         if not rec.get('needs_review') or rec.get('source') != 'GialloZafferano' or not retry_due(rec, opts.retry_days):
             continue
-        typ, status, _ = classify(rec.get('name', ''))
+        typ, status, _ = classify_record(rec)
         if status == 'escluso':
             skipped_excluded += 1
             continue

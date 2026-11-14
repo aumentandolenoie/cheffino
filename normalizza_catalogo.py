@@ -22,7 +22,7 @@ import json
 from collections import Counter
 from pathlib import Path
 
-from app.ingredienti import clean_text, format_ingredient, is_resolved, parse_ingredient
+from app.ingredienti import clean_text, deduce_quantity, format_ingredient, is_resolved, parse_ingredient
 from pulisci_procedimenti import clean_steps
 
 CATALOG = Path('data/catalogo.json')
@@ -63,6 +63,19 @@ def normalize_record(rec, stats=None):
                     item = parsed
                     stats['quantita_interpretate'] += 1
             fixed.append(item)
+        # Unità omesse dalla fonte: deduzioni prudenti, sempre documentate.
+        deduced = list(rec.get('quantita_dedotte') or [])
+        if isinstance(display, list) and len(display) == len(fixed):
+            for i, item in enumerate(fixed):
+                if is_resolved(item):
+                    continue
+                guess = deduce_quantity(display[i], fixed)
+                if guess:
+                    fixed[i] = guess[0]
+                    deduced.append({'testo_fonte': display[i], 'interpretato': guess[0], 'regola': guess[1]})
+                    stats['unita_dedotte'] += 1
+        if deduced != list(rec.get('quantita_dedotte') or []):
+            out['quantita_dedotte'] = deduced
         if fixed != ingredients:
             out['ingredients'] = fixed
             changes.append('ingredienti')

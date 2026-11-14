@@ -56,14 +56,21 @@ UNITS = {
     'stecca': ('stecche', 1), 'stecche': ('stecche', 1),
     'baccello': ('baccelli', 1), 'baccelli': ('baccelli', 1),
     'noce': ('noci', 1),
+    'filo': ('fili', 1), 'fili': ('fili', 1), 'mestolo': ('mestoli', 1), 'mestoli': ('mestoli', 1),
+    'tazzina': ('tazzine', 1), 'tazzine': ('tazzine', 1), 'manciata': ('manciate', 1), 'manciate': ('manciate', 1),
 }
 _UNIT_RE = '|'.join(sorted((re.escape(u) for u in UNITS), key=len, reverse=True))
-WITH_UNIT = re.compile(rf'^(?P<name>.+?)\s+(?P<qty>{_NUMBER})\s*(?P<unit>{_UNIT_RE})\.?(?:\s*\((?P<note>[^)]*)\))?$', re.I)
+WITH_UNIT = re.compile(rf'^(?P<name>.+?)\s+(?P<qty>{_NUMBER})\s*(?P<unit>{_UNIT_RE})\.?'
+                       rf'(?:\s+da\s+(?:caff[eè]|t[eè]|tavola|cucina))?(?:\s*\((?P<note>[^)]*)\))?$', re.I)
+# «Acciughe sott'olio filetti 2»: unità prima del numero.
+UNIT_FIRST = re.compile(rf'^(?P<name>.+?)\s+(?P<unit>{_UNIT_RE})\s+(?P<qty>{_NUMBER})$', re.I)
+# «Lattuga qualche foglia», «Timo rametto qualche»: quantità non indicata, come q.b.
+SOME = re.compile(rf'^(?P<name>.+?)\s+(?:qualche(?:\s+\w+)?|(?:{_UNIT_RE})\s+qualche|un\s+po[\'’]?)$', re.I)
 COUNT_ONLY = re.compile(rf'^(?P<name>.+?)\s+(?P<qty>{_NUMBER})$')
 QB = re.compile(r'^(?P<name>.+?)\s*(?:q\.?\s*b\.?|quanto basta|a piacere|qb)$', re.I)
 # Derivati: un numero senza unità non è un numero di pezzi.
 DERIVED = re.compile(r'\b(?:succo|scorza|polpa|estratto|concentrato|passata|purea|purè|'
-                     r'salsa|spremuta|brodo|acqua|latte|olio|vino|aceto|farina|zucchero|sale)\b', re.I)
+                     r'salsa|spremuta|brodo|acqua|latte|(?<!sott[\'’])olio|vino|aceto|farina|zucchero|sale)\b', re.I)
 MAX_COUNT = 20
 DA_VERIFICARE = 'da verificare'
 
@@ -113,6 +120,15 @@ def parse_ingredient(text):
     m = QB.match(s)
     if m and m.group('name').strip():
         return [m.group('name').strip(' ,;:'), None, 'q.b.']
+    m = SOME.match(s)
+    if m and m.group('name').strip():
+        return [m.group('name').strip(' ,;:'), None, 'q.b.']
+    m = UNIT_FIRST.match(s)
+    if m and not WITH_UNIT.match(s):
+        qty = parse_quantity(m.group('qty'))
+        unit, factor = UNITS[m.group('unit').lower()]
+        if qty is not None and m.group('name').strip():
+            return [m.group('name').strip(' ,;:'), _number(qty * factor), unit]
     m = WITH_UNIT.match(s)
     if m:
         name = m.group('name').strip(' ,;:')
@@ -152,3 +168,35 @@ def format_ingredient(ingredient):
     qty_text = str(qty).replace('.', ',')
     unit_text = '' if unit == 'pezzi' else f' {unit}'
     return f'{name} {qty_text}{unit_text}'
+
+
+# --- Unità mancanti nella fonte ------------------------------------------------
+# GialloZafferano a volte omette l'unità sia nel JSON-LD sia nella pagina
+# («Lenticchie secche 250», «Capperi sotto sale 30», «Scorza di limone ½»).
+# Due sole deduzioni, sempre registrate in ``quantita_dedotte`` e visibili:
+#   1. scorza/succo/buccia con numero <= 3: il numero indica gli agrumi -> pezzi;
+#   2. numero senza unità, per un ingrediente che non si conta a pezzi:
+#      >= 50 -> grammi (un conteggio sarebbe implausibile); 25-49 -> grammi solo
+#      se la ricetta pesa in grammi almeno altri due ingredienti.
+DERIVED_PIECE = re.compile(r'\b(?:scorza|succo|buccia|scorzetta)\b', re.I)
+NOT_WEIGHED = re.compile(r'\b(?:cubett|fett|fogli|pezz|spicch|bacch|chicch|filett|ciuff|rametti|uova|uovo|tuorl|album|'
+                         r'acciug|alic|oliv|gamber|mazzancoll|scamp|cozz|vongol|pomodorin|datterin|ciliegin|'
+                         r'noci\b|mandorl|nocciol|pistacch|biscott|savoiard|amarett)', re.I)
+
+
+def deduce_quantity(text, siblings):
+    """Restituisce ([nome, quantità, unità], regola) se la deduzione è sicura, altrimenti None."""
+    s = clean_text(text)
+    m = COUNT_ONLY.match(s)
+    if not m:
+        return None
+    name = m.group('name').strip(' ,;:')
+    qty = parse_quantity(m.group('qty'))
+    if not name or qty is None or re.search(r'[\d(]$', name):
+        return None
+    if DERIVED_PIECE.search(name) and qty <= 3:
+        return [name, _number(qty), 'pezzi'], 'agrumi_contati'
+    weighed = sum(1 for x in siblings if is_resolved(x) and x[2] in ('g', 'kg'))
+    if not NOT_WEIGHED.search(name) and (qty >= 50 or (qty >= 25 and weighed >= 2)):
+        return [name, _number(qty), 'g'], ('grammi_dose_non_contabile' if qty >= 50 else 'grammi_come_le_altre_dosi')
+    return None

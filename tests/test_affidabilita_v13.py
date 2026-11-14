@@ -36,7 +36,7 @@ def test_parser_ingredienti(text, expected):
     'Succo di limone ½',            # derivato: non è «mezzo pezzo»
     'Lenticchie secche 250',        # numero grande senza unità: probabilmente grammi
     'Zucchero 75',                  # ingrediente che si pesa, unità assente
-    'Lattuga qualche foglia',
+    'Capperi sotto sale 10',        # 10 capperi o 10 g? resta da verificare
 ])
 def test_parser_non_inventa_quantita(text):
     assert not is_resolved(parse_ingredient(text))

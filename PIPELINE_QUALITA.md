@@ -131,3 +131,21 @@ pronto, salumi, cioccolato, pasta sfoglia...). L'API li espone nel campo
 `diete`; il piano include solo le ricette `si` per tutte le esigenze scelte.
 Scelte prudenti: Parmigiano e Grana contano come latticini; l'avena come
 glutine; i formaggi stagionati sono considerati vegetariani.
+
+## Completamento delle ricette in revisione (v14)
+
+- `sincronizza_fonte.py` rilegge la pagina originale e aggiorna insieme titolo
+  (schede storiche), ingredienti, porzioni, tempo, valori nutrizionali,
+  **categoria della fonte** (`source_category`, es. «Primi piatti»), costo
+  indicativo e cottura assente. Gira ogni giorno nel workflow 02 a lotti.
+- `classify_record` usa la categoria della fonte prima del titolo; le
+  «Insalate» sono piatto unico solo se la fonte indica almeno 300 kcal a porzione.
+  Una ricetta pubblicata che la fonte classifica come contorno/antipasto/dolce
+  viene ritirata automaticamente e il motivo compare nel log del workflow 03.
+- Unità omesse dalla fonte («Lenticchie secche 250», «Scorza di limone ½»):
+  deduzioni prudenti registrate in `quantita_dedotte` e mostrate nella scheda.
+  «qualche foglia» equivale a q.b.
+- Attrezzatura: radici verbali riconosciute («infornate», «rosolatelo»), solo
+  parole inequivocabili per i fornelli; «Nessuna cottura» se la fonte dichiara
+  cottura 0 e il testo non cita cotture.
+- Le proteine mancano perché GialloZafferano non le pubblica (verificato sul JSON-LD).

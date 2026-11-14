@@ -129,3 +129,30 @@ def test_frontend_ricette_senza_cottura():
         html = open(path, encoding='utf-8').read()
         assert "t!=='Nessuna cottura'&&!state.kitchen.includes(t)" in html
         assert 'function deducedNote' in html
+
+
+def test_formato_blog_e_condimenti_senza_dose():
+    assert parse_ingredient('360 g Pasta') == ['Pasta', 360, 'g']
+    assert parse_ingredient('1 spicchio aglio') == ['aglio', 1, 'spicchio']
+    assert parse_ingredient("olio extravergine d'oliva") == ["olio extravergine d'oliva", None, 'q.b.']
+    assert parse_ingredient('Farina 00 200 g') == ['Farina 00', 200, 'g']
+
+
+def test_antipasti_sostanziosi_e_leggeri():
+    assert classify_record({'name': 'Polpo su crema di piselli', 'source_category': 'Antipasti', 'kcal': 519})[1] == 'candidato'
+    assert classify_record({'name': 'Cestini di patate ripieni di salmone', 'source_category': 'Antipasti', 'kcal': 307})[1] == 'escluso'
+    assert classify_record({'name': 'Pasta al forno', 'source_category': 'Pasta,Primi Piatti'})[:2] == ('Primo', 'candidato')
+
+
+def test_riferimento_foto_prima_di_una_parentesi_e_composti():
+    from pulisci_procedimenti import clean_steps
+    steps = ['Fate bollire il farro 1 (circa 20 minuti), salate 2 . Scolate 3 .']
+    assert clean_steps(steps)[0] == ['Fate bollire il farro (circa 20 minuti), salate. Scolate.']
+    assert clean_steps(['Tagliate a pezzi (2 cm) e cuocete.'])[1] == 0
+    base = {'name': 'Bavette con polpo', 'source_category': 'Primi piatti', 'url': URL, 'image_url': 'https://x/y.jpg',
+            'servings': 4, 'time': 30, 'steps': ['Cuocete in padella.']}
+    ok = dict(base, ingredients=[['Bavette', 320, 'g'], ['Fumetto di crostacei (preparato con gli scarti)', 1, 'l'],
+                                 ['Pepe mix in grani', None, 'q.b.']])
+    assert validate(ok)['approved']
+    ko = dict(base, ingredients=[['Bavette', 320, 'g'], ['Mix di farine senza glutine', 100, 'g']])
+    assert 'ingredienti_composti_non_identificati' in validate(ko)['reasons']

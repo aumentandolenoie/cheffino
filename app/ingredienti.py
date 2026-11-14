@@ -64,6 +64,10 @@ WITH_UNIT = re.compile(rf'^(?P<name>.+?)\s+(?P<qty>{_NUMBER})\s*(?P<unit>{_UNIT_
                        rf'(?:\s+da\s+(?:caff[eè]|t[eè]|tavola|cucina))?(?:\s*\((?P<note>[^)]*)\))?$', re.I)
 # «Acciughe sott'olio filetti 2»: unità prima del numero.
 UNIT_FIRST = re.compile(rf'^(?P<name>.+?)\s+(?P<unit>{_UNIT_RE})\s+(?P<qty>{_NUMBER})$', re.I)
+QTY_FIRST = re.compile(rf'^(?P<qty>{_NUMBER})\s*(?P<unit>{_UNIT_RE})?\.?\s+(?P<name>[^\W\d_].*)$', re.I)
+# Condimenti elencati senza dose (blog): equivalgono a «q.b.».
+BARE_SEASONING = re.compile(r"^(?:olio(?: extra ?vergine)?(?: d['’]oliva| di oliva| evo)?|sale(?: fino| grosso)?|pepe(?: nero)?|"
+                            r"peperoncino|origano|basilico|prezzemolo|erba cipollina|timo|rosmarino|salvia)$", re.I)
 # «Lattuga qualche foglia», «Timo rametto qualche»: quantità non indicata, come q.b.
 SOME = re.compile(rf'^(?P<name>.+?)\s+(?:qualche(?:\s+\w+)?|(?:{_UNIT_RE})\s+qualche|un\s+po[\'’]?)$', re.I)
 COUNT_ONLY = re.compile(rf'^(?P<name>.+?)\s+(?P<qty>{_NUMBER})$')
@@ -120,6 +124,18 @@ def parse_ingredient(text):
     m = QB.match(s)
     if m and m.group('name').strip():
         return [m.group('name').strip(' ,;:'), None, 'q.b.']
+    # Formato dei blog: «360 g Pasta», «1 spicchio aglio».
+    m = QTY_FIRST.match(s)
+    if m and m.group('name').strip():
+        qty = parse_quantity(m.group('qty'))
+        if qty is not None:
+            if m.group('unit'):
+                unit, factor = UNITS[m.group('unit').lower()]
+                return [m.group('name').strip(' ,;:'), _number(qty * factor), unit]
+            if qty < MAX_COUNT and not DERIVED.search(m.group('name')):
+                return [m.group('name').strip(' ,;:'), _number(qty), 'pezzi']
+    if BARE_SEASONING.match(s):
+        return [s, None, 'q.b.']
     m = SOME.match(s)
     if m and m.group('name').strip():
         return [m.group('name').strip(' ,;:'), None, 'q.b.']

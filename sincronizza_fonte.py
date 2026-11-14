@@ -92,6 +92,8 @@ def apply_source(rec, raw, published=False):
             put(field, numeric_nutrition(nut[key]))
 
     name = clean_text(raw.get('name'))
+    if name and name.isupper():
+        name = name.capitalize()  # «PASTA POMODORO BASILICO» -> «Pasta pomodoro basilico»
     if name and name != out.get('name') and rec.get('id', 10 ** 9) < LEGACY_MAX_ID:
         # Le schede storiche usavano titoli abbreviati; le altre hanno già il titolo della fonte.
         put('name', name)

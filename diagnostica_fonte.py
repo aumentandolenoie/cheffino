@@ -15,8 +15,8 @@ for url in sys.argv[1:]:
             for k in ('recipeCategory', 'recipeCuisine', 'keywords', 'recipeYield', 'prepTime', 'cookTime',
                       'totalTime', 'nutrition', 'recipeIngredient'):
                 print(k, '=', json.dumps(node.get(k), ensure_ascii=False)[:600])
-    for m in list(re.finditer(r'gz-ingredient', html))[:4]:
-        print('HTML-ING:', re.sub(r'\s+', ' ', html[m.start()-80:m.start()+420]))
-    for kw in ('gz-name-featured-data', 'gz-list-featured-data', 'Preparazione:', 'Cottura:', 'Dosi per', 'gz-breadcrumb', 'Costo'):
-        m = re.search(re.escape(kw), html)
-        if m: print('HTML', kw, ':', re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', html[m.start()-50:m.start()+500]))[:400])
+    for m in list(re.finditer(r'<dd class="gz-ingredient', html))[:30]:
+        end = html.find('</dd>', m.start())
+        print('HTML-ING:', re.sub(r'\s+', ' ', html[m.start():end+5])[:400])
+    m = re.search(r'class="gz-list-ingredients', html)
+    if m: print('LISTA:', re.sub(r'\s+', ' ', html[m.start()-300:m.start()+200]))

@@ -1,0 +1,22 @@
+name: "Diagnostica fonte (temporaneo)"
+on:
+  push:
+    branches: ['diagnostica/**']
+permissions:
+  contents: read
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: >
+          python diagnostica_fonte.py
+          https://ricette.giallozafferano.it/Crema-di-lenticchie.html
+          https://ricette.giallozafferano.it/Risotto-alla-puttanesca-con-pomodori-arrosto.html
+          https://ricette.giallozafferano.it/Torta-ricotta-e-fragole.html
+          https://ricette.giallozafferano.it/Pollo-al-limone.html
+          https://ricette.giallozafferano.it/Insalata-di-ceci-estiva.html
+          https://ricette.giallozafferano.it/Pizzoccheri-alla-valtellinese.html

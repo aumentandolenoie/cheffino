@@ -66,3 +66,11 @@ def test_frontend_foto_passaggi_grandi_e_strip_divise():
         assert 'function stepShots' in html and 'function openPhoto' in html
         assert 'grid-template-columns:repeat(3' not in html.split('.step-photos')[1][:400]
         assert "segnaposto_senza_alternativa" in html
+
+
+def test_pagina_sotto_bloccata_con_ricetta_o_foto_aperta():
+    for path in ('frontend/index.html', 'index.html'):
+        html = open(path, encoding='utf-8').read()
+        assert 'function syncScrollLock' in html and 'new MutationObserver(syncScrollLock)' in html
+        assert "position:'fixed'" in html and 'overscroll-behavior:contain' in html
+        assert "classList.add('open');syncScrollLock()" in html

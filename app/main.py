@@ -1,7 +1,10 @@
+import json
+from datetime import date
 from pathlib import Path
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
 from .public_catalog import public_catalog
+from .volantini import CATENE, link_da_aprire
 
 ROOT=Path(__file__).resolve().parent.parent
 app=FastAPI(title="Pepito — catalogo ricette",version="0.3.0")
@@ -34,3 +37,21 @@ def health():
 def recipes():
     rows=public_catalog()
     return {"count":len(rows),"recipes":rows}
+
+
+@app.get("/api/volantini")
+def volantini():
+    """Volantini in corso (data/volantini.json, aggiornato ogni giorno dal workflow 06)."""
+    path = ROOT / "data" / "volantini.json"
+    try:
+        dati = json.loads(path.read_text())
+    except (OSError, ValueError):
+        dati = {"aggiornato_il": None, "catene": {}}
+    oggi = date.today()
+    catene = dati.setdefault("catene", {})
+    for nome, info in CATENE.items():
+        voce = catene.setdefault(nome, {"pagina_ufficiale": info["pagina"], "sito": info["sito"],
+                                        "tipo": info["tipo"], "volantino": None, "prossimo": None,
+                                        "metodo": "pagina_ufficiale"})
+        voce["da_aprire_oggi"] = link_da_aprire(nome, dati, oggi)
+    return dati

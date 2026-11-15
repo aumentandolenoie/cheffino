@@ -19,6 +19,24 @@ Verifica su `https://TUO-SITO.onrender.com/api/health` e poi `/api/recipes`.
 Solo dopo controllo umano e classificazione (porzioni, allergeni,
 strumenti, tipo di pasto) rimuovere quel flag e fare commit del file.
 
+## Volantini
+
+Premendo «Volantino» l'app apre subito l'ultimo volantino ufficiale del
+supermercato scelto (con più supermercati compare prima la scelta).
+`aggiorna_volantini.py` (workflow 06, due volte al giorno) legge solo le pagine
+ufficiali dei marchi elencate in `app/volantini.py` e scrive
+`data/volantini.json`, esposto da `/api/volantini`:
+
+- catene con volantino nazionale (Aldi, Bennet, Dodecà, Eurospin, Lidl, MD):
+  link diretto al volantino in corso con le date di validità, più il prossimo
+  se è già pubblicato; quando inizia, l'app apre quello nuovo anche prima del
+  controllo successivo. Lidl chiede di scegliere il punto vendita sul suo sito;
+- catene con offerte per zona o negozio (Conad, Coop, Esselunga, Carrefour,
+  Despar, Famila, PAM, Tigros, Penny, Il Gigante, Alì, Decò, Sole365): si apre la
+  pagina ufficiale dei volantini, dove si sceglie il proprio punto vendita;
+- volantino scaduto o pagina non leggibile: si apre la pagina ufficiale dei
+  volantini, che mostra sempre l'ultimo pubblicato. Nessun aggregatore.
+
 ## Limiti
 
 - Il catalogo iniziale contiene le schede già presenti nella versione HTML,

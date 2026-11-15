@@ -54,12 +54,12 @@ def _decode(body, headers):
 
 
 def fetch_text(url, accept='text/html', max_bytes=MAX_HTML, timeout=25, attempts=3,
-               backoff=4.0, opener=urlopen, sleep=time.sleep, same_host=True):
+               backoff=4.0, opener=urlopen, sleep=time.sleep, same_host=True, user_agent=UA):
     """Scarica una pagina testuale con nuovi tentativi sugli errori temporanei."""
     last = None
     for attempt in range(1, attempts + 1):
         try:
-            req = Request(url, headers={'User-Agent': UA, 'Accept': accept,
+            req = Request(url, headers={'User-Agent': user_agent, 'Accept': accept,
                                         'Accept-Language': 'it-IT,it;q=0.9'})
             with opener(req, timeout=timeout) as response:
                 final = response.geturl()

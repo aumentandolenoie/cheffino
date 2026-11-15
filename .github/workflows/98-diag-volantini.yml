@@ -1,0 +1,16 @@
+name: "Diagnostica volantini (temporaneo)"
+on:
+  push:
+    branches: ['volantini']
+    paths: ['diagnostica_volantini.py', '.github/workflows/98-diag-volantini.yml']
+permissions:
+  contents: read
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: python diagnostica_volantini.py

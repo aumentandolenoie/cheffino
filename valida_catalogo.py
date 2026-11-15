@@ -84,17 +84,31 @@ def process(path, dry_run=False):
         desired={'validazione_automatica':result,'needs_review':not result['approved']}
         if result['approved']:
             desired['type']=result['type'];names.append(r.get('name',''))
+        # Esclusa per scelta dell'app (dolci, bevande, contorni, antipasti leggeri...):
+        # non è «in revisione», perché nessun dato da completare la renderebbe adatta.
+        typ,kind,criterio=classify_record(r)
+        excluded=kind=='escluso'
+        if excluded:
+            desired['esclusa_dal_piano']={'tipo':typ,'motivo':criterio}
+        elif 'esclusa_dal_piano' in r:
+            del r['esclusa_dal_piano'];modified+=1
         for k,v in desired.items():
             if r.get(k)!=v:
                 r[k]=v;modified+=1
-        stats['approvate' if result['approved'] else 'in_revisione']+=1
-        for reason in result['reasons']: stats['manca_'+reason]+=1
+        stats['approvate' if result['approved'] else 'escluse_dal_piano' if excluded else 'in_revisione']+=1
+        if not excluded:
+            for reason in result['reasons']: stats['manca_'+reason]+=1
+        else:
+            stats['esclusa_'+typ]+=1
     if modified and not dry_run:
         path.write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    print(f'Validazione automatica: approvate={stats["approvate"]}; in revisione={stats["in_revisione"]}; preesistenti={stats["preesistenti"]}; campi modificati={modified}')
+    print(f'Validazione automatica: approvate={stats["approvate"]}; in revisione={stats["in_revisione"]}; '
+          f'escluse dal piano per scelta={stats["escluse_dal_piano"]}; preesistenti={stats["preesistenti"]}; campi modificati={modified}')
+    excluded_types=', '.join(f'{k[8:]}={v}' for k,v in sorted(stats.items()) if k.startswith('esclusa_'))
+    if excluded_types: print('  escluse per tipo (non contano come revisione): '+excluded_types)
     if names: print('Attivate per piano senza restrizioni: '+'; '.join(names[:20]))
     for name,count in sorted(stats.items()):
-        if name.startswith('manca_'): print(f'  {name}: {count}')
+        if name.startswith('manca_'): print(f'  in revisione, {name}: {count}')
     print('ATTENZIONE: nessuna scheda automatica è certificata per diete, allergie o intolleranze.')
     return stats
 

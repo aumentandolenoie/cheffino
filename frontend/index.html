@@ -172,7 +172,21 @@ function filteredRecipes(options={}){
 }
 // Gli stili sono preferenze per il piano, non un catalogo chiuso.
 function planRecipes(){return filteredRecipes({relaxStyles:true}).filter(r=>!!recipeDetailData(r))}
-function tinderRecipes(){return filteredRecipes({relaxStyles:true}).filter(r=>!!recipeDetailData(r))}
+// Ordine casuale riproducibile: lo stesso seme dà lo stesso ordine, così i render
+// ripetuti non rimescolano le carte; un seme nuovo a ogni onboarding e a ogni «rigenera».
+function newSeed(){try{return crypto.getRandomValues(new Uint32Array(1))[0]}catch(e){return Math.floor(Math.random()*4294967296)}}
+function seededRandom(seed,id){let h=(Number(seed)^0x9e3779b9)>>>0;const t=String(id);for(let i=0;i<t.length;i++)h=Math.imul(h^t.charCodeAt(i),2654435761)>>>0;h^=h>>>16;h=Math.imul(h,2246822507)>>>0;h^=h>>>13;h=Math.imul(h,3266489909)>>>0;h^=h>>>16;return ((h>>>0)+0.5)/4294967297}
+// Proposte iniziali: ricette casuali dall'intero catalogo compatibile con le scelte,
+// alternando i tipi di piatto (primo, secondo, piatto unico) per conoscere meglio i gusti.
+function tinderRecipes(){
+ if(state.swipeSeed==null)state.swipeSeed=newSeed();
+ const seed=state.swipeSeed;
+ const pool=filteredRecipes({relaxStyles:true}).filter(r=>!!recipeDetailData(r)).sort((a,b)=>seededRandom(seed,a.id)-seededRandom(seed,b.id));
+ const byType=new Map();pool.forEach(r=>{if(!byType.has(r.type))byType.set(r.type,[]);byType.get(r.type).push(r)});
+ const queues=[...byType.values()].sort((a,b)=>seededRandom(seed,a[0].type)-seededRandom(seed,b[0].type));
+ const out=[];while(out.length<pool.length)for(const q of queues)if(q.length)out.push(q.shift());
+ return out;
+}
 function getRecipe(id){return recipeData.find(r=>r.id===id)||catalogBrowse.find(r=>r.id===id)||null}
 function planHasDuplicates(){const ids=Object.values(state.plan||{});return new Set(ids).size!==ids.length}
 function render(){if(catalogLoading){document.getElementById('main').innerHTML='<section class="panel"><h2>Caricamento catalogo ricette…</h2><p>Sto leggendo le ricette con fonte dal server.</p></section>';return;}if(state.view==='home'&&(planHasDuplicates()||requestedSlots().some(k=>state.plan[k]===undefined&&state.planMissing===undefined))){generateWeeklyPlan()}persist();const main=document.getElementById('main');if(state.view==='home'){renderHome(main);return}if(state.view==='swipe'){renderSwipe(main);return}renderOnboard(main)}
@@ -207,12 +221,12 @@ function toggleAvoidIngredient(name){
  if(list)list.innerHTML=ingredientChips(ingredients.filter(x=>x.toLowerCase().includes(query.toLowerCase())));
 }
 function filterIngredients(q){const list=ingredients.filter(x=>x.toLowerCase().includes(q.toLowerCase()));document.getElementById('ingredientList').innerHTML=ingredientChips(list)}
-function prevStep(){if(state.step>0)state.step--;render()}function nextStep(){if(state.step<8){state.step++;render()}else{state.view='swipe';state.swipeIndex=0;state.likes=[];state.dislikes=[];render()}}
+function prevStep(){if(state.step>0)state.step--;render()}function nextStep(){if(state.step<8){state.step++;render()}else{state.view='swipe';state.swipeIndex=0;state.swipeSeed=newSeed();state.likes=[];state.dislikes=[];render()}}
 function renderSwipe(main){let pool=tinderRecipes();if(!pool.length){main.innerHTML=`<div class="panel empty"><h2>Nessuna ricetta compatibile</h2><p>Con le preferenze attuali non troviamo ricette che rispettino tutti i criteri. Torna indietro e modifica stili, esigenze alimentari, ingredienti esclusi o attrezzatura.</p><button class="btn primary" onclick="state.view='onboard';state.step=6;render()">Modifica preferenze</button></div>`;return}const r=pool[state.swipeIndex%pool.length];main.innerHTML=`<div class="eyebrow">Il tuo gusto, il tuo menu</div><h1 class="h1">Quali ricette ti ispirano?</h1><p class="sub">Valuta queste proposte: useremo i tuoi sì e i tuoi no per affinare il piano settimanale.</p><div class="panel swipearea"><div class="recipehero">${recipeDetailData(r)?.image?`<img class="recipephoto" src="${safe(recipeDetailData(r).image)}" alt="${safe(r.name)}" loading="lazy" onerror="this.style.display='none'">`:`<span class="recipeemoji">${r.emoji}</span>`}</div><div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-top:17px"><div><h2 style="margin:0;font-size:23px;letter-spacing:-.6px">${r.name}</h2><div class="recipemeta"><span>◷ ${r.time??'n.d.'} min</span><span>♨ ${recipeDetailData(r)?.kcal??'n.d.'} kcal</span></div></div><span class="daytag">${r.style}</span></div><div class="hint" style="margin-top:12px">${r.ings.join(' · ')}</div><div class="swipebuttons"><button class="roundbtn" aria-label="Non mi piace" onclick="rateRecipe(${r.id},false)">✕</button><button class="roundbtn like" aria-label="Mi piace" onclick="rateRecipe(${r.id},true)">♥</button></div><div class="counter">${Math.min(state.swipeIndex+1,pool.length)} di ${Math.min(10,pool.length)} · ${state.likes.length} preferite</div><div class="footer"><button class="btn" onclick="state.view='onboard';state.step=8;render()">← Indietro</button><button class="btn primary" onclick="finishSwipe()">${state.swipeIndex>=Math.min(10,pool.length)-1?'Crea il mio piano →':'Salta e continua →'}</button></div></div>`}
 function rateRecipe(id,yes){(yes?state.likes:state.dislikes).push(id);state.swipeIndex++;let pool=tinderRecipes();if(state.swipeIndex>=Math.min(10,pool.length)){finishSwipe()}else render()}
 function finishSwipe(){
  // Il Tinder conclude l'onboarding e registra i gusti: la generazione del piano è separata.
- state.planGeneration=0;
+ state.planGeneration=0;state.planSeed=newSeed();
  generateWeeklyPlan();
  state.view='home';state.tab=state.meals==='dinner'?'Cena':'Pranzo';render();
 }
@@ -235,17 +249,27 @@ function recipePreferenceScore(r){
 const secondarySources=['Il Cucchiaio d’Argento','Tavolartegusto','Cucina Botanica','Cookist'];
 function sourceRank(r){const source=(recipeDetailData(r)?.source||'').toLowerCase();return source.includes('giallozafferano')?0:secondarySources.some(x=>source.includes(x.toLowerCase()))?1:2}
 function requestedSlots(){const result=[];for(let d=0;d<7;d++)for(const meal of ['Pranzo','Cena'])if((meal==='Pranzo'&&state.meals!=='dinner'&&state.lunch.includes(d))||(meal==='Cena'&&state.meals!=='lunch'&&state.dinner.includes(d)))result.push(`${d}-${meal}`);return result}
+// Piano settimanale: estrazione casuale pesata su tutto il catalogo compatibile.
+// Le ricette che piacciono (cuoricino, preferiti, stili, ingredienti simili) hanno
+// più probabilità di uscire, ma non sono fisse; i «no» sono sempre esclusi.
 function rankedPool(excludeId=null){
+ if(state.planSeed==null)state.planSeed=newSeed();
+ const seed=state.planSeed;
  return planRecipes().filter(r=>!state.dislikes.includes(r.id)&&r.id!==excludeId)
-  .sort((a,b)=>sourceRank(a)-sourceRank(b)||recipePreferenceScore(b)-recipePreferenceScore(a)||a.id-b.id);
+  .map(r=>({r,k:Math.pow(seededRandom(seed,r.id),1/Math.exp(0.9*Math.max(0,recipePreferenceScore(r))))}))
+  .sort((a,b)=>b.k-a.k).map(x=>x.r);
 }
 function generateWeeklyPlan(){
  const candidates=rankedPool();const slots=requestedSlots();const plan={};
  // Gli ID sono unici nell'intera settimana, incluso pranzo/cena dello stesso giorno.
- const offset=candidates.length?(state.planGeneration||0)%candidates.length:0;
- const rotated=candidates.slice(offset).concat(candidates.slice(0,offset));
- const used=new Set();
- for(const slot of slots){const next=rotated.find(r=>!used.has(r.id));if(next){plan[slot]=next.id;used.add(next.id)}}
+ // Varietà: a ogni pasto si preferisce il tipo di piatto usato meno finora.
+ const used=new Set();const typeCount={};
+ for(const slot of slots){
+  const free=candidates.filter(r=>!used.has(r.id));if(!free.length)break;
+  const least=Math.min(...free.map(r=>typeCount[r.type]||0));
+  const next=free.find(r=>(typeCount[r.type]||0)===least)||free[0];
+  plan[slot]=next.id;used.add(next.id);typeCount[next.type]=(typeCount[next.type]||0)+1;
+ }
  state.plan=plan;state.planMissing=slots.length-used.size;state.replacementHistory={};
 }
 function planKeyUsed(plan,id){return Object.values(plan).includes(id)}
@@ -288,7 +312,7 @@ function replaceRecipe(day,meal){
  state.plan[key]=next.id;render();
 }
 
-function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;generateWeeklyPlan();render()}
+function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;state.planSeed=newSeed();generateWeeklyPlan();render()}
 // Esigenze alimentari compatibili, dagli ingredienti della fonte (calcolo del server).
 // Unità che la fonte non indica e che sono state dedotte (sempre dichiarato).
 function deducedNote(d){

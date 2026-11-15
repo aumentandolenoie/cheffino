@@ -124,7 +124,8 @@ def select(records, ids=None, force=False, limit=60):
         legacy = r.get('id', 10 ** 9) < LEGACY_MAX_ID
         in_review = r.get('needs_review') is not False
         return (0 if legacy else 1 if in_review and status != 'escluso' else 2 if not in_review else 3, r.get('id'))
-    todo = [r for r in records if r.get('source_sync_version') != SYNC_VERSION
+    # Le escluse dal piano per scelta non vengono più rilette (lavoro inutile per la fonte).
+    todo = [r for r in records if r.get('source_sync_version') != SYNC_VERSION and not r.get('esclusa_dal_piano')
             and str(r.get('url', '')).startswith(('https://ricette.giallozafferano.it/', 'https://blog.giallozafferano.it/'))]
     return sorted(todo, key=priority)[:limit]
 

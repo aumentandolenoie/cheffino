@@ -176,12 +176,18 @@ def audit(catalog=CATALOG, published=PUBLISHED, online=False, limit=30, delay=2.
             errors.append('id_duplicato')
         if urls[rec.get('url')] > 1:
             errors.append('url_duplicato')
-        for e in errors:
-            counts[('errore', re.sub(r'\(.*', '', e), is_pub)] += 1
-        for w in warnings:
-            counts[('avviso', re.sub(r'\(.*', '', w), is_pub)] += 1
+        excluded = bool(rec.get('esclusa_dal_piano')) and not is_pub
+        if excluded:
+            # Fuori dal piano per scelta dell'app: nessun errore da correggere.
+            counts[('esclusa', (rec['esclusa_dal_piano'] or {}).get('tipo', 'altro'), False)] += 1
+            errors, warnings = [], []
+        else:
+            for e in errors:
+                counts[('errore', re.sub(r'\(.*', '', e), is_pub)] += 1
+            for w in warnings:
+                counts[('avviso', re.sub(r'\(.*', '', w), is_pub)] += 1
         rows.append({'id': rec.get('id'), 'name': rec.get('name'), 'url': rec.get('url'),
-                     'pubblicata': is_pub, 'errori': errors, 'avvisi': warnings})
+                     'pubblicata': is_pub, 'esclusa_dal_piano': excluded, 'errori': errors, 'avvisi': warnings})
 
     if online:
         from app.catalog import fetch_recipe
@@ -190,6 +196,8 @@ def audit(catalog=CATALOG, published=PUBLISHED, online=False, limit=30, delay=2.
         checked = 0
         by_id = {r['id']: r for r in targets}
         for row in sorted(rows, key=lambda r: (not r['pubblicata'], r['id'])):
+            if row['esclusa_dal_piano']:
+                continue
             if checked >= limit:
                 break
             rec = by_id[row['id']]
@@ -207,8 +215,11 @@ def audit(catalog=CATALOG, published=PUBLISHED, online=False, limit=30, delay=2.
                 time.sleep(delay)
 
     pub_err = [r for r in rows if r['pubblicata'] and r['errori']]
+    in_review = [r for r in rows if not r['pubblicata'] and not r['esclusa_dal_piano']]
     print(f'Audit ricette: schede={len(rows)}; pubblicate={sum(r["pubblicata"] for r in rows)}; '
-          f'pubblicate_con_errori={len(pub_err)}; in_revisione_con_errori={sum(1 for r in rows if not r["pubblicata"] and r["errori"])}')
+          f'escluse_dal_piano_per_scelta={sum(r["esclusa_dal_piano"] for r in rows)}; '
+          f'in_revisione={len(in_review)}; pubblicate_con_errori={len(pub_err)}; '
+          f'in_revisione_con_errori={sum(1 for r in in_review if r["errori"])}')
     grouped = defaultdict(dict)
     for (level, code, is_pub), n in sorted(counts.items()):
         grouped[f'{level}:{code}']['pubblicate' if is_pub else 'in_revisione'] = n

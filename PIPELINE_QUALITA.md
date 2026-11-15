@@ -149,3 +149,15 @@ glutine; i formaggi stagionati sono considerati vegetariani.
   parole inequivocabili per i fornelli; «Nessuna cottura» se la fonte dichiara
   cottura 0 e il testo non cita cotture.
 - Le proteine mancano perché GialloZafferano non le pubblica (verificato sul JSON-LD).
+
+## Escluse per scelta e proposte casuali (v15)
+
+- Le ricette che l'app non usa per pranzo/cena (dolci, bevande, contorni,
+  antipasti leggeri, lievitati, salse) hanno `esclusa_dal_piano` con tipo e
+  motivo: non contano più come «in revisione» nei log e nell'audit e non
+  vengono più rilette dalla fonte. «In revisione» indica solo problemi tecnici.
+- Frontend: le proposte iniziali (Tinder) e il piano settimanale sono estratti
+  a caso dall'intero catalogo compatibile con le scelte dell'utente. Seme
+  casuale nuovo a ogni onboarding e a ogni «rigenera»; i «mi piace» aumentano
+  la probabilità di una ricetta ma non la rendono fissa; i «no» sono esclusi;
+  nel piano si alternano i tipi di piatto scelti.

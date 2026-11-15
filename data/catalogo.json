@@ -2718,7 +2718,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 30,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:06.947794+00:00"
+    "source_synced_at": "2026-11-14T22:20:06.947794+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 190381413323087,
@@ -2806,7 +2810,11 @@
       "spennellate la superficie con il tuorlo stemperato con poca acqua 10 , spolverizzate con lo zucchero di canna 11 e cuocete in forno preriscaldato a 180° per 25 minuti. Trascorso il tempo di cottura le vostre zucchette di sfoglia saranno ben dorate in superficie 12 : gustatele tiepide o anche a temperatura ambiente!"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:21.516482+00:00"
+    "source_synced_at": "2026-11-14T22:20:21.516482+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 183262695746594,
@@ -2953,7 +2961,11 @@
       "Per realizzare una decorazione originale, coprite parte della superficie delle tortine con un foglio di carta e spolverizzate con lo zucchero a velo (25-26). Le vostre tortine di zucca e cioccolato sono pronte per essere gustate 27 !"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:15.965494+00:00"
+    "source_synced_at": "2026-11-14T22:20:15.965494+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 45798059982633,
@@ -3554,7 +3566,11 @@
     "source_cost": "Elevato",
     "source_cook_minutes": 15,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:14.831186+00:00"
+    "source_synced_at": "2026-11-14T22:18:14.831186+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 191443079218214,
@@ -3655,7 +3671,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 70,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:24.208440+00:00"
+    "source_synced_at": "2026-11-14T22:20:24.208440+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 176455757232419,
@@ -3819,7 +3839,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:13.286318+00:00"
+    "source_synced_at": "2026-11-14T22:20:13.286318+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 20159596085883,
@@ -3943,7 +3967,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:25.721659+00:00"
+    "source_synced_at": "2026-11-14T22:18:25.721659+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 28394982502732,
@@ -4060,7 +4088,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 50,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:31.169334+00:00"
+    "source_synced_at": "2026-11-14T22:18:31.169334+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 94342537379137,
@@ -4178,7 +4210,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:25.094565+00:00"
+    "source_synced_at": "2026-11-14T22:19:25.094565+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 147298971437633,
@@ -4290,7 +4326,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 60,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:47.559897+00:00"
+    "source_synced_at": "2026-11-14T22:19:47.559897+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 32919346764472,
@@ -4409,7 +4449,11 @@
       "Cuocete la torta in forno statico preriscaldato a 180°C per circa 35 minuti, posizionandola sul ripiano medio-basso del forno. Al termine della cottura, sfornate la torta 13 e lasciatela intiepidire prima di sformarla 14 . La torta 5 minuti allo yogurt e cacao è pronta da servire 15 ."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:33.856390+00:00"
+    "source_synced_at": "2026-11-14T22:18:33.856390+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 66219501729955,
@@ -4528,7 +4572,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 45,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:08.341964+00:00"
+    "source_synced_at": "2026-11-14T22:19:08.341964+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 7941019845980,
@@ -4690,7 +4738,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 55,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:20.191920+00:00"
+    "source_synced_at": "2026-11-14T22:18:20.191920+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 81188317355982,
@@ -4807,7 +4859,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 50,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:22.318202+00:00"
+    "source_synced_at": "2026-11-14T22:19:22.318202+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 245498296563293,
@@ -4941,7 +4997,11 @@
       }
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:40.588734+00:00"
+    "source_synced_at": "2026-11-14T22:20:40.588734+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 229177419212424,
@@ -5088,7 +5148,11 @@
     "source_category": "Antipasti",
     "source_cook_minutes": 30,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:13.029785+00:00"
+    "source_synced_at": "2026-11-14T22:09:13.029785+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 161609328838698,
@@ -5884,7 +5948,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 8,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:56.908277+00:00"
+    "source_synced_at": "2026-11-14T22:20:56.908277+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 204728640831211,
@@ -6573,7 +6641,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 6,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:29.679691+00:00"
+    "source_synced_at": "2026-11-14T22:20:29.679691+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Bevanda",
+      "motivo": "categoria fonte: Bevande"
+    }
   },
   {
     "id": 73418926199175,
@@ -6684,7 +6756,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 5,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:16.547321+00:00"
+    "source_synced_at": "2026-11-14T22:19:16.547321+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 22982742159258,
@@ -6799,7 +6875,11 @@
       "realizzate un ultimo strato con ciuffetti di impasto verde: non è necessario riempire gli stampini in modo uniforme perché durante la cottura i ciuffi di impasto si allargheranno e andranno a unirsi fra loro, creando un effetto marmorizzato 16 . Procedete in questo modo per tutti e 4 gli stampini. Cuocete i plumcake in forno statico preriscaldato a 180°C per circa 30 minuti. Trascorso il tempo di cottura, verificate con uno stecchino che l’interno dei mini-plumcake sia cotto, poi rimuoveteli dal forno e lasciateli intiepidire negli stampini 17 ; una volta intiepiditi, potrete sformarli (per staccarli più facilmente potete usare la lama di un coltello lungo tutto il perimetro dello stampino). I vostri plumcake al tè matcha sono pronti per essere serviti 18 !"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:28.412842+00:00"
+    "source_synced_at": "2026-11-14T22:18:28.412842+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 112890916408686,
@@ -8082,7 +8162,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:33.156676+00:00"
+    "source_synced_at": "2026-11-14T22:19:33.156676+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Bevanda",
+      "motivo": "categoria fonte: Bevande"
+    }
   },
   {
     "id": 1473122248830,
@@ -8221,7 +8305,11 @@
     "source_category": "Dolci",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:03:19.122344+00:00"
+    "source_synced_at": "2026-11-14T22:03:19.122344+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 162536820830831,
@@ -8651,7 +8739,11 @@
     "source_cost": "Elevato",
     "source_cook_minutes": 25,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:39.698399+00:00"
+    "source_synced_at": "2026-11-14T22:18:39.698399+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 14027845692352,
@@ -8765,7 +8857,11 @@
     "source_cost": "Molto basso",
     "source_cook_minutes": 5,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:22.967673+00:00"
+    "source_synced_at": "2026-11-14T22:18:22.967673+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Bevanda",
+      "motivo": "categoria fonte: Bevande"
+    }
   },
   {
     "id": 153059926286141,
@@ -8899,7 +8995,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 10,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:52.948188+00:00"
+    "source_synced_at": "2026-11-14T22:19:52.948188+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Bevanda",
+      "motivo": "categoria fonte: Bevande"
+    }
   },
   {
     "id": 71900842786149,
@@ -9019,7 +9119,11 @@
     "source_cost": "Molto basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:11.097801+00:00"
+    "source_synced_at": "2026-11-14T22:19:11.097801+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 186772930162175,
@@ -9218,7 +9322,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:18.752467+00:00"
+    "source_synced_at": "2026-11-14T22:20:18.752467+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 4910680209640,
@@ -9417,7 +9525,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 25,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:17.527549+00:00"
+    "source_synced_at": "2026-11-14T22:18:17.527549+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 18127233988502,
@@ -9909,7 +10021,11 @@
     "source_category": "Bevande",
     "source_cook_minutes": 2,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:55.612774+00:00"
+    "source_synced_at": "2026-11-14T22:19:55.612774+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Bevanda",
+      "motivo": "categoria fonte: Bevande"
+    }
   },
   {
     "id": 205047828110600,
@@ -10063,7 +10179,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:26.982444+00:00"
+    "source_synced_at": "2026-11-14T22:20:26.982444+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 251574711530283,
@@ -10250,7 +10370,11 @@
     "source_category": "Dolci",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:46.036832+00:00"
+    "source_synced_at": "2026-11-14T22:20:46.036832+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 44298545603766,
@@ -10348,7 +10472,11 @@
       "Fate rotolare le palline così ottenute in un contenitore dove avrete messo i pinoli (7-8). Disponete i biscotti su una teglia rivestita con della carta da forno 9 e lasciate cuocere i biscotti al tè Matcha in forno caldo per 15 minuti circa a 170 gradi."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:45.637558+00:00"
+    "source_synced_at": "2026-11-14T22:18:45.637558+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 157512128901781,
@@ -10439,7 +10567,11 @@
     "source_cost": "Molto basso",
     "source_cook_minutes": 10,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:58.294449+00:00"
+    "source_synced_at": "2026-11-14T22:19:58.294449+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Condimento",
+      "motivo": "categoria fonte: Salse e Sughi"
+    }
   },
   {
     "id": 240182235946326,
@@ -11124,7 +11256,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 5,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:44.896280+00:00"
+    "source_synced_at": "2026-11-14T22:07:44.896280+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 90620450073313,
@@ -11239,7 +11375,11 @@
       "Trasferite le vongole nei piatti 16 , se preferite per comodità potrete separarne alcune dai gusci. Aggiungete sopra il brodo caldo 17 e servite la vostra zuppetta di vongole allo zafferano con i crostini di pane 18 ."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:16.569389+00:00"
+    "source_synced_at": "2026-11-14T22:05:16.569389+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 88211785160049,
@@ -11534,7 +11674,11 @@
     "source_category": "Antipasti",
     "source_cook_minutes": 15,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:10:09.062798+00:00"
+    "source_synced_at": "2026-11-14T22:10:09.062798+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 192249230248337,
@@ -11891,7 +12035,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 10,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:48.296761+00:00"
+    "source_synced_at": "2026-11-14T22:18:48.296761+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 250186173763145,
@@ -12021,7 +12169,11 @@
       "e spolverizzate la superficie con un po' di cacao amaro setacciato 22 . Concludete disponendo in superficie altri Pavesini inzuppati 23 . Ecco pronta la vostra zuppa inglese con Pavesini 24"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:43.245766+00:00"
+    "source_synced_at": "2026-11-14T22:20:43.245766+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 254476293470467,
@@ -16577,7 +16729,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 45,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:27.774288+00:00"
+    "source_synced_at": "2026-11-14T22:19:27.774288+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 151568230992457,
@@ -17024,7 +17180,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 25,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:13:52.856813+00:00"
+    "source_synced_at": "2026-11-14T22:13:52.856813+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 272556467712897,
@@ -17152,7 +17312,11 @@
     "source_category": "Contorni",
     "source_cook_minutes": 30,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:10:18.017697+00:00"
+    "source_synced_at": "2026-11-14T22:10:18.017697+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 33773102978234,
@@ -17283,7 +17447,11 @@
     "source_cost": "Molto basso",
     "source_cook_minutes": 100,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:37.022937+00:00"
+    "source_synced_at": "2026-11-14T22:18:37.022937+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 22473126689139,
@@ -17973,7 +18141,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 15,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:58.706192+00:00"
+    "source_synced_at": "2026-11-14T22:05:58.706192+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Insalate leggera"
+    }
   },
   {
     "id": 148392265612335,
@@ -18078,7 +18250,11 @@
       "Aggiungete poi la panna acida 19 e mescolate per amalgamarla completamente. Unite poi una grattata abbondante di noce moscata 20 , regolate di sale se necessario, mescolate nuovamente e servite il vostro purè cremoso aggiungendo un filo d'olio a crudo in superficie 21 ."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:50.240231+00:00"
+    "source_synced_at": "2026-11-14T22:19:50.240231+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 71740311677932,
@@ -18674,7 +18850,11 @@
     "source_category": "Contorni",
     "source_cook_minutes": 35,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:19.596054+00:00"
+    "source_synced_at": "2026-11-14T22:19:19.596054+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 135167665711416,
@@ -19275,7 +19455,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 130,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:35.123266+00:00"
+    "source_synced_at": "2026-11-14T22:20:35.123266+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 37674408832820,
@@ -20181,7 +20365,11 @@
       "Trasferite in un piatto da portata 22 e guarnite con le codette colorate 23 e serviteli 24 ."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:25.446172+00:00"
+    "source_synced_at": "2026-11-14T22:07:25.446172+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 197180292634881,
@@ -21447,7 +21635,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 75,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:13.781827+00:00"
+    "source_synced_at": "2026-11-14T22:19:13.781827+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 39021580144508,
@@ -21746,7 +21938,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 45,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:05.523512+00:00"
+    "source_synced_at": "2026-11-14T22:19:05.523512+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 14817150392762,
@@ -22026,7 +22222,11 @@
       "Rifilate nuovamente i bordi 31 32 . Trasferite in forno ventilato preriscaldato a 180° per 25 minuti, poi terminate la cottura a 170°, questa volta in modalità statica, per altri 30 minuti. Sfornate la vostra pumpkin pie Jack Skellington e lasciatela raffreddare completamente prima di servirla 33 !"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:44.907169+00:00"
+    "source_synced_at": "2026-11-14T22:19:44.907169+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 179110775327344,
@@ -22533,7 +22733,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 3,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:19.981712+00:00"
+    "source_synced_at": "2026-11-14T22:04:19.981712+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 29562327012646,
@@ -23080,7 +23284,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:28.455715+00:00"
+    "source_synced_at": "2026-11-14T22:04:28.455715+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 281127309998021,
@@ -23974,7 +24182,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:42.158089+00:00"
+    "source_synced_at": "2026-11-14T22:05:42.158089+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 254998567221932,
@@ -24131,7 +24343,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:54.109859+00:00"
+    "source_synced_at": "2026-11-14T22:20:54.109859+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 161518988912889,
@@ -24782,7 +24998,11 @@
     "source_category": "Antipasti",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:15:53.142598+00:00"
+    "source_synced_at": "2026-11-14T22:15:53.142598+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 67605578037869,
@@ -25053,7 +25273,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 25,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:03:51.581256+00:00"
+    "source_synced_at": "2026-11-14T22:03:51.581256+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 110844571177337,
@@ -25514,7 +25738,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 10,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:56.111809+00:00"
+    "source_synced_at": "2026-11-14T22:04:56.111809+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 125204308643012,
@@ -25772,7 +26000,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 15,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:10.353816+00:00"
+    "source_synced_at": "2026-11-14T22:08:10.353816+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 175785356183471,
@@ -28090,7 +28322,11 @@
       "Dopo aver glassato tutti i bignè, montate i 100 g di panna per la decorazione con lo zucchero a velo. Guarnite la piramide di bignè con scorzette di limone 40 e riempite i buchi con ciuffetti di panna montata, utilizzando un sac-à-poche con bocchetta a stella 41 . Riponete in frigorifero a rassodare per almeno 2-3 ore. I vostri profiteroles al limone sono pronti per essere serviti 42 !"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:03.771298+00:00"
+    "source_synced_at": "2026-11-14T22:20:03.771298+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 106795039109695,
@@ -28791,7 +29027,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 55,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:30.451681+00:00"
+    "source_synced_at": "2026-11-14T22:19:30.451681+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 192326326882096,
@@ -29481,7 +29721,11 @@
       "Cuocete per circa 4 minuti e non appena sarà ben dorato scolate il primosale fritto 10 e trasferitelo su un vassoio foderato con carta assorbente 11 . Regolate il tempo di cottura in base alla grandezza del primosale; i nostri pezzi erano di circa 160 g. Friggete anche le fette rimanenti e servite 12 ."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:10:23.452738+00:00"
+    "source_synced_at": "2026-11-14T22:10:23.452738+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 85911426444673,
@@ -30752,7 +30996,11 @@
     "source_cost": "Elevato",
     "source_cook_minutes": 10,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:06.009932+00:00"
+    "source_synced_at": "2026-11-14T22:04:06.009932+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 211658408928202,
@@ -31496,7 +31744,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:03:39.614870+00:00"
+    "source_synced_at": "2026-11-14T22:03:39.614870+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Insalate leggera"
+    }
   },
   {
     "id": 151305014122343,
@@ -31606,7 +31858,11 @@
       "Spennellate i vostri pretzel buns con l’uovo sbattuto 16 e cuoceteli in forno statico preriscaldato a 220° per 18 minuti 17 . Lasciate raffreddare i vostri pretzel buns prima di gustarli, da soli o farciti come vi suggerisce la fantasia 18 ."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:06:55.062586+00:00"
+    "source_synced_at": "2026-11-14T22:06:55.062586+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 276617599514604,
@@ -31941,7 +32197,11 @@
     "source_category": "Antipasti",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:07.143885+00:00"
+    "source_synced_at": "2026-11-14T22:09:07.143885+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 24381341462452,
@@ -32292,7 +32552,11 @@
       "Arricchite con sciroppo d'acero 10 e scaglie di cioccolato fondente 11 . In alternativa potete optare per una versione con frutti di bosco e scaglie di cioccolato fondente, oppure con kiwi, mandorle, confettura di lamponi e miele. Lasciatevi guidare dalla fantasia e gustate subito il vostro porridge 12 !"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:37.818964+00:00"
+    "source_synced_at": "2026-11-14T22:20:37.818964+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 210296102622100,
@@ -32836,7 +33100,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:50.088370+00:00"
+    "source_synced_at": "2026-11-14T22:08:50.088370+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Insalate leggera"
+    }
   },
   {
     "id": 51909838199895,
@@ -32994,7 +33262,11 @@
       "Infine lavate l'albicocca e tagliatela a fettine, poi posizionatele porridge al cacao 19 e guarnite con la granella di nocciole 20 . il vostro porridge vegano è pronto, non vi resta che scegliere il vostro gusto preferito 21 !"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:54.150584+00:00"
+    "source_synced_at": "2026-11-14T22:18:54.150584+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 66748563507258,
@@ -33631,7 +33903,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:50.517169+00:00"
+    "source_synced_at": "2026-11-14T22:05:50.517169+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Insalate leggera"
+    }
   },
   {
     "id": 267787845945768,
@@ -34397,7 +34673,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:42.155627+00:00"
+    "source_synced_at": "2026-11-14T22:19:42.155627+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 63498042415512,
@@ -34701,7 +34981,11 @@
     "source_category": "Contorni",
     "source_cook_minutes": 25,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:01.070412+00:00"
+    "source_synced_at": "2026-11-14T22:20:01.070412+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 91606204057379,
@@ -35008,7 +35292,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 4,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:36.308763+00:00"
+    "source_synced_at": "2026-11-14T22:19:36.308763+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 30252368588666,
@@ -35382,7 +35670,11 @@
     "source_category": "Contorni",
     "source_cook_minutes": 30,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:10.473286+00:00"
+    "source_synced_at": "2026-11-14T22:20:10.473286+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 127641610388941,
@@ -35521,7 +35813,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 5,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:06:15.039029+00:00"
+    "source_synced_at": "2026-11-14T22:06:15.039029+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Insalate leggera"
+    }
   },
   {
     "id": 220047054453364,
@@ -35626,7 +35922,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 4,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:32.351606+00:00"
+    "source_synced_at": "2026-11-14T22:20:32.351606+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 100174027734567,
@@ -36320,7 +36620,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:20:51.429594+00:00"
+    "source_synced_at": "2026-11-14T22:20:51.429594+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 114972110690077,
@@ -36830,7 +37134,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 5,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:18.478818+00:00"
+    "source_synced_at": "2026-11-14T22:08:18.478818+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Insalate leggera"
+    }
   },
   {
     "id": 1461431209518,
@@ -36943,7 +37251,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 25,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:03:16.444306+00:00"
+    "source_synced_at": "2026-11-14T22:03:16.444306+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 168994172408261,
@@ -37599,7 +37911,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 25,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:04.775939+00:00"
+    "source_synced_at": "2026-11-14T22:05:04.775939+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 189601898418918,
@@ -38267,7 +38583,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 5,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:10:11.833024+00:00"
+    "source_synced_at": "2026-11-14T22:10:11.833024+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 137721317536781,
@@ -39099,7 +39419,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 15,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:15:04.918338+00:00"
+    "source_synced_at": "2026-11-14T22:15:04.918338+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 53087330070907,
@@ -39192,7 +39516,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 17,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:56.857206+00:00"
+    "source_synced_at": "2026-11-14T22:18:56.857206+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 230515145051611,
@@ -39730,7 +40058,11 @@
     "source_cost": "Molto basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:59.143583+00:00"
+    "source_synced_at": "2026-11-14T22:07:59.143583+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Insalate leggera"
+    }
   },
   {
     "id": 176537379758275,
@@ -39843,7 +40175,11 @@
       "Profumate con la scorza del limone grattugiata 13 e altre foglie di basilico fresco 14 . I pomodorini marinati al basilico sono pronti da gustare 15 ."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:39.447201+00:00"
+    "source_synced_at": "2026-11-14T22:07:39.447201+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 234463483322998,
@@ -40384,7 +40720,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:00.906866+00:00"
+    "source_synced_at": "2026-11-14T22:07:00.906866+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Insalate leggera"
+    }
   },
   {
     "id": 168581512992147,
@@ -40477,7 +40817,11 @@
       "A questo punto spolverizzateli con dell'origano secco 10 . Cuocete nel ripiano più basso del forno, impostato in modalità statica e preriscaldato a 200° per 15 minuti, poi azionate la modalità ventilata e proseguite la cottura per altri 10 minuti. Sfornate i pomodorini 11 e lasciate intiepidirli prima di servirli 12 ."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:28.534817+00:00"
+    "source_synced_at": "2026-11-14T22:07:28.534817+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 23673081387,
@@ -41263,7 +41607,11 @@
     "source_cost": "Molto basso",
     "source_cook_minutes": 10,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:47.882188+00:00"
+    "source_synced_at": "2026-11-14T22:04:47.882188+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 233253240341196,
@@ -42035,7 +42383,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 5,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:56.479187+00:00"
+    "source_synced_at": "2026-11-14T22:07:56.479187+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 141009512089064,
@@ -42595,7 +42947,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 60,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:09.154610+00:00"
+    "source_synced_at": "2026-11-14T22:04:09.154610+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Insalate leggera"
+    }
   },
   {
     "id": 177856654024684,
@@ -44364,7 +44720,11 @@
       "Completate con un po’ di origano secco 22 e un giro d’olio 23 . Cuocete in forno statico preriscaldato a 200° per 25 minuti, poi proseguite la cottura per altri 5 minuti in modalità ventilata o fino a doratura 24 . I vostri pomodori ripieni alla siciliana sono pronti per essere serviti, caldi o a temperatura ambiente!"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:04.462406+00:00"
+    "source_synced_at": "2026-11-14T22:09:04.462406+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 41094496099502,
@@ -45066,7 +45426,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 10,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:04.936757+00:00"
+    "source_synced_at": "2026-11-14T22:08:04.936757+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 42263564479256,
@@ -45723,7 +46087,11 @@
       "coprite con il piatto da portata 13 e capovolgete il tutto 14 ; le Pommes Anna risulteranno ben caramellate in superficie 15 , servitele ben calde !"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:06:12.229585+00:00"
+    "source_synced_at": "2026-11-14T22:06:12.229585+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 240844682992611,
@@ -46486,7 +46854,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:42.360377+00:00"
+    "source_synced_at": "2026-11-14T22:18:42.360377+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 67866765061478,
@@ -46999,7 +47371,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:10:00.427498+00:00"
+    "source_synced_at": "2026-11-14T22:10:00.427498+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Insalate leggera"
+    }
   },
   {
     "id": 13912577460891,
@@ -48745,7 +49121,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:21.358456+00:00"
+    "source_synced_at": "2026-11-14T22:09:21.358456+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Insalate leggera"
+    }
   },
   {
     "id": 202408421244677,
@@ -50357,7 +50737,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 25,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:03.656919+00:00"
+    "source_synced_at": "2026-11-14T22:07:03.656919+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 125842797061379,
@@ -56099,7 +56483,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 30,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:03:54.740463+00:00"
+    "source_synced_at": "2026-11-14T22:03:54.740463+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 256071389617537,
@@ -56260,7 +56648,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 60,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:57.149949+00:00"
+    "source_synced_at": "2026-11-14T22:09:57.149949+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 222440039684191,
@@ -56586,7 +56978,11 @@
     "source_category": "Antipasti",
     "source_cook_minutes": 15,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:16:04.720241+00:00"
+    "source_synced_at": "2026-11-14T22:16:04.720241+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 19000214318293,
@@ -56816,7 +57212,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 45,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:00.123281+00:00"
+    "source_synced_at": "2026-11-14T22:04:00.123281+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 114110503255373,
@@ -57470,7 +57870,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 80,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:06:06.776169+00:00"
+    "source_synced_at": "2026-11-14T22:06:06.776169+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 254423273752900,
@@ -58860,7 +59264,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 80,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:29.833983+00:00"
+    "source_synced_at": "2026-11-14T22:09:29.833983+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 216033559463241,
@@ -59611,7 +60019,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 30,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:53.233442+00:00"
+    "source_synced_at": "2026-11-14T22:05:53.233442+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 147633642025648,
@@ -61225,7 +61637,11 @@
     "source_cost": "Molto basso",
     "source_cook_minutes": 35,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:34.020677+00:00"
+    "source_synced_at": "2026-11-14T22:04:34.020677+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 88341068500244,
@@ -61962,7 +62378,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:06:35.000882+00:00"
+    "source_synced_at": "2026-11-14T22:06:35.000882+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 123219234320756,
@@ -62731,7 +63151,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:22.105057+00:00"
+    "source_synced_at": "2026-11-14T22:05:22.105057+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 192805961445618,
@@ -62928,7 +63352,11 @@
       "infine spolverizzatela con lo zucchero semolato 31 . Cuocete la polacca aversana in forno statico preriscaldato a 180° per circa 30 minuti, fino a che la superficie non risulti bella dorata 32 . Una volta cotta, sfornate la torta e lasciatela raffreddare; se desiderate, potete spolverizzarla con dello zucchero a velo. La vostra deliziosa polacca aversana è finalmente pronta per essere servita 33 !"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:13.054949+00:00"
+    "source_synced_at": "2026-11-14T22:08:13.054949+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 162058407376616,
@@ -63270,7 +63698,11 @@
     "source_category": "Antipasti",
     "source_cook_minutes": 6,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:33.805765+00:00"
+    "source_synced_at": "2026-11-14T22:05:33.805765+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 243666308474191,
@@ -63476,7 +63908,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 60,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:46.155954+00:00"
+    "source_synced_at": "2026-11-14T22:09:46.155954+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 275067740690302,
@@ -63576,7 +64012,11 @@
     "source_cost": "Elevato",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:10:20.769051+00:00"
+    "source_synced_at": "2026-11-14T22:10:20.769051+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 252288290795440,
@@ -63920,7 +64360,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 15,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:58.807440+00:00"
+    "source_synced_at": "2026-11-14T22:08:58.807440+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 9715430271518,
@@ -64159,7 +64603,11 @@
     "source_category": "Lievitati",
     "source_cook_minutes": 45,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:03:31.060172+00:00"
+    "source_synced_at": "2026-11-14T22:03:31.060172+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 251372831743842,
@@ -64896,7 +65344,11 @@
     "source_category": "Antipasti",
     "source_cook_minutes": 50,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:42.249011+00:00"
+    "source_synced_at": "2026-11-14T22:04:42.249011+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 237252137321149,
@@ -65112,7 +65564,11 @@
     "source_category": "Lievitati",
     "source_cook_minutes": 45,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:27.132758+00:00"
+    "source_synced_at": "2026-11-14T22:09:27.132758+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 56216802979980,
@@ -65266,7 +65722,11 @@
     "source_cost": "Medio",
     "source_cook_minutes": 35,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:59.626633+00:00"
+    "source_synced_at": "2026-11-14T22:18:59.626633+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 22088968087347,
@@ -65611,7 +66071,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 3,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:10:06.283733+00:00"
+    "source_synced_at": "2026-11-14T22:10:06.283733+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 241367404629547,
@@ -65744,7 +66208,11 @@
       "Aggiungete anche gli aghi di rosmarino 22 e cuocete in forno statico preriscaldato a 200° per 40 minuti. Una volta cotta, sfornate la vostra focaccia morbida 23 , fatela intiepidire e sformatela quindi servitela ancora calda 24 !"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:37.941151+00:00"
+    "source_synced_at": "2026-11-14T22:09:37.941151+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 115009007825672,
@@ -65878,7 +66346,11 @@
       "Quando avrete farcito tutti i cubi 19 , decorate con ribes 20 e zuccherini natalizi. La Poke cake con Nutella® è pronta da servire 21 !"
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:39.472667+00:00"
+    "source_synced_at": "2026-11-14T22:19:39.472667+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 189563734837992,
@@ -66458,7 +66930,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:47.386483+00:00"
+    "source_synced_at": "2026-11-14T22:08:47.386483+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 58233962807291,
@@ -66603,7 +67079,11 @@
       "A questo punto ricoprite il dolce con la panna, spalmandola con la spatola 22 in modo da creare un motivo ondulato. Guarnite con cioccolato fondente a scaglie 23 , servite la vostra poke cake tagliata a cubetti 24 ."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:19:02.761569+00:00"
+    "source_synced_at": "2026-11-14T22:19:02.761569+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Dolce o colazione",
+      "motivo": "categoria fonte: Dolci"
+    }
   },
   {
     "id": 50027419037905,
@@ -67046,7 +67526,11 @@
     "source_cost": "Elevato",
     "source_cook_minutes": 15,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:41.997878+00:00"
+    "source_synced_at": "2026-11-14T22:08:41.997878+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 57690796494915,
@@ -67209,7 +67693,11 @@
     "source_cost": "Molto basso",
     "source_cook_minutes": 30,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:45.006571+00:00"
+    "source_synced_at": "2026-11-14T22:04:45.006571+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 219771994501514,
@@ -68413,7 +68901,11 @@
       "Il platano fritto è pronto, non vi resta che aggiungere un pizzico di sale 13 e un pizzico di pepe 14 e portarlo a tavola 15 ."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:03:48.400440+00:00"
+    "source_synced_at": "2026-11-14T22:03:48.400440+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 246860154885619,
@@ -69155,7 +69647,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:27.087654+00:00"
+    "source_synced_at": "2026-11-14T22:08:27.087654+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
   },
   {
     "id": 241909424376243,
@@ -69527,7 +70023,11 @@
     "source_cost": "Elevato",
     "source_cook_minutes": 50,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:53.790991+00:00"
+    "source_synced_at": "2026-11-14T22:07:53.790991+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   },
   {
     "id": 202397028270484,
@@ -69758,7 +70258,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:29.851605+00:00"
+    "source_synced_at": "2026-11-14T22:08:29.851605+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 190429649764300,
@@ -69911,7 +70415,11 @@
       "Un filo d'olio e altro origano 28 . Ripassate ancora in forno, sempre sulla pietra refrattaria, per 5 minuti a 240°. Sfornate 29 e servite caldo il pizzolo siciliano 30 ."
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:07.603510+00:00"
+    "source_synced_at": "2026-11-14T22:08:07.603510+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 196918120188140,
@@ -70296,7 +70804,11 @@
     "source_cost": "Basso",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:47.514639+00:00"
+    "source_synced_at": "2026-11-14T22:05:47.514639+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   },
   {
     "id": 279137066215984,
@@ -70847,6 +71359,10 @@
     "source_cost": "Basso",
     "source_cook_minutes": 35,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:06:49.088380+00:00"
+    "source_synced_at": "2026-11-14T22:06:49.088380+00:00",
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
+    }
   }
 ]

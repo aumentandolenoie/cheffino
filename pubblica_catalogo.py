@@ -20,6 +20,8 @@ TARGET = Path("data/catalogo_pubblicato.json")
 def eligible(rec):
     if not isinstance(rec, dict) or not rec.get("name") or not rec.get("url"):
         return False, "scheda_base_incompleta"
+    if rec.get("esclusa_dal_piano"):
+        return False, "esclusa_dal_piano"
     if rec.get("needs_review") is True:
         return False, "in_revisione"
     verdict = rec.get("validazione_automatica")
@@ -71,7 +73,9 @@ def publish(source=SOURCE, target=TARGET):
     temp = target.with_suffix(".tmp")
     temp.write_text(json.dumps(accepted, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     temp.replace(target)
-    print(f"Pubblicazione: approvate={len(accepted)}; escluse={sum(rejected.values())}; motivi={dict(rejected)}")
+    by_choice = rejected.pop("esclusa_dal_piano", 0)
+    print(f"Pubblicazione: pubblicate={len(accepted)}; escluse_dal_piano_per_scelta={by_choice}; "
+          f"non_pubblicate_per_motivi_tecnici={sum(rejected.values())}; motivi={dict(rejected)}")
     return accepted
 
 

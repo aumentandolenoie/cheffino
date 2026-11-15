@@ -161,3 +161,14 @@ glutine; i formaggi stagionati sono considerati vegetariani.
   casuale nuovo a ogni onboarding e a ogni «rigenera»; i «mi piace» aumentano
   la probabilità di una ricetta ma non la rendono fissa; i «no» sono esclusi;
   nel piano si alternano i tipi di piatto scelti.
+
+## Copertine e foto dei passaggi (v16)
+
+- `controlla_copertine.py`: allinea la copertina alla foto principale dichiarata
+  dalla pagina (og:image), alla risoluzione migliore (780x520), scartando i
+  segnaposto con il logo (`data/copertine_segnaposto.json`, oppure immagine
+  condivisa da più ricette) e le foto di altre ricette. Gira nel workflow 02 per
+  le copertine non ancora verificate; il workflow 05 le ricontrolla tutte.
+- Frontend: le foto dei passaggi sono in un carosello a tutta larghezza; le
+  «strip» da 660x170 (tre scatti affiancati delle ricette più vecchie) sono
+  divise nei singoli scatti; ogni foto si apre a schermo intero con scorrimento.

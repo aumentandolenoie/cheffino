@@ -49,6 +49,8 @@ jobs:
           # Pubblicate + approvate in attesa di foto (vedi importa_foto_passaggi.py)
           python importa_foto_passaggi.py --published-only --limit 35 --delay 2.5 --report /tmp/cheffino-media.json
           python normalizza_catalogo.py
+          # Copertine nuove: allineate alla foto principale della pagina (segnaposto con logo esclusi)
+          python controlla_copertine.py --apply --limit 30 --delay 2
           python controlla_integrita_catalogo.py
           python audit_immagini.py --limit 10
           python audit_ricette.py --report /tmp/cheffino-audit-ricette.json
@@ -58,10 +60,10 @@ jobs:
       # degli artifact non deve più impedire il commit dei dati recuperati.
       - name: Salva dati arricchiti
         run: |
-          if git diff --quiet -- data/catalogo.json data/catalogo_pubblicato.json; then exit 0; fi
+          if git diff --quiet -- data/catalogo.json data/catalogo_pubblicato.json data/copertine_segnaposto.json; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/catalogo.json data/catalogo_pubblicato.json
+          git add data/catalogo.json data/catalogo_pubblicato.json data/copertine_segnaposto.json
           git commit -m 'Catalogo in lavorazione: arricchimento fonti e foto'
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"

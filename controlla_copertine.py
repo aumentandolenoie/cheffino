@@ -1,15 +1,14 @@
 """Copertine segnaposto: riconoscimento e sostituzione con la foto del piatto.
 
-Alcune schede GialloZafferano usano come copertina «foto_hd/hd650x433_wm.jpg»,
-che per le ricette più vecchie è un'immagine generica con il logo del sito e
-non la foto del piatto. Lo script:
-  1. scarica la copertina attuale (dimensioni, impronta SHA-256);
-  2. la considera segnaposto se la stessa immagine compare come copertina di
-     ricette diverse, oppure se coincide con un segnaposto già noto;
-  3. legge la pagina della ricetta e raccoglie le alternative dichiarate dalla
-     fonte (og:image, JSON-LD image, immagine principale nella pagina);
-  4. sceglie la candidata più grande che NON sia un segnaposto e appartenga
-     alla stessa ricetta (stesso identificativo nell'URL, se presente).
+Alcune schede usavano come copertina il vecchio indirizzo GialloZafferano
+«foto_hd/hd650x433_wm.jpg»: per alcune ricette oggi è un'immagine generica (cucina
+con il logo del sito) e non la foto del piatto. Lo script:
+  1. scarica la copertina salvata (dimensioni, impronta SHA-256);
+  2. legge la pagina della ricetta e la foto principale che dichiara (og:image,
+     JSON-LD, immagine in evidenza), provando anche la versione 780x520;
+  3. sostituisce la copertina se la fonte dichiara una foto diversa o più grande,
+     o se quella salvata è un segnaposto noto (data/copertine_segnaposto.json) o
+     condiviso da più ricette; la nuova foto deve appartenere alla stessa ricetta.
 
 Sola lettura salvo --apply. Nessuna immagine viene inventata: se la fonte non
 offre una foto valida, la copertina viene marcata e l'app mostra la prima foto
@@ -109,71 +108,87 @@ def load_known():
         return set()
 
 
+def hires_variants(url):
+    """Varianti a risoluzione maggiore dichiarate da GZ (_780x520 accanto a _650x433)."""
+    out = []
+    if re.search(r'_650x433(_wm)?\.jpg$', url):
+        out.append(re.sub(r'_650x433(_wm)?\.jpg$', r'_780x520\1.jpg', url))
+    return out + [url]
+
+
 def scan(records, limit=400, delay=1.0, fetch_page=fetch_text, fetch_img=fetch_image, sleep=time.sleep):
-    covers = {}
-    for rec in records[:limit]:
-        url = rec.get('image_url')
-        if not url:
-            continue
-        try:
-            covers[rec['id']] = dict(fetch_img(url), url=url)
-        except Exception as exc:
-            covers[rec['id']] = {'url': url, 'error': str(exc)}
-        if delay:
-            sleep(delay / 3)
-    by_hash = defaultdict(set)
-    for rid, info in covers.items():
-        if info.get('sha256'):
-            by_hash[info['sha256']].add(rid)
+    """Confronta la copertina salvata con la foto principale dichiarata dalla pagina.
+
+    Esiti: ok (già la foto della fonte alla risoluzione migliore), sostituibile
+    (la fonte dichiara una foto diversa o più grande, oppure la copertina salvata è
+    un segnaposto), segnaposto (copertina segnaposto e nessuna alternativa valida),
+    non_verificabile (pagina o immagini non raggiungibili).
+    """
     known = load_known()
-    placeholders = {h for h, ids in by_hash.items() if len(ids) >= 2} | known
-    results = []
+    results, hashes = [], defaultdict(set)
     for rec in records[:limit]:
-        info = covers.get(rec['id'])
-        if not info:
-            continue
-        row = {'id': rec['id'], 'name': rec.get('name'), 'url': rec.get('url'), 'copertina': info}
-        if info.get('sha256') not in placeholders:
-            row['esito'] = 'ok'
-            results.append(row)
-            continue
-        row['esito'] = 'segnaposto'
+        stored = rec.get('image_url')
+        row = {'id': rec['id'], 'name': rec.get('name'), 'url': rec.get('url')}
+        try:
+            current = dict(fetch_img(stored), url=stored)
+        except Exception as exc:
+            current = {'url': stored, 'error': str(exc)}
+        row['copertina'] = current
+        if current.get('sha256'):
+            hashes[current['sha256']].add(rec['id'])
         try:
             html = fetch_page(rec['url'])
-            candidates = [u for u in page_candidates(html, rec['url']) if u != info['url']]
+            declared = page_candidates(html, rec['url'])
         except Exception as exc:
-            row['errore_pagina'] = str(exc)
-            candidates = []
-        rid = image_id(info['url'])
-        best = None
-        tried = []
-        for cand in candidates[:6]:
-            try:
-                meta = fetch_img(cand)
-            except Exception as exc:
-                tried.append({'url': cand, 'errore': str(exc)})
-                continue
-            meta['url'] = cand
-            tried.append(meta)
-            if meta['sha256'] in placeholders or meta['width'] < 300:
-                continue
-            if rid and image_id(cand) not in (None, rid):
-                continue  # foto di un'altra ricetta
-            if not best or meta['width'] * meta['height'] > best['width'] * best['height']:
-                best = meta
+            row['esito'], row['errore_pagina'] = 'non_verificabile', str(exc)
+            results.append(row)
+            continue
+        rid = image_id(stored)
+        best, tried = None, []
+        for base in declared[:2]:
+            for cand in hires_variants(base):
+                if rid and image_id(cand) not in (None, rid):
+                    continue  # foto di un'altra ricetta
+                if cand == stored and current.get('sha256'):
+                    meta = dict(current)
+                else:
+                    try:
+                        meta = dict(fetch_img(cand), url=cand)
+                    except Exception as exc:
+                        tried.append({'url': cand, 'errore': str(exc)})
+                        continue
+                tried.append(meta)
+                if meta['sha256'] in known or meta['width'] < 300:
+                    continue
+                if not best or meta['width'] * meta['height'] > best['width'] * best['height']:
+                    best = meta
+            if best:
+                break
         row['candidate'] = tried
-        if best:
-            row['esito'] = 'sostituibile'
-            row['nuova_copertina'] = best
+        placeholder = current.get('sha256') in known
+        if best and best['url'] != stored and (
+                placeholder or best.get('sha256') != current.get('sha256') or
+                best['width'] * best['height'] > (current.get('width') or 0) * (current.get('height') or 0)):
+            row['esito'], row['nuova_copertina'] = 'sostituibile', best
+        elif placeholder:
+            row['esito'] = 'segnaposto'
+        else:
+            row['esito'] = 'ok'
         results.append(row)
         if delay:
             sleep(delay)
-    return results, placeholders
+    # La stessa immagine come copertina di ricette diverse è un segnaposto.
+    shared = {h for h, ids in hashes.items() if len(ids) >= 2}
+    for row in results:
+        if row['esito'] == 'ok' and row['copertina'].get('sha256') in shared:
+            row['esito'] = 'segnaposto'
+    return results, known | shared
 
 
 def apply(results, placeholders, paths=(CATALOG, PUBLISHED)):
     replace = {r['id']: r for r in results if r['esito'] == 'sostituibile'}
     unresolved = {r['id'] for r in results if r['esito'] == 'segnaposto'}
+    verified_ok = {r['id'] for r in results if r['esito'] == 'ok'}
     now = datetime.now(timezone.utc).isoformat()
     changed = 0
     for path in paths:
@@ -191,6 +206,9 @@ def apply(results, placeholders, paths=(CATALOG, PUBLISHED)):
             elif rec.get('id') in unresolved:
                 rec['copertina_verifica'] = {'esito': 'segnaposto_senza_alternativa', 'verificata_il': now}
                 changed += 1
+            elif rec.get('id') in verified_ok and (rec.get('copertina_verifica') or {}).get('esito') != 'sostituita':
+                rec['copertina_verifica'] = {'esito': 'ok', 'verificata_il': now}
+                changed += 1
         temporary = path.with_suffix('.cover-tmp')
         temporary.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         temporary.replace(path)
@@ -205,9 +223,11 @@ if __name__ == '__main__':
     cli.add_argument('--delay', type=float, default=1.5)
     cli.add_argument('--report', type=Path)
     cli.add_argument('--apply', action='store_true')
+    cli.add_argument('--tutte', action='store_true', help='Ricontrolla anche le copertine già verificate')
     a = cli.parse_args()
     records = [r for r in json.loads(a.catalog.read_text(encoding='utf-8'))
-               if not r.get('esclusa_dal_piano') and r.get('image_url')]
+               if not r.get('esclusa_dal_piano') and r.get('image_url')
+               and (a.tutte or not r.get('copertina_verifica'))]
     results, placeholders = scan(records, a.limit, a.delay)
     counts = defaultdict(int)
     for r in results:

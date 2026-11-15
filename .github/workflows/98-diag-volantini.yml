@@ -2,7 +2,7 @@ name: "Diagnostica volantini (temporaneo)"
 on:
   push:
     branches: ['volantini']
-    paths: ['aggiorna_volantini.py', 'app/volantini.py', '.github/workflows/98-diag-volantini.yml']
+    paths: ['lidl_diag.py', 'aggiorna_volantini.py', 'app/volantini.py', '.github/workflows/98-diag-volantini.yml']
 permissions:
   contents: read
 jobs:
@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: '3.12'}
-      - run: python aggiorna_volantini.py && python -c "import json;d=json.load(open('data/volantini.json'));print(json.dumps({k:v for k,v in d['catene'].items() if v['volantino'] or v.get('prossimo')},indent=1,ensure_ascii=False))"
+      - run: python lidl_diag.py

@@ -170,6 +170,10 @@ def scan(records, limit=400, delay=1.0, fetch_page=fetch_text, fetch_img=fetch_i
                 placeholder or best.get('sha256') != current.get('sha256') or
                 best['width'] * best['height'] > (current.get('width') or 0) * (current.get('height') or 0)):
             row['esito'], row['nuova_copertina'] = 'sostituibile', best
+            row['motivo'] = ('segnaposto_con_logo' if placeholder else
+                             'foto_diversa_dichiarata_dalla_fonte' if best.get('sha256') != current.get('sha256')
+                             and best['width'] * best['height'] <= (current.get('width') or 0) * (current.get('height') or 0)
+                             else 'risoluzione_maggiore')
         elif placeholder:
             row['esito'] = 'segnaposto'
         else:
@@ -201,7 +205,8 @@ def apply(results, placeholders, paths=(CATALOG, PUBLISHED)):
             if row and rec.get('image_url') == row['copertina']['url']:
                 rec['image_url'] = row['nuova_copertina']['url']
                 rec['copertina_verifica'] = {'esito': 'sostituita', 'precedente': row['copertina']['url'],
-                                             'motivo': 'segnaposto_con_logo', 'verificata_il': now}
+                                             'motivo': row.get('motivo', 'foto_aggiornata_dalla_fonte'),
+                                             'verificata_il': now}
                 changed += 1
             elif rec.get('id') in unresolved:
                 rec['copertina_verifica'] = {'esito': 'segnaposto_senza_alternativa', 'verificata_il': now}

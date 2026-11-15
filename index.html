@@ -433,11 +433,37 @@ function exportShoppingList(){
  const blob=new Blob(['\ufeff'+csv.join('\r\n')],{type:'text/csv;charset=utf-8'});
  const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='pepito-lista-spesa.csv';document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
 }
-function normalizeRecipeQuery(t){return String(t??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim()}
+function normalizeRecipeQuery(t){return String(t??'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim()}
+// Ricerca: parole in qualsiasi ordine, articoli e preposizioni ignorati,
+// singolare/plurale equivalenti, piccoli errori di battitura tollerati;
+// cerca nel nome, negli ingredienti e nella portata, con il nome più importante.
+const SEARCH_STOP=new Set('di del dello della dell dei degli delle da dal dallo dalla dall dai dagli dalle con col coi a al allo alla all ai agli alle e ed in nel nello nella nell nei negli nelle il lo la l i gli le un uno una un per su sul sullo sulla sull sui sugli sulle tra fra o'.split(' '));
+function searchWords(t){return normalizeRecipeQuery(t).replace(/[^a-z0-9]+/g,' ').split(' ').filter(w=>w&&!SEARCH_STOP.has(w))}
+function searchStem(w){if(w.length<4||/^\d+$/.test(w))return w;w=w.replace(/([cg])h([ie])$/,'$1$2');let s=w;for(let k=0;k<2&&s.length>3&&/[aeiou]$/.test(s);k++)s=s.slice(0,-1);return s}
+function editDistance(a,b,max){if(Math.abs(a.length-b.length)>max)return max+1;let prev=Array.from({length:b.length+1},(_,j)=>j);for(let i=1;i<=a.length;i++){const cur=[i];let best=i;for(let j=1;j<=b.length;j++){cur[j]=Math.min(prev[j]+1,cur[j-1]+1,prev[j-1]+(a[i-1]===b[j-1]?0:1));best=Math.min(best,cur[j])}if(best>max)return max+1;prev=cur}return prev[b.length]}
+const searchIndexCache=new WeakMap();
+function searchIndex(r){let ix=searchIndexCache.get(r);if(ix)return ix;const f=t=>searchWords(t).map(w=>({w,s:searchStem(w)}));
+ ix={name:f(r.name),ings:f((r.ings||[]).join(' ')),meta:f([r.type,r.style].filter(Boolean).join(' ')),phrase:searchWords(r.name).join(' ')};searchIndexCache.set(r,ix);return ix}
+// Tolleranza agli errori solo per parole lunghe: «pollo» e «polpo» restano distinte.
+function tokenScore(q,words){const qs=searchStem(q),tol=q.length>=9?2:q.length>=6?1:0;let best=0;
+ for(const {w,s} of words){let v=0;if(w===q)v=3;else if(s===qs)v=2.7;else if(q.length>=2&&w.startsWith(q))v=2.3;else if(qs.length>=4&&s.startsWith(qs))v=2;else if(tol&&editDistance(qs,s,tol)<=tol)v=1.4;if(v>best){best=v;if(v===3)break}}return best}
+function recipeSearchScore(r,qWords,qPhrase){const ix=searchIndex(r);let total=0,hit=0;
+ let inName=0;for(const q of qWords){const n=tokenScore(q,ix.name);if(n)inName++;const s=Math.max(n*3,tokenScore(q,ix.ings),tokenScore(q,ix.meta)*.8);if(s>0)hit++;total+=s}
+ if(ix.name.length)total+=2*inName/ix.name.length;
+ if(qPhrase&&ix.phrase.includes(qPhrase))total+=6;if(qWords.length&&ix.name[0]&&tokenScore(qWords[0],[ix.name[0]])>=2)total+=1;
+ return{score:total,hit}}
+function searchRecipes(list,query){const raw=normalizeRecipeQuery(query);if(!raw)return{items:list,exact:true};
+ if(/^\d+$/.test(raw)){const byId=list.filter(r=>String(r.id)===raw);if(byId.length)return{items:byId,exact:true}}
+ const qWords=searchWords(raw);if(!qWords.length)return{items:list,exact:true};const qPhrase=qWords.join(' ');
+ const scored=list.map(r=>({r,...recipeSearchScore(r,qWords,qPhrase)})).filter(x=>x.hit>0);
+ const sort=a=>a.sort((x,y)=>y.score-x.score||Number(x.r.review)-Number(y.r.review)||x.r.name.localeCompare(y.r.name,'it')).map(x=>x.r);
+ const all=scored.filter(x=>x.hit===qWords.length);if(all.length)return{items:sort(all),exact:true};
+ // nessuna ricetta con tutte le parole: le più simili (almeno metà delle parole)
+ return{items:sort(scored.filter(x=>x.hit>=Math.ceil(qWords.length/2))),exact:false}}
 function openRecipeSearch(){
  modal(`<div class="modalhead"><div><div class="eyebrow">Catalogo completo</div><h2 style="margin:0">Cerca una ricetta</h2></div><button class="close" onclick="closeModal()">✕</button></div>
  <p class="hint">Sono incluse anche le ricette in revisione, senza modificarne l'idoneità al piano.</p>
- <label class="hint" for="recipeCatalogQuery">Nome ricetta o ID</label><input id="recipeCatalogQuery" class="search" type="search" placeholder="Es. carbonara" value="${safe(recipeSearchQuery)}" oninput="recipeSearchQuery=this.value;renderRecipeSearchResults()">
+ <label class="hint" for="recipeCatalogQuery">Nome, ingrediente o ID</label><input id="recipeCatalogQuery" class="search" type="search" placeholder="Es. frittata spinaci, pasta zucchine" value="${safe(recipeSearchQuery)}" oninput="recipeSearchQuery=this.value;renderRecipeSearchResults()">
  <label class="hint" for="recipeCatalogFilter">Filtro</label><select class="search" id="recipeCatalogFilter" onchange="recipeSearchFilter=this.value;renderRecipeSearchResults()">
  ${[['all','Tutte le ricette'],['ready','Disponibili per il piano'],['review','In revisione'],['no-cover','Senza copertina'],['no-steps','Senza foto passaggi'],['partial','Galleria parziale']].map(([v,label])=>`<option value="${v}" ${recipeSearchFilter===v?'selected':''}>${label}</option>`).join('')}</select><div id="recipeSearchResults" aria-live="polite"></div>`);
  renderRecipeSearchResults();document.getElementById('recipeCatalogQuery')?.focus();
@@ -446,10 +472,9 @@ function renderRecipeSearchResults(){
  const target=document.getElementById('recipeSearchResults');if(!target)return;
  if(catalogLoading){target.innerHTML='<p class="hint">Caricamento catalogo…</p>';return}
  if(catalogError){target.innerHTML='<p class="hint">Catalogo non disponibile.</p>';return}
- const q=normalizeRecipeQuery(recipeSearchQuery);
- const matches=catalogBrowse.filter(r=>{
+ const found=searchRecipes(catalogBrowse,recipeSearchQuery);
+ const matches=found.items.filter(r=>{
   const d=recipeDetailData(r),groups=d?.stepImages||[],photos=groups.filter(g=>Array.isArray(g)&&g.length).length;
-  if(q&&!normalizeRecipeQuery(r.name).includes(q)&&!String(r.id).includes(q))return false;
   if(recipeSearchFilter==='ready')return !r.review;
   if(recipeSearchFilter==='review')return r.review;
   if(recipeSearchFilter==='no-cover')return !d?.image;
@@ -457,7 +482,7 @@ function renderRecipeSearchResults(){
   if(recipeSearchFilter==='partial')return photos>0&&photos<(d?.steps?.length||0);
   return true;
  });
- target.innerHTML=`<p class="hint">${matches.length} ${matches.length===1?'ricetta trovata':'ricette trovate'}${matches.length>60?' · Affina la ricerca per vedere le altre':''}</p>
+ target.innerHTML=`<p class="hint">${!found.exact&&matches.length?'Nessuna ricetta contiene tutte le parole: ecco le più simili · ':''}${matches.length} ${matches.length===1?'ricetta trovata':'ricette trovate'}${matches.length>60?' · Affina la ricerca per vedere le altre':''}</p>
  <div class="catalog-results">${matches.slice(0,60).map(r=>{
   const d=recipeDetailData(r),n=(d?.stepImages||[]).filter(g=>Array.isArray(g)&&g.length).length;
   const condition=d?.photoAbsent?'Fonte senza foto verificata':`${n}/${d?.steps?.length||0} passaggi con foto`;

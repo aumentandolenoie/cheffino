@@ -1,0 +1,43 @@
+name: "Cheffino 05 - Copertine segnaposto"
+# Riconosce le copertine con il logo del sito al posto della foto del piatto e,
+# con «applica», le sostituisce con la foto dichiarata dalla pagina della ricetta.
+on:
+  workflow_dispatch:
+    inputs:
+      applica:
+        description: 'Sostituisci le copertine segnaposto'
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: cheffino-catalogo
+  cancel-in-progress: false
+jobs:
+  copertine:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Controllo copertine
+        run: python controlla_copertine.py --tutte --report /tmp/copertine.json ${{ inputs.applica && '--apply' || '' }}
+      - name: Salva
+        if: inputs.applica
+        run: |
+          if git diff --quiet -- data; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/catalogo.json data/catalogo_pubblicato.json data/copertine_segnaposto.json
+          git commit -m 'Catalogo: copertine segnaposto sostituite con la foto del piatto'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        continue-on-error: true
+        with:
+          name: copertine
+          path: /tmp/copertine.json
+          retention-days: 5

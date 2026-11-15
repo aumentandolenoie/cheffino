@@ -113,9 +113,20 @@
 }
 /* Gallerie fotografiche dei passaggi, solo se abbinate con certezza */
 .catalog-results{display:grid;gap:9px;max-height:49vh;overflow:auto;margin-top:10px}.catalog-result{display:flex;align-items:center;gap:12px;width:100%;text-align:left;background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:13px;padding:9px}.catalog-result:hover{border-color:var(--green)}.catalog-photo{display:grid;place-items:center;flex:none;width:70px;height:62px;background:var(--surface2);border-radius:9px;overflow:hidden;font-size:27px}.catalog-photo img{width:100%;height:100%;object-fit:cover}.catalog-copy{flex:1;min-width:0}.catalog-copy strong{display:block;overflow-wrap:anywhere;font-size:14px}.catalog-copy small{display:block;color:var(--muted);font-size:12px;margin-top:5px}@media(max-width:510px){.topright .search-trigger span,.topright .settings-trigger span{display:none}.topright .btn{padding:9px 12px}}.detailsteps li{margin-bottom:18px}
-.step-photo-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;margin:12px 0 16px}
-.step-photo-grid img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:11px;background:var(--surface2);border:1px solid var(--line)}
-@media(max-width:430px){.step-photo-grid{gap:5px}.step-photo-grid img{border-radius:8px}}
+.step-photos{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;margin:12px 0 16px;padding-bottom:6px;-webkit-overflow-scrolling:touch}
+.step-shot{position:relative;flex:0 0 min(86%,420px);scroll-snap-align:start;padding:0;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:var(--surface2) no-repeat;aspect-ratio:4/3;cursor:zoom-in}
+.step-shot img{display:block;width:100%;height:100%;object-fit:cover}
+.step-shot .shot-n,.pv-caption{position:absolute;background:rgba(0,0,0,.6);color:#fff;font-size:12px;border-radius:999px;padding:3px 9px}
+.step-shot .shot-n{left:8px;bottom:8px}
+.photoviewer{position:fixed;inset:0;z-index:1000;background:rgba(0,0,0,.92);display:none;align-items:center;justify-content:center}
+.photoviewer.open{display:flex}
+.pv-img{max-width:96vw;max-height:84vh;object-fit:contain;border-radius:8px}
+.pv-strip{width:min(96vw,calc(84vh * 220 / 170));border-radius:8px;background-repeat:no-repeat}
+.pv-close,.pv-nav{position:absolute;border:0;background:rgba(255,255,255,.16);color:#fff;border-radius:999px;cursor:pointer}
+.pv-close{top:14px;right:14px;width:42px;height:42px;font-size:20px}
+.pv-nav{top:50%;transform:translateY(-50%);width:46px;height:46px;font-size:30px;line-height:1}
+.pv-prev{left:10px}.pv-next{right:10px}
+.pv-caption{bottom:18px;left:50%;transform:translateX(-50%);font-size:13px}
 </style></head>
 <body><div class="app" id="app"><header class="topbar"><div class="brand"><div class="logo">👨‍🍳</div>Cheffino</div><div class="topright"><button class="btn search-trigger" onclick="openRecipeSearch()" aria-label="Cerca ricette">⌕ <span>Cerca ricette</span></button><button class="btn settings-trigger" onclick="openSettings()" aria-label="Preferenze">⚙ <span>Preferenze</span></button></div></header><main class="wrap" id="main"></main></div><div id="modalRoot"></div><input id="cheffinoBackupInput" type="file" accept="application/json,.json" style="display:none" onchange="importCheffinoBackup(this)">
 <script>
@@ -315,6 +326,48 @@ function replaceRecipe(day,meal){
 function regenerateAll(){state.planGeneration=(state.planGeneration||0)+1;state.planSeed=newSeed();generateWeeklyPlan();render()}
 // Esigenze alimentari compatibili, dagli ingredienti della fonte (calcolo del server).
 // Unità che la fonte non indica e che sono state dedotte (sempre dichiarato).
+// Foto dei passaggi. GialloZafferano usa due formati: foto singole (600x450) e,
+// nelle ricette più vecchie, «strip» da 660x170 con tre scatti affiancati. Le strip
+// vengono divise nei singoli scatti (ritaglio CSS, nessuna copia dell'immagine),
+// mostrate in un carosello a tutta larghezza e ingrandibili a schermo intero.
+let photoViewer={name:'',shots:[],current:0};
+function stepShots(urls){
+ const out=[];
+ urls.forEach(url=>{
+  const m=String(url).match(/strip[_-]?(\d{1,3})-(\d{1,3})\.(?:jpe?g|png|webp)(?:\?|$)/i);
+  const parts=m?Math.min(3,Math.max(1,Number(m[2])-Number(m[1])+1)):1;
+  for(let k=0;k<parts;k++)out.push({url,part:k,parts,n:m?Number(m[1])+k:out.length+1});
+ });
+ return out;
+}
+function shotStyle(t){
+ if(t.parts<=1)return '';
+ const pos=t.parts>1?(t.part/(t.parts-1))*100:0;
+ // Ogni scatto della strip è 220x170: si mostra solo la sua porzione.
+ return `background-image:url('${safe(t.url)}');background-size:${t.parts*100}% 100%;background-position:${pos}% 0;aspect-ratio:220/170`;
+}
+function shotHtml(t,klass,label){
+ const inner=t.parts>1?'':`<img src="${safe(t.url)}" alt="${label}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.closest('button').remove()">`;
+ return `<button type="button" class="${klass}${t.parts>1?' strip':''}" style="${shotStyle(t)}" aria-label="${label}: ingrandisci" onclick="openPhoto(${t.index})">${inner}<span class="shot-n">${t.step}.${t.k}</span></button>`;
+}
+function openPhoto(index){
+ photoViewer.current=index;let box=document.getElementById('photoViewer');
+ if(!box){box=document.createElement('div');box.id='photoViewer';box.className='photoviewer';box.setAttribute('role','dialog');box.setAttribute('aria-modal','true');document.body.appendChild(box);
+  box.addEventListener('click',e=>{if(e.target===box)closePhoto()});
+  let x0=null;box.addEventListener('touchstart',e=>{x0=e.touches[0].clientX},{passive:true});
+  box.addEventListener('touchend',e=>{if(x0===null)return;const dx=e.changedTouches[0].clientX-x0;x0=null;if(Math.abs(dx)>40)stepPhoto(dx<0?1:-1)});
+  document.addEventListener('keydown',e=>{if(!document.getElementById('photoViewer')?.classList.contains('open'))return;if(e.key==='Escape')closePhoto();if(e.key==='ArrowRight')stepPhoto(1);if(e.key==='ArrowLeft')stepPhoto(-1)});}
+ const t=photoViewer.shots[index];if(!t)return;
+ const total=photoViewer.shots.length;
+ box.innerHTML=`<button class="pv-close" onclick="closePhoto()" aria-label="Chiudi">✕</button>
+  ${index>0?'<button class="pv-nav pv-prev" onclick="stepPhoto(-1)" aria-label="Foto precedente">‹</button>':''}
+  ${t.parts>1?`<div class="pv-strip" style="${shotStyle(t)}"></div>`:`<img class="pv-img" src="${safe(t.url)}" alt="${safe(photoViewer.name)} - passaggio ${t.step}" referrerpolicy="no-referrer">`}
+  ${index<total-1?'<button class="pv-nav pv-next" onclick="stepPhoto(1)" aria-label="Foto successiva">›</button>':''}
+  <div class="pv-caption">Passaggio ${t.step}.${t.k} · ${index+1} di ${total}</div>`;
+ box.classList.add('open');
+}
+function stepPhoto(delta){const next=photoViewer.current+delta;if(next>=0&&next<photoViewer.shots.length)openPhoto(next)}
+function closePhoto(){document.getElementById('photoViewer')?.classList.remove('open')}
 function deducedNote(d){
  if(!d||!d.deduced||!d.deduced.length)return '';
  const unit=u=>u==='pezzi'?'':' '+u;
@@ -330,10 +383,11 @@ function dietBadges(d){
 function showRecipe(id,fromSearch=false){const r=getRecipe(id);if(!r)return;const d=recipeDetailData(r),people=peopleCount();
  const metric=(title,val)=>`<div class="detailmetric"><span>${title}</span><b>${val}</b></div>`;
  const mac=(klass,title,key)=>`<div class="detailmacro ${klass}"><span>${title}</span><b>${typeof d?.[key]==='number'?d[key].toLocaleString('it-IT')+' g':'n.d.'}</b></div>`;
+ photoViewer={name:r.name,shots:[]};
  const steps=d?.steps?.length?`<ol class="detailsteps">${d.steps.map((x,i)=>{
    const images=Array.isArray(d.stepImages?.[i])?[...new Set(d.stepImages[i])]:[];
-   return `<li><div>${safe(x)}</div>${images.length?`<div class="step-photo-grid">${images.map((url,j)=>
-     `<img src="${safe(url)}" alt="${safe(r.name)} - foto passaggio ${i+1}.${j+1}" loading="lazy" decoding="async" referrerpolicy="no-referrer" style="aspect-ratio:auto;object-fit:contain;height:auto" onerror="this.remove()">`).join('')}</div>`:''}</li>`;
+   const shots=stepShots(images).map((t,j)=>({...t,step:i+1,k:j+1,index:photoViewer.shots.push({...t,step:i+1,k:j+1})-1}));
+   return `<li><div>${safe(x)}</div>${shots.length?`<div class="step-photos">${shots.map(t=>shotHtml(t,'step-shot',`${safe(r.name)} - passaggio ${i+1}, foto ${t.k}`)).join('')}</div>`:''}</li>`;
  }).join('')}</ol>`:'<p class="hint">Procedimento non ancora verificato per questa ricetta. Nessun passaggio viene inventato.</p>';
 
  modal(`<div class="modalhead"><h2 style="margin:0">${safe(r.name)}</h2><button class="close" onclick="${fromSearch?'openRecipeSearch()':'closeModal()'}">${fromSearch?'← Ricerca':'✕'}</button></div>${r.review?'<div class="notice">Scheda in revisione: informazioni e immagini potrebbero essere incomplete. Non entra nel piano settimanale.</div>':''}
@@ -449,7 +503,9 @@ async function caricaCatalogoServer(){
    sourcedDetails[entry.id]={source:entry.source,url:entry.url,
     servings:entry.servings||null,minutes:entry.time??null,kcal:entry.kcal??null,
     cost:entry.cost??null,protein:entry.protein??null,carbs:entry.carbs??null,fats:entry.fats??null,
-    image:entry.image_url||null,ingredients,steps,stepImages:entry.step_images_display||entry.step_images||[],
+    image:(entry.copertina_verifica?.esito==='segnaposto_senza_alternativa'
+       ?((entry.step_images_display||entry.step_images||[]).flat().find(u=>!/strip/i.test(u))||null)
+       :entry.image_url)||null,ingredients,steps,stepImages:entry.step_images_display||entry.step_images||[],
     photoAbsent:entry.step_photo_source_evidence?.status==='verified_absent',
     diets:entry.diete?.compatibilita||{},dietReasons:entry.diete?.motivi||{},deduced:entry.quantita_dedotte||[]};
    if(!review)recipeData.push(item);

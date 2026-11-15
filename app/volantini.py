@@ -126,7 +126,7 @@ def estrai_aldi(html, base, oggi):
         if not m or 'offerte' not in slug:
             continue
         dal = _anno_vicino(int(m.group(1)), MESI[m.group(2)], oggi)
-        out.append({'url': url, 'titolo': 'Volantino ALDI dal ' + dal.strftime('%d/%m'), 'dal': dal, 'al': None})
+        out.append({'url': url, 'titolo': 'Offerte ALDI della settimana', 'dal': dal, 'al': None})
     return out
 
 
@@ -161,17 +161,15 @@ def estrai_md(html, base, oggi):
 
 
 def estrai_lidl(html, base, oggi):
+    """I volantini settimanali Lidl si sfogliano dopo aver scelto il punto vendita
+    nella pagina ufficiale: il link resta la pagina, con le date del volantino in corso."""
     out = []
-    for m in re.finditer(r'flyer__name[^>]*>(.*?)</div>', html, re.S):
+    for m in re.finditer(r'flyer__name[^>]*>(.*?)</div>\s*(?:<span class="flyer__title">(.*?)</span>)?', html, re.S):
         dal, al = periodo(m.group(1), oggi)
         if not dal:
             continue
-        prima = html[max(0, m.start() - 4000):m.start()]
-        hrefs = re.findall(r'href=["\']([^"\']+)["\']', prima)
-        url = urljoin(base, _html.unescape(hrefs[-1])) if hrefs else base
-        if not _ammesso('Lidl', url):
-            url = base
-        out.append({'url': url, 'titolo': _testo(m.group(1))[:90] or 'Volantino Lidl', 'dal': dal, 'al': al})
+        titolo = _testo(m.group(2) or '') or 'Volantino settimanale'
+        out.append({'url': base, 'titolo': titolo, 'dal': dal, 'al': al, 'scegli_negozio': True})
     return out
 
 
@@ -218,6 +216,8 @@ def _serializza(c, oggi):
     out = {'url': c['url'], 'titolo': c.get('titolo') or '',
            'valido_dal': c['dal'].isoformat() if c.get('dal') else None,
            'valido_al': c['al'].isoformat() if c.get('al') else None}
+    if c.get('scegli_negozio'):
+        out['scegli_negozio'] = True
     if c.get('senza_date'):
         # Link letto oggi dalla home ufficiale: vale finché i controlli lo confermano.
         out['verificato_il'] = oggi.isoformat()

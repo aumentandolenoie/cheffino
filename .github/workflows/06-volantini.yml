@@ -1,0 +1,35 @@
+name: "Pepito 06 - Volantini"
+# Ogni giorno: legge le pagine ufficiali dei supermercati e aggiorna
+# data/volantini.json con il volantino in corso (e il prossimo, se già pubblicato).
+on:
+  schedule:
+    - cron: '17 4,13 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: pepito-volantini
+  cancel-in-progress: false
+jobs:
+  volantini:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cerca i volantini in corso
+        run: |
+          TZ=Europe/Rome python aggiorna_volantini.py --oggi "$(TZ=Europe/Rome date +%F)"
+          python -m json.tool data/volantini.json > /dev/null
+      - name: Salva
+        run: |
+          if git diff --quiet -- data/volantini.json && git ls-files --error-unmatch data/volantini.json >/dev/null 2>&1; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/volantini.json
+          git commit -m 'Volantini: aggiornamento dai siti ufficiali'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

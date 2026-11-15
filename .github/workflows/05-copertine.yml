@@ -24,23 +24,51 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Misure di alcune foto dei passaggi (diagnostica)
+      - name: Diagnostica immagini (temporanea)
         if: github.event_name == 'push'
         run: |
+          mkdir -p /tmp/diag
           python - <<'PY'
-          import json
+          import json, re
+          from urllib.request import Request, urlopen
+          from app.rete import fetch_text, UA
           from controlla_copertine import fetch_image
           data = json.load(open('data/catalogo_pubblicato.json'))
-          seen = 0
-          for kind in ('strip', '_'):
-              for r in data:
-                  urls = [u for g in r.get('step_images') or [] for u in g if (kind in u if kind == 'strip' else 'strip' not in u)]
-                  if urls and seen < 6:
-                      try: print(kind, fetch_image(urls[0]), urls[0])
-                      except Exception as e: print('errore', e)
-                      seen += 1
+          def save(url, name):
+              req = Request(url, headers={'User-Agent': UA, 'Accept': 'image/*'})
+              open('/tmp/diag/' + name, 'wb').write(urlopen(req, timeout=20).read())
+          farro = next(r for r in data if r['name'].startswith('Insalata di farro con verdure'))
+          html = fetch_text(farro['url'])
+          urls = sorted(set(re.findall(r'https?://[^"\' )]+?\.(?:jpe?g|png|webp)', html)))
+          print('IMMAGINI PAGINA FARRO:'); [print('  ', u) for u in urls if '3981' in u or 'foto' in u or 'og' in u][:60]
+          for m in re.finditer(r'<meta[^>]+(?:og:image|twitter:image)[^>]*>', html): print('META', m.group(0))
+          save(farro['image_url'], 'farro_cover.jpg')
+          hd = [r for r in data if 'foto_hd' in r['image_url']][:4]
+          other = [r for r in data if 'foto_hd' not in r['image_url']][:2]
+          for i, r in enumerate(hd + other):
+              save(r['image_url'], f'cover_{i}_{"hd" if "foto_hd" in r["image_url"] else "new"}.jpg'); print('COVER', i, r['name'], r['image_url'], fetch_image(r['image_url']))
+          for r in data:
+              urls = [u for g in r.get('step_images') or [] for u in g if 'strip' not in u]
+              if urls:
+                  print('NUMERATA', fetch_image(urls[0]), urls[0]); save(urls[0], 'step_numerata.jpg'); break
+          strip = [u for g in farro['step_images'] for u in g][0]
+          save(strip, 'step_strip.jpg')
+          # varianti singole possibili per le strip
+          base = strip.rsplit('_strip', 1)[0]
+          for n in (1, 2):
+              for cand in (f'{base}_{n}.jpg', f'{base}{n}.jpg'):
+                  try: print('VARIANTE', cand, fetch_image(cand))
+                  except Exception as e: print('VARIANTE NO', cand, e)
           PY
+      - uses: actions/upload-artifact@v4
+        if: github.event_name == 'push'
+        continue-on-error: true
+        with:
+          name: diagnostica-immagini
+          path: /tmp/diag
+          retention-days: 2
       - name: Controllo copertine
+        if: github.event_name != 'push'
         run: python controlla_copertine.py --report /tmp/copertine.json ${{ inputs.applica && '--apply' || '' }}
       - name: Salva
         if: inputs.applica

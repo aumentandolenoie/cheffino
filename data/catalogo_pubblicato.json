@@ -10589,7 +10589,7 @@
       "Infine condite con l’olio al basilico e mescolate bene, poi aggiustate di sale se necessario. La vostra insalata di patate, mozzarelline e pomodorini è pronta per essere servita!"
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:32.301434+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:49.297180+00:00",
     "source_category": "Insalate",
     "source_cook_minutes": 25,
     "source_sync_version": 1,
@@ -10599,7 +10599,21 @@
       "precedente": "https://www.giallozafferano.it/images/277-27727/Insalata-di-patate-mozzarelline-e-pomodorini_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-patate-mozzarelline-e-pomodorini.html",
+      "source_hash": "b4cf8317d5735e2e9da30fc3e5d3d03cced9c29bdcdcd03213af57a79dec48bd",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:49.297165+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 252553634773624,
@@ -11474,7 +11488,7 @@
       "cipolle e pomodorini, zucchine e mais. Regolate di sale e condite con un filo d'olio, spezzettate qualche fogliolina di basilico e date una mescolata delicata. Infine aggiungete l'emulsione di senape e olio e mescolate ancora delicatamente. Ecco pronta la vostra insalata di patate e zucchine, guarnite con un po' di basilico e buon appetito."
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:29.626683+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:46.661123+00:00",
     "source_category": "Insalate",
     "source_cost": "Basso",
     "source_cook_minutes": 10,
@@ -11485,7 +11499,21 @@
       "precedente": "https://www.giallozafferano.it/images/222-22295/Insalata-di-patate-e-zucchine_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-patate-e-zucchine.html",
+      "source_hash": "df406175af7fca41a6937d575c81acfbcb2594db85033b1dfc962406879c3cf8",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:46.661105+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 151568230992457,
@@ -12772,7 +12800,7 @@
       "Unite anche la feta e i pinoli tostati. Infine condite con il dressing. Mescolate delicatamente e servite la vostra insalata di patate con cicoria e feta!"
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:20.933447+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:44.022031+00:00",
     "source_category": "Insalate",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
@@ -12782,7 +12810,21 @@
       "precedente": "https://www.giallozafferano.it/images/272-27280/Insalata-di-patate-con-cicoria-e-feta_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-patate-con-cicoria-e-feta.html",
+      "source_hash": "a2d8df8a121a13889d9397f08da4701323c19f579528fc316b81d779a3217084",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:44.022011+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 135167665711416,
@@ -14064,7 +14106,7 @@
       "Infine unite l’insalata di cavolo all’orzo e incorporate per ultime le arachidi. Mescolate e servite la vostra saporita insalata di orzo e cavolo!"
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:14.659717+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:41.386096+00:00",
     "source_category": "Primi piatti",
     "source_cost": "Medio",
     "source_cook_minutes": 20,
@@ -14075,7 +14117,21 @@
       "precedente": "https://www.giallozafferano.it/images/203-20355/Insalata-di-orzo-e-cavolo-riccio_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-orzo-e-cavolo-riccio.html",
+      "source_hash": "53f16ba44f1a7371ab44418a8a15b3a45a242c707842fa5082e3d255c9642883",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:41.386082+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 197180292634881,
@@ -15221,7 +15277,7 @@
       "Unite anche i cubetti di melone, poi condite con sale, aceto e un goccio d’olio. Mescolate bene e impiattate la vostra insalata di melone guarnendo, a piacere, con un ciuffetto di menta fresca."
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:09.104086+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:38.291912+00:00",
     "source_category": "Insalate",
     "source_cost": "Basso",
     "source_cook_minutes": 0,
@@ -15232,7 +15288,21 @@
       "precedente": "https://www.giallozafferano.it/images/213-21349/Insalata-di-melone_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-melone.html",
+      "source_hash": "9c1a715fb217de071735347c53d351170d83fd0bf2126080e20efc981c4b192c",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:38.291896+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 14817150392762,
@@ -15352,7 +15422,7 @@
       "Aggiungete per ultime le mandorle, insaporite con il miele millefiori e servite subito l’insalata di mele e spinacini."
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:06.341468+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:35.653488+00:00",
     "source_category": "Insalate",
     "source_cost": "Basso",
     "source_cook_minutes": 0,
@@ -15363,7 +15433,21 @@
       "precedente": "https://www.giallozafferano.it/images/221-22112/Insalata-di-mele-e-spinacini_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-mele-e-spinacini.html",
+      "source_hash": "4b71956dc40488bd6ed2368e6cf77843b8f0c31ab28e6cb129e369b89702b3d5",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:35.653472+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 179110775327344,
@@ -16106,7 +16190,7 @@
       "validation_version": 1
     },
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:00.848547+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:32.972898+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/223/22304/22304_insalata_strip_1-3.jpg"
@@ -16153,7 +16237,21 @@
       "precedente": "https://www.giallozafferano.it/images/223-22304/Insalata-di-lenticchie-e-quartirolo_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-lenticchie-e-quartirolo.html",
+      "source_hash": "f2c2591cf57ca2b5354fff83052b893b5f9ae6b6cd05e17b5140afc4bc5c8038",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:32.972882+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 263452970952348,
@@ -19042,7 +19140,7 @@
       "Aromatizzate anche con la scorza grattugiata del limone 13 , poi regolate di sale e pepe. Mescolate bene il tutto 14 e servite la vostra insalata di farro con zucchine grigliate e mandorle 15 !"
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:32:54.582797+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:30.335975+00:00",
     "source_category": "Primi piatti",
     "source_cost": "Basso",
     "source_cook_minutes": 15,
@@ -19053,7 +19151,21 @@
       "precedente": "https://www.giallozafferano.it/images/365-36534/Insalata-di-farro-con-zucchine-grigliate-e-mandorle_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-farro-con-zucchine-grigliate-e-mandorle.html",
+      "source_hash": "3957c678e67f8dd21194f987be6f31a1682ec2643e89f48560dda9e0029c8b84",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:30.335957+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 173994384629713,
@@ -21013,7 +21125,7 @@
       "L'insalata di farro è pronta: impiattatela completando con 3 filetti di alici e foglioline di basilico fresco. Gustate subito la vostra insalata di farro con primosale, more e alici, le Dolci del Mar Cantabrico!"
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:32:51.462730+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:27.144202+00:00",
     "source_category": "Primi piatti",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
@@ -21023,7 +21135,21 @@
       "precedente": "https://www.giallozafferano.it/images/301-30183/Insalata-di-farro-con-primosale-more-e-alici_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-farro-con-primosale-more-e-alici.html",
+      "source_hash": "4ad14877afdd7c67244f0b7e603fff5b0e0234874b27a174cde8daac9cdaead1",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:27.144186+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 85911426444673,
@@ -21613,7 +21739,7 @@
       "Unite i pomodori secchi tagliati a striscioline e il primosale. Guarnite con gli anacardi leggermente tritati. L'insalata di farro è pronta per essere gustata."
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:32:48.242245+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:24.517250+00:00",
     "source_category": "Piatti Unici",
     "source_cost": "Basso",
     "source_cook_minutes": 12,
@@ -21624,7 +21750,21 @@
       "precedente": "https://www.giallozafferano.it/images/267-26720/Insalata-di-farro-con-pesto-di-erbe-e-primosale_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-farro-con-pesto-di-erbe-e-primosale.html",
+      "source_hash": "aeb0c7f243837cd63831798a6834478b7a0138d47e8490afa5aa041306c7a10c",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:24.517233+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 233479719935391,
@@ -47802,7 +47942,7 @@
       "Versate anche un mestolo di acqua di cottura, o quanto basta per stemperare e amalgamare il condimento. La pasta con crema di patate e salsiccia è pronta da gustare!"
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:54.539995+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:57.377231+00:00",
     "quantita_dedotte": [
       {
         "testo_fonte": "Salsiccia 200",
@@ -47824,7 +47964,21 @@
       "precedente": "https://www.giallozafferano.it/images/268-26878/Pasta-con-crema-di-patate-e-salsiccia_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-patate-e-salsiccia.html",
+      "source_hash": "299da21723916cf100e054c77aa1171834341003bc7f5b06da3744e37eb90c3f",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:57.377216+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 251511937360496,
@@ -51740,7 +51894,7 @@
       "Scolate la pasta al dente direttamente in casseruola. Mescolate per bene mantecando qualche istante e servite la vostra pasta con crema di ceci e rucola ben calda, se preferite con un filo d’olio a crudo e una grattata di pepe nero a piacere."
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:49.017109+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:54.607699+00:00",
     "source_category": "Primi piatti",
     "source_cost": "Basso",
     "source_cook_minutes": 10,
@@ -51751,7 +51905,21 @@
       "precedente": "https://www.giallozafferano.it/images/ricette/194/19401/foto_hd/hd650x433_wm.jpg",
       "motivo": "foto_diversa_dichiarata_dalla_fonte",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-ceci-e-rucola.html",
+      "source_hash": "20865b19a119f1ad3aff7bc290e08596062920390636a15c03fc4926d0838a10",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:54.607680+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 196918120188140,
@@ -51931,7 +52099,7 @@
       "Profumate con la scorza di limone e, se necessario, unite qualche cucchiaio di acqua di cottura della pasta per rendere il condimento più cremoso. Fate saltare i rigatoni fino a ottenere un condimento avvolgente e ben amalgamato. Distribuite la pasta con crema di ceci e peperoni nei piatti e servite subito, completando a piacere con erba cipollina fresca tritata."
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:33:46.323014+00:00",
+    "step_images_checked_at": "2026-11-15T20:59:51.921020+00:00",
     "quantita_dedotte": [
       {
         "testo_fonte": "Scorza di limone 1",
@@ -51961,7 +52129,21 @@
       "precedente": "https://www.giallozafferano.it/images/363-36315/Pasta-con-crema-di-ceci-e-peperoni_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T18:32:25.922116+00:00"
-    }
+    },
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-crema-di-ceci-e-peperoni.html",
+      "source_hash": "00133e9b0bd26216d5737e3b8fee11425c9cc38821b08295365f30f2462c6e8f",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T20:59:51.921006+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 279137066215984,

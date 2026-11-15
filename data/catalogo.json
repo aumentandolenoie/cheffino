@@ -73086,7 +73086,7 @@
     "name": "Pasta con crema di cavolo nero, guanciale e pecorino",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 45,
     "ingredients_display": [
       "Rigatoni 320 g",
@@ -73175,7 +73175,7 @@
       "Aggiungete una parte del guanciale 19 e mescolate per amalgamare gli ingredienti 20 . Se la pasta dovesse risultare troppo secca, potete aggiungere un po' dell'acqua di cottura. Impiattate 21 .",
       "Completate con una spolverata di pecorino grattugiato 22 e con il resto del guanciale croccante 23 . La pasta con crema di cavolo nero, guanciale e pecorino è pronta per essere servita 24 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "source_category": "Primi piatti",
     "source_cost": "Basso",
     "imported_at": "2026-11-15T20:58:03.643361+00:00",
@@ -73196,6 +73196,17 @@
       "precedente": "https://www.giallozafferano.it/images/295-29599/Pasta-con-crema-di-cavolo-nero-guanciale-e-pecorino_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:00:23.346750+00:00"
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -73203,7 +73214,7 @@
     "name": "Baccalà fritto alla romana (in pastella)",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 30,
     "ingredients_display": [
       "Baccalà dissalato 465 g",
@@ -73260,7 +73271,7 @@
       "Mescolate con la frusta 7 fino ad ottenere una pastella densa e coprente. Scaldate l’olio di semi in una pentola capiente e dal doppio fondo; quando avrà raggiunto la temperatura di 190° sarà arrivato il momento di friggere. Immergete 2-3 pezzi di baccalà nella pastella 8 e subito dopo tuffateli nell’olio 9 .",
       "Friggete per circa 8 minuti girando i pezzi di tanto in tanto e controllando spesso la temperatura dell'olio. Una volta cotti, scolate su carta assorbente 11 e insaporite con un pizzico di sale. Il vostro baccalà fritto alla romana (in pastella) è pronto per essere gustato 12 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "source_category": "Secondi piatti",
     "source_cost": "Basso",
     "imported_at": "2026-11-15T20:58:06.313498+00:00",
@@ -73281,6 +73292,17 @@
       "precedente": "https://www.giallozafferano.it/images/229-22913/Baccala-fritto-alla-romana-in-pastella_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:00:23.346750+00:00"
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -73416,6 +73438,24 @@
       "precedente": "https://www.giallozafferano.it/images/ricette/154/15472/foto_hd/hd650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:00:23.346750+00:00"
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Lievitato",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
     }
   },
   {
@@ -73423,7 +73463,7 @@
     "name": "Pita con felafel",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 130,
     "ingredients_display": [
       "Farina 0 500 g",
@@ -73554,7 +73594,7 @@
       "Ora potete farcire le vostre pite, per esempio con pomodori 28 , cavolo bianco 29 e cavolo viola. Adagiate sul cavolo i felafel 30 .",
       "Completate con yogurt bianco 31 e richiudete la pita 32 . La vostra pita con felafel è pronta per essere gustata 33 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "source_category": "Piatti Unici",
     "source_cost": "Medio",
     "imported_at": "2026-11-15T20:58:11.810604+00:00",
@@ -73575,6 +73615,18 @@
       "precedente": "https://www.giallozafferano.it/images/306-30631/Pita-con-felafel_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:00:23.346750+00:00"
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -73582,7 +73634,7 @@
     "name": "Pasta con crema di burrata e salmone affumicato",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 20,
     "ingredients_display": [
       "Cavatelli 320 g",
@@ -73653,7 +73705,7 @@
       "Aggiungete delle foglioline di basilico 10 e mescolate 11 . Unite poi anche il salmone affumicato 12 .",
       "Mescolate ancora 13 e saltate la pasta a fuoco vivace per qualche minuto sino ad ottenere la giusta cremosità 14 . Trasferite nei piatti e servite 15 ."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "source_category": "Primi piatti",
     "source_cost": "Basso",
     "imported_at": "2026-11-15T20:58:14.464403+00:00",
@@ -73674,6 +73726,17 @@
       "precedente": "https://www.giallozafferano.it/images/236-23653/Pasta-con-crema-di-burrata-e-salmone-affumicato_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:00:23.346750+00:00"
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -73681,7 +73744,7 @@
     "name": "Baccalà confit su crema di ceci",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 50,
     "ingredients_display": [
       "Baccalà dissalato pulito 480 g",
@@ -73828,7 +73891,7 @@
       "Tagliate a listarelle il pomodoro secco 16 . Impiattate mettendo sul fondo del piatto di portata la crema di ceci, adagiate sulla superficie due pezzi di baccalà, aggiungete un cucchiaio di ceci croccanti 17 e i pomodori secchi 18 .",
       "Completate con maggiorana fresca 19 e un cucchiaio di olio 20 . Il baccalà confit su crema di ceci è pronto per essere gustato 21 ."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "source_category": "Secondi piatti",
     "source_cost": "Medio",
     "imported_at": "2026-11-15T20:58:17.129661+00:00",
@@ -73849,6 +73912,17 @@
       "precedente": "https://www.giallozafferano.it/images/293-29302/Baccala-confit-su-crema-di-ceci_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:00:23.346750+00:00"
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -73984,6 +74058,23 @@
       "precedente": "https://www.giallozafferano.it/images/182-18293/Focaccia-di-farro_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:00:23.346750+00:00"
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Lievitato",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "esclusa_dal_piano": {
+      "tipo": "Lievitato",
+      "motivo": "categoria fonte: Lievitati"
     }
   },
   {
@@ -73991,7 +74082,7 @@
     "name": "Pita con agnello",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Piatto unico",
     "time": 200,
     "ingredients_display": [
       "Farina Manitoba 125 g",
@@ -74160,7 +74251,7 @@
       "Quando le patate saranno dorate, spegnete il fuoco e salatele 22 . La farcia è pronta, prendete una pita, farcitela con ¼ di dose di ciascun ingrediente iniziando con le melanzane 23 e gli straccetti di agnello 24 .",
       "Ora aggiungete dei pomodori tagliati a spicchi grossolani e insaporite con la salsa allo yogurt 25 . Richiudete la pita 26 e gustatela subito 27 ."
     ],
-    "needs_review": true,
+    "needs_review": false,
     "source_category": "Piatti Unici",
     "source_cost": "Medio",
     "imported_at": "2026-11-15T20:58:22.952045+00:00",
@@ -74181,6 +74272,18 @@
       "precedente": "https://www.giallozafferano.it/images/207-20781/Pita-con-agnello_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:00:23.346750+00:00"
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -74188,7 +74291,7 @@
     "name": "Pasta con crema di broccoli, spinacini e guanciale croccante",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Primo",
     "time": 40,
     "ingredients_display": [
       "Calamarata 320 g",
@@ -74257,7 +74360,7 @@
       "Mescolate a fuoco spento 16 , aiutandovi se necessario con poca acqua di cottura. Unite il guanciale croccante, tenendone un po’ da parte per l’impiattamento 17 , e il formaggio grattugiato 18 .",
       "Mantecate bene per amalgamare il tutto 19 . Impiattate e completate con il guanciale tenuto da parte 20 . La vostra pasta con crema di broccoli, spinacini e guanciale croccante è pronta 21 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "source_category": "Primi piatti",
     "source_cost": null,
     "imported_at": "2026-11-15T20:58:25.733408+00:00",
@@ -74278,6 +74381,17 @@
       "precedente": "https://www.giallozafferano.it/images/308-30829/Pasta-con-crema-di-broccoli-spinacini-e-guanciale-croccante_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:00:23.346750+00:00"
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   },
   {
@@ -74285,7 +74399,7 @@
     "name": "Baccalà con i ceci",
     "emoji": "🍽️",
     "style": "Da classificare",
-    "type": "Da classificare",
+    "type": "Secondo",
     "time": 45,
     "ingredients_display": [
       "Baccalà dissalato 540 g",
@@ -74388,7 +74502,7 @@
       "richiudete con il coperchio 13 e cuocete per altri 10 minuti a fuoco medio. A questo punto, prelevate circa 180 g di sughetto e trasferiteli in un contenitore alto e stretto 14 , dopodiché frullate con un frullatore a immersione 15",
       "e versate nuovamente la crema ottenuta nella casseruola 16 . Proseguite la cottura per altri 10 minuti a fuoco vivace, questa volta senza coperchio, smuovendo la casseruola di tanto in tanto 17 . Servite il vostro baccalà con i ceci ben caldo e guarnito con foglioline di timo fresco 18 !"
     ],
-    "needs_review": true,
+    "needs_review": false,
     "source_category": "Secondi piatti",
     "source_cost": "Basso",
     "imported_at": "2026-11-15T20:58:28.382045+00:00",
@@ -74409,6 +74523,17 @@
       "precedente": "https://www.giallozafferano.it/images/ricette/184/18481/foto_hd/hd650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:00:23.346750+00:00"
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
     }
   }
 ]

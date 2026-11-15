@@ -15,7 +15,7 @@ jobs:
   raccolta:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
         with:
@@ -28,13 +28,20 @@ jobs:
           python aggiorna_catalogo.py --limit 10 --delay 2.5
           python normalizza_catalogo.py
           python classifica_catalogo.py
+          # Validazione subito e foto dei passaggi per le nuove approvate:
+          # così sono pronte per la pubblicazione successiva (03, mer/ven)
+          # invece di aspettare un giro in più.
+          python valida_catalogo.py
+          python importa_foto_passaggi.py --published-only --limit 15 --delay 2.5
+          python normalizza_catalogo.py
+          python controlla_copertine.py --apply --limit 15 --delay 2
           python -m json.tool data/catalogo.json > /dev/null
       - name: Salva catalogo in lavorazione
         run: |
-          if git diff --quiet -- data/catalogo.json data/catalogo_pubblicato.json; then exit 0; fi
+          if git diff --quiet -- data/catalogo.json data/catalogo_pubblicato.json data/copertine_segnaposto.json; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/catalogo.json data/catalogo_pubblicato.json
+          git add data/catalogo.json data/catalogo_pubblicato.json data/copertine_segnaposto.json
           git commit -m 'Catalogo in lavorazione: nuove fonti'
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"

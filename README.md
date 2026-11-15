@@ -1,4 +1,4 @@
-# Cheffino — Catalogo collegato a Render
+# Pepito (ex Cheffino) — Catalogo collegato a Render
 
 Questa release collega davvero `/api/recipes` al piano settimanale e alle schede ricetta.
 Il catalogo `data/catalogo.json` è versionato su GitHub e sopravvive ai riavvii di Render Free.

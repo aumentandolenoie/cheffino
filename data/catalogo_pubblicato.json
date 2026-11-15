@@ -5526,7 +5526,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:36:08.403983+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:19.611764+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/221/22114/22114_crema_di_patate_e_lenticchie_al_curry_strip_1-3.jpg"
@@ -5557,7 +5557,21 @@
     "source_cost": "Basso",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:03:57.401207+00:00"
+    "source_synced_at": "2026-11-14T22:03:57.401207+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Crema-di-patate-e-lenticchie-al-curry.html",
+      "source_hash": "89a11e646250b54d3dc80074ebabf12d593af75289a703a1f2f40a39c1873517",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:19.611753+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 24853061215378,
@@ -5689,7 +5703,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:36:05.602894+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:16.770619+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/173/17336/17336_crema_di_lenticchie_strip_1-3.jpg"
@@ -5736,7 +5750,21 @@
     "source_cost": "Molto basso",
     "source_cook_minutes": 105,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:17.319009+00:00"
+    "source_synced_at": "2026-11-14T22:04:17.319009+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Crema-di-lenticchie.html",
+      "source_hash": "e50c848d2fab4777ea887ef3423295315e963cd08d340ef96204badb65a4aac9",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:16.770607+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 240182235946326,
@@ -10003,7 +10031,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:40.870350+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:13.906740+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/181/18142/18142_cosce_di_pollo_al_forno_con_mele_strip_1-3.jpg"
@@ -10059,7 +10087,21 @@
     "source_category": "Secondi piatti",
     "source_cook_minutes": 55,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:06:04.102979+00:00"
+    "source_synced_at": "2026-11-14T22:06:04.102979+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Cosce-di-pollo-al-forno-con-mele.html",
+      "source_hash": "920d0aa00633fdf339c138ab71bb948434a09fc450f4f168300fd9c425eed128",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:13.906729+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 193270235217577,
@@ -10922,7 +10964,7 @@
       "Adagiate le fettine di carne sopra le verdure, poi irrorate con la salsa chimichurri. Servite subito il vostro controfiletto di manzo con verdure e salsa chimichurri!"
     ],
     "images_import_version": 2,
-    "step_images_checked_at": "2026-10-10T14:29:03.832766+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:11.064341+00:00",
     "source_category": "Secondi piatti",
     "source_cost": "Medio",
     "source_cook_minutes": 40,
@@ -10938,7 +10980,21 @@
       }
     ],
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:43.504854+00:00"
+    "source_synced_at": "2026-11-14T22:09:43.504854+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Controfiletto-di-manzo-con-verdure-e-salsa-chimichurri.html",
+      "source_hash": "217597b055726adea7dc4f437121d9f32b4429c6cac11d9ae470d50586d7a36d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:11.064329+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 103839694009450,
@@ -13926,7 +13982,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:32.735334+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:08.171171+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/193/19385/19385_club_sandwich_uova_infrante_strip_1-3.jpg"
@@ -13977,7 +14033,21 @@
     "source_cost": "Medio",
     "source_cook_minutes": 15,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:03:33.821777+00:00"
+    "source_synced_at": "2026-11-14T22:03:33.821777+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Club-sandwich-con-uova-strapazzate.html",
+      "source_hash": "2cab5488bf84c56eb121ab7558c65103cd1854348cbd5735f9bfe9b23fcdc0f7",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:08.171159+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 126044537873849,
@@ -15157,7 +15227,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:27.297153+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:05.410166+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/197/19703/19703_insalata_di_legumotti_gamberi_e_speck_strip_1-3.jpg"
@@ -15203,7 +15273,21 @@
     "source_cost": "Medio",
     "source_cook_minutes": 15,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:24.783209+00:00"
+    "source_synced_at": "2026-11-14T22:05:24.783209+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Chicchi-di-farina-di-legumi-con-gamberi-e-speck.html",
+      "source_hash": "721ad1776e6f9a0b9f91c8d94374ffcd164bee7ce3ed66e83ec2889c4d87a4c7",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:05.410153+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 169565278644893,
@@ -17434,12 +17518,26 @@
       "Cospargetele con la salsa verde 20 e completate con le mandorle tostate. Il cavolfiore arrosto con mandorle e salsa verde è pronto per essere servito 21!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:16.518586+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:02.173447+00:00",
     "source_category": "Secondi piatti",
     "source_cost": "Basso",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:18:51.050242+00:00"
+    "source_synced_at": "2026-11-14T22:18:51.050242+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Cavolfiore-arrosto-con-mandorle-e-salsa-verde.html",
+      "source_hash": "1827968add980a963bcb3c129aa47d9fc3dedf0c20d3a4e05b536e6bd3c4b677",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:02.173435+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 238831868150699,
@@ -18917,7 +19015,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:13.793459+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:59.328787+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/208/20887/20887_casarecce4_strip_1-3.jpg"
@@ -18964,7 +19062,21 @@
     "source_cost": "Basso",
     "source_cook_minutes": 15,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:19.947488+00:00"
+    "source_synced_at": "2026-11-14T22:07:19.947488+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Casarecce-di-legumi-con-gamberi-spinaci-e-limone.html",
+      "source_hash": "1c380da059097864f546e0f119bda9f9f0b69a2cdecd576f5577a35ab8f56e71",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:59.328775+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 55564653546528,
@@ -19485,7 +19597,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:11.110056+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:56.550953+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/185/18581/18581_cartocci_di_vitello_e_verdure_strip_1-3.jpg"
@@ -19531,7 +19643,21 @@
     "source_cost": "Medio",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:01.506121+00:00"
+    "source_synced_at": "2026-11-14T22:09:01.506121+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Cartocci-di-vitello-e-verdure.html",
+      "source_hash": "0893ab3ada25e1d4cfa722f3c6184736bef3883faba8c67eed40997c6299852b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:56.550940+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 143872472707535,
@@ -20059,7 +20185,7 @@
       "validation_version": 1
     },
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:08.430809+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:53.720268+00:00",
     "step_images": [
       [
         "https://ricette.giallozafferano.it/images/ricette/150/15009/15009_carr_di_maiale_glasato_con_mele_strip_1-3.jpg"
@@ -20111,7 +20237,21 @@
     "source_cost": "Elevato",
     "source_cook_minutes": 120,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:36.792900+00:00"
+    "source_synced_at": "2026-11-14T22:04:36.792900+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Carre-di-maiale-glassato-con-mele.html",
+      "source_hash": "fb9598f84e123a4d8d169dc75f0e7b1a82447643a47c5f35f963b5d8ef6cc577",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:53.720256+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 206794073172916,
@@ -20660,7 +20800,7 @@
       "e trasferite qualche fetta nel piatto. Aggiungete i pomodori, la mozzarella e infine il tonno. Se le mozzarelline dovessero essere troppo grandi potete dividerle a metà. Guarnite con un po’ di zeste di limone e servite subito 21 ."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:11:05.714081+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:50.868319+00:00",
     "quantita_dedotte": [
       {
         "testo_fonte": "Scorza di limone ½",
@@ -20676,7 +20816,21 @@
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:03.245684+00:00"
+    "source_synced_at": "2026-11-14T22:04:03.245684+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Carpaccio-di-zucchine-con-tonno.html",
+      "source_hash": "66192d0f4e5e770f68fce82ef44f032d17a2073d73ab689f323649a269b308da",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:50.868305+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 161352097288081,
@@ -22189,7 +22343,7 @@
       "prima di impiattare: versate su un piatto da portata il misto di legumi e lo spinacino, a zucca, completate con i gherigli di noce e delle foglioline di timo fresco. La vostra insalata di fagioli, misti e zucca è pronta per essere gustata!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:54:00.249678+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:59.980942+00:00",
     "quantita_dedotte": [
       {
         "testo_fonte": "Succo di limone ½",
@@ -22205,7 +22359,21 @@
     "source_cost": "Basso",
     "source_cook_minutes": 120,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:14.596728+00:00"
+    "source_synced_at": "2026-11-14T22:04:14.596728+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-fagioli-misti-e-zucca.html",
+      "source_hash": "10b11b8e3fdceb4d0abd1733fa83a85d99bcb57976c050f4b2a5801258c5da0d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:59.980929+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 210296102622100,
@@ -23025,12 +23193,26 @@
       "Condite con la salsa e completate con le scaglie di formaggio. Il vostro carpaccio di manzo con salsa al miele è pronto per essere servito!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:05:50.071829+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:48.000452+00:00",
     "source_category": "Secondi piatti",
     "source_cost": "Medio",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:21.607877+00:00"
+    "source_synced_at": "2026-11-14T22:08:21.607877+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Carpaccio-di-manzo-con-salsa-al-miele.html",
+      "source_hash": "21a040152a31f8a45c3e324bab32b27b44063671d5dadbc76195af4d9a93d758",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:48.000440+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 267787845945768,
@@ -23498,12 +23680,26 @@
       "Infine guarnite con i fiori di cappero divisi a metà e i filetti di alici tagliati a losanghe. Il vostro carpaccio di manzo con insalata di asparagi è pronto per essere servito!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:05:47.433434+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:44.677895+00:00",
     "source_category": "Secondi piatti",
     "source_cost": "Medio",
     "source_cook_minutes": 10,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:53.336332+00:00"
+    "source_synced_at": "2026-11-14T22:04:53.336332+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Carpaccio-di-manzo-con-insalata-di-asparagi.html",
+      "source_hash": "ea6e8ffba56f4148bdd765e75ffb4a3c30b23f98c6aa1bd34e17c2aa80daed9d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:44.677881+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 87739454633631,
@@ -23665,12 +23861,26 @@
       "Mescolate e aggiungete il tocco finale: la feta sbriciolata. Un'ultima mescolata e la vostra insalata di ceci estiva è pronta per essere gustata!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:53:51.894483+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:57.137547+00:00",
     "source_category": "Insalate",
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:10.282854+00:00"
+    "source_synced_at": "2026-11-14T22:05:10.282854+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-ceci-estiva.html",
+      "source_hash": "d3c828a04d6f13560d64498b97c9a37d83e9ddb8d74c1aa2019e77685e5b46e0",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:57.137535+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 63498042415512,
@@ -24016,12 +24226,26 @@
       "Mescolate bene il tutto, poi lasciate insaporire in frigorifero per 10 minuti. In ultimo, completate con le olive taggiasche e le foglie di rucola. La vostra insalata di ceci alla mediterranea è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:53:49.183817+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:54.243751+00:00",
     "source_category": "Insalate",
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:19.338728+00:00"
+    "source_synced_at": "2026-11-14T22:05:19.338728+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-ceci-alla-mediterranea.html",
+      "source_hash": "07e9c6877d1cac909d84d66521249cf8b0492b180db3e8cd4416ef5e5523d7fa",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:54.243736+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 30252368588666,
@@ -24648,12 +24872,26 @@
       "Arrotondate la forma dei carciofi ripieni compattandoli con le mani, poi rimetteteli in padella (oppure trasferiteli in una teglia). Cospargete la superficie con la provola tenuta da parte e cuocete in forno statico preriscaldato a 180° per circa 25 minuti. Quando saranno belli dorati in superficie sfornate e guarnite i vostri carciofi ripieni di uova e formaggio con una macinata di pepe e qualche fogliolina di timo!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:05:44.802967+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:41.851103+00:00",
     "source_category": "Secondi piatti",
     "source_cost": "Medio",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:01.989276+00:00"
+    "source_synced_at": "2026-11-14T22:05:01.989276+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Carciofi-ripieni-di-uova-e-formaggio.html",
+      "source_hash": "064005475a1f8e666350f0287ca6e3eff5bfe54f97529755479f6ad6a6d23715",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:41.851092+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 175338610057166,
@@ -24821,7 +25059,7 @@
       "Condite con l’emulsione al miele. Mescolate bene il tutto e aggiustate di sale e di pepe a piacimento. Infine servite la vostra insalata di cavolo cappuccio viola con le scaglie di Parmigiano e buon appetito!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:53:43.512671+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:51.393389+00:00",
     "quantita_dedotte": [
       {
         "testo_fonte": "Succo di limone ½",
@@ -24837,7 +25075,21 @@
     "source_cost": "Medio",
     "source_cook_minutes": 30,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:36.688022+00:00"
+    "source_synced_at": "2026-11-14T22:07:36.688022+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-cavolo-cappuccio.html",
+      "source_hash": "b5526a5f45208540b91a3d4be36343a9beb2193a0e096f8565c649cb0b0868be",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:51.393372+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 114972110690077,
@@ -25715,12 +25967,26 @@
       "aggiungete metà delle scaglie di grana, mescolate con un cucchiaio e poi servite l’insalata nei piatti di portata, se preferite adagiandola all’interno di un coppapasta che vi permetterà di mantenere meglio la forma. Sfilate lo stampo delicatamente, terminate guarnendo con le scaglie di Grana avanzate e irrorando l’insalata di carciofi con un filo di olio di oliva a crudo. La vostra croccante insalata di carciofi è pronta per essere portata in tavola!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:53:38.028947+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:48.531749+00:00",
     "source_category": "Insalate",
     "source_cost": "Basso",
     "source_cook_minutes": 0,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:06:23.696901+00:00"
+    "source_synced_at": "2026-11-14T22:06:23.696901+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-carciofi.html",
+      "source_hash": "b089fe35f838fde0b0e40a01414b65a3ff7eeefa5b87d26f873cd6331852d7b7",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:48.531738+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 189601898418918,
@@ -27173,12 +27439,26 @@
       "Mescolate bene e stendete su una teglia con carta forno, senza ammassare gli ingredienti, altrimenti faranno fatica a gratinare. Cuocete in forno statico preriscaldato a 200 gradi per 15 minuti. Passato il tempo dategli altri 15 minuti alzando la temperatura a 230 gradi. Quando tutti gli ingredienti saranno ben gratinati la vostra teglia è pronta. Servite i calamari e gamberi gratinati con verdure appena sfornati."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:05:34.084537+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:39.060520+00:00",
     "source_category": "Secondi piatti",
     "source_cost": "Medio",
     "source_cook_minutes": 30,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:08:36.087377+00:00"
+    "source_synced_at": "2026-11-14T22:08:36.087377+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Calamari-e-gamberi-gratinati-con-verdure.html",
+      "source_hash": "2b15050c2dec4bfc303b0bdcd5044df1b547e35c7bbb3d9f8c47c0dc751293ed",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:39.060508+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 234463483322998,
@@ -27573,12 +27853,26 @@
       "Infine aggiungete la pancetta croccante e un ultimo filo di salsa. Procedete così fino ad esaurire gli ingredienti: la vostra caesar salad di pollo su lattuga baby è pronta per essere gustata!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:05:31.341071+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:36.284379+00:00",
     "source_category": "Antipasti",
     "source_cost": "Basso",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:10:03.107576+00:00"
+    "source_synced_at": "2026-11-14T22:10:03.107576+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Caesar-salad-di-pollo-su-lattuga-baby.html",
+      "source_hash": "bac023fb52edb1e1e47c7763e24a10b8c0e37736057205032444f189563799ab",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:36.284368+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 23673081387,
@@ -28712,7 +29006,7 @@
       "Mescolate con un cucchiaio per emulsionare 19 . Distribuite il condimento sull'insalata di bresaola con rucola, pesche e quartirolo 20 e servite subito in tavola 21 !"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:47:36.017738+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:45.662817+00:00",
     "quantita_dedotte": [
       {
         "testo_fonte": "Succo di limone ½",
@@ -28727,7 +29021,21 @@
     "source_category": "Piatti Unici",
     "source_cook_minutes": 5,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:31.217894+00:00"
+    "source_synced_at": "2026-11-14T22:07:31.217894+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-bresaola-con-rucola-pesche-e-quartirolo.html",
+      "source_hash": "c0800d970404391dca413f17a160f362d4fd6f3ef974521916b4d1c24dbd728b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:45.662806+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 141009512089064,
@@ -29129,11 +29437,25 @@
       "Continuate la cottura a fuoco vivo, finchè l’acqua non si sarà asciugata e le patate risulteranno cotte. Tenetele in caldo e cuocete i burger: oleate una piastra in ghisa 16 e scaldatela, quando sarà ben calda adagiate i burger 17 e cuoceteli due minuti per ciascun lato. A cottura ultimata servite i burger ben caldi con le patate saltate e accompagnate il piatto con la maionese senza uova 18 ."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:05:23.399953+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:30.708971+00:00",
     "source_category": "Secondi piatti",
     "source_cook_minutes": 10,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:04:25.381522+00:00"
+    "source_synced_at": "2026-11-14T22:04:25.381522+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Burger-di-salmone-con-maionese-senza-uova-e-patate-saltate.html",
+      "source_hash": "f4f79672ad3a92bc824ea82c7bb1259bf325e437b303f74113dc806996d48846",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:30.708953+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 177856654024684,
@@ -29688,11 +30010,25 @@
       "Completate i burger di manzo con maionese di soia adagiando la carne e un’altra foglia di insalata. Richiudete il burger con le rispettive metà di panino. I vostri burger di manzo con maionese di soia sono ora pronti per essere assaporati!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:05:20.759758+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:27.795215+00:00",
     "source_category": "Piatti Unici",
     "source_cook_minutes": 10,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:30.630435+00:00"
+    "source_synced_at": "2026-11-14T22:05:30.630435+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Burger-di-manzo-con-maionese-di-soia.html",
+      "source_hash": "f55d898d5e91b51ae1a22129801fc19049718d64f3b279fea8a74de73edf8fb3",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:27.795203+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 240075804873993,
@@ -29842,12 +30178,26 @@
       "Mescolate, poi unite per ultimi i cubetti di anguria, insaporite con l’aceto balsamico e mescolate ancora per amlagamare tutti i sapori. Per ultimo profumate con le foglioline di menta fresca. La vostra fresca insalata di anguria è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:47:27.565381+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:39.984318+00:00",
     "source_category": "Insalate",
     "source_cost": "Basso",
     "source_cook_minutes": 5,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:32.601812+00:00"
+    "source_synced_at": "2026-11-14T22:09:32.601812+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-anguria.html",
+      "source_hash": "9189d3db5cc4991369ce33c3866e1c2296f17e3812bb1f950fcda9569f5e297a",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:39.984307+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 157240315395755,
@@ -30717,12 +31067,26 @@
       "Salate e mescolate delicatamente. La vostra insalata di anguria e feta è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:47:30.461488+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:42.836228+00:00",
     "source_category": "Insalate",
     "source_cost": "Medio",
     "source_cook_minutes": 5,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:06:20.976313+00:00"
+    "source_synced_at": "2026-11-14T22:06:20.976313+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-di-anguria-e-feta.html",
+      "source_hash": "e97264fe83fc614c644144004b5d40f15c204ccc26c34cfe9012e7dbd9fc8163",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:42.836215+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 41094496099502,
@@ -31855,7 +32219,7 @@
       "Irrorate con la salsa alle noci e mescolate delicatamente con 2 cucchiai. Trasferite in un piatto da portata e servite la vostra insalata con spinacino, pesche grigliate e mozzarelline!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:47:24.835724+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:37.218107+00:00",
     "quantita_dedotte": [
       {
         "testo_fonte": "Succo di limone ½",
@@ -31870,7 +32234,21 @@
     "source_category": "Insalate",
     "source_cook_minutes": 5,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:06:43.634805+00:00"
+    "source_synced_at": "2026-11-14T22:06:43.634805+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-con-spinacino-pesche-grigliate-e-mozzarelline.html",
+      "source_hash": "9c58b31dcde89c180efdc8305d6a6ca5a02b1a92d84240570b443bd7e6adc935",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:37.218095+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 240844682992611,
@@ -32497,7 +32875,7 @@
       "Aggiungete anche i crostini di pane e il formaggio, poi condite con la vinaigrette e mescolate bene. La vostra insalata con mele e cavoli è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:47:21.993550+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:33.996353+00:00",
     "quantita_dedotte": [
       {
         "testo_fonte": "Succo d'arancia 1",
@@ -32512,7 +32890,21 @@
     "source_category": "Insalate",
     "source_cook_minutes": 7,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:27.860907+00:00"
+    "source_synced_at": "2026-11-14T22:05:27.860907+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-con-mele-e-cavoli.html",
+      "source_hash": "ab79364ba85736a722197d22dfe47e405507800a1295397000b123720f9e13ef",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:33.996342+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 67866765061478,
@@ -33602,7 +33994,7 @@
       "Adagiatevi sopra i filetti di branzino al vapore 22 e completate il piatto con un po’ della marinatura delle zucchine, scorza di limone 23 e foglioline di maggiorana a piacere. Il vostro branzino al vapore con zucchine marinate è pronto per essere servito 24 !"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:36:02.938327+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:25.039965+00:00",
     "quantita_dedotte": [
       {
         "testo_fonte": "Scorza di limone 1",
@@ -33618,7 +34010,21 @@
     "source_cost": "Medio",
     "source_cook_minutes": 10,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:03:36.547653+00:00"
+    "source_synced_at": "2026-11-14T22:03:36.547653+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Branzino-al-vapore-con-zucchine-marinate.html",
+      "source_hash": "0d25d60ba83aa0ab1d5db149200ad5c64a110c629e3cf18f3ad22c6f4f64e06e",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:25.039952+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 280714661921416,
@@ -33804,12 +34210,26 @@
       "Mescolate delicatamente per amalgamare il tutto. Impiattate e guarnite con qualche foglia di basilico. La vostra insalata alla ligure è pronta per essere servita!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:47:16.545424+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:31.153289+00:00",
     "source_category": "Insalate",
     "source_cost": "Medio",
     "source_cook_minutes": 40,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:10:26.168348+00:00"
+    "source_synced_at": "2026-11-14T22:10:26.168348+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Insalata-alla-ligure.html",
+      "source_hash": "522de09f05570bd4f373949bc268867e384e9f486a33ddbfd8d726571103b8bf",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:31.153271+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 49008532453862,
@@ -37260,12 +37680,26 @@
       "Mescolate per insaporire, impiattate e gustate caldi i vostri burger di zucchine."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:46:59.392369+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:33.528682+00:00",
     "source_category": "Secondi piatti",
     "source_cost": "Basso",
     "source_cook_minutes": 60,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:47.696553+00:00"
+    "source_synced_at": "2026-11-14T22:07:47.696553+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Hamburger-di-zucchine.html",
+      "source_hash": "003c8206a4ce114485117d371c4d3d78ad4ec55cee9dc4965a8f3cc1fd86b36b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:33.528668+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 218792172729801,
@@ -37789,12 +38223,26 @@
       "Salate, pepate, sfumate col brandy. Una volta che le patate saranno belle dorate, servitele con le braciole di maiale."
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:46:56.710944+00:00",
+    "step_images_checked_at": "2026-11-15T16:26:22.188638+00:00",
     "source_category": "Secondi piatti",
     "source_cost": "Medio",
     "source_cook_minutes": 20,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:03:24.931277+00:00"
+    "source_synced_at": "2026-11-14T22:03:24.931277+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Braciole-di-maiale-in-padella.html",
+      "source_hash": "199c31c71207151e8f9275705c41c3db78a43754a497d9079de3855d85ce7d26",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:26:22.188623+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 25060721437017,
@@ -40538,7 +40986,7 @@
       "Ultimate con i pomodorini secchi (scolati dal loro olio di conservazione), richiudete il panino 29 e servite i vostri hamburger all'italiana ancora caldi 30 ! Potete accompagnarli con sfiziose patate fritte!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:47:02.062507+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:28.285175+00:00",
     "quantita_dedotte": [
       {
         "testo_fonte": "Scorza di limone 1",
@@ -40554,7 +41002,21 @@
     "source_cost": "Medio",
     "source_cook_minutes": 30,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:07:50.392671+00:00"
+    "source_synced_at": "2026-11-14T22:07:50.392671+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Hamburger-all-italiana.html",
+      "source_hash": "cc84a0e78604bf9de0c097ab67791911eeffc411091ab16c62b69c9a7ee1ffb1",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:28.285164+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 120678865565622,
@@ -42478,12 +42940,26 @@
       "Con i rebbi di una forchetta bucate la superficie e infine spennellate la superficie coi restanti 10 grammi di olio. Cuocete in forno statico preriscaldato a 200° per 35 minuti nella parte centrale del forno, poi spostate la teglia sulla base del forno e cuocete per altri 10 minuti. Quindi sfornate e servite la vostra focaccia senza lievito ancora fumante!"
     ],
     "images_import_version": 6,
-    "step_images_checked_at": "2026-10-10T16:53:19.360263+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:25.512775+00:00",
     "source_category": "Torte salate",
     "source_cost": "Basso",
     "source_cook_minutes": 65,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:05:55.927264+00:00"
+    "source_synced_at": "2026-11-14T22:05:55.927264+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Focaccia-senza-lievito.html",
+      "source_hash": "3de735356eb9d316782a282a797ae60505f2877cc5a066808bf7bd971005b3d8",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:25.512764+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 231458030358197,
@@ -44430,11 +44906,25 @@
       "Aggiungete 2 cucchiai di caponata e completate con il songino. Richiudete la focaccia e procedete nello stesso modo con la seconda. La vostra focaccia senza glutine con caponata è pronta per essere gustata!"
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-10-11T12:32:36.862165+00:00",
+    "step_images_checked_at": "2026-11-15T16:27:22.621355+00:00",
     "source_category": "Piatti Unici",
     "source_cook_minutes": 35,
     "source_sync_version": 1,
-    "source_synced_at": "2026-11-14T22:09:48.914219+00:00"
+    "source_synced_at": "2026-11-14T22:09:48.914219+00:00",
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Focaccia-senza-glutine-con-caponata.html",
+      "source_hash": "208eff12e273f04ef3a2eab04d346c8f51a257aa50b649f74498d17bdbe55ed1",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-15T16:27:22.621344+00:00",
+      "existing_preserved": true,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12
   },
   {
     "id": 272149242713913,

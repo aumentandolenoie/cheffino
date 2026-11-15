@@ -74,3 +74,12 @@ def test_pagina_sotto_bloccata_con_ricetta_o_foto_aperta():
         assert 'function syncScrollLock' in html and 'new MutationObserver(syncScrollLock)' in html
         assert "position:'fixed'" in html and 'overscroll-behavior:contain' in html
         assert "classList.add('open');syncScrollLock()" in html
+
+
+def test_niente_zoom_accidentale():
+    for path in ('frontend/index.html', 'index.html'):
+        html = open(path, encoding='utf-8').read()
+        assert 'maximum-scale=1' in html and 'touch-action:manipulation' in html
+        assert 'font-size:16px!important' in html                  # niente zoom automatico sui campi
+        assert "addEventListener('gesturestart',block" in html      # pizzico bloccato nell'app installata
+        assert 'function togglePhotoZoom' in html                   # le foto restano ingrandibili

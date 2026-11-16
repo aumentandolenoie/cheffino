@@ -75706,7 +75706,10 @@
       "precedente": "https://www.giallozafferano.it/images/240-24037/Pisto_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:04:33.616968+00:00"
-    }
+    },
+    "source_cook_minutes": 0,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:41:53.792840+00:00"
   },
   {
     "id": 18255231789,
@@ -75981,7 +75984,10 @@
       "precedente": "https://www.giallozafferano.it/images/274-27492/Pasta-con-crema-di-asparagi-stracciatella-e-bottarga_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:04:33.616968+00:00"
-    }
+    },
+    "source_cook_minutes": 20,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:41:56.653439+00:00"
   },
   {
     "id": 120069138893448,
@@ -76181,7 +76187,10 @@
       "precedente": "https://www.giallozafferano.it/images/ricette/215/21559/foto_hd/hd650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:04:33.616968+00:00"
-    }
+    },
+    "source_cook_minutes": 35,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:20.310348+00:00"
   },
   {
     "id": 121579818781514,
@@ -76689,7 +76698,10 @@
       "precedente": "https://www.giallozafferano.it/images/264-26477/Pasta-con-crema-di-acciughe_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:04:33.616968+00:00"
-    }
+    },
+    "source_cook_minutes": 10,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:08.583616+00:00"
   },
   {
     "id": 1503743154840,
@@ -76932,7 +76944,10 @@
       "precedente": "https://www.giallozafferano.it/images/193-19397/Baccala-alla-vicentina_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:04:33.616968+00:00"
-    }
+    },
+    "source_cook_minutes": 360,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:41:59.375423+00:00"
   },
   {
     "id": 61115604948120,
@@ -77232,7 +77247,10 @@
       "precedente": "https://www.giallozafferano.it/images/221-22102/Piselli-a-cecamariti_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:04:33.616968+00:00"
-    }
+    },
+    "source_cook_minutes": 22,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:14.314640+00:00"
   },
   {
     "id": 53703188190851,
@@ -77601,7 +77619,10 @@
     "copertina_verifica": {
       "esito": "ok",
       "verificata_il": "2026-11-16T13:08:59.250682+00:00"
-    }
+    },
+    "source_cook_minutes": 50,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:11.426698+00:00"
   },
   {
     "id": 95114300039565,
@@ -77864,7 +77885,10 @@
       "precedente": "https://www.giallozafferano.it/images/258-25876/Arrosto-in-padella_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-16T13:08:59.250682+00:00"
-    }
+    },
+    "source_cook_minutes": 70,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:17.064903+00:00"
   },
   {
     "id": 28798347241140,
@@ -78369,7 +78393,10 @@
       "precedente": "https://www.giallozafferano.it/images/348-34883/Pasta-con-castagne-e-fonduta-di-Parmigiano_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-16T13:08:59.250682+00:00"
-    }
+    },
+    "source_cook_minutes": 25,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:02.256553+00:00"
   },
   {
     "id": 163100290476350,
@@ -78722,7 +78749,10 @@
       "precedente": "https://www.giallozafferano.it/images/364-36403/Arrosto-freddo-di-lonza-con-salsa-alle-zucchine_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-16T13:08:59.250682+00:00"
-    }
+    },
+    "source_cook_minutes": 50,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:23.151593+00:00"
   },
   {
     "id": 197389922384529,
@@ -79303,7 +79333,10 @@
       "precedente": "https://www.giallozafferano.it/images/166-16614/Pasta-con-calamari-e-tuorlo-sodo_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-16T13:08:59.250682+00:00"
-    }
+    },
+    "source_cook_minutes": 30,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:05.417906+00:00"
   },
   {
     "id": 229639547400489,
@@ -79633,6 +79666,9 @@
       "precedente": "https://www.giallozafferano.it/images/349-34915/Arrosto-di-vitello-morbido-con-sughetto_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-16T13:08:59.250682+00:00"
-    }
+    },
+    "source_cook_minutes": 250,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:25.859096+00:00"
   }
 ]

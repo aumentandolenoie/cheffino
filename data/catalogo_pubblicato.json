@@ -54859,7 +54859,10 @@
       "precedente": "https://www.giallozafferano.it/images/274-27492/Pasta-con-crema-di-asparagi-stracciatella-e-bottarga_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:04:33.616968+00:00"
-    }
+    },
+    "source_cook_minutes": 20,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:41:56.653439+00:00"
   },
   {
     "id": 120069138893448,
@@ -55059,7 +55062,10 @@
       "precedente": "https://www.giallozafferano.it/images/ricette/215/21559/foto_hd/hd650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:04:33.616968+00:00"
-    }
+    },
+    "source_cook_minutes": 35,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:20.310348+00:00"
   },
   {
     "id": 35117419144570,
@@ -55294,7 +55300,10 @@
       "precedente": "https://www.giallozafferano.it/images/264-26477/Pasta-con-crema-di-acciughe_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:04:33.616968+00:00"
-    }
+    },
+    "source_cook_minutes": 10,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:08.583616+00:00"
   },
   {
     "id": 1503743154840,
@@ -55537,7 +55546,10 @@
       "precedente": "https://www.giallozafferano.it/images/193-19397/Baccala-alla-vicentina_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:04:33.616968+00:00"
-    }
+    },
+    "source_cook_minutes": 360,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:41:59.375423+00:00"
   },
   {
     "id": 81945951999018,
@@ -55708,6 +55720,1828 @@
       "precedente": "https://www.giallozafferano.it/images/221-22102/Piselli-a-cecamariti_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-15T21:04:33.616968+00:00"
-    }
+    },
+    "source_cook_minutes": 22,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:14.314640+00:00"
+  },
+  {
+    "id": 53703188190851,
+    "name": "Pasta con castagne e funghi",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 100,
+    "ingredients_display": [
+      "Farina 00 200 g",
+      "Uova 2",
+      "Funghi chiodini 150 g",
+      "Funghi cardoncelli 150 g",
+      "Funghi finferli (gallinacci) 150 g",
+      "Castagne precotte 70 g",
+      "Aglio 1 spicchio",
+      "Parmigiano Reggiano DOP 40 g",
+      "Salvia q.b.",
+      "Rosmarino q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Burro 5 g",
+      "Burro 60 g",
+      "Cipolle 30 g",
+      "Aceto di vino bianco 3 g",
+      "Vino bianco 6 g",
+      "Salvia q.b.",
+      "Rosmarino q.b.",
+      "Castagne precotte q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-castagne-e-funghi.html",
+    "image_url": "https://www.giallozafferano.it/images/367-36758/Pasta-con-castagne-e-funghi_1200x800_wm.jpg",
+    "servings": 4,
+    "kcal": 460.7,
+    "protein": null,
+    "carbs": 55.7,
+    "fats": 19.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina 00",
+        200,
+        "g"
+      ],
+      [
+        "Uova",
+        2,
+        "pezzi"
+      ],
+      [
+        "Funghi chiodini",
+        150,
+        "g"
+      ],
+      [
+        "Funghi cardoncelli",
+        150,
+        "g"
+      ],
+      [
+        "Funghi finferli (gallinacci)",
+        150,
+        "g"
+      ],
+      [
+        "Castagne precotte",
+        70,
+        "g"
+      ],
+      [
+        "Aglio",
+        1,
+        "spicchio"
+      ],
+      [
+        "Parmigiano Reggiano DOP",
+        40,
+        "g"
+      ],
+      [
+        "Salvia",
+        null,
+        "q.b."
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Burro",
+        5,
+        "g"
+      ],
+      [
+        "Burro",
+        60,
+        "g"
+      ],
+      [
+        "Cipolle",
+        30,
+        "g"
+      ],
+      [
+        "Aceto di vino bianco",
+        3,
+        "g"
+      ],
+      [
+        "Vino bianco",
+        6,
+        "g"
+      ],
+      [
+        "Salvia",
+        null,
+        "q.b."
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Castagne precotte",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con castagne e funghi, iniziate dalle tagliatelle fresche. Rompete le uova in una ciotolina e sbattetele con una forchetta. Versate la farina a fontana sul piano di lavoro e formate un incavo al centro. Aggiungete le uova sbattute poco alla volta. Iniziate a incorporare la farina con una forchetta, poi proseguite impastando con le mani.",
+      "Dovrete ottenere un panetto omogeneo. Avvolgetelo nella pellicola per alimenti e lasciatelo riposare in frigorifero per 30 minuti. Nel frattempo occupatevi del burro acido. Mondate la cipolla e tritatela finemente. Mettete il burro in un pentolino insieme alla salvia e al rosmarino e fatelo sciogliere a fuoco dolce.",
+      "Aggiungete la cipolla tritata e mescolate. Lasciate cuocere a fuoco dolce per circa 5 minuti. Spegnete il fuoco, versate l'aceto e il vino bianco.",
+      "Filtrate il composto per eliminare la cipolla e gli aromi, raccogliendo il burro fuso in una ciotolina. Trasferite il burro acido in frigorifero e lasciatelo raffreddare fino a quando si sarà solidificato.",
+      "Nel frattempo, trascorso il tempo di riposo della pasta, riprendete il panetto dal frigorifero e sistematelo su un piano di lavoro leggermente infarinato. Appiattitelo con il mattarello, poi stendetelo con la macchina fino a ottenere una sfoglia molto sottile, circa 1-2 mm. Ricavate delle tagliatelle lunghe circa 25-30 cm, tagliando la pasta con un coltello e infarinatele leggermente.",
+      "Realizzate dei nidi, sistemateli su un vassoio e teneteli da parte. Passate al condimento. In una padella fate sciogliere il burro insieme allo spicchio d'aglio. Aggiungete le castagne già cotte e sbucciate.",
+      "Versate due cucchiai d'acqua e lasciate cuocere per circa 7-8 minuti, aggiungendo altra acqua se necessario. Durante la cottura schiacciate leggermente le castagne con un mestolo, in modo da ottenere una crema grossolana. Regolate di sale e tenete da parte. Pulite i funghi, poi tagliate a metà i cardoncelli.",
+      "Tagliate i gambi a cubetti e la testa a spicchi. Tagliate a spicchi anche i finferli più grandi. Sbollentate i chiodini in abbondante acqua bollente per almeno 15 minuti, poi scolateli ed eliminate l'acqua di cottura. Nella stessa padella dove avete cotto le castagne aggiungete i cardoncelli, i finferli e i chiodini precedentemente sbollentati.",
+      "Saltate i funghi a fuoco vivace per circa 10 minuti, poi regolate di sale. Unite la crema di castagne al condimento e mescolate per amalgamare il tutto. Nel frattempo portate a bollore una pentola di acqua salata e cuocete le tagliatelle fresche.",
+      "Scolate la pasta, conservando l'acqua di cottura e trasferitela direttamente nella padella con i funghi, aggiungete due mestoli della sua acqua di cottura e profumate con la salvia e il rosmarino tritati. Saltate il tutto per amalgamare il condimento. Spegnete il fuoco e aggiungete una macinata di pepe nero, il burro acido e il Parmigiano Reggiano grattugiato.",
+      "Mescolate con cura fino ad amalgamare bene gli ingredienti. Distribuite la pasta nei piatti e completate con le castagne sbriciolate. La vostra pasta con castagne e funghi è pronta per essere servita!"
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con castagne e funghi, iniziate dalle tagliatelle fresche. Rompete le uova in una ciotolina e sbattetele con una forchetta. Versate la farina a fontana sul piano di lavoro e formate un incavo al centro. Aggiungete le uova sbattute poco alla volta 1 . Iniziate a incorporare la farina con una forchetta 2 , poi proseguite impastando con le mani 3 .",
+      "Dovrete ottenere un panetto omogeneo 4 . Avvolgetelo nella pellicola per alimenti e lasciatelo riposare in frigorifero per 30 minuti. Nel frattempo occupatevi del burro acido. Mondate la cipolla e tritatela finemente 5 . Mettete il burro in un pentolino insieme alla salvia e al rosmarino 6 e fatelo sciogliere a fuoco dolce.",
+      "Aggiungete la cipolla tritata 7 e mescolate 8 . Lasciate cuocere a fuoco dolce per circa 5 minuti. Spegnete il fuoco, versate l'aceto e il vino bianco 9 .",
+      "Filtrate il composto per eliminare la cipolla e gli aromi 10 , raccogliendo il burro fuso in una ciotolina 11 . Trasferite il burro acido in frigorifero e lasciatelo raffreddare fino a quando si sarà solidificato 12 .",
+      "Nel frattempo, trascorso il tempo di riposo della pasta, riprendete il panetto dal frigorifero e sistematelo su un piano di lavoro leggermente infarinato. Appiattitelo con il mattarello, poi stendetelo con la macchina fino a ottenere una sfoglia molto sottile 13 , circa 1-2 mm. Ricavate delle tagliatelle lunghe circa 25-30 cm, tagliando la pasta con un coltello 14 e infarinatele leggermente 15 .",
+      "Realizzate dei nidi, sistemateli su un vassoio e teneteli da parte 16 . Passate al condimento. In una padella fate sciogliere il burro insieme allo spicchio d'aglio 17 . Aggiungete le castagne già cotte e sbucciate 18 .",
+      "Versate due cucchiai d'acqua 19 e lasciate cuocere per circa 7-8 minuti, aggiungendo altra acqua se necessario. Durante la cottura schiacciate leggermente le castagne con un mestolo, in modo da ottenere una crema grossolana 20 . Regolate di sale e tenete da parte. Pulite i funghi, poi tagliate a metà i cardoncelli 21 .",
+      "Tagliate i gambi a cubetti 22 e la testa a spicchi. Tagliate a spicchi anche i finferli più grandi. Sbollentate i chiodini in abbondante acqua bollente per almeno 15 minuti, poi scolateli ed eliminate l'acqua di cottura. Nella stessa padella dove avete cotto le castagne aggiungete i cardoncelli 23 , i finferli e i chiodini precedentemente sbollentati 24 .",
+      "Saltate i funghi a fuoco vivace per circa 10 minuti 25 , poi regolate di sale. Unite la crema di castagne al condimento 26 e mescolate per amalgamare il tutto. Nel frattempo portate a bollore una pentola di acqua salata e cuocete le tagliatelle fresche 27 .",
+      "Scolate la pasta, conservando l'acqua di cottura e trasferitela direttamente nella padella con i funghi 28 , aggiungete due mestoli della sua acqua di cottura e profumate con la salvia e il rosmarino tritati 29 . Saltate il tutto per amalgamare il condimento. Spegnete il fuoco e aggiungete una macinata di pepe nero, il burro acido e il Parmigiano Reggiano grattugiato 30 .",
+      "Mescolate con cura fino ad amalgamare bene gli ingredienti 31 . Distribuite la pasta nei piatti e completate con le castagne sbriciolate 32 . La vostra pasta con castagne e funghi è pronta per essere servita 33 !"
+    ],
+    "needs_review": false,
+    "source_category": "Primi piatti",
+    "source_cost": "Elevato",
+    "imported_at": "2026-11-16T13:08:02.416089+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Primi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_30.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_31.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_32.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_33.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare la pasta con castagne e funghi, iniziate dalle tagliatelle fresche. Rompete le uova in una ciotolina e sbattetele con una forchetta. Versate la farina a fontana sul piano di lavoro e formate un incavo al centro. Aggiungete le uova sbattute poco alla volta. Iniziate a incorporare la farina con una forchetta, poi proseguite impastando con le mani.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_1.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_2.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Dovrete ottenere un panetto omogeneo. Avvolgetelo nella pellicola per alimenti e lasciatelo riposare in frigorifero per 30 minuti. Nel frattempo occupatevi del burro acido. Mondate la cipolla e tritatela finemente. Mettete il burro in un pentolino insieme alla salvia e al rosmarino e fatelo sciogliere a fuoco dolce.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_4.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_5.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Aggiungete la cipolla tritata e mescolate. Lasciate cuocere a fuoco dolce per circa 5 minuti. Spegnete il fuoco, versate l'aceto e il vino bianco.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_7.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_8.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Filtrate il composto per eliminare la cipolla e gli aromi, raccogliendo il burro fuso in una ciotolina. Trasferite il burro acido in frigorifero e lasciatelo raffreddare fino a quando si sarà solidificato.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_10.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_11.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Nel frattempo, trascorso il tempo di riposo della pasta, riprendete il panetto dal frigorifero e sistematelo su un piano di lavoro leggermente infarinato. Appiattitelo con il mattarello, poi stendetelo con la macchina fino a ottenere una sfoglia molto sottile, circa 1-2 mm. Ricavate delle tagliatelle lunghe circa 25-30 cm, tagliando la pasta con un coltello e infarinatele leggermente.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_13.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_14.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Realizzate dei nidi, sistemateli su un vassoio e teneteli da parte. Passate al condimento. In una padella fate sciogliere il burro insieme allo spicchio d'aglio. Aggiungete le castagne già cotte e sbucciate.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_16.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_17.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate due cucchiai d'acqua e lasciate cuocere per circa 7-8 minuti, aggiungendo altra acqua se necessario. Durante la cottura schiacciate leggermente le castagne con un mestolo, in modo da ottenere una crema grossolana. Regolate di sale e tenete da parte. Pulite i funghi, poi tagliate a metà i cardoncelli.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_19.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_20.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_21.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Tagliate i gambi a cubetti e la testa a spicchi. Tagliate a spicchi anche i finferli più grandi. Sbollentate i chiodini in abbondante acqua bollente per almeno 15 minuti, poi scolateli ed eliminate l'acqua di cottura. Nella stessa padella dove avete cotto le castagne aggiungete i cardoncelli, i finferli e i chiodini precedentemente sbollentati.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_22.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_23.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_24.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Saltate i funghi a fuoco vivace per circa 10 minuti, poi regolate di sale. Unite la crema di castagne al condimento e mescolate per amalgamare il tutto. Nel frattempo portate a bollore una pentola di acqua salata e cuocete le tagliatelle fresche.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_25.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_26.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_27.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Scolate la pasta, conservando l'acqua di cottura e trasferitela direttamente nella padella con i funghi, aggiungete due mestoli della sua acqua di cottura e profumate con la salvia e il rosmarino tritati. Saltate il tutto per amalgamare il condimento. Spegnete il fuoco e aggiungete una macinata di pepe nero, il burro acido e il Parmigiano Reggiano grattugiato.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_28.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_29.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_30.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Mescolate con cura fino ad amalgamare bene gli ingredienti. Distribuite la pasta nei piatti e completate con le castagne sbriciolate. La vostra pasta con castagne e funghi è pronta per essere servita!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_31.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_32.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/367/36758/pasta-con-castagne-e-funghi_33.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-castagne-e-funghi.html",
+      "source_hash": "6952c438266a2ce933923e428c3f9f6a6c9f0022bbad20e125757e047607dedb",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-16T13:08:41.834438+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 11,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-16T13:08:41.834453+00:00",
+    "copertina_verifica": {
+      "esito": "ok",
+      "verificata_il": "2026-11-16T13:08:59.250682+00:00"
+    },
+    "source_cook_minutes": 50,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:11.426698+00:00"
+  },
+  {
+    "id": 95114300039565,
+    "name": "Arrosto di vitello in padella",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 95,
+    "ingredients_display": [
+      "Noce di vitello 1 kg",
+      "Carote 1",
+      "Sedano 4 coste",
+      "Cipolle 3",
+      "Vino bianco 70 g",
+      "Brodo vegetale 200 g",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Rosmarino 2 rametti"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Arrosto-in-padella.html",
+    "image_url": "https://www.giallozafferano.it/images/258-25876/Arrosto-in-padella_780x520_wm.jpg",
+    "servings": 6,
+    "kcal": 324.3,
+    "protein": null,
+    "carbs": 10.5,
+    "fats": 14.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Noce di vitello",
+        1,
+        "kg"
+      ],
+      [
+        "Carote",
+        1,
+        "pezzi"
+      ],
+      [
+        "Sedano",
+        4,
+        "coste"
+      ],
+      [
+        "Cipolle",
+        3,
+        "pezzi"
+      ],
+      [
+        "Vino bianco",
+        70,
+        "g"
+      ],
+      [
+        "Brodo vegetale",
+        200,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Rosmarino",
+        2,
+        "rametti"
+      ]
+    ],
+    "steps": [
+      "Per preparare l’arrosto di vitello in padella, come prima cosa preparate il brodo vegetale, seguendo la nostra ricetta, e tenetelo in caldo. Tritate al coltello le carote, il sedano e la cipolla.",
+      "In una padella versate un filo d’olio, aggiungete le verdure, regolate di sale e fate rosolare a fuoco medio-basso per circa 10 minuti, quindi trasferitele in una ciotola.",
+      "Versate in padella un mestolo abbondante di brodo vegetale e deglassate il fondo della padella per ottenere una salsina leggermente ristretta. Trasferite il liquido sulle verdure.",
+      "Procedete con la legatura della noce di vitello inserendo un rametto di rosmarino. Salate la carne da tutti i lati. Versate un filo d’olio in padella e fate rosolare l’arrosto su tutti i lati a fiamma medio-alta. Toglietelo dalla padella e trasferitelo in una pirofila.",
+      "Versate in padella il vino bianco e deglassate il fondo. A questo punto rimettete l’arrosto in padella e aggiungete le verdure.",
+      "Unite il brodo, coprite con il coperchio e fate cuocere per 50 minuti a fuoco medio-basso, girando a metà cottura. L’arrosto va mantenuto umido, quindi, con un cucchiaio, dovrete bagnarlo spesso con il suo fondo di cottura. Se avete modo di misurare la temperatura interna della carne, l’arrosto sarà pronto ad una temperatura tra i 60-65°C.",
+      "Trasferite l’arrosto in una pirofila, copritelo con un foglio di alluminio e fatelo riposare per 50-60 minuti. Intanto trasferite le verdure in un boccale e, con un mixer a immersione, frullate fino a ottenere una crema liscia e omogenea. Assaggiate e in caso regolate di sale e pepe. Trascorso il tempo di riposo affettate l’arrosto, cercando di fare delle fette spesse circa 1 cm.",
+      "Versate in padella la crema e fate scaldare per pochi istanti, quindi aggiungete le fette di arrosto. Coprite le fette con la crema, chiudete con coperchio e fate cuocere per 2 minuti. Impiattate e completate con del rosmarino fresco. Il vostro arrosto di vitello in padella è pronto per essere gustato!"
+    ],
+    "steps_raw": [
+      "Per preparare l’arrosto di vitello in padella, come prima cosa preparate il brodo vegetale, seguendo la nostra ricetta, e tenetelo in caldo. Tritate al coltello le carote 1 , il sedano 2 e la cipolla 3 .",
+      "In una padella versate un filo d’olio, aggiungete le verdure 4 , regolate di sale 5 e fate rosolare a fuoco medio-basso per circa 10 minuti 6 , quindi trasferitele in una ciotola.",
+      "Versate in padella un mestolo abbondante di brodo vegetale 7 e deglassate il fondo della padella 8 per ottenere una salsina leggermente ristretta. Trasferite il liquido sulle verdure 9 .",
+      "Procedete con la legatura della noce di vitello inserendo un rametto di rosmarino. Salate la carne da tutti i lati 10 . Versate un filo d’olio in padella e fate rosolare l’arrosto su tutti i lati 11 a fiamma medio-alta. Toglietelo dalla padella e trasferitelo in una pirofila 12 .",
+      "Versate in padella il vino bianco 13 e deglassate il fondo. A questo punto rimettete l’arrosto in padella 14 e aggiungete le verdure 15 .",
+      "Unite il brodo 16 , coprite con il coperchio 17 e fate cuocere per 50 minuti a fuoco medio-basso, girando a metà cottura 18 . L’arrosto va mantenuto umido, quindi, con un cucchiaio, dovrete bagnarlo spesso con il suo fondo di cottura. Se avete modo di misurare la temperatura interna della carne, l’arrosto sarà pronto ad una temperatura tra i 60-65°C.",
+      "Trasferite l’arrosto in una pirofila, copritelo con un foglio di alluminio 19 e fatelo riposare per 50-60 minuti. Intanto trasferite le verdure in un boccale e, con un mixer a immersione, frullate fino a ottenere una crema liscia e omogenea 20 . Assaggiate e in caso regolate di sale e pepe. Trascorso il tempo di riposo affettate l’arrosto, cercando di fare delle fette spesse circa 1 cm 21 .",
+      "Versate in padella la crema e fate scaldare per pochi istanti, quindi aggiungete le fette di arrosto 22 . Coprite le fette con la crema 23 , chiudete con coperchio e fate cuocere per 2 minuti. Impiattate e completate con del rosmarino fresco. Il vostro arrosto di vitello in padella è pronto per essere gustato 24 !"
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-16T13:08:05.075998+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_24.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare l’arrosto di vitello in padella, come prima cosa preparate il brodo vegetale, seguendo la nostra ricetta, e tenetelo in caldo. Tritate al coltello le carote, il sedano e la cipolla.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_1.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_2.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "In una padella versate un filo d’olio, aggiungete le verdure, regolate di sale e fate rosolare a fuoco medio-basso per circa 10 minuti, quindi trasferitele in una ciotola.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_4.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_5.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate in padella un mestolo abbondante di brodo vegetale e deglassate il fondo della padella per ottenere una salsina leggermente ristretta. Trasferite il liquido sulle verdure.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_7.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_8.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Procedete con la legatura della noce di vitello inserendo un rametto di rosmarino. Salate la carne da tutti i lati. Versate un filo d’olio in padella e fate rosolare l’arrosto su tutti i lati a fiamma medio-alta. Toglietelo dalla padella e trasferitelo in una pirofila.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_10.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_11.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate in padella il vino bianco e deglassate il fondo. A questo punto rimettete l’arrosto in padella e aggiungete le verdure.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_13.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_14.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Unite il brodo, coprite con il coperchio e fate cuocere per 50 minuti a fuoco medio-basso, girando a metà cottura. L’arrosto va mantenuto umido, quindi, con un cucchiaio, dovrete bagnarlo spesso con il suo fondo di cottura. Se avete modo di misurare la temperatura interna della carne, l’arrosto sarà pronto ad una temperatura tra i 60-65°C.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_16.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_17.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Trasferite l’arrosto in una pirofila, copritelo con un foglio di alluminio e fatelo riposare per 50-60 minuti. Intanto trasferite le verdure in un boccale e, con un mixer a immersione, frullate fino a ottenere una crema liscia e omogenea. Assaggiate e in caso regolate di sale e pepe. Trascorso il tempo di riposo affettate l’arrosto, cercando di fare delle fette spesse circa 1 cm.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_19.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_20.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_21.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate in padella la crema e fate scaldare per pochi istanti, quindi aggiungete le fette di arrosto. Coprite le fette con la crema, chiudete con coperchio e fate cuocere per 2 minuti. Impiattate e completate con del rosmarino fresco. Il vostro arrosto di vitello in padella è pronto per essere gustato!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_22.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_23.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/258/25876/arrosto-in-padella_24.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Arrosto-in-padella.html",
+      "source_hash": "3e4c1e1152efa20ff5fc59a3739c2c8f982f024769a309bb36d17dfcf5075443",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-16T13:08:28.403348+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 8,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-16T13:08:28.403366+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/258-25876/Arrosto-in-padella_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-16T13:08:59.250682+00:00"
+    },
+    "source_cook_minutes": 70,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:17.064903+00:00"
+  },
+  {
+    "id": 7599692752751,
+    "name": "Pasta con castagne e fonduta di Parmigiano",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 45,
+    "ingredients_display": [
+      "Tripoline 320 g",
+      "Castagne precotte 250 g",
+      "Scalogno 1",
+      "Burro 20 g",
+      "Salvia q.b.",
+      "Olio extravergine d'oliva 1 cucchiaio",
+      "Sale fino q.b.",
+      "Panna fresca liquida 100 g",
+      "Parmigiano Reggiano DOP 60 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-castagne-e-fonduta-di-Parmigiano.html",
+    "image_url": "https://www.giallozafferano.it/images/348-34883/Pasta-con-castagne-e-fonduta-di-Parmigiano_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 614.2,
+    "protein": null,
+    "carbs": 90.7,
+    "fats": 19.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Tripoline",
+        320,
+        "g"
+      ],
+      [
+        "Castagne precotte",
+        250,
+        "g"
+      ],
+      [
+        "Scalogno",
+        1,
+        "pezzi"
+      ],
+      [
+        "Burro",
+        20,
+        "g"
+      ],
+      [
+        "Salvia",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        1,
+        "cucchiai"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Panna fresca liquida",
+        100,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP",
+        60,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con castagne e fonduta di Parmigiano, per prima cosa mondate e tritate finemente lo scalogno, quindi trasferitelo in un pentolino con un filo d’olio e un pizzico di sale; lasciatelo appassire dolcemente a fuoco basso per circa 5 minuti, mescolando ogni tanto per non farlo colorire troppo. Quando sarà morbido e traslucido, aggiungete le castagne precotte, rosolandole bene insieme allo scalogno per qualche minuto.",
+      "Tenete da parte qualche castagna per la decorazione finale, mentre le altre bagnatele con un paio di mestoli di acqua calda, salate leggermente e lasciatele cuocere ancora 5 minuti, finché non si saranno ammorbidite. A questo punto frullate tutto con un mixer a immersione.",
+      "Dovrete ottenere una crema liscia e vellutata, quindi tenetela da parte. Intanto portate a bollore una pentola colma di acqua salata e cuocete la pasta al dente. Intanto dedicatevi alla fonduta: scaldate la panna in un pentolino senza portarla a bollore. Una volta calda, spegnete il fuoco e unite il Parmigiano Reggiano grattugiato.",
+      "Mescolate con una frusta finché il formaggio non sarà completamente sciolto e avrete una crema fluida e lucida. Nel frattempo, in una padella ampia, fate sciogliere il burro e unite le foglie di salvia; lasciate insaporire a fuoco medio-basso finché il burro non assumerà una tonalità nocciola, mescolando spesso per non bruciarlo. Quando sarà pronto, eliminate la salvia.",
+      "Scolate la pasta direttamente nella padella con il burro e iniziate a mantecare aggiungendo un mestolo di acqua di cottura per legare bene il condimento, così da ottenere una consistenza cremosa e avvolgente. Per impiattare, disponete un paio di cucchiai di fonduta di Parmigiano sul fondo del piatto.",
+      "Adagiate sopra la pasta e completate con qualche cucchiaiata di salsa alle castagne. Rifinite il piatto con delle foglioline di salvia fresca e le castagne precotte sbriciolate tenute da parte. La vostra pasta con castagne e fonduta di Parmigiano calda è pronta per essere servita!"
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con castagne e fonduta di Parmigiano, per prima cosa mondate e tritate finemente lo scalogno 1 , quindi trasferitelo in un pentolino con un filo d’olio e un pizzico di sale 2 ; lasciatelo appassire dolcemente a fuoco basso per circa 5 minuti, mescolando ogni tanto per non farlo colorire troppo. Quando sarà morbido e traslucido, aggiungete le castagne precotte 3 , rosolandole bene insieme allo scalogno per qualche minuto.",
+      "Tenete da parte qualche castagna per la decorazione finale, mentre le altre bagnatele con un paio di mestoli di acqua calda 4 , salate leggermente e lasciatele cuocere ancora 5 minuti, finché non si saranno ammorbidite 5 . A questo punto frullate tutto con un mixer a immersione 6 .",
+      "Dovrete ottenere una crema liscia e vellutata 7 , quindi tenetela da parte. Intanto portate a bollore una pentola colma di acqua salata e cuocete la pasta al dente 8 . Intanto dedicatevi alla fonduta: scaldate la panna in un pentolino senza portarla a bollore. Una volta calda, spegnete il fuoco e unite il Parmigiano Reggiano grattugiato 9 .",
+      "Mescolate con una frusta finché il formaggio non sarà completamente sciolto e avrete una crema fluida e lucida 10 . Nel frattempo, in una padella ampia, fate sciogliere il burro e unite le foglie di salvia 11 ; lasciate insaporire a fuoco medio-basso finché il burro non assumerà una tonalità nocciola, mescolando spesso per non bruciarlo. Quando sarà pronto, eliminate la salvia 12 .",
+      "Scolate la pasta direttamente nella padella con il burro 13 e iniziate a mantecare aggiungendo un mestolo di acqua di cottura per legare bene il condimento 14 , così da ottenere una consistenza cremosa e avvolgente. Per impiattare, disponete un paio di cucchiai di fonduta di Parmigiano sul fondo del piatto 15 .",
+      "Adagiate sopra la pasta e completate con qualche cucchiaiata di salsa alle castagne 16 . Rifinite il piatto con delle foglioline di salvia fresca 17 e le castagne precotte sbriciolate tenute da parte. La vostra pasta con castagne e fonduta di Parmigiano calda è pronta per essere servita 18 !"
+    ],
+    "needs_review": false,
+    "source_category": "Primi piatti",
+    "source_cost": null,
+    "imported_at": "2026-11-16T13:08:13.230450+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Primi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_18.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare la pasta con castagne e fonduta di Parmigiano, per prima cosa mondate e tritate finemente lo scalogno, quindi trasferitelo in un pentolino con un filo d’olio e un pizzico di sale; lasciatelo appassire dolcemente a fuoco basso per circa 5 minuti, mescolando ogni tanto per non farlo colorire troppo. Quando sarà morbido e traslucido, aggiungete le castagne precotte, rosolandole bene insieme allo scalogno per qualche minuto.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_1.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_2.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Tenete da parte qualche castagna per la decorazione finale, mentre le altre bagnatele con un paio di mestoli di acqua calda, salate leggermente e lasciatele cuocere ancora 5 minuti, finché non si saranno ammorbidite. A questo punto frullate tutto con un mixer a immersione.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_4.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_5.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Dovrete ottenere una crema liscia e vellutata, quindi tenetela da parte. Intanto portate a bollore una pentola colma di acqua salata e cuocete la pasta al dente. Intanto dedicatevi alla fonduta: scaldate la panna in un pentolino senza portarla a bollore. Una volta calda, spegnete il fuoco e unite il Parmigiano Reggiano grattugiato.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_7.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_8.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Mescolate con una frusta finché il formaggio non sarà completamente sciolto e avrete una crema fluida e lucida. Nel frattempo, in una padella ampia, fate sciogliere il burro e unite le foglie di salvia; lasciate insaporire a fuoco medio-basso finché il burro non assumerà una tonalità nocciola, mescolando spesso per non bruciarlo. Quando sarà pronto, eliminate la salvia.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_10.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_11.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Scolate la pasta direttamente nella padella con il burro e iniziate a mantecare aggiungendo un mestolo di acqua di cottura per legare bene il condimento, così da ottenere una consistenza cremosa e avvolgente. Per impiattare, disponete un paio di cucchiai di fonduta di Parmigiano sul fondo del piatto.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_13.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_14.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Adagiate sopra la pasta e completate con qualche cucchiaiata di salsa alle castagne. Rifinite il piatto con delle foglioline di salvia fresca e le castagne precotte sbriciolate tenute da parte. La vostra pasta con castagne e fonduta di Parmigiano calda è pronta per essere servita!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_16.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_17.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/348/34883/pasta-con-castagne-e-fonduta-di-parmigiano_18.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-castagne-e-fonduta-di-Parmigiano.html",
+      "source_hash": "ceb533ed53dd0d3a653804fa1cdbf6f154ecbe8643f167534573b32e389dca21",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-16T13:08:39.132568+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 6,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-16T13:08:39.132579+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/348-34883/Pasta-con-castagne-e-fonduta-di-Parmigiano_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-16T13:08:59.250682+00:00"
+    },
+    "source_cook_minutes": 25,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:02.256553+00:00"
+  },
+  {
+    "id": 163100290476350,
+    "name": "Arrosto freddo di lonza con salsa alle zucchine",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 80,
+    "ingredients_display": [
+      "Lonza di maiale 1 kg",
+      "Vino bianco ½ bicchiere",
+      "Cipolle 1",
+      "Aglio 1 spicchio",
+      "Rosmarino 1 rametto",
+      "Alloro 1 foglia",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Zucchine 390 g",
+      "Capperi sotto sale 3 cucchiai",
+      "Acciughe sott'olio 5 filetti",
+      "Prezzemolo 1 rametto",
+      "Olio extravergine d'oliva q.b.",
+      "Aceto balsamico 1 cucchiaino",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Arrosto-freddo-di-lonza-con-salsa-alle-zucchine.html",
+    "image_url": "https://www.giallozafferano.it/images/364-36403/Arrosto-freddo-di-lonza-con-salsa-alle-zucchine_780x520_wm.jpg",
+    "servings": 6,
+    "kcal": 395.3,
+    "protein": null,
+    "carbs": 5.3,
+    "fats": 24.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Lonza di maiale",
+        1,
+        "kg"
+      ],
+      [
+        "Vino bianco",
+        0.5,
+        "bicchieri"
+      ],
+      [
+        "Cipolle",
+        1,
+        "pezzi"
+      ],
+      [
+        "Aglio",
+        1,
+        "spicchio"
+      ],
+      [
+        "Rosmarino",
+        1,
+        "rametti"
+      ],
+      [
+        "Alloro",
+        1,
+        "foglie"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Zucchine",
+        390,
+        "g"
+      ],
+      [
+        "Capperi sotto sale",
+        3,
+        "cucchiai"
+      ],
+      [
+        "Acciughe sott'olio",
+        5,
+        "filetti"
+      ],
+      [
+        "Prezzemolo",
+        1,
+        "rametti"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Aceto balsamico",
+        1,
+        "cucchiaini"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'arrosto freddo di lonza con salsa alle zucchine, condite la lonza con sale e pepe su tutti i lati.",
+      "Successivamente, scaldate un filo di olio extravergine d’oliva in un tegame capiente e rosolate la carne su tutti i lati per alcuni minuti, fino a ottenere una superficie ben dorata.",
+      "A questo punto trasferitela momentaneamente in un vassoio. Mondate e affettate la cipolla. Nello stesso tegame scaldate un filo d'olio e aggiungete uno spicchio d’aglio schiacciato.",
+      "Unite anche la cipolla, il rosmarino e l’alloro, poi lasciate insaporire per qualche minuto a fuoco dolce.",
+      "Ora rimettete la carne nel tegame e sfumate con il vino bianco. Quando l’alcol sarà evaporato, coprite con il coperchio e cuocete per circa 45 minuti, regolando il tempo in base allo spessore della lonza. Durante la cottura girate l’arrosto un paio di volte e, se necessario, aggiungete qualche cucchiaio di acqua calda o brodo per evitare che il fondo si asciughi troppo. A cottura ultimata trasferite la carne su un tagliere e lasciatela raffreddare completamente. Per ottenere fette più precise potete conservarla in frigorifero per qualche ora.",
+      "Nel frattempo preparate la salsa. Lavate e spuntate le zucchine, quindi tagliatene metà a listarelle e poi a cubetti molto piccoli.",
+      "Tagliate l'altra metà a tocchetti più grossolani. Ponete questi ultimi nel mixer.",
+      "Aggiungete il prezzemolo, i capperi dissalati e le acciughe.",
+      "Versate un filo d'olio e pepate a piacere. Frullate fino a ottenere una salsa liscia e omogenea, poi trasferitela in una ciotola e unite le zucchine tagliate a cubetti piccoli.",
+      "Regolate di sale e pepe, aggiungete l'aceto balsamico e mescolate. Se lo ritenete necessario, aggiungete un altro filo d’olio per ottenere una consistenza morbida ma non troppo liquida. Infine, tagliate l’arrosto freddo a fettine sottili con l'affettatrice, oppure con un coltello ben affilato.",
+      "Disponete le fettine su un piatto da portata e completate con la salsa alle zucchine. L'arrosto freddo di lonza con salsa alle zucchine è pronto da servire."
+    ],
+    "steps_raw": [
+      "Per preparare l'arrosto freddo di lonza con salsa alle zucchine, condite la lonza con sale 1 e pepe 2 su tutti i lati 3 .",
+      "Successivamente, scaldate un filo di olio extravergine d’oliva in un tegame capiente 4 e rosolate la carne 5 su tutti i lati per alcuni minuti 6 , fino a ottenere una superficie ben dorata.",
+      "A questo punto trasferitela momentaneamente in un vassoio 7 . Mondate e affettate la cipolla 8 . Nello stesso tegame scaldate un filo d'olio e aggiungete uno spicchio d’aglio schiacciato 9 .",
+      "Unite anche la cipolla 10 , il rosmarino e l’alloro 11 , poi lasciate insaporire per qualche minuto a fuoco dolce 12 .",
+      "Ora rimettete la carne nel tegame 13 e sfumate con il vino bianco 14 . Quando l’alcol sarà evaporato, coprite con il coperchio 15 e cuocete per circa 45 minuti, regolando il tempo in base allo spessore della lonza. Durante la cottura girate l’arrosto un paio di volte e, se necessario, aggiungete qualche cucchiaio di acqua calda o brodo per evitare che il fondo si asciughi troppo. A cottura ultimata trasferite la carne su un tagliere e lasciatela raffreddare completamente. Per ottenere fette più precise potete conservarla in frigorifero per qualche ora.",
+      "Nel frattempo preparate la salsa. Lavate e spuntate le zucchine 17 , quindi tagliatene metà a listarelle 17 e poi a cubetti molto piccoli 18 .",
+      "Tagliate l'altra metà 19 a tocchetti più grossolani 20 . Ponete questi ultimi nel mixer 21 .",
+      "Aggiungete il prezzemolo 22 , i capperi dissalati 23 e le acciughe 24 .",
+      "Versate un filo d'olio e pepate a piacere 25 . Frullate fino a ottenere una salsa liscia e omogenea 26 , poi trasferitela in una ciotola e unite le zucchine tagliate a cubetti piccoli 27 .",
+      "Regolate di sale e pepe, aggiungete l'aceto balsamico 28 e mescolate. Se lo ritenete necessario, aggiungete un altro filo d’olio per ottenere una consistenza morbida ma non troppo liquida. Infine, tagliate l’arrosto freddo a fettine sottili con l'affettatrice, oppure con un coltello ben affilato 30 .",
+      "Disponete le fettine su un piatto da portata 31 e completate con la salsa alle zucchine 32 . L'arrosto freddo di lonza con salsa alle zucchine è pronto da servire 33 ."
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-16T13:08:16.056807+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_30.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_31.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_32.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_33.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare l'arrosto freddo di lonza con salsa alle zucchine, condite la lonza con sale e pepe su tutti i lati.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_1.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_2.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Successivamente, scaldate un filo di olio extravergine d’oliva in un tegame capiente e rosolate la carne su tutti i lati per alcuni minuti, fino a ottenere una superficie ben dorata.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_4.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_5.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "A questo punto trasferitela momentaneamente in un vassoio. Mondate e affettate la cipolla. Nello stesso tegame scaldate un filo d'olio e aggiungete uno spicchio d’aglio schiacciato.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_7.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_8.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Unite anche la cipolla, il rosmarino e l’alloro, poi lasciate insaporire per qualche minuto a fuoco dolce.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_10.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_11.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Ora rimettete la carne nel tegame e sfumate con il vino bianco. Quando l’alcol sarà evaporato, coprite con il coperchio e cuocete per circa 45 minuti, regolando il tempo in base allo spessore della lonza. Durante la cottura girate l’arrosto un paio di volte e, se necessario, aggiungete qualche cucchiaio di acqua calda o brodo per evitare che il fondo si asciughi troppo. A cottura ultimata trasferite la carne su un tagliere e lasciatela raffreddare completamente. Per ottenere fette più precise potete conservarla in frigorifero per qualche ora.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_13.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_14.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Nel frattempo preparate la salsa. Lavate e spuntate le zucchine, quindi tagliatene metà a listarelle 17 e poi a cubetti molto piccoli.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_16.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_17.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Tagliate l'altra metà a tocchetti più grossolani. Ponete questi ultimi nel mixer.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_19.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_20.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_21.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Aggiungete il prezzemolo, i capperi dissalati e le acciughe.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_22.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_23.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_24.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate un filo d'olio e pepate a piacere. Frullate fino a ottenere una salsa liscia e omogenea, poi trasferitela in una ciotola e unite le zucchine tagliate a cubetti piccoli.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_25.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_26.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_27.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Regolate di sale e pepe, aggiungete l'aceto balsamico e mescolate. Se lo ritenete necessario, aggiungete un altro filo d’olio per ottenere una consistenza morbida ma non troppo liquida. Infine, tagliate l’arrosto freddo a fettine sottili con l'affettatrice, oppure con un coltello ben affilato.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_28.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_29.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_30.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Disponete le fettine su un piatto da portata e completate con la salsa alle zucchine. L'arrosto freddo di lonza con salsa alle zucchine è pronto da servire.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_31.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_32.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/364/36403/arrosto-freddo-di-lonza-con-salsa-alle-zucchine_33.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Arrosto-freddo-di-lonza-con-salsa-alle-zucchine.html",
+      "source_hash": "fca25fd2f90e1016b060f50fa6af452bc2daba4a8c24bfa8620e906533a3c23c",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-16T13:08:33.815838+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 11,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-16T13:08:33.815856+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/364-36403/Arrosto-freddo-di-lonza-con-salsa-alle-zucchine_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-16T13:08:59.250682+00:00"
+    },
+    "source_cook_minutes": 50,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:23.151593+00:00"
+  },
+  {
+    "id": 20039153888064,
+    "name": "Pasta con calamari e tuorlo sodo",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 60,
+    "ingredients_display": [
+      "Linguine 320 g",
+      "Calamari 250 g",
+      "Olio extravergine d'oliva 30 g",
+      "Pomodorini ciliegino 300 g",
+      "Uova (2 medie) 120 g",
+      "Vino bianco 30 g",
+      "Nocciole sgusciate 40 g",
+      "Aglio 2 spicchi",
+      "Basilico 3 foglie",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-calamari-e-tuorlo-sodo.html",
+    "image_url": "https://www.giallozafferano.it/images/166-16614/Pasta-con-calamari-e-tuorlo-sodo_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 550.3,
+    "protein": null,
+    "carbs": 67.7,
+    "fats": 18.7,
+    "cost": null,
+    "ingredients": [
+      [
+        "Linguine",
+        320,
+        "g"
+      ],
+      [
+        "Calamari",
+        250,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30,
+        "g"
+      ],
+      [
+        "Pomodorini ciliegino",
+        300,
+        "g"
+      ],
+      [
+        "Uova (2 medie)",
+        120,
+        "g"
+      ],
+      [
+        "Vino bianco",
+        30,
+        "g"
+      ],
+      [
+        "Nocciole sgusciate",
+        40,
+        "g"
+      ],
+      [
+        "Aglio",
+        2,
+        "spicchi"
+      ],
+      [
+        "Basilico",
+        3,
+        "foglie"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con calamari e tuorlo sodo cominciate dalla cottura delle uova sode. Riempite un pentolino con abbondante acqua fredda, immergeteci le uova. Dal momento del bollore, contate circa 9 minuti (dipende anche dalla grandezza delle uova, noi abbiamo usato uova medie), il tempo sufficiente per cuocerle. Poi spegnete la fiamma, passate il pentolino sotto acqua fresca corrente per raffreddarle e sgusciatele. Incidete con un coltellino l’albume,",
+      "separate gli albumi dai tuorli sodi e setacciate questi ultimi in un colino aiutandovi con un cucchiaino o una forchetta",
+      "così da ottenere delle briciole che potrete tenere da parte in una ciotolina. Passate alla pulizia del calamaro (noi abbiamo usato un grosso calamaro ma voi potete usare dei calamari più piccoli, raggiungendo il peso indicato). Sciacquate il calamaro sotto l’acqua corrente, poi con le mani staccate delicatamente la testa dal mantello, estraete le interiora. Eliminate la pelle esterna: incidete con un coltellino la parte finale del mantello, quel tanto che basta per prendere un lembo della pelle e tirate via completamente il rivestimento con le mani.",
+      "Asciugate con un panno di carta il calamaro e tagliatelo nel senso della lunghezza per dividerlo in due parti poi riducetelo a listarelle sottili",
+      "Una volta pronte, tenetele da parte; dedicatevi ai pomodorini: tagliateli a metà. Tritate grossolanamente con un coltello le nocciole.",
+      "Versate le nocciole tritate in una padella e tostatele a fuoco moderato per qualche minuto. Tenete da parte le nocciole tostate e nella stessa padella scaldate l’olio di oliva con gli spicchi di aglio interi,",
+      "lasciate insaporire, poi eliminate l’aglio e aggiungete le listarelle di calamaro. Sfumate con il vino bianco, lasciate cuocere 1-2 minuti",
+      "poi aggiungete i pomodorini 22 mescolate, salate e pepate e fate cuocere per circa 10 minuti, Intanto in una pentola dai bordi alti portate al bollore l’acqua salata e cuocete le bavette per circa 8 minuti.",
+      "Scolate la pasta al dente direttamente nella padella con il condimento, mescolate poi unite le nocciole tostate; infine tritate il basilico fresco",
+      "spegnete il fuoco e unitelo alla pasta per dare profumo al piatto. Mescolate e impiattate, quindi servite guarnendo ciascun piatto con il tuorlo sbriciolato. La pasta con calamari e tuorlo sodo è pronta per essere gustata!"
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con calamari e tuorlo sodo cominciate dalla cottura delle uova sode. Riempite un pentolino con abbondante acqua fredda, immergeteci le uova 1 . Dal momento del bollore, contate circa 9 minuti (dipende anche dalla grandezza delle uova, noi abbiamo usato uova medie), il tempo sufficiente per cuocerle. Poi spegnete la fiamma, passate il pentolino sotto acqua fresca corrente per raffreddarle e sgusciatele 2 . Incidete con un coltellino l’albume 3 ,",
+      "separate gli albumi dai tuorli sodi (4-5) e setacciate questi ultimi in un colino aiutandovi con un cucchiaino o una forchetta 6",
+      "così da ottenere delle briciole che potrete tenere da parte in una ciotolina 7 . Passate alla pulizia del calamaro (noi abbiamo usato un grosso calamaro ma voi potete usare dei calamari più piccoli, raggiungendo il peso indicato). Sciacquate il calamaro sotto l’acqua corrente , poi con le mani staccate delicatamente la testa dal mantello, estraete le interiora 8 . Eliminate la pelle esterna: incidete con un coltellino la parte finale del mantello, quel tanto che basta per prendere un lembo della pelle e tirate via completamente il rivestimento con le mani 9 .",
+      "Asciugate con un panno di carta il calamaro 11 e tagliatelo nel senso della lunghezza per dividerlo in due parti 11 poi riducetelo a listarelle sottili (12-13)",
+      "Una volta pronte, tenetele da parte 13 ; dedicatevi ai pomodorini: tagliateli a metà 14 . Tritate grossolanamente con un coltello le nocciole 15 .",
+      "Versate le nocciole tritate in una padella 16 e tostatele a fuoco moderato per qualche minuto 17 . Tenete da parte le nocciole tostate e nella stessa padella scaldate l’olio di oliva con gli spicchi di aglio interi 18 ,",
+      "lasciate insaporire, poi eliminate l’aglio 19 e aggiungete le listarelle di calamaro 20 . Sfumate con il vino bianco 21 , lasciate cuocere 1-2 minuti",
+      "poi aggiungete i pomodorini 22 mescolate 23 , salate e pepate e fate cuocere per circa 10 minuti, Intanto in una pentola dai bordi alti portate al bollore l’acqua salata e cuocete le bavette per circa 8 minuti 24 .",
+      "Scolate la pasta al dente direttamente nella padella con il condimento 25 , mescolate poi unite le nocciole tostate 26 ; infine tritate il basilico fresco 27",
+      "spegnete il fuoco e unitelo alla pasta 28 per dare profumo al piatto. Mescolate e impiattate, quindi servite guarnendo ciascun piatto con il tuorlo sbriciolato 29 . La pasta con calamari e tuorlo sodo è pronta per essere gustata 30 !"
+    ],
+    "needs_review": false,
+    "source_category": "Primi piatti",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-16T13:08:24.399828+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Primi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_no_pack_strip_22-24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_25-27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_28-30.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare la pasta con calamari e tuorlo sodo cominciate dalla cottura delle uova sode. Riempite un pentolino con abbondante acqua fredda, immergeteci le uova. Dal momento del bollore, contate circa 9 minuti (dipende anche dalla grandezza delle uova, noi abbiamo usato uova medie), il tempo sufficiente per cuocerle. Poi spegnete la fiamma, passate il pentolino sotto acqua fresca corrente per raffreddarle e sgusciatele. Incidete con un coltellino l’albume,",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "separate gli albumi dai tuorli sodi e setacciate questi ultimi in un colino aiutandovi con un cucchiaino o una forchetta",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "così da ottenere delle briciole che potrete tenere da parte in una ciotolina. Passate alla pulizia del calamaro (noi abbiamo usato un grosso calamaro ma voi potete usare dei calamari più piccoli, raggiungendo il peso indicato). Sciacquate il calamaro sotto l’acqua corrente, poi con le mani staccate delicatamente la testa dal mantello, estraete le interiora. Eliminate la pelle esterna: incidete con un coltellino la parte finale del mantello, quel tanto che basta per prendere un lembo della pelle e tirate via completamente il rivestimento con le mani.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Asciugate con un panno di carta il calamaro e tagliatelo nel senso della lunghezza per dividerlo in due parti 11 poi riducetelo a listarelle sottili",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Una volta pronte, tenetele da parte 13; dedicatevi ai pomodorini: tagliateli a metà. Tritate grossolanamente con un coltello le nocciole.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate le nocciole tritate in una padella e tostatele a fuoco moderato per qualche minuto. Tenete da parte le nocciole tostate e nella stessa padella scaldate l’olio di oliva con gli spicchi di aglio interi,",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_16-18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "lasciate insaporire, poi eliminate l’aglio e aggiungete le listarelle di calamaro. Sfumate con il vino bianco, lasciate cuocere 1-2 minuti",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_19-21.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "poi aggiungete i pomodorini 22 mescolate, salate e pepate e fate cuocere per circa 10 minuti, Intanto in una pentola dai bordi alti portate al bollore l’acqua salata e cuocete le bavette per circa 8 minuti.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_no_pack_strip_22-24.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Scolate la pasta al dente direttamente nella padella con il condimento, mescolate poi unite le nocciole tostate; infine tritate il basilico fresco",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_25-27.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "spegnete il fuoco e unitelo alla pasta per dare profumo al piatto. Mescolate e impiattate, quindi servite guarnendo ciascun piatto con il tuorlo sbriciolato. La pasta con calamari e tuorlo sodo è pronta per essere gustata!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16614/16614_pasta_con_tuorlo_sodo_strip_28-30.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-calamari-e-tuorlo-sodo.html",
+      "source_hash": "52aa1247d1ed73774bd0a29edb8516894be547b3287ce1cbcc1e8bc9ffd93d9d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-16T13:08:36.480571+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 10,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-16T13:08:36.480588+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/166-16614/Pasta-con-calamari-e-tuorlo-sodo_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-16T13:08:59.250682+00:00"
+    },
+    "source_cook_minutes": 30,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:05.417906+00:00"
+  },
+  {
+    "id": 229639547400489,
+    "name": "Arrosto di vitello morbido con sughetto",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 280,
+    "ingredients_display": [
+      "Cappello del prete 1,5 kg",
+      "Carote 100 g",
+      "Sedano 100 g",
+      "Cipolle 100 g",
+      "Rosmarino 1 rametto",
+      "Acqua 800 g",
+      "Vino bianco 250 g",
+      "Vino rosso 400 g",
+      "Burro 20 g",
+      "Concentrato di pomodoro 5 g",
+      "Amido di mais (maizena) 5 g",
+      "Olio extravergine d'oliva 20 g",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Arrosto-di-vitello-morbido-con-sughetto.html",
+    "image_url": "https://www.giallozafferano.it/images/349-34915/Arrosto-di-vitello-morbido-con-sughetto_780x520_wm.jpg",
+    "servings": 6,
+    "kcal": 522.5,
+    "protein": null,
+    "carbs": 7.6,
+    "fats": 21.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Cappello del prete",
+        1.5,
+        "kg"
+      ],
+      [
+        "Carote",
+        100,
+        "g"
+      ],
+      [
+        "Sedano",
+        100,
+        "g"
+      ],
+      [
+        "Cipolle",
+        100,
+        "g"
+      ],
+      [
+        "Rosmarino",
+        1,
+        "rametti"
+      ],
+      [
+        "Acqua",
+        800,
+        "g"
+      ],
+      [
+        "Vino bianco",
+        250,
+        "g"
+      ],
+      [
+        "Vino rosso",
+        400,
+        "g"
+      ],
+      [
+        "Burro",
+        20,
+        "g"
+      ],
+      [
+        "Concentrato di pomodoro",
+        5,
+        "g"
+      ],
+      [
+        "Amido di mais (maizena)",
+        5,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'arrosto di vitello morbido con sughetto, per prima cosa cosa legate il cappello del prete seguendo le indicazioni della nostra scheda \" Come legare l'arrosto \" e inserite il rametto di rosmarino sotto lo spago (in alternativa potete chiederlo al vostro macellaio di fiducia). Ora mondate la cipolla e tagliatela a tocchetti, poi fate la stessa cosa anche con le carote e il sedano.",
+      "Scaldate l'olio extravergine di oliva in una casseruola in ghisa e adagiate all'interno il pezzo di carne, poi salate.",
+      "Tenete il fuoco medio-alto e rosolate bene su tutti i lati, per sigillare la carne in modo uniforme. Una volta ben rosolato, mettetelo da parte in una teglia.",
+      "Aggiungete le verdure tagliate a tocchetti al fondo di cottura dell'arrosto e rosolate anch'esse a fuoco medio-alto per qualche minuto, avendo cura di non farle bruciare. Quando saranno ben rosolate, sfumate con vino bianco.",
+      "Unite il concentrato di pomodoro, poi trasferite nuovamente l'arrosto nella casseruola e coprite con l'acqua.",
+      "Chiudete con coperchio e cuocete a fiamma dolce per 3 ore, rigirando l'arrosto ogni ora. Potete verificare la cottura con un termometro: dovrà raggiungere una temperatura di 85° al cuore. Trascorso il tempo di cottura, rimuovete l'arrosto dalla casseruola e tenetelo in caldo.",
+      "Alzate la fiamma e lasciate ridurre il liquido di due terzi; ci vorranno circa 30 minuti. Nel frattempo in un pentolino versate il vino rosso e fate ridurre anch'esso di due terzi tenendo la fiamma medio-alta; ci vorranno circa 20 minuti.",
+      "Quando il sugo si sarà ridotto, frullatelo con un mixer a immersione e filtratelo attraverso un colino a maglie strette. Intanto fate sciogliere il burro in una casseruola a parte.",
+      "Aggiungete l'amido di mais al burro fuso e mescolate velocemente con una frusta, poi versate la salsa filtrata.",
+      "Unite anche la riduzione di vino e proseguite la cottura a fuoco dolce per 10-15 minuti, fino ad ottenere una consistenza fluida e cremosa.",
+      "Siete pronti per impiattare: tagliate l'arrosto a fette e disponetele in un piatto da portata, accompagnandole magari con delle patate al forno, poi nappate generosamente con la salsa ottenuta. Il vostro arrosto di vitello morbido con sughetto è pronto per essere servito!"
+    ],
+    "steps_raw": [
+      "Per preparare l'arrosto di vitello morbido con sughetto, per prima cosa cosa legate il cappello del prete seguendo le indicazioni della nostra scheda \" Come legare l'arrosto \" e inserite il rametto di rosmarino sotto lo spago (in alternativa potete chiederlo al vostro macellaio di fiducia). Ora mondate la cipolla e tagliatela a tocchetti 1 , poi fate la stessa cosa anche con le carote 2 e il sedano 3 .",
+      "Scaldate l'olio extravergine di oliva in una casseruola in ghisa 4 e adagiate all'interno il pezzo di carne 5 , poi salate 6 .",
+      "Tenete il fuoco medio-alto e rosolate bene su tutti i lati 7 , per sigillare la carne in modo uniforme 8 . Una volta ben rosolato, mettetelo da parte in una teglia 9 .",
+      "Aggiungete le verdure tagliate a tocchetti al fondo di cottura dell'arrosto 10 e rosolate anch'esse a fuoco medio-alto per qualche minuto, avendo cura di non farle bruciare 11 . Quando saranno ben rosolate, sfumate con vino bianco 12 .",
+      "Unite il concentrato di pomodoro 13 , poi trasferite nuovamente l'arrosto nella casseruola 14 e coprite con l'acqua 15 .",
+      "Chiudete con coperchio 16 e cuocete a fiamma dolce per 3 ore, rigirando l'arrosto ogni ora. Potete verificare la cottura con un termometro: dovrà raggiungere una temperatura di 85° al cuore 17 . Trascorso il tempo di cottura, rimuovete l'arrosto dalla casseruola 18 e tenetelo in caldo.",
+      "Alzate la fiamma e lasciate ridurre il liquido di due terzi; ci vorranno circa 30 minuti 19 . Nel frattempo in un pentolino versate il vino rosso 20 e fate ridurre anch'esso di due terzi tenendo la fiamma medio-alta; ci vorranno circa 20 minuti 21 .",
+      "Quando il sugo si sarà ridotto, frullatelo con un mixer a immersione 22 e filtratelo attraverso un colino a maglie strette 23 . Intanto fate sciogliere il burro in una casseruola a parte 24 .",
+      "Aggiungete l'amido di mais al burro fuso 25 e mescolate velocemente con una frusta 26 , poi versate la salsa filtrata 27 .",
+      "Unite anche la riduzione di vino 28 e proseguite la cottura a fuoco dolce per 10-15 minuti 29 , fino ad ottenere una consistenza fluida e cremosa 30 .",
+      "Siete pronti per impiattare: tagliate l'arrosto a fette e disponetele in un piatto da portata, accompagnandole magari con delle patate al forno 31 , poi nappate generosamente con la salsa ottenuta 32 . Il vostro arrosto di vitello morbido con sughetto è pronto per essere servito 33 !"
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-16T13:08:27.215895+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_30.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_31.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_32.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_33.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare l'arrosto di vitello morbido con sughetto, per prima cosa cosa legate il cappello del prete seguendo le indicazioni della nostra scheda \" Come legare l'arrosto \" e inserite il rametto di rosmarino sotto lo spago (in alternativa potete chiederlo al vostro macellaio di fiducia). Ora mondate la cipolla e tagliatela a tocchetti, poi fate la stessa cosa anche con le carote e il sedano.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_1.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_2.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Scaldate l'olio extravergine di oliva in una casseruola in ghisa e adagiate all'interno il pezzo di carne, poi salate.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_4.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_5.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Tenete il fuoco medio-alto e rosolate bene su tutti i lati, per sigillare la carne in modo uniforme. Una volta ben rosolato, mettetelo da parte in una teglia.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_7.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_8.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Aggiungete le verdure tagliate a tocchetti al fondo di cottura dell'arrosto e rosolate anch'esse a fuoco medio-alto per qualche minuto, avendo cura di non farle bruciare. Quando saranno ben rosolate, sfumate con vino bianco.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_10.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_11.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Unite il concentrato di pomodoro, poi trasferite nuovamente l'arrosto nella casseruola e coprite con l'acqua.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_13.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_14.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Chiudete con coperchio e cuocete a fiamma dolce per 3 ore, rigirando l'arrosto ogni ora. Potete verificare la cottura con un termometro: dovrà raggiungere una temperatura di 85° al cuore. Trascorso il tempo di cottura, rimuovete l'arrosto dalla casseruola e tenetelo in caldo.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_16.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_17.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Alzate la fiamma e lasciate ridurre il liquido di due terzi; ci vorranno circa 30 minuti. Nel frattempo in un pentolino versate il vino rosso e fate ridurre anch'esso di due terzi tenendo la fiamma medio-alta; ci vorranno circa 20 minuti.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_19.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_20.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_21.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Quando il sugo si sarà ridotto, frullatelo con un mixer a immersione e filtratelo attraverso un colino a maglie strette. Intanto fate sciogliere il burro in una casseruola a parte.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_22.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_23.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_24.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Aggiungete l'amido di mais al burro fuso e mescolate velocemente con una frusta, poi versate la salsa filtrata.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_25.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_26.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_27.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Unite anche la riduzione di vino e proseguite la cottura a fuoco dolce per 10-15 minuti, fino ad ottenere una consistenza fluida e cremosa.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_28.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_29.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_30.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Siete pronti per impiattare: tagliate l'arrosto a fette e disponetele in un piatto da portata, accompagnandole magari con delle patate al forno, poi nappate generosamente con la salsa ottenuta. Il vostro arrosto di vitello morbido con sughetto è pronto per essere servito!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_31.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_32.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/349/34915/arrosto-di-vitello-morbido-con-sughetto_33.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Arrosto-di-vitello-morbido-con-sughetto.html",
+      "source_hash": "c47bfb711928e6f1017beb90538351d3eee1ce524d367365fecb12956d1a824d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-16T13:08:31.123932+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 11,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-16T13:08:31.123950+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/349-34915/Arrosto-di-vitello-morbido-con-sughetto_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-16T13:08:59.250682+00:00"
+    },
+    "source_cook_minutes": 250,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-16T19:42:25.859096+00:00"
   }
 ]

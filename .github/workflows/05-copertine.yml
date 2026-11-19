@@ -1,4 +1,4 @@
-name: "Cheffino 05 - Copertine segnaposto"
+name: "Pepito 05 - Copertine segnaposto"
 # Riconosce le copertine con il logo del sito al posto della foto del piatto e,
 # con «applica», le sostituisce con la foto dichiarata dalla pagina della ricetta.
 on:

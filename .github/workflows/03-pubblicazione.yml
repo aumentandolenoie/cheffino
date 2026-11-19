@@ -1,4 +1,4 @@
-name: "Cheffino 03 - Verifica e pubblicazione"
+name: "Pepito 03 - Verifica e pubblicazione"
 on:
   push:
     paths:

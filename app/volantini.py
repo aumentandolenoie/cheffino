@@ -147,10 +147,23 @@ def estrai_bennet(html, base, oggi):
 
 
 def estrai_eurospin(html, base, oggi):
-    dal, al = periodo(html, oggi)
-    if not dal or 'flyer.eurospin.com/it-it/volantino' not in html:
-        return []
-    return [{'url': 'https://flyer.eurospin.com/it-it/volantino', 'titolo': 'Volantino Eurospin', 'dal': dal, 'al': al}]
+    """Ogni volantino ha le date («Dal 16 al 25 novembre 2026») vicino al suo link
+    sul visualizzatore ufficiale flyer.eurospin.com."""
+    link_rx = r'https://flyer\.eurospin\.com/it-it/(?:volantino|punti-vendita/[^"\'\s<>]*/promozioni/[^"\'\s<>]+)'
+    links = [(m.start(), _html.unescape(m.group(0))) for m in re.finditer(link_rx, html)]
+    out = []
+    for m in re.finditer(r'[Dd]al\s+\d{1,2}(?:\s+' + _MESE + r')?(?:\s+\d{4})?\s+al\s+\d{1,2}\s+' + _MESE + r'(?:\s+\d{4})?', html, re.I):
+        dal, al = periodo(m.group(0), oggi)
+        if not dal or not links:
+            continue
+        prima = [l for l in links if l[0] < m.start()]  # la scheda ha il link prima delle date
+        url = (prima[-1] if prima else min(links, key=lambda x: abs(x[0] - m.start())))[1]
+        slug = url.rstrip('/').rsplit('/', 1)[-1].replace('-', ' ')
+        titolo = 'Volantino Eurospin' if slug == 'volantino' else 'Eurospin · ' + slug.capitalize()
+        out.append({'url': url, 'titolo': titolo, 'dal': dal, 'al': al, 'online': 'online' in slug})
+    # il volantino dei negozi prima di quello del negozio online
+    negozi = [c for c in out if not c['online']]
+    return negozi or out
 
 
 def estrai_md(html, base, oggi):

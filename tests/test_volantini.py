@@ -85,6 +85,18 @@ def test_lidl_date_e_scelta_del_punto_vendita():
     assert v['prossimo']['valido_dal'] == '2026-11-19'
 
 
+EUROSPIN_2 = '''<a href="https://flyer.eurospin.com/it-it/punti-vendita/eurospin-italia/promozioni/sapori-in-festa"><img></a>
+<p>Dal 16 al 25 novembre 2026</p><p>Sapori in festa</p>
+<a href="https://flyer.eurospin.com/it-it/punti-vendita/eurospin-italia/promozioni/black-friday-2026-eurospin-online"><img></a>
+<p>Dal 5 al 29 novembre 2026</p><p>Black Friday</p>'''
+
+
+def test_eurospin_elenco_volantini_con_date():
+    v = V.voce('Eurospin', EUROSPIN_2, date(2026, 11, 19), 'x')
+    assert v['volantino']['url'].endswith('/promozioni/sapori-in-festa')
+    assert (v['volantino']['valido_dal'], v['volantino']['valido_al']) == ('2026-11-16', '2026-11-25')
+
+
 def test_volantino_scaduto_non_viene_aperto():
     v = V.voce('Eurospin', EUROSPIN, date(2026, 11, 16), 'x')
     assert v['volantino'] is None and v['metodo'] == 'pagina_ufficiale'

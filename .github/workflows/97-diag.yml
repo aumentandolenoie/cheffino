@@ -1,0 +1,18 @@
+name: "Diag eurospin (temporaneo)"
+on:
+  push:
+    branches: ['diag-eurospin']
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python - <<'PY'
+          import re
+          from app.rete import fetch_text
+          h=fetch_text('https://www.eurospin.com/it-it/volantino/',user_agent='Mozilla/5.0 (compatible; PepitoPersonalProject/0.2; volantini dai siti ufficiali)',same_host=False)
+          print(len(h), 'flyer link' , 'flyer.eurospin.com/it-it/volantino' in h)
+          for m in list(re.finditer(r'(?i)\bdal\b|valid',h))[:12]: print('~',re.sub(r'\s+',' ',re.sub(r'<[^>]+>',' ',h[m.start()-60:m.end()+120])))
+          print(sorted(set(re.findall(r'https://flyer\.eurospin\.com/[^"\'\s<>]+',h)))[:10])
+          PY

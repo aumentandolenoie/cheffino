@@ -29,7 +29,7 @@ def test_tinder_e_piano_casuali_nel_rispetto_delle_scelte(path, tmp_path):
     ])
     data = [{'id': e['id'], 'name': e['name'], 'autoValidated': bool((e.get('validazione_automatica') or {}).get('approved')),
              'requiredTools': (e.get('validazione_automatica') or {}).get('tools', []),
-             'ings': [x[0] for x in e['ingredients']], 'style': e['style'], 'type': e['type'],
+             'ings': [x[0] for x in e['ingredients']], 'style': e['style'], 'stili': e.get('stili', []), 'type': e['type'], 'time': e.get('time'),
              'detail': {'diets': e['diete']['compatibilita'], 'ingredients': e['ingredients']}} for e in public_catalog()]
     script = f"""
 const recipeData={json.dumps(data)};const sourcedDetails={{}};recipeData.forEach(r=>sourcedDetails[r.id]=r.detail);

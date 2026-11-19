@@ -97,7 +97,8 @@ def public_catalog():
         records = merged
     from app.recipe_media import display_groups
     from app.diete import assess_recipe
-    records = [dict(r, step_images_display=display_groups(r), diete=assess_recipe(r)) for r in records]
+    from app.stili import stili
+    records = [dict(r, step_images_display=display_groups(r), diete=assess_recipe(r), stili=stili(r)) for r in records]
     return sorted(records, key=lambda r: (
         0 if "giallozafferano" in r.get("source", "").lower() else 1,
         r.get("name", ""),

@@ -1,4 +1,4 @@
-name: "Cheffino 04 - Audit ricette con le fonti"
+name: "Pepito 04 - Audit ricette con le fonti"
 # Sola lettura: confronta le ricette pubblicate con la pagina originale
 # (titolo, ingredienti, procedimento, porzioni, copertina). Non scrive nulla.
 on:

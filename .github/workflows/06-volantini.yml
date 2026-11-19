@@ -2,8 +2,11 @@ name: "Pepito 06 - Volantini"
 # Ogni giorno: legge le pagine ufficiali dei supermercati e aggiorna
 # data/volantini.json con il volantino in corso (e il prossimo, se già pubblicato).
 on:
+  # GitHub avvia gli orari pianificati anche con molte ore di ritardo: 4 controlli
+  # al giorno tengono il volantino aggiornato comunque (l'app apre da sola il
+  # «prossimo» volantino quando inizia, anche tra un controllo e l'altro).
   schedule:
-    - cron: '17 4,13 * * *'
+    - cron: '17 1,7,13,19 * * *'
   workflow_dispatch:
 permissions:
   contents: write

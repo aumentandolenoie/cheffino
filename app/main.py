@@ -82,6 +82,8 @@ CAMPI_APP = ("id", "name", "emoji", "time", "kcal", "protein", "carbs", "fats", 
 
 def per_app(r):
     out = {k: r[k] for k in CAMPI_APP if r.get(k) is not None}
+    if not out.get("cost") and r.get("source_cost"):
+        out["cost"] = r["source_cost"]  # costo indicato da GialloZafferano
     out["step_images_display"] = r.get("step_images_display") or r.get("step_images") or []
     va = r.get("validazione_automatica")
     if isinstance(va, dict):

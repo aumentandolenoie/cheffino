@@ -623,6 +623,12 @@ async function caricaCatalogoServer(){
 render();
 caricaCatalogoServer();
 caricaVolantini();
+// Service worker: l'app si apre subito con le ricette salvate e funziona senza rete;
+// quando arrivano dati nuovi si aggiorna da sola.
+if('serviceWorker' in navigator&&(location.protocol==='https:'||location.hostname==='127.0.0.1')){
+ navigator.serviceWorker?.register('/sw.js').catch(()=>{});
+ navigator.serviceWorker?.addEventListener('message',e=>{const p=e.data&&e.data.type==='dati-aggiornati'&&e.data.path;if(p==='/api/recipes')caricaCatalogoServer();else if(p==='/api/volantini')caricaVolantini()});
+}
 
 </script></body></html>
 

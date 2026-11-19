@@ -79919,7 +79919,10 @@
       "precedente": "https://www.giallozafferano.it/images/362-36272/Pasta-con-calamaretti-e-pesto-di-spinacino_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-19T13:53:52.219455+00:00"
-    }
+    },
+    "source_cook_minutes": 15,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-19T18:22:59.646684+00:00"
   },
   {
     "id": 211681235723365,
@@ -80302,7 +80305,10 @@
       "precedente": "https://www.giallozafferano.it/images/295-29509/Pasta-con-broccolo-romanesco-e-spinacino_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-19T13:53:52.219455+00:00"
-    }
+    },
+    "source_cook_minutes": 30,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-19T18:23:08.224330+00:00"
   },
   {
     "id": 185273746486569,
@@ -80509,7 +80515,10 @@
       "precedente": "https://www.giallozafferano.it/images/ricette/164/16434/foto_hd/hd650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-19T13:53:52.219455+00:00"
-    }
+    },
+    "source_cook_minutes": 20,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-19T18:23:05.430398+00:00"
   },
   {
     "id": 74966643434018,
@@ -80762,7 +80771,10 @@
       "precedente": "https://www.giallozafferano.it/images/272-27218/Arrosto-di-vitello-in-pentola_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-19T13:53:52.219455+00:00"
-    }
+    },
+    "source_cook_minutes": 70,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-19T18:22:56.834575+00:00"
   },
   {
     "id": 50985914523858,
@@ -81041,7 +81053,10 @@
     "copertina_verifica": {
       "esito": "ok",
       "verificata_il": "2026-11-19T13:53:52.219455+00:00"
-    }
+    },
+    "source_cook_minutes": 30,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-19T18:23:02.760523+00:00"
   },
   {
     "id": 44715960577549,
@@ -81333,7 +81348,10 @@
       "precedente": "https://www.giallozafferano.it/images/349-34931/Arrosto-di-vitello-al-marsala_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-19T13:53:52.219455+00:00"
-    }
+    },
+    "source_cook_minutes": 100,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-19T18:22:54.196734+00:00"
   },
   {
     "id": 183114189550190,

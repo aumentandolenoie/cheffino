@@ -35,7 +35,10 @@ def health():
 
 @app.get("/api/recipes")
 def recipes():
-    rows=public_catalog()
+    # Le ricette escluse per scelta dell'app (dolci, lievitati, antipasti leggeri…)
+    # non sono «in revisione»: non diventeranno mai piatti del piano, quindi non
+    # si inviano all'app e non entrano nei conteggi.
+    rows=[r for r in public_catalog() if not r.get("esclusa_dal_piano")]
     return {"count":len(rows),"recipes":rows}
 
 

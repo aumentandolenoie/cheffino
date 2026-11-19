@@ -43,3 +43,17 @@ def test_home_apre_la_lista_della_settimana():
         html = (ROOT / f).read_text()
         assert 'onclick="openCart()"><div class="actionicon">🛍️</div><div><strong>Lista della spesa</strong>' in html
         assert 'function shareCart()' in html and 'navigator.share' in html
+
+
+@pytest.mark.skipif(not shutil.which('node'), reason='node non disponibile')
+def test_tempi_e_calorie_leggibili(tmp_path):
+    html = (ROOT / 'frontend' / 'index.html').read_text()
+    js = html[html.index('function fmtMin'):html.index('function ingredientRows')]
+    f = tmp_path / 't.js'
+    f.write_text(js + 'console.log(JSON.stringify([fmtMin(380),fmtMin(45),fmtMin(60),fmtMin(null),fmtKcal(961.3),fmtKcal(1776.5),fmtKcal(null)]))')
+    out = json.loads(subprocess.run(['node', str(f)], capture_output=True, text=True, check=True).stdout)
+    assert out == ['6 h 20 min', '45 min', '1 h', 'n.d.', '961 kcal', '1777 kcal', 'n.d.']
+    for name in ('frontend/index.html', 'index.html'):
+        h = (ROOT / name).read_text()
+        assert "?? 'n.d.'} min" not in h and "kcal??'n.d.'} kcal" not in h
+        assert "fmtQty(q*factor,u,name)" in h

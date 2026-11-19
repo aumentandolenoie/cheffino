@@ -73,3 +73,14 @@ def test_ricette_escluse_per_scelta_non_sono_in_revisione(tmp_path):
     assert data[1]['esclusa_dal_piano']['tipo'] == 'Dolce o colazione'
     assert eligible(data[1]) == (False, 'esclusa_dal_piano')
     assert 'esclusa_dal_piano' not in data[3]
+
+
+def test_api_non_invia_le_escluse_per_scelta():
+    """Le escluse per scelta non devono comparire «in revisione» nell'app."""
+    import importlib
+    import app.main as m
+    importlib.reload(m)
+    rows = m.recipes()["recipes"]
+    assert rows and not any(r.get("esclusa_dal_piano") for r in rows)
+    in_revisione = [r for r in rows if r.get("needs_review")]
+    assert len(in_revisione) < 40

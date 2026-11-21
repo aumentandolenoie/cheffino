@@ -4,6 +4,7 @@ from pathlib import Path
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.responses import FileResponse
+from .prezzi import AGGIORNAMENTO as LISTINO_PREZZI, stima_ricetta
 from .public_catalog import public_catalog
 from .volantini import CATENE, link_da_aprire
 
@@ -70,7 +71,7 @@ def recipes():
     # non sono «in revisione»: non diventeranno mai piatti del piano, quindi non
     # si inviano all'app e non entrano nei conteggi.
     rows=[per_app(r) for r in public_catalog() if not r.get("esclusa_dal_piano")]
-    return {"count":len(rows),"recipes":rows}
+    return {"count":len(rows),"listino_prezzi":LISTINO_PREZZI,"recipes":rows}
 
 
 # Solo i campi che l'app usa: i dati di lavoro della pipeline (testi grezzi,
@@ -94,6 +95,10 @@ def per_app(r):
     prova = r.get("step_photo_source_evidence")
     if isinstance(prova, dict) and prova.get("status"):
         out["step_photo_source_evidence"] = {"status": prova["status"]}
+    # Costo stimato dai prezzi medi dei prodotti (app/prezzi.py), €/porzione.
+    stima = stima_ricetta(r)
+    if stima:
+        out["prezzo"] = stima
     diete = r.get("diete")
     if isinstance(diete, dict):
         out["diete"] = {k: diete[k] for k in ("compatibilita", "motivi") if k in diete}

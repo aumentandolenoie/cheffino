@@ -32,7 +32,7 @@ def test_frontend_usa_solo_campi_inviati():
     seg = html[html.index("async function caricaCatalogoServer"):html.index("catalogBrowse.push(item)") + 2000]
     usati = set(re.findall(r"entry\.([a-zA-Z_]+)", seg))
     inviati = set(m.CAMPI_APP) | {"step_images_display", "validazione_automatica", "copertina_verifica",
-                                  "step_photo_source_evidence", "diete", "step_images"}
+                                  "step_photo_source_evidence", "diete", "step_images", "prezzo"}
     assert usati <= inviati, usati - inviati
 
 

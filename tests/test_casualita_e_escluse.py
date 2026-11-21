@@ -24,8 +24,8 @@ def test_tinder_e_piano_casuali_nel_rispetto_delle_scelte(path, tmp_path):
     code = '\n'.join([
         _grab(html, 'function filteredRecipes(options={}){', '\n// Gli stili sono preferenze'),
         _grab(html, 'function planRecipes(){', 'function getRecipe('),
-        _grab(html, 'function recipePreferenceScore(r){', '// Priorità: GialloZafferano'),
-        _grab(html, 'function requestedSlots(){', 'function planKeyUsed('),
+        _grab(html, 'function recipePreferenceScore(r){', 'function requestedSlots(){'),
+        _grab(html, 'function requestedSlots(){', '// Home: prima cosa'),
     ])
     data = [{'id': e['id'], 'name': e['name'], 'autoValidated': bool((e.get('validazione_automatica') or {}).get('approved')),
              'requiredTools': (e.get('validazione_automatica') or {}).get('tools', []),

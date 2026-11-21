@@ -41,7 +41,7 @@ console.log(JSON.stringify({{q,r,p}}));'''
 def test_home_apre_la_lista_della_settimana():
     for f in ('frontend/index.html', 'index.html'):
         html = (ROOT / f).read_text()
-        assert 'onclick="openCart()"><div class="actionicon">🛍️</div><div><strong>Lista della spesa</strong>' in html
+        assert '<button onclick="openCart()"><span>🛍️</span>Spesa</button>' in html
         assert 'function shareCart()' in html and 'navigator.share' in html
 
 

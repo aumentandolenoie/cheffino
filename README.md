@@ -38,8 +38,12 @@ Dettagli dei controlli in `PIPELINE_QUALITA.md`.
 - **Stili** (`app/stili.py`): calcolati da tempo, costo, calorie e ingredienti
   della fonte; il piano usa solo ricette con gli stili scelti quando ce ne sono
   abbastanza.
-- **Budget**: euro a porzione = budget ÷ pasti ÷ persone; orienta verso ricette
-  dal costo basso secondo la fonte (i prezzi reali non sono disponibili).
+- **Budget** (`app/prezzi.py`): ogni ricetta ha un costo a porzione stimato
+  dalle quantità della fonte × un listino di prezzi medi dei prodotti (€/kg,
+  €/l; «q.b.» escluso, nessuna stima se mancano prezzi per più del 20% degli
+  ingredienti). Il piano usa ricette entro budget ÷ pasti ÷ persone e, se la
+  settimana sfora, sostituisce i piatti più cari; la home e la lista della
+  spesa mostrano la spesa stimata rispetto al budget.
 - **Tempo**: pranzi feriali veloci, preparazioni lunghe nel fine settimana.
 - **Strumenti, tipi di piatto, ingredienti esclusi**: filtri sempre rispettati.
 
@@ -69,7 +73,8 @@ Una ricetta singola si importa con
 
 ## Limiti
 
-- I prezzi dei supermercati non sono disponibili: il budget usa il costo
-  indicativo della fonte.
+- I prezzi dei singoli supermercati non sono leggibili (volantini sfogliabili,
+  diversi per negozio): il budget usa prezzi medi indicativi, da aggiornare in
+  `app/prezzi.py`.
 - GialloZafferano non pubblica le proteine per le ricette recenti.
 - Le preferenze non si sincronizzano tra dispositivi (usa il backup).

@@ -151,7 +151,7 @@ def test_aggiorna_conserva_il_volantino_se_la_pagina_non_risponde():
 def test_frontend_apre_subito_il_volantino_in_entrambe_le_versioni():
     for f in ('frontend/index.html', 'index.html'):
         html = (ROOT / f).read_text()
-        assert "caricaVolantini();" in html and "'/api/volantini','/data/volantini.json'" in html
+        assert "caricaVolantini();" in html and "fetch('/api/volantini'" in html and '/data/volantini.json' not in html
         assert 'function openFlyerFor(i){const s=state.stores[i];if(s===undefined)return;const tg=flyerTarget(s);openUrl(tg.url)' in html
         assert 'Questo prototipo apre il sito ufficiale' not in html
         assert "'Coop','Decò','Despar'" in html and "x==='Dec'?'Decò':x" in html

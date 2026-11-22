@@ -21368,7 +21368,7 @@
       "Unite anche i fagiolini con le zucchine e i pomodorini. Mescolate il tutto e servite la vostra insalata di orzo con pesto di rucola, fagiolini e zucchine!"
     ],
     "images_import_version": 8,
-    "step_images_checked_at": "2026-11-14T22:35:17.028797+00:00",
+    "step_images_checked_at": "2026-11-22T17:13:46.647582+00:00",
     "source_category": "Primi piatti",
     "source_cost": "Basso",
     "source_cook_minutes": 20,
@@ -21377,9 +21377,9 @@
     "media_extraction": {
       "status": "complete",
       "source_url": "https://ricette.giallozafferano.it/Insalata-di-orzo-con-pesto-di-rucola-fagiolini-e-zucchine.html",
-      "source_hash": "7e5cd891cafa372b14d7a35f8c9f98ba50a65a022cdc590b8216969d10d50ef2",
+      "source_hash": "f343ecb81f533a3de77d74a7276bcbd1df02afed8477567c88179563c1763e8d",
       "method": "jsonld-dom-blocks",
-      "checked_at": "2026-11-14T22:35:17.028770+00:00",
+      "checked_at": "2026-11-22T17:13:46.647552+00:00",
       "existing_preserved": true,
       "candidate_differs": true,
       "updated": false,

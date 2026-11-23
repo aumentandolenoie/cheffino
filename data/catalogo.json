@@ -81652,5 +81652,2042 @@
       "tipo": "Dolce o colazione",
       "motivo": "categoria fonte: Dolci"
     }
+  },
+  {
+    "id": 78733047019025,
+    "name": "Pasta con asparagi e crema d'uovo",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 30,
+    "ingredients_display": [
+      "Fusilli Senza Glutine 320 g",
+      "Asparagi 500 g",
+      "Tuorli 3",
+      "Pecorino Romano DOP da grattugiare 60 g",
+      "Panna fresca liquida 70 g",
+      "Olio extravergine d'oliva 30 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-asparagi-e-crema-d-uovo.html",
+    "image_url": "https://www.giallozafferano.it/images/166-16660/Pasta-con-asparagi-e-crema-d-uovo_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 529.3,
+    "protein": null,
+    "carbs": 70.0,
+    "fats": 22.6,
+    "cost": null,
+    "ingredients": [
+      [
+        "Fusilli Senza Glutine",
+        320,
+        "g"
+      ],
+      [
+        "Asparagi",
+        500,
+        "g"
+      ],
+      [
+        "Tuorli",
+        3,
+        "pezzi"
+      ],
+      [
+        "Pecorino Romano DOP da grattugiare",
+        60,
+        "g"
+      ],
+      [
+        "Panna fresca liquida",
+        70,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con asparagi e crema d’uovo cominciate dalla pulizia degli ortaggi. Quindi eliminate la base e tenete soltanto la parte verde più tenera. Pelateli con l’aiuto di un pelaverdure e tagliate a rondelle gli asparagi lasciando le punte intere. Ponete sul fuoco un tegame con abbondante acqua e portate a bollore, quindi salatela: servirà per cuocere la pasta successivamente.",
+      "Intanto, saltate gli asparagi a fuoco medio, in una padella con l’olio extravergine d’oliva, per 7-8 minuti, aggiungendo al bisogno qualche cucchiaio d’acqua calda per favorire la cottura e ammorbidirli; a metà cottura unite anche le punte degli asparagi che richiedono meno tempo. A fine cottura aggiustate anche di sale e di pepe e spegnete il fuoco. Occupatevi poi della crema: in un recipiente versate i tuorli d’uovo e sbatteteli insieme a sale e pepe, unite anche il Pecorino romano e continuate a mescolare.",
+      "Versate la panna fersca liquida e stemperate fino ad ottenere una crema liscia. A questo punto potrete cuocere la pasta senza glutine e scolarla poi al dente,",
+      "tuffandola direttamente nella padella con gli asparagi a fiamma spenta. Unite la crema d’uovo, mescolate brevemente e la vostra pasta con asparagi e crema d'uovo è pronta per essere impiattata e servita ben calda."
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con asparagi e crema d’uovo cominciate dalla pulizia degli ortaggi. Quindi eliminate la base 1 e tenete soltanto la parte verde più tenera. Pelateli con l’aiuto di un pelaverdure 2 e tagliate a rondelle gli asparagi lasciando le punte intere 3 . Ponete sul fuoco un tegame con abbondante acqua e portate a bollore, quindi salatela: servirà per cuocere la pasta successivamente.",
+      "Intanto, saltate gli asparagi a fuoco medio, in una padella con l’olio extravergine d’oliva, per 7-8 minuti 4 , aggiungendo al bisogno qualche cucchiaio d’acqua calda per favorire la cottura e ammorbidirli; a metà cottura unite anche le punte degli asparagi che richiedono meno tempo 5 . A fine cottura aggiustate anche di sale e di pepe e spegnete il fuoco. Occupatevi poi della crema: in un recipiente versate i tuorli d’uovo e sbatteteli insieme a sale e pepe 6 , unite anche il Pecorino romano e continuate a mescolare.",
+      "Versate la panna fersca liquida 7 e stemperate fino ad ottenere una crema liscia 8 . A questo punto potrete cuocere la pasta senza glutine 9 e scolarla poi al dente,",
+      "tuffandola direttamente nella padella con gli asparagi a fiamma spenta 10 . Unite la crema d’uovo 11 , mescolate brevemente e la vostra pasta con asparagi e crema d'uovo è pronta per essere impiattata e servita ben calda 12 ."
+    ],
+    "needs_review": false,
+    "source_category": "Primi piatti",
+    "source_cost": "Molto basso",
+    "imported_at": "2026-11-23T15:20:44.993464+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Primi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16660/16660_pasta_con_asparagi_e_crema_duovo_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16660/16660_pasta_con_asparagi_e_crema_duovo_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16660/16660_pasta_con_asparagi_e_crema_duovo_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16660/16660_pasta_con_asparagi_e_crema_duovo_strip_10-12.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare la pasta con asparagi e crema d’uovo cominciate dalla pulizia degli ortaggi. Quindi eliminate la base e tenete soltanto la parte verde più tenera. Pelateli con l’aiuto di un pelaverdure e tagliate a rondelle gli asparagi lasciando le punte intere. Ponete sul fuoco un tegame con abbondante acqua e portate a bollore, quindi salatela: servirà per cuocere la pasta successivamente.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16660/16660_pasta_con_asparagi_e_crema_duovo_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Intanto, saltate gli asparagi a fuoco medio, in una padella con l’olio extravergine d’oliva, per 7-8 minuti, aggiungendo al bisogno qualche cucchiaio d’acqua calda per favorire la cottura e ammorbidirli; a metà cottura unite anche le punte degli asparagi che richiedono meno tempo. A fine cottura aggiustate anche di sale e di pepe e spegnete il fuoco. Occupatevi poi della crema: in un recipiente versate i tuorli d’uovo e sbatteteli insieme a sale e pepe, unite anche il Pecorino romano e continuate a mescolare.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16660/16660_pasta_con_asparagi_e_crema_duovo_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate la panna fersca liquida e stemperate fino ad ottenere una crema liscia. A questo punto potrete cuocere la pasta senza glutine e scolarla poi al dente,",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16660/16660_pasta_con_asparagi_e_crema_duovo_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "tuffandola direttamente nella padella con gli asparagi a fiamma spenta. Unite la crema d’uovo, mescolate brevemente e la vostra pasta con asparagi e crema d'uovo è pronta per essere impiattata e servita ben calda.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16660/16660_pasta_con_asparagi_e_crema_duovo_strip_10-12.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-asparagi-e-crema-d-uovo.html",
+      "source_hash": "ee68124d6cdae3dfc6af7945072b9b75d660e3cec0e00dec02faaa4912b9b61b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-23T15:21:28.424071+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 4,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-23T15:21:28.424082+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/166-16660/Pasta-con-asparagi-e-crema-d-uovo_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-23T15:21:59.779120+00:00"
+    }
+  },
+  {
+    "id": 172758649432610,
+    "name": "Arista di maiale in padella",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 40,
+    "ingredients_display": [
+      "Arista 640 g",
+      "Funghi champignon 250 g",
+      "Aglio 1 spicchio",
+      "Vino bianco 135 g",
+      "Farina 00 115 g",
+      "Prezzemolo (da tritare) q.b.",
+      "Olio extravergine d'oliva 30 g",
+      "Sale q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Arista-di-maiale-in-padella.html",
+    "image_url": "https://www.giallozafferano.it/images/275-27540/Arista-di-maiale-in-padella_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 533.6,
+    "protein": null,
+    "carbs": 25.8,
+    "fats": 28.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Arista",
+        640,
+        "g"
+      ],
+      [
+        "Funghi champignon",
+        250,
+        "g"
+      ],
+      [
+        "Aglio",
+        1,
+        "spicchio"
+      ],
+      [
+        "Vino bianco",
+        135,
+        "g"
+      ],
+      [
+        "Farina 00",
+        115,
+        "g"
+      ],
+      [
+        "Prezzemolo (da tritare)",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        30,
+        "g"
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare l'arista di maiale in padella cominciate dalla pulizia dei funghi champignon. Tagliate via la parte finale del gambo, solitamente terrosa, togliete la pellicina che riveste il cappello. Pulite i funghi con un canovaccio pulito e umido per eliminare eventuali residui di terra. In una padella versate 15 g di olio, presi dal totale, aggiungete uno spicchio d'aglio in camicia e fatelo rosolare. Aggiungete i funghi e regolate di sale.",
+      "Aggiungete anche il pepe. Quindi coprite la padella con un coperchio e fate cuocere, a fiamma bassa, per 5 minuti. Prendete l’arista di maiale, eliminate il grasso dai bordi (se vi piace potete lasciarlo) e tagliatela a fette dallo spessore di 2 cm.",
+      "Passate ambo i lati delle fette nella farina ed eliminate quella in eccesso.",
+      "In un'altra padella versate i restanti 15 g di olio, posizionate le fette di arista e fate rosolare, a fiamma alta, 1 minuto per lato.",
+      "Sfumate con vino bianco e fate evaporare la parte alcolica. Aggiustate di sale e continuate la cottura, a fiamma bassa, per 10 minuti. Aggiungete quindi i funghi con tutto il loro fondo di cottura.",
+      "Continuate la cottura a fiamma alta per qualche minuto, giusto il tempo per far insaporire le fette d'arista.",
+      "In ultimo unite il prezzemolo tritato. Ecco pronta l'arista di maiale in padella, servitela con il suo fondo di cottura."
+    ],
+    "steps_raw": [
+      "Per preparare l'arista di maiale in padella cominciate dalla pulizia dei funghi champignon. Tagliate via la parte finale del gambo, solitamente terrosa, togliete la pellicina che riveste il cappello. Pulite i funghi con un canovaccio pulito e umido per eliminare eventuali residui di terra. In una padella versate 15 g di olio, presi dal totale, aggiungete uno spicchio d'aglio in camicia e fatelo rosolare 1 . Aggiungete i funghi 2 e regolate di sale 3 .",
+      "Aggiungete anche il pepe 4 . Quindi coprite la padella con un coperchio e fate cuocere, a fiamma bassa, per 5 minuti 5 . Prendete l’arista di maiale, eliminate il grasso dai bordi (se vi piace potete lasciarlo) e tagliatela a fette dallo spessore di 2 cm 6 .",
+      "Passate ambo i lati delle fette nella farina 7 8 ed eliminate quella in eccesso 9 .",
+      "In un'altra padella versate i restanti 15 g di olio 10 , posizionate le fette di arista 11 e fate rosolare, a fiamma alta, 1 minuto per lato 12 .",
+      "Sfumate con vino bianco 13 e fate evaporare la parte alcolica. Aggiustate di sale 14 e continuate la cottura, a fiamma bassa, per 10 minuti. Aggiungete quindi i funghi con tutto il loro fondo di cottura 15 .",
+      "Continuate la cottura a fiamma alta per qualche minuto 16 17 , giusto il tempo per far insaporire le fette d'arista 18 .",
+      "In ultimo unite il prezzemolo tritato 19 20 . Ecco pronta l'arista di maiale in padella 21 , servitela con il suo fondo di cottura."
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-23T15:20:47.828986+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_19-21.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare l'arista di maiale in padella cominciate dalla pulizia dei funghi champignon. Tagliate via la parte finale del gambo, solitamente terrosa, togliete la pellicina che riveste il cappello. Pulite i funghi con un canovaccio pulito e umido per eliminare eventuali residui di terra. In una padella versate 15 g di olio, presi dal totale, aggiungete uno spicchio d'aglio in camicia e fatelo rosolare. Aggiungete i funghi e regolate di sale.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Aggiungete anche il pepe. Quindi coprite la padella con un coperchio e fate cuocere, a fiamma bassa, per 5 minuti. Prendete l’arista di maiale, eliminate il grasso dai bordi (se vi piace potete lasciarlo) e tagliatela a fette dallo spessore di 2 cm.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Passate ambo i lati delle fette nella farina ed eliminate quella in eccesso.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "In un'altra padella versate i restanti 15 g di olio, posizionate le fette di arista e fate rosolare, a fiamma alta, 1 minuto per lato.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Sfumate con vino bianco e fate evaporare la parte alcolica. Aggiustate di sale e continuate la cottura, a fiamma bassa, per 10 minuti. Aggiungete quindi i funghi con tutto il loro fondo di cottura.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Continuate la cottura a fiamma alta per qualche minuto, giusto il tempo per far insaporire le fette d'arista.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_16-18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "In ultimo unite il prezzemolo tritato. Ecco pronta l'arista di maiale in padella, servitela con il suo fondo di cottura.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/275/27540/27540_arista-di-maiale-in-padella_strip_19-21.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Arista-di-maiale-in-padella.html",
+      "source_hash": "c617e2a55d711f52cc999232bf5729bfea7a6e10e5961afe13bec5cd31283e01",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-23T15:21:17.664220+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 7,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-23T15:21:17.664232+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/275-27540/Arista-di-maiale-in-padella_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-23T15:21:59.779120+00:00"
+    }
+  },
+  {
+    "id": 274211998993110,
+    "name": "Cavolfiore alla pizzaiola",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 35,
+    "ingredients_display": [
+      "Cavolfiore 1 kg",
+      "Passata di pomodoro 280 g",
+      "Mozzarella 200 g",
+      "Basilico q.b.",
+      "Capperi sotto sale dissalati q.b.",
+      "Pecorino Romano DOP 40 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Cavolfiore-alla-pizzaiola.html",
+    "image_url": "https://www.giallozafferano.it/images/258-25880/Cavolfiore-alla-pizzaiola_650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 325.9,
+    "protein": null,
+    "carbs": 21.0,
+    "fats": 19.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Cavolfiore",
+        1,
+        "kg"
+      ],
+      [
+        "Passata di pomodoro",
+        280,
+        "g"
+      ],
+      [
+        "Mozzarella",
+        200,
+        "g"
+      ],
+      [
+        "Basilico",
+        null,
+        "q.b."
+      ],
+      [
+        "Capperi sotto sale dissalati",
+        null,
+        "q.b."
+      ],
+      [
+        "Pecorino Romano DOP",
+        40,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il cavolfiore alla pizzaiola lavate il cavolfiore, privatelo delle eventuali foglie ancora attaccate e poi rimuovete la radice del gambo, lasciando comunque la parte dove sono attaccate le cime, in modo che le fette che ricaverete (di circa 1 cm abbondante) resteranno più integre. Se dovesse sgretolarsi non preoccupatevi, si ricomporrà in padella. Consigliamo di lasciarlo il più possibile intero solo per migliorare la consistenza della forchettata. Scaldate un filo d’olio in una padella antiaderente di circa 30-32 cm di diametro (assicuratevi di avere il coperchio perché vi servirà). Disponete le fette di cavolfiore fino a ricoprire uniformemente il fondo, condite con un pizzico di sale.",
+      "Fate cuocere a fuoco piuttosto vivace, con il coperchio, per circa 10 minuti. Nel frattempo scolate la mozzarella, stracciatela a mano e ponetela a scolare su un colino,mentre procedete con la ricetta. A questo punto girate delicatamente le fette che risulteranno ben brasate sul primo lato. Coprite con la passata di pomodoro.",
+      "Condite con un pizzico di sale, quanto basta per condire il sugo, i capperi già dissalati e grossolanamente sgretolati, il Pecorino grattugiato, la mozzarella precedentemente scolata e sfilacciata.",
+      "Insaporite con pepe e foglioline di basilico. Coprite e cuocete per circa 10 minuti, a fiamma appena un po’ più moderata. A questo punto togliete il coperchio e fate asciugare, tornando ad alzare un po' la temperatura, per 5 minuti. Fate rapprendere per un paio di minuti prima di servire il vostro cavolfiore alla pizzaiola."
+    ],
+    "steps_raw": [
+      "Per preparare il cavolfiore alla pizzaiola lavate il cavolfiore, privatelo delle eventuali foglie ancora attaccate 1 e poi rimuovete la radice del gambo, lasciando comunque la parte dove sono attaccate le cime, in modo che le fette che ricaverete (di circa 1 cm abbondante) resteranno più integre 2 . Se dovesse sgretolarsi non preoccupatevi, si ricomporrà in padella. Consigliamo di lasciarlo il più possibile intero solo per migliorare la consistenza della forchettata. Scaldate un filo d’olio in una padella antiaderente di circa 30-32 cm di diametro (assicuratevi di avere il coperchio perché vi servirà). Disponete le fette di cavolfiore fino a ricoprire uniformemente il fondo 3 , condite con un pizzico di sale.",
+      "Fate cuocere a fuoco piuttosto vivace, con il coperchio, per circa 10 minuti 4 . Nel frattempo scolate la mozzarella, stracciatela a mano e ponetela a scolare su un colino ,mentre procedete con la ricetta. A questo punto girate delicatamente le fette che risulteranno ben brasate sul primo lato 5 . Coprite con la passata di pomodoro 6 .",
+      "Condite con un pizzico di sale, quanto basta per condire il sugo, i capperi già dissalati e grossolanamente sgretolati 7 , il Pecorino grattugiato 8 , la mozzarella precedentemente scolata e sfilacciata 9 .",
+      "Insaporite con pepe e foglioline di basilico 10 . Coprite 11 e cuocete per circa 10 minuti, a fiamma appena un po’ più moderata. A questo punto togliete il coperchio e fate asciugare, tornando ad alzare un po' la temperatura, per 5 minuti. Fate rapprendere per un paio di minuti prima di servire il vostro cavolfiore alla pizzaiola 12 ."
+    ],
+    "needs_review": true,
+    "source_category": "Contorni",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-23T15:20:50.735607+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Contorno",
+      "esito": "escluso",
+      "criterio": "categoria fonte: Contorni",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Contorno",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "esclusa_dal_piano": {
+      "tipo": "Contorno",
+      "motivo": "categoria fonte: Contorni"
+    }
+  },
+  {
+    "id": 71992142293124,
+    "name": "Petto d'anatra marinato con verdure",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 55,
+    "ingredients_display": [
+      "Petto d'anatra 600 g",
+      "Carote 100 g",
+      "Porri 100 g",
+      "Friggitelli 100 g",
+      "Salsa di soia 20 g",
+      "Olio di sesamo 10 g",
+      "Aglio 1 spicchio",
+      "Lemongrass stelo 1",
+      "Peperoncino fresco 1",
+      "Tabasco® q.b.",
+      "Salsa di soia 50 g",
+      "Succo d'arancia 50 g",
+      "Miele 30 g",
+      "Timo 2 rametti",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Petto-d-anatra-marinato-con-verdure.html",
+    "image_url": "https://www.giallozafferano.it/images/166-16648/Petto-d-anatra-marinato-con-verdure_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 284.9,
+    "protein": null,
+    "carbs": 18.0,
+    "fats": 9.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Petto d'anatra",
+        600,
+        "g"
+      ],
+      [
+        "Carote",
+        100,
+        "g"
+      ],
+      [
+        "Porri",
+        100,
+        "g"
+      ],
+      [
+        "Friggitelli",
+        100,
+        "g"
+      ],
+      [
+        "Salsa di soia",
+        20,
+        "g"
+      ],
+      [
+        "Olio di sesamo",
+        10,
+        "g"
+      ],
+      [
+        "Aglio",
+        1,
+        "spicchio"
+      ],
+      [
+        "Lemongrass stelo",
+        1,
+        "pezzi"
+      ],
+      [
+        "Peperoncino fresco",
+        1,
+        "pezzi"
+      ],
+      [
+        "Tabasco®",
+        null,
+        "q.b."
+      ],
+      [
+        "Salsa di soia",
+        50,
+        "g"
+      ],
+      [
+        "Succo d'arancia",
+        50,
+        "g"
+      ],
+      [
+        "Miele",
+        30,
+        "g"
+      ],
+      [
+        "Timo",
+        2,
+        "rametti"
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il petto d'anatra marinato con verdure eliminate le piccole piume rimaste attaccate alla pelle del petto d'anatra con una pinzetta da cucina. Incidete il petto dalla parte della pelle praticando dei tagli in diagonale e trasversali per creare dei rombi. Ora preparate la marinatura, ponete l’anatra in una terrina e versate la salsa di soia.",
+      "Spremete il succo di un’arancia e aggiungetelo alla marinatura della carne, poi aromatizzate con i rametti di timo, il miele e il pepe.",
+      "Coprite con pellicola da cucina e lasciate marinare la carne per 2 ore in frigorifero. Lavate e pelate le carote e tagliatele a listerelle sottili, eliminate il picciolo dei friggitelli e i semini interni, poi riducete anch’essi a listarelle.",
+      "Eseguite lo stesso procedimento con i peperoncini. Pulite il porro eliminando la base e le foglie più esterne, poi affettate la parte bianca. Sbucciate l’aglio e affettatelo, eliminate le foglie più esterne e la parte verde del lemongrass e tagliatelo a metà.",
+      "In un wok scaldate l’olio di sesamo, poi aggiungete lo stelo di lemongrass, l’aglio affettato, il porro e il peperoncino.",
+      "Unite anche i friggitelli e le carote, poi sfumate con la salsa di soia.",
+      "Insaporite con il tabasco e saltate tutte le verdure per almeno 5 minuti, devono rimanere croccanti. A cottura ultimata eliminate il lemongrass. Scaldate una padella adatta alla cottura in forno e fate rosolare a fuoco vivace il petto d’anatra adagiando sul fondo la parte più grassa, bagnatelo con un po’ di marinatura.",
+      "Rosolate il petto d’anatra da ambo i lati, poi versate la restante marinatura in padella e cuocete in forno statico preriscaldato a 160° per 30 minuti (se non avete una padella da forno potete trasferire il petto con il suo fondo di cottura in una teglia adatta alla cottura in forno). A cottura ultimata sfornate il petto d'anatra marinato e servitelo accompagnandolo con le verdure saltate e il fondo di cottura."
+    ],
+    "steps_raw": [
+      "Per preparare il petto d'anatra marinato con verdure eliminate le piccole piume rimaste attaccate alla pelle del petto d'anatra con una pinzetta da cucina. Incidete il petto dalla parte della pelle praticando dei tagli in diagonale 1 e trasversali per creare dei rombi 2 . Ora preparate la marinatura, ponete l’anatra in una terrina e versate la salsa di soia 3 .",
+      "Spremete il succo di un’arancia 4 e aggiungetelo alla marinatura della carne 5 , poi aromatizzate con i rametti di timo, il miele 6 e il pepe.",
+      "Coprite con pellicola da cucina 7 e lasciate marinare la carne per 2 ore in frigorifero. Lavate e pelate le carote e tagliatele a listerelle sottili 8 , eliminate il picciolo dei friggitelli e i semini interni, poi riducete anch’essi a listarelle 9 .",
+      "Eseguite lo stesso procedimento con i peperoncini 10 . Pulite il porro eliminando la base e le foglie più esterne, poi affettate la parte bianca 11 . Sbucciate l’aglio e affettatelo 12 , eliminate le foglie più esterne e la parte verde del lemongrass e tagliatelo a metà.",
+      "In un wok scaldate l’olio di sesamo, poi aggiungete lo stelo di lemongrass, l’aglio affettato 13 , il porro 14 e il peperoncino 15 .",
+      "Unite anche i friggitelli 16 e le carote 17 , poi sfumate con la salsa di soia 18 .",
+      "Insaporite con il tabasco 19 e saltate tutte le verdure per almeno 5 minuti, devono rimanere croccanti. A cottura ultimata eliminate il lemongrass 20 . Scaldate una padella adatta alla cottura in forno e fate rosolare a fuoco vivace il petto d’anatra adagiando sul fondo la parte più grassa, bagnatelo con un po’ di marinatura 21 .",
+      "Rosolate il petto d’anatra da ambo i lati, poi versate la restante marinatura in padella 22 e cuocete in forno statico preriscaldato a 160° per 30 minuti (se non avete una padella da forno potete trasferire il petto con il suo fondo di cottura in una teglia adatta alla cottura in forno). A cottura ultimata sfornate il petto d'anatra marinato 23 e servitelo accompagnandolo con le verdure saltate e il fondo di cottura 24 ."
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-23T15:20:53.970146+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_22-24.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare il petto d'anatra marinato con verdure eliminate le piccole piume rimaste attaccate alla pelle del petto d'anatra con una pinzetta da cucina. Incidete il petto dalla parte della pelle praticando dei tagli in diagonale e trasversali per creare dei rombi. Ora preparate la marinatura, ponete l’anatra in una terrina e versate la salsa di soia.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Spremete il succo di un’arancia e aggiungetelo alla marinatura della carne, poi aromatizzate con i rametti di timo, il miele e il pepe.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Coprite con pellicola da cucina e lasciate marinare la carne per 2 ore in frigorifero. Lavate e pelate le carote e tagliatele a listerelle sottili, eliminate il picciolo dei friggitelli e i semini interni, poi riducete anch’essi a listarelle.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Eseguite lo stesso procedimento con i peperoncini. Pulite il porro eliminando la base e le foglie più esterne, poi affettate la parte bianca. Sbucciate l’aglio e affettatelo, eliminate le foglie più esterne e la parte verde del lemongrass e tagliatelo a metà.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "In un wok scaldate l’olio di sesamo, poi aggiungete lo stelo di lemongrass, l’aglio affettato, il porro e il peperoncino.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Unite anche i friggitelli e le carote, poi sfumate con la salsa di soia.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_16-18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Insaporite con il tabasco e saltate tutte le verdure per almeno 5 minuti, devono rimanere croccanti. A cottura ultimata eliminate il lemongrass. Scaldate una padella adatta alla cottura in forno e fate rosolare a fuoco vivace il petto d’anatra adagiando sul fondo la parte più grassa, bagnatelo con un po’ di marinatura.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_19-21.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Rosolate il petto d’anatra da ambo i lati, poi versate la restante marinatura in padella e cuocete in forno statico preriscaldato a 160° per 30 minuti (se non avete una padella da forno potete trasferire il petto con il suo fondo di cottura in una teglia adatta alla cottura in forno). A cottura ultimata sfornate il petto d'anatra marinato e servitelo accompagnandolo con le verdure saltate e il fondo di cottura.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/166/16648/16648_petto_di_anatra_marinato_con_verdure_strip_22-24.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Petto-d-anatra-marinato-con-verdure.html",
+      "source_hash": "d7ba6716d09a24e57b75bff687ab9bd37cf9d0db432e4e0ca7f1330e414bffcc",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-23T15:21:33.781828+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 8,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-23T15:21:33.781839+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/166-16648/Petto-d-anatra-marinato-con-verdure_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-23T15:21:59.779120+00:00"
+    }
+  },
+  {
+    "id": 246660959733176,
+    "name": "Pasta con agretti",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 45,
+    "ingredients_display": [
+      "Spaghetti 320 g",
+      "Barba di frate (agretti) (da pulire) 125 g",
+      "Aglio di Nubia 4 spicchi",
+      "Peperoncino fresco 2",
+      "Olio extravergine d'oliva 80 g",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-agretti.html",
+    "image_url": "https://www.giallozafferano.it/images/360-36019/Pasta-con-agretti_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 488.4,
+    "protein": null,
+    "carbs": 63.0,
+    "fats": 21.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Spaghetti",
+        320,
+        "g"
+      ],
+      [
+        "Barba di frate (agretti) (da pulire)",
+        125,
+        "g"
+      ],
+      [
+        "Aglio di Nubia",
+        4,
+        "spicchi"
+      ],
+      [
+        "Peperoncino fresco",
+        2,
+        "pezzi"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        80,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con agretti, cominciate dalla pulizia della barba di frate: eliminate la base terrosa, poi tagliateli in 3-4 parti e sciacquate bene. Affettate a rondelle l'aglio di Nubia.",
+      "Versate l'olio in una padella, aggiungete l'aglio e cuocete a fiamma bassissima per circa 5 minuti. Trasferite il tutto nel boccale del mixer e frullate per ottenere una crema liscia.",
+      "Versate la crema nella stessa padella e aggiungete i peperoncini tagliati a pezzetti. Lasciate insaporire per qualche minuto prima di unire gli agretti.",
+      "Salate e rosolate dolcemente, mescolando spesso; ci vorranno circa 10 minuti per ammorbidirsi. Intanto cuocete gli spaghetti in acqua salata bollente per metà del loro tempo di cottura. Bagnate gli agretti con un mestolo dell'acqua di cottura della pasta.",
+      "Scolate gli spaghetti nella padella, avendo cura di conservare la loro acqua. Portate a cottura la pasta aggiungendo poca acqua calda per volta e mescolando di continuo. La vostra pasta con agretti è pronta per essere servita!"
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con agretti, cominciate dalla pulizia della barba di frate: eliminate la base terrosa 1 , poi tagliateli in 3-4 parti 2 e sciacquate bene. Affettate a rondelle l'aglio di Nubia 3 .",
+      "Versate l'olio in una padella, aggiungete l'aglio 4 e cuocete a fiamma bassissima per circa 5 minuti. Trasferite il tutto nel boccale del mixer 5 e frullate per ottenere una crema liscia 6 .",
+      "Versate la crema nella stessa padella 7 e aggiungete i peperoncini tagliati a pezzetti 8 . Lasciate insaporire per qualche minuto prima di unire gli agretti 9 .",
+      "Salate e rosolate dolcemente, mescolando spesso 10 ; ci vorranno circa 10 minuti per ammorbidirsi 11 . Intanto cuocete gli spaghetti in acqua salata bollente per metà del loro tempo di cottura. Bagnate gli agretti con un mestolo dell'acqua di cottura della pasta 12 .",
+      "Scolate gli spaghetti nella padella 13 , avendo cura di conservare la loro acqua. Portate a cottura la pasta aggiungendo poca acqua calda per volta e mescolando di continuo 14 . La vostra pasta con agretti è pronta per essere servita 15 !"
+    ],
+    "needs_review": false,
+    "source_category": "Primi piatti",
+    "source_cost": "Basso",
+    "imported_at": "2026-11-23T15:20:56.674364+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Primi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/360/36019/36019_pasta-con-agretti_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/360/36019/36019_pasta-con-agretti_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/360/36019/36019_pasta-con-agretti_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/360/36019/36019_pasta-con-agretti_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/360/36019/36019_pasta-con-agretti_strip_13-15.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare la pasta con agretti, cominciate dalla pulizia della barba di frate: eliminate la base terrosa, poi tagliateli in 3-4 parti e sciacquate bene. Affettate a rondelle l'aglio di Nubia.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/360/36019/36019_pasta-con-agretti_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate l'olio in una padella, aggiungete l'aglio e cuocete a fiamma bassissima per circa 5 minuti. Trasferite il tutto nel boccale del mixer e frullate per ottenere una crema liscia.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/360/36019/36019_pasta-con-agretti_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate la crema nella stessa padella e aggiungete i peperoncini tagliati a pezzetti. Lasciate insaporire per qualche minuto prima di unire gli agretti.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/360/36019/36019_pasta-con-agretti_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Salate e rosolate dolcemente, mescolando spesso; ci vorranno circa 10 minuti per ammorbidirsi. Intanto cuocete gli spaghetti in acqua salata bollente per metà del loro tempo di cottura. Bagnate gli agretti con un mestolo dell'acqua di cottura della pasta.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/360/36019/36019_pasta-con-agretti_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Scolate gli spaghetti nella padella, avendo cura di conservare la loro acqua. Portate a cottura la pasta aggiungendo poca acqua calda per volta e mescolando di continuo. La vostra pasta con agretti è pronta per essere servita!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/360/36019/36019_pasta-con-agretti_strip_13-15.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-agretti.html",
+      "source_hash": "44b4aef729c95cfc7cbd985c3cc98b353fd1eabad0a27c1c992af163bad42f72",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-23T15:21:23.037833+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 5,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-23T15:21:23.037844+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/360-36019/Pasta-con-agretti_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-23T15:21:59.779120+00:00"
+    }
+  },
+  {
+    "id": 279212496982468,
+    "name": "Arista di maiale con confettura di pomodori",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 115,
+    "ingredients_display": [
+      "Arista legata e bardata con pancetta 1 kg",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Aglio 2 spicchi",
+      "Vino bianco 80 g",
+      "Zucchine baby 500 g",
+      "Acqua 30 g",
+      "Timo q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Pomodorini datterini 500 g",
+      "Zucchero 150 g",
+      "Cipolle rosse ½",
+      "Aceto di vino bianco 50 g",
+      "Sale fino q.b.",
+      "Peperoncino in polvere ¼ cucchiaino"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Arista-di-maiale-con-confettura-di-pomodori.html",
+    "image_url": "https://www.giallozafferano.it/images/177-17717/Arista-di-maiale-con-confettura-di-pomodori_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 793.5,
+    "protein": null,
+    "carbs": 51.4,
+    "fats": 40.4,
+    "cost": null,
+    "ingredients": [
+      [
+        "Arista legata e bardata con pancetta",
+        1,
+        "kg"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Aglio",
+        2,
+        "spicchi"
+      ],
+      [
+        "Vino bianco",
+        80,
+        "g"
+      ],
+      [
+        "Zucchine baby",
+        500,
+        "g"
+      ],
+      [
+        "Acqua",
+        30,
+        "g"
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Pomodorini datterini",
+        500,
+        "g"
+      ],
+      [
+        "Zucchero",
+        150,
+        "g"
+      ],
+      [
+        "Cipolle rosse",
+        0.5,
+        "pezzi"
+      ],
+      [
+        "Aceto di vino bianco",
+        50,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Peperoncino in polvere",
+        0.25,
+        "cucchiaini"
+      ]
+    ],
+    "steps": [
+      "Per realizzare l’arista di maiale con confettura di pomodori per prima cosa procuratevi un’arista già legata, bardata con la pancetta e steccata con un rametto di rosmarino, in alternativa potete prendere l’arista, rivestirla con le fettine di pancetta e legarla con lo spago seguendo le indicazioni che trovate nella nostra scheda come legare l’arrosto. Inserite nello spago anche un rametto di rosmarino, quindi salate, pepate e massaggiate la carne per insaporirla. Lavate e spuntate le zucchine baby. Ora scaldate in padella l’olio di oliva con due spicchi d’aglio sbucciati.",
+      "Adagiate l’arista e lasciatela rosolare da tutti i lati per un paio di minuti così da sigillarla bene, una volta che sarà dorata in superficie, sfumate con il vino bianco e lasciate evaporare l’alcol. A questo punto trasferite l’arista in una teglia da forno.",
+      "Versate le zucchine baby nella padella con il fondo di cottura della carne, coprite con 30 g di acqua, salate e saltate le zucchine per 1 minuto. Spegnete il fuoco, eliminate l’aglio e trasferite le zucchine e il fondo di cottura nella teglia con l’arista.Cuocete in forno preriscaldato statico a 170° per circa 60-70 minuti:inserite nella carne una sonda per misurare la temperatura interna che deve raggiungere i 68° per una cottura ottimale.",
+      "Mentre la carne cuoce occupatevi della composta di pomodorini: lavate e tagliate a metà i pomodorini, mondate e affettate la cipolla rossa, versate i pomodorini in un pentolino insieme alla cipolla",
+      "Aggiungete anche lo zucchero, l’aceto di vino bianco e cuocete a fuoco medio-alto per circa 30 minuti, a metà cottura insaporite con il peperoncino e salate.",
+      "A fine cottura i pomodorini saranno morbidi e non troppo asciutti. Una volta che anche la carne sarà cotta, sfornate, eliminate lo spago con le forbici, affettate la carne e servitela accompagnandola con le zucchine e la composta di pomodorini, profumate il piatto con del timo."
+    ],
+    "steps_raw": [
+      "Per realizzare l’arista di maiale con confettura di pomodori per prima cosa procuratevi un’arista già legata, bardata con la pancetta e steccata con un rametto di rosmarino, in alternativa potete prendere l’arista, rivestirla con le fettine di pancetta e legarla con lo spago seguendo le indicazioni che trovate nella nostra scheda come legare l’arrosto . Inserite nello spago anche un rametto di rosmarino, quindi salate 1 , pepate e massaggiate la carne per insaporirla. Lavate e spuntate le zucchine baby 2 . Ora scaldate in padella l’olio di oliva con due spicchi d’aglio sbucciati 3 .",
+      "Adagiate l’arista 4 e lasciatela rosolare da tutti i lati per un paio di minuti così da sigillarla bene, una volta che sarà dorata in superficie, sfumate con il vino bianco 5 e lasciate evaporare l’alcol. A questo punto trasferite l’arista in una teglia da forno 6 .",
+      "Versate le zucchine baby nella padella con il fondo di cottura della carne 7 , coprite con 30 g di acqua, salate e saltate le zucchine per 1 minuto. Spegnete il fuoco, eliminate l’aglio 8 e trasferite le zucchine e il fondo di cottura nella teglia con l’arista 9 .Cuocete in forno preriscaldato statico a 170° per circa 60-70 minuti:inserite nella carne una sonda per misurare la temperatura interna che deve raggiungere i 68° per una cottura ottimale.",
+      "Mentre la carne cuoce occupatevi della composta di pomodorini: lavate e tagliate a metà i pomodorini 10 , mondate e affettate la cipolla rossa 11 , versate i pomodorini in un pentolino insieme alla cipolla 12",
+      "Aggiungete anche lo zucchero 13 , l’aceto di vino bianco 14 e cuocete a fuoco medio-alto per circa 30 minuti, a metà cottura insaporite con il peperoncino 15 e salate.",
+      "A fine cottura i pomodorini saranno morbidi e non troppo asciutti 16 . Una volta che anche la carne sarà cotta, sfornate 17 , eliminate lo spago con le forbici, affettate la carne e servitela accompagnandola con le zucchine e la composta di pomodorini, profumate il piatto con del timo 18 ."
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-23T15:20:59.419243+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_16-18.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per realizzare l’arista di maiale con confettura di pomodori per prima cosa procuratevi un’arista già legata, bardata con la pancetta e steccata con un rametto di rosmarino, in alternativa potete prendere l’arista, rivestirla con le fettine di pancetta e legarla con lo spago seguendo le indicazioni che trovate nella nostra scheda come legare l’arrosto. Inserite nello spago anche un rametto di rosmarino, quindi salate, pepate e massaggiate la carne per insaporirla. Lavate e spuntate le zucchine baby. Ora scaldate in padella l’olio di oliva con due spicchi d’aglio sbucciati.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Adagiate l’arista e lasciatela rosolare da tutti i lati per un paio di minuti così da sigillarla bene, una volta che sarà dorata in superficie, sfumate con il vino bianco e lasciate evaporare l’alcol. A questo punto trasferite l’arista in una teglia da forno.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate le zucchine baby nella padella con il fondo di cottura della carne, coprite con 30 g di acqua, salate e saltate le zucchine per 1 minuto. Spegnete il fuoco, eliminate l’aglio e trasferite le zucchine e il fondo di cottura nella teglia con l’arista.Cuocete in forno preriscaldato statico a 170° per circa 60-70 minuti:inserite nella carne una sonda per misurare la temperatura interna che deve raggiungere i 68° per una cottura ottimale.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Mentre la carne cuoce occupatevi della composta di pomodorini: lavate e tagliate a metà i pomodorini, mondate e affettate la cipolla rossa, versate i pomodorini in un pentolino insieme alla cipolla",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Aggiungete anche lo zucchero, l’aceto di vino bianco e cuocete a fuoco medio-alto per circa 30 minuti, a metà cottura insaporite con il peperoncino e salate.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "A fine cottura i pomodorini saranno morbidi e non troppo asciutti. Una volta che anche la carne sarà cotta, sfornate, eliminate lo spago con le forbici, affettate la carne e servitela accompagnandola con le zucchine e la composta di pomodorini, profumate il piatto con del timo.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/177/17717/17717_arista_di_maiale_con_pomodori_strip_16-18.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Arista-di-maiale-con-confettura-di-pomodori.html",
+      "source_hash": "0f7ee67a722b1fd3aa7d926cf238c2732a9f6a35496030346c9a1729088c0d0a",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-23T15:21:14.989841+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 6,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-23T15:21:14.989855+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/ricette/177/17717/foto_hd/hd650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-23T15:21:59.779120+00:00"
+    }
+  },
+  {
+    "id": 37803055908893,
+    "name": "Cartocci di pizza",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Piatto unico",
+    "time": 35,
+    "ingredients_display": [
+      "Pasta per la pizza 400 g",
+      "Salame piccante 40 g",
+      "Pomodori secchi sott'olio (sgocciolati) 40",
+      "Caciocavallo 100 g",
+      "Ricotta vaccina 120 g",
+      "Olive nere denocciolate 60 g",
+      "Basilico 1 mazzetto",
+      "Olio extravergine d'oliva 4 cucchiai"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Cartocci-di-pizza.html",
+    "image_url": "https://www.giallozafferano.it/images/185-18591/Cartocci-di-pizza_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 633.1,
+    "protein": null,
+    "carbs": 59.1,
+    "fats": 35.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pasta per la pizza",
+        400,
+        "g"
+      ],
+      [
+        "Salame piccante",
+        40,
+        "g"
+      ],
+      [
+        "Pomodori secchi sott'olio (sgocciolati)",
+        40,
+        "g"
+      ],
+      [
+        "Caciocavallo",
+        100,
+        "g"
+      ],
+      [
+        "Ricotta vaccina",
+        120,
+        "g"
+      ],
+      [
+        "Olive nere denocciolate",
+        60,
+        "g"
+      ],
+      [
+        "Basilico",
+        1,
+        "mazzetti"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        4,
+        "cucchiai"
+      ]
+    ],
+    "steps": [
+      "Per preparare i cartocci di pizza cominciate dagli ingredienti della farcia. Quindi affettate e tagliate a pezzettini il salame piccante, grattugiate il caciocavallo e tenete in disparte, sminuzzate anche i pomodori sott’olio e olive.",
+      "Quando avrete tutto pronto passate alla pasta di pizza, già pronta. Tagliate l’impasto in 4 pezzi da 100 g ciascuno e appiattite con le mani sul piano leggermente infarinato. Ottenete una sfoglia sottile 6-7 mm.",
+      "Quindi cominciate a farcire nel centro con salame, olive denocciolate e i pezzetti di pomodori secchi. Poi aggiungete un po’ di ricotta sgranandola a mano.",
+      "il basilico spezzettato a mano e il caciocavallo che avete grattugiato, un filo d’olio e procedete a chiudere le estremità portandole verso l’alto.",
+      "Congiungete bene le estremità e stringetele utilizzando dello spago da cucina. Il primo cartoccio è pronto, continuate con gli altri. Ungete una pirofila e sistemate i cartocci.",
+      "Ungete con un filo d'olio la superficie dei cartocci di pizza. I cartocci pizza sono pronti per la cottura: cuocete in forno statico, già caldo, a 230° per circa 15 minuti. Una volta terminata la cottura, sfornateli; non vi resta che gustarli ben caldi."
+    ],
+    "steps_raw": [
+      "Per preparare i cartocci di pizza cominciate dagli ingredienti della farcia. Quindi affettate e tagliate a pezzettini il salame piccante 1 , grattugiate il caciocavallo e tenete in disparte 2 , sminuzzate anche i pomodori sott’olio 3 e olive.",
+      "Quando avrete tutto pronto passate alla pasta di pizza, già pronta. Tagliate l’impasto in 4 pezzi da 100 g ciascuno 4 e appiattite con le mani sul piano leggermente infarinato 5 . Ottenete una sfoglia sottile 6-7 mm 6 .",
+      "Quindi cominciate a farcire nel centro con salame 7 , olive denocciolate e i pezzetti di pomodori secchi 8 . Poi aggiungete un po’ di ricotta sgranandola a mano 9 .",
+      "il basilico spezzettato a mano e il caciocavallo che avete grattugiato 10 , un filo d’olio 11 e procedete a chiudere le estremità portandole verso l’alto 12 .",
+      "Congiungete bene le estremità e stringetele utilizzando dello spago da cucina 13 . Il primo cartoccio è pronto, continuate con gli altri. Ungete una pirofila 14 e sistemate i cartocci 15 .",
+      "Ungete con un filo d'olio la superficie dei cartocci di pizza 16 . I cartocci pizza sono pronti per la cottura: cuocete in forno statico, già caldo, a 230° per circa 15 minuti 17 . Una volta terminata la cottura, sfornateli; non vi resta che gustarli ben caldi 18 ."
+    ],
+    "needs_review": false,
+    "source_category": "Lievitati",
+    "source_cost": "Basso",
+    "imported_at": "2026-11-23T15:21:02.738039+00:00",
+    "quantita_dedotte": [
+      {
+        "testo_fonte": "Pomodori secchi sott'olio (sgocciolati) 40",
+        "interpretato": [
+          "Pomodori secchi sott'olio (sgocciolati)",
+          40,
+          "g"
+        ],
+        "regola": "grammi_come_le_altre_dosi"
+      }
+    ],
+    "classificazione_automatica": {
+      "tipo_proposto": "Piatto unico",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Lievitati (pizza/panino)",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Piatto unico",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_16-18.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare i cartocci di pizza cominciate dagli ingredienti della farcia. Quindi affettate e tagliate a pezzettini il salame piccante, grattugiate il caciocavallo e tenete in disparte, sminuzzate anche i pomodori sott’olio e olive.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Quando avrete tutto pronto passate alla pasta di pizza, già pronta. Tagliate l’impasto in 4 pezzi da 100 g ciascuno e appiattite con le mani sul piano leggermente infarinato. Ottenete una sfoglia sottile 6-7 mm.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Quindi cominciate a farcire nel centro con salame, olive denocciolate e i pezzetti di pomodori secchi. Poi aggiungete un po’ di ricotta sgranandola a mano.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "il basilico spezzettato a mano e il caciocavallo che avete grattugiato, un filo d’olio e procedete a chiudere le estremità portandole verso l’alto.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Congiungete bene le estremità e stringetele utilizzando dello spago da cucina. Il primo cartoccio è pronto, continuate con gli altri. Ungete una pirofila e sistemate i cartocci.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Ungete con un filo d'olio la superficie dei cartocci di pizza. I cartocci pizza sono pronti per la cottura: cuocete in forno statico, già caldo, a 230° per circa 15 minuti. Una volta terminata la cottura, sfornateli; non vi resta che gustarli ben caldi.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/185/18591/18591_cartocci_di_pizza_strip_16-18.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Cartocci-di-pizza.html",
+      "source_hash": "d5c7b7b86243596645e3a90ec18d9cce492214df4acad382d8b26e3b35a2784b",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-23T15:21:20.346163+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 6,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-23T15:21:20.346175+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/185-18591/Cartocci-di-pizza_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-23T15:21:59.779120+00:00"
+    }
+  },
+  {
+    "id": 8531608297819,
+    "name": "Petto d'anatra grigliato",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 90,
+    "ingredients_display": [
+      "Petto d'anatra 2",
+      "Porri 2",
+      "Zucchero di canna q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Fondo d'anatra q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Petto-d-anatra-grigliato.html",
+    "image_url": "https://www.giallozafferano.it/images/247-24778/Petto-d-anatra-grigliato_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 1487.0,
+    "protein": null,
+    "carbs": 12.4,
+    "fats": 134.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Petto d'anatra",
+        2,
+        "pezzi"
+      ],
+      [
+        "Porri",
+        2,
+        "pezzi"
+      ],
+      [
+        "Zucchero di canna",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Fondo d'anatra",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per realizzare il petto d’anatra grigliato iniziate dal contorno: tagliate i porri a metà per il lungo, poi eliminate la prima foglia e adagiateli su un foglio di carta forno che avrete posizionato sopra a un foglio di alluminio. Condite con sale, pepe e un filo d’olio.",
+      "Avvolgete i porri e bucate l’involucro con uno stuzzicadenti. Cuocete in forno statico preriscaldato a 180° per 55 minuti. Passate al petto d’anatra: eliminate il grasso in eccesso, poi incidete la pelle praticando dei tagli sia in un verso 5 che nell’altro così da formare una scacchiera, facendo attenzione a non intaccare la carne.",
+      "Quando i porri saranno pronti, rimuoveteli dal forno e alzate la temperatura a 200°. Nel frattempo mettete sul fuoco una bistecchiera e scaldatela molto bene, poi adagiate i petti d’anatra dalla parte della pelle, pressandoli bene per evitare che si arriccino. Quando la pelle sarà diventata bella dorata e croccante, girateli e fate dorare anche l'altro lato.",
+      "Infine infornate la bistecchiera a 200° per 4 minuti. Una volta cotti, lasciate riposare i petti d’anatra per un paio di minuti. Nel frattempo aprite l’involucro dei porri.",
+      "Infine scaloppate la carne: il colore all'interno dovrà essere rosa. Sistemate le fettine di petto d’anatra su un lato del piatto e mezzo porro sull’altro lato, poi spolverizzate il porro con poco zucchero di canna.",
+      "Flambate il porro per ottenere una leggera caramellatura e nappate con il fondo d’anatra. Il vostro petto d’anatra grigliato è pronto per essere servito!"
+    ],
+    "steps_raw": [
+      "Per realizzare il petto d’anatra grigliato iniziate dal contorno: tagliate i porri a metà per il lungo 1 , poi eliminate la prima foglia e adagiateli su un foglio di carta forno che avrete posizionato sopra a un foglio di alluminio. Condite con sale 2 , pepe e un filo d’olio 3 .",
+      "Avvolgete i porri e bucate l’involucro con uno stuzzicadenti 4 . Cuocete in forno statico preriscaldato a 180° per 55 minuti. Passate al petto d’anatra: eliminate il grasso in eccesso, poi incidete la pelle praticando dei tagli sia in un verso 5 che nell’altro così da formare una scacchiera 6 , facendo attenzione a non intaccare la carne.",
+      "Quando i porri saranno pronti, rimuoveteli dal forno e alzate la temperatura a 200°. Nel frattempo mettete sul fuoco una bistecchiera e scaldatela molto bene, poi adagiate i petti d’anatra dalla parte della pelle 7 , pressandoli bene per evitare che si arriccino 8 . Quando la pelle sarà diventata bella dorata e croccante, girateli e fate dorare anche l'altro lato 9 .",
+      "Infine infornate la bistecchiera a 200° per 4 minuti 10 . Una volta cotti, lasciate riposare i petti d’anatra per un paio di minuti 11 . Nel frattempo aprite l’involucro dei porri 12 .",
+      "Infine scaloppate la carne: il colore all'interno dovrà essere rosa 13 . Sistemate le fettine di petto d’anatra su un lato del piatto e mezzo porro sull’altro lato 14 , poi spolverizzate il porro con poco zucchero di canna 15 .",
+      "Flambate il porro per ottenere una leggera caramellatura 16 e nappate con il fondo d’anatra 17 . Il vostro petto d’anatra grigliato è pronto per essere servito 18 !"
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-23T15:21:05.607627+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_18.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per realizzare il petto d’anatra grigliato iniziate dal contorno: tagliate i porri a metà per il lungo, poi eliminate la prima foglia e adagiateli su un foglio di carta forno che avrete posizionato sopra a un foglio di alluminio. Condite con sale, pepe e un filo d’olio.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_1.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_2.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Avvolgete i porri e bucate l’involucro con uno stuzzicadenti. Cuocete in forno statico preriscaldato a 180° per 55 minuti. Passate al petto d’anatra: eliminate il grasso in eccesso, poi incidete la pelle praticando dei tagli sia in un verso 5 che nell’altro così da formare una scacchiera, facendo attenzione a non intaccare la carne.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_4.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_5.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Quando i porri saranno pronti, rimuoveteli dal forno e alzate la temperatura a 200°. Nel frattempo mettete sul fuoco una bistecchiera e scaldatela molto bene, poi adagiate i petti d’anatra dalla parte della pelle, pressandoli bene per evitare che si arriccino. Quando la pelle sarà diventata bella dorata e croccante, girateli e fate dorare anche l'altro lato.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_7.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_8.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Infine infornate la bistecchiera a 200° per 4 minuti. Una volta cotti, lasciate riposare i petti d’anatra per un paio di minuti. Nel frattempo aprite l’involucro dei porri.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_10.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_11.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Infine scaloppate la carne: il colore all'interno dovrà essere rosa. Sistemate le fettine di petto d’anatra su un lato del piatto e mezzo porro sull’altro lato, poi spolverizzate il porro con poco zucchero di canna.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_13.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_14.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Flambate il porro per ottenere una leggera caramellatura e nappate con il fondo d’anatra. Il vostro petto d’anatra grigliato è pronto per essere servito!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_16.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_17.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/247/24778/petto-d-anatra-grigliato_18.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Petto-d-anatra-grigliato.html",
+      "source_hash": "e6aac23800a511e6fcbd2e658c8cf5ca4bddf8cebcbcf971eea4c55070dbadad",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-23T15:21:31.104566+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 6,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-23T15:21:31.104577+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/247-24778/Petto-d-anatra-grigliato_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-23T15:21:59.779120+00:00"
+    }
+  },
+  {
+    "id": 239744864047617,
+    "name": "Pasta con agretti e speck",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 45,
+    "ingredients_display": [
+      "Penne Rigate 320 g",
+      "Barba di frate (agretti) 200 g",
+      "Speck 100 g",
+      "Panna fresca liquida 100 g",
+      "Fontina 20 g",
+      "Scalogno 1",
+      "Olio extravergine d'oliva q.b.",
+      "Prezzemolo q.b.",
+      "Sale fino q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-agretti-e-speck.html",
+    "image_url": "https://www.giallozafferano.it/images/222-22286/Pasta-con-agretti-e-speck_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 486.6,
+    "protein": null,
+    "carbs": 66.1,
+    "fats": 15.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Penne Rigate",
+        320,
+        "g"
+      ],
+      [
+        "Barba di frate (agretti)",
+        200,
+        "g"
+      ],
+      [
+        "Speck",
+        100,
+        "g"
+      ],
+      [
+        "Panna fresca liquida",
+        100,
+        "g"
+      ],
+      [
+        "Fontina",
+        20,
+        "g"
+      ],
+      [
+        "Scalogno",
+        1,
+        "pezzi"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Prezzemolo",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con agretti e speck cominciate mondando e affettando sottilmente lo scalogno. Poi mondate gli agretti eliminando la parte bianca e coriacea, quindi sciacquate gli steli verdi e tagliateli finemente. Infine grattugiate la fontina e spostatevi ai fornelli.",
+      "Mettete sul fuoco una pentola con abbondante acqua e quando è a bollore salatela e cuocete le penne. Nel frattempo preparate il condimento. In una padella versate un filo d'olio e lasciateci appassire lo scalogno a fuoco dolce per pochi minuti prima di aggiungere lo speck. Fate dorare anche i cubetti per qualche minuto dopodiché 4 unite gli agretti e bagnateli con un mestolo d'acqua di cottura della pasta. Regolate di sale facendo attenzione allo speck che è già saporito; cuocete per una decina di minuti.",
+      "A fine cottura poi versate la panna. Avete il tempo per cuocere la pasta, tuffatela nell'acqua e quando sarà ben al dente scolatela direttamente nel condimento.",
+      "Regolate la consistenza a piacere aggiungendo ancora un po' d'acqua se il fondo risultasse troppo asciutto e poi aggiungete la fontina. Continuate a rimestare fin quando non averete ottenuto una consistenza cremosa. Spegnete la fiamma e profumate con del prezzemolo sminuzzato. Ecco pronta la vostra pasta con agretti e speck, ancora un pizzico di pepe a piacere e buon appetito."
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con agretti e speck cominciate mondando e affettando sottilmente lo scalogno 1 . Poi mondate gli agretti eliminando la parte bianca e coriacea, quindi sciacquate gli steli verdi e tagliateli finemente 2 . Infine grattugiate la fontina e spostatevi ai fornelli 3 .",
+      "Mettete sul fuoco una pentola con abbondante acqua e quando è a bollore salatela e cuocete le penne. Nel frattempo preparate il condimento. In una padella versate un filo d'olio e lasciateci appassire lo scalogno a fuoco dolce per pochi minuti prima di aggiungere lo speck. Fate dorare anche i cubetti per qualche minuto dopodiché 4 unite gli agretti 5 e bagnateli con un mestolo d'acqua di cottura della pasta. Regolate di sale facendo attenzione allo speck che è già saporito; cuocete per una decina di minuti 6 .",
+      "A fine cottura poi versate la panna 7 . Avete il tempo per cuocere la pasta, tuffatela nell'acqua 8 e quando sarà ben al dente scolatela direttamente nel condimento 9 .",
+      "Regolate la consistenza a piacere aggiungendo ancora un po' d'acqua se il fondo risultasse troppo asciutto e poi aggiungete la fontina 10 . Continuate a rimestare fin quando non averete ottenuto una consistenza cremosa. Spegnete la fiamma e profumate con del prezzemolo sminuzzato 11 . Ecco pronta la vostra pasta con agretti e speck, ancora un pizzico di pepe a piacere e buon appetito 12 ."
+    ],
+    "needs_review": false,
+    "source_category": "Primi piatti",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-23T15:21:08.471959+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Primi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/222/22286/22286_penne_2_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/222/22286/22286_penne_2_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/222/22286/22286_penne_2_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/222/22286/22286_penne_2_strip_10-12.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare la pasta con agretti e speck cominciate mondando e affettando sottilmente lo scalogno. Poi mondate gli agretti eliminando la parte bianca e coriacea, quindi sciacquate gli steli verdi e tagliateli finemente. Infine grattugiate la fontina e spostatevi ai fornelli.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/222/22286/22286_penne_2_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Mettete sul fuoco una pentola con abbondante acqua e quando è a bollore salatela e cuocete le penne. Nel frattempo preparate il condimento. In una padella versate un filo d'olio e lasciateci appassire lo scalogno a fuoco dolce per pochi minuti prima di aggiungere lo speck. Fate dorare anche i cubetti per qualche minuto dopodiché 4 unite gli agretti e bagnateli con un mestolo d'acqua di cottura della pasta. Regolate di sale facendo attenzione allo speck che è già saporito; cuocete per una decina di minuti.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/222/22286/22286_penne_2_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "A fine cottura poi versate la panna. Avete il tempo per cuocere la pasta, tuffatela nell'acqua e quando sarà ben al dente scolatela direttamente nel condimento.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/222/22286/22286_penne_2_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Regolate la consistenza a piacere aggiungendo ancora un po' d'acqua se il fondo risultasse troppo asciutto e poi aggiungete la fontina. Continuate a rimestare fin quando non averete ottenuto una consistenza cremosa. Spegnete la fiamma e profumate con del prezzemolo sminuzzato. Ecco pronta la vostra pasta con agretti e speck, ancora un pizzico di pepe a piacere e buon appetito.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/222/22286/22286_penne_2_strip_10-12.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-agretti-e-speck.html",
+      "source_hash": "b569f659bb59f1fdcf4b664e069cf74ad6a549370a60aee366bcf9af1086372d",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-23T15:21:25.738609+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 4,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-23T15:21:25.738620+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/222-22286/Pasta-con-agretti-e-speck_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-23T15:21:59.779120+00:00"
+    }
+  },
+  {
+    "id": 193140281748010,
+    "name": "Arista di maiale arrosto",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 90,
+    "ingredients_display": [
+      "Carrè di maiale 1,3 kg",
+      "Patate 500 g",
+      "Vino bianco 1 bicchiere",
+      "Brodo vegetale q.b.",
+      "Olio extravergine d'oliva 4 cucchiai",
+      "Aglio 1 spicchio",
+      "Rosmarino 10 g",
+      "Pepe nero q.b.",
+      "Sale fino q.b.",
+      "Timo 10 g",
+      "Salvia 10 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Arista-di-maiale-arrosto.html",
+    "image_url": "https://www.giallozafferano.it/images/181-18145/Arista-di-maiale-arrosto_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 927.1,
+    "protein": null,
+    "carbs": 27.5,
+    "fats": 55.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Carrè di maiale",
+        1.3,
+        "kg"
+      ],
+      [
+        "Patate",
+        500,
+        "g"
+      ],
+      [
+        "Vino bianco",
+        1,
+        "bicchieri"
+      ],
+      [
+        "Brodo vegetale",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        4,
+        "cucchiai"
+      ],
+      [
+        "Aglio",
+        1,
+        "spicchio"
+      ],
+      [
+        "Rosmarino",
+        10,
+        "g"
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Timo",
+        10,
+        "g"
+      ],
+      [
+        "Salvia",
+        10,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare l'arista di maiale arrosto come prima cosa prendete una parte delle erbe aromatiche: timo,rosmarino e salvia (la restante parte tenetela da parte); tritate le erbe grossolanamente su un tagliere. Passate quindi all'arista, ponetela sempre sul tagliere e con un coltello dalla lama affilata incidete la copertina,",
+      "in modo da staccarla dalla carne ma senza separarla completamente. Quindi apritela ed inserite le erbe che avete tritato in precedenza all'interno; poi condite con sale e pepe.",
+      "Richiudete la copertina e procedete a legare l'arrosto, per tenerlo insieme e dare forma alla vostra carne. Con lo spago da cucina procedete a realizzare la gabbia: passate lo spago prima sotto e poi sopra la carne, per il senso della lunghezza, fermando bene i capi del filo all’estremità con un nodo e lasciando una parte di spago leggermente più lunga. Ora utilizzate lo spago più lungo e procedete tornando indietro lungo il lato opposto e formate un ultimo nodo in modo da bloccare il filo. In questo modo la copertina resterà ben aderente al pezzo di carne. A questo punto proseguite a creare la vostra gabbia, facendo passare il filo tra le varie costine.",
+      "Una volta che avrete girato lo spago intorno all'ultima costina, realizzate un'asola girando lo spago e tenendo ferma la base della stessa con le dita. Infilate la mano nell'asola e girate un paio di volte il filo, poi fate passare la carne all'interno e stringete per creare l'ultimo nodo. Quando la carne sarà ben legata passate alla cottura. Scaldate un filo d'olio in un tegame antiaderente e quando sarà caldo sistemate l'arista all'interno.",
+      "Rosolatela bene girandola su tutti i lati, ma senza bucarla, solo in questo modo sigillerete i pori della carne e i succhi resteranno all'interno. Quando sarà ben dorata bagnate la carne con il vino bianco, che servirà a dare un tono acido alla carne di maiale, naturalmente dolce. Aspettate pochi istanti e utilizzando delle pinze trasferite la carne in una teglia da forno, tenendo da parte il fondo di cottura.",
+      "A questo punto lavate bene le patate e asciugatele con un canovaccio. Poi tagliatele prima a metà e poi a spicchi possibilmente della stessa misura. Sistematele nella teglia e aggiungete un pò di sale sulle patate. Non ci sarà bisogno, invece, di aggiungere olio poichè l'arista ha questa copertina che in cottura si scioglierà. Infornate a 180° per circa 15 minuti.",
+      "Nel frattempo prendete le erbe aromatiche messe da parte in precedenza e tritate anch'esse; poi schiacciate leggermente uno spicchio d'aglio in camicia. Trascorsi i 15 minuti estraete la carne dal forno, aggiungete lo spicchio d'aglio e le erbe aromatiche.",
+      "Versate il brodo nella teglia, attorno al pezzo di carne e infornate nuovamente sempre a 180°: per capire il momento giusto in cui potrete fermare la cottura è necessario utilizzare un termometro. La temperatura al cuore della carne deve essere di 62-65°. I tempi di cottura variano in base alla pezzatura della carne che avrete utilizzato, ci vorranno circa 40-50 minuti. Estraete la teglia dal forno e trasferite solo la carne su un tagliere.",
+      "Coprite con un foglio di alluminio e lasciate riposare la carne per 3-4 minuti; a seconda della pezzatura la temperatura interna potrà aumentare dai 2° ai 5°. Nel frattempo riprendete il fondo di cottura tenuto da parte e fatelo ridurre a fuoco dolce. A questo punto slegate la carne, assicuratevi di rimuovere tutto lo spago.",
+      "Tagliatela poi a fette, regolandovi in base alla posizione delle ossa. Poi trasferite in un piatto sia la carne che le patate e ricoprite con il fondo di cottura. L'arista di maiale arrosto è pronta da servire!"
+    ],
+    "steps_raw": [
+      "Per preparare l'arista di maiale arrosto come prima cosa prendete una parte delle erbe aromatiche: timo,rosmarino e salvia (la restante parte tenetela da parte) 1 ; tritate le erbe grossolanamente su un tagliere 2 . Passate quindi all'arista, ponetela sempre sul tagliere e con un coltello dalla lama affilata incidete la copertina 3 ,",
+      "in modo da staccarla dalla carne ma senza separarla completamente. Quindi apritela 4 ed inserite le erbe che avete tritato in precedenza all'interno 5 ; poi condite con sale 6 e pepe.",
+      "Richiudete la copertina e procedete a legare l'arrosto, per tenerlo insieme e dare forma alla vostra carne. Con lo spago da cucina procedete a realizzare la gabbia: passate lo spago prima sotto 7 e poi sopra la carne, per il senso della lunghezza, fermando bene i capi del filo all’estremità con un nodo 8 e lasciando una parte di spago leggermente più lunga. Ora utilizzate lo spago più lungo e procedete tornando indietro lungo il lato opposto e formate un ultimo nodo in modo da bloccare il filo. In questo modo la copertina resterà ben aderente al pezzo di carne. A questo punto proseguite a creare la vostra gabbia, facendo passare il filo tra le varie costine 9 .",
+      "Una volta che avrete girato lo spago intorno all'ultima costina 10 , realizzate un'asola girando lo spago e tenendo ferma la base della stessa con le dita. Infilate la mano nell'asola e girate un paio di volte il filo, poi fate passare la carne all'interno e stringete per creare l'ultimo nodo 11 . Quando la carne sarà ben legata passate alla cottura. Scaldate un filo d'olio in un tegame antiaderente e quando sarà caldo sistemate l'arista all'interno 12 .",
+      "Rosolatela bene girandola su tutti i lati 13 , ma senza bucarla, solo in questo modo sigillerete i pori della carne e i succhi resteranno all'interno. Quando sarà ben dorata bagnate la carne con il vino bianco 14 , che servirà a dare un tono acido alla carne di maiale, naturalmente dolce. Aspettate pochi istanti e utilizzando delle pinze trasferite la carne in una teglia da forno, tenendo da parte il fondo di cottura 15 .",
+      "A questo punto lavate bene le patate 16 e asciugatele con un canovaccio. Poi tagliatele prima a metà e poi a spicchi possibilmente della stessa misura 17 . Sistematele nella teglia 18 e aggiungete un pò di sale sulle patate. Non ci sarà bisogno, invece, di aggiungere olio poichè l'arista ha questa copertina che in cottura si scioglierà. Infornate a 180° per circa 15 minuti.",
+      "Nel frattempo prendete le erbe aromatiche messe da parte in precedenza e tritate anch'esse 19 ; poi schiacciate leggermente uno spicchio d'aglio in camicia 20 . Trascorsi i 15 minuti estraete la carne dal forno, aggiungete lo spicchio d'aglio e le erbe aromatiche 21 .",
+      "Versate il brodo nella teglia, attorno al pezzo di carne 22 e infornate nuovamente sempre a 180°: per capire il momento giusto in cui potrete fermare la cottura è necessario utilizzare un termometro. La temperatura al cuore della carne deve essere di 62-65°. I tempi di cottura variano in base alla pezzatura della carne che avrete utilizzato, ci vorranno circa 40-50 minuti. Estraete la teglia dal forno 23 e trasferite solo la carne su un tagliere 24 .",
+      "Coprite con un foglio di alluminio 25 e lasciate riposare la carne per 3-4 minuti; a seconda della pezzatura la temperatura interna potrà aumentare dai 2° ai 5°. Nel frattempo riprendete il fondo di cottura tenuto da parte e fatelo ridurre a fuoco dolce 26 . A questo punto slegate la carne 27 , assicuratevi di rimuovere tutto lo spago.",
+      "Tagliatela poi a fette, regolandovi in base alla posizione delle ossa 28 . Poi trasferite in un piatto sia la carne che le patate e ricoprite con il fondo di cottura 29 . L'arista di maiale arrosto è pronta da servire 30 !"
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-23T15:21:11.149301+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_19-21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_nuovo_strip_22-24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_nuovo_strip_25-27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_nuovo_strip_28-30.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare l'arista di maiale arrosto come prima cosa prendete una parte delle erbe aromatiche: timo,rosmarino e salvia (la restante parte tenetela da parte); tritate le erbe grossolanamente su un tagliere. Passate quindi all'arista, ponetela sempre sul tagliere e con un coltello dalla lama affilata incidete la copertina,",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "in modo da staccarla dalla carne ma senza separarla completamente. Quindi apritela ed inserite le erbe che avete tritato in precedenza all'interno; poi condite con sale e pepe.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Richiudete la copertina e procedete a legare l'arrosto, per tenerlo insieme e dare forma alla vostra carne. Con lo spago da cucina procedete a realizzare la gabbia: passate lo spago prima sotto e poi sopra la carne, per il senso della lunghezza, fermando bene i capi del filo all’estremità con un nodo e lasciando una parte di spago leggermente più lunga. Ora utilizzate lo spago più lungo e procedete tornando indietro lungo il lato opposto e formate un ultimo nodo in modo da bloccare il filo. In questo modo la copertina resterà ben aderente al pezzo di carne. A questo punto proseguite a creare la vostra gabbia, facendo passare il filo tra le varie costine.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Una volta che avrete girato lo spago intorno all'ultima costina, realizzate un'asola girando lo spago e tenendo ferma la base della stessa con le dita. Infilate la mano nell'asola e girate un paio di volte il filo, poi fate passare la carne all'interno e stringete per creare l'ultimo nodo. Quando la carne sarà ben legata passate alla cottura. Scaldate un filo d'olio in un tegame antiaderente e quando sarà caldo sistemate l'arista all'interno.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Rosolatela bene girandola su tutti i lati, ma senza bucarla, solo in questo modo sigillerete i pori della carne e i succhi resteranno all'interno. Quando sarà ben dorata bagnate la carne con il vino bianco, che servirà a dare un tono acido alla carne di maiale, naturalmente dolce. Aspettate pochi istanti e utilizzando delle pinze trasferite la carne in una teglia da forno, tenendo da parte il fondo di cottura.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "A questo punto lavate bene le patate e asciugatele con un canovaccio. Poi tagliatele prima a metà e poi a spicchi possibilmente della stessa misura. Sistematele nella teglia e aggiungete un pò di sale sulle patate. Non ci sarà bisogno, invece, di aggiungere olio poichè l'arista ha questa copertina che in cottura si scioglierà. Infornate a 180° per circa 15 minuti.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_16-18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Nel frattempo prendete le erbe aromatiche messe da parte in precedenza e tritate anch'esse; poi schiacciate leggermente uno spicchio d'aglio in camicia. Trascorsi i 15 minuti estraete la carne dal forno, aggiungete lo spicchio d'aglio e le erbe aromatiche.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_di_maiale_strip_19-21.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Versate il brodo nella teglia, attorno al pezzo di carne e infornate nuovamente sempre a 180°: per capire il momento giusto in cui potrete fermare la cottura è necessario utilizzare un termometro. La temperatura al cuore della carne deve essere di 62-65°. I tempi di cottura variano in base alla pezzatura della carne che avrete utilizzato, ci vorranno circa 40-50 minuti. Estraete la teglia dal forno e trasferite solo la carne su un tagliere.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_nuovo_strip_22-24.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Coprite con un foglio di alluminio e lasciate riposare la carne per 3-4 minuti; a seconda della pezzatura la temperatura interna potrà aumentare dai 2° ai 5°. Nel frattempo riprendete il fondo di cottura tenuto da parte e fatelo ridurre a fuoco dolce. A questo punto slegate la carne, assicuratevi di rimuovere tutto lo spago.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_nuovo_strip_25-27.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Tagliatela poi a fette, regolandovi in base alla posizione delle ossa. Poi trasferite in un piatto sia la carne che le patate e ricoprite con il fondo di cottura. L'arista di maiale arrosto è pronta da servire!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/181/18145/18145_arista_nuovo_strip_28-30.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Arista-di-maiale-arrosto.html",
+      "source_hash": "48243774e9d041f8aa229f79681be2718e4a9d6e132f99158a8caa20649b5f11",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-23T15:21:12.293830+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 10,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-23T15:21:12.293841+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/181-18145/Arista-di-maiale-arrosto_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-23T15:21:59.779120+00:00"
+    }
   }
 ]

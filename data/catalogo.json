@@ -81822,7 +81822,10 @@
       "precedente": "https://www.giallozafferano.it/images/166-16660/Pasta-con-asparagi-e-crema-d-uovo_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-23T15:21:59.779120+00:00"
-    }
+    },
+    "source_cook_minutes": 15,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-23T21:31:43.154332+00:00"
   },
   {
     "id": 172758649432610,
@@ -82035,7 +82038,10 @@
       "precedente": "https://www.giallozafferano.it/images/275-27540/Arista-di-maiale-in-padella_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-23T15:21:59.779120+00:00"
-    }
+    },
+    "source_cook_minutes": 20,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-23T21:31:45.865387+00:00"
   },
   {
     "id": 274211998993110,
@@ -82414,7 +82420,10 @@
       "precedente": "https://www.giallozafferano.it/images/166-16648/Petto-d-anatra-marinato-con-verdure_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-23T15:21:59.779120+00:00"
-    }
+    },
+    "source_cook_minutes": 35,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-23T21:31:39.810260+00:00"
   },
   {
     "id": 246660959733176,
@@ -82585,7 +82594,10 @@
       "precedente": "https://www.giallozafferano.it/images/360-36019/Pasta-con-agretti_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-23T15:21:59.779120+00:00"
-    }
+    },
+    "source_cook_minutes": 20,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-23T21:31:54.123635+00:00"
   },
   {
     "id": 279212496982468,
@@ -82823,7 +82835,10 @@
       "precedente": "https://www.giallozafferano.it/images/ricette/177/17717/foto_hd/hd650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-23T15:21:59.779120+00:00"
-    }
+    },
+    "source_cook_minutes": 95,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-23T21:31:56.995643+00:00"
   },
   {
     "id": 37803055908893,
@@ -83029,7 +83044,10 @@
       "precedente": "https://www.giallozafferano.it/images/185-18591/Cartocci-di-pizza_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-23T15:21:59.779120+00:00"
-    }
+    },
+    "source_cook_minutes": 15,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-23T21:31:36.909447+00:00"
   },
   {
     "id": 8531608297819,
@@ -83243,7 +83261,10 @@
       "precedente": "https://www.giallozafferano.it/images/247-24778/Petto-d-anatra-grigliato_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-23T15:21:59.779120+00:00"
-    }
+    },
+    "source_cook_minutes": 65,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-23T21:31:34.181147+00:00"
   },
   {
     "id": 239744864047617,
@@ -83426,7 +83447,10 @@
       "precedente": "https://www.giallozafferano.it/images/222-22286/Pasta-con-agretti-e-speck_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-23T15:21:59.779120+00:00"
-    }
+    },
+    "source_cook_minutes": 25,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-23T21:31:51.278331+00:00"
   },
   {
     "id": 193140281748010,
@@ -83688,6 +83712,9 @@
       "precedente": "https://www.giallozafferano.it/images/181-18145/Arista-di-maiale-arrosto_650x433_wm.jpg",
       "motivo": "risoluzione_maggiore",
       "verificata_il": "2026-11-23T15:21:59.779120+00:00"
-    }
+    },
+    "source_cook_minutes": 60,
+    "source_sync_version": 1,
+    "source_synced_at": "2026-11-23T21:31:48.586027+00:00"
   }
 ]

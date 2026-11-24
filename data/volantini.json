@@ -1,12 +1,12 @@
 {
- "aggiornato_il": "2026-11-23T09:08:48+00:00",
- "data_riferimento": "2026-11-23",
+ "aggiornato_il": "2026-11-24T00:54:31+00:00",
+ "data_riferimento": "2026-11-24",
  "catene": {
   "Aldi": {
    "pagina_ufficiale": "https://www.aldi.it/volantino-online",
    "sito": "https://www.aldi.it/",
    "tipo": "nazionale",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": {
     "url": "https://volantino.aldi.it/aldi_offerte_da_lunedi_23_novembre/page/1",
     "titolo": "Offerte ALDI della settimana",
@@ -25,7 +25,7 @@
    "pagina_ufficiale": "https://www.alisupermercati.it/",
    "sito": "https://www.alisupermercati.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -34,7 +34,7 @@
    "pagina_ufficiale": "https://www.bennet.com/flyer",
    "sito": "https://www.bennet.com/",
    "tipo": "nazionale",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": {
     "url": "https://nativa.bennet.volantinopiu.com/volantino2962600.html",
     "titolo": "Volantino Bennet",
@@ -48,7 +48,7 @@
    "pagina_ufficiale": "https://www.carrefour.it/volantino",
    "sito": "https://www.carrefour.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -57,7 +57,7 @@
    "pagina_ufficiale": "https://www.conad.it/ricerca-negozi",
    "sito": "https://www.conad.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -66,7 +66,7 @@
    "pagina_ufficiale": "https://www.coop.it/",
    "sito": "https://www.coop.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -75,7 +75,7 @@
    "pagina_ufficiale": "https://supermercatideco.multicedi.it/web/volantini.aspx",
    "sito": "https://supermercatideco.multicedi.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -84,7 +84,7 @@
    "pagina_ufficiale": "https://www.despar.it/it/offerte-per-te/",
    "sito": "https://www.despar.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -93,13 +93,13 @@
    "pagina_ufficiale": "https://www.dodeca.it/",
    "sito": "https://www.dodeca.it/",
    "tipo": "nazionale",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": {
     "url": "https://viewer.flyer.volantinopiu.ai/preview-dodeca-1?mode=scroll",
     "titolo": "Volantino Dodecà",
     "valido_dal": null,
     "valido_al": null,
-    "verificato_il": "2026-11-23"
+    "verificato_il": "2026-11-24"
    },
    "prossimo": null,
    "metodo": "link_diretto"
@@ -108,7 +108,7 @@
    "pagina_ufficiale": "https://www.esselunga.it/it-it/promozioni/volantini.html",
    "sito": "https://www.esselunga.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -117,7 +117,7 @@
    "pagina_ufficiale": "https://www.eurospin.com/it-it/volantino/",
    "sito": "https://www.eurospin.com/it-it/",
    "tipo": "nazionale",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": {
     "url": "https://flyer.eurospin.com/it-it/punti-vendita/eurospin-italia/promozioni/sapori-in-festa",
     "titolo": "Eurospin · Sapori in festa",
@@ -136,7 +136,7 @@
    "pagina_ufficiale": "https://www.famila.it/punti-vendita",
    "sito": "https://www.famila.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -145,7 +145,7 @@
    "pagina_ufficiale": "https://ilgigante.net/volantini/",
    "sito": "https://ilgigante.net/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -154,7 +154,7 @@
    "pagina_ufficiale": "https://www.lidl.it/c/volantino-lidl/s10018048",
    "sito": "https://www.lidl.it/",
    "tipo": "nazionale",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": {
     "url": "https://www.lidl.it/c/volantino-lidl/s10018048",
     "titolo": "Volantino settimanale",
@@ -175,7 +175,7 @@
    "pagina_ufficiale": "https://www.mdspa.it/volantino/",
    "sito": "https://www.mdspa.it/",
    "tipo": "nazionale",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": {
     "url": "https://www.mdspa.it/volantino/",
     "titolo": "Volantino MD",
@@ -189,7 +189,7 @@
    "pagina_ufficiale": "https://www.pampanorama.it/promoinstoredest",
    "sito": "https://www.pampanorama.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -198,7 +198,7 @@
    "pagina_ufficiale": "https://www.penny.it/sfoglia-il-volantino-mobile",
    "sito": "https://www.penny.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -207,7 +207,7 @@
    "pagina_ufficiale": "https://www.sole365.it/",
    "sito": "https://www.sole365.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"
@@ -216,7 +216,7 @@
    "pagina_ufficiale": "https://www.tigros.it/volantini",
    "sito": "https://www.tigros.it/",
    "tipo": "per_negozio",
-   "controllato_il": "2026-11-23T09:08:48+00:00",
+   "controllato_il": "2026-11-24T00:54:31+00:00",
    "volantino": null,
    "prossimo": null,
    "metodo": "pagina_ufficiale"

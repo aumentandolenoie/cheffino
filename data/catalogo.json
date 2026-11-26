@@ -81037,9 +81037,9 @@
     "media_extraction": {
       "status": "unknown",
       "source_url": "https://ricette.giallozafferano.it/Pasta-con-broccoli.html",
-      "source_hash": "a024f5212deb4e71f8fa493493a6872e963b5f452c51889c34e4aeb39e4598c1",
+      "source_hash": "8abfdc993c488496c66481c4b193dec23d30276344ea708a0ea59d412739cb51",
       "method": null,
-      "checked_at": "2026-11-19T13:53:25.356972+00:00",
+      "checked_at": "2026-11-26T14:25:49.837335+00:00",
       "existing_preserved": false,
       "candidate_differs": false,
       "updated": false,
@@ -81049,7 +81049,7 @@
     },
     "images_import_version": 12,
     "media_extraction_version": 12,
-    "step_images_checked_at": "2026-11-19T13:53:25.356991+00:00",
+    "step_images_checked_at": "2026-11-26T14:25:49.837359+00:00",
     "copertina_verifica": {
       "esito": "ok",
       "verificata_il": "2026-11-19T13:53:52.219455+00:00"
@@ -83716,5 +83716,2032 @@
     "source_cook_minutes": 60,
     "source_sync_version": 1,
     "source_synced_at": "2026-11-23T21:31:48.586027+00:00"
+  },
+  {
+    "id": 147912250570840,
+    "name": "Pasta con asparagi e salsiccia",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 40,
+    "ingredients_display": [
+      "Pennette Rigate Integrali 320 g",
+      "Asparagi 600 g",
+      "Salsiccia 400 g",
+      "Porri già pulito 80 g",
+      "Olio extravergine d'oliva 20 g",
+      "Pecorino Romano DOP da grattugiare 40 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Vino bianco q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-asparagi-e-salsiccia.html",
+    "image_url": "https://www.giallozafferano.it/images/167-16706/Pasta-con-asparagi-e-salsiccia_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 721.6,
+    "protein": null,
+    "carbs": 70.7,
+    "fats": 34.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Pennette Rigate Integrali",
+        320,
+        "g"
+      ],
+      [
+        "Asparagi",
+        600,
+        "g"
+      ],
+      [
+        "Salsiccia",
+        400,
+        "g"
+      ],
+      [
+        "Porri già pulito",
+        80,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20,
+        "g"
+      ],
+      [
+        "Pecorino Romano DOP da grattugiare",
+        40,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Vino bianco",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con asparagi e salsiccia, ponete intanto sul fuoco un tegame con abbondante acqua da salare quando bollirà: servirà a cuocere la pasta successivamente. Iniziate dalla pulizia degli asparagi. Eliminate la parte del gambo finale e utilizzando un pelaverdure eliminate anche la parte più esterna. A questo punto tagliateli a rondelle piuttosto spesse, mentre le punte potete dividerle a metà.",
+      "Poi occupatevi della salsiccia, utilizzando un coltello fate un incisione sul budello e delicatamente tiratelo via con le mani. Sempre su un tagliere utilizzando il coltello schiacciate leggermente la salsiccia, in modo da sgranarla. Tenete anche questa da parte per un momento,",
+      "affettate il porro, già sfogliato e spuntato, finemente e trasferitelo in un tegame capiente dove avrete già scaldato l'olio. Lasciatelo appassire per 4-5 minuti, unendo un mestolo di acqua calda; poi alzate la fiamma, aggiungete la salsiccia, utilizzando una spatola o un mestolo di legno mescolate di continuo fino a che non risulterà ben rosolata.",
+      "Sfumate con del vino bianco e solo quando la parte alcolica sarà evaporata completamente aggiungete gli asparagi. Mescolate, aggiustate di sale e di pepe, poi unite un mestolo di acqua di cottura,",
+      "abbassate la fiamma, coprite con un coperchio e proseguite la cottura per altri 7-8 minuti. Nel frattempo l'acqua sarà arrivata al bollore, quindi cuocete la pasta e scolatela al dente aggiungendola direttamente al condimento.",
+      "Unite il formaggio grattugiato, mescolate il tutto e servite la vostra pasta con asparagi e salsiccia ancora calda!"
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con asparagi e salsiccia, ponete intanto sul fuoco un tegame con abbondante acqua da salare quando bollirà: servirà a cuocere la pasta successivamente. Iniziate dalla pulizia degli asparagi. Eliminate la parte del gambo finale 1 e utilizzando un pelaverdure eliminate anche la parte più esterna 2 . A questo punto tagliateli a rondelle piuttosto spesse 3 , mentre le punte potete dividerle a metà.",
+      "Poi occupatevi della salsiccia, utilizzando un coltello fate un incisione sul budello 4 e delicatamente tiratelo via con le mani 5 . Sempre su un tagliere utilizzando il coltello schiacciate leggermente la salsiccia 6 , in modo da sgranarla. Tenete anche questa da parte per un momento,",
+      "affettate il porro, già sfogliato e spuntato, finemente 7 e trasferitelo in un tegame capiente dove avrete già scaldato l'olio 8 . Lasciatelo appassire per 4-5 minuti, unendo un mestolo di acqua calda; poi alzate la fiamma, aggiungete la salsiccia 9 , utilizzando una spatola o un mestolo di legno mescolate di continuo fino a che non risulterà ben rosolata.",
+      "Sfumate con del vino bianco 10 e solo quando la parte alcolica sarà evaporata completamente aggiungete gli asparagi 11 . Mescolate, aggiustate di sale e di pepe, poi unite un mestolo di acqua di cottura 12 ,",
+      "abbassate la fiamma, coprite con un coperchio 13 e proseguite la cottura per altri 7-8 minuti. Nel frattempo l'acqua sarà arrivata al bollore, quindi cuocete la pasta 14 e scolatela al dente aggiungendola direttamente al condimento 15 .",
+      "Unite il formaggio grattugiato 16 , mescolate il tutto 17 e servite la vostra pasta con asparagi e salsiccia ancora calda 18 !"
+    ],
+    "needs_review": false,
+    "source_category": "Primi piatti",
+    "source_cost": "Basso",
+    "imported_at": "2026-11-26T14:25:09.777475+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Primi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_2_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_2_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_2_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_2_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_nopack_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_2_strip_16-18.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare la pasta con asparagi e salsiccia, ponete intanto sul fuoco un tegame con abbondante acqua da salare quando bollirà: servirà a cuocere la pasta successivamente. Iniziate dalla pulizia degli asparagi. Eliminate la parte del gambo finale e utilizzando un pelaverdure eliminate anche la parte più esterna. A questo punto tagliateli a rondelle piuttosto spesse, mentre le punte potete dividerle a metà.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_2_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Poi occupatevi della salsiccia, utilizzando un coltello fate un incisione sul budello e delicatamente tiratelo via con le mani. Sempre su un tagliere utilizzando il coltello schiacciate leggermente la salsiccia, in modo da sgranarla. Tenete anche questa da parte per un momento,",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_2_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "affettate il porro, già sfogliato e spuntato, finemente e trasferitelo in un tegame capiente dove avrete già scaldato l'olio. Lasciatelo appassire per 4-5 minuti, unendo un mestolo di acqua calda; poi alzate la fiamma, aggiungete la salsiccia, utilizzando una spatola o un mestolo di legno mescolate di continuo fino a che non risulterà ben rosolata.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_2_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Sfumate con del vino bianco e solo quando la parte alcolica sarà evaporata completamente aggiungete gli asparagi. Mescolate, aggiustate di sale e di pepe, poi unite un mestolo di acqua di cottura,",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_2_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "abbassate la fiamma, coprite con un coperchio e proseguite la cottura per altri 7-8 minuti. Nel frattempo l'acqua sarà arrivata al bollore, quindi cuocete la pasta e scolatela al dente aggiungendola direttamente al condimento.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_nopack_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Unite il formaggio grattugiato, mescolate il tutto e servite la vostra pasta con asparagi e salsiccia ancora calda!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/167/16706/16706_pasta_con_asparagi_e_salsiccia_2_strip_16-18.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-asparagi-e-salsiccia.html",
+      "source_hash": "966d4aca3a9a274d57011672ec9a6a22097f95fea7b3c618b9aa1052990118c4",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-26T14:25:47.117075+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 6,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-26T14:25:47.117095+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/167-16706/Pasta-con-asparagi-e-salsiccia_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-26T14:26:15.269936+00:00"
+    }
+  },
+  {
+    "id": 14772024532455,
+    "name": "Ali di pollo e patate saporite",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 70,
+    "ingredients_display": [
+      "Alette di pollo 8",
+      "Patate 500 g",
+      "Pangrattato 200 g",
+      "Farina 00 50 g",
+      "Parmigiano Reggiano DOP da grattugiare 50 g",
+      "Uova 2",
+      "Prezzemolo da tritare q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Ali-di-pollo-e-patate-saporite.html",
+    "image_url": "https://www.giallozafferano.it/images/193-19351/Ali-di-pollo-e-patate-saporite_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 484.4,
+    "protein": null,
+    "carbs": 56.8,
+    "fats": 17.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Alette di pollo",
+        8,
+        "pezzi"
+      ],
+      [
+        "Patate",
+        500,
+        "g"
+      ],
+      [
+        "Pangrattato",
+        200,
+        "g"
+      ],
+      [
+        "Farina 00",
+        50,
+        "g"
+      ],
+      [
+        "Parmigiano Reggiano DOP da grattugiare",
+        50,
+        "g"
+      ],
+      [
+        "Uova",
+        2,
+        "pezzi"
+      ],
+      [
+        "Prezzemolo da tritare",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare le ali di pollo e patate saporite, per prima cosa versate la farina in una ciotola e infarinate le ali di pollo sia da un lato che dall’altro, poi eliminate la farina in eccesso e adagiatele su un vassoio.",
+      "In un’altra ciotola versate il pangrattato, il parmigiano grattugiato e il prezzemolo tritato (tenetene un po' da parte per la guarnizione finale) e mescolate accuratamente. Infine sbattete le uova in un’altra ciotola ancora.",
+      "Immergete le ali di pollo infarinate prima nell’uovo sbattuto e poi nella panatura di pangrattato e parmigiano, premendo con le mani in modo da farla aderire bene. E’ importante infarinare prima la carne per evitare che la panatura si stacchi durante la cottura. Una volta che avrete impanato tutte le ali di pollo, potete occuparvi delle patate.",
+      "Sbucciate le patate e dividetele prima a metà e poi in quarti; infine tagliatele a cubetti. Mettete le patate in una ciotola e conditele con olio e sale, dopodiché versatele nella ciotola con la panatura avanzata",
+      "e mescolate bene. A questo punto prendete un tegame capiente e adagiate all’interno le ali di pollo impanate, poi versate anche le patate e distribuitele uniformemente sulla superficie.",
+      "Condite con un po’ di sale e un giro abbondante di olio e cuocete in forno ventilato preriscaldato a 200° per 40 minuti. Trascorso questo tempo accendete il grill e proseguite la cottura per altri 10 minuti per rendere la panatura bella croccante. Una volta cotte, guarnite con il prezzemolo rimasto e servite le vostre ali di pollo e patate saporite ancora fumanti!"
+    ],
+    "steps_raw": [
+      "Per preparare le ali di pollo e patate saporite, per prima cosa versate la farina in una ciotola e infarinate le ali di pollo sia da un lato 1 che dall’altro 2 , poi eliminate la farina in eccesso e adagiatele su un vassoio 3 .",
+      "In un’altra ciotola versate il pangrattato, il parmigiano grattugiato 4 e il prezzemolo tritato (tenetene un po' da parte per la guarnizione finale) 5 e mescolate accuratamente 6 . Infine sbattete le uova in un’altra ciotola ancora.",
+      "Immergete le ali di pollo infarinate prima nell’uovo sbattuto 7 e poi nella panatura di pangrattato e parmigiano 8 , premendo con le mani in modo da farla aderire bene. E’ importante infarinare prima la carne per evitare che la panatura si stacchi durante la cottura. Una volta che avrete impanato tutte le ali di pollo 9 , potete occuparvi delle patate.",
+      "Sbucciate le patate e dividetele prima a metà 10 e poi in quarti; infine tagliatele a cubetti 11 . Mettete le patate in una ciotola e conditele con olio e sale, dopodiché versatele nella ciotola con la panatura avanzata 12",
+      "e mescolate bene 13 . A questo punto prendete un tegame capiente e adagiate all’interno le ali di pollo impanate 14 , poi versate anche le patate 15 e distribuitele uniformemente sulla superficie.",
+      "Condite con un po’ di sale e un giro abbondante di olio 16 e cuocete in forno ventilato preriscaldato a 200° per 40 minuti 17 . Trascorso questo tempo accendete il grill e proseguite la cottura per altri 10 minuti per rendere la panatura bella croccante. Una volta cotte, guarnite con il prezzemolo rimasto e servite le vostre ali di pollo e patate saporite ancora fumanti 18 !"
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Basso",
+    "imported_at": "2026-11-26T14:25:12.495699+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_16-18.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare le ali di pollo e patate saporite, per prima cosa versate la farina in una ciotola e infarinate le ali di pollo sia da un lato che dall’altro, poi eliminate la farina in eccesso e adagiatele su un vassoio.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "In un’altra ciotola versate il pangrattato, il parmigiano grattugiato e il prezzemolo tritato (tenetene un po' da parte per la guarnizione finale) e mescolate accuratamente. Infine sbattete le uova in un’altra ciotola ancora.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Immergete le ali di pollo infarinate prima nell’uovo sbattuto e poi nella panatura di pangrattato e parmigiano, premendo con le mani in modo da farla aderire bene. E’ importante infarinare prima la carne per evitare che la panatura si stacchi durante la cottura. Una volta che avrete impanato tutte le ali di pollo, potete occuparvi delle patate.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Sbucciate le patate e dividetele prima a metà e poi in quarti; infine tagliatele a cubetti. Mettete le patate in una ciotola e conditele con olio e sale, dopodiché versatele nella ciotola con la panatura avanzata",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "e mescolate bene. A questo punto prendete un tegame capiente e adagiate all’interno le ali di pollo impanate, poi versate anche le patate e distribuitele uniformemente sulla superficie.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Condite con un po’ di sale e un giro abbondante di olio e cuocete in forno ventilato preriscaldato a 200° per 40 minuti. Trascorso questo tempo accendete il grill e proseguite la cottura per altri 10 minuti per rendere la panatura bella croccante. Una volta cotte, guarnite con il prezzemolo rimasto e servite le vostre ali di pollo e patate saporite ancora fumanti!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/193/19351/19351_ali_di_pollo_e_patate_al_forno_strip_16-18.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Ali-di-pollo-e-patate-saporite.html",
+      "source_hash": "fdea956bd34d10cede0abdb202ff9d0cefe00bdf08cd3ca3178ce7134f345d99",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-26T14:25:41.758632+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 6,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-26T14:25:41.758653+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/193-19351/Ali-di-pollo-e-patate-saporite_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-26T14:26:15.269936+00:00"
+    }
+  },
+  {
+    "id": 34944015821434,
+    "name": "Ciambella pizza alta e soffice",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 75,
+    "ingredients_display": [
+      "Farina Manitoba 200 g",
+      "Farina 00 300 g",
+      "Lievito di birra fresco 5 g",
+      "Acqua a temperatura ambiente 300 g",
+      "Olio extravergine d'oliva 35 g",
+      "Sale fino 10 g",
+      "Fiordilatte 125 g",
+      "Passata di pomodoro 320 g",
+      "Olio extravergine d'oliva q.b.",
+      "Sale fino q.b.",
+      "Origano secco q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Ciambella-pizza-alta-e-soffice.html",
+    "image_url": "https://www.giallozafferano.it/images/225-22514/Ciambella-pizza-alta-e-soffice_650x433_wm.jpg",
+    "servings": 8,
+    "kcal": 349.6,
+    "protein": null,
+    "carbs": 51.9,
+    "fats": 10.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Farina Manitoba",
+        200,
+        "g"
+      ],
+      [
+        "Farina 00",
+        300,
+        "g"
+      ],
+      [
+        "Lievito di birra fresco",
+        5,
+        "g"
+      ],
+      [
+        "Acqua a temperatura ambiente",
+        300,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        35,
+        "g"
+      ],
+      [
+        "Sale fino",
+        10,
+        "g"
+      ],
+      [
+        "Fiordilatte",
+        125,
+        "g"
+      ],
+      [
+        "Passata di pomodoro",
+        320,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Origano secco",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare la ciambella pizza alta e soffice abbiamo scelto di impastare il tutto a mano, ma se preferite utilizzare l’impastatrice potrete seguire gli stessi procedimenti, utilizzando il gancio a velocità medio bassa. Cominciate sbriciolando il lievito nell’acqua a temperatura ambiente e scioglietelo per bene, la temperatura ideale dell'acqua è di 25°. In alternativa potete anche sbriciolare il lievito nella farina, il risultato non cambierà. Se preferite, potete utilizzare 2 g di lievito di birra disidratato. Proseguite versando la farina manitoba e quella 00 in un recipiente. Poi versate l’acqua un po’ alla volta mentre impastate con le mani.",
+      "Versate quindi l'olio, poco alla volta. Quando avrete versato la metà del liquido, potete aggiungere anche il sale e impastate fino a quando l'impasto non sarà liscio e omogeneo.",
+      "Ottenuto un bel panetto liscio, lasciatelo riposare sul piano di lavoro per una decina di minuti coprendolo con la ciotola. Una volta riposato, dategli una piccola piega: immaginate che la sfera sia divisa in 4 parti, prendete l’estremità di ognuna, tiratela delicatamente e ripiegatela verso il centro, infine dategli la forma di una sfera.",
+      "Trasferite l'impasto così formato in una ciotola, coprite con pellicola trasparente e lasciate lievitare. Per comodità potete mettere la ciotola in forno spento ma con la luce accesa, così l’interno raggiungerà la temperatura di 26-28°, ideale per la lievitazione; in alternativa potete anche tenere la bacinella in un luogo caldo. I tempi sono approssimativi poiché ogni impasto, la temperatura e le condizioni metereologiche influenzano la lievitazione: mediamente l’impasto dovrebbe impiegare 2 ore e 30 minuti a raddoppiare di volume. Mentre l’impasto lievita, tagliate il fiordilatte in 15 pezzi, di circa 8 g l’uno. Lasciate scolare la mozzarella in un colino coperto di pellicola in frigo.",
+      "Trascorso il tempo di lievitazione condite la passata con olio, sale e origano. Riprendete quindi l'impasto lievitato.",
+      "Tagliate l’impasto con un tarocco in 15 pezzi di circa 50 g l’uno. Aiutatevi con della farina e stendete con le dita l’impasto.",
+      "Al centro mettete un cucchiaino di passata, un pezzo di mozzarella e chiudete la pallina riportando i lembi verso il centro.",
+      "Avrete così formato un bocconcino ripieno. Prendete uno stampo da ciambella da 27,5 cm di diametro e spennellate il fondo e il bordo con l'olio. Tuffate la pallina nella ciotola della passata.",
+      "Fate in modo che la pallina sia avvolta dal sugo, quindi adagiatela all'interno dello stampo. Sistemate le palline vicine tra di loro. Coprite con pellicola e lasciate lievitare per circa 1 ora.",
+      "Trascorso il tempo di lievitazione 28 cuocete in forno già caldo a 190 gradi per circa 35 minuti. Terminata la cottura lasciate raffreddare per qualche minuto e poi sformate la vostra ciambella pizza alta e soffice."
+    ],
+    "steps_raw": [
+      "Per preparare la ciambella pizza alta e soffice abbiamo scelto di impastare il tutto a mano, ma se preferite utilizzare l’impastatrice potrete seguire gli stessi procedimenti, utilizzando il gancio a velocità medio bassa. Cominciate sbriciolando il lievito nell’acqua a temperatura ambiente 1 e scioglietelo per bene 2 , la temperatura ideale dell'acqua è di 25°. In alternativa potete anche sbriciolare il lievito nella farina, il risultato non cambierà. Se preferite, potete utilizzare 2 g di lievito di birra disidratato. Proseguite versando la farina manitoba e quella 00 in un recipiente. Poi versate l’acqua un po’ alla volta 3 mentre impastate con le mani.",
+      "Versate quindi l'olio 4 , poco alla volta. Quando avrete versato la metà del liquido, potete aggiungere anche il sale 5 e impastate 6 fino a quando l'impasto non sarà liscio e omogeneo.",
+      "Ottenuto un bel panetto liscio 7 , lasciatelo riposare sul piano di lavoro per una decina di minuti coprendolo con la ciotola 8 . Una volta riposato, dategli una piccola piega: immaginate che la sfera sia divisa in 4 parti, prendete l’estremità di ognuna, tiratela delicatamente e ripiegatela verso il centro 9 , infine dategli la forma di una sfera.",
+      "Trasferite l'impasto così formato in una ciotola, coprite con pellicola trasparente 10 e lasciate lievitare. Per comodità potete mettere la ciotola in forno spento ma con la luce accesa, così l’interno raggiungerà la temperatura di 26-28°, ideale per la lievitazione; in alternativa potete anche tenere la bacinella in un luogo caldo. I tempi sono approssimativi poiché ogni impasto, la temperatura e le condizioni metereologiche influenzano la lievitazione: mediamente l’impasto dovrebbe impiegare 2 ore e 30 minuti a raddoppiare di volume. Mentre l’impasto lievita, tagliate il fiordilatte in 15 pezzi, di circa 8 g l’uno. Lasciate scolare la mozzarella in un colino coperto di pellicola in frigo 11 12 .",
+      "Trascorso il tempo di lievitazione condite la passata con olio 13 , sale e origano 14 . Riprendete quindi l'impasto lievitato 15 .",
+      "Tagliate l’impasto con un tarocco 16 in 15 pezzi di circa 50 g l’uno 17 . Aiutatevi con della farina e stendete con le dita l’impasto 18 .",
+      "Al centro mettete un cucchiaino di passata 19 , un pezzo di mozzarella 20 e chiudete la pallina riportando i lembi verso il centro 21 .",
+      "Avrete così formato un bocconcino ripieno 22 . Prendete uno stampo da ciambella da 27,5 cm di diametro e spennellate il fondo e il bordo con l'olio 23 . Tuffate la pallina nella ciotola della passata 24 .",
+      "Fate in modo che la pallina sia avvolta dal sugo 25 , quindi adagiatela all'interno dello stampo. Sistemate le palline vicine tra di loro 26 . Coprite con pellicola e lasciate lievitare per circa 1 ora 27 .",
+      "Trascorso il tempo di lievitazione 28 cuocete in forno già caldo a 190 gradi per circa 35 minuti. Terminata la cottura lasciate raffreddare per qualche minuto 29 e poi sformate la vostra ciambella pizza alta e soffice 30 ."
+    ],
+    "needs_review": true,
+    "source_category": "Antipasti",
+    "source_cost": "Basso",
+    "imported_at": "2026-11-26T14:25:15.257667+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Antipasto",
+      "esito": "escluso",
+      "criterio": "categoria fonte: Antipasti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Antipasto",
+      "tools": [
+        "Forno"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
+  },
+  {
+    "id": 19309288679072,
+    "name": "Pasta con asparagi e pancetta",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Primo",
+    "time": 50,
+    "ingredients_display": [
+      "Penne Rigate 320 g",
+      "Asparagi 700 g",
+      "Pancetta 100 g",
+      "Scalogno 1",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Olio extravergine d'oliva q.b.",
+      "Olio extravergine d'oliva 20 g",
+      "Acqua 100 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Pasta-con-asparagi-e-pancetta.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/186/18635/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 526.6,
+    "protein": null,
+    "carbs": 69.7,
+    "fats": 20.2,
+    "cost": null,
+    "ingredients": [
+      [
+        "Penne Rigate",
+        320,
+        "g"
+      ],
+      [
+        "Asparagi",
+        700,
+        "g"
+      ],
+      [
+        "Pancetta",
+        100,
+        "g"
+      ],
+      [
+        "Scalogno",
+        1,
+        "pezzi"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20,
+        "g"
+      ],
+      [
+        "Acqua",
+        100,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare la pasta con asparagi e pancetta, eliminate la parte finale degli asparagi più coriacea, tagliate i gambi a rondelle, mentre le punte tagliatele a metà e mettetele da parte.",
+      "Mondate e tritate finemente lo scalogno, tagliate a stricioline la pancetta. Mettete a bollire l'acqua per la pasta da salare a bollore, nel mentre scaldate un filo d'olio in una padella capiente.",
+      "Unite lo scalogno tritato e lasciate rosolare a fuoco medio per 2-3 minuti, mescolando di tanto in tanto. Aggiungete i gambi degli asparagi a rondelle, salate, pepate a piacere. Sfumate con un mestolo di acqua calda (presa dalla pentola per la cottura della pasta). Cuocete il tutto per circa 10 minuti aggiungendo un po' di acqua calda al bisogno.",
+      "Una volta che gli asparagi saranno cotti, prelevatene circa 2/3, trasferiteli in un bicchiere alto insieme a 20 g olio, 100 g di acqua e frullate con un frullatore a immersione.",
+      "Dovrete ottenere una crema liscia. Tenete la crema da parte, mentre versate la pancetta all'interno della padella utilizzata per la cottura degli asparagi e lasciate rosolare per 2 minuti a fuoco medio, mescolando di tanto in tanto. Unite anche le punte d'asparago e lasciate rosolare ancora per 5 minuti.",
+      "Nel frattempo cuocete la pasta al dente. Tenete da parte qualche strisciolina di pancetta e punta di asparago rosolati, quindi versate anche la crema di asparagi all’interno della padella con il condimento, aggiungete anche le rondelle di asparagi.",
+      "Scolate la pasta direttamente in padella e mantecate per un paio di minuti sino ad ottenere una pasta ben condita e cremosa. Impiattate, aggiungete del pepe grattugiato fresco a piacere e decorate ciascun piatto da portata con le punte di asparago e le listarelle di pancetta tenute da parte!"
+    ],
+    "steps_raw": [
+      "Per preparare la pasta con asparagi e pancetta, eliminate la parte finale degli asparagi più coriacea 1 , tagliate i gambi a rondelle 2 , mentre le punte tagliatele a metà 3 e mettetele da parte.",
+      "Mondate e tritate finemente lo scalogno 4 , tagliate a stricioline la pancetta 5 . Mettete a bollire l'acqua per la pasta da salare a bollore, nel mentre scaldate un filo d'olio in una padella capiente 6 .",
+      "Unite lo scalogno tritato 7 e lasciate rosolare a fuoco medio per 2-3 minuti, mescolando di tanto in tanto. Aggiungete i gambi degli asparagi a rondelle 8 , salate, pepate a piacere. Sfumate con un mestolo di acqua calda (presa dalla pentola per la cottura della pasta) 9 . Cuocete il tutto per circa 10 minuti aggiungendo un po' di acqua calda al bisogno.",
+      "Una volta che gli asparagi saranno cotti, prelevatene circa 2/3, trasferiteli in un bicchiere alto insieme a 20 g olio 10 , 100 g di acqua 11 e frullate con un frullatore a immersione 12 .",
+      "Dovrete ottenere una crema liscia 13 . Tenete la crema da parte, mentre versate la pancetta all'interno della padella utilizzata per la cottura degli asparagi 14 e lasciate rosolare per 2 minuti a fuoco medio, mescolando di tanto in tanto. Unite anche le punte d'asparago 15 e lasciate rosolare ancora per 5 minuti.",
+      "Nel frattempo cuocete la pasta al dente 16 . Tenete da parte qualche strisciolina di pancetta e punta di asparago rosolati 17 , quindi versate anche la crema di asparagi all’interno della padella con il condimento 18 , aggiungete anche le rondelle di asparagi.",
+      "Scolate la pasta direttamente in padella 19 e mantecate per un paio di minuti sino ad ottenere una pasta ben condita e cremosa 20 . Impiattate, aggiungete del pepe grattugiato fresco a piacere e decorate ciascun piatto da portata con le punte di asparago e le listarelle di pancetta tenute da parte 21 !"
+    ],
+    "needs_review": false,
+    "source_category": "Primi piatti",
+    "source_cost": "Basso",
+    "imported_at": "2026-11-26T14:25:17.972721+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Primo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Primi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Primo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "media_extraction": {
+      "status": "unknown",
+      "source_url": "https://ricette.giallozafferano.it/Pasta-con-asparagi-e-pancetta.html",
+      "source_hash": "c213c58061180513cbb4dd900b007d8b2f439e5fcd1d533b1f08af0cb862b7c4",
+      "method": null,
+      "checked_at": "2026-11-26T14:25:44.443713+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": false,
+      "steps_filled": 0,
+      "effective_status": "unknown",
+      "reason": "foreign_image"
+    },
+    "images_import_version": 12,
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-26T14:25:44.443736+00:00",
+    "copertina_verifica": {
+      "esito": "ok",
+      "verificata_il": "2026-11-26T14:26:15.269936+00:00"
+    }
+  },
+  {
+    "id": 171761869511262,
+    "name": "Alette di pollo speziate con purè ricco di patate e spinaci",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 70,
+    "ingredients_display": [
+      "Alette di pollo 870 g",
+      "Salsa di soia 80 g",
+      "Scorza di lime 1",
+      "Arance succo e scorza (non trattata) 1",
+      "Maggiorana 3 rametti",
+      "Scalogno 1",
+      "Olio extravergine d'oliva 10 g",
+      "Pepe in grani misto 4 g",
+      "Sale fino q.b.",
+      "Patate 400 g",
+      "Spinaci 300 g",
+      "Sale fino q.b.",
+      "Pepe nero q.b.",
+      "Grana Padano DOP da grattugiare 60 g",
+      "Olio extravergine d'oliva q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Alette-di-pollo-speziate-con-pure-ricco-di-patate-e-spinaci.html",
+    "image_url": "https://www.giallozafferano.it/images/151-15158/Alette-di-pollo-speziate-con-pure-ricco-di-patate-e-spinaci_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 692.8,
+    "protein": null,
+    "carbs": 30.0,
+    "fats": 41.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Alette di pollo",
+        870,
+        "g"
+      ],
+      [
+        "Salsa di soia",
+        80,
+        "g"
+      ],
+      [
+        "Scorza di lime",
+        1,
+        "pezzi"
+      ],
+      [
+        "Arance succo e scorza (non trattata)",
+        1,
+        "pezzi"
+      ],
+      [
+        "Maggiorana",
+        3,
+        "rametti"
+      ],
+      [
+        "Scalogno",
+        1,
+        "pezzi"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        10,
+        "g"
+      ],
+      [
+        "Pepe in grani misto",
+        4,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Patate",
+        400,
+        "g"
+      ],
+      [
+        "Spinaci",
+        300,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Grana Padano DOP da grattugiare",
+        60,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare le alette di pollo speziate con purè ricco di patate e spinaci, iniziate dalla marinatura del pollo (se preferite una carne ancora più aromatica potete lasciar marinare le alette per una notte intera in frigorifero). Affettate metà arancia, mentre l'altra metà potete spremerla e filtrare il succo. Quindi ponete le alette di pollo in una pirofila ampia facendo attenzione a non sovrapporle; aggiungete metà dose di salsa di soia",
+      "e il succo d'arancia. Poi aromatizzate con le foglioline di maggiorana, le fettine di arancia e la scorza di lime;",
+      "unite il sale e pepe, poi irrorate con olio e coprite con pellicola: riponete in frigo per almeno 2 ore a marinare, girandole di tanto in tanto per distribuire uniformemente la marinatura.",
+      "Intanto preparate il contorno: lessate le patate in abbondante acqua bollente leggermente salata e stufate gli spinaci, lavati accuratamente in precedenza e ben strizzati, in padella con un filo d'olio e sale a piacere, coperti. Quando saranno morbidi, trasferiteli in una ciotola e riduceteli in crema con un mixer ad immersione.",
+      "Quando le patate saranno lesse, sbucciatele ancora calde e schiacciatele raccogliendole in una ciotola; unite il formaggio grattugiato",
+      "aggiungete anche la crema di spinaci 16 salate e pepate, e mescolate per amalgamare il tutto. Tenete il purè al caldo in forno spento con luce accesa ad esempio; intanto in una padella versate l'olio e lo scalogno mondato e tritato.",
+      "Fatelo rosolare a fuoco dolce mescolando di tanto in tanto,poi unite il pollo scolato dalla marinatura e l'altra metà dose di salsa di soia. Rigirate le ali per farle rosolare da entrambi i lati, poi coprite con un coperchio e cuocete a fiamma moderata per circa 30 minuti e regolate di sale se necessario. Una volta pronte, servite le alette di pollo speziate con purè ricco di patate e spinaci."
+    ],
+    "steps_raw": [
+      "Per preparare le alette di pollo speziate con purè ricco di patate e spinaci, iniziate dalla marinatura del pollo (se preferite una carne ancora più aromatica potete lasciar marinare le alette per una notte intera in frigorifero). Affettate metà arancia 1 , mentre l'altra metà potete spremerla e filtrare il succo 2 . Quindi ponete le alette di pollo in una pirofila ampia facendo attenzione a non sovrapporle 2 ; aggiungete metà dose di salsa di soia",
+      "e il succo d'arancia 4 . Poi aromatizzate con le foglioline di maggiorana 5 , le fettine di arancia 6 e la scorza di lime;",
+      "unite il sale e pepe 7 , poi irrorate con olio 8 e coprite con pellicola 9 : riponete in frigo per almeno 2 ore a marinare, girandole di tanto in tanto per distribuire uniformemente la marinatura.",
+      "Intanto preparate il contorno: lessate le patate in abbondante acqua bollente leggermente salata 10 e stufate gli spinaci, lavati accuratamente in precedenza e ben strizzati, in padella con un filo d'olio e sale a piacere, coperti 11 . Quando saranno morbidi, trasferiteli in una ciotola e riduceteli in crema con un mixer ad immersione 12 .",
+      "Quando le patate saranno lesse, sbucciatele ancora calde 13 e schiacciatele raccogliendole in una ciotola 14 ; unite il formaggio grattugiato 15",
+      "aggiungete anche la crema di spinaci 16 salate e pepate, e mescolate per amalgamare il tutto 17 . Tenete il purè al caldo in forno spento con luce accesa ad esempio; intanto in una padella versate l'olio e lo scalogno mondato e tritato 18 .",
+      "Fatelo rosolare a fuoco dolce mescolando di tanto in tanto,poi unite il pollo scolato dalla marinatura e l'altra metà dose di salsa di soia 19 . Rigirate le ali per farle rosolare da entrambi i lati, poi coprite con un coperchio 20 e cuocete a fiamma moderata per circa 30 minuti e regolate di sale se necessario. Una volta pronte, servite le alette di pollo speziate con purè ricco di patate e spinaci 21 ."
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": null,
+    "imported_at": "2026-11-26T14:25:21.595802+00:00",
+    "quantita_dedotte": [
+      {
+        "testo_fonte": "Scorza di lime 1",
+        "interpretato": [
+          "Scorza di lime",
+          1,
+          "pezzi"
+        ],
+        "regola": "agrumi_contati"
+      },
+      {
+        "testo_fonte": "Arance succo e scorza (non trattata) 1",
+        "interpretato": [
+          "Arance succo e scorza (non trattata)",
+          1,
+          "pezzi"
+        ],
+        "regola": "agrumi_contati"
+      }
+    ],
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15158/15158__alette_di_pollo_speziate_senza_pack_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_19-21.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare le alette di pollo speziate con purè ricco di patate e spinaci, iniziate dalla marinatura del pollo (se preferite una carne ancora più aromatica potete lasciar marinare le alette per una notte intera in frigorifero). Affettate metà arancia, mentre l'altra metà potete spremerla e filtrare il succo. Quindi ponete le alette di pollo in una pirofila ampia facendo attenzione a non sovrapporle 2; aggiungete metà dose di salsa di soia",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/151/15158/15158__alette_di_pollo_speziate_senza_pack_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "e il succo d'arancia. Poi aromatizzate con le foglioline di maggiorana, le fettine di arancia e la scorza di lime;",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "unite il sale e pepe, poi irrorate con olio e coprite con pellicola: riponete in frigo per almeno 2 ore a marinare, girandole di tanto in tanto per distribuire uniformemente la marinatura.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Intanto preparate il contorno: lessate le patate in abbondante acqua bollente leggermente salata e stufate gli spinaci, lavati accuratamente in precedenza e ben strizzati, in padella con un filo d'olio e sale a piacere, coperti. Quando saranno morbidi, trasferiteli in una ciotola e riduceteli in crema con un mixer ad immersione.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Quando le patate saranno lesse, sbucciatele ancora calde e schiacciatele raccogliendole in una ciotola; unite il formaggio grattugiato",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "aggiungete anche la crema di spinaci 16 salate e pepate, e mescolate per amalgamare il tutto. Tenete il purè al caldo in forno spento con luce accesa ad esempio; intanto in una padella versate l'olio e lo scalogno mondato e tritato.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_16-18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Fatelo rosolare a fuoco dolce mescolando di tanto in tanto,poi unite il pollo scolato dalla marinatura e l'altra metà dose di salsa di soia. Rigirate le ali per farle rosolare da entrambi i lati, poi coprite con un coperchio e cuocete a fiamma moderata per circa 30 minuti e regolate di sale se necessario. Una volta pronte, servite le alette di pollo speziate con purè ricco di patate e spinaci.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/151/15158/15158_alette_di_pollo_strip_19-21.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Alette-di-pollo-speziate-con-pure-ricco-di-patate-e-spinaci.html",
+      "source_hash": "6cc91849745fae664b420e405fd9d96f5f311b6f99c1f40524690532df0db78f",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-26T14:25:39.084760+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 7,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-26T14:25:39.084781+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/151-15158/Alette-di-pollo-speziate-con-pure-ricco-di-patate-e-spinaci_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-26T14:26:15.269936+00:00"
+    }
+  },
+  {
+    "id": 243177117569473,
+    "name": "Cestini di Parmigiano con insalata croccante alle mele",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 45,
+    "ingredients_display": [
+      "Parmigiano Reggiano DOP grattugiato 240 g",
+      "Mele Fuji 2",
+      "Radicchio lungo 80 g",
+      "Spinaci novelli freschi 50 g",
+      "Olio extravergine d'oliva 15 g",
+      "Sale fino 1 pizzico",
+      "Aceto balsamico 50 g",
+      "Zucchero di canna 20 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Cestini-di-Parmigiano-con-insalata-croccante-alle-mele.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/163/16307/foto_hd/hd650x433_wm.jpg",
+    "servings": 4,
+    "kcal": 366.3,
+    "protein": null,
+    "carbs": 24.9,
+    "fats": 19.0,
+    "cost": null,
+    "ingredients": [
+      [
+        "Parmigiano Reggiano DOP grattugiato",
+        240,
+        "g"
+      ],
+      [
+        "Mele Fuji",
+        2,
+        "pezzi"
+      ],
+      [
+        "Radicchio lungo",
+        80,
+        "g"
+      ],
+      [
+        "Spinaci novelli freschi",
+        50,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        15,
+        "g"
+      ],
+      [
+        "Sale fino",
+        1,
+        "pizzichi"
+      ],
+      [
+        "Aceto balsamico",
+        50,
+        "g"
+      ],
+      [
+        "Zucchero di canna",
+        20,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare i cestini di Parmigiano con insalata di mele croccante, cominciate occupandovi della glassa: ponete in un pentolino l’aceto balsamico e lo zucchero di canna e fate ridurre a fuoco medio-dolce per qualche minuto. Trasferite la riduzione in un biberon e mettetela in frigo a rassodare per almeno mezzora: raffreddandosi si addenserà e acquisirà la consistenza di una glassa. Intanto, procedete con la preparazione dei cestini. Spennellate con pochissimo burro una padellina del diametro di 16-18 cm (se avete una buona padella antiaderente potete saltare questo passaggio, che però contribuirà a rendere più lucidi i cestini).",
+      "Fatela scaldare leggermente e versatevi un quarto del Parmigiano previsto dalla ricetta, ossia 60 g. Distribuite uniformemente il Parmigiano in padella, aiutandovi con una spatola. Lasciate quindi fondere il formaggio, a fiamma non troppo alta, fino a quando comincia a fare le bollicine e assume un colore leggermente dorato.",
+      "Togliete la padella dal fuoco e lasciate che il formaggio rapprenda un minuto. Aiutandovi con la spatola, staccate delicatamente dalla padella la cialda di Parmigiano che risulterà ancora piuttosto morbida e adagiatela con un gesto rapido sul fondo capovolto di una ciotolina, che avrete precedentemente posto su un foglio di carta cucina o su un piatto. Lasciate raffreddare completamente il cestino, nel frattempo procedete allo stesso modo con gli altri 3. Finiti tutti i cestini, lavate il radicchio e tagliatelo alla julienne.",
+      "Ponetelo in una ciotolina e conditelo con l’olio e il sale. Lavate quindi le mele, tagliatele a metà ed eliminate il torsolo.",
+      "Tagliate quindi le mele a fettine sottili. È il momento di comporre i piatti: ponete ogni cestino in un piattino e disponete a mezzaluna le fettine di mela su 2/3 del cestino. Aggiungete poi al centro spinacini",
+      "e radicchio. Disponete sopra l’insalatina altre 3 fettine di mela, in corrispondenza dello spicchio di circonferenza rimasto libero. Infine guarnite con un filo di glassa di aceto balsamico ormai raffreddata: i vostri cestini di Parmigiano con insalata di mele croccante sono pronti!"
+    ],
+    "steps_raw": [
+      "Per preparare i cestini di Parmigiano con insalata di mele croccante, cominciate occupandovi della glassa: ponete in un pentolino l’aceto balsamico e lo zucchero di canna 1 e fate ridurre a fuoco medio-dolce per qualche minuto 2 . Trasferite la riduzione in un biberon e mettetela in frigo a rassodare per almeno mezzora: raffreddandosi si addenserà e acquisirà la consistenza di una glassa. Intanto, procedete con la preparazione dei cestini. Spennellate con pochissimo burro una padellina del diametro di 16-18 cm 3 (se avete una buona padella antiaderente potete saltare questo passaggio, che però contribuirà a rendere più lucidi i cestini).",
+      "Fatela scaldare leggermente e versatevi un quarto del Parmigiano previsto dalla ricetta, ossia 60 g 4 . Distribuite uniformemente il Parmigiano in padella, aiutandovi con una spatola 5 . Lasciate quindi fondere il formaggio, a fiamma non troppo alta, fino a quando comincia a fare le bollicine e assume un colore leggermente dorato 6 .",
+      "Togliete la padella dal fuoco e lasciate che il formaggio rapprenda un minuto. Aiutandovi con la spatola, staccate delicatamente dalla padella la cialda di Parmigiano che risulterà ancora piuttosto morbida 7 e adagiatela con un gesto rapido sul fondo capovolto di una ciotolina, che avrete precedentemente posto su un foglio di carta cucina 8 o su un piatto. Lasciate raffreddare completamente il cestino, nel frattempo procedete allo stesso modo con gli altri 3. Finiti tutti i cestini, lavate il radicchio e tagliatelo alla julienne 9 .",
+      "Ponetelo in una ciotolina e conditelo con l’olio 10 e il sale. Lavate quindi le mele, tagliatele a metà 11 ed eliminate il torsolo 12 .",
+      "Tagliate quindi le mele a fettine sottili 13 . È il momento di comporre i piatti: ponete ogni cestino in un piattino e disponete a mezzaluna le fettine di mela su 2/3 del cestino 14 . Aggiungete poi al centro spinacini 15",
+      "e radicchio 16 . Disponete sopra l’insalatina altre 3 fettine di mela 17 , in corrispondenza dello spicchio di circonferenza rimasto libero. Infine guarnite con un filo di glassa di aceto balsamico ormai raffreddata: i vostri cestini di Parmigiano con insalata di mele croccante sono pronti 18 !"
+    ],
+    "needs_review": true,
+    "source_category": "Antipasti",
+    "source_cost": null,
+    "imported_at": "2026-11-26T14:25:24.415853+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Antipasto",
+      "esito": "escluso",
+      "criterio": "categoria fonte: Antipasti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Antipasto",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
+  },
+  {
+    "id": 87374343581368,
+    "name": "Petto d'anatra arrostito con riduzione di porto e arancia",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 70,
+    "ingredients_display": [
+      "Petto d'anatra (2 pezzi) 500 g",
+      "Burro 50 g",
+      "Aglio 1 spicchio",
+      "Timo q.b.",
+      "Rosmarino q.b.",
+      "Porto 150 ml",
+      "Marsala 50 ml",
+      "Succo d'arancia 1",
+      "Scalogno ½",
+      "Burro 40 g",
+      "Indivia belga 2",
+      "Burro q.b.",
+      "Zucchero 1 pizzico",
+      "Aceto di vino bianco q.b.",
+      "Arance (polpa e scorza) q.b.",
+      "Timo q.b.",
+      "Fiocchi di sale q.b.",
+      "Pepe nero q.b."
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia.html",
+    "image_url": "https://www.giallozafferano.it/images/296-29691/Petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 439.7,
+    "protein": null,
+    "carbs": 17.3,
+    "fats": 23.8,
+    "cost": null,
+    "ingredients": [
+      [
+        "Petto d'anatra (2 pezzi)",
+        500,
+        "g"
+      ],
+      [
+        "Burro",
+        50,
+        "g"
+      ],
+      [
+        "Aglio",
+        1,
+        "spicchio"
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Rosmarino",
+        null,
+        "q.b."
+      ],
+      [
+        "Porto",
+        150,
+        "ml"
+      ],
+      [
+        "Marsala",
+        50,
+        "ml"
+      ],
+      [
+        "Succo d'arancia",
+        1,
+        "pezzi"
+      ],
+      [
+        "Scalogno",
+        0.5,
+        "pezzi"
+      ],
+      [
+        "Burro",
+        40,
+        "g"
+      ],
+      [
+        "Indivia belga",
+        2,
+        "pezzi"
+      ],
+      [
+        "Burro",
+        null,
+        "q.b."
+      ],
+      [
+        "Zucchero",
+        1,
+        "pizzichi"
+      ],
+      [
+        "Aceto di vino bianco",
+        null,
+        "q.b."
+      ],
+      [
+        "Arance (polpa e scorza)",
+        null,
+        "q.b."
+      ],
+      [
+        "Timo",
+        null,
+        "q.b."
+      ],
+      [
+        "Fiocchi di sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ]
+    ],
+    "steps": [
+      "Per preparare il petto d’anatra arrostito con riduzione di porto e arancia come prima cosa incidete la pelle con un coltello o con una lametta; è importante tagliare solo la pelle senza arrivare fino alla carne. Adagiate il petto d'anatra in una padella d'acciaio con la pelle rivolta verso il basso, poi accendete il fuoco e cuocete a fiamma bassa per 10-15 minuti.",
+      "Girate la carne solo quando avrà rilasciato tutto il suo grasso e si staccherà facilmente dal fondo; il tempo di cottura può variare a seconda di quanto è spesso il petto. A questo punto aggiungete il burro, i rametti di timo e rosmarino.",
+      "Unite anche l’aglio in camicia. Continuate a cuocere il petto d'anatra irrorando la carne con il fondo di cottura; se adagiate le erbe aromatiche sulla carne eviteranno di bruciarsi durante la cottura. La carne sarà pronta quando raggiungerà una temperatura interna compresa tra i 60° e i 74°C. Trasferitela su una gratella insieme agli aromi.",
+      "Irroratela con il fondo di cottura e lasciate riposare per 10 minuti. Intanto dedicatevi alla preparazione della riduzione di porto e arancia. In un pentolino sciogliete 20 g di burro presi dal totale, poi aggiungete lo scalogno tritato e fatelo appassire, a fiamma media, per 5-6 minuti.",
+      "Quando lo scalogno sarà appassito, versate il marsala e il porto e lasciate evaporare tutta la parte alcolica; per velocizzare il processo potete flambare con un cannello.",
+      "Una volta che la salsa avrà ridotto il suo volume di metà, potete filtrarla attraverso un colino per ottenere una consistenza più liscia. Aggiungete quindi il succo d’arancia e continuate a far ridurre il composto sul fuoco fino a che non avrà una consistenza tale da velare il cucchiaio. Alla fine spegnete il fuoco e unite il resto del burro per addensare e lucidare la riduzione; dovrete ottenere un composto dalla consistenza di una glassa.",
+      "mentre la salsa cuoce potete occuparvi del contorno: tagliate a metà l’indivia e adagiatela nella padella in cui avete cotto l’anatra, con la parte tagliata rivolta verso il basso. Aggiungete qualche fiocchetto di burro.",
+      "Aggiungete un pizzico di zucchero e l’aceto bianco per deglassare la padella. Cuocete a fiamma media per 5 minuti, poi girate e fate cuocere per altri 5 minuti. L'indivia dovrà caramellizzarsi leggermente mantenendo al contempo una consistenza croccante.",
+      "Siete pronti per impiattare: tagliate il petto d'anatra per il lungo e aggiungete a fianco l’indivia. Condite la carne con fiocchi di sale.",
+      "Infine guarnite con della scorza d’arancia grattugiata, timo e qualche pezzetto d’arancia pelata a vivo.",
+      "Completate con una macinata di pepe e la riduzione. Il petto d’anatra con riduzione di porto e arancia è pronto per essere servito!"
+    ],
+    "steps_raw": [
+      "Per preparare il petto d’anatra arrostito con riduzione di porto e arancia come prima cosa incidete la pelle con un coltello o con una lametta 1 2 ; è importante tagliare solo la pelle senza arrivare fino alla carne. Adagiate il petto d'anatra in una padella d'acciaio con la pelle rivolta verso il basso 3 , poi accendete il fuoco e cuocete a fiamma bassa per 10-15 minuti.",
+      "Girate la carne solo quando avrà rilasciato tutto il suo grasso e si staccherà facilmente dal fondo 4 ; il tempo di cottura può variare a seconda di quanto è spesso il petto. A questo punto aggiungete il burro 5 , i rametti di timo e rosmarino 6 .",
+      "Unite anche l’aglio in camicia 7 . Continuate a cuocere il petto d'anatra irrorando la carne con il fondo di cottura 8 ; se adagiate le erbe aromatiche sulla carne eviteranno di bruciarsi durante la cottura. La carne sarà pronta quando raggiungerà una temperatura interna compresa tra i 60° e i 74°C. Trasferitela su una gratella insieme agli aromi 9 .",
+      "Irroratela con il fondo di cottura 10 e lasciate riposare per 10 minuti. Intanto dedicatevi alla preparazione della riduzione di porto e arancia. In un pentolino sciogliete 20 g di burro presi dal totale, poi aggiungete lo scalogno tritato 11 e fatelo appassire, a fiamma media, per 5-6 minuti 12 .",
+      "Quando lo scalogno sarà appassito, versate il marsala 13 e il porto 14 e lasciate evaporare tutta la parte alcolica; per velocizzare il processo potete flambare con un cannello 15 .",
+      "Una volta che la salsa avrà ridotto il suo volume di metà, potete filtrarla attraverso un colino per ottenere una consistenza più liscia 16 . Aggiungete quindi il succo d’arancia 17 e continuate a far ridurre il composto sul fuoco fino a che non avrà una consistenza tale da velare il cucchiaio. Alla fine spegnete il fuoco e unite il resto del burro per addensare e lucidare la riduzione 18 ; dovrete ottenere un composto dalla consistenza di una glassa.",
+      "mentre la salsa cuoce potete occuparvi del contorno: tagliate a metà l’indivia 19 e adagiatela nella padella in cui avete cotto l’anatra, con la parte tagliata rivolta verso il basso 20 . Aggiungete qualche fiocchetto di burro 21 .",
+      "Aggiungete un pizzico di zucchero 22 e l’aceto bianco per deglassare la padella 23 . Cuocete a fiamma media per 5 minuti, poi girate e fate cuocere per altri 5 minuti 24 . L'indivia dovrà caramellizzarsi leggermente mantenendo al contempo una consistenza croccante.",
+      "Siete pronti per impiattare: tagliate il petto d'anatra per il lungo 25 e aggiungete a fianco l’indivia 26 . Condite la carne con fiocchi di sale 27 .",
+      "Infine guarnite con della scorza d’arancia grattugiata 28 , timo 29 e qualche pezzetto d’arancia pelata a vivo 30 .",
+      "Completate con una macinata di pepe 31 e la riduzione 32 . Il petto d’anatra con riduzione di porto e arancia è pronto per essere servito 33 !"
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Elevato",
+    "imported_at": "2026-11-26T14:25:27.118773+00:00",
+    "quantita_dedotte": [
+      {
+        "testo_fonte": "Succo d'arancia 1",
+        "interpretato": [
+          "Succo d'arancia",
+          1,
+          "pezzi"
+        ],
+        "regola": "agrumi_contati"
+      }
+    ],
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_16.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_17.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_19.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_20.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_21.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_22.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_23.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_24.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_25.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_26.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_27.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_28.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_29.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_30.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_31.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_32.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_33.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare il petto d’anatra arrostito con riduzione di porto e arancia come prima cosa incidete la pelle con un coltello o con una lametta; è importante tagliare solo la pelle senza arrivare fino alla carne. Adagiate il petto d'anatra in una padella d'acciaio con la pelle rivolta verso il basso, poi accendete il fuoco e cuocete a fiamma bassa per 10-15 minuti.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_1.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_2.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Girate la carne solo quando avrà rilasciato tutto il suo grasso e si staccherà facilmente dal fondo; il tempo di cottura può variare a seconda di quanto è spesso il petto. A questo punto aggiungete il burro, i rametti di timo e rosmarino.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_4.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_5.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Unite anche l’aglio in camicia. Continuate a cuocere il petto d'anatra irrorando la carne con il fondo di cottura; se adagiate le erbe aromatiche sulla carne eviteranno di bruciarsi durante la cottura. La carne sarà pronta quando raggiungerà una temperatura interna compresa tra i 60° e i 74°C. Trasferitela su una gratella insieme agli aromi.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_7.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_8.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Irroratela con il fondo di cottura e lasciate riposare per 10 minuti. Intanto dedicatevi alla preparazione della riduzione di porto e arancia. In un pentolino sciogliete 20 g di burro presi dal totale, poi aggiungete lo scalogno tritato e fatelo appassire, a fiamma media, per 5-6 minuti.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_10.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_11.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Quando lo scalogno sarà appassito, versate il marsala e il porto e lasciate evaporare tutta la parte alcolica; per velocizzare il processo potete flambare con un cannello.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_13.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_14.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Una volta che la salsa avrà ridotto il suo volume di metà, potete filtrarla attraverso un colino per ottenere una consistenza più liscia. Aggiungete quindi il succo d’arancia e continuate a far ridurre il composto sul fuoco fino a che non avrà una consistenza tale da velare il cucchiaio. Alla fine spegnete il fuoco e unite il resto del burro per addensare e lucidare la riduzione; dovrete ottenere un composto dalla consistenza di una glassa.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_16.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_17.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "mentre la salsa cuoce potete occuparvi del contorno: tagliate a metà l’indivia e adagiatela nella padella in cui avete cotto l’anatra, con la parte tagliata rivolta verso il basso. Aggiungete qualche fiocchetto di burro.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_19.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_20.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_21.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Aggiungete un pizzico di zucchero e l’aceto bianco per deglassare la padella. Cuocete a fiamma media per 5 minuti, poi girate e fate cuocere per altri 5 minuti. L'indivia dovrà caramellizzarsi leggermente mantenendo al contempo una consistenza croccante.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_22.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_23.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_24.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Siete pronti per impiattare: tagliate il petto d'anatra per il lungo e aggiungete a fianco l’indivia. Condite la carne con fiocchi di sale.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_25.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_26.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_27.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Infine guarnite con della scorza d’arancia grattugiata, timo e qualche pezzetto d’arancia pelata a vivo.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_28.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_29.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_30.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Completate con una macinata di pepe e la riduzione. Il petto d’anatra con riduzione di porto e arancia è pronto per essere servito!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_31.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_32.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/296/29691/petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_33.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia.html",
+      "source_hash": "dce4a8a1a581fe53ae9675b56b2a888224da3049a54ac81626f24f90ffb0f292",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-26T14:25:55.234692+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 11,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-26T14:25:55.234713+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/296-29691/Petto-d-anatra-arrostito-con-riduzione-di-porto-e-arancia_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-26T14:26:15.269936+00:00"
+    }
+  },
+  {
+    "id": 123158381685717,
+    "name": "Alette di pollo glassate con salsa di soia",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 60,
+    "ingredients_display": [
+      "Alette di pollo 2 kg",
+      "Cipolle rosse da pulire 1 kg",
+      "Olio extravergine d'oliva q.b.",
+      "Sale q.b.",
+      "Pepe nero q.b.",
+      "Aglio in polvere 1 cucchiaino",
+      "Paprika affumicata 1 cucchiaino",
+      "Aceto di mele 100 g",
+      "Salsa di soia 100 g",
+      "Miele millefiori 50 g",
+      "Semi di sesamo 1 cucchiaio",
+      "Amido di mais (maizena) 50 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Alette-di-pollo-glassate-con-salsa-di-soia.html",
+    "image_url": "https://www.giallozafferano.it/images/298-29891/Alette-di-pollo-glassate-con-salsa-di-soia_780x520_wm.jpg",
+    "servings": 4,
+    "kcal": 1282.1,
+    "protein": null,
+    "carbs": 49.5,
+    "fats": 76.9,
+    "cost": null,
+    "ingredients": [
+      [
+        "Alette di pollo",
+        2,
+        "kg"
+      ],
+      [
+        "Cipolle rosse da pulire",
+        1,
+        "kg"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        null,
+        "q.b."
+      ],
+      [
+        "Sale",
+        null,
+        "q.b."
+      ],
+      [
+        "Pepe nero",
+        null,
+        "q.b."
+      ],
+      [
+        "Aglio in polvere",
+        1,
+        "cucchiaini"
+      ],
+      [
+        "Paprika affumicata",
+        1,
+        "cucchiaini"
+      ],
+      [
+        "Aceto di mele",
+        100,
+        "g"
+      ],
+      [
+        "Salsa di soia",
+        100,
+        "g"
+      ],
+      [
+        "Miele millefiori",
+        50,
+        "g"
+      ],
+      [
+        "Semi di sesamo",
+        1,
+        "cucchiai"
+      ],
+      [
+        "Amido di mais (maizena)",
+        50,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare le alette di pollo glassate con salsa di soia, come prima cosa mettete le alette in una pirofila o in una ciotola, quindi condite con olio, sale e pepe.",
+      "Continuate con l’aglio in polvere, la paprika e massaggiate la carne in modo che il condimento la copra uniformemente.",
+      "Posizionate le alette su una teglia ricoperta con carta forno e aggiungete la cipolla tagliata in spicchi. Cuocete in forno statico a 200°C per 20 minuti, girate le alette e continuate la cottura, con le stesse modalità per altri 20 minuti. Intanto preparate la salsa, in un pentolino versate l’aceto di mele e la salsa di soia.",
+      "Continuate con il miele, i semi di sesamo e l’amido di mais. Mescolate per bene con una frusta.",
+      "Cuocete per 2 minuti, giusto il tempo di far addensare la salsa. Spennellate le alette con la salsa e cuocete in forno ventilato a 200°C per 10 minuti. Le alette di pollo glassate con salsa di soia sono pronte per essere gustate calde!"
+    ],
+    "steps_raw": [
+      "Per preparare le alette di pollo glassate con salsa di soia, come prima cosa mettete le alette in una pirofila o in una ciotola, quindi condite con olio 1 , sale 2 e pepe 3 .",
+      "Continuate con l’aglio in polvere 4 , la paprika 5 e massaggiate la carne in modo che il condimento la copra uniformemente 6 .",
+      "Posizionate le alette su una teglia ricoperta con carta forno e aggiungete la cipolla tagliata in spicchi 7 . Cuocete in forno statico a 200°C per 20 minuti, girate le alette 8 e continuate la cottura, con le stesse modalità per altri 20 minuti. Intanto preparate la salsa, in un pentolino versate l’aceto di mele e la salsa di soia 9 .",
+      "Continuate con il miele 10 , i semi di sesamo 11 e l’amido di mais 12 . Mescolate per bene con una frusta.",
+      "Cuocete per 2 minuti, giusto il tempo di far addensare la salsa 13 . Spennellate le alette con la salsa 14 e cuocete in forno ventilato a 200°C per 10 minuti. Le alette di pollo glassate con salsa di soia sono pronte per essere gustate calde 15 !"
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Basso",
+    "imported_at": "2026-11-26T14:25:29.893049+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_1.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_2.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_4.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_5.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_7.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_8.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_10.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_11.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_13.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_14.jpg",
+        "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_15.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare le alette di pollo glassate con salsa di soia, come prima cosa mettete le alette in una pirofila o in una ciotola, quindi condite con olio, sale e pepe.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_1.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_2.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Continuate con l’aglio in polvere, la paprika e massaggiate la carne in modo che il condimento la copra uniformemente.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_4.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_5.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Posizionate le alette su una teglia ricoperta con carta forno e aggiungete la cipolla tagliata in spicchi. Cuocete in forno statico a 200°C per 20 minuti, girate le alette e continuate la cottura, con le stesse modalità per altri 20 minuti. Intanto preparate la salsa, in un pentolino versate l’aceto di mele e la salsa di soia.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_7.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_8.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Continuate con il miele, i semi di sesamo e l’amido di mais. Mescolate per bene con una frusta.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_10.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_11.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Cuocete per 2 minuti, giusto il tempo di far addensare la salsa. Spennellate le alette con la salsa e cuocete in forno ventilato a 200°C per 10 minuti. Le alette di pollo glassate con salsa di soia sono pronte per essere gustate calde!",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_13.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_14.jpg",
+          "https://ricette.giallozafferano.it/images/ricette/298/29891/alette-di-pollo-glassate-con-salsa-di-soia_15.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Alette-di-pollo-glassate-con-salsa-di-soia.html",
+      "source_hash": "417bdc5c540684d5c033be5f52e14b4d747872d7d1a396e365e2776a245cf1a7",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-26T14:25:36.389022+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 5,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-26T14:25:36.389041+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/298-29891/Alette-di-pollo-glassate-con-salsa-di-soia_650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-26T14:26:15.269936+00:00"
+    }
+  },
+  {
+    "id": 152651084100868,
+    "name": "Petto d'anatra al balsamico",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Secondo",
+    "time": 40,
+    "ingredients_display": [
+      "Petto d'anatra (2 pezzi) 1 kg",
+      "Cipolle dorate 130 g",
+      "Aglio 2 spicchi",
+      "Rosmarino 3 rametti",
+      "Timo 4 rametti",
+      "Aceto balsamico 50 g",
+      "Miele 20 g",
+      "Acqua o brodo di verdure 150 g",
+      "Insalata misticanza 50 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Petto-d-anatra-al-balsamico.html",
+    "image_url": "https://www.giallozafferano.it/images/163-16399/Petto-d-anatra-al-balsamico_780x520_wm.jpg",
+    "servings": 6,
+    "kcal": 239.2,
+    "protein": null,
+    "carbs": 7.8,
+    "fats": 7.3,
+    "cost": null,
+    "ingredients": [
+      [
+        "Petto d'anatra (2 pezzi)",
+        1,
+        "kg"
+      ],
+      [
+        "Cipolle dorate",
+        130,
+        "g"
+      ],
+      [
+        "Aglio",
+        2,
+        "spicchi"
+      ],
+      [
+        "Rosmarino",
+        3,
+        "rametti"
+      ],
+      [
+        "Timo",
+        4,
+        "rametti"
+      ],
+      [
+        "Aceto balsamico",
+        50,
+        "g"
+      ],
+      [
+        "Miele",
+        20,
+        "g"
+      ],
+      [
+        "Acqua o brodo di verdure",
+        150,
+        "g"
+      ],
+      [
+        "Insalata misticanza",
+        50,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare il petto d'anatra al balsamico inanzittutto occorre privare il petto delle piume, sarà sufficiente estrarle con una pinzetta. A questo punto eliminate il grasso in eccesso aiutandovi con un coltello e procedete a fare dei tagli prima in senso obliquo",
+      "e poi in senso verticale. Ripetete la stessa operazione anche per l'altro petto, quindi salate e pepate da entrambi i lati.",
+      "Ponete sul fuoco un tegame e lasciatelo scaldare, quando sarà ben caldo adagiatevi i petti di anatra, dal lato della pelle. Passati 3-4 minuti girateli e lasciateli rosolare anche dall'altro lato. A questo punto unite la cipolla mondata tagliata a spicchi e l'aglio in camicia.",
+      "Aggiungete timo, rosmarino e sfumate con l'aceto balsamico. Lasciate evaporare leggermente e unite anche l'acqua (o se preferite il brodo vegetale).",
+      "Cuocete il petto d'anatra per una decina di minuti (dovrà rimanere rosato all'interno) quindi trasferitelo su un tagliere tenendo da parte il fondo di cottura, che andrete a versare in un colino. Filtrate il liquido schiacciando il composto con un cucchiaio direttamente nello stesso tegame dove avrete cotto il petto d'anatra.",
+      "Unite anche il miele e cuocete per 3-4 minuti in modo da ottenere una salsa. Nel frattempo affettate il petto d'anatra",
+      "e adagiate le fettine su un letto di misticanza. Ultimate il piatto con la salsina appena preparata e servite la vostra il vestro petto d'anatra al balsamico."
+    ],
+    "steps_raw": [
+      "Per preparare il petto d'anatra al balsamico inanzittutto occorre privare il petto delle piume, sarà sufficiente estrarle con una pinzetta 1 . A questo punto eliminate il grasso in eccesso aiutandovi con un coltello 2 e procedete a fare dei tagli prima in senso obliquo 3",
+      "e poi in senso verticale 4 . Ripetete la stessa operazione anche per l'altro petto, quindi salate 5 e pepate 6 da entrambi i lati.",
+      "Ponete sul fuoco un tegame e lasciatelo scaldare, quando sarà ben caldo adagiatevi i petti di anatra, dal lato della pelle 7 . Passati 3-4 minuti girateli 8 e lasciateli rosolare anche dall'altro lato. A questo punto unite la cipolla mondata tagliata a spicchi e l'aglio in camicia 9 .",
+      "Aggiungete timo, rosmarino 10 e sfumate con l'aceto balsamico 11 . Lasciate evaporare leggermente e unite anche l'acqua 12 (o se preferite il brodo vegetale).",
+      "Cuocete il petto d'anatra per una decina di minuti (dovrà rimanere rosato all'interno) quindi trasferitelo su un tagliere (13-14) tenendo da parte il fondo di cottura, che andrete a versare in un colino. Filtrate il liquido schiacciando il composto con un cucchiaio 15 direttamente nello stesso tegame dove avrete cotto il petto d'anatra.",
+      "Unite anche il miele 16 e cuocete per 3-4 minuti in modo da ottenere una salsa 17 . Nel frattempo affettate il petto d'anatra 18",
+      "e adagiate le fettine su un letto di misticanza 19 . Ultimate il piatto con la salsina appena preparata 20 e servite la vostra il vestro petto d'anatra al balsamico 21 ."
+    ],
+    "needs_review": false,
+    "source_category": "Secondi piatti",
+    "source_cost": "Medio",
+    "imported_at": "2026-11-26T14:25:32.584531+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Secondo",
+      "esito": "candidato",
+      "criterio": "categoria fonte: Secondi piatti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": true,
+      "reasons": [],
+      "type": "Secondo",
+      "tools": [
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "step_images": [
+      [
+        "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_1-3.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_4-6.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_7-9.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_10-12.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_13-15.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_16-18.jpg"
+      ],
+      [
+        "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_19-21.jpg"
+      ]
+    ],
+    "step_media_blocks": [
+      {
+        "text": "Per preparare il petto d'anatra al balsamico inanzittutto occorre privare il petto delle piume, sarà sufficiente estrarle con una pinzetta. A questo punto eliminate il grasso in eccesso aiutandovi con un coltello e procedete a fare dei tagli prima in senso obliquo",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_1-3.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "e poi in senso verticale. Ripetete la stessa operazione anche per l'altro petto, quindi salate e pepate da entrambi i lati.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_4-6.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Ponete sul fuoco un tegame e lasciatelo scaldare, quando sarà ben caldo adagiatevi i petti di anatra, dal lato della pelle. Passati 3-4 minuti girateli e lasciateli rosolare anche dall'altro lato. A questo punto unite la cipolla mondata tagliata a spicchi e l'aglio in camicia.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_7-9.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Aggiungete timo, rosmarino e sfumate con l'aceto balsamico. Lasciate evaporare leggermente e unite anche l'acqua (o se preferite il brodo vegetale).",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_10-12.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Cuocete il petto d'anatra per una decina di minuti (dovrà rimanere rosato all'interno) quindi trasferitelo su un tagliere tenendo da parte il fondo di cottura, che andrete a versare in un colino. Filtrate il liquido schiacciando il composto con un cucchiaio direttamente nello stesso tegame dove avrete cotto il petto d'anatra.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_13-15.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "Unite anche il miele e cuocete per 3-4 minuti in modo da ottenere una salsa. Nel frattempo affettate il petto d'anatra",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_16-18.jpg"
+        ],
+        "section": ""
+      },
+      {
+        "text": "e adagiate le fettine su un letto di misticanza. Ultimate il piatto con la salsina appena preparata e servite la vostra il vestro petto d'anatra al balsamico.",
+        "images": [
+          "https://ricette.giallozafferano.it/images/ricette/163/16399/16399_tagliata_danatra_strip_19-21.jpg"
+        ],
+        "section": ""
+      }
+    ],
+    "images_import_version": 12,
+    "media_extraction": {
+      "status": "complete",
+      "source_url": "https://ricette.giallozafferano.it/Petto-d-anatra-al-balsamico.html",
+      "source_hash": "7e6beeef7c8e72b7867ccdec584defdfda39f6c8d360a1d22523e1d0dea1f404",
+      "method": "jsonld-dom-blocks",
+      "checked_at": "2026-11-26T14:25:52.506769+00:00",
+      "existing_preserved": false,
+      "candidate_differs": false,
+      "updated": true,
+      "steps_filled": 7,
+      "effective_status": "complete",
+      "reason": null
+    },
+    "media_extraction_version": 12,
+    "step_images_checked_at": "2026-11-26T14:25:52.506791+00:00",
+    "copertina_verifica": {
+      "esito": "sostituita",
+      "precedente": "https://www.giallozafferano.it/images/ricette/163/16399/foto_hd/hd650x433_wm.jpg",
+      "motivo": "risoluzione_maggiore",
+      "verificata_il": "2026-11-26T14:26:15.269936+00:00"
+    }
+  },
+  {
+    "id": 240265987418683,
+    "name": "Alette di pollo",
+    "emoji": "🍽️",
+    "style": "Da classificare",
+    "type": "Da classificare",
+    "time": 85,
+    "ingredients_display": [
+      "Alette di pollo 9",
+      "Pangrattato 20 g",
+      "Farina integrale 60 g",
+      "Sale fino q.b.",
+      "Paprika q.b.",
+      "Olio extravergine d'oliva 50 g",
+      "Riso nero 150 g",
+      "Carote 100 g",
+      "Zucchine 100 g",
+      "Pisellini 100 g",
+      "Fave 100 g",
+      "Olio extravergine d'oliva 20 g",
+      "Ketchup 60 g"
+    ],
+    "source": "GialloZafferano",
+    "url": "https://ricette.giallozafferano.it/Alette-di-pollo-finto-fritto-al-forno.html",
+    "image_url": "https://www.giallozafferano.it/images/ricette/154/15461/foto_hd/hd650x433_wm.jpg",
+    "servings": 3,
+    "kcal": 706.8,
+    "protein": null,
+    "carbs": 74.2,
+    "fats": 35.5,
+    "cost": null,
+    "ingredients": [
+      [
+        "Alette di pollo",
+        9,
+        "pezzi"
+      ],
+      [
+        "Pangrattato",
+        20,
+        "g"
+      ],
+      [
+        "Farina integrale",
+        60,
+        "g"
+      ],
+      [
+        "Sale fino",
+        null,
+        "q.b."
+      ],
+      [
+        "Paprika",
+        null,
+        "q.b."
+      ],
+      [
+        "Olio extravergine d'oliva",
+        50,
+        "g"
+      ],
+      [
+        "Riso nero",
+        150,
+        "g"
+      ],
+      [
+        "Carote",
+        100,
+        "g"
+      ],
+      [
+        "Zucchine",
+        100,
+        "g"
+      ],
+      [
+        "Pisellini",
+        100,
+        "g"
+      ],
+      [
+        "Fave",
+        100,
+        "g"
+      ],
+      [
+        "Olio extravergine d'oliva",
+        20,
+        "g"
+      ],
+      [
+        "Ketchup",
+        60,
+        "g"
+      ]
+    ],
+    "steps": [
+      "Per preparare le alette di pollo \"finto fritto\" al forno potete iniziare dalla preparazione del contorno che richiederà più tempo. Potete iniziare dal riso nero: sciacquatelo sotto acqua corrente, quindi versatelo in un tegame capiente in cui avrete fatto bollire l'acqua (salata a piacere). Fate cuocere il riso per il tempo indicato sulla confezione (ci vorranno circa 20 minuti).",
+      "Quando sarà cotto scolatelo e lasciatelo raffreddare versandolo in una ciotola. Mentre il riso cuoce potete preparare le verdure: iniziate dalle fave: eliminate il filamento centrale poi spuntate un'estremità e aprite il baccello per sgranarlo: per questa operazione potete indossare dei guanti per uso alimentare per non sporcarvi le mani. Una volta terminato, lasciatele da parte!",
+      "Continuate sgranando i piselli; poi pelate e spuntate le carote, quindi tagliatele a bastoncini e poi a dadini di 5 mm di spessore. Lavate e spuntate anche le zucchine e tagliate anch'esse a dadini di 5 mm. Poi passate alla cottura: versate un filo d'olio in una padella ampia, fate scaldare e aggiungete le carote per prime 8; fatele cuocere 3-4 minuti a fuoco vivace, mescolando di tanto intanto, quindi aggiungete le fave e lasciate cuocere altri 3-4 minuti.",
+      "Unite poi le zucchine, saltate ancora per 3-4 minuti ed infine aggiungete i piselli. Continuate a saltare, abbassando leggermentela fiamma e mescolate di tanto intanto; proseguite la cottura fino a quando i piselli non saranno cotti.",
+      "Una volta pronte, spegnete il fuoco e tenete da parte in caldo. Poi potete dedicarvi alla panatura delle alette di pollo: in una ciotola versate la farina integrale quindi unite il pangrattato,",
+      "la paprika dolce e il sale. Mescolate bene il tutto e riponete la panatura aromatizzata in una ciotola bassa e ampia. Quindi spennellate accuratamente le alette di pollo, ben pulite, con dell'olio.",
+      "passatele nel composto di pangrattato avendo cura di impanarle per bene. Irrorate una padella capiente con l'olio, scaldatelo per poi adagiare le alette: scottatele da una parte e dall'altra per un paio di minuti.",
+      "Quando risulteranno leggermente rosolate, trasferitele in una teglia e passatele in forno statico preriscaldato a 190° per circa 15 minuti, in modo che si formi una croccante crosticina. Ora che le anche le alette sono pronte, potete impiattare: in una ciotolina versate il ketchup, poi in nei singoli piatti da portata disponete una o due alette di pollo, la ciotolina con il ketchup, le verdure e il riso: le vostre alette al forno \"finto fritto\" sono pronte per essere gustate!"
+    ],
+    "steps_raw": [
+      "Per preparare le alette di pollo \"finto fritto\" al forno potete iniziare dalla preparazione del contorno che richiederà più tempo. Potete iniziare dal riso nero: sciacquatelo sotto acqua corrente 1 , quindi versatelo in un tegame capiente in cui avrete fatto bollire l'acqua (salata a piacere) (2-3). Fate cuocere il riso per il tempo indicato sulla confezione (ci vorranno circa 20 minuti).",
+      "Quando sarà cotto scolatelo e lasciatelo raffreddare versandolo in una ciotola 4 . Mentre il riso cuoce potete preparare le verdure: iniziate dalle fave: eliminate il filamento centrale poi spuntate un'estremità e aprite il baccello per sgranarlo (5-6): per questa operazione potete indossare dei guanti per uso alimentare per non sporcarvi le mani. Una volta terminato, lasciatele da parte!",
+      "Continuate sgranando i piselli; poi pelate e spuntate le carote, quindi tagliatele a bastoncini e poi a dadini di 5 mm di spessore 7 . Lavate e spuntate anche le zucchine e tagliate anch'esse a dadini di 5 mm. Poi passate alla cottura: versate un filo d'olio in una padella ampia, fate scaldare e aggiungete le carote per prime 8 ; fatele cuocere 3-4 minuti a fuoco vivace, mescolando di tanto intanto, quindi aggiungete le fave 9 e lasciate cuocere altri 3-4 minuti.",
+      "Unite poi le zucchine, saltate ancora per 3-4 minuti ed infine aggiungete i piselli 11 . Continuate a saltare, abbassando leggermentela fiamma e mescolate di tanto intanto 12 ; proseguite la cottura fino a quando i piselli non saranno cotti.",
+      "Una volta pronte, spegnete il fuoco e tenete da parte in caldo 13 . Poi potete dedicarvi alla panatura delle alette di pollo: in una ciotola versate la farina integrale 14 quindi unite il pangrattato 15 ,",
+      "la paprika dolce e il sale 16 . Mescolate bene il tutto 17 e riponete la panatura aromatizzata in una ciotola bassa e ampia. Quindi spennellate accuratamente le alette di pollo, ben pulite, con dell'olio 18 .",
+      "passatele nel composto di pangrattato avendo cura di impanarle per bene 19 . Irrorate una padella capiente con l'olio, scaldatelo per poi adagiare le alette 20 : scottatele da una parte e dall'altra per un paio di minuti 21 .",
+      "Quando risulteranno leggermente rosolate, trasferitele in una teglia e passatele in forno statico preriscaldato a 190° per circa 15 minuti, in modo che si formi una croccante crosticina 22 . Ora che le anche le alette sono pronte, potete impiattare: in una ciotolina versate il ketchup 23 , poi in nei singoli piatti da portata disponete una o due alette di pollo, la ciotolina con il ketchup, le verdure e il riso: le vostre alette al forno \"finto fritto\" sono pronte per essere gustate 24 !"
+    ],
+    "needs_review": true,
+    "source_category": "Antipasti",
+    "source_cost": null,
+    "imported_at": "2026-11-26T14:25:35.274515+00:00",
+    "classificazione_automatica": {
+      "tipo_proposto": "Antipasto",
+      "esito": "escluso",
+      "criterio": "categoria fonte: Antipasti",
+      "porzioni_presenti": true,
+      "ingredienti_quantificati": true,
+      "procedimento_presente": true,
+      "dati_completi": true
+    },
+    "validazione_automatica": {
+      "approved": false,
+      "reasons": [
+        "non_candidato"
+      ],
+      "type": "Antipasto",
+      "tools": [
+        "Forno",
+        "Fornelli"
+      ],
+      "dietary_verified": [],
+      "allergen_verified": false,
+      "validation_version": 1
+    },
+    "esclusa_dal_piano": {
+      "tipo": "Antipasto",
+      "motivo": "categoria fonte: Antipasti"
+    }
   }
 ]
